@@ -9,7 +9,7 @@ if __name__ == "__main__":
     for episode in wwscripts:
         ''' episode format:
         {'episode': X, 'season': X,
-        'script': [{ CHARACTER: NAME, text: LINE_STRING }, ... ]
+        'script': [{ "character": NAME, "text": LINE_STRING }, ... ]
         }
         '''
         new_script = []
@@ -20,8 +20,11 @@ if __name__ == "__main__":
             if len(line) == 3 and line[0] == '':
                 new_script.append({
                     'character': line[1],
-                    'text': line[2]})
+                    'text': line[2].replace("\n", " ")})
 
-        new_wwscripts.append(new_script)
+        new_episode = {'episode': episode['episode'],
+                'season': episode['season'],
+                'script': new_script}
+        new_wwscripts.append(new_episode)
 
-pickle.dump(new_wwscripts, open("test_scripts.pkl", "wb"))
+    pickle.dump(new_wwscripts, open("test_scripts.pkl", "wb"))
