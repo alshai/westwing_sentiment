@@ -1,0 +1,16 @@
+parsing:
+for each line
+line[1] - the range of bytes, so extract the phrase and store that in the dictionary
+line[2] - agent, only care about agents
+line[3] - extract only the attributes that we care about
+
+{ phrase (length limited by n-gram count):
+	agent: ""
+	attrs: {}
+}
+
+training:
+n-gram HMM. 
+train using this set
+test on one or two episodes of The West Wing
+evaluate against our manual labeling

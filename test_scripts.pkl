@@ -1,0 +1,10758 @@
+(lp0
+(lp1
+(dp2
+S'text'
+p3
+VI know.
+p4
+sS'character'
+p5
+VSAM
+p6
+sa(dp7
+g3
+V[laughs] You're not going to come close to getting a quote, either.
+p8
+sg5
+VSAM
+p9
+sa(dp10
+g3
+VWhy are we sitting here?
+p11
+sg5
+VBILLY
+p12
+sa(dp13
+g3
+V[taking a drink] You sat down.
+p14
+sg5
+VSAM
+p15
+sa(dp16
+g3
+VIs Josh on his way out?
+p17
+sg5
+VBILLY
+p18
+sa(dp19
+g3
+VNo.
+p20
+sg5
+VSAM
+p21
+sa(dp22
+g3
+VIs he?
+p23
+sg5
+VBILLY
+p24
+sa(dp25
+g3
+VNo.
+p26
+sg5
+VSAM
+p27
+sa(dp28
+g3
+VI know he's your friend.
+p29
+sg5
+VBILLY
+p30
+sa(dp31
+g3
+VHe is.
+p32
+sg5
+VSAM
+p33
+sa(dp34
+g3
+VDid Caldwell say...?
+p35
+sg5
+VBILLY
+p36
+sa(dp37
+g3
+VBilly, I'm not talking about this.
+p38
+sg5
+VSAM
+p39
+sa(dp40
+g3
+VWho do I call?
+p41
+sg5
+VBILLY
+p42
+sa(dp43
+g3
+VNo one.
+p44
+sg5
+VSAM
+p45
+sa(dp46
+g3
+VJust tell me who to call.
+p47
+sg5
+VBILLY
+p48
+sa(dp49
+g3
+VWell, you could call 1-800-BITE-ME.
+p50
+sg5
+VSAM
+p51
+sa(dp52
+g3
+VSam.
+p53
+sg5
+VBILLY
+p54
+sa(dp55
+g3
+VHe's not going anywhere, Billy. It's a non-story.
+p56
+sg5
+VSAM
+p57
+sa(dp58
+g3
+VOkay. You're lying now, aren't you?
+p59
+sg5
+VBILLY
+p60
+sa(dp61
+g3
+VThat hurts, Billy. Why would I lie to a journalist of all people?
+p62
+sg5
+VSAM
+p63
+sa(dp64
+g3
+VWhy do you keep looking over my shoulder?
+p65
+sg5
+VBILLY
+p66
+sa(dp67
+g3
+VWhy?
+p68
+sg5
+VSAM
+p69
+sa(dp70
+g3
+VYes.
+p71
+sg5
+VBILLY
+p72
+sa(dp73
+g3
+V'Cause Alger Hiss just walked in with my secret pumpkin.
+p74
+sg5
+VSAM
+p75
+sa(dp76
+g3
+VWhat?
+p77
+sg5
+VBILLY
+p78
+sa(dp79
+g3
+VThere's a woman over there. I think she's looking at me.
+p80
+sg5
+VSAM
+p81
+sa(dp82
+g3
+VReally?
+p83
+sg5
+VBILLY
+p84
+sa(dp85
+g3
+VI don't know. I never know if they're looking or not.
+p86
+sg5
+VSAM
+p87
+sa(dp88
+g3
+VYeah, I think she was.
+p89
+sg5
+VBILLY
+p90
+sa(dp91
+g3
+VI want to thank you for the casual way that you did that just now. She probably\u000adidn't notice that.
+p92
+sg5
+VSAM
+p93
+sa(dp94
+g3
+VYou should call them.
+p95
+sg5
+VRUTH
+p96
+sa(dp97
+g3
+VI will call them.
+p98
+sg5
+VLEO
+p99
+sa(dp100
+g3
+VI'm in the shower.
+p101
+sg5
+VLEO
+p102
+sa(dp103
+g3
+V[sits down and picks up the phone] Yeah.
+p104
+sg5
+VLEO
+p105
+sa(dp106
+g3
+VYour beeper's going.
+p107
+sg5
+VMAN
+p108
+sa(dp109
+g3
+VWhat?
+p110
+sg5
+VC.J.
+p111
+sa(dp112
+g3
+VI think your beeper is going.
+p113
+sg5
+VMAN
+p114
+sa(dp115
+g3
+VYeah. This is Josh Lyman. What's going on?
+p116
+sg5
+VJOSH
+p117
+sa(dp118
+g3
+VYou know when you guys say that, it sounds ridiculous to most people, right?
+p119
+sg5
+VTOBY
+p120
+sa(dp121
+g3
+V[stops typing and looks up] You got it right. [reaches for his cell phone]
+p122
+sg5
+VTOBY
+p123
+sa(dp124
+g3
+VWe're flying in a Lockheed eagle series L-1011. It came off the line 20\u000amonths ago\u000aand carries a Sim-5 Transponder tracking system. Are you telling me I can still\u000aflummox this thing with something I bought at Radio Shack?
+p125
+sg5
+VTOBY
+p126
+sa(dp127
+g3
+V[calling as she walks away] Also, I never got my peanuts.
+p128
+sg5
+VTOBY
+p129
+sa(dp130
+g3
+VHow ya doing, Sam?
+p131
+sg5
+VLAURIE
+p132
+sa(dp133
+g3
+VI know.
+p134
+sg5
+VLAURIE
+p135
+sa(dp136
+g3
+V[walking out of the bathroom, having taken a shower] You could run hydraulics\u000ain here.
+p137
+sg5
+VSAM
+p138
+sa(dp139
+g3
+VWant some? [referring to pot]
+p140
+sg5
+VLAURIE
+p141
+sa(dp142
+g3
+VI'm fine.
+p143
+sg5
+VSAM
+p144
+sa(dp145
+g3
+VI'm wasted.
+p146
+sg5
+VLAURIE
+p147
+sa(dp148
+g3
+VAnd probably free of cataracts.
+p149
+sg5
+VSAM
+p150
+sa(dp151
+g3
+VI get that. That's funny.
+p152
+sg5
+VLAURIE
+p153
+sa(dp154
+g3
+VThank you.
+p155
+sg5
+VSAM
+p156
+sa(dp157
+g3
+VOh, wait. I'm sorry. Your message -- your pager went off while you were in the\u000ashower. I hit the button because I thought it was mine.
+p158
+sg5
+VLAURIE
+p159
+sa(dp160
+g3
+V'POTUS in a bicycle accident. Come to the office.'
+p161
+sg5
+VLAURIE
+p162
+sa(dp163
+g3
+V[slightly preoccupied] Um, Laurie, I to have to go.
+p164
+sg5
+VSAM
+p165
+sa(dp166
+g3
+VYou're kidding me. It's five thirty in the morning.
+p167
+sg5
+VLAURIE
+p168
+sa(dp169
+g3
+VI know this doesn't look good.
+p170
+sg5
+VSAM
+p171
+sa(dp172
+g3
+VNot that good. No.
+p173
+sg5
+VLAURIE
+p174
+sa(dp175
+g3
+VYou know what? I really like you. And if you give me your number, I'd like\u000ato call you.
+p176
+sg5
+VSAM
+p177
+sa(dp178
+g3
+VStay right here and save yourself a call.
+p179
+sg5
+VLAURIE
+p180
+sa(dp181
+g3
+VIt's not that I don't see the logic in that, but I really gotta go.
+p182
+sg5
+VSAM
+p183
+sa(dp184
+g3
+V'Cause POTUS was in a bicycle accident?
+p185
+sg5
+VLAURIE
+p186
+sa(dp187
+g3
+VYup.
+p188
+sg5
+VSAM
+p189
+sa(dp190
+g3
+V[writes her number on a piece of paper, grabs one of the beepers and puts\u000athem in\u000aSam's shirt pocket, while giving him a kiss] Tell your friend, POTUS, he's\u000agot a\u000afunny name. And he should learn how to ride a bicycle.
+p191
+sg5
+VLAURIE
+p192
+sa(dp193
+g3
+VI would, but he's not my friend, he's my boss; and it's not his name, it's\u000ahis title.
+p194
+sg5
+VSAM
+p195
+sa(dp196
+g3
+VPOTUS?
+p197
+sg5
+VLAURIE
+p198
+sa(dp199
+g3
+VPresident of the United States. I'll call you.
+p200
+sg5
+VSAM
+p201
+sa(dp202
+g3
+VIt's a nice morning, Mr. McGarry.
+p203
+sg5
+VMIKE
+p204
+sa(dp205
+g3
+VWe'll take care of that in a hurry. Won't we, Mike?
+p206
+sg5
+VLEO
+p207
+sa(dp208
+g3
+VYes, sir.
+p209
+sg5
+VMIKE
+p210
+sa(dp211
+g3
+VDon't kill the messenger, Leo. [hands him some papers]
+p212
+sg5
+VBONNIE
+p213
+sa(dp214
+g3
+VOh, why the hell not, Bonnie?
+p215
+sg5
+VLEO
+p216
+sa(dp217
+g3
+VFive minutes.
+p218
+sg5
+VBONNIE
+p219
+sa(dp220
+g3
+VPlease. [continues through JOSH'S BULLPEN AREA] Hey, Emma.
+p221
+sg5
+VLEO
+p222
+sa(dp223
+g3
+VMorning.
+p224
+sg5
+VEMMA
+p225
+sa(dp226
+g3
+VWilson.
+p227
+sg5
+VLEO
+p228
+sa(dp229
+g3
+VHey, Leo.
+p230
+sg5
+VWILSON
+p231
+sa(dp232
+g3
+VJoe.
+p233
+sg5
+VLEO
+p234
+sa(dp235
+g3
+VIt's Jeffrey.
+p236
+sg5
+VJEFFREY
+p237
+sa(dp238
+g3
+VWhatever.
+p239
+sg5
+VLEO
+p240
+sa(dp241
+g3
+V[calls] Josh!
+p242
+sg5
+VLEO
+p243
+sa(dp244
+g3
+VHey, Donna. Is he in yet?
+p245
+sg5
+VLEO
+p246
+sa(dp247
+g3
+V[stirring her coffee] Yeah.
+p248
+sg5
+VDONNA
+p249
+sa(dp250
+g3
+VCan you get him?
+p251
+sg5
+VLEO
+p252
+sa(dp253
+g3
+V[yells] Josh!
+p254
+sg5
+VDONNA
+p255
+sa(dp256
+g3
+VThanks.
+p257
+sg5
+VLEO
+p258
+sa(dp259
+g3
+VI heard it's broken.
+p260
+sg5
+VDONNA
+p261
+sa(dp262
+g3
+VYou heard wrong.
+p263
+sg5
+VLEO
+p264
+sa(dp265
+g3
+VI heard--
+p266
+sg5
+VDONNA
+p267
+sa(dp268
+g3
+VIt's a mild sprain. He'll be back later today.
+p269
+sg5
+VLEO
+p270
+sa(dp271
+g3
+VAnd what was the cause of the accident?
+p272
+sg5
+VDONNA
+p273
+sa(dp274
+g3
+VWhat are you, from State Farm? Go. Do a job, would ya?
+p275
+sg5
+VLEO
+p276
+sa(dp277
+g3
+VI'm just...
+p278
+sg5
+VDONNA
+p279
+sa(dp280
+g3
+VHe was swerving to avoid a tree.
+p281
+sg5
+VLEO
+p282
+sa(dp283
+g3
+VAnd what happened?
+p284
+sg5
+VDONNA
+p285
+sa(dp286
+g3
+VHe was unsuccessful.
+p287
+sg5
+VLEO
+p288
+sa(dp289
+g3
+V[talking on the phone] Yeah. That's fine. Just don't do anything until Justice.\u000aOkay, bye. [hangs up the phone] Hey.
+p290
+sg5
+VJOSH
+p291
+sa(dp292
+g3
+VHow many Cubans, exactly, have crammed themselves into these fishing boats?
+p293
+sg5
+VLEO
+p294
+sa(dp295
+g3
+VIt's important to understand, Leo, that by and large, these aren't fishing\u000aboats.\u000aYou hear fishing boats, you conjure an image of -- well, of a boat, first\u000aof all.\u000aWhat the Cubans are on would charitably be described as rafts. Okay? They're\u000amaking\u000athe hop from Havana to Miami in fruit baskets, basically. Let's just be\u000aclear on that.
+p296
+sg5
+VJOSH
+p297
+sa(dp298
+g3
+VWe are.
+p299
+sg5
+VLEO
+p300
+sa(dp301
+g3
+VDonna's desk, if it could float, would look good to them right now.
+p302
+sg5
+VJOSH
+p303
+sa(dp304
+g3
+VI get it. How many are there?
+p305
+sg5
+VLEO
+p306
+sa(dp307
+g3
+VWe don't know.
+p308
+sg5
+VJOSH
+p309
+sa(dp310
+g3
+VWhat time, exactly, did they leave?
+p311
+sg5
+VLEO
+p312
+sa(dp313
+g3
+VWe don't know.
+p314
+sg5
+VJOSH
+p315
+sa(dp316
+g3
+VDo we know when they get here?
+p317
+sg5
+VLEO
+p318
+sa(dp319
+g3
+VNo.
+p320
+sg5
+VJOSH
+p321
+sa(dp322
+g3
+VTrue or False: If I were to stand on high ground in Key West with a good\u000apair of\u000abinoculars, I would be as informed as I am right now.
+p323
+sg5
+VLEO
+p324
+sa(dp325
+g3
+VThat's true.
+p326
+sg5
+VJOSH
+p327
+sa(dp328
+g3
+VThe intelligence budget's money well spent, isn't it?
+p329
+sg5
+VLEO
+p330
+sa(dp331
+g3
+VTell them to send the Coast Guard, Leo.
+p332
+sg5
+VJOSH
+p333
+sa(dp334
+g3
+VThe Coast Guard won't...
+p335
+sg5
+VLEO
+p336
+sa(dp337
+g3
+VI understand! But, they're never going to make it to our territorial waters.
+p338
+sg5
+VJOSH
+p339
+sa(dp340
+g3
+VThank you.
+p341
+sg5
+VLEO
+p342
+sa(dp343
+g3
+VWhat if the D.A. suspected they had drugs?
+p344
+sg5
+VJOSH
+p345
+sa(dp346
+g3
+VDoes the D.A. suspect they have drugs?
+p347
+sg5
+VLEO
+p348
+sa(dp349
+g3
+VWe could make a phone call.
+p350
+sg5
+VJOSH
+p351
+sa(dp352
+g3
+VJosh!
+p353
+sg5
+VLEO
+p354
+sa(dp355
+g3
+VIf the D.A. or Navy Intel thought the Cubans were bringing in drugs,\u000awouldn't we\u000ahave to go out there and search those rafts with, you know, guns and blankets?
+p356
+sg5
+VJOSH
+p357
+sa(dp358
+g3
+VYou look like hell. You know that, don't you?
+p359
+sg5
+VLEO
+p360
+sa(dp361
+g3
+VYes. I do. Listen, Leo. Did he say anything?
+p362
+sg5
+VJOSH
+p363
+sa(dp364
+g3
+VDid he say anything?! The President's pissed as hell at you, Josh. And so am I.
+p365
+sg5
+VLEO
+p366
+sa(dp367
+g3
+V[sighs] I know.
+p368
+sg5
+VJOSH
+p369
+sa(dp370
+g3
+VYou gotta work with these people. And where the hell do you get off strutting\u000ayour...
+p371
+sg5
+VLEO
+p372
+sa(dp373
+g3
+VI know.
+p374
+sg5
+VJOSH
+p375
+sa(dp376
+g3
+VAl Caldwell is a good man.
+p377
+sg5
+VLEO
+p378
+sa(dp379
+g3
+VAl Caldwell wasn't there.
+p380
+sg5
+VJOSH
+p381
+sa(dp382
+g3
+VI'm saying, you take everyone on the Christian Right, dump them into one\u000abig pile,\u000aand label them 'stupid'. We need these people.
+p383
+sg5
+VLEO
+p384
+sa(dp385
+g3
+VWe do not need these people.
+p386
+sg5
+VJOSH
+p387
+sa(dp388
+g3
+VJosh.
+p389
+sg5
+VLEO
+p390
+sa(dp391
+g3
+VWe need Al Caldwell. We want Al Caldwell. We do not need John Van Dyke. And\u000awe do\u000anot need Mary Marsh.
+p392
+sg5
+VJOSH
+p393
+sa(dp394
+g3
+VAnd I think there shouldn't be instant replay in football, but that' s not\u000amy call,\u000anow, is it?
+p395
+sg5
+VLEO
+p396
+sa(dp397
+g3
+V[stops walking, while Leo continues on] It was stupid.
+p398
+sg5
+VJOSH
+p399
+sa(dp400
+g3
+VDamn straight.
+p401
+sg5
+VLEO
+p402
+sa(dp403
+g3
+VI was right, though.
+p404
+sg5
+VJOSH
+p405
+sa(dp406
+g3
+V[talking to himself] Like I don't know that.
+p407
+sg5
+VLEO
+p408
+sa(dp409
+g3
+VYup.
+p410
+sg5
+VLEO
+p411
+sa(dp412
+g3
+VA $4,000 Lynex Titanium touring bike that I swore I'd never lend anyone.
+p413
+sg5
+VLEO
+p414
+sa(dp415
+g3
+VHe's a klutz, Mrs. Landingham. Your President's a geek.
+p416
+sg5
+VLEO
+p417
+sa(dp418
+g3
+VI apologize.
+p419
+sg5
+VLEO
+p420
+sa(dp421
+g3
+VYes. [walks out of the Oval Office and sees Bonnie] Oh, Bonnie. Call\u000aO.E.O.B. and\u000aset up a briefing for the Vice President. Let's coordinate with Katie\u000aSimon's office\u000aon the appointments.
+p422
+sg5
+VLEO
+p423
+sa(dp424
+g3
+VShould I get everybody in?
+p425
+sg5
+VBONNIE
+p426
+sa(dp427
+g3
+VYeah! [He walks into his office.] Margaret. Please call the editor of the\u000aNew York\u000aTimes crossword and tell him that 'Khaddafi' is spelled with an h, and two\u000ad's, and\u000aisn't a seven letter word for anything.
+p428
+sg5
+VLEO
+p429
+sa(dp430
+g3
+VIs this for real? Or is this just funny?
+p431
+sg5
+VMARGARET
+p432
+sa(dp433
+g3
+VApparently, it's neither.
+p434
+sg5
+VLEO
+p435
+sa(dp436
+g3
+VIs there anything I can say, other than the President rode his bicycle into\u000aa tree?
+p437
+sg5
+VC.J.
+p438
+sa(dp439
+g3
+VHe hopes never to do it again.
+p440
+sg5
+VLEO
+p441
+sa(dp442
+g3
+VSeriously. They're laughing pretty hard.
+p443
+sg5
+VC.J.
+p444
+sa(dp445
+g3
+VHe rode his bicycle into a tree, C.J.. What do you want me to -- 'The\u000aPresident,\u000awhile riding a bicycle on his vacation in Jackson Hole, came to a sudden\u000aarboreal\u000astop' -- What do you want from me?
+p446
+sg5
+VLEO
+p447
+sa(dp448
+g3
+VA little love, Leo.
+p449
+sg5
+VC.J.
+p450
+sa(dp451
+g3
+V[to Sam] What do you know about the Cubans?
+p452
+sg5
+VLEO
+p453
+sa(dp454
+g3
+VI don't know anymore than Josh. Somewhere between 1200 and 2000 Cubans began\u000aembarking from a fishing village 30 miles South of Havana.
+p455
+sg5
+VSAM
+p456
+sa(dp457
+g3
+VWhere are they headed?
+p458
+sg5
+VSTAFFER
+p459
+sa(dp460
+g3
+VVegas.
+p461
+sg5
+VJOSH
+p462
+sa(dp463
+g3
+VMiami. Though, it's not clear how sophisticated their navigation equipment is.
+p464
+sg5
+VSAM
+p465
+sa(dp466
+g3
+VNavigational equipment? That way is North, I think is pretty...
+p467
+sg5
+VJOSH
+p468
+sa(dp469
+g3
+VJosh.
+p470
+sg5
+VC.J.
+p471
+sa(dp472
+g3
+VC.J., if one of these guys could throw a split fingered fastball, we'd send\u000ain the\u000aUSS Eisenhower.
+p473
+sg5
+VJOSH
+p474
+sa(dp475
+g3
+VThat's not entirely true.
+p476
+sg5
+VC.J.
+p477
+sa(dp478
+g3
+VOh, for God's sake. Forget about the journey. Okay? The voyage is not our\u000aproblem.
+p479
+sg5
+VTOBY
+p480
+sa(dp481
+g3
+VWhat's our problem?
+p482
+sg5
+VC.J.
+p483
+sa(dp484
+g3
+VWhat to do when the Nina, the Pinta, and the Get-Me-The-Hell-Outta-Here\u000ahit Miami.
+p485
+sg5
+VTOBY
+p486
+sa(dp487
+g3
+VSam?
+p488
+sg5
+VLEO
+p489
+sa(dp490
+g3
+VCan't send them back. They'll go to jail, if they're lucky.
+p491
+sg5
+VSAM
+p492
+sa(dp493
+g3
+VWe'll get whacked in what? At least...
+p494
+sg5
+VTOBY
+p495
+sa(dp496
+g3
+VThree congressional districts. Dade County.
+p497
+sg5
+VSAM
+p498
+sa(dp499
+g3
+VThose seats are gone.
+p500
+sg5
+VTOBY
+p501
+sa(dp502
+g3
+VNot to mention the fact that it's wrong.
+p503
+sg5
+VJOSH
+p504
+sa(dp505
+g3
+VPlus that.
+p506
+sg5
+VSAM
+p507
+sa(dp508
+g3
+VWhat about Texas?
+p509
+sg5
+VJOSH
+p510
+sa(dp511
+g3
+VI wouldn't worry about it.
+p512
+sg5
+VSAM
+p513
+sa(dp514
+g3
+VKeep Josh in the loop on this throughout the day.
+p515
+sg5
+VLEO
+p516
+sa(dp517
+g3
+VMe?
+p518
+sg5
+VSAM
+p519
+sa(dp520
+g3
+VYeah.
+p521
+sg5
+VLEO
+p522
+sa(dp523
+g3
+VThe thing is, my day is a little tight...
+p524
+sg5
+VSAM
+p525
+sa(dp526
+g3
+VDeal with it.
+p527
+sg5
+VTOBY
+p528
+sa(dp529
+g3
+VAnd I'm happy to. It's just that...
+p530
+sg5
+VSAM
+p531
+sa(dp532
+g3
+VSam.
+p533
+sg5
+VLEO
+p534
+sa(dp535
+g3
+VI'm just saying, isn't this more of a military area?
+p536
+sg5
+VSAM
+p537
+sa(dp538
+g3
+VMilitary?
+p539
+sg5
+VLEO
+p540
+sa(dp541
+g3
+VYeah.
+p542
+sg5
+VSAM
+p543
+sa(dp544
+g3
+VYou think the United States is under attack from 1200 Cubans in rowboats?
+p545
+sg5
+VTOBY
+p546
+sa(dp547
+g3
+VI'm not saying I don't like our chances.
+p548
+sg5
+VSAM
+p549
+sa(dp550
+g3
+VMind-boggling to me that we ever won an election.
+p551
+sg5
+VTOBY
+p552
+sa(dp553
+g3
+VPat Thomas wants to call up the Guard.
+p554
+sg5
+VLEO
+p555
+sa(dp556
+g3
+VHe shouldn't.
+p557
+sg5
+VJOSH
+p558
+sa(dp559
+g3
+VHe's right.
+p560
+sg5
+VSAM
+p561
+sa(dp562
+g3
+VYou send in the Guard, you create a panic situation.
+p563
+sg5
+VC.J.
+p564
+sa(dp565
+g3
+VI agree with Josh. And I agree with C.J.. And I agree with Sam. And you\u000aknow how\u000athat makes me crazy.
+p566
+sg5
+VTOBY
+p567
+sa(dp568
+g3
+VYeah...
+p569
+sg5
+VLEO
+p570
+sa(dp571
+g3
+VThey're running for their lives. You don't have to start a game of Red\u000aRover with\u000aCastro. But you don't send in the National Guard. You send food and you\u000asend doctors.
+p572
+sg5
+VTOBY
+p573
+sa(dp574
+g3
+VSam, see that I.N.S. is working with the Red Cross and the Centers for\u000aDisease Control.
+p575
+sg5
+VJOSH
+p576
+sa(dp577
+g3
+VI've got my guy from CDC on the phone right...
+p578
+sg5
+VSAM
+p579
+sa(dp580
+g3
+VGo. Talk to him.
+p581
+sg5
+VLEO
+p582
+sa(dp583
+g3
+VTalk to him. [leaves]
+p584
+sg5
+VSAM
+p585
+sa(dp586
+g3
+VMoving on. Let's talk about Josh.
+p587
+sg5
+VLEO
+p588
+sa(dp589
+g3
+VAl Caldwell scares the hell out of the President, and Josh knows it.
+p590
+sg5
+VBILLY
+p591
+sa(dp592
+g3
+VHe's not going to fire him.
+p593
+sg5
+VWOMAN
+p594
+sa(dp595
+g3
+VHe's got no choice.
+p596
+sg5
+VBILLY
+p597
+sa(dp598
+g3
+VBilly, the President's not going to fire Josh Lyman.
+p599
+sg5
+VWOMAN
+p600
+sa(dp601
+g3
+VHe doesn't have a choice.
+p602
+sg5
+VBILLY
+p603
+sa(dp604
+g3
+V[continuing] Listen, I had drinks with Sam Seaborn last night.
+p605
+sg5
+VBILLY
+p606
+sa(dp607
+g3
+VAnd Sam said that the President was going to fire Josh?
+p608
+sg5
+VWOMAN
+p609
+sa(dp610
+g3
+VHe needs these people. He's going to have to give them Josh.
+p611
+sg5
+VBILLY
+p612
+sa(dp613
+g3
+V[walks to the podium and begins to address The White House Press Corps]\u000aFolks? Folks?
+p614
+sg5
+VC.J.
+p615
+sa(dp616
+g3
+VBilly, what do you think if he just--
+p617
+sg5
+VWOMAN
+p618
+sa(dp619
+g3
+VHe doesn't have a choice.
+p620
+sg5
+VBILLY
+p621
+sa(dp622
+g3
+VGood morning. Dr. Randall Haymen, H-A-Y-M-E-N, chief of orthopedics at\u000aSt. John's\u000aHospital has diagnosed the President with a mild sprain in his left ankle\u000asustained\u000awhile cycling into a large cyprus tree.
+p623
+sg5
+VC.J.
+p624
+sa(dp625
+g3
+VDetails can be found in the full report that Linda and Susanne are\u000adistributing.\u000aAlong with pool photographs of the President resisting help from a Secret\u000aService\u000aagent, then falling down again. By all means, enjoy yourselves. Item\u000anumber two.
+p626
+sg5
+VC.J.
+p627
+sa(dp628
+g3
+VC.J., has the President...?
+p629
+sg5
+VCHRIS
+p630
+sa(dp631
+g3
+VIt's a light day, Chris. Let's just get through this, then I'll take a couple\u000aquestions. Item number two, the Association of Retired...
+p632
+sg5
+VC.J.
+p633
+sa(dp634
+g3
+V[enters the office, holding a coffee mug] You shouldn't have worn that tie on\u000atelevision. It bleeds.
+p635
+sg5
+VDONNA
+p636
+sa(dp637
+g3
+VI don't think it was the tie that got me in trouble.
+p638
+sg5
+VJOSH
+p639
+sa(dp640
+g3
+VNo, but I've told you a zillion times.
+p641
+sg5
+VDONNA
+p642
+sa(dp643
+g3
+VWhat's that?
+p644
+sg5
+VJOSH
+p645
+sa(dp646
+g3
+VIt's coffee.
+p647
+sg5
+VDONNA
+p648
+sa(dp649
+g3
+VThought so.
+p650
+sg5
+VJOSH
+p651
+sa(dp652
+g3
+VI brought you some coffee.
+p653
+sg5
+VDONNA
+p654
+sa(dp655
+g3
+VWhat's going on, Donna?
+p656
+sg5
+VJOSH
+p657
+sa(dp658
+g3
+VNothing's going on.
+p659
+sg5
+VDONNA
+p660
+sa(dp661
+g3
+VDonna.
+p662
+sg5
+VJOSH
+p663
+sa(dp664
+g3
+VI brought you some coffee.
+p665
+sg5
+VDONNA
+p666
+sa(dp667
+g3
+VClose the door. [Donna sets the coffee on his desk and closes the door.]\u000aDonnatella Moss, when did you start working for me?
+p668
+sg5
+VJOSH
+p669
+sa(dp670
+g3
+VUm, during the campaign.
+p671
+sg5
+VDONNA
+p672
+sa(dp673
+g3
+VAnd how long have you been my assistant?
+p674
+sg5
+VJOSH
+p675
+sa(dp676
+g3
+VA year and a half.
+p677
+sg5
+VDONNA
+p678
+sa(dp679
+g3
+VAnd when was the last time you brought me a cup of coffee? [beat] It was never.\u000aYou've never brought me a cup of coffee.
+p680
+sg5
+VJOSH
+p681
+sa(dp682
+g3
+VWell, if you're going to make a big deal out of it...
+p683
+sg5
+VDONNA
+p684
+sa(dp685
+g3
+VDonna. If I get fired, I get fired.
+p686
+sg5
+VJOSH
+p687
+sa(dp688
+g3
+VDo you think he's going to do it?
+p689
+sg5
+VDONNA
+p690
+sa(dp691
+g3
+V[beat] No.
+p692
+sg5
+VJOSH
+p693
+sa(dp694
+g3
+VYou won that election for him. You, and Leo, and C.J., and Sam.
+p695
+sg5
+VDONNA
+p696
+sa(dp697
+g3
+V[whispering] And him. [opens the door to reveal Toby and walks out of\u000athe office]
+p698
+sg5
+VDONNA
+p699
+sa(dp700
+g3
+VThanks for the coffee.
+p701
+sg5
+VJOSH
+p702
+sa(dp703
+g3
+VYou're welcome.
+p704
+sg5
+VDONNA
+p705
+sa(dp706
+g3
+VDonna brought you coffee?
+p707
+sg5
+VTOBY
+p708
+sa(dp709
+g3
+V'Sup?
+p710
+sg5
+VJOSH
+p711
+sa(dp712
+g3
+V[shutting the door] What did I tell you before you went on the air yesterday?
+p713
+sg5
+VTOBY
+p714
+sa(dp715
+g3
+VYou said, 'don't get cute with Mary Marsh.'
+p716
+sg5
+VJOSH
+p717
+sa(dp718
+g3
+VI said, 'don't get cute with Mary Marsh.' I said Al Caldwell is not to\u000abe treated\u000alike some revival tent clown.
+p719
+sg5
+VTOBY
+p720
+sa(dp721
+g3
+VAl Caldwell wasn't there.
+p722
+sg5
+VJOSH
+p723
+sa(dp724
+g3
+VHe sure as hell was watching.
+p725
+sg5
+VTOBY
+p726
+sa(dp727
+g3
+VLook, I already took Leo's morning beating. What do you want?
+p728
+sg5
+VJOSH
+p729
+sa(dp730
+g3
+VI want you to keep your job.
+p731
+sg5
+VTOBY
+p732
+sa(dp733
+g3
+V[beat] How?
+p734
+sg5
+VJOSH
+p735
+sa(dp736
+g3
+VI'm going to make a suggestion, which might help you out. But I don't want this\u000agesture to be mistaken for an indication that I like you.
+p737
+sg5
+VTOBY
+p738
+sa(dp739
+g3
+VI understand.
+p740
+sg5
+VJOSH
+p741
+sa(dp742
+g3
+VIn preparation for the Sunday morning radio address on family values...
+p743
+sg5
+VTOBY
+p744
+sa(dp745
+g3
+VWhen did that get on the schedule?
+p746
+sg5
+VJOSH
+p747
+sa(dp748
+g3
+VListen to me for a second...
+p749
+sg5
+VTOBY
+p750
+sa(dp751
+g3
+VWhen did it get on the schedule?
+p752
+sg5
+VJOSH
+p753
+sa(dp754
+g3
+VIt's the regular Sunday morning...
+p755
+sg5
+VTOBY
+p756
+sa(dp757
+g3
+V[raising his voice] Yeah, but when did we schedule family values?
+p758
+sg5
+VJOSH
+p759
+sa(dp760
+g3
+VWe scheduled it, Josh, after your smug, taunting, you know, calamitous\u000aperformance\u000aon 'Capitol Beat.' [beat] America for better families. The AAF and Al Caldwell.\u000aMary Marsh. I've invited them all for coffee this afternoon, along with\u000aa couple\u000aof speechwriters to talk about...
+p761
+sg5
+VTOBY
+p762
+sa(dp763
+g3
+VWhat they want to hear.
+p764
+sg5
+VJOSH
+p765
+sa(dp766
+g3
+VYes. Yes, sir.
+p767
+sg5
+VTOBY
+p768
+sa(dp769
+g3
+VIf you listen carefully, you can hear two centuries of Presidents rolling\u000aover in\u000atheir graves.
+p770
+sg5
+VJOSH
+p771
+sa(dp772
+g3
+VCome to the meeting.
+p773
+sg5
+VTOBY
+p774
+sa(dp775
+g3
+VNo!
+p776
+sg5
+VJOSH
+p777
+sa(dp778
+g3
+VCome to the meeting and be nice.
+p779
+sg5
+VTOBY
+p780
+sa(dp781
+g3
+VWhy?
+p782
+sg5
+VJOSH
+p783
+sa(dp784
+g3
+VSo C.J. can put it in the papers...
+p785
+sg5
+VTOBY
+p786
+sa(dp787
+g3
+V[raising his voice] Al Caldwell is friends with bad people! I think he\u000ashould say\u000aso for the common good. Screw politics! How about that?
+p788
+sg5
+VJOSH
+p789
+sa(dp790
+g3
+V[raising his voice] You don't run social policy for this government. How\u000a'bout that!
+p791
+sg5
+VTOBY
+p792
+sa(dp793
+g3
+VToby!
+p794
+sg5
+VJOSH
+p795
+sa(dp796
+g3
+VI'm in charge of the message around here. It's my job to tell the President\u000athat\u000athe best thing he could do, from a PR standpoint, is to show you the\u000adoor. [beat]\u000aCome to the meeting. Be nice. Keep your job.
+p797
+sg5
+VTOBY
+p798
+sa(dp799
+g3
+V[softly] I'll be there.
+p800
+sg5
+VJOSH
+p801
+sa(dp802
+g3
+V[remembering] Oh, take a look at this. [hands Josh a newspaper clipping]
+p803
+sg5
+VTOBY
+p804
+sa(dp805
+g3
+VWhat's that?
+p806
+sg5
+VJOSH
+p807
+sa(dp808
+g3
+VOne of the kids from the newsroom clipped that from the Journal this morning.\u000aGuess who's leaving Lennox-Chase to start consulting in town? She's leasing\u000aoffices downtown. She starts today.
+p809
+sg5
+VTOBY
+p810
+sa(dp811
+g3
+VWho's she working for?
+p812
+sg5
+VJOSH
+p813
+sa(dp814
+g3
+V[smiles] I'm checking it out.
+p815
+sg5
+VTOBY
+p816
+sa(dp817
+g3
+V[to himself] That's a good picture of her.
+p818
+sg5
+VJOSH
+p819
+sa(dp820
+g3
+V[on the phone] Bruce? Bruce? Bruce! I may have just gotten back into the\u000abusiness\u000athis morning, but I didn't come by way of a turnip truck, you know what\u000aI'm saying?\u000a[pause] You jerk me around on this, and I'm going to get cranky right in\u000ayour face.\u000aNow, I was your source on 443. Big, fat byline. Above the fold. So, I\u000athink it's\u000atime to play 'What have you done for me lately.' Look, I don't want to\u000ahear you're\u000agoing to try, Bruce. This isn't gym class.
+p821
+sg5
+VMANDY
+p822
+sa(dp823
+g3
+V[on the phone] I said, gym class. Gym class! [pulls her car to the side of\u000athe road\u000aand stops, still talking to Bruce.] Bruce, Bruce! 'Cause it's important in\u000agym to\u000atry, but it is not necessarily- Look, Bruce. It was a simple metaphor. Now\u000alisten\u000aup! Now, you're misinterpreting me and you're misinterpreting the Senator. And\u000ait's\u000abush league for the party. And it's beneath even you're newspaper.
+p824
+sg5
+VMANDY
+p825
+sa(dp826
+g3
+V[turns away, still on the phone] Come on. Bruce, please. You huckling me out,\u000aI just\u000awanna make you cry like a girl.
+p827
+sg5
+VMANDY
+p828
+sa(dp829
+g3
+VListen, I'm under arrest. I'm going to have to call you back, Bruce.
+p830
+sg5
+VMANDY
+p831
+sa(dp832
+g3
+VA two and a half percent in the third quarter at the end of the fiscal year.
+p833
+sg5
+VFRED
+p834
+sa(dp835
+g3
+VThat's fine, but the President's gonna look at the WBO revenue analysis and say\u000athat economists were put on this planet to make astrologers look good.
+p836
+sg5
+VLEO
+p837
+sa(dp838
+g3
+VLeo...
+p839
+sg5
+VFRED
+p840
+sa(dp841
+g3
+VLuther. Ballpark. One year from today. Where's the Dow?
+p842
+sg5
+VLEO
+p843
+sa(dp844
+g3
+VTremendous. Up a thousand.
+p845
+sg5
+VLUTHER
+p846
+sa(dp847
+g3
+VFred. One year from today.
+p848
+sg5
+VLEO
+p849
+sa(dp850
+g3
+VNot good. Down a thousand.
+p851
+sg5
+VFRED
+p852
+sa(dp853
+g3
+VA year from today at least one of you is gonna look pretty stupid.
+p854
+sg5
+VLEO
+p855
+sa(dp856
+g3
+VCan we go now?
+p857
+sg5
+VLUTHER
+p858
+sa(dp859
+g3
+VOh, go. Get out. [The economists all leave.]
+p860
+sg5
+VLEO
+p861
+sa(dp862
+g3
+V[walks in] There's a storm system moving into the South Florida area.
+p863
+sg5
+VSAM
+p864
+sa(dp865
+g3
+VSee, with any luck the Cubans'll turn around and live to defect another day.
+p866
+sg5
+VLEO
+p867
+sa(dp868
+g3
+VYeah, 'cause they're probably all tuned to the National Weather Service,\u000abut that's\u000anot what I'm here for.
+p869
+sg5
+VJOSH
+p870
+sa(dp871
+g3
+VWhat's on your mind?
+p872
+sg5
+VLEO
+p873
+sa(dp874
+g3
+VWe've gotta look at the whole field for a minute, 'cause I think we're about to\u000aget tagged.
+p875
+sg5
+VJOSH
+p876
+sa(dp877
+g3
+VWith regard to what?
+p878
+sg5
+VLEO
+p879
+sa(dp880
+g3
+VRe-election.
+p881
+sg5
+VJOSH
+p882
+sa(dp883
+g3
+VOh, we're not there.
+p884
+sg5
+VLEO
+p885
+sa(dp886
+g3
+VDon't let Lloyd Russell push us around on Medicare or medium range missiles.
+p887
+sg5
+VJOSH
+p888
+sa(dp889
+g3
+VYou're taking Lloyd Russell too seriously.
+p890
+sg5
+VLEO
+p891
+sa(dp892
+g3
+VHis numbers are starting to get interesting.
+p893
+sg5
+VSAM
+p894
+sa(dp895
+g3
+VHollywood likes him. He can raise money.
+p896
+sg5
+VJOSH
+p897
+sa(dp898
+g3
+VWe're not there yet.
+p899
+sg5
+VLEO
+p900
+sa(dp901
+g3
+V30 second hypothetical: You're Lloyd Russell, newly crowned prince of the White\u000asuburban woman, the upper middle class Black man and teacher's union. You're no\u000afriend to the sitting President. What do you do?
+p902
+sg5
+VJOSH
+p903
+sa(dp904
+g3
+VPut together an exploratory committee.
+p905
+sg5
+VLEO
+p906
+sa(dp907
+g3
+VAnd who do you get to run it?
+p908
+sg5
+VJOSH
+p909
+sa(dp910
+g3
+VYou.
+p911
+sg5
+VLEO
+p912
+sa(dp913
+g3
+VI already got a job.
+p914
+sg5
+VJOSH
+p915
+sa(dp916
+g3
+VFor the moment.
+p917
+sg5
+VLEO
+p918
+sa(dp919
+g3
+VWho do you get?
+p920
+sg5
+VJOSH
+p921
+sa(dp922
+g3
+VWell, if I could get Mandy to leave 900,000 a year at Lennox-Chase, I'd\u000aget Mandy.
+p923
+sg5
+VLEO
+p924
+sa(dp925
+g3
+VYou'd be smart.
+p926
+sg5
+VJOSH
+p927
+sa(dp928
+g3
+V[to Sam] Hey, come to think of it, you think she'd be interested in his job?
+p929
+sg5
+VLEO
+p930
+sa(dp931
+g3
+VYou're in luck.
+p932
+sg5
+VJOSH
+p933
+sa(dp934
+g3
+VShe's in town?
+p935
+sg5
+VLEO
+p936
+sa(dp937
+g3
+VJust got here today.
+p938
+sg5
+VJOSH
+p939
+sa(dp940
+g3
+VWhat she doing?
+p941
+sg5
+VLEO
+p942
+sa(dp943
+g3
+VWorking for Lloyd Russell.
+p944
+sg5
+VJOSH
+p945
+sa(dp946
+g3
+V[digests the new information then calls] Margaret! Get me Senator Russell's\u000aoffice\u000aon the phone.
+p947
+sg5
+VLEO
+p948
+sa(dp949
+g3
+VIs that the same suit you wore yesterday?
+p950
+sg5
+VSAM
+p951
+sa(dp952
+g3
+VYeah. [beat] You?
+p953
+sg5
+VJOSH
+p954
+sa(dp955
+g3
+VYeah.
+p956
+sg5
+VSAM
+p957
+sa(dp958
+g3
+VSure. [nodding over with his head as he writes] This is Mandy Hampton. She's\u000aexcellent, too.
+p959
+sg5
+VJOSH
+p960
+sa(dp961
+g3
+VShe used to steal money from me.
+p962
+sg5
+VJOSH
+p963
+sa(dp964
+g3
+VYeah. Thanks a lot for stopping by.
+p965
+sg5
+VJOSH
+p966
+sa(dp967
+g3
+VThanks.
+p968
+sg5
+VSTUDENTS
+p969
+sa(dp970
+g3
+VSure.
+p971
+sg5
+VJOSH
+p972
+sa(dp973
+g3
+VBye.
+p974
+sg5
+VSTUDENTS
+p975
+sa(dp976
+g3
+VSee ya. [The students leave.]
+p977
+sg5
+VJOSH
+p978
+sa(dp979
+g3
+VListen. You called me. What do you wanna know? Is Lloyd gonna run?
+p980
+sg5
+VMANDY
+p981
+sa(dp982
+g3
+VI really don't care one way or the other. He's a lightweight. I just...
+p983
+sg5
+VJOSH
+p984
+sa(dp985
+g3
+VYou don't like him.
+p986
+sg5
+VMANDY
+p987
+sa(dp988
+g3
+VNot when I can't use him. No. I just wanna know how much trouble he's gonna\u000abe on\u000athe budget surplus.
+p989
+sg5
+VJOSH
+p990
+sa(dp991
+g3
+VYou should get to know him.
+p992
+sg5
+VMANDY
+p993
+sa(dp994
+g3
+VI have enough friends.
+p995
+sg5
+VJOSH
+p996
+sa(dp997
+g3
+VNot these days you don't.
+p998
+sg5
+VMANDY
+p999
+sa(dp1000
+g3
+VPlease, Mandy. It's not like these people were in our camp to begin with.
+p1001
+sg5
+VJOSH
+p1002
+sa(dp1003
+g3
+VThat's right, Josh, and they've been waiting for you to trip over your\u000amouth and\u000ayou handed it to them. It's Christmas morning for Mary Marsh. [pause] You're a\u000aFulbright Scholar, are you honestly the only adult in America who doesn't think\u000ayou're about to be fired? Do what Toby's telling you to do.
+p1004
+sg5
+VMANDY
+p1005
+sa(dp1006
+g3
+VDid you just call him Lloyd?
+p1007
+sg5
+VJOSH
+p1008
+sa(dp1009
+g3
+VWho?
+p1010
+sg5
+VMANDY
+p1011
+sa(dp1012
+g3
+VSenator Russell.
+p1013
+sg5
+VJOSH
+p1014
+sa(dp1015
+g3
+VWhen?
+p1016
+sg5
+VMANDY
+p1017
+sa(dp1018
+g3
+VA minute ago. You said "What do you wanna know? Is-is Lloyd gonna run"?
+p1019
+sg5
+VJOSH
+p1020
+sa(dp1021
+g3
+VI don't remember. What does it...?
+p1022
+sg5
+VMANDY
+p1023
+sa(dp1024
+g3
+VIt's unusual for you that you would call a Senator by his first name to a\u000athird party.
+p1025
+sg5
+VJOSH
+p1026
+sa(dp1027
+g3
+VA third party?
+p1028
+sg5
+VMANDY
+p1029
+sa(dp1030
+g3
+VYou know what I'm saying.
+p1031
+sg5
+VJOSH
+p1032
+sa(dp1033
+g3
+VNo, but as long as one of us does...
+p1034
+sg5
+VMANDY
+p1035
+sa(dp1036
+g3
+VYou're dating Lloyd Russell.
+p1037
+sg5
+VJOSH
+p1038
+sa(dp1039
+g3
+VYes.
+p1040
+sg5
+VMANDY
+p1041
+sa(dp1042
+g3
+V[pause] Wow. That's great.
+p1043
+sg5
+VJOSH
+p1044
+sa(dp1045
+g3
+VAre you gonna freak out?
+p1046
+sg5
+VMANDY
+p1047
+sa(dp1048
+g3
+VNo, no, no. Not at all. It's just -- I always thought he was gay.
+p1049
+sg5
+VJOSH
+p1050
+sa(dp1051
+g3
+VNo you didn't.
+p1052
+sg5
+VMANDY
+p1053
+sa(dp1054
+g3
+VI did.
+p1055
+sg5
+VJOSH
+p1056
+sa(dp1057
+g3
+VHe's not gay.
+p1058
+sg5
+VMANDY
+p1059
+sa(dp1060
+g3
+VYou sure?
+p1061
+sg5
+VJOSH
+p1062
+sa(dp1063
+g3
+VVery sure.
+p1064
+sg5
+VMANDY
+p1065
+sa(dp1066
+g3
+VHe always seemed effeminate to me.
+p1067
+sg5
+VJOSH
+p1068
+sa(dp1069
+g3
+VHe happens to be very athletic. Plenty masculine.
+p1070
+sg5
+VMANDY
+p1071
+sa(dp1072
+g3
+VI think he's a woman.
+p1073
+sg5
+VJOSH
+p1074
+sa(dp1075
+g3
+VJosh, take me seriously.
+p1076
+sg5
+VMANDY
+p1077
+sa(dp1078
+g3
+VI do.
+p1079
+sg5
+VJOSH
+p1080
+sa(dp1081
+g3
+VThe New York Times is gonna release a poll in the next few days that\u000abrings your\u000aunfavorables up to 48%.
+p1082
+sg5
+VMANDY
+p1083
+sa(dp1084
+g3
+VThis is the first I'm hearing of it.
+p1085
+sg5
+VJOSH
+p1086
+sa(dp1087
+g3
+VYou'll have it in about an hour.
+p1088
+sg5
+VMANDY
+p1089
+sa(dp1090
+g3
+VWhere'd you get this?
+p1091
+sg5
+VJOSH
+p1092
+sa(dp1093
+g3
+VWe don't play for the same team anymore.
+p1094
+sg5
+VMANDY
+p1095
+sa(dp1096
+g3
+VWait a minute. One minute you're giving me career advice, the next minute\u000ayou're\u000atelling me we don't play for...
+p1097
+sg5
+VJOSH
+p1098
+sa(dp1099
+g3
+VI'm here for a while. And I want you at your fighting weight when I start\u000abitch-slapping you guys around the beltway. [They start to eat.]
+p1100
+sg5
+VMANDY
+p1101
+sa(dp1102
+g3
+VYou and Lloyd Russell, huh?
+p1103
+sg5
+VJOSH
+p1104
+sa(dp1105
+g3
+VYeah.
+p1106
+sg5
+VMANDY
+p1107
+sa(dp1108
+g3
+V[on the phone] Seventeen across. Yes. Seventeen across is wrong. You're\u000aspelling\u000ahis name wrong. What's my name? My name doesn't matter. I'm just an ordinary\u000acitizen\u000awho relies on the Times crossword for stimulation. And I'm telling you,\u000athat I've\u000amet with the man twice, and I've recommended a preemptive Exocet Missile attack\u000aagainst his airforce. So, I think I know how to...
+p1109
+sg5
+VLEO
+p1110
+sa(dp1111
+g3
+V[waves to Margaret and walks in] Leo!
+p1112
+sg5
+VC.J.
+p1113
+sa(dp1114
+g3
+V[he looks at the phone, then hangs up] They hang up on me. Every time.
+p1115
+sg5
+VLEO
+p1116
+sa(dp1117
+g3
+VThat's almost hard to believe.
+p1118
+sg5
+VC.J.
+p1119
+sa(dp1120
+g3
+VWhat do you need?
+p1121
+sg5
+VLEO
+p1122
+sa(dp1123
+g3
+VNightline wants someone for the East Asia...
+p1124
+sg5
+VC.J.
+p1125
+sa(dp1126
+g3
+VSend Naomi. What else?
+p1127
+sg5
+VLEO
+p1128
+sa(dp1129
+g3
+VThere might be a press leak on A3-C3.
+p1130
+sg5
+VC.J.
+p1131
+sa(dp1132
+g3
+VThat was Hutchison. What else?
+p1133
+sg5
+VLEO
+p1134
+sa(dp1135
+g3
+VLeo?
+p1136
+sg5
+VC.J.
+p1137
+sa(dp1138
+g3
+VPlease don't ask me about Josh.
+p1139
+sg5
+VLEO
+p1140
+sa(dp1141
+g3
+VI was going to ask...
+p1142
+sg5
+VC.J.
+p1143
+sa(dp1144
+g3
+VI honestly don't know anything.
+p1145
+sg5
+VLEO
+p1146
+sa(dp1147
+g3
+VYou know the President.
+p1148
+sg5
+VC.J.
+p1149
+sa(dp1150
+g3
+VSo do you.
+p1151
+sg5
+VLEO
+p1152
+sa(dp1153
+g3
+VYou know him better.
+p1154
+sg5
+VC.J.
+p1155
+sa(dp1156
+g3
+VI've known him forty years, C.J. And all I can promise you is that on any\u000agiven day\u000athere's really no predicting what he's going to choose to care about.
+p1157
+sg5
+VLEO
+p1158
+sa(dp1159
+g3
+VYeah.
+p1160
+sg5
+VC.J.
+p1161
+sa(dp1162
+g3
+VI'm sorry, I'm late. [leaves]
+p1163
+sg5
+VLEO
+p1164
+sa(dp1165
+g3
+VYou can't use those stats.
+p1166
+sg5
+VLARRY
+p1167
+sa(dp1168
+g3
+VThe assault stats.
+p1169
+sg5
+VSAM
+p1170
+sa(dp1171
+g3
+VThe assault stats are wrong.
+p1172
+sg5
+VLARRY
+p1173
+sa(dp1174
+g3
+VWe got them from your office.
+p1175
+sg5
+VSAM
+p1176
+sa(dp1177
+g3
+VAnd we got them from HUD.
+p1178
+sg5
+VED
+p1179
+sa(dp1180
+g3
+VAnd they're wrong?
+p1181
+sg5
+VSAM
+p1182
+sa(dp1183
+g3
+VEven if they were right, don't use 'em.
+p1184
+sg5
+VED
+p1185
+sa(dp1186
+g3
+VWell, A. Let's make 'em right, and B. why can't I use 'em?
+p1187
+sg5
+VSAM
+p1188
+sa(dp1189
+g3
+VThe 76 year old grandmother.
+p1190
+sg5
+VED
+p1191
+sa(dp1192
+g3
+VEvery time we use those assault stats, Carr and Gilmore come back...
+p1193
+sg5
+VLARRY
+p1194
+sa(dp1195
+g3
+VWho's the 76 year old--
+p1196
+sg5
+VSAM
+p1197
+sa(dp1198
+g3
+VEvery day, 17,000 Americans defend themselves with a gun--
+p1199
+sg5
+VLARRY
+p1200
+sa(dp1201
+g3
+VThat's flat-out not true.
+p1202
+sg5
+VSAM
+p1203
+sa(dp1204
+g3
+V--including a 76 year old grandmother in Chicago, who defended herself\u000aagainst an\u000aintruder in the middle of the night.
+p1205
+sg5
+VED
+p1206
+sa(dp1207
+g3
+VJust don't use the stats.
+p1208
+sg5
+VLARRY
+p1209
+sa(dp1210
+g3
+VThe 76 year old grandmother doesn't defend herself with a modified AK-47\u000aAssault\u000aRifle, Larry.  Unless she's defending herself against Turkish rebels.
+p1211
+sg5
+VSAM
+p1212
+sa(dp1213
+g3
+VExcuse me.
+p1214
+sg5
+VCATHY
+p1215
+sa(dp1216
+g3
+VOh, you guys know my assistant Cathy?
+p1217
+sg5
+VSAM
+p1218
+sa(dp1219
+g3
+VWe've talked a lot on the phone.
+p1220
+sg5
+VLARRY
+p1221
+sa(dp1222
+g3
+VYeah, hi. [to Sam] I need you for just a second.
+p1223
+sg5
+VCATHY
+p1224
+sa(dp1225
+g3
+VAh, right. [to Ed and Larry] Call me at the end of the day. [walks with Cathy
+p1226
+sg5
+VSAM
+p1227
+sa(dp1228
+g3
+VLeo's wife called.
+p1229
+sg5
+VCATHY
+p1230
+sa(dp1231
+g3
+VThat woman hates me.
+p1232
+sg5
+VSAM
+p1233
+sa(dp1234
+g3
+VYes.
+p1235
+sg5
+VCATHY
+p1236
+sa(dp1237
+g3
+VWhat'd I do?
+p1238
+sg5
+VSAM
+p1239
+sa(dp1240
+g3
+VYou tried to hit on her at party fundraiser.
+p1241
+sg5
+VCATHY
+p1242
+sa(dp1243
+g3
+VYes. I meant recently. I meant why did she call.
+p1244
+sg5
+VSAM
+p1245
+sa(dp1246
+g3
+VShe wants you to...
+p1247
+sg5
+VCATHY
+p1248
+sa(dp1249
+g3
+VFor the hundredth time, I didn't know who she was, and how long am I gonna be\u000acrucified for that?
+p1250
+sg5
+VSAM
+p1251
+sa(dp1252
+g3
+VWell a little while longer anyway, 'cause...
+p1253
+sg5
+VCATHY
+p1254
+sa(dp1255
+g3
+VMost women, I would think, would be flattered that...
+p1256
+sg5
+VSAM
+p1257
+sa(dp1258
+g3
+VYeah, I think Leo was especially touched that you...
+p1259
+sg5
+VCATHY
+p1260
+sa(dp1261
+g3
+VWhat'd she want?
+p1262
+sg5
+VSAM
+p1263
+sa(dp1264
+g3
+VShe was supposed to give a tour to some students from her daughter's fourth\u000agrade\u000aclass. She can't make it and she wants you to do it.
+p1265
+sg5
+VCATHY
+p1266
+sa(dp1267
+g3
+VI can't.
+p1268
+sg5
+VSAM
+p1269
+sa(dp1270
+g3
+VYou have to. They wrote essays.
+p1271
+sg5
+VCATHY
+p1272
+sa(dp1273
+g3
+VNo really, I can't. I'm not a good tour guide. I don't know anything about\u000athe White\u000aHouse. [his pager goes off]
+p1274
+sg5
+VSAM
+p1275
+sa(dp1276
+g3
+VYou wanna call Mrs. McGarry and tell her that?
+p1277
+sg5
+VCATHY
+p1278
+sa(dp1279
+g3
+V[looking at his pager] Oh God, please let this be a national emergency.
+p1280
+sg5
+VSAM
+p1281
+sa(dp1282
+g3
+V[on the phone] Hi. You paged me?
+p1283
+sg5
+VSAM
+p1284
+sa(dp1285
+g3
+V[on the phone] This is Sam Seaborn.
+p1286
+sg5
+VSAM
+p1287
+sa(dp1288
+g3
+V[on the phone] Who's this?
+p1289
+sg5
+VSAM
+p1290
+sa(dp1291
+g3
+V[on the phone, confused] Okey-doke. [hangs up, to Cathy] Page me.
+p1292
+sg5
+VSAM
+p1293
+sa(dp1294
+g3
+VWhere are you going?
+p1295
+sg5
+VCATHY
+p1296
+sa(dp1297
+g3
+VI'm standing right here. Page me and punch in my number.
+p1298
+sg5
+VSAM
+p1299
+sa(dp1300
+g3
+VYou switched pagers with someone.
+p1301
+sg5
+VCATHY
+p1302
+sa(dp1303
+g3
+VA woman's about to call me. She's not gonna know why. Put her through. [goes\u000ainto\u000ahis office and closes the door. He shuts the door and sits at his desk,\u000awaiting for\u000athe phone to ring, which it soon does]Hello?
+p1304
+sg5
+VSAM
+p1305
+sa(dp1306
+g3
+V[on the phone] Laurie?
+p1307
+sg5
+VSAM
+p1308
+sa(dp1309
+g3
+V[on the phone] It's Sam.
+p1310
+sg5
+VSAM
+p1311
+sa(dp1312
+g3
+V[on the phone] Sam Seaborn.
+p1313
+sg5
+VSAM
+p1314
+sa(dp1315
+g3
+V[on the phone] Yeah, ah, actually you called me. And that's because you have my\u000apager. And I have yours.
+p1316
+sg5
+VSAM
+p1317
+sa(dp1318
+g3
+V[on the phone] Yeah. Look, listen, can I come by and see you real quick?
+p1319
+sg5
+VSAM
+p1320
+sa(dp1321
+g3
+V[on the phone] Thanks... Good... Okay.
+p1322
+sg5
+VSAM
+p1323
+sa(dp1324
+g3
+VI'm holding four column inches above the fold.
+p1325
+sg5
+VBILLY
+p1326
+sa(dp1327
+g3
+VYou're going to be wrong.
+p1328
+sg5
+VREPORTER
+p1329
+sa(dp1330
+g3
+VI've got Al Caldwell, Mary Marsh...
+p1331
+sg5
+VBILLY
+p1332
+sa(dp1333
+g3
+VGuys, I don't have a lot of time to answer questions right now.
+p1334
+sg5
+VC.J.
+p1335
+sa(dp1336
+g3
+VC.J., has--
+p1337
+sg5
+VCHRIS
+p1338
+sa(dp1339
+g3
+VBut that shouldn't stop you from asking them anyway. Chris?
+p1340
+sg5
+VC.J.
+p1341
+sa(dp1342
+g3
+VHas the President had any reaction to Josh on the show?
+p1343
+sg5
+VCHRIS
+p1344
+sa(dp1345
+g3
+VNone that I'm aware of.
+p1346
+sg5
+VC.J.
+p1347
+sa(dp1348
+g3
+VDo you know--
+p1349
+sg5
+VCHRIS
+p1350
+sa(dp1351
+g3
+VSeriously, that's it. I'll get you wheels down time when I've got\u000ait. [continues to\u000awall through the hallway and is intercepted by Toby]
+p1352
+sg5
+VC.J.
+p1353
+sa(dp1354
+g3
+VThey're picking up the scent.
+p1355
+sg5
+VTOBY
+p1356
+sa(dp1357
+g3
+VBilly is. The rest of 'em are picking up Billy's scent.
+p1358
+sg5
+VC.J.
+p1359
+sa(dp1360
+g3
+VJosh is gonna come to the coffee.
+p1361
+sg5
+VTOBY
+p1362
+sa(dp1363
+g3
+VKeep him cool.
+p1364
+sg5
+VC.J.
+p1365
+sa(dp1366
+g3
+VPresident's a deeply religious man, Reverend. I don't need to tell you that.
+p1367
+sg5
+VLEO
+p1368
+sa(dp1369
+g3
+VNo.
+p1370
+sg5
+VCALDWELL
+p1371
+sa(dp1372
+g3
+VHe's worked with the Southern Baptist Leadership Conference. He's worked with\u000athe Catholic Relief...
+p1373
+sg5
+VLEO
+p1374
+sa(dp1375
+g3
+VHe's spoken at my church.
+p1376
+sg5
+VCALDWELL
+p1377
+sa(dp1378
+g3
+VYes, he has. He also spent eight months traveling around the country\u000adiscouraging\u000ayoung women from having abortions.
+p1379
+sg5
+VLEO
+p1380
+sa(dp1381
+g3
+VOh, hang on. He never said anything...
+p1382
+sg5
+VCALDWELL
+p1383
+sa(dp1384
+g3
+VHe doesn't believe that it's the government's place to legislate this\u000aissue. But\u000athat has not stopped him from playing his role as a moral leader. Something\u000awhich\u000acost him dearly in the campaign and you know that.
+p1385
+sg5
+VLEO
+p1386
+sa(dp1387
+g3
+VWhy does he insist on demonizing us as a group?
+p1388
+sg5
+VCALDWELL
+p1389
+sa(dp1390
+g3
+VBecause your group has plenty of demons.
+p1391
+sg5
+VLEO
+p1392
+sa(dp1393
+g3
+V[snorts] Every group has plenty of demons.
+p1394
+sg5
+VCALDWELL
+p1395
+sa(dp1396
+g3
+VYou don't have to tell me about it, Reverend. I'm a member of the Democratic\u000aParty.
+p1397
+sg5
+VLEO
+p1398
+sa(dp1399
+g3
+VWhy does the White House suddenly talk like everyone in the Christian Right\u000ais the\u000asame?
+p1400
+sg5
+VCALDWELL
+p1401
+sa(dp1402
+g3
+VForgive me, Al. But when you stand that close to Mary Marsh and John Van\u000aDyke, it's\u000asometimes hard not to paint you all with the same brush.
+p1403
+sg5
+VLEO
+p1404
+sa(dp1405
+g3
+VWe need John and Mary for political muscle.
+p1406
+sg5
+VCALDWELL
+p1407
+sa(dp1408
+g3
+VI don't think you do, but I recognize you're in a tough spot.
+p1409
+sg5
+VLEO
+p1410
+sa(dp1411
+g3
+VI'm not looking for a holy war, Leo.
+p1412
+sg5
+VCALDWELL
+p1413
+sa(dp1414
+g3
+VOh, I know you're not, Al. And I think that you and I can keep this from\u000aescalating\u000abeyond the petulant woman being angry about getting her hair a little messed\u000aup on T.V.
+p1415
+sg5
+VLEO
+p1416
+sa(dp1417
+g3
+VAnd there you go again. [They stop walking to face one another.]
+p1418
+sg5
+VCALDWELL
+p1419
+sa(dp1420
+g3
+VWhat?
+p1421
+sg5
+VLEO
+p1422
+sa(dp1423
+g3
+VIt was not a little deal.
+p1424
+sg5
+VCALDWELL
+p1425
+sa(dp1426
+g3
+VNo one's saying...
+p1427
+sg5
+VLEO
+p1428
+sa(dp1429
+g3
+VAnd I want to make sure -- of nothing else, I want to make sure that you're\u000ataking\u000ame seriously.
+p1430
+sg5
+VCALDWELL
+p1431
+sa(dp1432
+g3
+VYou don't think we're taking this seriously? 24 hours ago, the President\u000aordered\u000ame to fire Josh Lyman. I've been trying to talk him down from it ever\u000asince. He's\u000agetting off the plane in ten minutes. It's 6 to 5 at pickin' whether Josh still\u000ahas a job. Now, I don't know how much more seriously we can take it.
+p1433
+sg5
+VLEO
+p1434
+sa(dp1435
+g3
+VWell, that's regrettable.
+p1436
+sg5
+VCALDWELL
+p1437
+sa(dp1438
+g3
+VYes, it is. [They start walking again.] Anyway, I'm glad Toby organized\u000ayour meeting\u000athis afternoon.
+p1439
+sg5
+VLEO
+p1440
+sa(dp1441
+g3
+VSo am I.
+p1442
+sg5
+VCALDWELL
+p1443
+sa(dp1444
+g3
+VHi.
+p1445
+sg5
+VSAM
+p1446
+sa(dp1447
+g3
+VHi.
+p1448
+sg5
+VLAURIE
+p1449
+sa(dp1450
+g3
+VCan I come in?
+p1451
+sg5
+VSAM
+p1452
+sa(dp1453
+g3
+VSure. [lets Sam in]
+p1454
+sg5
+VLAURIE
+p1455
+sa(dp1456
+g3
+V[walks down the long hallway in her apartment] This is a nice apartment.
+p1457
+sg5
+VSAM
+p1458
+sa(dp1459
+g3
+VYou saw it last night.
+p1460
+sg5
+VLAURIE
+p1461
+sa(dp1462
+g3
+VYeah, and I really like it.
+p1463
+sg5
+VSAM
+p1464
+sa(dp1465
+g3
+VThanks.
+p1466
+sg5
+VLAURIE
+p1467
+sa(dp1468
+g3
+VIt makes very good use of space.
+p1469
+sg5
+VSAM
+p1470
+sa(dp1471
+g3
+V[grabbing the pager off her couch] Thanks.
+p1472
+sg5
+VLAURIE
+p1473
+sa(dp1474
+g3
+VThe way the ladle hangs from the pegboard.
+p1475
+sg5
+VSAM
+p1476
+sa(dp1477
+g3
+VThe ladle didn't actually come with the apartment. It's mine.
+p1478
+sg5
+VLAURIE
+p1479
+sa(dp1480
+g3
+VRight.
+p1481
+sg5
+VSAM
+p1482
+sa(dp1483
+g3
+VYeah.
+p1484
+sg5
+VLAURIE
+p1485
+sa(dp1486
+g3
+VUm, can I ask you something?
+p1487
+sg5
+VSAM
+p1488
+sa(dp1489
+g3
+VAm I a hooker?
+p1490
+sg5
+VLAURIE
+p1491
+sa(dp1492
+g3
+VNo. No. What I was gonna say is this: Is it possible, that in addition to\u000abeing a\u000alaw student and part-time bartender, that you are what I'm certain would\u000ahave to be\u000aa very high-priced call girl. I, by the way, making no judgments. The thing is,\u000awith my job--
+p1493
+sg5
+VSAM
+p1494
+sa(dp1495
+g3
+VYes.
+p1496
+sg5
+VLAURIE
+p1497
+sa(dp1498
+g3
+VYes?
+p1499
+sg5
+VSAM
+p1500
+sa(dp1501
+g3
+VYeah, I'm sorry. I should've told you. I wanted you to like me.
+p1502
+sg5
+VLAURIE
+p1503
+sa(dp1504
+g3
+VI do. I gotta go. [waits a moment then walks to the door]
+p1505
+sg5
+VSAM
+p1506
+sa(dp1507
+g3
+VSam?
+p1508
+sg5
+VLAURIE
+p1509
+sa(dp1510
+g3
+VYeah?
+p1511
+sg5
+VSAM
+p1512
+sa(dp1513
+g3
+VMy pager.
+p1514
+sg5
+VLAURIE
+p1515
+sa(dp1516
+g3
+VOh, right. [exchanges pagers]
+p1517
+sg5
+VSAM
+p1518
+sa(dp1519
+g3
+VThanks.
+p1520
+sg5
+VLAURIE
+p1521
+sa(dp1522
+g3
+VListen, I don't know how often you get up...
+p1523
+sg5
+VSAM
+p1524
+sa(dp1525
+g3
+VSam. Go. You don't know who I am.
+p1526
+sg5
+VLAURIE
+p1527
+sa(dp1528
+g3
+VIt's just that there are people who'd pay a lot of money for...
+p1529
+sg5
+VSAM
+p1530
+sa(dp1531
+g3
+VI know. Go. It's okay.
+p1532
+sg5
+VLAURIE
+p1533
+sa(dp1534
+g3
+VReverend Caldwell, if you all would just step in here.
+p1535
+sg5
+VCAROL
+p1536
+sa(dp1537
+g3
+VExcuse me. Hi. We're going to be just a minute so why doesn't everyone have\u000aa seat.\u000a[leaves]
+p1538
+sg5
+VCATHY
+p1539
+sa(dp1540
+g3
+V[to the children] All right. Everybody, nicely and quietly, take a seat.
+p1541
+sg5
+VMALLORY
+p1542
+sa(dp1543
+g3
+VNo.
+p1544
+sg5
+VJOSH
+p1545
+sa(dp1546
+g3
+VPut it on.
+p1547
+sg5
+VDONNA
+p1548
+sa(dp1549
+g3
+VNo.
+p1550
+sg5
+VJOSH
+p1551
+sa(dp1552
+g3
+VPut it on.
+p1553
+sg5
+VDONNA
+p1554
+sa(dp1555
+g3
+VNo.
+p1556
+sg5
+VJOSH
+p1557
+sa(dp1558
+g3
+VYou've been wearing the same clothes for 31 hours now, Josh.
+p1559
+sg5
+VDONNA
+p1560
+sa(dp1561
+g3
+VAll the girls think you look really hot in this shirt.
+p1562
+sg5
+VDONNA
+p1563
+sa(dp1564
+g3
+V[calling out] Bonnie!
+p1565
+sg5
+VDONNA
+p1566
+sa(dp1567
+g3
+VTell Toby he's changing his shirt.
+p1568
+sg5
+VDONNA
+p1569
+sa(dp1570
+g3
+VRight.
+p1571
+sg5
+VBONNIE
+p1572
+sa(dp1573
+g3
+VYou're late.
+p1574
+sg5
+VCATHY
+p1575
+sa(dp1576
+g3
+VI'm having kind of a weird day. [They begin walking.]
+p1577
+sg5
+VSAM
+p1578
+sa(dp1579
+g3
+VLeo's daughter's class is waiting with their teacher and a couple of parents in\u000athe Roosevelt Room.
+p1580
+sg5
+VCATHY
+p1581
+sa(dp1582
+g3
+VI don't know what to say to them.
+p1583
+sg5
+VSAM
+p1584
+sa(dp1585
+g3
+VYou're supposed to tell them about the building and its history. Do you\u000aneed anything?
+p1586
+sg5
+VCATHY
+p1587
+sa(dp1588
+g3
+VI need someone to tell me about the building and its history.
+p1589
+sg5
+VSAM
+p1590
+sa(dp1591
+g3
+VJust fake it.
+p1592
+sg5
+VCATHY
+p1593
+sa(dp1594
+g3
+VI can't fake it.
+p1595
+sg5
+VSAM
+p1596
+sa(dp1597
+g3
+VOf course you can fake it.
+p1598
+sg5
+VCATHY
+p1599
+sa(dp1600
+g3
+VWhich one is Leo's daughter?
+p1601
+sg5
+VSAM
+p1602
+sa(dp1603
+g3
+VWhat does it matter?
+p1604
+sg5
+VCATHY
+p1605
+sa(dp1606
+g3
+VI want to make a good impression. What does she look like?
+p1607
+sg5
+VSAM
+p1608
+sa(dp1609
+g3
+VI don't know.
+p1610
+sg5
+VCATHY
+p1611
+sa(dp1612
+g3
+VOkay. I just want to thank you for all of your help.
+p1613
+sg5
+VSAM
+p1614
+sa(dp1615
+g3
+VSure.
+p1616
+sg5
+VCATHY
+p1617
+sa(dp1618
+g3
+VHi, I'm sorry to be late.
+p1619
+sg5
+VSAM
+p1620
+sa(dp1621
+g3
+VMr. Seaborn. Mallory O'Brian.
+p1622
+sg5
+VMALLORY
+p1623
+sa(dp1624
+g3
+VHi.
+p1625
+sg5
+VSAM
+p1626
+sa(dp1627
+g3
+VAnd these are the fourth graders at Clearlake Elementary School who wrote\u000athe best\u000aessays on why they wanted to visit the White House.
+p1628
+sg5
+VMALLORY
+p1629
+sa(dp1630
+g3
+VWell, that's just great, why don't we get started. [walks around the table]\u000aMy name\u000ais Sam Seaborn and I'm the Deputy Communications Director. What does that mean\u000aexactly? Well, to begin with, I'm a counselor to the President, mostly\u000aon domestic\u000amatters, though generally not security related. I work with Toby Ziegler, the\u000aCommunications Director; and C.J. Cregg, the Press Secretary, on crafting our\u000amessage and getting it out through the electronic and print media. And while my\u000afunctions here are generally perceived to be politically skewed, it's\u000aimportant to\u000aremember that it is not the D.N.C., but rather your tax dollars that pay\u000amy salary.\u000aSo I work for you whether you voted for us or not.
+p1631
+sg5
+VSAM
+p1632
+sa(dp1633
+g3
+VMr. Seaborn, maybe you could give us some history.
+p1634
+sg5
+VMALLORY
+p1635
+sa(dp1636
+g3
+VSure. I graduated law school eight years ago and started working for\u000aDewey-Ballantine where I--
+p1637
+sg5
+VSAM
+p1638
+sa(dp1639
+g3
+VActually, I'm sorry to interrupt, actually I meant a history of the building.
+p1640
+sg5
+VMALLORY
+p1641
+sa(dp1642
+g3
+VThe White House.
+p1643
+sg5
+VSAM
+p1644
+sa(dp1645
+g3
+VYes.
+p1646
+sg5
+VMALLORY
+p1647
+sa(dp1648
+g3
+VSure. [pause] The White House, as you know, was built several years\u000aago. Mostly, if\u000aI'm not mistaken, out of cement. The room we're in right now, the Roosevelt\u000aRoom,\u000ais very famous. It is named for our 18th President, Franklin Delano\u000aRoosevelt. The\u000achairs that you're sitting on today were fashioned from the lumber of a\u000apirate ship\u000acaptured during the Spanish-American--
+p1649
+sg5
+VSAM
+p1650
+sa(dp1651
+g3
+V[stands] All right. Kids, I need to speak with Mr. Seaborn. Sit tight for\u000aa second.
+p1652
+sg5
+VMALLORY
+p1653
+sa(dp1654
+g3
+VHi.
+p1655
+sg5
+VMALLORY
+p1656
+sa(dp1657
+g3
+VHow ya doin'?
+p1658
+sg5
+VSAM
+p1659
+sa(dp1660
+g3
+VI'm sorry to be rude, but are you a moron?
+p1661
+sg5
+VMALLORY
+p1662
+sa(dp1663
+g3
+VIn this particular area, yes.
+p1664
+sg5
+VSAM
+p1665
+sa(dp1666
+g3
+VThe 18th President was Ulysses S. Grant, and the Roosevelt Room was named\u000afor Theodore.
+p1667
+sg5
+VMALLORY
+p1668
+sa(dp1669
+g3
+VReally?
+p1670
+sg5
+VSAM
+p1671
+sa(dp1672
+g3
+VThere's like a six-foot painting on the wall of Teddy Roosevelt.
+p1673
+sg5
+VMALLORY
+p1674
+sa(dp1675
+g3
+VI should've put two and two together.
+p1676
+sg5
+VSAM
+p1677
+sa(dp1678
+g3
+VYes.
+p1679
+sg5
+VMALLORY
+p1680
+sa(dp1681
+g3
+VLook, the thing is, while there are really a great many things I can speak with\u000aauthority, I'm not good at talking about the White House.
+p1682
+sg5
+VSAM
+p1683
+sa(dp1684
+g3
+VYou're the White House Deputy Communications Director and you're not good\u000aat talking\u000aabout the White House?
+p1685
+sg5
+VMALLORY
+p1686
+sa(dp1687
+g3
+VIronic, isn't it?
+p1688
+sg5
+VSAM
+p1689
+sa(dp1690
+g3
+VI don't believe this. [starts to go back into the room, but Sam stops her]
+p1691
+sg5
+VMALLORY
+p1692
+sa(dp1693
+g3
+VWait a minute. Wait. Please. Could you do me favor? Could you tell me which\u000aone of\u000athose kids is Leo McGarry's daughter?
+p1694
+sg5
+VSAM
+p1695
+sa(dp1696
+g3
+VWhy?
+p1697
+sg5
+VMALLORY
+p1698
+sa(dp1699
+g3
+VWell, if I could make eye contact with her, make her laugh, you know, just\u000asee that\u000ashe has a good time, it might go a long way toward making my life easier.
+p1700
+sg5
+VSAM
+p1701
+sa(dp1702
+g3
+VThese children worked hard. All of them. And I'm not inclined at this moment\u000ato make\u000ayour life easier.
+p1703
+sg5
+VMALLORY
+p1704
+sa(dp1705
+g3
+VMs. O'Brian, I understand your feelings, but please believe me when I tell\u000ayou that\u000aI'm a nice guy having a bad day. I just found out the Times is publishing\u000aa poll\u000athat says a considerable portion of Americans feel that the White House\u000ahas lost\u000aenergy and focus. A perception that's not likely to be altered by the\u000avideo footage\u000aof the President riding his bicycle into a tree. As we speak, the Coast\u000aGuard are\u000afishing Cubans out of the Atlantic Ocean while the Governor of Florida wants to\u000ablockade the Port of Miami. A good friend of mine's about to get fired for\u000agoing on\u000atelevision and making sense, and it turns out I accidentally slept with\u000aa prostitute\u000alast night. Now. Would you please, in the name of compassion, tell me which\u000aone of\u000athose kids is my boss's daughter.
+p1706
+sg5
+VSAM
+p1707
+sa(dp1708
+g3
+VThat would be me.
+p1709
+sg5
+VMALLORY
+p1710
+sa(dp1711
+g3
+VYou.
+p1712
+sg5
+VSAM
+p1713
+sa(dp1714
+g3
+VYes.
+p1715
+sg5
+VMALLORY
+p1716
+sa(dp1717
+g3
+VLeo's daughter's fourth grade class.
+p1718
+sg5
+VSAM
+p1719
+sa(dp1720
+g3
+VYes.
+p1721
+sg5
+VMALLORY
+p1722
+sa(dp1723
+g3
+V[pause] Well, this is bad on so many levels.
+p1724
+sg5
+VSAM
+p1725
+sa(dp1726
+g3
+VShe's gonna try and bait you, Josh, you understand what I'm saying?
+p1727
+sg5
+VC.J.
+p1728
+sa(dp1729
+g3
+VLloyd Russell. Yeah, that'll last.
+p1730
+sg5
+VJOSH
+p1731
+sa(dp1732
+g3
+VAre you listening to me?
+p1733
+sg5
+VC.J.
+p1734
+sa(dp1735
+g3
+V[repeating] They're gonna try and bait me.
+p1736
+sg5
+VJOSH
+p1737
+sa(dp1738
+g3
+VThey want you to say something arrogant.
+p1739
+sg5
+VC.J.
+p1740
+sa(dp1741
+g3
+VI don't need baiting for that.
+p1742
+sg5
+VJOSH
+p1743
+sa(dp1744
+g3
+VHi. Hi, good afternoon. We apologize. We're running a bit behind today.
+p1745
+sg5
+VTOBY
+p1746
+sa(dp1747
+g3
+VThat's quite all right. How's the President's health.
+p1748
+sg5
+VCALDWELL
+p1749
+sa(dp1750
+g3
+VIt's a mild sprain, he'll be fine.
+p1751
+sg5
+VC.J.
+p1752
+sa(dp1753
+g3
+VGood, good. You all know Mary Marsh and John Van Dyke.
+p1754
+sg5
+VCALDWELL
+p1755
+sa(dp1756
+g3
+VYes.
+p1757
+sg5
+VC.J.
+p1758
+sa(dp1759
+g3
+VEverybody, sit, sit, sit. We're happy you all could come talk with us today. As\u000ayou know, the President makes a usual Sunday morning radio address, and in\u000aa few\u000aweeks we've scheduled--
+p1760
+sg5
+VTOBY
+p1761
+sa(dp1762
+g3
+VAh, Toby, if I may interrupt for just a momentae the goals and spirit of\u000aChristian\u000aand Family oriented organizations, while embraced by a great and growing\u000anumber of\u000aAmericans, have been met with hostility and contempt by their Government. Now,\u000ayesterday morning, on the television program Capital Beat, that contempt\u000awas given\u000aa voice... and a face... and a name. [to Josh] I'm referring, of course,\u000ato you, sir.
+p1763
+sg5
+VCALDWELL
+p1764
+sa(dp1765
+g3
+VYes, I know, and I'm glad you brought that up...
+p1766
+sg5
+VJOSH
+p1767
+sa(dp1768
+g3
+VI was surprised at you, Josh. I always counted you as a friend.
+p1769
+sg5
+VCALDWELL
+p1770
+sa(dp1771
+g3
+VAnd I'm honored by that, Reverend. First, let me say that when I spoke on the\u000aprogram yesterday, I was not speaking for the President or this administration.\u000aThat's important to know. Second, please allow me to apologize. My remarks\u000awere glib\u000a and insulting. I was going for the cheap laugh, and anybody willing to step\u000a up and\u000adebate ideas deserves better than a political punch line. Mary, I apologize.
+p1772
+sg5
+VJOSH
+p1773
+sa(dp1774
+g3
+V[pause, then turns to Toby] Good then. Let's deal.
+p1775
+sg5
+VMARY
+p1776
+sa(dp1777
+g3
+V[beat] I'm sorry?
+p1778
+sg5
+VTOBY
+p1779
+sa(dp1780
+g3
+VWhat do we get?
+p1781
+sg5
+VMARY
+p1782
+sa(dp1783
+g3
+VFor what?
+p1784
+sg5
+VTOBY
+p1785
+sa(dp1786
+g3
+VFor insulting millions of Americans.
+p1787
+sg5
+VMARY
+p1788
+sa(dp1789
+g3
+VWell, like Josh said...
+p1790
+sg5
+VTOBY
+p1791
+sa(dp1792
+g3
+VI heard what Josh said, Toby, what do we get?
+p1793
+sg5
+VMARY
+p1794
+sa(dp1795
+g3
+VAn apology.
+p1796
+sg5
+VTOBY
+p1797
+sa(dp1798
+g3
+VSunday morning radio address. Public morals. School prayer or pornography, take\u000ayour pick.
+p1799
+sg5
+VMARY
+p1800
+sa(dp1801
+g3
+VSchool prayer or pornography?
+p1802
+sg5
+VTOBY
+p1803
+sa(dp1804
+g3
+VI've seen it. Mary...
+p1805
+sg5
+VTOBY
+p1806
+sa(dp1807
+g3
+VCondoms in the schools.
+p1808
+sg5
+VMARY
+p1809
+sa(dp1810
+g3
+VWhat?!
+p1811
+sg5
+VTOBY
+p1812
+sa(dp1813
+g3
+VCondoms in the schools.
+p1814
+sg5
+VMARY
+p1815
+sa(dp1816
+g3
+VWell, that's a problem.
+p1817
+sg5
+VTOBY
+p1818
+sa(dp1819
+g3
+VWhat?
+p1820
+sg5
+VMARY
+p1821
+sa(dp1822
+g3
+V[raising his voice] We have a Surgeon General who says they dramatically\u000areduce the\u000arisk of teen pregnancy and AIDS.
+p1823
+sg5
+VTOBY
+p1824
+sa(dp1825
+g3
+VSo does abstinence.
+p1826
+sg5
+VMARY
+p1827
+sa(dp1828
+g3
+VShow the average American teenage male a lug wrench and his mind'll turn...
+p1829
+sg5
+VTOBY
+p1830
+sa(dp1831
+g3
+VToby!
+p1832
+sg5
+VC.J.
+p1833
+sa(dp1834
+g3
+VSchool prayer, pornography, condoms. What's it gonna be?
+p1835
+sg5
+VMARY
+p1836
+sa(dp1837
+g3
+VWe're not prepared to make any sort of deal right now.
+p1838
+sg5
+VTOBY
+p1839
+sa(dp1840
+g3
+VSure we are. Mary...
+p1841
+sg5
+VJOSH
+p1842
+sa(dp1843
+g3
+V[to Josh] My read of the landscape is that you're cleaning out your desk\u000abefore the\u000aend of business today, so I'd just as soon negotiate with Toby if it's all\u000athe same\u000ato you.
+p1844
+sg5
+VMARY
+p1845
+sa(dp1846
+g3
+VMary.
+p1847
+sg5
+VCALDWELL
+p1848
+sa(dp1849
+g3
+V[to Caldwell] Please allow me to work. [to Josh] It was only a matter of\u000atime with\u000ayou, Josh.
+p1850
+sg5
+VMARY
+p1851
+sa(dp1852
+g3
+VYes.
+p1853
+sg5
+VJOSH
+p1854
+sa(dp1855
+g3
+VThat New York sense of humor was just a...
+p1856
+sg5
+VMARY
+p1857
+sa(dp1858
+g3
+VMary, there no need...
+p1859
+sg5
+VCALDWELL
+p1860
+sa(dp1861
+g3
+VReverend, please! They think they're so much smarter. They think it's\u000asmart talk.\u000aBut nobody else does.
+p1862
+sg5
+VMARY
+p1863
+sa(dp1864
+g3
+VI'm actually from Connecticut, but that's neither here nor there. The point\u000ais, Mary...
+p1865
+sg5
+VJOSH
+p1866
+sa(dp1867
+g3
+VShe meant Jewish. [A stunned silence. Everyone stares at Toby.] When she said\u000a"New\u000aYork sense of humor", she was talking about you and me.
+p1868
+sg5
+VTOBY
+p1869
+sa(dp1870
+g3
+VYou know what, Toby, let's just not even go there.
+p1871
+sg5
+VJOSH
+p1872
+sa(dp1873
+g3
+VThere's been an apology. Let's move on.
+p1874
+sg5
+VCALDWELL
+p1875
+sa(dp1876
+g3
+VI don't like what I've just been accused of.
+p1877
+sg5
+VMARY
+p1878
+sa(dp1879
+g3
+V[raising his voice] I'm afraid that's just tough, Mrs. Marsh.
+p1880
+sg5
+VTOBY
+p1881
+sa(dp1882
+g3
+VNo it doesn't.
+p1883
+sg5
+VTOBY
+p1884
+sa(dp1885
+g3
+VToby--
+p1886
+sg5
+VJOSH
+p1887
+sa(dp1888
+g3
+VIt doesn't.
+p1889
+sg5
+VTOBY
+p1890
+sa(dp1891
+g3
+VListen--
+p1892
+sg5
+VJOSH
+p1893
+sa(dp1894
+g3
+VNo, if I'm gonna make you sit through this preposterous exercise, we're\u000agonna get\u000athe names of the damn commandments right.
+p1895
+sg5
+VTOBY
+p1896
+sa(dp1897
+g3
+VOkay. Here we go.
+p1898
+sg5
+VMARY
+p1899
+sa(dp1900
+g3
+V"Honor thy Father" is the Third Commandment.
+p1901
+sg5
+VTOBY
+p1902
+sa(dp1903
+g3
+VGood afternoon, Mr. President.
+p1904
+sg5
+VCALDWELL
+p1905
+sa(dp1906
+g3
+VAl. What do we got here, C.J.?
+p1907
+sg5
+VBARTLET
+p1908
+sa(dp1909
+g3
+VWell, we've got some hot tempers, Mr. President.
+p1910
+sg5
+VC.J.
+p1911
+sa(dp1912
+g3
+VMary.
+p1913
+sg5
+VBARTLET
+p1914
+sa(dp1915
+g3
+VYes. Reverend?
+p1916
+sg5
+VBARTLET
+p1917
+sa(dp1918
+g3
+VOf course.
+p1919
+sg5
+VBARTLET
+p1920
+sa(dp1921
+g3
+VNo.
+p1922
+sg5
+VBARTLET
+p1923
+sa(dp1924
+g3
+VOn the other hand, I do think that five dollars is too high a price to pay for\u000apornography.
+p1925
+sg5
+VBARTLET
+p1926
+sa(dp1927
+g3
+VWhy don't we all sit down?
+p1928
+sg5
+VC.J.
+p1929
+sa(dp1930
+g3
+VNo. Let's not, C.J. These people won't be staying that long. May I have\u000asome coffee,\u000aMr. Lewis? Al, how many times have I asked you to denounce the practices of\u000aa fringe\u000agroup that calls itself The Lambs of God?
+p1931
+sg5
+VBARTLET
+p1932
+sa(dp1933
+g3
+VSir, it's not up to me to...
+p1934
+sg5
+VCALDWELL
+p1935
+sa(dp1936
+g3
+VCrap. It is up to you, Al. You, know, my wife, Abbey, she never wants me to do\u000aanything while I'm upset. [a staffer hands him coffee] Thank you, Mr. Lewis. 28\u000ayears ago, I come home from a very bad day at the State House. I tell Abbey I'm\u000agoing out for a drive. I get in the station wagon, and put it in reverse,\u000aand pull\u000aout of the garage full speed. [Leo and Sam appear in the doorway and\u000aquietly enter\u000ainto the room.] Except I forgot to open the garage door.
+p1937
+sg5
+VBARTLET
+p1938
+sa(dp1939
+g3
+VFind it now.
+p1940
+sg5
+VBARTLET
+p1941
+sa(dp1942
+g3
+V[quietly to Leo] We'll fix this, Leo.
+p1943
+sg5
+VCALDWELL
+p1944
+sa(dp1945
+g3
+VSee that you do.
+p1946
+sg5
+VLEO
+p1947
+sa(dp1948
+g3
+VOkay, can I just say that, as it turned out, I was the calmest person in\u000athe room?
+p1949
+sg5
+VJOSH
+p1950
+sa(dp1951
+g3
+VHey...
+p1952
+sg5
+VTOBY
+p1953
+sa(dp1954
+g3
+VWay to stay cool.
+p1955
+sg5
+VC.J.
+p1956
+sa(dp1957
+g3
+VI am not empowered to auction off the Bill of Rights.
+p1958
+sg5
+VTOBY
+p1959
+sa(dp1960
+g3
+VI thought you were going to take a swing at her there.
+p1961
+sg5
+VJOSH
+p1962
+sa(dp1963
+g3
+VShe was calling us New York Jews, Josh.
+p1964
+sg5
+VTOBY
+p1965
+sa(dp1966
+g3
+VYeah, but being from Connecticut, I didn't mind so much. [They enter the\u000aOval Office.]\u000aYou, C.J., on the other hand, were brilliant. I particularly liked the\u000apart where\u000ayou said nothing at all.
+p1967
+sg5
+VJOSH
+p1968
+sa(dp1969
+g3
+VI'm sorry, Josh, I was distracted. All I could really think about was\u000aLloyd Russell\u000aand your girlfriend.
+p1970
+sg5
+VC.J.
+p1971
+sa(dp1972
+g3
+VMandy and Lloyd Russell?
+p1973
+sg5
+VSAM
+p1974
+sa(dp1975
+g3
+VI'll be puttin' an end to that.
+p1976
+sg5
+VJOSH
+p1977
+sa(dp1978
+g3
+V"Hello, Mr. President. Did you have a nice trip, sir? How's the ankle, sir?"\u000aSeems to me we've all been taking a little break. Thinking about our\u000apersonal lives\u000aor thinking about keeping our jobs. Breaks are good. It's not a bad idea\u000ataking a\u000abreak every now and then. I know how hard you all work.
+p1979
+sg5
+VBARTLET
+p1980
+sa(dp1981
+g3
+V[speaks while reading the note] There was this time that Annie came to me\u000awith this\u000apress clipping. Seems these theologians down in South America were very excited\u000abecause this little girl from Chile had sliced open a tomato, and the\u000ainside flesh\u000aof this tomato had actually formed a perfect Rosary. The theologians\u000acommented that\u000athey thought this was a very impressive girl. Annie commented that she\u000athought it\u000awas a very impressive tomato. I don't know what made me think of that.\u000a[reporting the information from the slip of paper] Naval Intelligence reports\u000aapproximately 1200 Cubans left Havana this morning. Approximately 700\u000aturned back\u000adue to severe weather, some 350 are missing and presumed dead, 137 have\u000abeen taken\u000ainto custody in Miami and are seeking asylum. [pause] With the clothes on their\u000abacks, they came through a storm. And the ones that didn't die want a\u000abetter life.\u000aAnd they want it here. Talk about impressive. My point is this: Break's over.
+p1982
+sg5
+VBARTLET
+p1983
+sa(dp1984
+g3
+VThank you, Mr. President.
+p1985
+sg5
+VLEO
+p1986
+sa(dp1987
+g3
+VJosh. "Too busy being indicted for tax fraud"? [beat] Don't ever do it again.
+p1988
+sg5
+VBARTLET
+p1989
+sa(dp1990
+g3
+V[quietly] Yes sir. [exits]
+p1991
+sg5
+VJOSH
+p1992
+sa(dp1993
+g3
+V[calls] Mrs. Landingham. What's next?
+p1994
+sg5
+VBARTLET
+p1995
+saa(lp1996
+(dp1997
+g3
+V[yells] Are you crazy?!
+p1998
+sg5
+VMANDY
+p1999
+sa(dp2000
+g3
+VAre you crazy?!
+p2001
+sg5
+VMANDY
+p2002
+sa(dp2003
+g3
+VMandy.
+p2004
+sg5
+VRUSSELL
+p2005
+sa(dp2006
+g3
+VHave you lost your mind?
+p2007
+sg5
+VMANDY
+p2008
+sa(dp2009
+g3
+VWhy don't we go to my office, we can talk about it...
+p2010
+sg5
+VRUSSELL
+p2011
+sa(dp2012
+g3
+VWhy did you make that deal?
+p2013
+sg5
+VMANDY
+p2014
+sa(dp2015
+g3
+VShut up! [to Lloyd] Why did you make that deal?
+p2016
+sg5
+VMANDY
+p2017
+sa(dp2018
+g3
+VIt's just until after the midterms, Mandy.
+p2019
+sg5
+VRUSSELL
+p2020
+sa(dp2021
+g3
+VLloyd?
+p2022
+sg5
+VMANDY
+p2023
+sa(dp2024
+g3
+VAnd that way, the White House doesn't have to veto it until nobody's looking.
+p2025
+sg5
+VMANDY
+p2026
+sa(dp2027
+g3
+VWell...
+p2028
+sg5
+VRUSSELL
+p2029
+sa(dp2030
+g3
+VWe wanted people to be looking!
+p2031
+sg5
+VMANDY
+p2032
+sa(dp2033
+g3
+VLloyd, what? Why? Why did you go to breakfast to make that deal?
+p2034
+sg5
+VMANDY
+p2035
+sa(dp2036
+g3
+VExcuse me?
+p2037
+sg5
+VMANDY
+p2038
+sa(dp2039
+g3
+VThat's true. I might nominate the President.
+p2040
+sg5
+VRUSSELL
+p2041
+sa(dp2042
+g3
+VDefinitely something in primetime.
+p2043
+sg5
+VRUSSELL
+p2044
+sa(dp2045
+g3
+VOf course, they offered you something good at the nominating convention. They\u000adon't want you to get nominated at the nominating convention!
+p2046
+sg5
+VMANDY
+p2047
+sa(dp2048
+g3
+VSettle down.
+p2049
+sg5
+VRUSSELL
+p2050
+sa(dp2051
+g3
+VThat bill was our coming out party. We were gonna have the stage for a month!\u000aIt was our Nesun Dorma!
+p2052
+sg5
+VMANDY
+p2053
+sa(dp2054
+g3
+VIt's Puccini. Wagner's German, and you're a moron.
+p2055
+sg5
+VMANDY
+p2056
+sa(dp2057
+g3
+V[approaches] Excuse me, ma'am. Is everything all right?
+p2058
+sg5
+VMAN
+p2059
+sa(dp2060
+g3
+VNo, everything is not all right! I left a job at a top-tier marketing firm\u000awhere I had stock options. I come down here and get this guy elected\u000aPresident.\u000aBut he went to breakfast this morning, and made a deal at 443 until after the\u000amidterm elections. Avoiding the national exposure that was our ONLY HOPE of\u000amaking any kind of a challenge! [The man has left already.]
+p2061
+sg5
+VMANDY
+p2062
+sa(dp2063
+g3
+VHang on. [Mandy and Russell walk away from other two guys.]
+p2064
+sg5
+VRUSSELL
+p2065
+sa(dp2066
+g3
+VLloyd?
+p2067
+sg5
+VMANDY
+p2068
+sa(dp2069
+g3
+VListen to me.
+p2070
+sg5
+VRUSSELL
+p2071
+sa(dp2072
+g3
+VI was going...
+p2073
+sg5
+VMANDY
+p2074
+sa(dp2075
+g3
+VListen to meOe It wasn't gonna happen. Maybe somewhere down the road. But this\u000ayear, it wasn't gonna happen.
+p2076
+sg5
+VRUSSELL
+p2077
+sa(dp2078
+g3
+VI had two years to make it happen. I was gonna take them on! They beat me\u000abefore I got my boxes unpacked.
+p2079
+sg5
+VMANDY
+p2080
+sa(dp2081
+g3
+VYou'll bounce back. You've got spunk.
+p2082
+sg5
+VRUSSELL
+p2083
+sa(dp2084
+g3
+V[quickly takes off her shoe] I could kill you with my shoe!
+p2085
+sg5
+VMANDY
+p2086
+sa(dp2087
+g3
+VMandy! Mandy! Mandy! It wasn't gonna happen.
+p2088
+sg5
+VRUSSELL
+p2089
+sa(dp2090
+g3
+VYou know what the worst part about this is?
+p2091
+sg5
+VMANDY
+p2092
+sa(dp2093
+g3
+V[looks at the car] Well, I think you dinged up your suspension pretty good.
+p2094
+sg5
+VRUSSELL
+p2095
+sa(dp2096
+g3
+VNo, Lloyd. It's the party they're having right now in the West Wing at my\u000aexpense.
+p2097
+sg5
+VMANDY
+p2098
+sa(dp2099
+g3
+VThey're not having a party in the West Wing.
+p2100
+sg5
+VRUSSELL
+p2101
+sa(dp2102
+g3
+VI worked with these people for two and a half years. They like to win and\u000athen\u000athey like to gloat.
+p2103
+sg5
+VMANDY
+p2104
+sa(dp2105
+g3
+VI'm sure you're wrong.
+p2106
+sg5
+VRUSSELL
+p2107
+sa(dp2108
+g3
+VI'm sure I'm not.
+p2109
+sg5
+VMANDY
+p2110
+sa(dp2111
+g3
+VThere are very serious men and women in the White House. A blow was struck\u000afor\u000aparty unity this morning. There's no cause to gloat.
+p2112
+sg5
+VRUSSELL
+p2113
+sa(dp2114
+g3
+V[comes out of his office] Victory is mine! Victory is mine! Great day in the\u000amorning people. Victory is mine!
+p2115
+sg5
+VJOSH
+p2116
+sa(dp2117
+g3
+VGood morning, Josh.
+p2118
+sg5
+VDONNA
+p2119
+sa(dp2120
+g3
+VI drink from the keg of glory, Donna. Bring me the finest muffins and bagels\u000ain\u000aall the land.
+p2121
+sg5
+VJOSH
+p2122
+sa(dp2123
+g3
+VIt's gonna be an unbearable day.
+p2124
+sg5
+VDONNA
+p2125
+sa(dp2126
+g3
+VI don't understand.
+p2127
+sg5
+VTOBY
+p2128
+sa(dp2129
+g3
+VThey refused.
+p2130
+sg5
+VC.J.
+p2131
+sa(dp2132
+g3
+VHow did they refuse?
+p2133
+sg5
+VTOBY
+p2134
+sa(dp2135
+g3
+VThey turned down. They declined the invitation.
+p2136
+sg5
+VC.J.
+p2137
+sa(dp2138
+g3
+VHow does someone decline an invitation for a photo-op with the President?
+p2139
+sg5
+VTOBY
+p2140
+sa(dp2141
+g3
+VI'm saying this is the kind of luck we're having.
+p2142
+sg5
+VC.J.
+p2143
+sa(dp2144
+g3
+VBecause of the joke?
+p2145
+sg5
+VTOBY
+p2146
+sa(dp2147
+g3
+VBecause of the joke.
+p2148
+sg5
+VC.J.
+p2149
+sa(dp2150
+g3
+V[passes by] Good morning.
+p2151
+sg5
+VSTAFFER
+p2152
+sa(dp2153
+g3
+VGood morning.
+p2154
+sg5
+VTOBY
+p2155
+sa(dp2156
+g3
+VWho's that?
+p2157
+sg5
+VC.J.
+p2158
+sa(dp2159
+g3
+VWho cares? We need somebody.
+p2160
+sg5
+VTOBY
+p2161
+sa(dp2162
+g3
+VYou try getting his attention on this.
+p2163
+sg5
+VC.J.
+p2164
+sa(dp2165
+g3
+VMrs. Landingham, does the President have free time this morning?
+p2166
+sg5
+VTOBY
+p2167
+sa(dp2168
+g3
+VSarcasm's a disturbing thing coming from a woman of your age, Mrs. Landingham.
+p2169
+sg5
+VTOBY
+p2170
+sa(dp2171
+g3
+VLate twenties?
+p2172
+sg5
+VTOBY
+p2173
+sa(dp2174
+g3
+V[opens the cookie jar] Can I have a cookie?
+p2175
+sg5
+VTOBY
+p2176
+sa(dp2177
+g3
+V[walks in] Toby, they turned down our request?
+p2178
+sg5
+VSAM
+p2179
+sa(dp2180
+g3
+VC.J.'s on it.
+p2181
+sg5
+VTOBY
+p2182
+sa(dp2183
+g3
+VGood morning.
+p2184
+sg5
+VSAM
+p2185
+sa(dp2186
+g3
+VThank you. [takes a cookie]
+p2187
+sg5
+VSAM
+p2188
+sa(dp2189
+g3
+VThey're issuing a press release. We're gonna be playing defense all day.
+p2190
+sg5
+VC.J.
+p2191
+sa(dp2192
+g3
+V[mouthful] Is this really because of the joke?
+p2193
+sg5
+VSAM
+p2194
+sa(dp2195
+g3
+VIt's because of the joke.
+p2196
+sg5
+VC.J.
+p2197
+sa(dp2198
+g3
+VSomeone give me a river to forge, a serpent to slay.
+p2199
+sg5
+VJOSH
+p2200
+sa(dp2201
+g3
+V[to Donna] What's his problem?
+p2202
+sg5
+VC.J.
+p2203
+sa(dp2204
+g3
+VHe's been drinking from the keg of glory. We're to bring him all the muffins\u000aand bagels in the land.
+p2205
+sg5
+VDONNA
+p2206
+sa(dp2207
+g3
+VWe heard.
+p2208
+sg5
+VTOBY
+p2209
+sa(dp2210
+g3
+VGood job.
+p2211
+sg5
+VSAM
+p2212
+sa(dp2213
+g3
+VThank you very much. C.J., they turned down the invitation?
+p2214
+sg5
+VJOSH
+p2215
+sa(dp2216
+g3
+VThey declined.
+p2217
+sg5
+VC.J.
+p2218
+sa(dp2219
+g3
+VWhat does that mean?
+p2220
+sg5
+VJOSH
+p2221
+sa(dp2222
+g3
+VIt means they turned down the invitation.
+p2223
+sg5
+VC.J.
+p2224
+sa(dp2225
+g3
+VBecause of the joke?
+p2226
+sg5
+VJOSH
+p2227
+sa(dp2228
+g3
+VOf course, because of the joke. Why does everyone keep asking? As if it could\u000abe something...
+p2229
+sg5
+VC.J.
+p2230
+sa(dp2231
+g3
+V...32 billion against the trade surplus.
+p2232
+sg5
+VLEO
+p2233
+sa(dp2234
+g3
+VThat's no good. Jaworski knows that's no good.
+p2235
+sg5
+VBARTLET
+p2236
+sa(dp2237
+g3
+VMostly, he's gonna say that the Japanese need to buy more American cars.
+p2238
+sg5
+VLEO
+p2239
+sa(dp2240
+g3
+VAmericans need to buy more American cars.
+p2241
+sg5
+VBARTLET
+p2242
+sa(dp2243
+g3
+VWhich is what I told Jaworski.
+p2244
+sg5
+VLEO
+p2245
+sa(dp2246
+g3
+VGood morning everyone.
+p2247
+sg5
+VBARTLET
+p2248
+sa(dp2249
+g3
+VGood morning.
+p2250
+sg5
+VALL
+p2251
+sa(dp2252
+g3
+VWhat do you got?
+p2253
+sg5
+VBARTLET
+p2254
+sa(dp2255
+g3
+V443's gonna stay in committee.
+p2256
+sg5
+VJOSH
+p2257
+sa(dp2258
+g3
+VI heard.
+p2259
+sg5
+VBARTLET
+p2260
+sa(dp2261
+g3
+VWhat else?
+p2262
+sg5
+VLEO
+p2263
+sa(dp2264
+g3
+VThe Ryder Cup team is declining our invitation to come to the White House.
+p2265
+sg5
+VC.J.
+p2266
+sa(dp2267
+g3
+VYou're kidding.
+p2268
+sg5
+VLEO
+p2269
+sa(dp2270
+g3
+VBecause of the joke.
+p2271
+sg5
+VC.J.
+p2272
+sa(dp2273
+g3
+VYou're kidding.
+p2274
+sg5
+VBARTLET
+p2275
+sa(dp2276
+g3
+VI'm not.
+p2277
+sg5
+VC.J.
+p2278
+sa(dp2279
+g3
+VThe Ryder Cup team?
+p2280
+sg5
+VBARTLET
+p2281
+sa(dp2282
+g3
+VIt's a group of the best golfers in the country...
+p2283
+sg5
+VC.J.
+p2284
+sa(dp2285
+g3
+VI know what the Ryder Cup team is. Thanks Mrs. Landingham.
+p2286
+sg5
+VBARTLET
+p2287
+sa(dp2288
+g3
+VSir, this may be a good time to talk about your sense of humor.
+p2289
+sg5
+VC.J.
+p2290
+sa(dp2291
+g3
+V[looks at his schedule] I've got an intelligence briefing, a security\u000abriefing,\u000aand a 90-minute budget meeting all scheduled for the same 45 minutes. You\u000asure\u000athis is a good time to talk about my sense of humor?
+p2292
+sg5
+VBARTLET
+p2293
+sa(dp2294
+g3
+VNo.
+p2295
+sg5
+VC.J.
+p2296
+sa(dp2297
+g3
+VMe neither.
+p2298
+sg5
+VBARTLET
+p2299
+sa(dp2300
+g3
+VWhat else?
+p2301
+sg5
+VLEO
+p2302
+sa(dp2303
+g3
+VIt's just that it's not the first time it's happened.
+p2304
+sg5
+VC.J.
+p2305
+sa(dp2306
+g3
+VI know.
+p2307
+sg5
+VBARTLET
+p2308
+sa(dp2309
+g3
+VShe's talking about Texas, sir.
+p2310
+sg5
+VTOBY
+p2311
+sa(dp2312
+g3
+VI know.
+p2313
+sg5
+VBARTLET
+p2314
+sa(dp2315
+g3
+VU.S.A. Today asks you why you don't spend more time campaigning in Texas and\u000ayou say it's 'cause you don't look good in funny hats.
+p2316
+sg5
+VC.J.
+p2317
+sa(dp2318
+g3
+VIt was 'big hats.'
+p2319
+sg5
+VSAM
+p2320
+sa(dp2321
+g3
+VWhat difference does it make?
+p2322
+sg5
+VC.J.
+p2323
+sa(dp2324
+g3
+VIt makes a difference.
+p2325
+sg5
+VBARTLET
+p2326
+sa(dp2327
+g3
+VThe point is we got whomped in Texas.
+p2328
+sg5
+VC.J.
+p2329
+sa(dp2330
+g3
+VWe got whomped in Texas twice.
+p2331
+sg5
+VJOSH
+p2332
+sa(dp2333
+g3
+VWe got whomped in the primary, and we got whomped in November.
+p2334
+sg5
+VC.J.
+p2335
+sa(dp2336
+g3
+VI think I was there.
+p2337
+sg5
+VBARTLET
+p2338
+sa(dp2339
+g3
+VAnd it was avoidable, sir.
+p2340
+sg5
+VC.J.
+p2341
+sa(dp2342
+g3
+VC.J., on your tombstone, it's gonna read, 'Post hoc, ergo propter hoc.'
+p2343
+sg5
+VBARTLET
+p2344
+sa(dp2345
+g3
+VOkay, but none of my visitors are going to be able to understand my tombstone.
+p2346
+sg5
+VC.J.
+p2347
+sa(dp2348
+g3
+VTwenty-seven lawyers in the room, anybody know 'post hoc, ergo propter hoc?'\u000aJosh?
+p2349
+sg5
+VBARTLET
+p2350
+sa(dp2351
+g3
+VUh, uh, post, after, after hoc, ergo, therefore, after hoc, therefore,\u000asomething else hoc.
+p2352
+sg5
+VJOSH
+p2353
+sa(dp2354
+g3
+VThank you. Next?
+p2355
+sg5
+VBARTLET
+p2356
+sa(dp2357
+g3
+VUh, if I'd gotten more credit on the 443...
+p2358
+sg5
+VJOSH
+p2359
+sa(dp2360
+g3
+VLeo?
+p2361
+sg5
+VBARTLET
+p2362
+sa(dp2363
+g3
+VAfter it, therefore because of it. [Josh, a little weirded out, looks]
+p2364
+sg5
+VLEO
+p2365
+sa(dp2366
+g3
+VAfter it, therefore because of it. It means one thing follows the other,\u000atherefore it was caused by the other, but it's not always true. In fact, it's\u000ahardly ever true. We did not lose Texas because of the hat joke. Do you know\u000awhen we lost Texas?
+p2367
+sg5
+VBARTLET
+p2368
+sa(dp2369
+g3
+VWhen you learned to speak Latin?
+p2370
+sg5
+VC.J.
+p2371
+sa(dp2372
+g3
+VGo figure.
+p2373
+sg5
+VBARTLET
+p2374
+sa(dp2375
+g3
+VWhat else?
+p2376
+sg5
+VLEO
+p2377
+sa(dp2378
+g3
+VCaptain Tolliver, can I get you a cup of coffee?
+p2379
+sg5
+VNANCY
+p2380
+sa(dp2381
+g3
+VNo, I'm fine, Nancy. Thank you.
+p2382
+sg5
+VMORRIS
+p2383
+sa(dp2384
+g3
+VGood morning, Mrs. Landingham.
+p2385
+sg5
+VMORRIS
+p2386
+sa(dp2387
+g3
+VI can see that.
+p2388
+sg5
+VMORRIS
+p2389
+sa(dp2390
+g3
+VSam, when are you writing the Hilton Head draft?
+p2391
+sg5
+VLEO
+p2392
+sa(dp2393
+g3
+VI'm closing my door from noon to three.
+p2394
+sg5
+VSAM
+p2395
+sa(dp2396
+g3
+VLet me see it at three.
+p2397
+sg5
+VJOSH
+p2398
+sa(dp2399
+g3
+VYeah.
+p2400
+sg5
+VSAM
+p2401
+sa(dp2402
+g3
+VMorris.
+p2403
+sg5
+VLEO
+p2404
+sa(dp2405
+g3
+VGood morning.
+p2406
+sg5
+VMORRIS
+p2407
+sa(dp2408
+g3
+VStan, I'll be just a second. [to Morris] Take a walk with me, will you?
+p2409
+sg5
+VLEO
+p2410
+sa(dp2411
+g3
+VSure. [They walk.]
+p2412
+sg5
+VMORRIS
+p2413
+sa(dp2414
+g3
+VYou look well.
+p2415
+sg5
+VLEO
+p2416
+sa(dp2417
+g3
+VWell, I'm feeling pretty good.
+p2418
+sg5
+VMORRIS
+p2419
+sa(dp2420
+g3
+VHow's the baby?
+p2421
+sg5
+VLEO
+p2422
+sa(dp2423
+g3
+VTen days old today.
+p2424
+sg5
+VMORRIS
+p2425
+sa(dp2426
+g3
+VYou got a picture?
+p2427
+sg5
+VLEO
+p2428
+sa(dp2429
+g3
+VWell, I don't know... Let me see... Well, what do you know? [fishes out a\u000apicture]
+p2430
+sg5
+VMORRIS
+p2431
+sa(dp2432
+g3
+VOh, she's a knockout.
+p2433
+sg5
+VLEO
+p2434
+sa(dp2435
+g3
+VBoth of them.
+p2436
+sg5
+VMORRIS
+p2437
+sa(dp2438
+g3
+VI'm sorry. I've forgotten your wife's name.
+p2439
+sg5
+VLEO
+p2440
+sa(dp2441
+g3
+VAngela.
+p2442
+sg5
+VMORRIS
+p2443
+sa(dp2444
+g3
+VAnd the girl?
+p2445
+sg5
+VLEO
+p2446
+sa(dp2447
+g3
+VCorey.
+p2448
+sg5
+VMORRIS
+p2449
+sa(dp2450
+g3
+VLeo, did you tell the council's office that they would be in on the ten\u000ao'clock?
+p2451
+sg5
+VMARGARET
+p2452
+sa(dp2453
+g3
+VI may have.
+p2454
+sg5
+VLEO
+p2455
+sa(dp2456
+g3
+VThat's really something that you want to tell me.
+p2457
+sg5
+VMARGARET
+p2458
+sa(dp2459
+g3
+V[hands her the picture] Here. It's a baby and a new mother. Look at that\u000afor a\u000aminute.
+p2460
+sg5
+VLEO
+p2461
+sa(dp2462
+g3
+VOh!
+p2463
+sg5
+VMARGARET
+p2464
+sa(dp2465
+g3
+VListen, quickly. I know you were just supposed to be filling in till Terry\u000aWyatt came back, but the President likes you, and he'd like to keep you on if\u000ayou don't have any objections.
+p2466
+sg5
+VLEO
+p2467
+sa(dp2468
+g3
+VI don't have any objections.
+p2469
+sg5
+VMORRIS
+p2470
+sa(dp2471
+g3
+VGood.
+p2472
+sg5
+VLEO
+p2473
+sa(dp2474
+g3
+VBut I don't have to be covered next week. I'm leaving the country in a few\u000ahours.
+p2475
+sg5
+VMORRIS
+p2476
+sa(dp2477
+g3
+VWhere are you going?
+p2478
+sg5
+VLEO
+p2479
+sa(dp2480
+g3
+VJordan.
+p2481
+sg5
+VMORRIS
+p2482
+sa(dp2483
+g3
+VFor how long?
+p2484
+sg5
+VLEO
+p2485
+sa(dp2486
+g3
+VFor just a week.
+p2487
+sg5
+VMORRIS
+p2488
+sa(dp2489
+g3
+VThen you'll start the week after.
+p2490
+sg5
+VLEO
+p2491
+sa(dp2492
+g3
+VLeo?
+p2493
+sg5
+VMORRIS
+p2494
+sa(dp2495
+g3
+VYeah?
+p2496
+sg5
+VLEO
+p2497
+sa(dp2498
+g3
+VI'm comparatively low-ranked.
+p2499
+sg5
+VMORRIS
+p2500
+sa(dp2501
+g3
+VHe likes you, Morris. He feels better after he's talked to you. I think there\u000ahave been days when you've lightened the load a little.
+p2502
+sg5
+VLEO
+p2503
+sa(dp2504
+g3
+VIt's not the big load, I'm just...
+p2505
+sg5
+VMORRIS
+p2506
+sa(dp2507
+g3
+VHe likes you, Morris. I got to get back in the Oval. [to Margaret] Give him\u000ahis\u000apicture.
+p2508
+sg5
+VLEO
+p2509
+sa(dp2510
+g3
+VHey.
+p2511
+sg5
+VDAISY
+p2512
+sa(dp2513
+g3
+VHey.
+p2514
+sg5
+VMANDY
+p2515
+sa(dp2516
+g3
+V88-B's straightened out, and Chris Matthews wants to know what we know.
+p2517
+sg5
+VDAISY
+p2518
+sa(dp2519
+g3
+VWell, I have some news.
+p2520
+sg5
+VMANDY
+p2521
+sa(dp2522
+g3
+VGood news?
+p2523
+sg5
+VDAISY
+p2524
+sa(dp2525
+g3
+VWell, there's a way to see it as bad news, but I think it's good news.
+p2526
+sg5
+VMANDY
+p2527
+sa(dp2528
+g3
+VWhat is it?
+p2529
+sg5
+VDAISY
+p2530
+sa(dp2531
+g3
+VLloyd Russell is no longer our client.
+p2532
+sg5
+VMANDY
+p2533
+sa(dp2534
+g3
+VReally?
+p2535
+sg5
+VDAISY
+p2536
+sa(dp2537
+g3
+VYes.
+p2538
+sg5
+VMANDY
+p2539
+sa(dp2540
+g3
+VLloyd Russell is our only client.
+p2541
+sg5
+VDAISY
+p2542
+sa(dp2543
+g3
+VWas.
+p2544
+sg5
+VMANDY
+p2545
+sa(dp2546
+g3
+VWhat happened? This is a total disaster!
+p2547
+sg5
+VDAISY
+p2548
+sa(dp2549
+g3
+VLook, if that's the spin you're gonna put on it...
+p2550
+sg5
+VMANDY
+p2551
+sa(dp2552
+g3
+VMandy...
+p2553
+sg5
+VDAISY
+p2554
+sa(dp2555
+g3
+VHe wants to work with the President on 443.
+p2556
+sg5
+VMANDY
+p2557
+sa(dp2558
+g3
+VHe's not gonna run?
+p2559
+sg5
+VDAISY
+p2560
+sa(dp2561
+g3
+VNo.
+p2562
+sg5
+VMANDY
+p2563
+sa(dp2564
+g3
+VYou lost our only client?
+p2565
+sg5
+VDAISY
+p2566
+sa(dp2567
+g3
+VI'd like to think of us as a team, Daisy.
+p2568
+sg5
+VMANDY
+p2569
+sa(dp2570
+g3
+VI quit my job!
+p2571
+sg5
+VDAISY
+p2572
+sa(dp2573
+g3
+VSo did I.
+p2574
+sg5
+VMANDY
+p2575
+sa(dp2576
+g3
+VAfter putting about a half a million dollars in the bank.
+p2577
+sg5
+VDAISY
+p2578
+sa(dp2579
+g3
+VI saved wisely.
+p2580
+sg5
+VMANDY
+p2581
+sa(dp2582
+g3
+VHow are you gonna pay me?
+p2583
+sg5
+VDAISY
+p2584
+sa(dp2585
+g3
+VCan I just say that it so typically you to leap that question at a time like\u000athis?
+p2586
+sg5
+VMANDY
+p2587
+sa(dp2588
+g3
+VIt's not typically me, Mandy. It's typically my landlord. It's typically\u000acollege loans. It's typically the guy who's gonna sell me a carton of milk\u000anext week.
+p2589
+sg5
+VDAISY
+p2590
+sa(dp2591
+g3
+VYou're not the only one with expenses, Daisy. I've got credit cards, and I've\u000agot condo payments, plus I think I may have dinged up the suspension on my\u000aBMW.
+p2592
+sg5
+VMANDY
+p2593
+sa(dp2594
+g3
+VWhat are we gonna do?
+p2595
+sg5
+VDAISY
+p2596
+sa(dp2597
+g3
+VI'm formulating a plan.
+p2598
+sg5
+VMANDY
+p2599
+sa(dp2600
+g3
+VJosh.
+p2601
+sg5
+VDONNA
+p2602
+sa(dp2603
+g3
+VWhat do you need?
+p2604
+sg5
+VJOSH
+p2605
+sa(dp2606
+g3
+VYou owe me a hundred dollars.
+p2607
+sg5
+VDONNA
+p2608
+sa(dp2609
+g3
+VFor what?
+p2610
+sg5
+VJOSH
+p2611
+sa(dp2612
+g3
+VI entered you in a college football pool.
+p2613
+sg5
+VDONNA
+p2614
+sa(dp2615
+g3
+VWithout telling me?
+p2616
+sg5
+VJOSH
+p2617
+sa(dp2618
+g3
+VWell, it's kind of a surprise.
+p2619
+sg5
+VDONNA
+p2620
+sa(dp2621
+g3
+VHow did I do?
+p2622
+sg5
+VJOSH
+p2623
+sa(dp2624
+g3
+VYou lost a hundred dollars.
+p2625
+sg5
+VDONNA
+p2626
+sa(dp2627
+g3
+VOn who?
+p2628
+sg5
+VJOSH
+p2629
+sa(dp2630
+g3
+VOn Central Indiana State.
+p2631
+sg5
+VDONNA
+p2632
+sa(dp2633
+g3
+VWhat was the line?
+p2634
+sg5
+VJOSH
+p2635
+sa(dp2636
+g3
+VIt wasn't really that kind of a pool.
+p2637
+sg5
+VDONNA
+p2638
+sa(dp2639
+g3
+VWhat kind of a pool was it?
+p2640
+sg5
+VJOSH
+p2641
+sa(dp2642
+g3
+VYou just pick the winner.
+p2643
+sg5
+VDONNA
+p2644
+sa(dp2645
+g3
+VYou picked Central Indiana State?
+p2646
+sg5
+VJOSH
+p2647
+sa(dp2648
+g3
+VThe Fighting Okies.
+p2649
+sg5
+VDONNA
+p2650
+sa(dp2651
+g3
+VWho are they playing?
+p2652
+sg5
+VJOSH
+p2653
+sa(dp2654
+g3
+VNotre Dame.
+p2655
+sg5
+VDONNA
+p2656
+sa(dp2657
+g3
+VYou picked Central Indiana State against Notre Dame?
+p2658
+sg5
+VJOSH
+p2659
+sa(dp2660
+g3
+VWell, technically, you did.
+p2661
+sg5
+VDONNA
+p2662
+sa(dp2663
+g3
+VToby!
+p2664
+sg5
+VJOSH
+p2665
+sa(dp2666
+g3
+VYes.
+p2667
+sg5
+VTOBY
+p2668
+sa(dp2669
+g3
+VWe need to do something.
+p2670
+sg5
+VJOSH
+p2671
+sa(dp2672
+g3
+VRyder Cup team.
+p2673
+sg5
+VTOBY
+p2674
+sa(dp2675
+g3
+VThe Ryder Cup is just the latest in a string.
+p2676
+sg5
+VJOSH
+p2677
+sa(dp2678
+g3
+VYes.
+p2679
+sg5
+VTOBY
+p2680
+sa(dp2681
+g3
+VThe banking committee...
+p2682
+sg5
+VJOSH
+p2683
+sa(dp2684
+g3
+VNew Jersey, G-8.
+p2685
+sg5
+VTOBY
+p2686
+sa(dp2687
+g3
+VBicycle under the tree?
+p2688
+sg5
+VJOSH
+p2689
+sa(dp2690
+g3
+VYes, though I'm not sure what our new media director would have done about\u000athat.
+p2691
+sg5
+VTOBY
+p2692
+sa(dp2693
+g3
+VMe neither, but we need a new media director. I'd been on talent shows with\u000amore polish than some of the events around here.
+p2694
+sg5
+VJOSH
+p2695
+sa(dp2696
+g3
+VOn talent shows?
+p2697
+sg5
+VTOBY
+p2698
+sa(dp2699
+g3
+VAs a kid. Listen...
+p2700
+sg5
+VJOSH
+p2701
+sa(dp2702
+g3
+VOn what if?
+p2703
+sg5
+VTOBY
+p2704
+sa(dp2705
+g3
+VWe need to double-team him.
+p2706
+sg5
+VJOSH
+p2707
+sa(dp2708
+g3
+VIf we bring Sam and C.J. too.
+p2709
+sg5
+VTOBY
+p2710
+sa(dp2711
+g3
+VWe need to gang up on.
+p2712
+sg5
+VJOSH
+p2713
+sa(dp2714
+g3
+VYes.
+p2715
+sg5
+VTOBY
+p2716
+sa(dp2717
+g3
+VWe do it as a gang.
+p2718
+sg5
+VJOSH
+p2719
+sa(dp2720
+g3
+VSee you later.
+p2721
+sg5
+VTOBY
+p2722
+sa(dp2723
+g3
+VListen, it's not gonna be Mandy, right?
+p2724
+sg5
+VJOSH
+p2725
+sa(dp2726
+g3
+VNope.
+p2727
+sg5
+VTOBY
+p2728
+sa(dp2729
+g3
+VAnyone but Mandy.
+p2730
+sg5
+VJOSH
+p2731
+sa(dp2732
+g3
+V'Post hoc ergo propter hoc'? I'll bet that used to have them rolling in the\u000aaisles at the Whiffinpoof Dinners.
+p2733
+sg5
+VC.J.
+p2734
+sa(dp2735
+g3
+VFly in the teeth with it.
+p2736
+sg5
+VTOBY
+p2737
+sa(dp2738
+g3
+VYou think?
+p2739
+sg5
+VC.J.
+p2740
+sa(dp2741
+g3
+VBe funny. You're at your best with a pie in the face.
+p2742
+sg5
+VTOBY
+p2743
+sa(dp2744
+g3
+VI've been told that.
+p2745
+sg5
+VC.J.
+p2746
+sa(dp2747
+g3
+VIn fact, I'd hold back. Keep it in your back pocket.
+p2748
+sg5
+VTOBY
+p2749
+sa(dp2750
+g3
+VJanet?
+p2751
+sg5
+VC.J.
+p2752
+sa(dp2753
+g3
+VIf you don't like the rhythm of the 'Q' and 'A,' use the Ryder Cup. Just\u000afly in\u000athe teeth with it.
+p2754
+sg5
+VTOBY
+p2755
+sa(dp2756
+g3
+VYeah.
+p2757
+sg5
+VC.J.
+p2758
+sa(dp2759
+g3
+V[into P.A.] Please take your seats. Please take your seats, folks. We're\u000agonna\u000astart the briefing.
+p2760
+sg5
+VJANET
+p2761
+sa(dp2762
+g3
+VGood morning. We got a birthday today, right? Suzanne?
+p2763
+sg5
+VC.J.
+p2764
+sa(dp2765
+g3
+VBobbi.
+p2766
+sg5
+VSUZANNE
+p2767
+sa(dp2768
+g3
+VIt's Bobbi's birthday!
+p2769
+sg5
+VC.J.
+p2770
+sa(dp2771
+g3
+VYes, it is.
+p2772
+sg5
+VBOBBI
+p2773
+sa(dp2774
+g3
+VC.J.? Uh, a short while ago the Vice President commented on the White House's\u000aposition on the A3-C3 saying, and I'm quoting from notes, 'This is the time\u000awhen the President needs our support.' Can you clarify the language?
+p2775
+sg5
+VMIKE
+p2776
+sa(dp2777
+g3
+VNo. I can't, Mike. I haven't spoken with the Vice President today.
+p2778
+sg5
+VC.J.
+p2779
+sa(dp2780
+g3
+VThe language seemed strained, doesn't it?
+p2781
+sg5
+VMIKE
+p2782
+sa(dp2783
+g3
+V[glances at Toby, then back at Mike] Strange?
+p2784
+sg5
+VC.J.
+p2785
+sa(dp2786
+g3
+VStrained. 'This is the time when the President needs our support.'
+p2787
+sg5
+VMIKE
+p2788
+sa(dp2789
+g3
+VIt sounds pretty straightforward. I'll tell you what though, if you consult\u000athe\u000amorning releases, you'll see that in the world of sports, the White House\u000ajust\u000agot dissed by 12 guys named Flippy.
+p2790
+sg5
+VC.J.
+p2791
+sa(dp2792
+g3
+VWho's got questions?
+p2793
+sg5
+VC.J.
+p2794
+sa(dp2795
+g3
+VC.J., does this have anything to do with the joke, and is the President\u000aplanning on making an apology?
+p2796
+sg5
+VREPORTER
+p2797
+sa(dp2798
+g3
+V[on T.V.] I have to say that it came as a bit of a surprise to discover that\u000aprofessional golfers don't have a sense of humor, especially after seeing\u000athem\u000ain some of the outfits.
+p2799
+sg5
+VC.J.
+p2800
+sa(dp2801
+g3
+VHey.
+p2802
+sg5
+VSAM
+p2803
+sa(dp2804
+g3
+VHey.
+p2805
+sg5
+VJOSH
+p2806
+sa(dp2807
+g3
+VWhat's up?
+p2808
+sg5
+VSAM
+p2809
+sa(dp2810
+g3
+V[on T.V.] Thank you...
+p2811
+sg5
+VC.J.
+p2812
+sa(dp2813
+g3
+V[starts walking with Sam] C.J. just discovered that Hoynes, when responding\u000ato\u000aa question on A3, said 'this is the time when the President needs our\u000asupport.'\u000aThird one in five weeks.
+p2814
+sg5
+VJOSH
+p2815
+sa(dp2816
+g3
+VSo she moved on to the Ryder Cup?
+p2817
+sg5
+VSAM
+p2818
+sa(dp2819
+g3
+VWouldn't you?
+p2820
+sg5
+VJOSH
+p2821
+sa(dp2822
+g3
+VYeah. [beat] Listen, make sure C.J. keeps this off Leo's desk.
+p2823
+sg5
+VSAM
+p2824
+sa(dp2825
+g3
+VI think it goes right on Leo's desk.
+p2826
+sg5
+VJOSH
+p2827
+sa(dp2828
+g3
+VA vague quote from Hoynes will disappear by the end of the next news cycle.\u000aA fistfight between Leo and the Vice President's got juice.
+p2829
+sg5
+VSAM
+p2830
+sa(dp2831
+g3
+VFair point.
+p2832
+sg5
+VJOSH
+p2833
+sa(dp2834
+g3
+VTalk to C.J.
+p2835
+sg5
+VSAM
+p2836
+sa(dp2837
+g3
+VYeah. I will.
+p2838
+sg5
+VJOSH
+p2839
+sa(dp2840
+g3
+VDid you need me?
+p2841
+sg5
+VJOSH
+p2842
+sa(dp2843
+g3
+VI'm sorry?
+p2844
+sg5
+VSAM
+p2845
+sa(dp2846
+g3
+VDidn't you come to see me?
+p2847
+sg5
+VJOSH
+p2848
+sa(dp2849
+g3
+VI was just stretching my legs.
+p2850
+sg5
+VSAM
+p2851
+sa(dp2852
+g3
+VOh.
+p2853
+sg5
+VJOSH
+p2854
+sa(dp2855
+g3
+VI'm supposed to be working on the Hilton Head draft right now, and I am, but\u000aI'm just stretching my legs.
+p2856
+sg5
+VSAM
+p2857
+sa(dp2858
+g3
+VOkay.
+p2859
+sg5
+VJOSH
+p2860
+sa(dp2861
+g3
+VLast week, I was out for a late drink, and I met this woman named Laurie, and\u000aLaurie and I hit it off, and we spent the evening together back at her place,\u000aand the next day I discovered she was a call girl.
+p2862
+sg5
+VSAM
+p2863
+sa(dp2864
+g3
+VSam?
+p2865
+sg5
+VJOSH
+p2866
+sa(dp2867
+g3
+VYeah?
+p2868
+sg5
+VSAM
+p2869
+sa(dp2870
+g3
+VDo you want to maybe close the door?
+p2871
+sg5
+VJOSH
+p2872
+sa(dp2873
+g3
+VYeah. [he does]
+p2874
+sg5
+VSAM
+p2875
+sa(dp2876
+g3
+VYou slept with a call girl?
+p2877
+sg5
+VJOSH
+p2878
+sa(dp2879
+g3
+VWell no, I... well, yes. Yes I did.
+p2880
+sg5
+VSAM
+p2881
+sa(dp2882
+g3
+VDid she know who you are?
+p2883
+sg5
+VJOSH
+p2884
+sa(dp2885
+g3
+VNo, I didn't reveal my secret identity, Josh.
+p2886
+sg5
+VSAM
+p2887
+sa(dp2888
+g3
+VI'm asking some questions here.
+p2889
+sg5
+VJOSH
+p2890
+sa(dp2891
+g3
+VYes. She knows I work for the President.
+p2892
+sg5
+VSAM
+p2893
+sa(dp2894
+g3
+VYou don't think that she...
+p2895
+sg5
+VJOSH
+p2896
+sa(dp2897
+g3
+VNo.
+p2898
+sg5
+VSAM
+p2899
+sa(dp2900
+g3
+VLet me finish...
+p2901
+sg5
+VJOSH
+p2902
+sa(dp2903
+g3
+VNo, I'm saying no, she wouldn't say anything.
+p2904
+sg5
+VSAM
+p2905
+sa(dp2906
+g3
+VHow do you know?
+p2907
+sg5
+VJOSH
+p2908
+sa(dp2909
+g3
+VI know.
+p2910
+sg5
+VSAM
+p2911
+sa(dp2912
+g3
+VHow do you know?
+p2913
+sg5
+VJOSH
+p2914
+sa(dp2915
+g3
+VI know.
+p2916
+sg5
+VSAM
+p2917
+sa(dp2918
+g3
+VYou want to call her again, don't you?
+p2919
+sg5
+VJOSH
+p2920
+sa(dp2921
+g3
+VLook, I really like her, and she's not what you think.
+p2922
+sg5
+VSAM
+p2923
+sa(dp2924
+g3
+VThe only thing I know about her is she's a call girl. Is she a call girl?
+p2925
+sg5
+VJOSH
+p2926
+sa(dp2927
+g3
+VYes.
+p2928
+sg5
+VSAM
+p2929
+sa(dp2930
+g3
+VThen so far she's exactly what I think.
+p2931
+sg5
+VJOSH
+p2932
+sa(dp2933
+g3
+VI just think I left abruptly. I think it was rude.
+p2934
+sg5
+VSAM
+p2935
+sa(dp2936
+g3
+VOh, you're gonna try and reform her, aren't you?
+p2937
+sg5
+VJOSH
+p2938
+sa(dp2939
+g3
+VNo.
+p2940
+sg5
+VSAM
+p2941
+sa(dp2942
+g3
+VYou are.
+p2943
+sg5
+VJOSH
+p2944
+sa(dp2945
+g3
+VI just didn't say a proper goodbye that, you know, shows a little respect.
+p2946
+sg5
+VSAM
+p2947
+sa(dp2948
+g3
+VSam...
+p2949
+sg5
+VJOSH
+p2950
+sa(dp2951
+g3
+VYou know what, you'd like her if you met her, Josh.
+p2952
+sg5
+VSAM
+p2953
+sa(dp2954
+g3
+VYou got to promise me this is never gonna happen, Sam.
+p2955
+sg5
+VJOSH
+p2956
+sa(dp2957
+g3
+VYes?
+p2958
+sg5
+VJOSH
+p2959
+sa(dp2960
+g3
+VYou're with the Energy Secretary in five minutes.
+p2961
+sg5
+VDONNA
+p2962
+sa(dp2963
+g3
+VThanks.
+p2964
+sg5
+VJOSH
+p2965
+sa(dp2966
+g3
+VWhat's going on?
+p2967
+sg5
+VDONNA
+p2968
+sa(dp2969
+g3
+VNothing.
+p2970
+sg5
+VJOSH
+p2971
+sa(dp2972
+g3
+VReally?
+p2973
+sg5
+VDONNA
+p2974
+sa(dp2975
+g3
+VYes.
+p2976
+sg5
+VJOSH
+p2977
+sa(dp2978
+g3
+VYou're lying?
+p2979
+sg5
+VDONNA
+p2980
+sa(dp2981
+g3
+VYes.
+p2982
+sg5
+VJOSH
+p2983
+sa(dp2984
+g3
+VSo I should get out?
+p2985
+sg5
+VDONNA
+p2986
+sa(dp2987
+g3
+VYes. [Donna leaves] Look, whatever quest...
+p2988
+sg5
+VJOSH
+p2989
+sa(dp2990
+g3
+VIt's not a quest.
+p2991
+sg5
+VSAM
+p2992
+sa(dp2993
+g3
+VWhatever. You're playing with fire here. Just talk to Toby before you do\u000aanything.
+p2994
+sg5
+VJOSH
+p2995
+sa(dp2996
+g3
+VToby?
+p2997
+sg5
+VSAM
+p2998
+sa(dp2999
+g3
+VYes.
+p3000
+sg5
+VJOSH
+p3001
+sa(dp3002
+g3
+VThere's no way that I can do this without talking to Toby?
+p3003
+sg5
+VSAM
+p3004
+sa(dp3005
+g3
+VNo. [opens the door and sees C.J. walking by] Ooh! Ooh! Hang on there. C.J.!\u000a[to Sam] Just talk to Toby. Just Toby.
+p3006
+sg5
+VJOSH
+p3007
+sa(dp3008
+g3
+VAll right.
+p3009
+sg5
+VSAM
+p3010
+sa(dp3011
+g3
+VYou're late.
+p3012
+sg5
+VDONNA
+p3013
+sa(dp3014
+g3
+VThank you. C.J....
+p3015
+sg5
+VJOSH
+p3016
+sa(dp3017
+g3
+VI'm gonna kill him, Josh.
+p3018
+sg5
+VC.J.
+p3019
+sa(dp3020
+g3
+VI would definitely talk to him.
+p3021
+sg5
+VJOSH
+p3022
+sa(dp3023
+g3
+VOh, I'm gonna talk to him, all right.
+p3024
+sg5
+VC.J.
+p3025
+sa(dp3026
+g3
+VI want you to stay on the perimeter.
+p3027
+sg5
+VJOSH
+p3028
+sa(dp3029
+g3
+VI've been staying on the perimeter.
+p3030
+sg5
+VC.J.
+p3031
+sa(dp3032
+g3
+VI don't want it on Leo's desk. Thank you
+p3033
+sg5
+VJOSH
+p3034
+sa(dp3035
+g3
+VC'est un vrai plasir et un honneur. D'etre votre hote aujurd'hui que vous\u000asurviviez cette challeure du fin de septembre. Et que ce jour soit le jour ou\u000aon construit pour le future.
+p3036
+sg5
+VHOYNES
+p3037
+sa(dp3038
+g3
+VAbsolument. Tres bien dis.
+p3039
+sg5
+VFRENCHMAN
+p3040
+sa(dp3041
+g3
+VExcellent.
+p3042
+sg5
+VHOYNES
+p3043
+sa(dp3044
+g3
+VHey Stevie.
+p3045
+sg5
+VC.J.
+p3046
+sa(dp3047
+g3
+VHey C.J.
+p3048
+sg5
+VSTEVIE
+p3049
+sa(dp3050
+g3
+VDoes he have a minute?
+p3051
+sg5
+VC.J.
+p3052
+sa(dp3053
+g3
+VWe're leaving for New York.
+p3054
+sg5
+VSTEVIE
+p3055
+sa(dp3056
+g3
+VIt'll just be a minute.
+p3057
+sg5
+VC.J.
+p3058
+sa(dp3059
+g3
+VI'm looking at my watch.
+p3060
+sg5
+VSTEVIE
+p3061
+sa(dp3062
+g3
+V[to Frenchman] Good luck. [to everyone in general] Thank you. Good luck\u000aeveryone.
+p3063
+sg5
+VHOYNES
+p3064
+sa(dp3065
+g3
+VExcuse me, Mr. Vice President?
+p3066
+sg5
+VC.J.
+p3067
+sa(dp3068
+g3
+VC.J.
+p3069
+sg5
+VHOYNES
+p3070
+sa(dp3071
+g3
+VSir, I-I wanted to talk to you for a moment about A3-C3.
+p3072
+sg5
+VC.J.
+p3073
+sa(dp3074
+g3
+VYes.
+p3075
+sg5
+VHOYNES
+p3076
+sa(dp3077
+g3
+VI wanted to apologize since I've been quickly here and in getting everyone on\u000athe same page, sometimes people get left behind for a day or two...
+p3078
+sg5
+VC.J.
+p3079
+sa(dp3080
+g3
+V[to a staffer behind him] Candy, the most he was talking about in terms of\u000athe\u000asubsidy was six dollars an acre.
+p3081
+sg5
+VHOYNES
+p3082
+sa(dp3083
+g3
+VWe're fixing it.
+p3084
+sg5
+VCANDY
+p3085
+sa(dp3086
+g3
+VSir?
+p3087
+sg5
+VSTEVIE
+p3088
+sa(dp3089
+g3
+VI was saying that had we properly briefed your office...
+p3090
+sg5
+VC.J.
+p3091
+sa(dp3092
+g3
+V[to another staffer] Bill, it was six dollars an acre, Candy said.
+p3093
+sg5
+VHOYNES
+p3094
+sa(dp3095
+g3
+VGot it.
+p3096
+sg5
+VBILL
+p3097
+sa(dp3098
+g3
+VThanks.
+p3099
+sg5
+VHOYNES
+p3100
+sa(dp3101
+g3
+VSir?
+p3102
+sg5
+VC.J.
+p3103
+sa(dp3104
+g3
+VC.J., it was nice of you to come find me, but I've been kept in the loop on\u000aAC cubed.
+p3105
+sg5
+VHOYNES
+p3106
+sa(dp3107
+g3
+VThe quote the room is running with is, 'This is the time when the President\u000aneeds our support.'
+p3108
+sg5
+VC.J.
+p3109
+sa(dp3110
+g3
+VYes.
+p3111
+sg5
+VHOYNES
+p3112
+sa(dp3113
+g3
+VWell, you can see how that might be interpreted...?
+p3114
+sg5
+VC.J.
+p3115
+sa(dp3116
+g3
+V[suddenly stops walking and everyone with him]  C.J.?
+p3117
+sg5
+VHOYNES
+p3118
+sa(dp3119
+g3
+VYes, sir?
+p3120
+sg5
+VC.J.
+p3121
+sa(dp3122
+g3
+VI've got my own press secretary.
+p3123
+sg5
+VHOYNES
+p3124
+sa(dp3125
+g3
+VYes, sir.
+p3126
+sg5
+VC.J.
+p3127
+sa(dp3128
+g3
+VSir?
+p3129
+sg5
+VSTEVIE
+p3130
+sa(dp3131
+g3
+VI got to run.
+p3132
+sg5
+VHOYNES
+p3133
+sa(dp3134
+g3
+VYes, sir.
+p3135
+sg5
+VC.J.
+p3136
+sa(dp3137
+g3
+VWhat's in Jordan?
+p3138
+sg5
+VBARTLET
+p3139
+sa(dp3140
+g3
+VAmman.
+p3141
+sg5
+VMORRIS
+p3142
+sa(dp3143
+g3
+VYou should stay here. We got Amman, a woman, little kids, the works.
+p3144
+sg5
+VBARTLET
+p3145
+sa(dp3146
+g3
+V131 over 84.
+p3147
+sg5
+VMORRIS
+p3148
+sa(dp3149
+g3
+VSee, that was a joke.
+p3150
+sg5
+VBARTLET
+p3151
+sa(dp3152
+g3
+VGood one.
+p3153
+sg5
+VMORRIS
+p3154
+sa(dp3155
+g3
+VEverybody's a critic today.
+p3156
+sg5
+VBARTLET
+p3157
+sa(dp3158
+g3
+VHold still.
+p3159
+sg5
+VMORRIS
+p3160
+sa(dp3161
+g3
+VSo what's in Amman?
+p3162
+sg5
+VBARTLET
+p3163
+sa(dp3164
+g3
+VA teaching hospital.
+p3165
+sg5
+VMORRIS
+p3166
+sa(dp3167
+g3
+VGood for you. How long are you gonna stay?
+p3168
+sg5
+VBARTLET
+p3169
+sa(dp3170
+g3
+VA week.
+p3171
+sg5
+VMORRIS
+p3172
+sa(dp3173
+g3
+VWhen do you leave?
+p3174
+sg5
+VBARTLET
+p3175
+sa(dp3176
+g3
+VTwo hours.
+p3177
+sg5
+VMORRIS
+p3178
+sa(dp3179
+g3
+VWhat's my temperature?
+p3180
+sg5
+VBARTLET
+p3181
+sa(dp3182
+g3
+V56 degrees.
+p3183
+sg5
+VMORRIS
+p3184
+sa(dp3185
+g3
+VFahrenheit?
+p3186
+sg5
+VBARTLET
+p3187
+sa(dp3188
+g3
+VYeah. Is that not normal?
+p3189
+sg5
+VMORRIS
+p3190
+sa(dp3191
+g3
+V[chuckles] So how's the kid?
+p3192
+sg5
+VBARTLET
+p3193
+sa(dp3194
+g3
+VTen days old today.
+p3195
+sg5
+VMORRIS
+p3196
+sa(dp3197
+g3
+VCan she spell anything yet?
+p3198
+sg5
+VBARTLET
+p3199
+sa(dp3200
+g3
+VNo, sir.
+p3201
+sg5
+VMORRIS
+p3202
+sa(dp3203
+g3
+VGot any pictures?
+p3204
+sg5
+VBARTLET
+p3205
+sa(dp3206
+g3
+VThought you'd never ask. [gives him one]
+p3207
+sg5
+VMORRIS
+p3208
+sa(dp3209
+g3
+V[comes in] Sir, they just touched down at Andrews.
+p3210
+sg5
+VNANCY
+p3211
+sa(dp3212
+g3
+VThank you, Nancy.
+p3213
+sg5
+VBARTLET
+p3214
+sa(dp3215
+g3
+VOh, she's beautiful. What's her name?
+p3216
+sg5
+VBARTLET
+p3217
+sa(dp3218
+g3
+VAngela's my wife. Corey's our daughter. It's my grandmother's name. She got\u000ait\u000afrom her great aunt, who got it from the first free woman she ever met.
+p3219
+sg5
+VMORRIS
+p3220
+sa(dp3221
+g3
+VThat name's got a hell of a past.
+p3222
+sg5
+VBARTLET
+p3223
+sa(dp3224
+g3
+VMy family's very proud of its past as you can tell.
+p3225
+sg5
+VMORRIS
+p3226
+sa(dp3227
+g3
+VYour wife's beautiful too. How'd you get her to marry you? Did you trick her\u000aor something?
+p3228
+sg5
+VBARTLET
+p3229
+sa(dp3230
+g3
+VHypnosis.
+p3231
+sg5
+VMORRIS
+p3232
+sa(dp3233
+g3
+VYeah, I figured. [beat] Morris, I made a joke about golfers yesterday,\u000aand now\u000ait consumes the whole damn building.
+p3234
+sg5
+VBARTLET
+p3235
+sa(dp3236
+g3
+VOpen your mouth, sir.
+p3237
+sg5
+VMORRIS
+p3238
+sa(dp3239
+g3
+VJokes like that are part of my folksy charm, Morris. It's the very heart of\u000amy\u000apopularity.
+p3240
+sg5
+VBARTLET
+p3241
+sa(dp3242
+g3
+VDon't you have a job approval rating of like three percent or something?
+p3243
+sg5
+VMORRIS
+p3244
+sa(dp3245
+g3
+VOh, we're having some difficulty getting the word out.
+p3246
+sg5
+VBARTLET
+p3247
+sa(dp3248
+g3
+VOh, thank you. Is this from this morning, Carol?
+p3249
+sg5
+VBARTLET
+p3250
+sa(dp3251
+g3
+VYes, sir. [leaves]
+p3252
+sg5
+VCAROL
+p3253
+sa(dp3254
+g3
+V[sighs] So how's my pulse?
+p3255
+sg5
+VBARTLET
+p3256
+sa(dp3257
+g3
+VHave you been running up and down the stairs at the Rose Bowl in the past few\u000aminutes?
+p3258
+sg5
+VMORRIS
+p3259
+sa(dp3260
+g3
+VNo.
+p3261
+sg5
+VBARTLET
+p3262
+sa(dp3263
+g3
+VThen it's not that good. Cut back on red meat?
+p3264
+sg5
+VMORRIS
+p3265
+sa(dp3266
+g3
+VYeah.
+p3267
+sg5
+VBARTLET
+p3268
+sa(dp3269
+g3
+VDairy?
+p3270
+sg5
+VMORRIS
+p3271
+sa(dp3272
+g3
+VYeah.
+p3273
+sg5
+VBARTLET
+p3274
+sa(dp3275
+g3
+VHow about booze?
+p3276
+sg5
+VMORRIS
+p3277
+sa(dp3278
+g3
+V[jokingly] Yeah, why not? Two Dewars on the rocks, Mrs. Landingham.
+p3279
+sg5
+VBARTLET
+p3280
+sa(dp3281
+g3
+V[smiles] Mr. President...
+p3282
+sg5
+VMORRIS
+p3283
+sa(dp3284
+g3
+VI had a meeting this morning with the Joint Chiefs. [beat] I'm an\u000aaccomplished\u000aman, Morris. I can sit comfortably with prime ministers and Presidents, even\u000athe pope. Why is it every time I sit with the Joint Chiefs, I feel like I'm\u000aback at my father's dinner table.
+p3285
+sg5
+VBARTLET
+p3286
+sa(dp3287
+g3
+VI'm a naval officer, sir...
+p3288
+sg5
+VMORRIS
+p3289
+sa(dp3290
+g3
+VYou're a naval officer. You're a doctor in a uniform. [beat] It's not like\u000aI'm\u000atotally without experience, you know.
+p3291
+sg5
+VBARTLET
+p3292
+sa(dp3293
+g3
+VYes, sir.
+p3294
+sg5
+VMORRIS
+p3295
+sa(dp3296
+g3
+VYou're talking to a former governor. I was commander-in-chief of the New\u000aHampshire National Guard.
+p3297
+sg5
+VBARTLET
+p3298
+sa(dp3299
+g3
+VYou guys got into a lot of tough scrapes, did you?
+p3300
+sg5
+VMORRIS
+p3301
+sa(dp3302
+g3
+VDidn't have to. We'd just stand on the border and stare you down. Then we'd\u000aall\u000ago for pancakes. Like you had a lot of closed infantry combat training in\u000apremed, huh?
+p3303
+sg5
+VBARTLET
+p3304
+sa(dp3305
+g3
+VHold still just a second.
+p3306
+sg5
+VMORRIS
+p3307
+sa(dp3308
+g3
+VWhat is that?
+p3309
+sg5
+VBARTLET
+p3310
+sa(dp3311
+g3
+VIt's a flu shot.
+p3312
+sg5
+VMORRIS
+p3313
+sa(dp3314
+g3
+VI don't need a flu shot.
+p3315
+sg5
+VBARTLET
+p3316
+sa(dp3317
+g3
+VYou do need a flu shot.
+p3318
+sg5
+VMORRIS
+p3319
+sa(dp3320
+g3
+VHow do I know this isn't the start of a military coup?
+p3321
+sg5
+VBARTLET
+p3322
+sa(dp3323
+g3
+VSir?
+p3324
+sg5
+VMORRIS
+p3325
+sa(dp3326
+g3
+VI want the Secret Service in here right away.
+p3327
+sg5
+VBARTLET
+p3328
+sa(dp3329
+g3
+VIn the event of a military coup, sir, what makes you think the Secret Service\u000ais gonna be on your side?
+p3330
+sg5
+VMORRIS
+p3331
+sa(dp3332
+g3
+VNow that's a thought that's gonna fester.
+p3333
+sg5
+VBARTLET
+p3334
+sa(dp3335
+g3
+VHold still.
+p3336
+sg5
+VMORRIS
+p3337
+sa(dp3338
+g3
+VThank you. I'm not comfortable with violence. [beat] I know this country has\u000aenemies, but I don't feel violent toward any of them. I don't know whether\u000athat's a weakness or not, but I think I know how the Joint Chiefs would\u000aanswer\u000athat question.
+p3339
+sg5
+VBARTLET
+p3340
+sa(dp3341
+g3
+VLet the chiefs get to know you, Mr. President. They're serious men, naturally\u000asuspicious of your leadership. That's what comes from spending a lifetime\u000acaught between the devil and the deep blue sea. They're men of character. They
+p3342
+sg5
+VMORRIS
+p3343
+sa(dp3344
+g3
+VAnd the red meat.
+p3345
+sg5
+VBARTLET
+p3346
+sa(dp3347
+g3
+VAnd the scotch.
+p3348
+sg5
+VMORRIS
+p3349
+sa(dp3350
+g3
+VDon't forget your picture. Corey's a beautiful child.
+p3351
+sg5
+VBARTLET
+p3352
+sa(dp3353
+g3
+V[looks at picture] Yeah, I know. Look what I'd done.
+p3354
+sg5
+VMORRIS
+p3355
+sa(dp3356
+g3
+VYou didn't do nothing, mister. You were a passenger on this one. Your job\u000ais to\u000apay the bills, and do what these ladies tell you to do.
+p3357
+sg5
+VBARTLET
+p3358
+sa(dp3359
+g3
+VYes, sir.
+p3360
+sg5
+VMORRIS
+p3361
+sa(dp3362
+g3
+VAlso, you got to teach her how to whistle. Her mother won't do that.
+p3363
+sg5
+VBARTLET
+p3364
+sa(dp3365
+g3
+VRight.
+p3366
+sg5
+VMORRIS
+p3367
+sa(dp3368
+g3
+VI'll see you next week, Morris.
+p3369
+sg5
+VBARTLET
+p3370
+sa(dp3371
+g3
+VIn two weeks.
+p3372
+sg5
+VMORRIS
+p3373
+sa(dp3374
+g3
+VRight. [Morris heads for the door.] Morris?
+p3375
+sg5
+VBARTLET
+p3376
+sa(dp3377
+g3
+VYes, sir.
+p3378
+sg5
+VMORRIS
+p3379
+sa(dp3380
+g3
+VLook at that picture again. See? The past isn't the only thing your family\u000acan\u000abe proud of.
+p3381
+sg5
+VBARTLET
+p3382
+sa(dp3383
+g3
+V[beat] Yes, sir.
+p3384
+sg5
+VMORRIS
+p3385
+sa(dp3386
+g3
+VGo away.
+p3387
+sg5
+VBARTLET
+p3388
+sa(dp3389
+g3
+VMr. President, you remember Stuart White and Ray Finley?
+p3390
+sg5
+VLEO
+p3391
+sa(dp3392
+g3
+VI do, indeed. Mr. White, good to see you. Mr. Finley...
+p3393
+sg5
+VBARTLET
+p3394
+sa(dp3395
+g3
+VJosh?
+p3396
+sg5
+VDONNA
+p3397
+sa(dp3398
+g3
+VYeah.
+p3399
+sg5
+VJOSH
+p3400
+sa(dp3401
+g3
+VWhat do you want for the pool this Saturday?
+p3402
+sg5
+VDONNA
+p3403
+sa(dp3404
+g3
+VAnother hundred bucks?
+p3405
+sg5
+VJOSH
+p3406
+sa(dp3407
+g3
+VYou can't win if you don't play.
+p3408
+sg5
+VDONNA
+p3409
+sa(dp3410
+g3
+VI see it different.
+p3411
+sg5
+VJOSH
+p3412
+sa(dp3413
+g3
+VWho do you like? Rocky Mountain College or Purdue?
+p3414
+sg5
+VDONNA
+p3415
+sa(dp3416
+g3
+VTell you what, can you give me Yeshiva University over the Dallas Cowboys?
+p3417
+sg5
+VJOSH
+p3418
+sa(dp3419
+g3
+VIf you're not going to take this seriously...
+p3420
+sg5
+VDONNA
+p3421
+sa(dp3422
+g3
+V[walks up] Excuse me. Leo will be ready for us in about a half hour.
+p3423
+sg5
+VC.J.
+p3424
+sa(dp3425
+g3
+VThanks. Ah, C.J.?
+p3426
+sg5
+VJOSH
+p3427
+sa(dp3428
+g3
+VYes?
+p3429
+sg5
+VC.J.
+p3430
+sa(dp3431
+g3
+VDid you talk to Hoynes?
+p3432
+sg5
+VJOSH
+p3433
+sa(dp3434
+g3
+VYeah.
+p3435
+sg5
+VC.J.
+p3436
+sa(dp3437
+g3
+VAnd?
+p3438
+sg5
+VJOSH
+p3439
+sa(dp3440
+g3
+VWe're fine.
+p3441
+sg5
+VC.J.
+p3442
+sa(dp3443
+g3
+VYou're sure?
+p3444
+sg5
+VJOSH
+p3445
+sa(dp3446
+g3
+VYeah
+p3447
+sg5
+VC.J.
+p3448
+sa(dp3449
+g3
+VC.J.?
+p3450
+sg5
+VJOSH
+p3451
+sa(dp3452
+g3
+VWe're fine.
+p3453
+sg5
+VC.J.
+p3454
+sa(dp3455
+g3
+VOkay.
+p3456
+sg5
+VJOSH
+p3457
+sa(dp3458
+g3
+VLeo will call when he's ready.
+p3459
+sg5
+VC.J.
+p3460
+sa(dp3461
+g3
+VAnyone but Mandy.
+p3462
+sg5
+VJOSH
+p3463
+sa(dp3464
+g3
+VRight. [walks off]
+p3465
+sg5
+VC.J.
+p3466
+sa(dp3467
+g3
+VI have a Ph.D. Did you know that?
+p3468
+sg5
+VMANDY
+p3469
+sa(dp3470
+g3
+VYes.
+p3471
+sg5
+VDAISY
+p3472
+sa(dp3473
+g3
+VSome people don't know that.
+p3474
+sg5
+VMANDY
+p3475
+sa(dp3476
+g3
+VI do.
+p3477
+sg5
+VDAISY
+p3478
+sa(dp3479
+g3
+VI've got a bachelor's degree in art history, and a master's degree in\u000acommunications and a Ph.D. in political science.
+p3480
+sg5
+VMANDY
+p3481
+sa(dp3482
+g3
+VYes.
+p3483
+sg5
+VDAISY
+p3484
+sa(dp3485
+g3
+VI'm accomplished and brilliant. And yet, look how young and cute I am.
+p3486
+sg5
+VMANDY
+p3487
+sa(dp3488
+g3
+VWhat about Gil McGregor?
+p3489
+sg5
+VDAISY
+p3490
+sa(dp3491
+g3
+VAnd who would think that someone who'd accomplished as much as I have,\u000awould be\u000athis young or this cute?
+p3492
+sg5
+VMANDY
+p3493
+sa(dp3494
+g3
+VGil McGregor?
+p3495
+sg5
+VDAISY
+p3496
+sa(dp3497
+g3
+VAnd here I am.
+p3498
+sg5
+VMANDY
+p3499
+sa(dp3500
+g3
+VMandy.
+p3501
+sg5
+VDAISY
+p3502
+sa(dp3503
+g3
+VI am not calling Gil Mcgregor!
+p3504
+sg5
+VMANDY
+p3505
+sa(dp3506
+g3
+VWhy not?
+p3507
+sg5
+VDAISY
+p3508
+sa(dp3509
+g3
+VI'm not cold-calling businesses like an encyclopedia salesman.
+p3510
+sg5
+VMANDY
+p3511
+sa(dp3512
+g3
+VFine.
+p3513
+sg5
+VDAISY
+p3514
+sa(dp3515
+g3
+VYou do it. [Daisy gives her a knowing look] No. Neither of us has to do it.\u000aThings haven't gotten that bad.
+p3516
+sg5
+VMANDY
+p3517
+sa(dp3518
+g3
+VMiss Hampton, we are sitting on the stairs, drinking wine out of paper cups.
+p3519
+sg5
+VDAISY
+p3520
+sa(dp3521
+g3
+VI'd like it if you called me Dr. Hampton.
+p3522
+sg5
+VMANDY
+p3523
+sa(dp3524
+g3
+VGive me the bottle. [Mandy does.]
+p3525
+sg5
+VDAISY
+p3526
+sa(dp3527
+g3
+VSam Seaborn's office.
+p3528
+sg5
+VCATHY
+p3529
+sa(dp3530
+g3
+VHe's writing now, Danny. He asked me to hold his calls.
+p3531
+sg5
+VCATHY
+p3532
+sa(dp3533
+g3
+V[walks out of his office] Okay.
+p3534
+sg5
+VSAM
+p3535
+sa(dp3536
+g3
+VHe just came out. I'll have him call you back.
+p3537
+sg5
+VCATHY
+p3538
+sa(dp3539
+g3
+VI'm done.
+p3540
+sg5
+VSAM
+p3541
+sa(dp3542
+g3
+VYou're sure?
+p3543
+sg5
+VCATHY
+p3544
+sa(dp3545
+g3
+VYep.
+p3546
+sg5
+VSAM
+p3547
+sa(dp3548
+g3
+VYou're done polishing?
+p3549
+sg5
+VCATHY
+p3550
+sa(dp3551
+g3
+VYes.
+p3552
+sg5
+VSAM
+p3553
+sa(dp3554
+g3
+VYou're done tweaking?
+p3555
+sg5
+VCATHY
+p3556
+sa(dp3557
+g3
+VI'm done tweaking, I'm done polishing. Done. Take it to C.J. [Cathy starts to\u000awalk.] Wait. [looks at the speech one final time, to double check] Yes, I'm\u000adone, really.
+p3558
+sg5
+VSAM
+p3559
+sa(dp3560
+g3
+VWait and hope that the statement comes out of the U.N. by the end of the week.
+p3561
+sg5
+VTOBY
+p3562
+sa(dp3563
+g3
+VIt's the least we can do.
+p3564
+sg5
+VED
+p3565
+sa(dp3566
+g3
+VNo, actually the U.N. is already doing the least they can do.
+p3567
+sg5
+VTOBY
+p3568
+sa(dp3569
+g3
+VRight. [exits] Hey Sam, what's up?
+p3570
+sg5
+VED
+p3571
+sa(dp3572
+g3
+VJust stretching my legs.
+p3573
+sg5
+VSAM
+p3574
+sa(dp3575
+g3
+V[to Sam] Hey.
+p3576
+sg5
+VTOBY
+p3577
+sa(dp3578
+g3
+VHey.
+p3579
+sg5
+VSAM
+p3580
+sa(dp3581
+g3
+VHow's it going?
+p3582
+sg5
+VTOBY
+p3583
+sa(dp3584
+g3
+VI'm finished.
+p3585
+sg5
+VSAM
+p3586
+sa(dp3587
+g3
+VYou're talking about the Hilton head draft?
+p3588
+sg5
+VTOBY
+p3589
+sa(dp3590
+g3
+VI used pretty tough language... 'political cover,' 'counterproductive.'
+p3591
+sg5
+VSAM
+p3592
+sa(dp3593
+g3
+VGood.
+p3594
+sg5
+VTOBY
+p3595
+sa(dp3596
+g3
+VNow, I'm just stretching my legs.
+p3597
+sg5
+VSAM
+p3598
+sa(dp3599
+g3
+VGood.
+p3600
+sg5
+VTOBY
+p3601
+sa(dp3602
+g3
+VCan I talk to you a second?
+p3603
+sg5
+VSAM
+p3604
+sa(dp3605
+g3
+VYeah.
+p3606
+sg5
+VTOBY
+p3607
+sa(dp3608
+g3
+VI'll shut the door.
+p3609
+sg5
+VSAM
+p3610
+sa(dp3611
+g3
+VOkay.
+p3612
+sg5
+VTOBY
+p3613
+sa(dp3614
+g3
+V[closes the door and sits] About a week ago, I accidentally slept with a\u000aprostitute.
+p3615
+sg5
+VSAM
+p3616
+sa(dp3617
+g3
+VReally?
+p3618
+sg5
+VTOBY
+p3619
+sa(dp3620
+g3
+VYes.
+p3621
+sg5
+VSAM
+p3622
+sa(dp3623
+g3
+VYou accidentally slept with a prostitute?
+p3624
+sg5
+VTOBY
+p3625
+sa(dp3626
+g3
+VCall girl.
+p3627
+sg5
+VSAM
+p3628
+sa(dp3629
+g3
+VAccidentally?
+p3630
+sg5
+VTOBY
+p3631
+sa(dp3632
+g3
+VYes.
+p3633
+sg5
+VSAM
+p3634
+sa(dp3635
+g3
+VI don't understand. Did you trip over something?
+p3636
+sg5
+VTOBY
+p3637
+sa(dp3638
+g3
+VI did not know she was a call girl.
+p3639
+sg5
+VSAM
+p3640
+sa(dp3641
+g3
+VThere wasn't a red flag when she charged you money in exchange for sex?
+p3642
+sg5
+VTOBY
+p3643
+sa(dp3644
+g3
+VShe didn't charge me, Toby, come on... I didn't find out about it, till the\u000anext day.
+p3645
+sg5
+VSAM
+p3646
+sa(dp3647
+g3
+VWhere did you meet her?
+p3648
+sg5
+VTOBY
+p3649
+sa(dp3650
+g3
+VThe Four Seasons.
+p3651
+sg5
+VSAM
+p3652
+sa(dp3653
+g3
+VDid anyone see you?
+p3654
+sg5
+VTOBY
+p3655
+sa(dp3656
+g3
+VNo.
+p3657
+sg5
+VSAM
+p3658
+sa(dp3659
+g3
+VYou're sure?
+p3660
+sg5
+VTOBY
+p3661
+sa(dp3662
+g3
+VYes, although I was with Billy for a time.
+p3663
+sg5
+VSAM
+p3664
+sa(dp3665
+g3
+VBilly who?
+p3666
+sg5
+VTOBY
+p3667
+sa(dp3668
+g3
+VKenworthy.
+p3669
+sg5
+VSAM
+p3670
+sa(dp3671
+g3
+VBill Kenworthy...
+p3672
+sg5
+VTOBY
+p3673
+sa(dp3674
+g3
+VYes.
+p3675
+sg5
+VSAM
+p3676
+sa(dp3677
+g3
+V...of The Wall Street Journal!
+p3678
+sg5
+VTOBY
+p3679
+sa(dp3680
+g3
+VHe sat, to talk to me about Josh. It was during the whole Mary Marsh thing,\u000abut\u000ahe got up and left well before...
+p3681
+sg5
+VSAM
+p3682
+sa(dp3683
+g3
+VBefore you picked up a hooker.
+p3684
+sg5
+VTOBY
+p3685
+sa(dp3686
+g3
+VCall girl.
+p3687
+sg5
+VSAM
+p3688
+sa(dp3689
+g3
+VWell, that's a distinction that's gonna be very important to the Grand Jury.
+p3690
+sg5
+VTOBY
+p3691
+sa(dp3692
+g3
+VI haven't broken any laws.
+p3693
+sg5
+VSAM
+p3694
+sa(dp3695
+g3
+VWho else knows about this?
+p3696
+sg5
+VTOBY
+p3697
+sa(dp3698
+g3
+VJosh.
+p3699
+sg5
+VSAM
+p3700
+sa(dp3701
+g3
+VAnd who else?
+p3702
+sg5
+VTOBY
+p3703
+sa(dp3704
+g3
+VThat's it.
+p3705
+sg5
+VSAM
+p3706
+sa(dp3707
+g3
+VSo it's just me, you, the hooker, the President's deputy chief of staff, and\u000aThe Wall Street Journal!
+p3708
+sg5
+VTOBY
+p3709
+sa(dp3710
+g3
+VYou know what Toby? She's not a hooker.
+p3711
+sg5
+VSAM
+p3712
+sa(dp3713
+g3
+VHang on a second, Sam.
+p3714
+sg5
+VTOBY
+p3715
+sa(dp3716
+g3
+VI'd like to call her, just to say we can be friends, I don't see the danger\u000ain\u000athat...
+p3717
+sg5
+VSAM
+p3718
+sa(dp3719
+g3
+V[rubs his forehead] No, no, Sam, no. You're going to try and reform her?
+p3720
+sg5
+VTOBY
+p3721
+sa(dp3722
+g3
+VNo.
+p3723
+sg5
+VSAM
+p3724
+sa(dp3725
+g3
+VI think you are.
+p3726
+sg5
+VTOBY
+p3727
+sa(dp3728
+g3
+VI think she shouldn't have to feel like trash, because I have a job where\u000aadults aren't given the benefit of the doubt.
+p3729
+sg5
+VSAM
+p3730
+sa(dp3731
+g3
+V[walks in] Let's go.
+p3732
+sg5
+VJOSH
+p3733
+sa(dp3734
+g3
+VHe's free?
+p3735
+sg5
+VSAM
+p3736
+sa(dp3737
+g3
+VYeah.
+p3738
+sg5
+VJOSH
+p3739
+sa(dp3740
+g3
+V[to Josh]  Did you know about this?
+p3741
+sg5
+VTOBY
+p3742
+sa(dp3743
+g3
+VKnow about what?
+p3744
+sg5
+VJOSH
+p3745
+sa(dp3746
+g3
+V[indicating Sam] With him.
+p3747
+sg5
+VTOBY
+p3748
+sa(dp3749
+g3
+VYes.
+p3750
+sg5
+VJOSH
+p3751
+sa(dp3752
+g3
+VAnd you're not concerned?
+p3753
+sg5
+VTOBY
+p3754
+sa(dp3755
+g3
+VWho among us hasn't known forbidden love, Toby? Why spring break alone...
+p3756
+sg5
+VJOSH
+p3757
+sa(dp3758
+g3
+VI was going to say...
+p3759
+sg5
+VSAM
+p3760
+sa(dp3761
+g3
+VThis administration doesn't even need an opposition party, do you know that,\u000awe\u000ado fine by ourselves.
+p3762
+sg5
+VTOBY
+p3763
+sa(dp3764
+g3
+VSam, just don't do anything stupid okay?
+p3765
+sg5
+VJOSH
+p3766
+sa(dp3767
+g3
+VYeah.
+p3768
+sg5
+VSAM
+p3769
+sa(dp3770
+g3
+VNice job on the Hilton head draft.
+p3771
+sg5
+VJOSH
+p3772
+sa(dp3773
+g3
+VYou have three minutes, what do you want?
+p3774
+sg5
+VLEO
+p3775
+sa(dp3776
+g3
+VA full time consultant.
+p3777
+sg5
+VTOBY
+p3778
+sa(dp3779
+g3
+VThe dollar is down 3 cents against the Yen; up 2 pennies against the\u000aEuro. Know\u000awhat we need more than a media consultant?  An economic stimulus package that\u000adoesn't look like it was put together at an Amway rally.
+p3780
+sg5
+VLEO
+p3781
+sa(dp3782
+g3
+VYes, but that's not the meeting we're having right now.
+p3783
+sg5
+VJOSH
+p3784
+sa(dp3785
+g3
+VFair point.
+p3786
+sg5
+VLEO
+p3787
+sa(dp3788
+g3
+VThe Ryder Cup shouldn't have even ended up on our radar screen.
+p3789
+sg5
+VJOSH
+p3790
+sa(dp3791
+g3
+VThat's right.
+p3792
+sg5
+VLEO
+p3793
+sa(dp3794
+g3
+VSo you'll let us hire a media consultant? You'll let the D.N.C. spend some\u000amoney?
+p3795
+sg5
+VJOSH
+p3796
+sa(dp3797
+g3
+VAbsolutely.
+p3798
+sg5
+VLEO
+p3799
+sa(dp3800
+g3
+VWho do we get?
+p3801
+sg5
+VTOBY
+p3802
+sa(dp3803
+g3
+VMandy.
+p3804
+sg5
+VLEO
+p3805
+sa(dp3806
+g3
+VExcellent choice.
+p3807
+sg5
+VTOBY
+p3808
+sa(dp3809
+g3
+VYes... Wait, What?
+p3810
+sg5
+VJOSH
+p3811
+sa(dp3812
+g3
+VMandy.
+p3813
+sg5
+VSAM
+p3814
+sa(dp3815
+g3
+VWho is recently unemployed, and by the way, I don't think Josh has gotten\u000aenough credit for that. [She applauds. Sam joins in.]
+p3816
+sg5
+VC.J.
+p3817
+sa(dp3818
+g3
+VWe need her again, Josh.
+p3819
+sg5
+VLEO
+p3820
+sa(dp3821
+g3
+VMandy?
+p3822
+sg5
+VJOSH
+p3823
+sa(dp3824
+g3
+VWe need her.
+p3825
+sg5
+VLEO
+p3826
+sa(dp3827
+g3
+VWait a second. This is an ambush.
+p3828
+sg5
+VJOSH
+p3829
+sa(dp3830
+g3
+VCan you think...?
+p3831
+sg5
+VLEO
+p3832
+sa(dp3833
+g3
+VI'm getting mugged and you're the gang leader.
+p3834
+sg5
+VJOSH
+p3835
+sa(dp3836
+g3
+VCan you think of a single reason not to use Mandy that isn't personal?
+p3837
+sg5
+VLEO
+p3838
+sa(dp3839
+g3
+VSure.
+p3840
+sg5
+VJOSH
+p3841
+sa(dp3842
+g3
+VWhat?
+p3843
+sg5
+VLEO
+p3844
+sa(dp3845
+g3
+V[beat] She used to be my girlfriend!
+p3846
+sg5
+VJOSH
+p3847
+sa(dp3848
+g3
+VThat's good enough for me. Let's do it.
+p3849
+sg5
+VLEO
+p3850
+sa(dp3851
+g3
+VExcellent.
+p3852
+sg5
+VTOBY
+p3853
+sa(dp3854
+g3
+VHang on.
+p3855
+sg5
+VJOSH
+p3856
+sa(dp3857
+g3
+VThis is going to be great.
+p3858
+sg5
+VSAM
+p3859
+sa(dp3860
+g3
+VWait, I-I have certain objections.
+p3861
+sg5
+VJOSH
+p3862
+sa(dp3863
+g3
+VLike what?
+p3864
+sg5
+VLEO
+p3865
+sa(dp3866
+g3
+VFor one thing, the President would never go for this.
+p3867
+sg5
+VJOSH
+p3868
+sa(dp3869
+g3
+VSure he will.
+p3870
+sg5
+VLEO
+p3871
+sa(dp3872
+g3
+VHow do you know?
+p3873
+sg5
+VJOSH
+p3874
+sa(dp3875
+g3
+VAll right... listen... fine... I'm a team player. I think my record is pretty\u000aclear on that.
+p3876
+sg5
+VJOSH
+p3877
+sa(dp3878
+g3
+VYes.
+p3879
+sg5
+VLEO
+p3880
+sa(dp3881
+g3
+VAs long as she understands that she answers to me and she answers to Toby. I\u000adon't want to have to go 15 rounds with her in the Oval Office.
+p3882
+sg5
+VJOSH
+p3883
+sa(dp3884
+g3
+VToby, does that wrap it up?
+p3885
+sg5
+VLEO
+p3886
+sa(dp3887
+g3
+VYeah.
+p3888
+sg5
+VTOBY
+p3889
+sa(dp3890
+g3
+VThank you, everybody.
+p3891
+sg5
+VLEO
+p3892
+sa(dp3893
+g3
+VI'm going to draw a chart for her with lines and arrows, clearly indicating\u000athat she answers to me and she answers to Toby.
+p3894
+sg5
+VJOSH
+p3895
+sa(dp3896
+g3
+VC.J., hang on a second.
+p3897
+sg5
+VLEO
+p3898
+sa(dp3899
+g3
+VDid you talk to Hoynes today?
+p3900
+sg5
+VLEO
+p3901
+sa(dp3902
+g3
+VYeah, I talked to him for a minute this morning.
+p3903
+sg5
+VC.J.
+p3904
+sa(dp3905
+g3
+VAbout A3-C3?
+p3906
+sg5
+VLEO
+p3907
+sa(dp3908
+g3
+VYep.
+p3909
+sg5
+VC.J.
+p3910
+sa(dp3911
+g3
+VI mean about the quote.
+p3912
+sg5
+VLEO
+p3913
+sa(dp3914
+g3
+VYeah.
+p3915
+sg5
+VC.J.
+p3916
+sa(dp3917
+g3
+VAnd?
+p3918
+sg5
+VLEO
+p3919
+sa(dp3920
+g3
+VMiscommunication, he's on board.
+p3921
+sg5
+VC.J.
+p3922
+sa(dp3923
+g3
+VYeah?
+p3924
+sg5
+VLEO
+p3925
+sa(dp3926
+g3
+VYeah.
+p3927
+sg5
+VC.J.
+p3928
+sa(dp3929
+g3
+VI don't understand, what kind of miscommunication?
+p3930
+sg5
+VLEO
+p3931
+sa(dp3932
+g3
+VHis statement got truncated, I'd leave it alone.
+p3933
+sg5
+VC.J.
+p3934
+sa(dp3935
+g3
+VOkay.
+p3936
+sg5
+VLEO
+p3937
+sa(dp3938
+g3
+VAnything else?
+p3939
+sg5
+VC.J.
+p3940
+sa(dp3941
+g3
+VNo.
+p3942
+sg5
+VLEO
+p3943
+sa(dp3944
+g3
+VI'll be in my office.
+p3945
+sg5
+VC.J.
+p3946
+sa(dp3947
+g3
+VShe answers to me and she answers to Toby.
+p3948
+sg5
+VJOSH
+p3949
+sa(dp3950
+g3
+VMrs. Landingham?
+p3951
+sg5
+VBARTLET
+p3952
+sa(dp3953
+g3
+VI'm done, right?
+p3954
+sg5
+VBARTLET
+p3955
+sa(dp3956
+g3
+VAll righty. Thank you. What's in the bag?
+p3957
+sg5
+VBARTLET
+p3958
+sa(dp3959
+g3
+VIt's a shirt.
+p3960
+sg5
+VBARTLET
+p3961
+sa(dp3962
+g3
+VThey left me a shirt?
+p3963
+sg5
+VBARTLET
+p3964
+sa(dp3965
+g3
+VI think they left me something else, Mrs. Landingham.
+p3966
+sg5
+VBARTLET
+p3967
+sa(dp3968
+g3
+VI think they left me 12 center-cut prime fillet Omaha Steaks, Mrs. Landingham.
+p3969
+sg5
+VBARTLET
+p3970
+sa(dp3971
+g3
+VI was going to have Mario fix me one of those steaks tonight.
+p3972
+sg5
+VBARTLET
+p3973
+sa(dp3974
+g3
+VYou stole my steaks.
+p3975
+sg5
+VBARTLET
+p3976
+sa(dp3977
+g3
+VYou are a cattle rustler, Mrs. Landingham.
+p3978
+sg5
+VBARTLET
+p3979
+sa(dp3980
+g3
+VBetween you and Dr. Tolliver, who needs a wife or a mother?
+p3981
+sg5
+VBARTLET
+p3982
+sa(dp3983
+g3
+VChristensen?
+p3984
+sg5
+VDAISY
+p3985
+sa(dp3986
+g3
+VNo.
+p3987
+sg5
+VMANDY
+p3988
+sa(dp3989
+g3
+VStillwell?
+p3990
+sg5
+VDAISY
+p3991
+sa(dp3992
+g3
+VNo.
+p3993
+sg5
+VMANDY
+p3994
+sa(dp3995
+g3
+VCrouse?
+p3996
+sg5
+VDAISY
+p3997
+sa(dp3998
+g3
+VThe one from Indiana?
+p3999
+sg5
+VMANDY
+p4000
+sa(dp4001
+g3
+VAlabama.
+p4002
+sg5
+VDAISY
+p4003
+sa(dp4004
+g3
+VNo.
+p4005
+sg5
+VMANDY
+p4006
+sa(dp4007
+g3
+VHow about the one from Indiana?
+p4008
+sg5
+VDAISY
+p4009
+sa(dp4010
+g3
+VNo.
+p4011
+sg5
+VMANDY
+p4012
+sa(dp4013
+g3
+VKittis?
+p4014
+sg5
+VDAISY
+p4015
+sa(dp4016
+g3
+VNo.
+p4017
+sg5
+VMANDY
+p4018
+sa(dp4019
+g3
+VWaveman?
+p4020
+sg5
+VDAISY
+p4021
+sa(dp4022
+g3
+VNo.
+p4023
+sg5
+VMANDY
+p4024
+sa(dp4025
+g3
+VBrock?
+p4026
+sg5
+VDAISY
+p4027
+sa(dp4028
+g3
+VNo.
+p4029
+sg5
+VMANDY
+p4030
+sa(dp4031
+g3
+VUh, Silverman?
+p4032
+sg5
+VDAISY
+p4033
+sa(dp4034
+g3
+VBartlet.
+p4035
+sg5
+VJOSH
+p4036
+sa(dp4037
+g3
+VWhat about Bartlet?
+p4038
+sg5
+VJOSH
+p4039
+sa(dp4040
+g3
+VWhat are you doing here?
+p4041
+sg5
+VMANDY
+p4042
+sa(dp4043
+g3
+VJed Bartlet, Nobel Laureate in Economics, three-term congressman, two-term\u000aGovernor, You guys look like you could use a client. What do you say? You\u000awant\u000ato work for the leader of the free world?
+p4044
+sg5
+VJOSH
+p4045
+sa(dp4046
+g3
+V[approaches] Josh! Well it took you long enough. [hits Josh in the arm]
+p4047
+sg5
+VMANDY
+p4048
+sa(dp4049
+g3
+VOw!
+p4050
+sg5
+VJOSH
+p4051
+sa(dp4052
+g3
+VYou kept me out of the loop for a year. Sure, once the Ryder cup team...
+p4053
+sg5
+VMANDY
+p4054
+sa(dp4055
+g3
+VOkay...
+p4056
+sg5
+VJOSH
+p4057
+sa(dp4058
+g3
+VWhich by the way...
+p4059
+sg5
+VMANDY
+p4060
+sa(dp4061
+g3
+VOkay, we have some rules.
+p4062
+sg5
+VJOSH
+p4063
+sa(dp4064
+g3
+VI don't want to hear your rules.
+p4065
+sg5
+VMANDY
+p4066
+sa(dp4067
+g3
+VWhat are the rules?
+p4068
+sg5
+VDAISY
+p4069
+sa(dp4070
+g3
+VNumber one, she can't punch me. Number two, I prefer it if the two of you\u000adidn't get drunk in the middle of the day.
+p4071
+sg5
+VJOSH
+p4072
+sa(dp4073
+g3
+VNo.
+p4074
+sg5
+VMANDY
+p4075
+sa(dp4076
+g3
+VAgreed.
+p4077
+sg5
+VDAISY
+p4078
+sa(dp4079
+g3
+VFine.
+p4080
+sg5
+VMANDY
+p4081
+sa(dp4082
+g3
+VOh, you don't know how much we appreciate this, Josh.
+p4083
+sg5
+VDAISY
+p4084
+sa(dp4085
+g3
+VIt's not like he's doing us a favor.
+p4086
+sg5
+VMANDY
+p4087
+sa(dp4088
+g3
+VYou are a good man, Josh!
+p4089
+sg5
+VDAISY
+p4090
+sa(dp4091
+g3
+VYes, I really am quite something.
+p4092
+sg5
+VJOSH
+p4093
+sa(dp4094
+g3
+VI just want to die.
+p4095
+sg5
+VMANDY
+p4096
+sa(dp4097
+g3
+VWe don't even know how to thank you.
+p4098
+sg5
+VDAISY
+p4099
+sa(dp4100
+g3
+VThe look on Mandy's face is thanks enough. Get your coats. You hungry?
+p4101
+sg5
+VJOSH
+p4102
+sa(dp4103
+g3
+VNo.
+p4104
+sg5
+VMANDY
+p4105
+sa(dp4106
+g3
+VYes.
+p4107
+sg5
+VDAISY
+p4108
+sa(dp4109
+g3
+VYes.
+p4110
+sg5
+VMANDY
+p4111
+sa(dp4112
+g3
+VLets go. Rule number 3, and I really can't emphasize this enough, you answer\u000ato\u000ame and you answer to Toby. My office is drawing up some instructional charts\u000athat pretty much outline the chain of command. For instance, you answer to me\u000aand you answer to Toby.
+p4113
+sg5
+VJOSH
+p4114
+sa(dp4115
+g3
+VI understand.
+p4116
+sg5
+VMANDY
+p4117
+sa(dp4118
+g3
+VDo you?
+p4119
+sg5
+VJOSH
+p4120
+sa(dp4121
+g3
+VYes.
+p4122
+sg5
+VMANDY
+p4123
+sa(dp4124
+g3
+VGood.
+p4125
+sg5
+VJOSH
+p4126
+sa(dp4127
+g3
+VIn your dreams.
+p4128
+sg5
+VMANDY
+p4129
+sa(dp4130
+g3
+VMandy!
+p4131
+sg5
+VJOSH
+p4132
+sa(dp4133
+g3
+VIn your little dreams!
+p4134
+sg5
+VMANDY
+p4135
+sa(dp4136
+g3
+VExcuse me. The Vice President is here.
+p4137
+sg5
+VMARGARET
+p4138
+sa(dp4139
+g3
+VThanks.
+p4140
+sg5
+VLEO
+p4141
+sa(dp4142
+g3
+VHey, Leo.
+p4143
+sg5
+VHOYNES
+p4144
+sa(dp4145
+g3
+VGood evening Mr. Vice President.
+p4146
+sg5
+VLEO
+p4147
+sa(dp4148
+g3
+VThanks, Margaret.
+p4149
+sg5
+VLEO
+p4150
+sa(dp4151
+g3
+VHow was New York?
+p4152
+sg5
+VLEO
+p4153
+sa(dp4154
+g3
+VStandard and Poor's going to raise the city's credit rating.
+p4155
+sg5
+VHOYNES
+p4156
+sa(dp4157
+g3
+VGood.
+p4158
+sg5
+VLEO
+p4159
+sa(dp4160
+g3
+VNice of you to call me over. We don't see enough of each other.
+p4161
+sg5
+VHOYNES
+p4162
+sa(dp4163
+g3
+VNo.
+p4164
+sg5
+VLEO
+p4165
+sa(dp4166
+g3
+VMargaret's looking good.
+p4167
+sg5
+VHOYNES
+p4168
+sa(dp4169
+g3
+VDid you blow off C.J. Cregg this morning?
+p4170
+sg5
+VLEO
+p4171
+sa(dp4172
+g3
+VLeo...
+p4173
+sg5
+VHOYNES
+p4174
+sa(dp4175
+g3
+VI'm asking...
+p4176
+sg5
+VLEO
+p4177
+sa(dp4178
+g3
+VIs that what this is about?
+p4179
+sg5
+VHOYNES
+p4180
+sa(dp4181
+g3
+VDid you?
+p4182
+sg5
+VLEO
+p4183
+sa(dp4184
+g3
+VYou know what, C.J. doesn't need to come running to you every time she hits a\u000abump...
+p4185
+sg5
+VHOYNES
+p4186
+sa(dp4187
+g3
+VC.J. did not come running, John, she covered your ass, she's a good girl. And\u000awhen she tells you something, I want you to consider it a directive from this\u000aoffice.
+p4188
+sg5
+VLEO
+p4189
+sa(dp4190
+g3
+VYou want me to consider it a directive from this office?
+p4191
+sg5
+VHOYNES
+p4192
+sa(dp4193
+g3
+VYes.
+p4194
+sg5
+VLEO
+p4195
+sa(dp4196
+g3
+VWell, let me consult Article Two of the Constitution, cause I'm not a hundred\u000apercent sure where this office gets the authority to direct me to the men's\u000aroom!
+p4197
+sg5
+VHOYNES
+p4198
+sa(dp4199
+g3
+VYou really want to do this now?
+p4200
+sg5
+VLEO
+p4201
+sa(dp4202
+g3
+VLeo, I have had it up to here, with you and your pal! I've been shoved into a\u000abroom...
+p4203
+sg5
+VHOYNES
+p4204
+sa(dp4205
+g3
+V[gets riled] Excuse me! Me and my pal?
+p4206
+sg5
+VLEO
+p4207
+sa(dp4208
+g3
+VYes.
+p4209
+sg5
+VHOYNES
+p4210
+sa(dp4211
+g3
+VYou are referring to President Bartlet?
+p4212
+sg5
+VLEO
+p4213
+sa(dp4214
+g3
+VYes.
+p4215
+sg5
+VHOYNES
+p4216
+sa(dp4217
+g3
+VRefer to him that way.
+p4218
+sg5
+VLEO
+p4219
+sa(dp4220
+g3
+V[gets up] Goodnight, Leo.
+p4221
+sg5
+VHOYNES
+p4222
+sa(dp4223
+g3
+VDon't do what you're doing, John.
+p4224
+sg5
+VLEO
+p4225
+sa(dp4226
+g3
+VYou're a world class political operative, Leo. Why the hell shouldn't I keep\u000adoing what I've been doing?
+p4227
+sg5
+VHOYNES
+p4228
+sa(dp4229
+g3
+V'Cause I'll win, and you'll end up playing celebrity golf for the rest of\u000ayour\u000alife.
+p4230
+sg5
+VLEO
+p4231
+sa(dp4232
+g3
+VHow long do you expect me to stick around here and be his whipping boy?
+p4233
+sg5
+VHOYNES
+p4234
+sa(dp4235
+g3
+VGive this President anything less than your full-throated support, and you're\u000agoing to find out exactly how long.
+p4236
+sg5
+VLEO
+p4237
+sa(dp4238
+g3
+VGoodnight, Leo.
+p4239
+sg5
+VHOYNES
+p4240
+sa(dp4241
+g3
+VGoodnight, John.
+p4242
+sg5
+VLEO
+p4243
+sa(dp4244
+g3
+VExcuse me. Hi.
+p4245
+sg5
+VSAM
+p4246
+sa(dp4247
+g3
+VHi.
+p4248
+sg5
+VWOMAN
+p4249
+sa(dp4250
+g3
+VI'm looking for Laurie.
+p4251
+sg5
+VSAM
+p4252
+sa(dp4253
+g3
+VI don't know anyone named Laurie.
+p4254
+sg5
+VWOMAN
+p4255
+sa(dp4256
+g3
+VLaurie's not her real name.
+p4257
+sg5
+VSAM
+p4258
+sa(dp4259
+g3
+VLaurie's not her real name?
+p4260
+sg5
+VWOMAN
+p4261
+sa(dp4262
+g3
+VActually, Laurie is her real name. The name you know her by is not her real\u000aname. I saw her with you the other night.
+p4263
+sg5
+VSAM
+p4264
+sa(dp4265
+g3
+VOh, yeah. I remember you.
+p4266
+sg5
+VWOMAN
+p4267
+sa(dp4268
+g3
+VAh. More good news for Toby.
+p4269
+sg5
+VSAM
+p4270
+sa(dp4271
+g3
+VWhat?
+p4272
+sg5
+VWOMAN
+p4273
+sa(dp4274
+g3
+VNothing. Could you tell me where she is?
+p4275
+sg5
+VSAM
+p4276
+sa(dp4277
+g3
+VShe's in the back.
+p4278
+sg5
+VWOMAN
+p4279
+sa(dp4280
+g3
+VThank you. [heads towards the back]
+p4281
+sg5
+VSAM
+p4282
+sa(dp4283
+g3
+VShe's busy.
+p4284
+sg5
+VWOMAN
+p4285
+sa(dp4286
+g3
+VOnly take a sec!
+p4287
+sg5
+VSAM
+p4288
+sa(dp4289
+g3
+VHongkong? That place has really gone downhill since they changed chefs.
+p4290
+sg5
+VMAN
+p4291
+sa(dp4292
+g3
+VHi.
+p4293
+sg5
+VSAM
+p4294
+sa(dp4295
+g3
+V[out of her laugh] Hi!
+p4296
+sg5
+VLAURIE
+p4297
+sa(dp4298
+g3
+VLook at this. I come in for a drink, and here you are.
+p4299
+sg5
+VSAM
+p4300
+sa(dp4301
+g3
+V[now uncomfortable] How 'bout that?
+p4302
+sg5
+VLAURIE
+p4303
+sa(dp4304
+g3
+VHow you doing?
+p4305
+sg5
+VSAM
+p4306
+sa(dp4307
+g3
+VHi.
+p4308
+sg5
+VMAN
+p4309
+sa(dp4310
+g3
+VThis is...
+p4311
+sg5
+VLAURIE
+p4312
+sa(dp4313
+g3
+VSam Seaborn.
+p4314
+sg5
+VSAM
+p4315
+sa(dp4316
+g3
+VFrom the White House?
+p4317
+sg5
+VMAN
+p4318
+sa(dp4319
+g3
+VYes, sir. [They shake hands.]
+p4320
+sg5
+VSAM
+p4321
+sa(dp4322
+g3
+VSam.
+p4323
+sg5
+VLAURIE
+p4324
+sa(dp4325
+g3
+VI hope you don't mind my barging in like this. It's just that I've known this\u000agirl my whole life.
+p4326
+sg5
+VSAM
+p4327
+sa(dp4328
+g3
+VHow do you know Brittany?
+p4329
+sg5
+VWOMAN
+p4330
+sa(dp4331
+g3
+VWho's Brittany?
+p4332
+sg5
+VSAM
+p4333
+sa(dp4334
+g3
+VI am.
+p4335
+sg5
+VLAURIE
+p4336
+sa(dp4337
+g3
+VOkay.
+p4338
+sg5
+VSAM
+p4339
+sa(dp4340
+g3
+VSam, we're in the middle of something here...
+p4341
+sg5
+VLAURIE
+p4342
+sa(dp4343
+g3
+VNo problem. I don't mean to interrupt. I'll just go back to the bar and call\u000amy friend, the Assistant U.S. Attorney General, and see if he wants to come\u000adown and meet for a drink with me and that woman back there.
+p4344
+sg5
+VSAM
+p4345
+sa(dp4346
+g3
+VExcuse me. [leaves abruptly]
+p4347
+sg5
+VLAURIE
+p4348
+sa(dp4349
+g3
+V[to man] Good to meet you. [to the other man] Okay.
+p4350
+sg5
+VSAM
+p4351
+sa(dp4352
+g3
+VLaurie. I called you four times. You said you were gonna call me back.
+p4353
+sg5
+VSAM
+p4354
+sa(dp4355
+g3
+VStay away from me.
+p4356
+sg5
+VLAURIE
+p4357
+sa(dp4358
+g3
+VLaurie?
+p4359
+sg5
+VSAM
+p4360
+sa(dp4361
+g3
+VI can't believe you just did that!
+p4362
+sg5
+VLAURIE
+p4363
+sa(dp4364
+g3
+VI came here in the spirit of...
+p4365
+sg5
+VSAM
+p4366
+sa(dp4367
+g3
+VI left my jacket at the table. I can't go back there.
+p4368
+sg5
+VLAURIE
+p4369
+sa(dp4370
+g3
+VIf I cost you some money, I'll write you a check.
+p4371
+sg5
+VSAM
+p4372
+sa(dp4373
+g3
+VYou go to hell for saying that.
+p4374
+sg5
+VLAURIE
+p4375
+sa(dp4376
+g3
+VI wasn't... [Laurie walks off ahead of Sam. He follows behind.] I'm sorry.\u000aThat was the wrong thing to say.
+p4377
+sg5
+VSAM
+p4378
+sa(dp4379
+g3
+VYes.
+p4380
+sg5
+VLAURIE
+p4381
+sa(dp4382
+g3
+VYou're gonna freeze out here.
+p4383
+sg5
+VSAM
+p4384
+sa(dp4385
+g3
+VI don't care.
+p4386
+sg5
+VLAURIE
+p4387
+sa(dp4388
+g3
+VTake my coat.
+p4389
+sg5
+VSAM
+p4390
+sa(dp4391
+g3
+VNo.
+p4392
+sg5
+VLAURIE
+p4393
+sa(dp4394
+g3
+VCome on.
+p4395
+sg5
+VSAM
+p4396
+sa(dp4397
+g3
+VGive it to me. [She stops. Sam helps her put on the coat.] I can't believe\u000ayou\u000asaid that in there. I backed away from you so quietly, Sam. You know I did. I\u000anever would have caused you any trouble. And then you come in and you\u000abrandish\u000athis... by the way, the Attorney General has no jurisdiction here. [walks\u000aagain]
+p4398
+sg5
+VLAURIE
+p4399
+sa(dp4400
+g3
+VAre you...?
+p4401
+sg5
+VSAM
+p4402
+sa(dp4403
+g3
+VI break the law in the district. I break the law in Maryland. And from time\u000ato\u000atime, I break the law in Pennsylvania. In my life, I have never committed a\u000afederal crime, which is more than I can say for some people in your line of\u000awork.
+p4404
+sg5
+VLAURIE
+p4405
+sa(dp4406
+g3
+VYou're absolutely right about that.
+p4407
+sg5
+VSAM
+p4408
+sa(dp4409
+g3
+VI need a cab. [waves to a cab passing by but it didn't stop]
+p4410
+sg5
+VLAURIE
+p4411
+sa(dp4412
+g3
+VSo I had a pretty good day.
+p4413
+sg5
+VSAM
+p4414
+sa(dp4415
+g3
+VCongratulations.
+p4416
+sg5
+VLAURIE
+p4417
+sa(dp4418
+g3
+VI feel like more and more I'm putting a role in policy discussions and then\u000atoday I...
+p4419
+sg5
+VSAM
+p4420
+sa(dp4421
+g3
+VWhy did you come and find me tonight?
+p4422
+sg5
+VLAURIE
+p4423
+sa(dp4424
+g3
+VWhat?
+p4425
+sg5
+VSAM
+p4426
+sa(dp4427
+g3
+VWhy did you call me four times, and then come and find me?
+p4428
+sg5
+VLAURIE
+p4429
+sa(dp4430
+g3
+VI just... to tell you that I had a pretty good day.
+p4431
+sg5
+VSAM
+p4432
+sa(dp4433
+g3
+VI don't need saving, Sam.
+p4434
+sg5
+VLAURIE
+p4435
+sa(dp4436
+g3
+VYeah, you do.
+p4437
+sg5
+VSAM
+p4438
+sa(dp4439
+g3
+VAre you aware that I make more money than you do?
+p4440
+sg5
+VLAURIE
+p4441
+sa(dp4442
+g3
+VYou and any kid with a decent paper route.
+p4443
+sg5
+VSAM
+p4444
+sa(dp4445
+g3
+VAnd you understand that I wasn't abused as a child, that I like what I do?
+p4446
+sg5
+VLAURIE
+p4447
+sa(dp4448
+g3
+VReally?
+p4449
+sg5
+VSAM
+p4450
+sa(dp4451
+g3
+VThat it's putting me through law school?
+p4452
+sg5
+VLAURIE
+p4453
+sa(dp4454
+g3
+VI wouldn't knock yourself out in torts because there's no state law in this\u000acountry that's gonna admit you with a solicitation bust on your record.
+p4455
+sg5
+VSAM
+p4456
+sa(dp4457
+g3
+VI don't plan on getting busted.
+p4458
+sg5
+VLAURIE
+p4459
+sa(dp4460
+g3
+VAs opposed to the other people that do?
+p4461
+sg5
+VSAM
+p4462
+sa(dp4463
+g3
+VSam...
+p4464
+sg5
+VLAURIE
+p4465
+sa(dp4466
+g3
+VAnd I gotta tell you... [They stop walking.] I think you look terrific\u000atonight.
+p4467
+sg5
+VSAM
+p4468
+sa(dp4469
+g3
+VThank you.
+p4470
+sg5
+VLAURIE
+p4471
+sa(dp4472
+g3
+VAnd I'm not just saying that because I want my coat back.
+p4473
+sg5
+VSAM
+p4474
+sa(dp4475
+g3
+VYou're gonna try and change me, arguing, asserting a position every time I\u000aturn\u000aaround...
+p4476
+sg5
+VLAURIE
+p4477
+sa(dp4478
+g3
+VI'm a lawyer and a speechwriter. I argue for a living, and I'm sought after\u000abecause I'm good at it.
+p4479
+sg5
+VSAM
+p4480
+sa(dp4481
+g3
+VYou humiliated me back there. And you scared me. You understand that?
+p4482
+sg5
+VLAURIE
+p4483
+sa(dp4484
+g3
+VYeah.
+p4485
+sg5
+VSAM
+p4486
+sa(dp4487
+g3
+VAnd?
+p4488
+sg5
+VLAURIE
+p4489
+sa(dp4490
+g3
+VI guess that's just the way it goes.
+p4491
+sg5
+VSAM
+p4492
+sa(dp4493
+g3
+VWell, that's not good enough.
+p4494
+sg5
+VLAURIE
+p4495
+sa(dp4496
+g3
+VIt's gonna have to be.
+p4497
+sg5
+VSAM
+p4498
+sa(dp4499
+g3
+VWhy?
+p4500
+sg5
+VLAURIE
+p4501
+sa(dp4502
+g3
+V'Cause I've decided to become a good friend of yours.
+p4503
+sg5
+VSAM
+p4504
+sa(dp4505
+g3
+VOh, am I just supposed to strip down for you now?
+p4506
+sg5
+VLAURIE
+p4507
+sa(dp4508
+g3
+VNo.
+p4509
+sg5
+VSAM
+p4510
+sa(dp4511
+g3
+VReally?
+p4512
+sg5
+VLAURIE
+p4513
+sa(dp4514
+g3
+VReally.
+p4515
+sg5
+VSAM
+p4516
+sa(dp4517
+g3
+VSo what are we supposed to do?
+p4518
+sg5
+VLAURIE
+p4519
+sa(dp4520
+g3
+VI don't know, but whatever it is, can we do it indoors because I'm from\u000aSouthern California.
+p4521
+sg5
+VSAM
+p4522
+sa(dp4523
+g3
+VYeah.
+p4524
+sg5
+VLAURIE
+p4525
+sa(dp4526
+g3
+VGood.
+p4527
+sg5
+VSAM
+p4528
+sa(dp4529
+g3
+VYou want to buy me a drink?
+p4530
+sg5
+VLAURIE
+p4531
+sa(dp4532
+g3
+VI have to say, that sounded very professional to me.
+p4533
+sg5
+VSAM
+p4534
+sa(dp4535
+g3
+VShut up.
+p4536
+sg5
+VLAURIE
+p4537
+sa(dp4538
+g3
+VOkay.
+p4539
+sg5
+VSAM
+p4540
+sa(dp4541
+g3
+VSo you're gonna reveal state secrets?
+p4542
+sg5
+VLAURIE
+p4543
+sa(dp4544
+g3
+VTo be honest with you, I don't think I know any state secrets.
+p4545
+sg5
+VSAM
+p4546
+sa(dp4547
+g3
+VNow, he tells me.
+p4548
+sg5
+VLAURIE
+p4549
+sa(dp4550
+g3
+VI can recite the members of Congress in alphabetical order.
+p4551
+sg5
+VSAM
+p4552
+sa(dp4553
+g3
+VOoh, geez, Sam. How do the girls stay on their feet with you?
+p4554
+sg5
+VLAURIE
+p4555
+sa(dp4556
+g3
+VAnd I got some patter with the capital gains tax, too.
+p4557
+sg5
+VSAM
+p4558
+sa(dp4559
+g3
+VEagle's by.
+p4560
+sg5
+VAGENT
+p4561
+sa(dp4562
+g3
+VSo they'll be in position in two hours?
+p4563
+sg5
+VJOSH
+p4564
+sa(dp4565
+g3
+VHow long before an estimated B.D.A.?
+p4566
+sg5
+VLEO
+p4567
+sa(dp4568
+g3
+V[walks up from behind Leo] The President's waiting.
+p4569
+sg5
+VAGENT
+p4570
+sa(dp4571
+g3
+VExcuse me, gentlemen. [heads for the door]
+p4572
+sg5
+VLEO
+p4573
+sa(dp4574
+g3
+VLeo, do you need me?
+p4575
+sg5
+VJOSH
+p4576
+sa(dp4577
+g3
+VNo.
+p4578
+sg5
+VLEO
+p4579
+sa(dp4580
+g3
+VMr. President, Morris Tolliver is dead.
+p4581
+sg5
+VLEO
+p4582
+sa(dp4583
+g3
+VWhat time is it?
+p4584
+sg5
+VBARTLET
+p4585
+sa(dp4586
+g3
+VIt's 10:38 in Damascus.
+p4587
+sg5
+VLEO
+p4588
+sa(dp4589
+g3
+VWhere is the Syrian ambassador?
+p4590
+sg5
+VBARTLET
+p4591
+sa(dp4592
+g3
+VHe's at his residence on a secure phone line.
+p4593
+sg5
+VLEO
+p4594
+sa(dp4595
+g3
+VTel Aviv and London?
+p4596
+sg5
+VBARTLET
+p4597
+sa(dp4598
+g3
+VState's waiting for your word.
+p4599
+sg5
+VLEO
+p4600
+sa(dp4601
+g3
+VAlright, uh... [big sigh] I'm gonna call Morris' wife now. I'll meet you in\u000athe\u000aSituation Room.
+p4602
+sg5
+VBARTLET
+p4603
+sa(dp4604
+g3
+VYes, sir. [heads for the door]
+p4605
+sg5
+VLEO
+p4606
+sa(dp4607
+g3
+VLeo?
+p4608
+sg5
+VBARTLET
+p4609
+sa(dp4610
+g3
+VI am not frightened. I'm gonna blow them off the face of the earth with the\u000afury of God's own thunder. [beat] Get the commanders.
+p4611
+sg5
+VBARTLET
+p4612
+saa.
