@@ -1,5 +1,6 @@
 # all the methods used to parse our data files
 from collections import defaultdict
+from nltk.tokenize import word_tokenize
 
 def parse_NRC(fname):
     f = open(fname)
@@ -59,4 +60,3 @@ if __name__ == "__main__":
     # s = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
     d = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt",
             "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
-    print d

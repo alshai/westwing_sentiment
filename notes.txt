@@ -14,3 +14,6 @@ n-gram HMM.
 train using this set
 test on one or two episodes of The West Wing
 evaluate against our manual labeling
+
+Stanford data from: http://nlp.stanford.edu/sentiment/code.html
+Congressional data: http://www.cs.cornell.edu/home/llee/data/convote.html
