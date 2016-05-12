@@ -56,7 +56,61 @@ def parse_stanford(dictionary_fname, labels_fname):
     return new_dict
 
 
+def parse_episodes(wwscripts_json):
+    wwscripts = json.load(open(wwscripts_json))
+    new_wwscripts = []
+    for episode in wwscripts:
+        ''' episode format:
+        {'episode': X, 
+        'season': X,
+        'script': [{ "character": NAME, "text": LINE_STRING }, ... ]
+        }
+        '''
+        new_script = []
+        script = episode['script'][0].split("\n\n")
+        for line in script:
+            # print line.replace("\n", "\\n")
+            line = re.split("([A-Z.^*]+)\n", line, 1)
+            if len(line) == 3 and line[0] == '':
+                new_script.append({
+                    'character': line[1],
+                    'text': line[2].replace("\n", " ")})
+
+        new_episode = {'episode': episode['episode'],
+                'season': episode['season'],
+                'script': new_script}
+        new_wwscripts.append(new_episode)
+
+    return new_wwscripts
+
+
+def parse_goldstandard(filename, season_num, episode_num):
+    f = open(filename).read().split("\n\n")
+    episode = {"episode": episode_num, 
+            "season": season_num,
+            "script" : []}
+    for line in f:
+        line = line.split("\n")
+        if len(line) == 3:
+            character = line[0].strip() 
+            sentiment = line[1].strip()
+            if sentiment == "pos":
+                sentiment = "positive"
+            elif sentiment == "neg":
+                sentiment = "negative"
+            else:
+                sentiment = "neutral"
+            text = line[2].strip()
+            episode["script"].append({
+                "character": character,
+                "text": text,
+                "gold_score": sentiment})
+    return episode
+
+
+
 if __name__ == "__main__":
     # s = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
-    d = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt",
-            "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
+    # d = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt",
+    #        "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
+    print parse_goldstandard("data/s1e9_gold.txt", 1, 9)

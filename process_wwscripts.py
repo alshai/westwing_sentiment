@@ -8,7 +8,8 @@ if __name__ == "__main__":
     new_wwscripts = []
     for episode in wwscripts:
         ''' episode format:
-        {'episode': X, 'season': X,
+        {'episode': X, 
+        'season': X,
         'script': [{ "character": NAME, "text": LINE_STRING }, ... ]
         }
         '''

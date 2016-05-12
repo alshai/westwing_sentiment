@@ -1,4 +1,5 @@
 from data_processing import parse_NRC
+from nltk.tokenize import word_tokenize
 import pickle
 
 
@@ -34,19 +35,33 @@ def preprocess_text(episode, vocabulary):
     return new_episode
         
 
+def convert_to_sentiment(score):
+    if score > 0.5:
+        return "positive"
+    elif score < 0.5:
+        return "negative"
+    else:
+        return "neutral"
+
+
 def bag_of_words(episode, word_sentiments):
     script = episode["script"]
     for i, line in enumerate(script):
         score = 0.0
-        for word in line['text']:
-            if word_sentiments[word] == "negative":
+        text = word_tokenize(line['text'])
+        for word in text:
+            if word not in word_sentiments:
+                score += 0.5
+            elif word_sentiments[word] == "negative":
                 score += 0
             elif word_sentiments[word] == "positive":
                 score += 1
             elif word_sentiments[word] == "neutral":
                 score += 0.5
-        score = score / len(line['text'])
-        episode['script'][i]['bow_score'] = score
+        score = score / len(text)
+        print text, score
+        episode['script'][i]['bow_score'] = convert_to_sentiment(score)
+
 
 def character_scores(episode, character, score_type='bow_score'):
     script = episode['script']
@@ -58,13 +73,7 @@ def character_scores(episode, character, score_type='bow_score'):
 if __name__ == "__main__":
     episodes = pickle.load(open("test_scripts.pkl", "rb"))
     word_sentiments = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
-    word_sentiments[unknown_token] = "neutral"
-    vocabulary = build_vocabulary(word_sentiments)
-
-    preprocessed_episodes = []
-    for episode in episodes:
-        preprocessed_episodes.append(preprocess_text(episode, vocabulary))
-    bag_of_words(preprocessed_episodes[0], word_sentiments)
+    bag_of_words(episodes[0], word_sentiments)
     print character_scores(preprocessed_episodes[0],
             "TOBY", "bow_score")
 
