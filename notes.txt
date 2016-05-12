@@ -17,3 +17,4 @@ evaluate against our manual labeling
 
 Stanford data from: http://nlp.stanford.edu/sentiment/code.html
 Congressional data: http://www.cs.cornell.edu/home/llee/data/convote.html
+Some reading on features: http://www.cs.columbia.edu/~julia/papers/Agarwaletal11.pdf
