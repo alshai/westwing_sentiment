@@ -1,2273 +1,3031 @@
 JOSH
+pos
 [into phone] Yes... Yes... Yes... So are you prepared at this point to...
 
 JOSH
+pos
 [into phone] Thank you. Thank you, sir. Uh, if you'll sit by the phone for a few minutes, you can expect a call from the president. Thank you again. [hangs up the phone slowly]
 
 C.J.
+pos
 YES!
 
 JOSH
+pos
 It's done.
 
 C.J.
+pos
 We did it!
 
 JOSH
+pos
 It is done!
 
 C.J.
+pos
 It's done!
 
 DONNA
+pos
 Who did it?
 
 C.J.
+pos
 We did it!
 
 JOSH
+pos
 I did it! C.J. was on the phone with her fingers crossed.
 
 C.J.
+pos
 All you did was just one phone call.
 
 JOSH
+pos
 It was a series of phone calls, which I masterminded, while I'm not one to be selfish about credit, I think it is important to know that it is done, and I DID IT! Donna, call Toby. Call Sam. Call Leo. Call the president. Tell them I'm on my way over.
 
 C.J.
+pos
 Congratulations!
 
 JOSH
+neu
 Nothing to the press.
 
 C.J.
+pos
 Yes. [starts to walk away]
 
 JOSH
+pos
 Claudia Jean?
 
 C.J.
+pos
 Yeah?
 
 JOSH
+pos
 We did it!
 
 C.J.
+pos
 Yeah!
 
 DONNA
+neu
 Wait!
 
 JOSH
+neu
 What?
 
 DONNA
+neu
 Don't you want to know about the banging in your office?
 
 JOSH
+neu
 Banging in my office?
 
 DONNA
+neg
 They've been at it all morning.
 
 JOSH
+neu
 Banging?
 
 DONNA
+neg
 Yeah.
 
 JOSH
+neg
 I don't know what you're talking about.
 
 DONNA
+neg
 Josh, there's a loud banging or thumping coming from the floor above your office.
 
 JOSH
+neg
 I didn't notice.
 
 DONNA
+neg
 How could you not notice?
 
 JOSH
+neg
 Because I didn't, Donna. I've been on the phone for the last hour trying to seal the deal to fill a seat on the Supreme Court.
 
 DONNA
+neg
 It was a pretty loud banging, Josh.
 
 JOSH
+pos
 You got to understand I'm talking about the United States Supreme Court right?
 
 DONNA
+neu
 Yes.
 
 JOSH
+pos
 Okay.
 
 SAM
+pos
 Who da man?
 
 TOBY
+pos
 You da man!
 
 DONNA
+neg
 This is just gross.
 
 JOSH
+neu
 Wait there for me.
 
 TOBY
+pos
 Good morning, Mrs. Landingham.
 
 JOSH
+pos
 Good morning!
 
 SAM
+pos
 Good morning, indeed.
 
 JOSH
+pos
 Yes, Mrs. Landingham?
 
 JOSH
+pos
 Well, that depends on your answer to this question, Mrs. Landingham: Who da man?
 
 JOSH
+pos
 Hmmm... Who da man?
 
 TOBY
+pos
 You da men.
 
 JOSH
+pos
 Thank you.
 
 BARTLET
+pos
 I heard we may have...
 
 JOSH
+pos
 Yes sir.
 
 BARTLET
+pos
 I can call him?
 
 JOSH
+pos
 He's waiting for you sir.
 
 BARTLET
+pos
 It's done?
 
 JOSH
+pos
 Done.
 
 LEO
+pos
 You got yourself a Supreme Court nominee, Mr. President.
 
 BARTLET
+pos
 This is huge. Which one of you is the man?
 
 TOBY
+pos
 On this one, we'd like to think of ourselves collectively as the men, sir.
 
 BARTLET
+neu
 Mrs. Landingham, let's make the phone call!
 
 JOSH
+pos
 Congratulations.
 
 BARTLET
+pos
 Thank you. You too. [They shake hands.]
 
 SAM
+pos
 Well done, sir.
 
 BARTLET
+pos
 Thank you.
 
 MANDY
+pos
 You guys rock.
 
 SAM
+pos
 Oh, we really do.
 
 LEO
+neu
 Let's bring in the chairman and the ranking member from judiciary, the leadership from both sides, and C.J. you should...where is C.J.?
 
 C.J.
+neu
 [comes in behind Leo] Right here.
 
 LEO
+neu
 [turns around] Oh.
 
 C.J.
+neu
 Sorry.
 
 LEO
+neg
 You should wear a bell around your neck, you know that?
 
 C.J.
+pos
 Thank you.
 
 LEO
+neu
 So what do we want to we do?
 
 TOBY
+neu
 C.J. will let the press know that the president will introduce his nominee in an east room press ceremony Thursday, 5 p.m.
 
 JOSH
+neu
 Can we do it on Friday, and give ourselves more time?
 
 TOBY
+neu
 Thursday.
 
 JOSH
+neu
 Why?
 
 SAM
+neu
 Because that's when people watch T.V.
 
 MANDY
+neu
 We can do this in four days?
 
 TOBY
+neu
 Yep.
 
 LEO
+neu
 Are you sure?
 
 TOBY
+neu
 Yep.
 
 LEO
+neu
 Toby, you're running the show.
 
 TOBY
+neu
 I know.
 
 LEO
+neu
 Put the ball in the hole.
 
 TOBY
+neu
 It's done.
 
 LEO
+neu
 No, it's not. So get it done.
 
 TOBY
+neu
 Yes sir.
 
 TOBY
+neu
 Josh, get me everything.
 
 JOSH
+neu
 We vetted him two months.
 
 TOBY
+neu
 I'm gonna vet him four more days. I want to know every parking ticket. I want to know every girlfriend he stood up for dinner in 1953. Mandy, you're gonna roll this guy out on a show that makes the queen's coronation look like dinner theater. Sam, you're gonna write the president's introduction. You're also gonna write the Harrison's remarks.
 
 SAM
+neu
 Harrison's not gonna like that.
 
 TOBY
+pos
 Show him the robe he gets. He'll like it fine.
 
 TOBY
+neg
 C.J., no leaks. If the name of this nominee is leaked out before I want it to be leaked out, I'm gonna blame you, and you're gonna find that unpleasant.
 
 C.J.
+pos
 I got to tell you something, Toby. You're hot when you're like this.
 
 TOBY
+pos
 [yells] I am gonna put Harrison on the Court! I swear to God I am!
 
 JOSH
+neu
 We meet again three hours.
 
 MANDY
+neu
 C.J., come talk to me.
 
 SAM
+pos
 Did you see his face?
 
 JOSH
+pos
 We're home.
 
 SAM
+pos
 I'll see you later.
 
 DONNA
+neu
 It's a maintenance crew.
 
 JOSH
+pos
 The banging?
 
 DONNA
+neg
 They're working upstairs.
 
 JOSH
+pos
 Peyton Cabot Harrison III.
 
 DONNA
+neg
 Yes.
 
 JOSH
+pos
 Peyton Cabot Harrison III. He sounds like he should be a Supreme Court justice.
 
 DONNA
+neu
 It's a good name.
 
 JOSH
+pos
 Phillips Exeter, Princeton, Rhodes scholar, Harvard Law Review, for which he was, oh yeah, the editor. Did I mention that he was dean of Harvard Law School? Did I mention that his father was attorney general to Eisenhower?
 
 DONNA
+neg
 Peyton Cabot Harrison III.
 
 JOSH
+pos
 That's right.
 
 DONNA
+neg
 Jewish fellow?
 
 JOSH
+neg
 You're not gonna ruin this moment for me, Donna.
 
 DONNA
+neg
 I'm sharing this moment with you.
 
 JOSH
+pos
 This is a big day for us.
 
 DONNA
+neg
 You're the men.
 
 JOSH
+pos
 You know what we're finally gonna have?
 
 DONNA
+neg
 A waspy old man in the Supreme Court?
 
 JOSH
+pos
 A smooth confirmation process.
 
 DONNA
+neg
 You think?
 
 JOSH
+pos
 It's gonna sail.
 
 DONNA
+neg
 I hope so.
 
 JOSH
+pos
 It's gonna sail, Donna.
 
 DONNA
+neg
 There's many a slip twixt the tongue and the wrist, Josh.
 
 JOSH
+pos
 Yes. Well, your fortune cookie wisdom notwithstanding, it's gonna sail.
 
 DONNA
+neg
 Please don't get your hopes up.
 
 JOSH
+neg
 Why shouldn't I get my hopes up?
 
 DONNA
+neg
 Because when it doesn't work out, you end up drunk in my apartment in the middle of the night and yell at my roommate's cats.
 
 JOSH
+pos
 Smooth sailing, Donna.
 
 DONNA
+neg
 Cautious optimism, Josh.
 
 JOSH
+neg
 Nothing bad is gonna happen this week.
 
 DONNA
+neu
 Exercise cautious optimism.
 
 JOSH
+neg
 Look, there is no reason...
 
 JOSH
+neu
 Well... okay.
 
 BARTLET
+pos
 You're too young to retire, Joseph.
 
 CROUCH
+neg
 [laughs] You're an excellent liar, Mr. President.
 
 BARTLET
+neu
 [chuckling] Yes sir.
 
 CROUCH
+neu
 You're gonna go with Harrison?
 
 BARTLET
+neu
 He's on the short list.
 
 CROUCH
+neu
 Yeah?
 
 BARTLET
+neu
 Yeah.
 
 CROUCH
+neg
 With how many other names?
 
 BARTLET
+pos
 We'll make our announcement on Thursday.
 
 CROUCH
+neg
 You've decided on Harrison.
 
 BARTLET
+neu
 I haven't made a decision yet, Joseph.
 
 CROUCH
+neg
 You've made the call. [beat] Did you even consider Mendoza?
 
 BARTLET
+pos
 Mendoza was on the short list.
 
 CROUCH
+neg
 Mendoza was on the short list so you can show you had an Hispanic on the short list.
 
 BARTLET
+neu
 That's not true, Joseph.
 
 CROUCH
+neg
 You ran great guns in the campaign. It was an insurgency, boy, a sight to see. And then you drove to the middle of the road the moment after you took the oath. Just the middle of the road. Nothing but a long line painted yellow.
 
 BARTLET
+neg
 Excuse me, sir...
 
 CROUCH
+neg
 I wanted to retire five years ago. But I waited for a Democrat. I wanted a Democrat. Hmm! And instead I got you.
 
 DANNY
+neu
 Hey.
 
 C.J.
+neu
 Hey.
 
 DANNY
+pos
 How you doing?
 
 C.J.
+neg
 I'm doing fine, Danny.
 
 DANNY
+neu
 Is it gonna be Harrison?
 
 C.J.
+neg
 Why, why, oh why do you ask me questions that you absolutely, positively know I'm not gonna answer?
 
 DANNY
+pos
 It's a good conversation starter.
 
 C.J.
+neg
 I can't go out on a date with you, Danny.
 
 DANNY
+neu
 Who asked you?
 
 C.J.
+neu
 Okay.
 
 DANNY
+neu
 You think Harrison is gonna be a good Justice?
 
 C.J.
+neg
 Danny?
 
 DANNY
+pos
 You see what I did there?
 
 C.J.
+neu
 Yeah.
 
 DANNY
+pos
 I tried to trick you into confirming it was Harrison.
 
 C.J.
+neu
 Yes.
 
 DANNY
+pos
 It didn't work.
 
 C.J.
+neu
 No.
 
 DANNY
+pos
 And you won't go out on a date with me, right?
 
 C.J.
+pos
 Right.
 
 DANNY
+neu
 Okay.
 
 BARTLET
+neu
 I suppose we should get out there.
 
 CROUCH
+neg
 Not yet, sir.
 
 BARTLET
+neg
 I'm sorry Joseph, but I am...
 
 CROUCH
+neg
 I've served on this bench for 38 years. I took my seat the year you began college. I believe I've earned the right to say a word.
 
 BARTLET
+neu
 You've said quite a few words.
 
 CROUCH
+neg
 Not enough.
 
 BARTLET
+pos
 Let's get out there.
 
 CROUCH
+neg
 Take the next few days with your staff, and give Mendoza the consideration he deserves.
 
 BARTLET
+pos
 Joseph, when the next seat opens up, I promise you...
 
 CROUCH
+neg
 When the next seat opens up, you'll be writing your memoirs.
 
 BARTLET
+pos
 In three years, I would hope to be running for reel...
 
 CROUCH
+neg
 You're gonna get beat in three years.
 
 BARTLET
+neg
 That's a little pessimistic, Joseph.
 
 CROUCH
+neg
 American voters like guts. And Republicans have got them. In the three years, one of them is gonna beat you.
 
 BARTLET
+neg
 You know I imagine the view from your largely unscrutinized place in history must be very different from mine. But I remind you sir, that I have the following things to negotiate: an opposition Congress, special interests with power beyond belief, and a bitchy media.
 
 CROUCH
+neg
 So did Harry Truman.
 
 BARTLET
+neg
 Well, I am not Harry Truman.
 
 CROUCH
+neg
 Mr. Bartlet, you needn't point out that fact.
 
 BARTLET
+neg
 [beat] It's 'Dr. Bartlet,' your honor. Now, let's go start your retirement.
 
 DANNY
+pos
 Want my gloves?
 
 C.J.
+neu
 No, thanks.
 
 DANNY
+pos
 I asked because you look pretty cold.
 
 C.J.
+neg
 I'm fine.
 
 DANNY
+pos
 What do you suppose they're talking about in there?
 
 C.J.
+neu
 The president and Justice Crouch are old friends.
 
 DANNY
+neu
 The president and Justice Crouch can't stand each other.
 
 C.J.
+neu
 The man's retiring today. It's a courtesy call. What do you want from me?
 
 DANNY
+pos
 Dinner and a movie.
 
 C.J.
+neu
 No.
 
 DANNY
+pos
 You think Crouch is pissed because the president has already settled on Harrison?
 
 C.J.
+pos
 Danny?
 
 DANNY
+pos
 I did it again!
 
 C.J.
+pos
 Yeah.
 
 DANNY
+pos
 But you know what you did?
 
 C.J.
+pos
 What?
 
 DANNY
+pos
 You outfoxed me.
 
 C.J.
+pos
 You're killing me. You know that, Danny.
 
 WOMAN
+neu
 Here we go.
 
 JOSH
+neu
 That was inches from my head.
 
 DONNA
+neg
 Josh.
 
 JOSH
+neg
 Inches.
 
 DONNA
+pos
 It was not inches.
 
 JOSH
+pos
 It was inches. A little bit this way, a little bit that way, bam! Massive head wound.
 
 DONNA
+neu
 You're fine.
 
 JOSH
+neu
 Yeah, but there for the grace of God, you know what I'm saying?
 
 DONNA
+neu
 Yes.
 
 JOSH
+pos
 I really think if big chunks of ceiling are gonna fall on anyone... I don't know...
 
 DONNA
+pos
 What?
 
 JOSH
+pos
 It should be you.
 
 DONNA
+pos
 Ugh. I knew you were gonna say that.
 
 JOSH
+pos
 From now on, before I come in in the morning, I want you to test my office.
 
 MANDY
+neu
 [comes up] Josh?
 
 DONNA
+neu
 Staff in ten minutes. [leaves]
 
 JOSH
+neu
 You see this?
 
 MANDY
+neu
 Yeah.
 
 JOSH
+pos
 Inches from my head.
 
 MANDY
+neg
 Why is Peter Lillienfield holding a press conference?
 
 JOSH
+pos
 Who cares?
 
 MANDY
+neg
 I do. Why is Lillienfield holding a press conference?
 
 JOSH
+neg
 I don't know.
 
 MANDY
+neg
 Is he unhappy about something?
 
 JOSH
+neg
 He's always unhappy about something. [calls] Donna! Where's my east Asia memo?!
 
 MANDY
+neg
 It starts in two minutes.
 
 JOSH
+neu
 What starts in two minutes?
 
 MANDY
+neg
 Lillienfield's press conference.
 
 JOSH
+neg
 [shouts] It's okay, Donna. I'll just come and get it myself!
 
 MANDY
+neu
 Josh?
 
 JOSH
+neu
 Mandy.
 
 MANDY
+neu
 I'm just saying that we don't need any surprises today.
 
 JOSH
+neg
 We're not gonna have any surprises today.
 
 MANDY
+neg
 I'm putting on a show. I don't want to get upstaged.
 
 JOSH
+neg
 You're not gonna get upstaged.
 
 DONNA
+neu
 Here.
 
 JOSH
+neu
 Thank you.
 
 DONNA
+neg
 You're welcome.
 
 JOSH
+pos
 You should be nice to me. I could be dead you know.
 
 DONNA
+pos
 I don't have that kind of luck. [leaves]
 
 SAM
+neu
 Yeah?
 
 TOBY
+neu
 I would like you to play out that as a lifelong Democrat, he clerked for a Republican. I would like you to play DOWN that he'd never written a judicial opinion on abortion or revealed his thinking on Roe.
 
 SAM
+pos
 I'm already there.
 
 TOBY
+pos
 Well, thank you.
 
 SAM
+neu
 What's this?
 
 TOBY
+neg
 Lillienfield's talking about something that's bothering him today.
 
 SAM
+neg
 WHAT could possibly be less interesting? I'll be in my office.
 
 TOBY
+neu
 Okay.
 
 TOBY
+neg
 [into phone] Get her.
 
 CAROL
+neu
 C.J.?
 
 C.J.
+neu
 Tell him I'm watching.
 
 LEO
+neg
 One in three?
 
 C.J.
+neu
 Yes.
 
 LEO
+neg
 He said one in three White House staffers were on drugs?
 
 C.J.
+neu
 Yes.
 
 LEO
+neg
 Where does he get these stats?
 
 C.J.
+neg
 Leo...
 
 LEO
+neg
 I mean where does he pull them from?
 
 C.J.
+neg
 Out of the clear blue sky, but that doesn't matter.
 
 LEO
+neg
 Is somebody bringing me a tape of this?
 
 MARGARET
+neu
 They're getting it. [leaves]
 
 MANDY
+neg
 This isn't happening to me.
 
 LEO
+neu
 Nothing's happening. Stay cool.
 
 SAM
+neg
 [pops his head and walks in] Is it possible for Peter Lillienfield to be a bigger jackass? You think if he tried hard, there's room for him to be a slightly bigger horse's ass than he's being right now?
 
 C.J.
+neg
 At some point, you hit your head in the ceiling, don't you?
 
 SAM
+pos
 I think there's unexplored potential.
 
 JOSH
+pos
 [comes in] 'Sup?
 
 MANDY
+neu
 Josh.
 
 JOSH
+pos
 Five White House staffers in the room. I would like to say to the 1.6 of you who are stoned right now, that it's time to share.
 
 MANDY
+neg
 This isn't funny, Josh.
 
 JOSH
+pos
 Mandy, if you can't laugh at this, then you're just not having enough fun in show business.
 
 MANDY
+neg
 Josh?
 
 JOSH
+pos
 He's a featherweight, Mandy. He's a hairdo.
 
 SAM
+pos
 I think if he put his shoulder into it, he could be a slightly bigger gasbag.
 
 JOSH
+pos
 Yeah.
 
 SAM
+pos
 You know, if he really reach for the stars.
 
 TOBY
+neu
 [quickly walks in] Good morning.
 
 C.J.
+neu
 Hey.
 
 TOBY
+neg
 There's no way you saw this coming?
 
 LEO
+neg
 Toby...
 
 TOBY
+neg
 Leo, I know I'm in your office. Forgive me. [yells] But nobody saw this coming?!
 
 C.J.
+neg
 Yeah. I can't believe my psychic didn't tell me, Toby. Rest assured, I'm gonna get my twenty bucks back.
 
 LEO
+neu
 Short-term, long-term?
 
 JOSH
+pos
 Short-term nothing.
 
 C.J.
+neg
 I can't go with nothing.
 
 JOSH
+neu
 Why not?
 
 C.J.
+neg
 Pretend we didn't see it?
 
 JOSH
+pos
 He's a liar. He's a fool. Categorically deny it and move on.
 
 MANDY
+neg
 She can't.
 
 C.J.
+neg
 I can't.
 
 JOSH
+pos
 Why not?
 
 C.J.
+neg
 Because more than 1300 people work for the White House, Josh. I go to the Press Room and categorically deny that anyone uses drugs, and it turns out that three guys in the photo lab blew a joint over the weekend, which is not like out of the realm of possibility. And my next question is...
 
 MANDY
+neg
 But you categorically denied it, now you admit there are three.
 
 C.J.
+neg
 Yes. Well, I categorically deny that there are any more than three.
 
 MANDY
+neg
 But now it seems that the assistant to the deputy director of White House beverages--
 
 JOSH
+neg
 All right.
 
 MANDY
+neg
 --is confessing to a life of a closet junkie.
 
 C.J.
+neg
 Yes, and I understand she's selling her story to Random House for a middle six-figure advance.
 
 TOBY
+neg
 [now has his head against the wall] All right. Are we done with Masterpiece Theater?
 
 LEO
+neu
 C.J., we're looking into it, okay?
 
 C.J.
+neu
 Yeah.
 
 LEO
+neu
 That's what we're saying right now.
 
 JOSH
+neg
 I don't care if we say that, but... we're not actually looking into it, are we?
 
 LEO
+neu
 Yes.
 
 JOSH
+neg
 This is a joke, right?
 
 MARGARET
+neu
 [walks in] Leo?
 
 LEO
+neu
 Yeah? Toby. [points at the staff]
 
 TOBY
+neu
 Yeah.
 
 TOBY
+neu
 C.J., go do your briefing. The president paid a courtesy call on Crouch this morning. We got some exciting names. On the short list is Ed Harrison. We'll introduce the nominee Thursday, 5 o'clock. This business with Lillienfield...
 
 C.J.
+neu
 I've heard about it, and I'd like the chance to see it first before I comment.
 
 TOBY
+neu
 Is the president aware?
 
 C.J.
+neu
 We'd like to keep this things off the president's desk until we measure what, if any, credibility...
 
 TOBY
+pos
 Good girl.
 
 MANDY
+neg
 Toby, if the alternative is getting Harrison bumped off the top story...
 
 TOBY
+neu
 We're not gonna postpone.
 
 MANDY
+neu
 Let's end this fast.
 
 JOSH
+neu
 How?
 
 MANDY
+neu
 You know how.
 
 JOSH
+neg
 No, I don't.
 
 SAM
+neu
 Mandy.
 
 MANDY
+neg
 What I'm saying...
 
 TOBY
+neg
 Go back to work, Mandy.
 
 JOSH
+neg
 Now, hang on a second. I'd like to hear what-
 
 TOBY
+neg
 Hey! Go back to work.
 
 MANDY
+neg
 Lillienfield is walking on a stage, and he's not gonna get off until he gets off is what I'm saying.
 
 JOSH
+neg
 We are not taking drug tests.
 
 MANDY
+neg
 Why not?
 
 JOSH
+neg
 Because we're not!
 
 MANDY
+neg
 Toby, let's end this.
 
 JOSH
+neg
 Toby, if you...
 
 TOBY
+neg
 Shut up. [to Mandy] Go. [Mandy leaves.] Sam, go back to doing what you're doing.
 
 SAM
+neu
 They just delivered five cartons of Harrison's old papers.
 
 TOBY
+neu
 Then go start reading.
 
 JOSH
+neg
 Toby...
 
 TOBY
+neu
 What do we know? What do they know?
 
 JOSH
+neg
 Now, wait, hang on a second.
 
 TOBY
+neg
 Josh...
 
 JOSH
+neg
 You're not making me--I'm not gonna be the internal affairs cop around here.
 
 TOBY
+neg
 Yes, you are.
 
 JOSH
+neg
 You want to know who's doing what around here, you ask them yourself!
 
 TOBY
+neg
 This isn't the time, Josh. We taking water over the side...
 
 JOSH
+neg
 Yes, and I'm not indifferent to that, but there's a principle here-
 
 TOBY
+neg
 No, there's not. Not this week. We've been doing this for a year, and all we've gotten is a year older. Our job approval's 48%, and I think that number's soft, and I'm tired of being the field captain for the gang that couldn't shoot straight! We're getting this done! [beat] What do we know? What do they know? Start with me, if you want.
 
 SAM
+neu
 Hello? This is Sam Seaborn. [listens] What's your name? Uh, I'm not a cop. What's your name? [listens] Where are you right now? [listens] All right. I'm the only one in my office, but as soon as the secretary get--you know what? Hang on. I'm on my way. [hangs up the phone, wears his jacket, heads out, and trips over one of the cartons] Ow!
 
 BARTLET
+pos
 A quick confirmation's gonna be good for us.
 
 LEO
+pos
 Ritter says we'll get unanimous approval out of committee and 90 votes in the Senate.
 
 BARTLET
+pos
 That's a blowout, Leo.
 
 LEO
+pos
 Mm-hmm.
 
 BARTLET
+pos
 Just what the doctor ordered. [An agent opens the door.] Thank you.
 
 BARTLET
+pos
 Good morning, Mrs. Landingham.
 
 LEO
+pos
 Good morning.
 
 BARTLET
+neu
 When is Harrison getting in?
 
 LEO
+neu
 Late tonight.
 
 BARTLET
+pos
 Good.
 
 BARTLET
+pos
 Good morning, Charlie.
 
 CHARLIE
+pos
 Good morning, Mr. President.
 
 LEO
+pos
 Good morning.
 
 BARTLET
+pos
 Peyton Cabot Harrison. Find out what kind of cigars he likes, what kind of perfume his wife likes, and have them sent over to their hotel, okay?
 
 CHARLIE
+neu
 Back channels, sir?
 
 BARTLET
+pos
 Yeah.
 
 LEO
+neu
 They're gonna stake the hotels. Gifts coming from the White House...
 
 BARTLET
+neu
 We're using back channels. What is going on with Lillienfield?
 
 LEO
+neu
 You're staying out of it.
 
 BARTLET
+neu
 Fine.
 
 LEO
+neu
 Anything else?
 
 BARTLET
+pos
 We're gonna get this done, right?
 
 LEO
+pos
 Yes sir.
 
 BARTLET
+pos
 All right.
 
 BARTLET
+pos
 I'm on my way.
 
 LEO
+pos
 Thank you, Mr. President.
 
 BARTLET
+pos
 Thank you.
 
 BARTLET
+neu
 Leo?
 
 LEO
+neu
 Yes, sir?
 
 BARTLET
+neu
 We looked at everybody, right?
 
 LEO
+neu
 Sir?
 
 BARTLET
+neu
 The short list. We looked at Mendoza?
 
 LEO
+neu
 We looked at him.
 
 BARTLET
+neu
 Leo...
 
 LEO
+neu
 We fixed on Harrison.
 
 BARTLET
+pos
 Yeah, you're right. I'll see you later.
 
 LEO
+pos
 Yes sir.
 
 BARTLET
+neu
 Good morning, gentlemen. Sorry to keep you waiting. Let's go.
 
 BARTLET
+pos
 Good morning. Good morning. Hang on a second.
 
 BARTLET
+pos
 Good morning. Keep your seats.
 
 BARTLET
+pos
 Good morning.
 
 BARTLET
+pos
 Good morning, Toby.
 
 TOBY
+pos
 Good morning, sir.
 
 BARTLET
+neu
 Do this for me. Put together some information on Roberto Mendoza.
 
 TOBY
+neu
 Sir... it's natural to have second thoughts, but...
 
 BARTLET
+neu
 No. I just want to be able to know something. There's gonna be a lot of questions. I don't want it to be 'we had a Hispanic on the short list.'
 
 TOBY
+neu
 What is it you're looking for?
 
 BARTLET
+neu
 The reason we didn't go with him.
 
 TOBY
+neu
 The reason we didn't go with him is because Harrison said yes.
 
 BARTLET
+pos
 Let's do better than that.
 
 TOBY
+neu
 Yes sir.
 
 BARTLET
+pos
 Uh, what's going on with this drug thing?
 
 TOBY
+neu
 You don't want a piece of that.
 
 BARTLET
+pos
 All right. I'll trust ya. Thank you.
 
 SAM
+pos
 [passes by] Good morning, sir.
 
 BARTLET
+pos
 Good morning, Sam.
 
 SAM
+neu
 Toby.
 
 TOBY
+neg
 He wants me to look at Mendoza. What...?
 
 SAM
+neg
 [slams an envelope on Toby's desk] I got a phone call before from a guy with some information. I just picked it up. I read it on the way back. It's not good.
 
 TOBY
+neu
 Is it the drugs?
 
 SAM
+neg
 No.
 
 TOBY
+neg
 What is it?
 
 SAM
+neg
 It's Harrison.
 
 TOBY
+neu
 Close the door.
 
 SAM
+neu
 It's called an unsigned note. Every member of Law Review is required to prepare one. It's like an article.
 
 TOBY
+neg
 I know what an unsigned note is.
 
 SAM
+neu
 It's 40 or so pages, well researched, footnoted, and revised with faculty supervision, and it's published.
 
 TOBY
+neu
 Without the names.
 
 SAM
+neu
 Without the names. It's scholarly work.
 
 TOBY
+neu
 How do we know Harrison...?
 
 SAM
+neg
 Toby...
 
 TOBY
+neg
 What, I'm supposed to just trust 'the guy on the phone?'
 
 SAM
+neg
 I spent the last three months reading everything Harrison's written, from decisions, to memos, to amacus briefs, Toby. He's the author of the unsigned note.
 
 TOBY
+neu
 [pause, calls] Bonnie!
 
 BONNIE
+neu
 [opens the door] Yeah?
 
 TOBY
+neu
 I'm gonna need the next five minutes the president's got.
 
 BONNIE
+neu
 Yeah.
 
 DONNA
+neu
 How does Lillienfield get his information?
 
 JOSH
+neg
 Ah, he's got a half government oversight committee. These are the people who literally decide if we get heat and electricity in the White House.
 
 DONNA
+neu
 So they have access to background information?
 
 JOSH
+neg
 Yeah.
 
 DONNA
+neu
 Josh?
 
 JOSH
+neu
 Yeah?
 
 DONNA
+neu
 You shouldn't feel uncomfortable about interviewing me.
 
 JOSH
+pos
 I met you. I talked to you. I hired you. You know anybody around here who uses drugs?
 
 DONNA
+pos
 Yeah.
 
 JOSH
+neu
 You want to tell me who they are?
 
 DONNA
+pos
 No.
 
 JOSH
+pos
 Good for you. Consider yourself interviewed.
 
 DONNA
+pos
 You're a good boy, Josh.
 
 JOSH
+pos
 Donna, I've seen your records.
 
 DONNA
+pos
 I know.
 
 JOSH
+pos
 You need to learn that 'no parking' means no parking.
 
 DONNA
+pos
 The thing is sometimes I can't find a space.
 
 JOSH
+pos
 Go to work.
 
 MANDY
+neg
 We have everyone take a drug test and be done with it.
 
 JOSH
+neg
 What makes you think that everyone here can pass a drug test?
 
 MANDY
+neg
 The ones who can't already know it and will quietly resign.
 
 JOSH
+neg
 [laughs] Oh, okay. Problem solved.
 
 MANDY
+neg
 What is wrong in this day and age with demonstrating that the White House is drug free? What is wrong with giving people that comfort?
 
 JOSH
+neg
 I would think that in this day and age, people would be more comfortable knowing that they will not now, nor will they ever be forced to turn over evidence against themselves. And please, do not try and paint your position as anything other than preservation of a spotlight.
 
 MANDY
+neg
 This thing gets bungled, and we're not gonna have to struggle much to find the spotlight.
 
 JOSH
+neu
 [pause] So what do you think's really going on here?
 
 MANDY
+neg
 I don't know.
 
 JOSH
+neu
 I don't know either.
 
 MANDY
+neu
 That's what makes me nervous.
 
 JOSH
+neu
 What do we do?
 
 MANDY
+neu
 It's time to talk to whoever it is you talk to.
 
 JOSH
+neu
 Yeah.
 
 REPORTER
+neg
 Is there any reason to believe that White House staffers regularly use illegal drugs?
 
 C.J.
+neg
 For those who didn't understand me the first nine times, we are looking into this.
 
 REPORTER
+neu
 C.J.?
 
 STEVE
+neu
 C.J., would you forgive a blunt question?
 
 C.J.
+neg
 These questions haven't been blunt yet?
 
 STEVE
+neu
 Do you use drugs?
 
 C.J.
+neg
 No, and you're forgiven.
 
 CHRIS
+neu
 It's been 24 hours since Congressman Lillienfield made his accusations, C.J. When is the White House...?
 
 C.J.
+neg
 We have 1300 people on the payroll, Chris. That's a lot of information to gather, and it's not like we were loaded with free time before. And let me just add that as no one and nothing here has been subpoenaed, and Mr. Lillienfield has offered nothing to support his very bizarre claim, we're not feeling the real need to get this done in a hurry.
 
 CHRIS
+neu
 C.J., one more question...
 
 C.J.
+neg
 Thank you. That's all. [walks away, to a staffer] Set fire to the room. Do it now.
 
 DANNY
+pos
 How you doing?
 
 C.J.
+neg
 What do you want?
 
 DANNY
+neu
 It was a bit of a blunder back there.
 
 C.J.
+neg
 It was fine.
 
 DANNY
+neu
 You challenged Lillienfield to present evidence. He knows his cue when he hears it.
 
 C.J.
+neu
 [looks around] I left my notebook somewhere.
 
 DANNY
+neg
 Also, did you really want to be the first person to use the word 'subpoena'?
 
 C.J.
+neg
 In the context?
 
 DANNY
+neu
 What the context was. It's the only word anybody's gonna read tomorrow.
 
 C.J.
+neg
 I really don't need your tips, Danny.
 
 DANNY
+neu
 As a matter of fact, you do, C.J. but that's not why I'm here.
 
 C.J.
+neg
 Why are you here?
 
 DANNY
+pos
 I'm here because there's a basketball team called the New York Knickerbockers who are playing in town tonight.
 
 C.J.
+neu
 I don't have time for a little basketball game!
 
 DANNY
+pos
 Neither do I. Which is why we I thought could watch it in your office while I explain it to you in a patronizing manner, 'cause I know it's something women usually like.
 
 C.J.
+pos
 Thank you, anyway.
 
 DANNY
+pos
 You understand I'll talk slow and explain it the way any girl would appreciate.
 
 JOSH
+neu
 Danny. You got a minute?
 
 DANNY
+neu
 Walk me to my car.
 
 DANNY
+neu
 Josh, the information I get I have to print.
 
 JOSH
+neu
 Do you have any information?
 
 DANNY
+neu
 No.
 
 JOSH
+neu
 Would you tell me if you did?
 
 DANNY
+neu
 What kind of information?
 
 JOSH
+neg
 You know what kind of information.
 
 DANNY
+neg
 Hey.
 
 JOSH
+neg
 You know no one knows where I got it.
 
 DANNY
+neg
 You know in the highroad, I'm not supposed to hand out any information I get.
 
 JOSH
+neu
 You're right.
 
 DANNY
+neg
 You know I'm right. It's not my job to help you out. As a matter of fact, I get fired from my job for helping you out.
 
 JOSH
+neu
 I know that.
 
 DANNY
+neu
 Lillienfield's a jackass, but he's not stupid. He's talking. He's got something.
 
 JOSH
+neu
 What?
 
 DANNY
+neu
 Whatever it is it's small potatoes. It's enough to get the rock rolling down the mountain.
 
 JOSH
+neu
 What's he trying to hit?
 
 DANNY
+neu
 I don't know.
 
 JOSH
+neu
 Is it the nomination?
 
 DANNY
+neu
 That's what I thought too, but Harrison's gonna sail by no matter what.
 
 JOSH
+neu
 Nobody said it's Harrison.
 
 DANNY
+neu
 Yeah. Yeah. My point is this: He's not gonna waste it on a done deal. He's after something better.
 
 JOSH
+neu
 Okay. Thanks. [starts to walk the other way]
 
 DANNY
+neu
 Josh, it's one of those times, man. Don't screw this up.
 
 JOSH
+pos
 C.J. likes goldfish.
 
 DANNY
+pos
 What?
 
 JOSH
+pos
 She likes goldfish. Can't get enough of them.
 
 DANNY
+pos
 Thanks!
 
 BARTLET
+neu
 Here's an interesting statement. [reads] 'I join Judge Black, insomuch as while enjoying my privacy, I am compelled to admit that government has a right to invade it unless specifically prohibited by some specific Constitutional provision.' Unquote.
 
 SAM
+neu
 Mr. President, this paper, is, in no uncertain terms, an argument of privacy is not a right guaranteed by the Constitution.
 
 BARTLET
+neg
 Why isn't this ever been brought up?
 
 TOBY
+neu
 It never came up, sir.
 
 BARTLET
+neg
 We spent two months vetting our homerun nominee, he doesn't believe in a privacy guarantee, and it never came up?
 
 TOBY
+neu
 It was simply never an issue in any order to be handed down, and if I may sir, we don't know for sure that he's the author of the document...
 
 SAM
+neg
 We do know.
 
 TOBY
+neg
 ...If he is, I don't think we can necessarily hold a 55 year old man responsible...
 
 SAM
+neg
 Toby?
 
 TOBY
+neg
 ...for something he wrote when he's 26.
 
 SAM
+neg
 We're not gonna be able to hold him responsible if we put him on the bench. And I promise you, this issue's gonna come up!
 
 BARTLET
+neu
 [pause, sighs] When does Harrison get in?
 
 SAM
+neu
 Later tonight.
 
 BARTLET
+neu
 I want him first thing in the morning.
 
 SAM
+neu
 Yes sir.
 
 BARTLET
+neg
 When was the last time either of you slept, I don't care. Get ready for this.
 
 TOBY
+neu
 Yes sir.
 
 SAM
+neu
 Thank you, Mr. President.
 
 TOBY
+neu
 Thank you sir.
 
 LEO
+neu
 Seventeen billion isn't gonna fly. They're gonna say it's too much at thirteen five.
 
 BARTLET
+neu
 Excuse me.
 
 LEO
+neu
 Give us the room. [The people leave at an instant.]
 
 BARTLET
+neu
 I want to meet Mendoza.
 
 LEO
+neu
 Yes sir.
 
 TOBY
+neu
 Does Mendoza know why he's coming here?
 
 MANDY
+neu
 He thinks he's interviewing for a place in the President's Commission for Hispanic Opportunity.
 
 TOBY
+neu
 Is there such a thing as the president's...?
 
 MANDY
+neg
 It's the best I could do in short notice, Toby.
 
 TOBY
+neu
 Fine.
 
 MANDY
+neu
 I had to make a letterhead.
 
 TOBY
+pos
 That must have taxed your considerable creativity.
 
 MANDY
+neg
 Toby?
 
 TOBY
+neu
 Fine.
 
 BARTLET
+neu
 Judge Harrison, first thing's first, are you the author of this unsigned note?
 
 HARRISON
+pos
 [chuckles] Yes sir.
 
 BARTLET
+pos
 When I was 26, I wrote a paper supporting the deregulation of Far East trade barriers. Nearly got thrown out of the London School of Economics. I was young and stupid, and trying to make some noise.
 
 HARRISON
+neu
 Yes sir.
 
 BARTLET
+pos
 I'm gonna bring Toby Ziegler and Sam Seaborn in here and talk about this a little bit.
 
 HARRISON
+pos
 That's fine sir.
 
 BARTLET
+neu
 Okay. Charlie, please?
 
 JOSH
+neu
 Toby, you got a minute?
 
 TOBY
+neu
 They're about to call me in.
 
 JOSH
+neu
 Privacy?
 
 TOBY
+neu
 I don't know.
 
 JOSH
+neg
 He doesn't acknowledge the protection?
 
 TOBY
+neg
 Hang on a second.
 
 JOSH
+neg
 When were you gonna tell me this?
 
 TOBY
+neg
 Number one: I don't report to you.
 
 JOSH
+neg
 Toby...
 
 TOBY
+neg
 Number two: He wrote the paper a quarter century ago.
 
 JOSH
+neg
 He hasn't changed his mind.
 
 TOBY
+neg
 We don't know whether he changed his mind or not.
 
 JOSH
+neg
 We don't care whether he changed his mind or not. You're painting a picture for the president.
 
 TOBY
+neg
 The president can paint his own picture.
 
 JOSH
+neu
 Yeah, but he listens to you. [beat] When did we get the idea that Harrison was our guy? When we used to talk it was never Harrison.
 
 CHARLIE
+neu
 [walks up] Toby?
 
 TOBY
+neu
 Yeah?
 
 CHARLIE
+neu
 They're ready for you.
 
 MARGARET
+neu
 Leo?
 
 LEO
+neu
 Yeah?
 
 MARGARET
+neu
 Josh was wondering if you had a moment.
 
 LEO
+neu
 Yeah.
 
 JOSH
+neu
 Leo.
 
 LEO
+neu
 Hey.
 
 LEO
+pos
 I guess you're the guy with the worst job in the building this week, huh?
 
 JOSH
+pos
 [laughs] I was interrogating this intern from the Legislative Liaison's Office, and she broke down crying while telling me about the bong she had made out of an eggplant.
 
 LEO
+pos
 You can do that?
 
 JOSH
+pos
 I used to use a potato.
 
 LEO
+pos
 You've always been industrious.
 
 JOSH
+neu
 [goes around and sits across Leo] Lillienfield's not after that kid in the Liaison's Office, and he's not even after the Senior Staff.
 
 LEO
+neu
 Yeah.
 
 JOSH
+neu
 Leo, you... know the worst kept secret in Washington... is that you're a recovering alcoholic, right?
 
 LEO
+neu
 I had a hunch.
 
 JOSH
+neg
 Leo, you're... Boston-Irish Catholic. Back there and back then, a drinking problem wasn't a problem. [beat] This isn't what he's after... Were you maybe into something that wasn't so acceptable?
 
 LEO
+neg
 [pause] Pills.
 
 JOSH
+neg
 Were you in treatment?
 
 LEO
+neg
 Sierra-Tucson. Six years ago.
 
 JOSH
+neg
 Leo...
 
 LEO
+neg
 Records kept by these facilities are confidential, Josh.
 
 JOSH
+neg
 [quietly] He's got 'em.
 
 JOSH
+pos
 You're Leo McGarry. You're not gonna be taken down by this... small fraction of a man. [stands and opens the door] I won't permit it.
 
 HARRISON
+neg
 Judges are bound to interpret the Constitution within the strict parameters of the text itself. The Constitution doesn't provide for a right of privacy. The right doesn't exist.
 
 SAM
+neg
 The third amendment says soldiers can't be quartered in private homes. The fifth provides protection against self-incrimination, and the fourth against unreasonable searches. You deny the right to privacy lived in those passages?
 
 HARRISON
+neg
 No. I do not deny it, but the fact that the framers enumerated those specific protections is all the more reason to believe that they had no intention of making privacy a de facto right.
 
 SAM
+neg
 They just fought a revolution but they had no question of their freedom. The Bill of Rights wasn't meant to codify the most crucial of those rights not to limit the others.
 
 HARRISON
+neg
 I do this for a living, Mr. Seaborn.
 
 SAM
+neg
 So do I, your honor.
 
 BARTLET
+pos
 Peyton, do I have the right to put on an ugly plaid jacket and a loud polka-dot tie and walk down Main Street?
 
 HARRISON
+neu
 Yes.
 
 BARTLET
+pos
 Where in the Constitution is that right guaranteed?
 
 HARRISON
+neu
 First Amendment. Freedom of expression.
 
 BARTLET
+pos
 What about the use of cream in my coffee? Surely, there can be no free speech argument to be made there?
 
 HARRISON
+neg
 No.
 
 BARTLET
+pos
 So you have no objection to the state of New Hampshire passing a law banning use of cream in coffee?
 
 HARRISON
+neg
 I would have strong objection, Mr. President, as I like cream as well, but I would have no Constitutional basis to strike down the law when you brought this case to the Supreme Court.
 
 BARTLET
+pos
 As I lose the votes of coffee drinkers everywhere.
 
 DANNY
+neu
 Hey.
 
 C.J.
+neu
 Hey.
 
 DANNY
+neu
 What you doing?
 
 C.J.
+pos
 You were right.
 
 DANNY
+neu
 I know.
 
 C.J.
+pos
 The word 'subpoena' appears in the lead in every story of this morning's papers.
 
 DANNY
+neu
 I know.
 
 C.J.
+pos
 Not yours.
 
 DANNY
+pos
 That's just 'cause I couldn't spell it.
 
 C.J.
+neu
 What are you holding?
 
 DANNY
+pos
 It's a goldfish.
 
 C.J.
+pos
 Why?
 
 DANNY
+pos
 It's for you.
 
 C.J.
+neu
 Really?
 
 DANNY
+pos
 Josh said you liked goldfish.
 
 C.J.
+pos
 [out of her laugh] The crackers, Danny. The cheese things that you have at a party?
 
 DANNY
+neg
 Well... You know what, I'm not a hundred percent sure I'm supposed to know that.
 
 C.J.
+pos
 The crackers, Danny.
 
 DANNY
+pos
 Fine. Now I got a goldfish.
 
 C.J.
+pos
 [laughs] Give it to me.
 
 DANNY
+pos
 No.
 
 C.J.
+pos
 No, you'll kill it.
 
 DANNY
+pos
 You think I can't take care of a goldfish?
 
 C.J.
+pos
 I absolutely do not. [takes the fishbowl from Danny]
 
 DANNY
+pos
 The name's Gail, by the way.
 
 C.J.
+pos
 The fish?
 
 DANNY
+pos
 Yeah.
 
 C.J.
+pos
 You named it Gail?
 
 DANNY
+pos
 No, the guy in the store.
 
 C.J.
+pos
 [laughs again] Oh... That's... Come here. [kisses Danny on the cheek] Thanks for the fish.
 
 DANNY
+neu
 Keep your head in the game.
 
 SAM
+neg
 In 1787, there was a sizable block of delegates who were initially opposed to the Bill of Rights. One member of the Georgia delegation had to stay by way of opposition: 'If we list the set of rights, some fools in the future are going to claim that people are entitled only to those rights enumerated and no longer. The framers knew...'
 
 HARRISON
+neg
 Were you just calling me a fool, Mr. Seaborn?
 
 SAM
+neg
 I wasn't calling you a fool, sir, the brand new state of Georgia was.
 
 HARRISON
+neg
 Gentlemen, laws must emanate from the Constitution.
 
 TOBY
+neu
 There are natural laws, judge.
 
 HARRISON
+neg
 I do not deny there are natural laws, Mr. Ziegler. I only deny that judges are empowered to enforce them.
 
 TOBY
+neu
 Then who will?
 
 HARRISON
+neg
 That's not up to me. And this sideshow is over. With all due respect, Mr. President, I find this kind of questioning very rude.
 
 SAM
+neg
 Well then, you're really gonna enjoy meeting the U.S. Senate.
 
 HARRISON
+neg
 Be that as it may, it's disgusting. We all know you need me as much as I need you. I read the same polling information you do. Seven to ten point bump, 90 votes, unanimous out of committee, I was courted. Now, you have me taken to school by some kid.
 
 BARTLET
+pos
 This Sam is young, drives me nuts too, but he took you off for a ride, sir, because that's what I told him to do.
 
 HARRISON
+neg
 I am an extremely well credentialed man, Mr. President, and I'm unaccustomed to this sort of questioning.
 
 BARTLET
+pos
 I understand, Peyton. Could you give us a little time, please? We'll make you comfortable while you're waiting.
 
 HARRISON
+neu
 Certainly.
 
 BARTLET
+pos
 Thank you.
 
 SAM
+neg
 Put him on a bus.
 
 TOBY
+neg
 With a guaranteed confirmation we're sending out the door based on a 30-year-old paper, which by the way, no one will know about but us.
 
 BARTLET
+neg
 You don't think the guy who called Sam wouldn't know how to call a senator's office?
 
 TOBY
+neg
 Mr. President, if this is really about abortion, we already talked about...
 
 SAM
+neu
 It's not about abortion. It's about the next 20 years. Twenties and thirties, it was the role of government. Fifties and sixties, it was civil rights. The next two decades, it's gonna be privacy. I'm talking about the Internet. I'm talking about cellphones. I'm talking about health records, and who's gay and who's not. And moreover, in a country born on a will to be free, what could be more fundamental than this?
 
 BARTLET
+neu
 Toby?
 
 TOBY
+neu
 [beat] Let's meet Mendoza.
 
 MANDY
+neu
 They're meeting with Mendoza.
 
 JOSH
+neu
 Yeah.
 
 MANDY
+neg
 Yeah, and I'm just gonna go kill myself now.
 
 JOSH
+neu
 You think Mendoza would be a bad justice?
 
 MANDY
+neg
 I think Mendoza would make a great justice. I think he makes a lousy nominee.
 
 JOSH
+neu
 Why?
 
 MANDY
+neu
 He's ruled in favor of same sex marriages...
 
 JOSH
+neu
 He didn't rule in favor of it, Mandy. He's not recommending it. He's ruled that the state has no right to interfere with it.
 
 MANDY
+neu
 He's got the broadest possible interpretation for free speech.
 
 JOSH
+neu
 And listening to you sometimes, I honestly wish you'd narrow it, so...
 
 MANDY
+neg
 You don't have to tell me how to be a good person, Josh. I'm the one who has to sell this. And he is not exactly America's idea of Supreme Court justice.
 
 JOSH
+neg
 Mandy, I don't...
 
 MANDY
+neg
 Let's do a side-by-side comparison. [reads from piece of paper] Harrison went to Walnut Park Country Day, Phillips Exeter, and Princeton undergrad, and Harvard Law. Mendoza attended P.S. 138 in Brooklyn, City University of New York, and the New York Police Department. Harrison clerked for Warren Berger. Mendoza...
 
 JOSH
+neg
 [off of the top of his head] New York City Police Department '65 to '76, Assistant District Attorney Brooklyn '76 to '80, Assistant U.S. Attorney Eastern District, Federal District Judge, Eastern District -- Let me tell you something, Mendoza went to Law School the hard way. He got shot in the leg, and when they offered him a hundred percent dispensation, he took a desk job instead and went to law school at night. He's brilliant, decisive, compassionate, and experienced. And if you don't think that he's America's idea of a jurist, then you don't have enough faith in Americans.
 
 MANDY
+neg
 It's not Americans I don't have faith in, Josh. It's the White House Senior Staff.
 
 MANDY
+neg
 This is not gonna be an easy one, and if all hell breaks loose over Lillienfield, it could honestly cripple us for a year, maybe more.
 
 JOSH
+neg
 [sighs] Well, I mean, just the law of large numbers says We got to win one one of these days, right?
 
 MANDY
+neu
 Yeah.
 
 JOSH
+pos
 So let's make it a good one.
 
 MANDY
+pos
 I still hate you.
 
 JOSH
+pos
 Whatever.
 
 ED
+neu
 Who was that?
 
 MARGARET
+neu
 Roberto Mendoza.
 
 HARRISON
+neg
 It's not necessary for you to stay here.
 
 CHARLIE
+neu
 The president asked me to stay with you in case you needed anything. I'd be glad to stay outside if you prefer.
 
 HARRISON
+neu
 Yes, please.
 
 CHARLIE
+neu
 Would you like anything?
 
 HARRISON
+neu
 Coffee, please.
 
 CHARLIE
+neu
 Yes sir. [about to head out]
 
 HARRISON
+pos
 You look very familiar. Is it possible we've met?
 
 CHARLIE
+neu
 I caddied for two summers at Sandy Hooks, sir.
 
 HARRISON
+pos
 Ah. Yes, of course.
 
 CHARLIE
+neu
 Charlie Young.
 
 HARRISON
+pos
 Charlie, of course.
 
 CHARLIE
+pos
 I'll get your coffee. [leaves and closes the door]
 
 BARTLET
+pos
 I'm sure we're almost done. Sam, what else you got?
 
 SAM
+neu
 Judge Mendoza, I have a note that your rulings have been upheld by the Court of Appeals more than any other district judge in the country.
 
 MENDOZA
+pos
 Well, that's what comes by being right most of the time, I guess.
 
 BARTLET
+pos
 You need me, Leo?
 
 LEO
+pos
 For just a moment, sir.
 
 BARTLET
+pos
 Would you excuse me?
 
 MENDOZA
+neu
 Certainly.
 
 LEO
+neu
 Mr. President...
 
 BARTLET
+neu
 What is it, Leo?
 
 LEO
+neg
 There's gonna be trouble.
 
 BARTLET
+neu
 Lillienfield?
 
 LEO
+neg
 Yes sir.
 
 BARTLET
+neg
 He knows?
 
 LEO
+neg
 We think so.
 
 BARTLET
+neg
 We?
 
 LEO
+neg
 Josh has it.
 
 BARTLET
+neg
 What does Josh say?
 
 LEO
+pos
 Get through it.
 
 BARTLET
+pos
 Josh is a smart guy.
 
 LEO
+pos
 No sir. Josh is a young guy.
 
 BARTLET
+pos
 We used to be too.
 
 LEO
+neu
 Mr. President...
 
 BARTLET
+neu
 Did you have a drink yesterday?
 
 LEO
+neu
 No sir.
 
 BARTLET
+neu
 Are you gonna have one today?
 
 LEO
+neu
 No sir.
 
 BARTLET
+pos
 That's all you ever have to say to me.
 
 LEO
+neg
 You know it's gonna make things very hard for a while.
 
 BARTLET
+pos
 You fought in a war, got me elected, and you run the country. I think we all owe you one, don't you?
 
 CHARLIE
+neu
 Mr. President...
 
 BARTLET
+neu
 Did Harrison get off okay?
 
 CHARLIE
+neu
 Yes sir. There's a crowd building outside your office.
 
 BARTLET
+neu
 Why?
 
 CHARLIE
+neu
 I think word's gotten out what's going on in here, sir.
 
 BARTLET
+pos
 I'll bet it has. [turns to Sam] Do you have any more questions, Sam?
 
 SAM
+neu
 No sir.
 
 TOBY
+neu
 I have one, sir.
 
 MENDOZA
+pos
 Let me say that this is not an easy commission to get appointed to.
 
 TOBY
+neu
 Judge, without knowing details of special circumstance, what would you say of someone being fired from refusing to take a drug test at the order of the president?
 
 MENDOZA
+neu
 Without details of special circumstances?
 
 TOBY
+neu
 Yes sir.
 
 MENDOZA
+neu
 Without showing cause, I would say that the order constitutes an illegal search, and I would order that the employee be reinstated.
 
 BARTLET
+neu
 Toby?
 
 TOBY
+pos
 Sold.
 
 BARTLET
+pos
 Judge Mendoza, would it surprise you to learn that for the past few months, your name has been in the short list of candidates for the bench?
 
 MENDOZA
+neu
 Yes, Mr. President.
 
 BARTLET
+pos
 Well, then this is gonna knock your socks off. Tomorrow evening at 5 o'clock, I am naming you as my nominee to be the next associate justice of the United States Supreme Court. You were not the first choice, but you are the last one, and the right one. [beat] Will you accept the nomination?
 
 MENDOZA
+pos
 [beat] With honor.
 
 BARTLET
+pos
 Good.
 
 BARTLET
+pos
 Thank you. Sam and Toby will be in charge of your confirmation.
 
 SAM
+pos
 Congratulations, Judge.
 
 MENDOZA
+pos
 Thank you. [shake hands]
 
 TOBY
+pos
 It's gonna be an excruciating battle, Mr. Justice, one I have no intention of losing.
 
 BARTLET
+pos
 What do you say, Leo? You up for a good fight?
 
 LEO
+pos
 I believe I have one in me, yes sir.
 
 BARTLET
+pos
 Good. Let the good fight begin.
 
 BARTLET
+pos
 Mr. Justice Mendoza!
