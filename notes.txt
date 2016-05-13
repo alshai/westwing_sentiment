@@ -18,7 +18,6 @@ evaluate against our manual labeling
 Stanford data from: http://nlp.stanford.edu/sentiment/code.html
 Congressional data: http://www.cs.cornell.edu/home/llee/data/convote.html
 
-
 accuracies:
 10000 max_ent vs gold: 0.846763540291
 10000 bow vs gold: 0.71499339498
@@ -45,3 +44,4 @@ accuracies:
 120000 max_ent vs gold: 0.617239101717
 120000 bow vs gold: 0.71499339498
 
+Some reading on features: http://www.cs.columbia.edu/~julia/papers/Agarwaletal11.pdf
