@@ -68,7 +68,7 @@ sg10
 VBARTLET
 p25
 sg12
-g9
+g15
 sa(dp26
 g6
 VYes, indeed.
@@ -79,7 +79,7 @@ sg10
 VC.J.
 p28
 sg12
-g9
+g15
 sa(dp29
 g6
 VNASA's great at naming things.
@@ -101,7 +101,7 @@ sg10
 VC.J.
 p34
 sg12
-g9
+g15
 sa(dp35
 g6
 VMercury, Apollo, Atlantis, the Sea of Tranquility, the Ocean of Storms...
@@ -222,7 +222,7 @@ sg10
 VBARTLET
 p67
 sg12
-g15
+g9
 sa(dp68
 g6
 VI said the name.
@@ -244,7 +244,7 @@ sg10
 VBARTLET
 p73
 sg12
-g9
+g15
 sa(dp74
 g6
 V[with gusto] Galileo V!
@@ -299,47 +299,47 @@ sg10
 VSAM
 p88
 sg12
-S'negative'
-p89
-sa(dp90
+g9
+sa(dp89
 g6
 VYou're from NASA Public Affairs?
-p91
+p90
 sg8
 g9
 sg10
 VSAM
-p92
+p91
 sg12
 g9
-sa(dp93
+sa(dp92
 g6
 VYep.
-p94
+p93
 sg8
 g9
 sg10
 VTATE
-p95
+p94
 sg12
 g9
-sa(dp96
+sa(dp95
 g6
 VYou mind if I give it a polish?
-p97
+p96
 sg8
 g15
 sg10
 VSAM
-p98
+p97
 sg12
-g9
-sa(dp99
+g15
+sa(dp98
 g6
 VIs there a problem?
-p100
+p99
 sg8
-g89
+S'negative'
+p100
 sg10
 VTATE
 p101
@@ -432,7 +432,7 @@ sg10
 VTATE
 p125
 sg12
-g9
+g100
 sa(dp126
 g6
 VGood morning!
@@ -443,7 +443,7 @@ sg10
 VBARTLET
 p128
 sg12
-g9
+g15
 sa(dp129
 g6
 VGood morning, Mr. President.
@@ -476,7 +476,7 @@ sg10
 VBARTLET
 p137
 sg12
-g15
+g9
 sa(dp138
 g6
 VSir, we're going to run you through the drill for tomorrow morning. First of all, you'll be flanked on either side by the Flight Operations Manager David Narakawa and NASA Chief Administrator Dr. Peter Jobson. On either side of them will be Dr. Samuel Thurman of the Meteorite Analysis team from the Johnson Space Center, and Dr. Joyce Grey-Sutton, Planetary Geologist from Cal State Northridge. On these monitors you'll be seeing the images beamed back from the surface and on this computer screen you'll be able to read the questions being sent in by the kids. I strongly urge you...
@@ -509,7 +509,7 @@ sg10
 VC.J.
 p146
 sg12
-g9
+g15
 sa(dp147
 g6
 VI know.
@@ -520,7 +520,7 @@ sg10
 VBARTLET
 p149
 sg12
-g9
+g100
 sa(dp150
 g6
 VI strongly urge you, Mr. President, to act as moderator and pass the questions of to one of the experts on the panel rather than answer it yourself.
@@ -564,7 +564,7 @@ sg10
 VBARTLET
 p161
 sg12
-g9
+g15
 sa(dp162
 g6
 VSome of them. Would you put them on?
@@ -608,7 +608,7 @@ sg10
 VBARTLET
 p173
 sg12
-g9
+g100
 sa(dp174
 g6
 VNobody likes a know-it-all!
@@ -641,7 +641,7 @@ sg10
 VC.J.
 p182
 sg12
-g9
+g100
 sa(dp183
 g6
 VI don't show off. [reads again] Stevie, fourth grader, PS 31, Manhattan, asks, "What is the temperature on Mars?" Well, Stevie, if one of our expert panelists were here, they would tell you the average temperature ranges from 15 degrees to minus 140.
@@ -658,7 +658,7 @@ g6
 V[looking through her papers] That happens to be wrong. It ranges from 60 to minus 225.
 p187
 sg8
-g89
+g100
 sg10
 VC.J.
 p188
@@ -674,7 +674,7 @@ sg10
 VBARTLET
 p191
 sg12
-g9
+g100
 sa(dp192
 g6
 VThank you.
@@ -696,7 +696,7 @@ sg10
 VBARTLET
 p197
 sg12
-g9
+g100
 sa(dp198
 g6
 VIt's up on the Prompter.
@@ -729,7 +729,7 @@ sg10
 VSAM
 p206
 sg12
-g15
+g9
 sa(dp207
 g6
 VWho wrote this intro?
@@ -740,7 +740,7 @@ sg10
 VBARTLET
 p209
 sg12
-g89
+g9
 sa(dp210
 g6
 VI did, sir. I'm Scott Tate from NASA Public Affairs.
@@ -751,7 +751,7 @@ sg10
 VTATE
 p212
 sg12
-g9
+g100
 sa(dp213
 g6
 V[gets up and shakes his hand] Scott. "Unique" means "one of a kind." Something can't be very unique, nor can it be extremely historic.
@@ -845,7 +845,7 @@ g6
 VI doubt it. [to a recording staffer] Write this: "Good morning. Eleven months ago a 1200 pound spacecraft blasted off from Cape Canaveral, Florida. Eighteen hours ago..." Is it eighteen hours ago? We're on the air at noon eastern.
 p238
 sg8
-g89
+g100
 sg10
 VSAM
 p239
@@ -916,7 +916,7 @@ sg10
 VJOSH
 p257
 sg12
-g9
+g100
 sa(dp258
 g6
 VMars rotates on it's own axis every 24 hours and 37 minutes.
@@ -1026,7 +1026,7 @@ sg10
 VJOSH
 p287
 sg12
-g9
+g100
 sa(dp288
 g6
 V[entering] Josh! You guys done?
@@ -1070,7 +1070,7 @@ sg10
 VJOSH
 p299
 sg12
-g9
+g100
 sa(dp300
 g6
 VNo, I don't think I will. Toby, do you know how a stamp is chosen?
@@ -1125,7 +1125,7 @@ sg10
 VLEO
 p314
 sg12
-g9
+g15
 sa(dp315
 g6
 VWhy?
@@ -1274,7 +1274,7 @@ g6
 VThen what's the problem?
 p355
 sg8
-g89
+g100
 sg10
 VTOBY
 p356
@@ -1290,7 +1290,7 @@ sg10
 VJOSH
 p359
 sg12
-g9
+g15
 sa(dp360
 g6
 VStrongly advocated it.
@@ -1301,7 +1301,7 @@ sg10
 VLEO
 p362
 sg12
-g9
+g100
 sa(dp363
 g6
 VGive it to somebody else!
@@ -1351,7 +1351,7 @@ g6
 VWell he can wait on a line around the block! Even while I have two of my 20 teller windows are open!
 p376
 sg8
-g89
+g100
 sg10
 VTOBY
 p377
@@ -1389,7 +1389,7 @@ sg10
 VLEO
 p386
 sg12
-g9
+g15
 sa(dp387
 g6
 VNothing, I just... Toby got the stamp assignment. [chuckles]
@@ -1477,7 +1477,7 @@ sg10
 VTOBY
 p410
 sg12
-g9
+g15
 sa(dp411
 g6
 VHey, Toby.
@@ -1488,7 +1488,7 @@ sg10
 VCAROL
 p413
 sg12
-g9
+g15
 sa(dp414
 g6
 V[comes out of her office again] A Martian year is 687 days.
@@ -1560,7 +1560,7 @@ g6
 VOf course I saw the news report! I highlighted your copy!
 p433
 sg8
-g89
+g100
 sg10
 VC.J.
 p434
@@ -1587,7 +1587,7 @@ sg10
 VC.J.
 p440
 sg12
-g9
+g100
 sa(dp441
 g6
 V[quoting] "An unnamed White House source..."
@@ -1620,7 +1620,7 @@ sg10
 VTOBY
 p449
 sg12
-g9
+g100
 sa(dp450
 g6
 VNo.
@@ -1642,7 +1642,7 @@ sg10
 VTOBY
 p455
 sg12
-g9
+g100
 sa(dp456
 g6
 VIt is absolutely not a story!
@@ -1664,7 +1664,7 @@ sg10
 VTOBY
 p461
 sg12
-g9
+g100
 sa(dp462
 g6
 VIt's not a story!
@@ -1686,7 +1686,7 @@ sg10
 VTOBY
 p467
 sg12
-g9
+g100
 sa(dp468
 g6
 VHow many moons does Mars have?
@@ -1697,7 +1697,7 @@ sg10
 VC.J.
 p470
 sg12
-g9
+g100
 sa(dp471
 g6
 VTwo. Phobos and Deimos, the two horses that pulled his chariot.
@@ -1708,7 +1708,7 @@ sg10
 VTOBY
 p473
 sg12
-g9
+g15
 sa(dp474
 g6
 VGet out! [gets up]
@@ -1736,7 +1736,7 @@ g6
 V[calls] Carol!
 p481
 sg8
-g89
+g100
 sg10
 VC.J.
 p482
@@ -1763,7 +1763,7 @@ sg10
 VTOBY
 p488
 sg12
-g9
+g15
 sa(dp489
 g6
 V[walking out of office] You have work to do?
@@ -1840,13 +1840,13 @@ sg10
 VBARTLET
 p509
 sg12
-g9
+g100
 sa(dp510
 g6
 VFive is a reception for the U.A.W., and then you've got phone calls from 5:30 to 6:30.
 p511
 sg8
-g89
+g100
 sg10
 VCHARLIE
 p512
@@ -1879,7 +1879,7 @@ g6
 V[calls] Mrs. Landingham! [approaches Mrs. Landingham's desk]
 p520
 sg8
-g89
+g100
 sg10
 VBARTLET
 p521
@@ -1928,7 +1928,7 @@ sg10
 VBARTLET
 p533
 sg12
-g9
+g100
 sa(dp534
 g6
 VI was about to tell you. Apparently, it's important that you go.
@@ -2038,7 +2038,7 @@ sg10
 VBARTLET
 p563
 sg12
-g9
+g100
 sa(dp564
 g6
 V[enters from his office] Yes, Mr. President?
@@ -2071,7 +2071,7 @@ sg10
 VLEO
 p572
 sg12
-g89
+g9
 sa(dp573
 g6
 VWhy do I...?
@@ -2082,7 +2082,7 @@ sg10
 VBARTLET
 p575
 sg12
-g9
+g100
 sa(dp576
 g6
 VBecause you canceled yesterday's meeting with the Icelandic Ambassador.
@@ -2093,24 +2093,24 @@ sg10
 VLEO
 p578
 sg12
-g9
+g15
 sa(dp579
 g6
 VI'm being punished.
 p580
 sg8
-g89
+g100
 sg10
 VBARTLET
 p581
 sg12
-g89
+g100
 sa(dp582
 g6
 VNo, sir. Iceland is considering defying the ban on whale hunting, imposed by the International Whaling Commission. They're in danger of joining Norway and Japan. There's a lucrative international demand for fresh Icelandic mink whale meat.
 p583
 sg8
-g89
+g100
 sg10
 VLEO
 p584
@@ -2121,12 +2121,12 @@ g6
 VIs this a joke?
 p586
 sg8
-g89
+g100
 sg10
 VBARTLET
 p587
 sg12
-g89
+g9
 sa(dp588
 g6
 VNo sir. Needless to say both the State Department and the Fishery Subdivision of the Department of Agriculture feel that we shouldn't do anything to offend Iceland right now.
@@ -2192,7 +2192,7 @@ sg10
 VBARTLET
 p605
 sg12
-g89
+g9
 sa(dp606
 g6
 VVigdis Olafsdottir.
@@ -2225,7 +2225,7 @@ sg10
 VLEO
 p614
 sg12
-g9
+g15
 sa(dp615
 g6
 VI'll give you a thousand dollars if you don't make me go.
@@ -2236,7 +2236,7 @@ sg10
 VBARTLET
 p617
 sg12
-g9
+g100
 sa(dp618
 g6
 VThink of the whales.
@@ -2258,7 +2258,7 @@ sg10
 VBARTLET
 p623
 sg12
-g89
+g100
 sa(dp624
 g6
 VMr. President?
@@ -2330,12 +2330,12 @@ g6
 VThere was an explosion in a Russian oil refinery.
 p643
 sg8
-g89
+g100
 sg10
 VLEO
 p644
 sg12
-g9
+g100
 sa(dp645
 g6
 VAh.
@@ -2390,18 +2390,18 @@ sg10
 VBARTLET
 p659
 sg12
-g9
+g100
 sa(dp660
 g6
 VThere was an explosion?
 p661
 sg8
-g89
+g100
 sg10
 VBARTLET
 p662
 sg12
-g9
+g100
 sa(dp663
 g6
 VWell, INTARTASS is reporting that there is a fire burning in an oil refinery in Kozelsk.
@@ -2440,7 +2440,7 @@ g6
 VWhat's the problem Jack?
 p673
 sg8
-g89
+g100
 sg10
 VBARTLET
 p674
@@ -2467,7 +2467,7 @@ sg10
 VBARTLET
 p680
 sg12
-g9
+g100
 sa(dp681
 g6
 VIt's a missile silo.
@@ -2484,12 +2484,12 @@ g6
 VThere was an explosion in a missile silo?
 p685
 sg8
-g89
+g100
 sg10
 VBARTLET
 p686
 sg12
-g9
+g100
 sa(dp687
 g6
 VWe can't confirm that at this point, but the Russians have twenty SS19's in the quadrant and Keyhole has pictures of a column of smoke, emergency personnel on the ground, but no burning structure. Certainly no oil refinery.
@@ -2522,7 +2522,7 @@ sg10
 VJACK
 p695
 sg12
-g9
+g100
 sa(dp696
 g6
 VHalf hour, Jack.
@@ -2566,18 +2566,18 @@ sg10
 VBARTLET
 p707
 sg12
-g9
+g100
 sa(dp708
 g6
 VIt's a cold war mentality.
 p709
 sg8
-g89
+g100
 sg10
 VLEO
 p710
 sg12
-g9
+g100
 sa(dp711
 g6
 VIf they asked, we could help.
@@ -2594,12 +2594,12 @@ g6
 VI wouldn't wait for the phone to ring.
 p715
 sg8
-g89
+g100
 sg10
 VLEO
 p716
 sg12
-g9
+g100
 sa(dp717
 g6
 VYeah. Yeah. Galileo Galilei. He sat in a cathedral in Pisa. He watched a lamp suspended from the ceiling as it oscillated back and forth. He used his pulse to keep time and discovered that the period of oscillation was independent of the size of the arc. A few years later he contradicted the theory that a heavier body falls faster than a lighter one. Which took some guts back in 1609, when you consider that the theory he was contradicting was Aristotle's.
@@ -2627,7 +2627,7 @@ g6
 V[calls] Charlie! [to Leo] I really do. Have Sam and C.J. come along tonight.
 p724
 sg8
-g89
+g100
 sg10
 VBARTLET
 p725
@@ -2698,7 +2698,7 @@ sg10
 VBARTLET
 p743
 sg12
-g15
+g9
 sa(dp744
 g6
 VDid you need something, sir?
@@ -2709,7 +2709,7 @@ sg10
 VCHARLIE
 p746
 sg12
-g9
+g15
 sa(dp747
 g6
 VYes. What's next?
@@ -2797,7 +2797,7 @@ sg10
 VJOSH
 p770
 sg12
-g9
+g100
 sa(dp771
 g6
 VI did index cards.
@@ -2808,7 +2808,7 @@ sg10
 VDONNA
 p773
 sg12
-g9
+g100
 sa(dp774
 g6
 VHow many?
@@ -2841,7 +2841,7 @@ sg10
 VJOSH
 p782
 sg12
-g9
+g15
 sa(dp783
 g6
 VPhilately's fun, Josh.
@@ -2852,7 +2852,7 @@ sg10
 VDONNA
 p785
 sg12
-g9
+g15
 sa(dp786
 g6
 VI'm sorry. What's fun?
@@ -2863,7 +2863,7 @@ sg10
 VJOSH
 p788
 sg12
-g9
+g100
 sa(dp789
 g6
 VPhilately -- stamp collecting.
@@ -2874,7 +2874,7 @@ sg10
 VDONNA
 p791
 sg12
-g9
+g15
 sa(dp792
 g6
 VCareful how you say that cause...
@@ -2896,7 +2896,7 @@ sg10
 VDONNA
 p797
 sg12
-g9
+g15
 sa(dp798
 g6
 VTell me what you know.
@@ -2924,12 +2924,12 @@ g6
 VWell, that's always our first mistake.
 p805
 sg8
-g89
+g100
 sg10
 VJOSH
 p806
 sg12
-g9
+g100
 sa(dp807
 g6
 V'About 50,000 proposals a year are submitted to the Citizens Stamp Advisory Committee, the acronym for which is...'
@@ -2940,7 +2940,7 @@ sg10
 VDONNA
 p809
 sg12
-g9
+g15
 sa(dp810
 g6
 VDork squad?
@@ -3023,18 +3023,18 @@ g6
 VYes. Let me say first that you were right and I was wrong.
 p832
 sg8
-g89
+g100
 sg10
 VC.J.
 p833
 sg12
-g15
+g9
 sa(dp834
 g6
 VAnd the odds makers take a beating.
 p835
 sg8
-g89
+g100
 sg10
 VTOBY
 p836
@@ -3072,7 +3072,7 @@ sg10
 VC.J.
 p845
 sg12
-g9
+g100
 sa(dp846
 g6
 VYes.
@@ -3116,7 +3116,7 @@ sg10
 VC.J.
 p857
 sg12
-g9
+g15
 sa(dp858
 g6
 VYes.
@@ -3160,7 +3160,7 @@ sg10
 VC.J.
 p869
 sg12
-g9
+g100
 sa(dp870
 g6
 VBecause they're a major producer of green beans?
@@ -3171,7 +3171,7 @@ sg10
 VTOBY
 p872
 sg12
-g9
+g15
 sa(dp873
 g6
 VThey're a huge producer, Toby. Green beans, or snap beans, represent a significant percentage of Oregon's annual revenue. But here's the thing... [starts to sit]
@@ -3188,12 +3188,12 @@ g6
 VThere's an electoral problem?
 p877
 sg8
-g89
+g100
 sg10
 VTOBY
 p878
 sg12
-g9
+g100
 sa(dp879
 g6
 V[standing back up] There's an electoral problem. We won Oregon by less than 10,000 votes and we're going to need them.
@@ -3221,7 +3221,7 @@ g6
 VOkay, well, I'm on it now. [turns to leave]
 p886
 sg8
-g89
+g100
 sg10
 VC.J.
 p887
@@ -3237,7 +3237,7 @@ sg10
 VTOBY
 p890
 sg12
-g9
+g15
 sa(dp891
 g6
 VSo, you know what? It took me two hours and 20 minutes longer to figure it out than it took you. That doesn't make you smarter than me.
@@ -3259,7 +3259,7 @@ sg10
 VTOBY
 p896
 sg12
-g9
+g100
 sa(dp897
 g6
 VThank you. [starts to walk out again]
@@ -3369,7 +3369,7 @@ sg10
 VC.J.
 p926
 sg12
-g9
+g15
 sa(dp927
 g6
 VYeah.
@@ -3479,7 +3479,7 @@ sg10
 VC.J.
 p956
 sg12
-g9
+g100
 sa(dp957
 g6
 VWhy not?
@@ -3490,7 +3490,7 @@ sg10
 VLEO
 p959
 sg12
-g9
+g100
 sa(dp960
 g6
 VThere'll be State Department people there.
@@ -3518,7 +3518,7 @@ g6
 VI just added a new deputy. Most of the people I interviewed were from State. The Kennedy Center is going to be packed to the Potomac with people I just rejected.
 p967
 sg8
-g89
+g100
 sg10
 VC.J.
 p968
@@ -3556,7 +3556,7 @@ sg10
 VLEO
 p977
 sg12
-g9
+g100
 sa(dp978
 g6
 V[yells down the hall] Carol!
@@ -3611,7 +3611,7 @@ sg10
 VC.J.
 p992
 sg12
-g9
+g15
 sa(dp993
 g6
 VYeah.
@@ -3666,7 +3666,7 @@ sg10
 VSAM
 p1007
 sg12
-g9
+g15
 sa(dp1008
 g6
 VGreat?
@@ -3677,7 +3677,7 @@ sg10
 VC.J.
 p1010
 sg12
-g9
+g15
 sa(dp1011
 g6
 VIt should be about more than rocks and average rainfall.
@@ -3710,7 +3710,7 @@ sg10
 VSAM
 p1019
 sg12
-g15
+g9
 sa(dp1020
 g6
 VThe White House should develop a broader theme.
@@ -3721,7 +3721,7 @@ sg10
 VC.J.
 p1022
 sg12
-g15
+g9
 sa(dp1023
 g6
 V[smiling] That's right and I think it's incredible the President's asked the two of us. It's a privilege and we should attack with energy due the moment.
@@ -3754,13 +3754,13 @@ sg10
 VSAM
 p1031
 sg12
-g9
+g100
 sa(dp1032
 g6
 V[mocking him] God, Sam, I would think that faced with the privilege of attacking with energy due the moment...
 p1033
 sg8
-g89
+g100
 sg10
 VC.J.
 p1034
@@ -3776,18 +3776,18 @@ sg10
 VSAM
 p1037
 sg12
-g9
+g100
 sa(dp1038
 g6
 VWell, I'm afraid -- as we used to say in my hometown -- that's just hard cheese.
 p1039
 sg8
-g89
+g100
 sg10
 VC.J.
 p1040
 sg12
-g9
+g100
 sa(dp1041
 g6
 VThat's a real Algonquin Round Table you grew up with, C.J.
@@ -3798,13 +3798,13 @@ sg10
 VSAM
 p1043
 sg12
-g9
+g15
 sa(dp1044
 g6
 VHey, that is like the fourth time I've been called dumb today.
 p1045
 sg8
-g89
+g100
 sg10
 VC.J.
 p1046
@@ -3848,7 +3848,7 @@ g6
 VWhat about the shooting? You didn't see her at the hospital?
 p1057
 sg8
-g89
+g100
 sg10
 VC.J.
 p1058
@@ -3881,7 +3881,7 @@ g6
 VYeah. Don't you have a vegetable crisis to fix or something?
 p1066
 sg8
-g89
+g100
 sg10
 VSAM
 p1067
@@ -3914,12 +3914,12 @@ g6
 VThe warhead didn't detonate. The SS-19s had just been downloaded.
 p1075
 sg8
-g89
+g100
 sg10
 VOFFICER
 p1076
 sg12
-g9
+g100
 sa(dp1077
 g6
 VBut you're ready to confirm...
@@ -3969,18 +3969,18 @@ g6
 VYou think somebody screwed up?
 p1090
 sg8
-g89
+g100
 sg10
 VLEO
 p1091
 sg12
-g9
+g100
 sa(dp1092
 g6
 VI think either somebody screwed up or a computer did. You wanna know the truth? I think an early warning ballistic missile system and the troops running it mistakenly detected a bogey from a flock of Norwegian geese.
 p1093
 sg8
-g89
+g100
 sg10
 VOFFICER
 p1094
@@ -4062,18 +4062,18 @@ sg10
 VMIKE
 p1115
 sg12
-g9
+g100
 sa(dp1116
 g6
 VWe lost the signal from Galileo.
 p1117
 sg8
-g89
+g100
 sg10
 VBARTLET
 p1118
 sg12
-g9
+g100
 sa(dp1119
 g6
 V[irritated] It's a stamp!
@@ -4134,7 +4134,7 @@ g6
 VOnce again, thanks for that review of fifth grade social studies. But I meant the federal government must remain neutral.
 p1135
 sg8
-g89
+g100
 sg10
 VJOSH
 p1136
@@ -4145,7 +4145,7 @@ g6
 VPuerto Rico is in the federal government.
 p1138
 sg8
-g89
+g100
 sg10
 VDONNA
 p1139
@@ -4161,7 +4161,7 @@ sg10
 VJOSH
 p1142
 sg12
-g9
+g100
 sa(dp1143
 g6
 VThey send a resident commissioner to Congress.
@@ -4172,7 +4172,7 @@ sg10
 VDONNA
 p1145
 sg12
-g9
+g15
 sa(dp1146
 g6
 VWho can't vote. But that's beside the point.
@@ -4233,12 +4233,12 @@ g6
 VThat's idiotic.
 p1162
 sg8
-g89
+g100
 sg10
 VDONNA
 p1163
 sg12
-g9
+g100
 sa(dp1164
 g6
 VOh, like it's the first time.
@@ -4293,13 +4293,13 @@ sg10
 VJOSH
 p1178
 sg12
-g9
+g15
 sa(dp1179
 g6
 VOh you're going to make your little bigoted Mississippi jokes?
 p1180
 sg8
-g89
+g100
 sg10
 VDONNA
 p1181
@@ -4315,7 +4315,7 @@ sg10
 VJOSH
 p1184
 sg12
-g15
+g100
 sa(dp1185
 g6
 VIsn't anyone worried that if they're not given statehood, they're going to want independence?
@@ -4332,7 +4332,7 @@ g6
 VExactly no one is worried about that. You know why? [stops] Because Puerto Rico is absolutely dependent on U.S. manufacturing, which contributes 40 percent to the GDP and accounts for 24 percent of their workforce.
 p1189
 sg8
-g89
+g100
 sg10
 VJOSH
 p1190
@@ -4343,29 +4343,29 @@ g6
 VI don't care! People don't sit still for tyranny!
 p1192
 sg8
-g89
+g100
 sg10
 VDONNA
 p1193
 sg12
-g9
+g100
 sa(dp1194
 g6
 VHow's it tyranny?
 p1195
 sg8
-g89
+g100
 sg10
 VJOSH
 p1196
 sg12
-g9
+g100
 sa(dp1197
 g6
 VPuerto Ricans have to register to be drafted into the armed forces, yet they're not allowed to vote for President. They're expected to die for a Commander-in-Chief they had no voice in electing?
 p1198
 sg8
-g89
+g100
 sg10
 VDONNA
 p1199
@@ -4568,13 +4568,13 @@ sg10
 VJOSH
 p1253
 sg12
-g9
+g100
 sa(dp1254
 g6
 VThey're... uh... trying the things they try. I'm going to give it an hour and then tell Leo we got to cancel the classroom.
 p1255
 sg8
-g89
+g100
 sg10
 VTOBY
 p1256
@@ -4634,7 +4634,7 @@ sg10
 VTOBY
 p1271
 sg12
-g9
+g100
 sa(dp1272
 g6
 VYeah.
@@ -4662,12 +4662,12 @@ g6
 VI'm late.
 p1279
 sg8
-g89
+g100
 sg10
 VC.J.
 p1280
 sg12
-g9
+g100
 sa(dp1281
 g6
 VWhere are you going?
@@ -4700,7 +4700,7 @@ sg10
 VTOBY
 p1289
 sg12
-g9
+g100
 sa(dp1290
 g6
 VSorry.
@@ -4717,12 +4717,12 @@ g6
 VWe're late.
 p1294
 sg8
-g89
+g100
 sg10
 VC.J.
 p1295
 sg12
-g9
+g100
 sa(dp1296
 g6
 V[to Sam] You're going too?
@@ -4766,13 +4766,13 @@ sg10
 VC.J.
 p1307
 sg12
-g9
+g15
 sa(dp1308
 g6
 VIn the meantime, Mallory's going to be there with her boyfriend. And it's going to be weird because we haven't spoken to one another since the picture, which was wrong, I know. But I'm not even sure there was an implied obligation to do that.
 p1309
 sg8
-g89
+g100
 sg10
 VSAM
 p1310
@@ -4821,7 +4821,7 @@ sg10
 VMARGARET
 p1322
 sg12
-g9
+g100
 sa(dp1323
 g6
 VNo, thank you.
@@ -4832,7 +4832,7 @@ sg10
 VNADIA
 p1325
 sg12
-g15
+g9
 sa(dp1326
 g6
 V[pauses and then nods] I'll be waiting outside then. If you need anything, please don't hesitate to shout my name, which is Margaret. [holds her hand to her chest]
@@ -4865,7 +4865,7 @@ sg10
 VMARGARET
 p1334
 sg12
-g9
+g15
 sa(dp1335
 g6
 VThanks.
@@ -4898,7 +4898,7 @@ sg10
 VLEO
 p1343
 sg12
-g9
+g100
 sa(dp1344
 g6
 VMadame Ambassador.
@@ -4942,7 +4942,7 @@ sg10
 VNADIA
 p1355
 sg12
-g9
+g15
 sa(dp1356
 g6
 V[walks to his desk] Thank you. You look very nice.
@@ -4953,7 +4953,7 @@ sg10
 VLEO
 p1358
 sg12
-g9
+g15
 sa(dp1359
 g6
 VYou get more handsome every year. And you're having your suits handmade now.
@@ -4981,7 +4981,7 @@ g6
 VI was sorry to hear about your divorce.
 p1366
 sg8
-g89
+g100
 sg10
 VNADIA
 p1367
@@ -5008,7 +5008,7 @@ sg10
 VNADIA
 p1373
 sg12
-g9
+g15
 sa(dp1374
 g6
 VThese are Keyhole satellite photographs. Would you point, please, to the oil refinery in these pictures?
@@ -5036,7 +5036,7 @@ g6
 VCan you tell me how an oil refinery explosion would affect national security?
 p1381
 sg8
-g89
+g100
 sg10
 VLEO
 p1382
@@ -5058,7 +5058,7 @@ g6
 VNo, I'm taking it up with the Russian Ambassador to the United States. Is your country ready to deny an explosion at Sego Silo 14-D? [pause] We know how to deal with these kinds of emergencies. We have guys who train for it all the time. Ask us for help.
 p1387
 sg8
-g89
+g100
 sg10
 VLEO
 p1388
@@ -5085,7 +5085,7 @@ sg10
 VCHARLIE
 p1394
 sg12
-g9
+g100
 sa(dp1395
 g6
 VThe Reykjavik Symphony. Do we know what they're playing and for how long they're playing it?
@@ -5129,7 +5129,7 @@ sg10
 VCHARLIE
 p1406
 sg12
-g9
+g15
 sa(dp1407
 g6
 VTurn the car around.
@@ -5151,7 +5151,7 @@ sg10
 VCHARLIE
 p1412
 sg12
-g9
+g15
 sa(dp1413
 g6
 VModern music sucks. Anything written after 1860 sucks.
@@ -5162,7 +5162,7 @@ sg10
 VBARTLET
 p1415
 sg12
-g9
+g15
 sa(dp1416
 g6
 V[reading] 'Samuel Barber, Symphony No. 2.'
@@ -5283,7 +5283,7 @@ sg10
 VCHARLIE
 p1448
 sg12
-g9
+g15
 sa(dp1449
 g6
 VThis is not classical music. It is not classical music if the guy finished writing it this afternoon.
@@ -5448,7 +5448,7 @@ sg10
 VC.J.
 p1493
 sg12
-g9
+g100
 sa(dp1494
 g6
 VPretty good.
@@ -5459,7 +5459,7 @@ sg10
 VSAM
 p1496
 sg12
-g9
+g15
 sa(dp1497
 g6
 VBenny.
@@ -5481,7 +5481,7 @@ sg10
 VMALLORY
 p1502
 sg12
-g9
+g15
 sa(dp1503
 g6
 VHow you doing?
@@ -5492,7 +5492,7 @@ sg10
 VMALLORY
 p1505
 sg12
-g15
+g9
 sa(dp1506
 g6
 VI'm good.
@@ -5503,7 +5503,7 @@ sg10
 VSAM
 p1508
 sg12
-g9
+g100
 sa(dp1509
 g6
 VGood.
@@ -5514,7 +5514,7 @@ sg10
 VMALLORY
 p1511
 sg12
-g9
+g15
 sa(dp1512
 g6
 VAnd you?
@@ -5525,7 +5525,7 @@ sg10
 VSAM
 p1514
 sg12
-g15
+g100
 sa(dp1515
 g6
 VGood.
@@ -5536,7 +5536,7 @@ sg10
 VMALLORY
 p1517
 sg12
-g9
+g15
 sa(dp1518
 g6
 VExcellent. [pauses, then speaks quickly] Can I just say that I was the one who was in trouble? I was the one under siege. It was my picture in the paper. And, I don't know why I need to call you and explain myself.
@@ -5586,7 +5586,7 @@ g6
 VWell, that's a crime.
 p1531
 sg8
-g89
+g100
 sg10
 VSAM
 p1532
@@ -5624,7 +5624,7 @@ sg10
 VMALLORY
 p1541
 sg12
-g9
+g100
 sa(dp1542
 g6
 VWhat's his name?
@@ -5652,7 +5652,7 @@ g6
 VThere's a hockey player named Richard Andrewchuk.
 p1549
 sg8
-g89
+g100
 sg10
 VSAM
 p1550
@@ -5690,7 +5690,7 @@ sg10
 VMALLORY
 p1559
 sg12
-g9
+g15
 sa(dp1560
 g6
 VI think you'd almost have to.
@@ -5701,7 +5701,7 @@ sg10
 VSAM
 p1562
 sg12
-g9
+g100
 sa(dp1563
 g6
 VWhat does that mean?
@@ -5712,7 +5712,7 @@ sg10
 VMALLORY
 p1565
 sg12
-g9
+g100
 sa(dp1566
 g6
 VWhat do you and Richard Andrewchuk have to talk about?
@@ -5734,13 +5734,13 @@ sg10
 VMALLORY
 p1571
 sg12
-g89
+g9
 sa(dp1572
 g6
 VWell good, because he's a really bad hockey player.
 p1573
 sg8
-g89
+g100
 sg10
 VSAM
 p1574
@@ -5751,23 +5751,23 @@ g6
 VHe's had injury problems this season.
 p1576
 sg8
-g89
+g100
 sg10
 VMALLORY
 p1577
 sg12
-g9
+g100
 sa(dp1578
 g6
 VFrom falling down.
 p1579
 sg8
-g89
+g100
 sg10
 VSAM
 p1580
 sg12
-g9
+g100
 sa(dp1581
 g6
 VLook, I came over here to....
@@ -5789,7 +5789,7 @@ sg10
 VWOMAN
 p1586
 sg12
-g9
+g100
 sa(dp1587
 g6
 VI took trombone lessons when I was a kid. Not much solo music written for the trombone, but I wanted to play in the marching band.
@@ -5817,12 +5817,12 @@ g6
 VWould you excuse me just one moment?
 p1594
 sg8
-g89
+g100
 sg10
 VBARTLET
 p1595
 sg12
-g9
+g100
 sa(dp1596
 g6
 VGalileo?
@@ -5844,7 +5844,7 @@ sg10
 VSAM
 p1601
 sg12
-g9
+g15
 sa(dp1602
 g6
 VYeah, what?
@@ -5855,7 +5855,7 @@ sg10
 VBARTLET
 p1604
 sg12
-g9
+g15
 sa(dp1605
 g6
 VYou're going to need a briefing from the Pentagon, sir.
@@ -5872,12 +5872,12 @@ g6
 VThe explosion occurred while liquid nitrogen was being drained.
 p1609
 sg8
-g89
+g100
 sg10
 VSAM
 p1610
 sg12
-g9
+g100
 sa(dp1611
 g6
 V[pauses and sighs] Okay. [beat] What about Galileo?
@@ -5932,7 +5932,7 @@ sg10
 VBARTLET
 p1625
 sg12
-g9
+g100
 sa(dp1626
 g6
 VYeah.
@@ -6152,7 +6152,7 @@ sg10
 VCHARLIE
 p1685
 sg12
-g9
+g100
 sa(dp1686
 g6
 VWhy?
@@ -6174,7 +6174,7 @@ sg10
 VCHARLIE
 p1691
 sg12
-g9
+g100
 sa(dp1692
 g6
 VHow did you say it?
@@ -6185,7 +6185,7 @@ sg10
 VC.J.
 p1694
 sg12
-g15
+g9
 sa(dp1695
 g6
 VWhat do you mean?
@@ -6229,7 +6229,7 @@ sg10
 VC.J.
 p1706
 sg12
-g9
+g100
 sa(dp1707
 g6
 VHe doesn't like green beans.
@@ -6240,18 +6240,18 @@ sg10
 VCHARLIE
 p1709
 sg12
-g9
+g100
 sa(dp1710
 g6
 VDid you leave any wiggle room?
 p1711
 sg8
-g89
+g100
 sg10
 VC.J.
 p1712
 sg12
-g9
+g100
 sa(dp1713
 g6
 VWiggle room? What the hell, C.J.? He doesn't like green beans.
@@ -6262,7 +6262,7 @@ sg10
 VCHARLIE
 p1715
 sg12
-g9
+g100
 sa(dp1716
 g6
 VWe won Oregon by 10,000 votes. I don't know how many green bean farmers they have out there, but if there are 10,001...
@@ -6273,7 +6273,7 @@ sg10
 VC.J.
 p1718
 sg12
-g9
+g100
 sa(dp1719
 g6
 VC.J....
@@ -6317,13 +6317,13 @@ sg10
 VC.J.
 p1730
 sg12
-g9
+g100
 sa(dp1731
 g6
 VEducation's a serious thing. Crime, jobs, national security. In 18 months, I've been to Oregon four times, and not a single person I've met there has been stupid.
 p1732
 sg8
-g89
+g100
 sg10
 VCHARLIE
 p1733
@@ -6334,7 +6334,7 @@ g6
 VEverybody's stupid in an election year, Charlie.
 p1735
 sg8
-g89
+g100
 sg10
 VC.J.
 p1736
@@ -6345,7 +6345,7 @@ g6
 VNo. Everybody gets treated stupid in an election year, C.J.
 p1738
 sg8
-g89
+g100
 sg10
 VCHARLIE
 p1739
@@ -6515,24 +6515,24 @@ sg10
 VC.J.
 p1784
 sg12
-g9
+g100
 sa(dp1785
 g6
 VYou have no problem with me.
 p1786
 sg8
-g89
+g100
 sg10
 VTOBY
 p1787
 sg12
-g9
+g100
 sa(dp1788
 g6
 VThis time of year, is the water in the Potomac very, very cold?
 p1789
 sg8
-g89
+g100
 sg10
 VC.J.
 p1790
@@ -6543,7 +6543,7 @@ g6
 VYeah, but if you rub chicken fat all over yourself, it'll insulate.
 p1792
 sg8
-g89
+g100
 sg10
 VTOBY
 p1793
@@ -6559,7 +6559,7 @@ sg10
 VC.J.
 p1796
 sg12
-g9
+g100
 sa(dp1797
 g6
 VYeah, okay. Well, we're gonna put those figures out at the morning briefing... Yeah. Thank you. [hangs up]
@@ -6592,7 +6592,7 @@ sg10
 VC.J.
 p1805
 sg12
-g15
+g9
 sa(dp1806
 g6
 VI saw you come out.
@@ -6636,7 +6636,7 @@ sg10
 VC.J.
 p1817
 sg12
-g9
+g100
 sa(dp1818
 g6
 VI heard.
@@ -6713,7 +6713,7 @@ sg10
 VTAD
 p1838
 sg12
-g9
+g100
 sa(dp1839
 g6
 VWell, no. Simon Glazer's a man.
@@ -6735,7 +6735,7 @@ sg10
 VTAD
 p1844
 sg12
-g9
+g100
 sa(dp1845
 g6
 VHey!
@@ -6757,7 +6757,7 @@ sg10
 VTAD
 p1850
 sg12
-g15
+g100
 sa(dp1851
 g6
 VTad, it honestly was a matter of Simon... [beat] No! Of course it didn't have anything to do with... That was six weeks, five years ago.
@@ -6812,18 +6812,18 @@ sg10
 VC.J.
 p1865
 sg12
-g9
+g100
 sa(dp1866
 g6
 VBelieve me, it wasn't because you were bad in bed or anything like that.
 p1867
 sg8
-g89
+g100
 sg10
 VTAD
 p1868
 sg12
-g9
+g100
 sa(dp1869
 g6
 VNo, I didn't think it was, Tad.
@@ -6834,13 +6834,13 @@ sg10
 VC.J.
 p1871
 sg12
-g9
+g100
 sa(dp1872
 g6
 VI mentioned it because I know a lot of women who worry about that.
 p1873
 sg8
-g89
+g100
 sg10
 VTAD
 p1874
@@ -6856,7 +6856,7 @@ sg10
 VC.J.
 p1877
 sg12
-g9
+g100
 sa(dp1878
 g6
 VYou're good in bed.
@@ -6922,7 +6922,7 @@ sg10
 VTAD
 p1895
 sg12
-g9
+g100
 sa(dp1896
 g6
 VI really am.
@@ -6933,13 +6933,13 @@ sg10
 VC.J.
 p1898
 sg12
-g9
+g100
 sa(dp1899
 g6
 VI think it is. I think it's personal, and I think it's unprofessional. And I think people are gonna know about this. And I think you've got a problem now.
 p1900
 sg8
-g89
+g100
 sg10
 VTAD
 p1901
@@ -7043,7 +7043,7 @@ sg10
 VC.J.
 p1928
 sg12
-g9
+g100
 sa(dp1929
 g6
 VCan you read the last part back to me?
@@ -7087,7 +7087,7 @@ sg10
 VJOSH
 p1940
 sg12
-g9
+g15
 sa(dp1941
 g6
 VYeah.
@@ -7164,7 +7164,7 @@ sg10
 VJOSH
 p1961
 sg12
-g9
+g15
 sa(dp1962
 g6
 VShe looks pretty good.
@@ -7175,7 +7175,7 @@ sg10
 VSAM
 p1964
 sg12
-g9
+g15
 sa(dp1965
 g6
 VCan you describe what she's wearing?
@@ -7197,7 +7197,7 @@ sg10
 VSAM
 p1970
 sg12
-g9
+g15
 sa(dp1971
 g6
 VSo you want to get off the phone?
@@ -7230,7 +7230,7 @@ sg10
 VJOSH
 p1979
 sg12
-g89
+g100
 sa(dp1980
 g6
 VYou know what I think?
@@ -7258,7 +7258,7 @@ g6
 VI think you're caught between wanting to be mad, and wanting good seats for home games.
 p1987
 sg8
-g89
+g100
 sg10
 VMALLORY
 p1988
@@ -7274,7 +7274,7 @@ sg10
 VSAM
 p1991
 sg12
-g9
+g100
 sa(dp1992
 g6
 VI talked to my dad. I'm sorry about Galileo.
@@ -7285,7 +7285,7 @@ sg10
 VMALLORY
 p1994
 sg12
-g9
+g100
 sa(dp1995
 g6
 VThey've got a lot of tests they can still try.
@@ -7296,7 +7296,7 @@ sg10
 VSAM
 p1997
 sg12
-g9
+g15
 sa(dp1998
 g6
 VHow much money is it gonna cost to try them?
@@ -7318,7 +7318,7 @@ sg10
 VSAM
 p2003
 sg12
-g9
+g100
 sa(dp2004
 g6
 VI'm asking as a taxpayer. It cost 165 million dollars to lose the thing. How much more money is it gonna cost to make sure you're never gonna find it?
@@ -7335,18 +7335,18 @@ g6
 VI don't know, Mallory, but we certainly won't divert any municipal tax dollars, which are always best spent on new hockey arenas.
 p2008
 sg8
-g89
+g100
 sg10
 VSAM
 p2009
 sg12
-g9
+g100
 sa(dp2010
 g6
 VNo, it's best spent feeding, housing and educating.
 p2011
 sg8
-g89
+g100
 sg10
 VMALLORY
 p2012
@@ -7357,7 +7357,7 @@ g6
 VThere are a lot of hungry people in the world, Mal, and none of them are hungry because we went to the moon. None of them are colder, and certainly none of them are dumber 'cause we went to the moon.
 p2014
 sg8
-g89
+g100
 sg10
 VSAM
 p2015
@@ -7417,7 +7417,7 @@ sg10
 VMALLORY
 p2030
 sg12
-g9
+g100
 sa(dp2031
 g6
 VPeople like you, who say that... [beat] What?
@@ -7439,13 +7439,13 @@ sg10
 VMALLORY
 p2036
 sg12
-g9
+g100
 sa(dp2037
 g6
 VThen what the hell?
 p2038
 sg8
-g89
+g100
 sg10
 VSAM
 p2039
@@ -7483,13 +7483,13 @@ sg10
 VMALLORY
 p2048
 sg12
-g9
+g100
 sa(dp2049
 g6
 VYou're a pain in the ass.
 p2050
 sg8
-g89
+g100
 sg10
 VSAM
 p2051
@@ -7522,12 +7522,12 @@ g6
 VDon't worry about it.
 p2059
 sg8
-g89
+g100
 sg10
 VMALLORY
 p2060
 sg12
-g9
+g100
 sa(dp2061
 g6
 VYou're not pissed?
@@ -7544,12 +7544,12 @@ g6
 VI'm totally pissed, but I'm saying don't worry about it tonight.
 p2065
 sg8
-g89
+g100
 sg10
 VMALLORY
 p2066
 sg12
-g9
+g100
 sa(dp2067
 g6
 V[walks up] Sam?
@@ -7560,7 +7560,7 @@ sg10
 VC.J.
 p2069
 sg12
-g89
+g100
 sa(dp2070
 g6
 VYeah? [to Mallory] I appreciate that. Thank you.
@@ -7571,7 +7571,7 @@ sg10
 VSAM
 p2072
 sg12
-g9
+g15
 sa(dp2073
 g6
 VYeah.
@@ -7593,7 +7593,7 @@ sg10
 VC.J.
 p2078
 sg12
-g9
+g15
 sa(dp2079
 g6
 VHey, C.J.
@@ -7604,7 +7604,7 @@ sg10
 VMALLORY
 p2081
 sg12
-g9
+g15
 sa(dp2082
 g6
 V[to Sam] Let me see what you got.
@@ -7670,7 +7670,7 @@ sg10
 VJOSH
 p2099
 sg12
-g9
+g15
 sa(dp2100
 g6
 VPrecedent, baby!
@@ -7681,7 +7681,7 @@ sg10
 VDONNA
 p2102
 sg12
-g9
+g15
 sa(dp2103
 g6
 VPrecedent?
@@ -7764,12 +7764,12 @@ g6
 VThey were denied.
 p2125
 sg8
-g89
+g100
 sg10
 VDONNA
 p2126
 sg12
-g9
+g100
 sa(dp2127
 g6
 VYes.
@@ -7791,7 +7791,7 @@ sg10
 VDONNA
 p2132
 sg12
-g9
+g100
 sa(dp2133
 g6
 VNo.
@@ -7918,7 +7918,7 @@ g6
 VThe following groups have been issued stamps: Disabled Veterans of America, American Confederate Veterans, American Legion and its black soldiers who served as buffalo scouts in the West.
 p2167
 sg8
-g89
+g100
 sg10
 VDONNA
 p2168
@@ -7940,7 +7940,7 @@ g6
 VI-I meant in the 19th century. The black soldiers from the West.
 p2173
 sg8
-g89
+g100
 sg10
 VDONNA
 p2174
@@ -7956,7 +7956,7 @@ sg10
 VJOSH
 p2177
 sg12
-g9
+g100
 sa(dp2178
 g6
 VThe guy should be able to be on a stamp.
@@ -7978,7 +7978,7 @@ sg10
 VJOSH
 p2183
 sg12
-g89
+g9
 sa(dp2184
 g6
 VWhat was that?
@@ -7989,7 +7989,7 @@ sg10
 VDONNA
 p2186
 sg12
-g9
+g100
 sa(dp2187
 g6
 VThe President's back.
@@ -8011,7 +8011,7 @@ sg10
 VNADIA
 p2192
 sg12
-g9
+g15
 sa(dp2193
 g6
 VWho do you want?
@@ -8066,7 +8066,7 @@ sg10
 VLEO
 p2207
 sg12
-g9
+g15
 sa(dp2208
 g6
 VAnd I'm going to insist on notification and approval. In addition, results from the inspection will remain in the country.
@@ -8094,7 +8094,7 @@ g6
 VLeo, soil samples, carbon residue, photographs and photographic negatives...
 p2215
 sg8
-g89
+g100
 sg10
 VNADIA
 p2216
@@ -8127,7 +8127,7 @@ g6
 V[to Nadia] Your paranoia was a lot sexier back when you guys are communists.
 p2224
 sg8
-g89
+g100
 sg10
 VBARTLET
 p2225
@@ -8143,7 +8143,7 @@ sg10
 VNADIA
 p2228
 sg12
-g9
+g15
 sa(dp2229
 g6
 VFrom where do you get the nerve and try to dictate terms on this? Are you insane? Your missile regimen is in a horrifying state of disrepair. Your best-trained operators have left or died. The ones you've got aren't paid very much when they're paid at all. They don't have enough to train with. Your ICBMs are well behind their warranty life. Not seven weeks ago, you mistook a Norwegian weather rocket for a submarine launch Trident missile because the CrossTac information never made it to the Russian C&C system. [looks at Leo] Leo, at the time the S.S.19 exploded, it was being drained of its liquid hydrogen in an attempt by deserting soldiers to -- wait for it --
@@ -8171,7 +8171,7 @@ g6
 VSteal the warhead! [beat] When were you gonna tell us about that? You realize how dangerous...
 p2236
 sg8
-g89
+g100
 sg10
 VBARTLET
 p2237
@@ -8204,7 +8204,7 @@ g6
 VWe'll not need help finding the leaders of the black market network -
 p2245
 sg8
-g89
+g100
 sg10
 VNADIA
 p2246
@@ -8286,7 +8286,7 @@ sg10
 VBARTLET
 p2267
 sg12
-g9
+g15
 sa(dp2268
 g6
 VSir, we have some press things for discussion.
@@ -8314,7 +8314,7 @@ g6
 VThey're testing the idea that it may have turned into what's called a 'safe mode.' If it sensed trouble, it's programmed to turn its systems off to avoid further damage and wait for instructions from earth.
 p2275
 sg8
-g89
+g100
 sg10
 VSAM
 p2276
@@ -8341,7 +8341,7 @@ sg10
 VSAM
 p2282
 sg12
-g9
+g100
 sa(dp2283
 g6
 VLike my kids. All right...
@@ -8363,7 +8363,7 @@ sg10
 VC.J.
 p2288
 sg12
-g9
+g15
 sa(dp2289
 g6
 VThe stamp.
@@ -8429,7 +8429,7 @@ sg10
 VC.J.
 p2306
 sg12
-g9
+g100
 sa(dp2307
 g6
 VOkay.
@@ -8468,7 +8468,7 @@ g6
 VNext time we're in California, we schedule a pop in Oregon, make sure nothing's burned down.
 p2317
 sg8
-g89
+g100
 sg10
 VJOSH
 p2318
@@ -8506,7 +8506,7 @@ sg10
 VC.J.
 p2327
 sg12
-g9
+g100
 sa(dp2328
 g6
 VWhat?
@@ -8528,7 +8528,7 @@ sg10
 VC.J.
 p2333
 sg12
-g9
+g100
 sa(dp2334
 g6
 VThe Citizen's Stamp Advisory Committee...
@@ -8550,7 +8550,7 @@ sg10
 VC.J.
 p2339
 sg12
-g9
+g100
 sa(dp2340
 g6
 VC.J.?
@@ -8567,7 +8567,7 @@ g6
 VHe doesn't enjoy them. He doesn't think they're bad for you, and he doesn't think the people who make them are evil. They're simply not his cup of tea. He doesn't care for them. Why do we think the adults of Oregon would be okay with that if put to them just that way? [turns to Josh on her left] And Josh, why do you think the people, adult Americans, why do you think they can't understand that we can honor a man's contribution without necessarily subscribing to his politics? They can understand a lot of things. People stopped trusting the government during Vietnam, and it was because government stopped trusting them. It's a cautionary tale, Josh.
 p2344
 sg8
-g89
+g100
 sg10
 VC.J.
 p2345
@@ -8594,7 +8594,7 @@ sg10
 VC.J.
 p2351
 sg12
-g9
+g15
 sa(dp2352
 g6
 VYeah.
@@ -8638,7 +8638,7 @@ sg10
 VC.J.
 p2363
 sg12
-g15
+g9
 sa(dp2364
 g6
 VThank you, sir.
@@ -8688,7 +8688,7 @@ g6
 VWell, first of all, let's not kid ourselves. The Reykjavik Symphony can play. These guys have some serious game. In this particular case, their talents were tragically misapplied to an atonal nightmare of pretention, but after intermission...
 p2377
 sg8
-g89
+g100
 sg10
 VBARTLET
 p2378
@@ -8732,7 +8732,7 @@ g6
 VI'm gonna wait up for a while. See if we hear anything. It's out there somewhere... It's so close.
 p2389
 sg8
-g89
+g100
 sg10
 VBARTLET
 p2390
@@ -8748,7 +8748,7 @@ sg10
 VC.J.
 p2393
 sg12
-g9
+g100
 sa(dp2394
 g6
 VYeah?
@@ -8765,7 +8765,7 @@ g6
 VWe have, at our disposal, a captive audience of schoolchildren. Some of them don't go to the black board and raise their hand 'cause they think they're gonna be wrong. I think you should say to these kids you think you get it wrong sometimes, you should come down here and see how the big boys do it. I think you should tell them you haven't given up hope, and that it may turn up, but in the meantime, you want NASA to put its best people in the room, and you want them to start building Galileo VI. Some of them will laugh, and most of them won't care, but for some, they might honestly see that it's about going to the blackboard and raising your hand. [beat] And that's the broader theme.
 p2398
 sg8
-g89
+g100
 sg10
 VC.J.
 p2399
@@ -8836,7 +8836,7 @@ sg10
 VC.J.
 p2417
 sg12
-g9
+g15
 sa(dp2418
 g6
 VTalk to us.

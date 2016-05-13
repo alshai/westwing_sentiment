@@ -56,41 +56,41 @@ sg10
 VBARTLET
 p21
 sg12
-g9
-sa(dp22
+S'negative'
+p22
+sa(dp23
 g6
 VHe's probably taking a call from Captain Morita on the Tallahassee.
-p23
+p24
 sg8
 g9
 sg10
 VFITZWALLACE
-p24
+p25
 sg12
 g9
-sa(dp25
+sa(dp26
 g6
 VWendall's answering the phones at U.S. European Commamnd?
-p26
+p27
 sg8
 g9
 sg10
 VBARTLET
-p27
+p28
 sg12
 g9
-sa(dp28
+sa(dp29
 g6
 VWould you take it easy?
-p29
+p30
 sg8
 g9
 sg10
 VLEO
-p30
-sg12
-S'positive'
 p31
+sg12
+g9
 sa(dp32
 g6
 VIs he placing a bet?
@@ -140,332 +140,332 @@ g6
 VYes, sir.
 p45
 sg8
-g31
+S'positive'
+p46
 sg10
 VWENDALL
-p46
+p47
 sg12
-g31
-sa(dp47
+g46
+sa(dp48
 g6
 VWhat happened?
-p48
+p49
 sg8
 g9
 sg10
 VFITZWALLACE
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VThe 82nd's completed its takeover of Bitanga Airport, Admiral, that's what happened.
-p51
+p52
 sg8
 g9
 sg10
 VWENDALL
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VClear the 101st for the Bitanga Airport and stand by for a coded command, General.
-p54
+p55
 sg8
 g9
 sg10
 VFITZWALLACE
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VYes, sir.
-p57
+p58
 sg8
-g31
+g46
 sg10
 VWENDALL
-p58
+p59
 sg12
-g31
-sa(dp59
+g46
+sa(dp60
 g6
 V[to Bartlet] Thank you, Mr. President.
-p60
+p61
 sg8
 g9
 sg10
 VFITZWALLACE
-p61
+p62
 sg12
 g9
-sa(dp62
+sa(dp63
 g6
 VThank you.
-p63
+p64
 sg8
 g9
 sg10
 VBARTLET
-p64
+p65
 sg12
-g31
-sa(dp65
+g46
+sa(dp66
 g6
 VThank you, Mr. President.
-p66
+p67
 sg8
 g9
 sg10
 VALL
-p67
+p68
 sg12
-g31
-sa(dp68
+g9
+sa(dp69
 g6
 VThat was impressive.
-p69
+p70
 sg8
 g9
 sg10
 VLEO
-p70
+p71
 sg12
-g9
-sa(dp71
+g22
+sa(dp72
 g6
 VMe?
-p72
+p73
 sg8
 g9
 sg10
 VBARTLET
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VNo, them. I meant...
-p75
+p76
 sg8
 g9
 sg10
 VLEO
-p76
+p77
 sg12
 g9
-sa(dp77
+sa(dp78
 g6
 VI get it.
-p78
+p79
 sg8
 g9
 sg10
 VBARTLET
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VI'm saying...
-p81
+p82
 sg8
 g9
 sg10
 VLEO
-p82
+p83
 sg12
-g9
-sa(dp83
+g22
+sa(dp84
 g6
 VAnd I agree with you.
-p84
+p85
 sg8
-g31
+g46
 sg10
 VBARTLET
-p85
+p86
 sg12
-g31
-sa(dp86
+g46
+sa(dp87
 g6
 VI'm not saying I don't think you can be impressive in the Situation Room.
-p87
+p88
 sg8
 g9
 sg10
 VLEO
-p88
+p89
 sg12
-g9
-sa(dp89
+g22
+sa(dp90
 g6
 VI can tell by the way you laughed in my face at the suggestion that I was.
-p90
+p91
 sg8
 g9
 sg10
 VBARTLET
-p91
+p92
 sg12
 g9
-sa(dp92
+sa(dp93
 g6
 VWe changed wheels-up to 6:00 p.m.
-p93
+p94
 sg8
 g9
 sg10
 VLEO
-p94
+p95
 sg12
-g9
-sa(dp95
+g22
+sa(dp96
 g6
 VI heard that. Why?
-p96
+p97
 sg8
 g9
 sg10
 VBARTLET
-p97
+p98
 sg12
 g9
-sa(dp98
+sa(dp99
 g6
 VD-triple-C put an event in Brentwood.
-p99
+p100
 sg8
 g9
 sg10
 VLEO
-p100
+p101
 sg12
-g9
-sa(dp101
+g46
+sa(dp102
 g6
 VI've told him over and over about money and endorsements from outside the district. Why is he going to Brentwood?
-p102
+p103
 sg8
-g31
+g46
 sg10
 VBARTLET
-p103
+p104
 sg12
 g9
-sa(dp104
+sa(dp105
 g6
 VFor the same reason Willy Sutton robbed banks.
-p105
+p106
 sg8
-g31
+g46
 sg10
 VLEO
-p106
+p107
 sg12
 g9
-sa(dp107
+sa(dp108
 g6
 VWhat does Joey say?
-p108
+p109
 sg8
 g9
 sg10
 VBARTLET
-p109
+p110
 sg12
 g9
-sa(dp110
+sa(dp111
 g6
 VHe's anywhere from five to eight points down, favorabilty below 50. They're making it about values.
-p111
+p112
 sg8
 g9
 sg10
 VLEO
-p112
+p113
 sg12
 g9
-sa(dp113
+sa(dp114
 g6
 VThe right to privacy's a value, so is clean air.
-p114
+p115
 sg8
-g31
+g46
 sg10
 VBARTLET
-p115
+p116
 sg12
-g9
-sa(dp116
+g46
+sa(dp117
 g6
 VThat argument's been incredibly effective in the past.
-p117
+p118
 sg8
 g9
 sg10
 VLEO
-p118
+p119
 sg12
 g9
-sa(dp119
+sa(dp120
 g6
 VOMB?
-p120
+p121
 sg8
 g9
 sg10
 VBARTLET
-p121
+p122
 sg12
 g9
-sa(dp122
+sa(dp123
 g6
 VThey want a few more hours for the revenue calculations, but they're saying it's definitely going to be today.
-p123
+p124
 sg8
 g9
 sg10
 VLEO
-p124
+p125
 sg12
 g9
-sa(dp125
+sa(dp126
 g6
 VDeficit-nuetral, we've had 14 meetings.
-p126
+p127
 sg8
 g9
 sg10
 VBARTLET
-p127
+p128
 sg12
 g9
-sa(dp128
+sa(dp129
 g6
 VThey understand. Ways and Means Democrats, then the NEC breifing on scoring.
-p129
+p130
 sg8
 g9
 sg10
 VLEO
-p130
+p131
 sg12
 g9
-sa(dp131
+sa(dp132
 g6
 VWhat's wrong with booze and a comfortable pickup? Scoring.
-p132
-sg8
-S'negative'
 p133
+sg8
+g22
 sg10
 VBARTLET
 p134
 sg12
-g9
+g46
 sa(dp135
 g6
 VI know what you were saying. What, are you from the Ozarks?
@@ -482,7 +482,7 @@ g6
 VIs there going to be a democrat tax plan, or am I going to be stuck in NEC scoring hell for the rest of my term?
 p139
 sg8
-g133
+g22
 sg10
 VBARTLET
 p140
@@ -520,13 +520,13 @@ sg10
 VLEO
 p149
 sg12
-g9
+g22
 sa(dp150
 g6
 VLast week it was a banana embargo. Is Congress opening a restaurant?
 p151
 sg8
-g133
+g22
 sg10
 VBARTLET
 p152
@@ -537,7 +537,7 @@ g6
 VThere's no reason you can't relax a little bit in California.
 p154
 sg8
-g31
+g46
 sg10
 VLEO
 p155
@@ -564,7 +564,7 @@ sg10
 VLEO
 p161
 sg12
-g31
+g46
 sa(dp162
 g6
 VGood morning, Mr. President.
@@ -592,7 +592,7 @@ g6
 VIsn't it a little early in the day, sir?
 p169
 sg8
-g31
+g46
 sg10
 VDEBBIE
 p170
@@ -614,7 +614,7 @@ g6
 V"What's wrong with booze and a comfortable pickup?"
 p175
 sg8
-g133
+g22
 sg10
 VLEO
 p176
@@ -625,7 +625,7 @@ g6
 VNo, I see there's no hour too early for your Noel Cowardesque wit, sir.
 p178
 sg8
-g31
+g46
 sg10
 VDEBBIE
 p179
@@ -641,13 +641,13 @@ sg10
 VBARTLET
 p182
 sg12
-g9
+g22
 sa(dp183
 g6
 VAmbassador Tiki is in the Oval Office, sir.
 p184
 sg8
-g31
+g46
 sg10
 VDEBBIE
 p185
@@ -669,7 +669,7 @@ g6
 VI've just taken your airport... [shakes his hand] ...clearing the way for the 101st Air Assualt to take the capitol. 7,000 troops, 25 battle tanks, 15 Apache attack helicopters, and three destroyers. Strictly speaking, I conquered your country without the paperwork.
 p190
 sg8
-g133
+g22
 sg10
 VBARTLET
 p191
@@ -680,7 +680,7 @@ g6
 VNo, it's not. It's in the midst of a one-sided slaughtering of an entire people. Both the Secretary General of the United Nations and the Vatican have pleaded with President Nzele for a cease-fire and both the U.N. and the Holy Father have struck out to the peril of 115,000 Induye men, women, and God knows children, particularly the boys.
 p193
 sg8
-g133
+g22
 sg10
 VBARTLET
 p194
@@ -696,7 +696,7 @@ sg10
 VTIKI
 p197
 sg12
-g133
+g9
 sa(dp198
 g6
 VThe heads of Ghana, Nigeria and Zaire have similairly sent packing. The Red Cross has been denied entry on three seperate occasions in the last ten says. President Nzele has 36 hours to give the command to his troops to hand over their weapons to the 82nd Divison Airborne Division of the United States Army. At 36 hours and one minute, I give the order for the 101st Air Assualt to take Bitanga and run up our flag. I skipped breakfast. Anybody want coffee or something?
@@ -713,7 +713,7 @@ g6
 VThe President informed both Ambassador Tiki and President Nzele that they have 36-- now 34 and a half hours-- to implement a halt to the violence before U.S. forces deploy. John.
 p202
 sg8
-g133
+g22
 sg10
 VC.J.
 p203
@@ -735,7 +735,7 @@ g6
 VThe government of Ghana as offered to act as an intermediary, and those talks begin within the hour.
 p208
 sg8
-g133
+g22
 sg10
 VC.J.
 p209
@@ -768,7 +768,7 @@ g6
 VYeah, I don't get to decide press policy for the U.S. Armed Forces, though if wishing made it so, but we're bring Pentagon Public Affairs on the California trip and we'll be meeting about it all weekend. Tonights forecast for D.C. is 18 degrees of Mercury. For Newport Beach, it's 78 and sunny.
 p217
 sg8
-g31
+g46
 sg10
 VC.J.
 p218
@@ -790,7 +790,7 @@ g6
 VWell, Sam's going to meet us and we're going to get something to eat.
 p223
 sg8
-g31
+g46
 sg10
 VC.J.
 p224
@@ -801,7 +801,7 @@ g6
 VDon't be fooled. They love us in Orange County. They're crazy-go-nuts for the President. They're really the Democratic party in general. I think they really like it when we come to town. When we were there last month, we we're working the crowd, and some boys, worried possibly that I couldn't afford fruits and vegetables on a government salary, tossed me some of their own.
 p226
 sg8
-g31
+g46
 sg10
 VC.J.
 p227
@@ -812,7 +812,7 @@ g6
 V78 and sunny. Yeah, we're going to have a dabba-doo time, so unless there are any updates, I'll see you on the plane.
 p229
 sg8
-g31
+g46
 sg10
 VC.J.
 p230
@@ -828,7 +828,7 @@ sg10
 VREPORTERS
 p233
 sg12
-g31
+g46
 sa(dp234
 g6
 V[to Carol] I've got $1,331 in my checking account. I'll write you a check for $1,300 if you go to California instead of me. Just leave me $31 for food and transportation.
@@ -856,7 +856,7 @@ g6
 VThat, by the way, was a sky-blue DKNY suit worn for 41 minutes. There should be a law against that.
 p241
 sg8
-g133
+g22
 sg10
 VC.J.
 p242
@@ -938,7 +938,7 @@ sg10
 VCAROL
 p263
 sg12
-g9
+g22
 sa(dp264
 g6
 VAll right, let's see if we can get Gretchen in front of the Times and...
@@ -971,7 +971,7 @@ sg10
 VC.J.
 p272
 sg12
-g9
+g46
 sa(dp273
 g6
 VYeah.
@@ -988,7 +988,7 @@ g6
 VIt's the tax plan. Josh!
 p277
 sg8
-g133
+g22
 sg10
 VC.J.
 p278
@@ -1021,7 +1021,7 @@ g6
 VYeah, it helps when someone else is picking up the bigger ticket items like a national defense.
 p286
 sg8
-g31
+g46
 sg10
 VBARTLET
 p287
@@ -1032,7 +1032,7 @@ g6
 VI love seeing my two men sparring.
 p289
 sg8
-g31
+g46
 sg10
 VZOEY
 p290
@@ -1048,7 +1048,7 @@ sg10
 VBARTLET
 p293
 sg12
-g9
+g22
 sa(dp294
 g6
 VExcellent.
@@ -1059,7 +1059,7 @@ sg10
 VBARTLET
 p296
 sg12
-g9
+g46
 sa(dp297
 g6
 VSir?
@@ -1081,7 +1081,7 @@ sg10
 VBARTLET
 p302
 sg12
-g9
+g46
 sa(dp303
 g6
 VYeah, whatever, hang on a second. [to Josh] What do you need?
@@ -1098,7 +1098,7 @@ g6
 VSir, we didn't know you were busy; we'll wait outside.
 p307
 sg8
-g133
+g22
 sg10
 VJOSH
 p308
@@ -1136,13 +1136,13 @@ sg10
 VBARTLET
 p317
 sg12
-g133
+g22
 sa(dp318
 g6
 VIf you leave, I'll kill you.
 p319
 sg8
-g133
+g22
 sg10
 VBARTLET
 p320
@@ -1153,18 +1153,18 @@ g6
 VYes, sir.
 p322
 sg8
-g31
+g46
 sg10
 VJOSH
 p323
 sg12
-g31
+g46
 sa(dp324
 g6
 VI'm sorry, Jean-Paul, I'll have to cut it short. Josh has gotten himself in a jam. But I'll see you on the plane tonight, and I'll look forward to continue the discussion on, you know, what's wrong with me.
 p325
 sg8
-g31
+g46
 sg10
 VBARTLET
 p326
@@ -1180,7 +1180,7 @@ sg10
 VZOEY
 p329
 sg12
-g31
+g9
 sa(dp330
 g6
 VWhat?
@@ -1208,7 +1208,7 @@ g6
 VYou think the Republicans are rolling out their tax plan?
 p337
 sg8
-g133
+g22
 sg10
 VBARTLET
 p338
@@ -1224,7 +1224,7 @@ sg10
 VC.J.
 p341
 sg12
-g9
+g22
 sa(dp342
 g6
 VThank God.
@@ -1257,13 +1257,13 @@ sg10
 VBARTLET
 p350
 sg12
-g9
+g22
 sa(dp351
 g6
 VBut it means they're going to announce their tax plan this afternoon or this evening. That's tomorrow and Sunday before we respond.
 p352
 sg8
-g133
+g22
 sg10
 VJOSH
 p353
@@ -1312,7 +1312,7 @@ sg10
 VTOBY
 p365
 sg12
-g9
+g22
 sa(dp366
 g6
 VIt'll be ready tomorrow?
@@ -1323,7 +1323,7 @@ sg10
 VBARTLET
 p368
 sg12
-g9
+g46
 sa(dp369
 g6
 VYes.
@@ -1334,7 +1334,7 @@ sg10
 VTOBY
 p371
 sg12
-g31
+g46
 sa(dp372
 g6
 VI say we respond to theirs with ours, but we do it tomorrow or Sunday.
@@ -1373,7 +1373,7 @@ g6
 VExcept, Mr. President, it'll kill Sam. It'll kill him in the 47th. It may be seen as gutsy by the rest of the country, but you'll kill Sam's campaign.
 p382
 sg8
-g133
+g22
 sg10
 VWILL
 p383
@@ -1384,7 +1384,7 @@ g6
 VWhich is why I think we should cancel the trip.
 p385
 sg8
-g133
+g22
 sg10
 VJOSH
 p386
@@ -1406,12 +1406,12 @@ g6
 VYes, sir.
 p391
 sg8
-g31
+g46
 sg10
 VJOSH
 p392
 sg12
-g31
+g46
 sa(dp393
 g6
 VWon't the White House canceling the trip be taken as a signal that we've given up on the 47th?
@@ -1433,13 +1433,13 @@ sg10
 VWILL
 p398
 sg12
-g31
+g46
 sa(dp399
 g6
 VAnd do equal damage to the campaign?
 p400
 sg8
-g133
+g22
 sg10
 VC.J.
 p401
@@ -1494,7 +1494,7 @@ g6
 VIt was a suit and they hit me with an avocado.
 p415
 sg8
-g133
+g22
 sg10
 VC.J.
 p416
@@ -1505,12 +1505,12 @@ g6
 VIt could've been worse.
 p418
 sg8
-g133
+g22
 sg10
 VTOBY
 p419
 sg12
-g9
+g22
 sa(dp420
 g6
 VHow?
@@ -1527,18 +1527,18 @@ g6
 VThey could have hit me.
 p424
 sg8
-g133
+g22
 sg10
 VTOBY
 p425
 sg12
-g133
+g22
 sa(dp426
 g6
 VSir, the first 24 hours of the cycle are critical. We can't fight something with nothing and that's what we'll have for 48 hours after they announce if we don't announce too.
 p427
 sg8
-g133
+g22
 sg10
 VC.J.
 p428
@@ -1549,7 +1549,7 @@ g6
 VThat's a killer decision. But let's lean towards Sam and say we keep our mouths shut in California and then come out fighting Monday morning.
 p430
 sg8
-g133
+g22
 sg10
 VBARTLET
 p431
@@ -1565,7 +1565,7 @@ sg10
 VJOSH
 p434
 sg12
-g31
+g9
 sa(dp435
 g6
 V[to Toby] I'm going to go pack 38 sets of clothes now for two days. [leaves]
@@ -1604,7 +1604,7 @@ g6
 VEvery speech the President gives on Tuesday has to be about the Democratic tax plan. How many public remarks is he making on Tuesday?
 p445
 sg8
-g31
+g46
 sg10
 VTOBY
 p446
@@ -1626,7 +1626,7 @@ g6
 VPlus we need speech inserts for the Cabinet.
 p451
 sg8
-g31
+g46
 sg10
 VTOBY
 p452
@@ -1670,7 +1670,7 @@ g6
 VYour staff-- the White House speechwriting staff. Your staff. You will tell them what you need. You will expect it. You will tell them how they can do better, and they will do it.
 p463
 sg8
-g31
+g46
 sg10
 VTOBY
 p464
@@ -1686,7 +1686,7 @@ sg10
 VWILL
 p467
 sg12
-g31
+g46
 sa(dp468
 g6
 VYes.
@@ -1697,7 +1697,7 @@ sg10
 VTOBY
 p470
 sg12
-g31
+g46
 sa(dp471
 g6
 VIn theory.
@@ -1719,7 +1719,7 @@ sg10
 VTOBY
 p476
 sg12
-g31
+g46
 sa(dp477
 g6
 VOn paper, your plan is very sound.
@@ -1752,7 +1752,7 @@ sg10
 VWILL
 p485
 sg12
-g133
+g22
 sa(dp486
 g6
 VNo, no, no, they don't like you at all.
@@ -1763,13 +1763,13 @@ sg10
 VTOBY
 p488
 sg12
-g9
+g22
 sa(dp489
 g6
 VWhy? Why, oh, why is that true? What have I done?
 p490
 sg8
-g31
+g46
 sg10
 VWILL
 p491
@@ -1785,7 +1785,7 @@ sg10
 VTOBY
 p494
 sg12
-g9
+g22
 sa(dp495
 g6
 VI made Rice Krispies Treats.
@@ -1796,13 +1796,13 @@ sg10
 VWILL
 p497
 sg12
-g9
+g22
 sa(dp498
 g6
 VThey've been working for the President forever. You've been here three minutes, and he made you a deputy. They have whiplash.
 p499
 sg8
-g31
+g46
 sg10
 VTOBY
 p500
@@ -1813,12 +1813,12 @@ g6
 VAnd understanding that, I brought in Rice Krispies Treats.
 p502
 sg8
-g31
+g46
 sg10
 VWILL
 p503
 sg12
-g9
+g46
 sa(dp504
 g6
 VAnd I'm surprised they haven't come around yet.
@@ -1829,7 +1829,7 @@ sg10
 VTOBY
 p506
 sg12
-g9
+g22
 sa(dp507
 g6
 VI can get it done myself.
@@ -1840,13 +1840,13 @@ sg10
 VWILL
 p509
 sg12
-g9
+g22
 sa(dp510
 g6
 VListen to me. Many of these are the lowest possible priority remarks. There are more valuable places for your time. Now instruct your staff.
 p511
 sg8
-g31
+g46
 sg10
 VTOBY
 p512
@@ -1862,7 +1862,7 @@ sg10
 VWILL
 p515
 sg12
-g31
+g46
 sa(dp516
 g6
 VExcuse me, Ginger?
@@ -1873,7 +1873,7 @@ sg10
 VWILL
 p518
 sg12
-g9
+g22
 sa(dp519
 g6
 VYes?
@@ -1884,7 +1884,7 @@ sg10
 VGINGER
 p521
 sg12
-g31
+g46
 sa(dp522
 g6
 VAre you, by any chance, on my staff?
@@ -1939,18 +1939,18 @@ sg10
 VWILL
 p536
 sg12
-g9
+g46
 sa(dp537
 g6
 VYes, sir.
 p538
 sg8
-g31
+g46
 sg10
 VGINGER
 p539
 sg12
-g31
+g46
 sa(dp540
 g6
 VThanks.
@@ -1994,24 +1994,24 @@ sg10
 VSAM
 p551
 sg12
-g31
+g9
 sa(dp552
 g6
 VWhy did you cancel the Teamsters?
 p553
 sg8
-g133
+g22
 sg10
 VWILL
 p554
 sg12
-g9
+g22
 sa(dp555
 g6
 VScott thought we should be at the Manufacturing Association breakfast.
 p556
 sg8
-g31
+g46
 sg10
 VSAM
 p557
@@ -2027,7 +2027,7 @@ sg10
 VWILL
 p560
 sg12
-g9
+g22
 sa(dp561
 g6
 V[to Scott] Hey, Scott, Will says he doesn't think you're very smart.
@@ -2049,7 +2049,7 @@ sg10
 VWILL
 p566
 sg12
-g9
+g22
 sa(dp567
 g6
 VWhat do you need?
@@ -2115,7 +2115,7 @@ sg10
 VWILL
 p584
 sg12
-g31
+g22
 sa(dp585
 g6
 VYou're going to have some new staffers in there.
@@ -2132,7 +2132,7 @@ g6
 VYeah, but the problem is they're a lot of remarks we have to get ready for Monday.
 p589
 sg8
-g133
+g22
 sg10
 VWILL
 p590
@@ -2198,7 +2198,7 @@ g6
 VI'm going to need to work hard to avoid that appearance?
 p607
 sg8
-g133
+g22
 sg10
 VSAM
 p608
@@ -2214,13 +2214,13 @@ sg10
 VSCOTT
 p611
 sg12
-g9
+g46
 sa(dp612
 g6
 VWell, let me ask you, what do we have planned that might be mistaken...
 p613
 sg8
-g133
+g22
 sg10
 VSAM
 p614
@@ -2253,7 +2253,7 @@ g6
 VThis went fast in an ugly directon. The better point is people need to know you're independent.
 p622
 sg8
-g133
+g22
 sg10
 VSCOTT
 p623
@@ -2264,7 +2264,7 @@ g6
 VWell, I have a good feeling about this trip already.
 p625
 sg8
-g31
+g46
 sg10
 VSAM
 p626
@@ -2297,12 +2297,12 @@ g6
 VIsn't that worse then we thought it was going to be?
 p634
 sg8
-g133
+g22
 sg10
 VED
 p635
 sg12
-g9
+g22
 sa(dp636
 g6
 VIt is.
@@ -2313,7 +2313,7 @@ sg10
 VDONNA
 p638
 sg12
-g133
+g22
 sa(dp639
 g6
 VWe though it was going to be...
@@ -2368,7 +2368,7 @@ sg10
 VANDY
 p653
 sg12
-g31
+g46
 sa(dp654
 g6
 VOh, my God. Have you been on the plane the whole time?
@@ -2385,7 +2385,7 @@ g6
 VNo, I hopped on board when you guys were over the Great Lakes! What the hell...?
 p658
 sg8
-g133
+g22
 sg10
 VANDY
 p659
@@ -2412,7 +2412,7 @@ sg10
 VANDY
 p665
 sg12
-g9
+g22
 sa(dp666
 g6
 VAnd I told you you couldn't fly.
@@ -2423,13 +2423,13 @@ sg10
 VTOBY
 p668
 sg12
-g31
+g22
 sa(dp669
 g6
 VAnd Dr. Salmi said I could fly through the 32nd week, and I thought since he's my doctor, and you're really dumb, I'd join the Congressional delegation and help out Sam. Isn't it great?
 p670
 sg8
-g31
+g46
 sg10
 VANDY
 p671
@@ -2440,7 +2440,7 @@ g6
 VListen to me. We've got all kinds of atmospheric cabin pressure up here. We're a little late, so the Colonel's put the hammer down in a 747. You've got windshear, downdraft, massive turbulence, not to mention four giant engines burning jet fuel at galactic temperatures. We're standing in a flying death tube!
 p673
 sg8
-g133
+g22
 sg10
 VTOBY
 p674
@@ -2451,7 +2451,7 @@ g6
 VNo, not the rest of y-you. It's just my family. It's, it's fine. [to Andy] Look...
 p676
 sg8
-g31
+g46
 sg10
 VTOBY
 p677
@@ -2473,7 +2473,7 @@ g6
 VAlso, you've got twins in there. You're basically a minivan. How are you fitting into a seat?
 p682
 sg8
-g31
+g46
 sg10
 VTOBY
 p683
@@ -2533,7 +2533,7 @@ sg10
 VJOSH
 p698
 sg12
-g31
+g46
 sa(dp699
 g6
 VThe California Agricultural Laborers Association. He's staying in our hotel and he wants to know if he can get five minutes.
@@ -2550,7 +2550,7 @@ g6
 VI don't know. I don't know him. Find out if he's for real before I meet with him.
 p703
 sg8
-g31
+g46
 sg10
 VJOSH
 p704
@@ -2599,7 +2599,7 @@ sg10
 VJOSH
 p716
 sg12
-g9
+g46
 sa(dp717
 g6
 VSay he is.
@@ -2610,13 +2610,13 @@ sg10
 VDONNA
 p719
 sg12
-g31
+g46
 sa(dp720
 g6
 VAsk him what he thinks of Richard Sutter. He's an Assemblyman who proposed the Foreign Labor... It doesn't matter. If he doesn't have a strong opinion on Sutter, he doesn't play at your level.
 p721
 sg8
-g31
+g46
 sg10
 VJOSH
 p722
@@ -2627,12 +2627,12 @@ g6
 VI have a level?
 p724
 sg8
-g31
+g46
 sg10
 VDONNA
 p725
 sg12
-g9
+g46
 sa(dp726
 g6
 VYou do. It's not a lot to speak of, but you know, no shoes no shirt, I'm sorry, but you draw the line.
@@ -2676,7 +2676,7 @@ sg10
 VC.J.
 p737
 sg12
-g9
+g22
 sa(dp738
 g6
 VWhat happened?
@@ -2693,7 +2693,7 @@ g6
 VSome wires got crossed between the Advance and Airlift Operations and CHP on the ground. They didn't get the word until late that take-off had been delayed and they also thought we were coming into SNA and not Los Alamitos.
 p742
 sg8
-g133
+g22
 sg10
 VC.J.
 p743
@@ -2720,7 +2720,7 @@ sg10
 VC.J.
 p749
 sg12
-g9
+g22
 sa(dp750
 g6
 VIs that a freeway that gets used a lot?
@@ -2748,7 +2748,7 @@ g6
 VAll right, has the President seen any of the news on the Republican tax cut?
 p757
 sg8
-g133
+g22
 sg10
 VJOSH
 p758
@@ -2775,13 +2775,13 @@ sg10
 VBARTLET
 p764
 sg12
-g9
+g22
 sa(dp765
 g6
 VPlus, it's worse than we thought.
 p766
 sg8
-g133
+g22
 sg10
 VLARRY
 p767
@@ -2797,7 +2797,7 @@ sg10
 VED
 p770
 sg12
-g133
+g22
 sa(dp771
 g6
 V[to Ed] Sing it, Larry.
@@ -2808,7 +2808,7 @@ sg10
 VBARTLET
 p773
 sg12
-g9
+g46
 sa(dp774
 g6
 VEd.
@@ -2891,7 +2891,7 @@ g6
 VExplode the deficit. Will it stimulate the economy, Josh?
 p796
 sg8
-g133
+g22
 sg10
 VBARTLET
 p797
@@ -2913,7 +2913,7 @@ g6
 VJosh gets extra credit for being funny and right at the same time, and how long do I have to stay quiet, Toby?
 p802
 sg8
-g31
+g46
 sg10
 VBARTLET
 p803
@@ -2924,7 +2924,7 @@ g6
 VYou're the leader of the free world, sir. You can speak anytime you like.
 p805
 sg8
-g31
+g46
 sg10
 VTOBY
 p806
@@ -2935,12 +2935,12 @@ g6
 VAnd not kill Sam?
 p808
 sg8
-g133
+g22
 sg10
 VBARTLET
 p809
 sg12
-g9
+g22
 sa(dp810
 g6
 VNo, for that you got to shut up for 50 hours.
@@ -2962,7 +2962,7 @@ sg10
 VBARTLET
 p815
 sg12
-g9
+g22
 sa(dp816
 g6
 VYou wanted to see me?
@@ -3001,12 +3001,12 @@ g6
 VIs this a joke?
 p826
 sg8
-g133
+g22
 sg10
 VWILL
 p827
 sg12
-g133
+g9
 sa(dp828
 g6
 VNo.
@@ -3039,7 +3039,7 @@ sg10
 VELSIE
 p836
 sg12
-g9
+g22
 sa(dp837
 g6
 VWhen are you going to be done?
@@ -3067,7 +3067,7 @@ g6
 VOkay, I need you the rest of the weekend.
 p844
 sg8
-g31
+g46
 sg10
 VWILL
 p845
@@ -3094,7 +3094,7 @@ sg10
 VWILL
 p851
 sg12
-g9
+g22
 sa(dp852
 g6
 VThe Rice Krispie Treats?
@@ -3111,7 +3111,7 @@ g6
 VDid not do the job.
 p856
 sg8
-g31
+g46
 sg10
 VWILL
 p857
@@ -3127,7 +3127,7 @@ sg10
 VELSIE
 p860
 sg12
-g9
+g46
 sa(dp861
 g6
 VTry telling them that.
@@ -3138,7 +3138,7 @@ sg10
 VWILL
 p863
 sg12
-g9
+g22
 sa(dp864
 g6
 VHave you tried telling them that?
@@ -3193,7 +3193,7 @@ sg10
 VELSIE
 p878
 sg12
-g133
+g22
 sa(dp879
 g6
 VYeah. You know we took Bitanga Airport this morning?
@@ -3215,7 +3215,7 @@ sg10
 VELSIE
 p884
 sg12
-g9
+g22
 sa(dp885
 g6
 VI'm just saying.
@@ -3226,7 +3226,7 @@ sg10
 VWILL
 p887
 sg12
-g9
+g22
 sa(dp888
 g6
 VYou think the President took Bitanga 'cause you told him to?
@@ -3248,7 +3248,7 @@ sg10
 VWILL
 p893
 sg12
-g9
+g22
 sa(dp894
 g6
 VYeah.
@@ -3298,34 +3298,34 @@ g6
 VNzele's demanding...
 p907
 sg8
-g133
+g22
 sg10
 VROBBIE
 p908
 sg12
-g9
+g22
 sa(dp909
 g6
 VHe's not in a position to be demanding anything.
 p910
 sg8
-g133
+g22
 sg10
 VLEO
 p911
 sg12
-g9
+g22
 sa(dp912
 g6
 VNonetheless, he's demanding that American troops leave Bitanga immediately.
 p913
 sg8
-g133
+g22
 sg10
 VROBBIE
 p914
 sg12
-g9
+g22
 sa(dp915
 g6
 VAnd?
@@ -3336,18 +3336,18 @@ sg10
 VLEO
 p917
 sg12
-g9
+g22
 sa(dp918
 g6
 VAnd he'll continue the peace talks among the African countries.
 p919
 sg8
-g31
+g46
 sg10
 VTHOMAS
 p920
 sg12
-g9
+g46
 sa(dp921
 g6
 VNo.
@@ -3364,7 +3364,7 @@ g6
 VLeo, Nzele is a sadistic madman. This can't possibly be argued. But he's not a stupid man, and he knows where CNN is on his television. He's betting the first dead American soldier on television and you lose.
 p925
 sg8
-g133
+g22
 sg10
 VTHOMAS
 p926
@@ -3391,7 +3391,7 @@ sg10
 VTHOMAS
 p932
 sg12
-g31
+g46
 sa(dp933
 g6
 VThomas, Robbie-- you've got to find a way of getting word to Nzele that in 23 hours he's going to lose that bet.
@@ -3424,13 +3424,13 @@ sg10
 VWILL
 p941
 sg12
-g9
+g22
 sa(dp942
 g6
 VYes, sir. We're the interns for the speechwriting staff.
 p943
 sg8
-g31
+g46
 sg10
 VCASSIE
 p944
@@ -3446,7 +3446,7 @@ sg10
 VWILL
 p947
 sg12
-g133
+g9
 sa(dp948
 g6
 VWho?
@@ -3479,7 +3479,7 @@ sg10
 VCASSIE
 p956
 sg12
-g133
+g22
 sa(dp957
 g6
 VWhat's your name?
@@ -3534,7 +3534,7 @@ sg10
 VCASSIE
 p971
 sg12
-g133
+g46
 sa(dp972
 g6
 VThree of you are named Lauren?
@@ -3551,12 +3551,12 @@ g6
 VYes, sir.
 p976
 sg8
-g31
+g46
 sg10
 VCASSIE
 p977
 sg12
-g31
+g46
 sa(dp978
 g6
 VLauren, Lauren, Cassie and Lauren.
@@ -3567,18 +3567,18 @@ sg10
 VWILL
 p980
 sg12
-g9
+g46
 sa(dp981
 g6
 VYes, sir.
 p982
 sg8
-g31
+g46
 sg10
 VALL
 p983
 sg12
-g31
+g46
 sa(dp984
 g6
 VAnd you don't know where the staff is, and Toby tells me to call him?
@@ -3600,7 +3600,7 @@ sg10
 VCASSIE
 p989
 sg12
-g31
+g46
 sa(dp990
 g6
 VOkay, I'm just going to step in this office over here a moment.
@@ -3617,7 +3617,7 @@ g6
 V[to interns] You're all pretty dressed up.
 p994
 sg8
-g31
+g46
 sg10
 VWILL
 p995
@@ -3639,7 +3639,7 @@ g6
 V[to interns] Doesn't sound that good, does it? [into phone] Toby, it's Will.
 p1000
 sg8
-g31
+g46
 sg10
 VWILL
 p1001
@@ -3650,12 +3650,12 @@ g6
 V74 degrees in February. There's no civilization here.
 p1003
 sg8
-g31
+g46
 sg10
 VTOBY
 p1004
 sg12
-g9
+g22
 sa(dp1005
 g6
 VWhere's the staff?
@@ -3688,7 +3688,7 @@ sg10
 VWILL
 p1013
 sg12
-g9
+g22
 sa(dp1014
 g6
 VYeah, I fired some of them.
@@ -3738,7 +3738,7 @@ g6
 VI was thinking about what you said this morning, and I think they have a bad attitude. Also, they're pretty bad at their jobs.
 p1027
 sg8
-g133
+g22
 sg10
 VTOBY
 p1028
@@ -3760,7 +3760,7 @@ g6
 VJust as soon as you hire them.
 p1033
 sg8
-g31
+g46
 sg10
 VTOBY
 p1034
@@ -3787,7 +3787,7 @@ sg10
 VTOBY
 p1040
 sg12
-g9
+g22
 sa(dp1041
 g6
 VI can't?
@@ -3798,7 +3798,7 @@ sg10
 VWILL
 p1043
 sg12
-g9
+g22
 sa(dp1044
 g6
 VYou can't. That's why I left you a staff.
@@ -3809,7 +3809,7 @@ sg10
 VTOBY
 p1046
 sg12
-g9
+g22
 sa(dp1047
 g6
 VThe interns?
@@ -3826,7 +3826,7 @@ g6
 VTell them what you want, and then expect it.
 p1051
 sg8
-g31
+g46
 sg10
 VTOBY
 p1052
@@ -3848,7 +3848,7 @@ g6
 VThey're bright young women. Show some leadership skills. Get it done. We're here. I'll call you in a little bit.
 p1057
 sg8
-g31
+g46
 sg10
 VTOBY
 p1058
@@ -3859,7 +3859,7 @@ g6
 VOkay. The speechwriting staff-- you didnt fire them, they quit, right?
 p1060
 sg8
-g133
+g22
 sg10
 VWILL
 p1061
@@ -3886,7 +3886,7 @@ sg10
 VWILL
 p1067
 sg12
-g9
+g46
 sa(dp1068
 g6
 VYeah.
@@ -3908,7 +3908,7 @@ sg10
 VWILL
 p1073
 sg12
-g9
+g46
 sa(dp1074
 g6
 VHi.
@@ -3930,18 +3930,18 @@ sg10
 VC.J.
 p1079
 sg12
-g9
+g22
 sa(dp1080
 g6
 VDon't worry about it.
 p1081
 sg8
-g133
+g22
 sg10
 VSAM
 p1082
 sg12
-g9
+g22
 sa(dp1083
 g6
 VHi.
@@ -3980,29 +3980,29 @@ g6
 VDon't worry about it.
 p1093
 sg8
-g133
+g22
 sg10
 VSAM
 p1094
 sg12
-g9
+g22
 sa(dp1095
 g6
 VDid we do much damage?
 p1096
 sg8
-g133
+g22
 sg10
 VC.J.
 p1097
 sg12
-g9
+g22
 sa(dp1098
 g6
 VThey got a photograph of an American SUV with three kids in the back crying 'cause they were stuck getting home from Disney's California Adventure. Listen, I feel bad you made the trip now. Who knew the Republicans were going to announce? Plus, he's got to be distracted by Kuhndu.
 p1099
 sg8
-g133
+g22
 sg10
 VSAM
 p1100
@@ -4046,18 +4046,18 @@ g6
 VThank you for coming. I was just saying you must be distracted by Kuhndu.
 p1111
 sg8
-g133
+g22
 sg10
 VSAM
 p1112
 sg12
-g9
+g22
 sa(dp1113
 g6
 VThe French have denied us access to their airspace. I'm not sure why they think we're going to need it to get from here to Africa, but what the hell. This weekend's all about you. Get up there.
 p1114
 sg8
-g133
+g22
 sg10
 VBARTLET
 p1115
@@ -4090,12 +4090,12 @@ g6
 VYes, sir.
 p1123
 sg8
-g31
+g46
 sg10
 VCHARLIE
 p1124
 sg12
-g31
+g46
 sa(dp1125
 g6
 V[into phone] Yeah?
@@ -4112,7 +4112,7 @@ g6
 VThank you very much. Thank you. You've heard from a lot of people tonight and many of them were me. I'm happy to see that so many teachers here tonight brought students. The man that I worked for is not only a great President; he's an extraordinary role model. And someone you can honestly...
 p1129
 sg8
-g31
+g46
 sg10
 VSAM
 p1130
@@ -4128,7 +4128,7 @@ sg10
 VSAM
 p1133
 sg12
-g9
+g46
 sa(dp1134
 g6
 VGood morning.
@@ -4139,7 +4139,7 @@ sg10
 VWILL
 p1136
 sg12
-g9
+g46
 sa(dp1137
 g6
 VGood morning.
@@ -4150,7 +4150,7 @@ sg10
 VALL
 p1139
 sg12
-g9
+g46
 sa(dp1140
 g6
 VThese are for you.
@@ -4161,7 +4161,7 @@ sg10
 VWILL
 p1142
 sg12
-g9
+g46
 sa(dp1143
 g6
 VYou want us to put them on?
@@ -4200,7 +4200,7 @@ g6
 VYesterday afternoon, the Republican Leadership unveiled their tax plan. On Monday morning, we're going to unveil ours, which means that all public remarks coming from the White House have to be about the Democratic tax plan. So, I need you all to help to take prepared remarks, say about the canning of catfish, and make it about the tax plan. Number 60, what are you writing down?
 p1153
 sg8
-g133
+g22
 sg10
 VWILL
 p1154
@@ -4216,7 +4216,7 @@ sg10
 VWILL
 p1157
 sg12
-g9
+g22
 sa(dp1158
 g6
 VI never heard it.
@@ -4244,7 +4244,7 @@ g6
 VI just made it up. 21, What's a capital gain?
 p1165
 sg8
-g31
+g46
 sg10
 VWILL
 p1166
@@ -4277,7 +4277,7 @@ g6
 VThey want to lower taxes and we want to raise them.
 p1174
 sg8
-g133
+g22
 sg10
 VCASSIE
 p1175
@@ -4293,7 +4293,7 @@ sg10
 VWILL
 p1178
 sg12
-g9
+g22
 sa(dp1179
 g6
 VYou just did.
@@ -4332,7 +4332,7 @@ g6
 VWell, I'm sure you had to write in college in the many, many government and poly-sci and economics classes you took while attending...?
 p1189
 sg8
-g133
+g22
 sg10
 VWILL
 p1190
@@ -4354,7 +4354,7 @@ g6
 VWhat the hell are you doing here?
 p1195
 sg8
-g133
+g22
 sg10
 VWILL
 p1196
@@ -4392,13 +4392,13 @@ sg10
 VTOBY
 p1205
 sg12
-g9
+g22
 sa(dp1206
 g6
 VWhat the hell happened last night?
 p1207
 sg8
-g133
+g22
 sg10
 VWILL
 p1208
@@ -4420,18 +4420,18 @@ g6
 VI'd really like a chance to talk to Scott Holcomb.
 p1213
 sg8
-g31
+g46
 sg10
 VWILL
 p1214
 sg12
-g9
+g22
 sa(dp1215
 g6
 VDon't worry about the campaign.
 p1216
 sg8
-g133
+g22
 sg10
 VTOBY
 p1217
@@ -4453,12 +4453,12 @@ g6
 VDon't worry about it. How are the remarks coming?
 p1222
 sg8
-g133
+g22
 sg10
 VTOBY
 p1223
 sg12
-g9
+g22
 sa(dp1224
 g6
 VUh, great. These guys are pros. [to Elsie] Elsie, what are you doing?
@@ -4530,7 +4530,7 @@ g6
 VThe Journal's attacking him for campaigning at the same time he's sending troops overseas.
 p1243
 sg8
-g133
+g22
 sg10
 VJOSH
 p1244
@@ -4574,7 +4574,7 @@ g6
 VYeah, but he also mentioned vouchers, closing the 5, 405 and the 55 didn't play well. And because he was late he couldn't see off a battalion leaving from Miramar, flights out of John Wayne were held on the ground and of course, children crying at the "Pirates of the Carribean," and it's still 6:30 in the morning.
 p1255
 sg8
-g133
+g22
 sg10
 VSAM
 p1256
@@ -4590,18 +4590,18 @@ sg10
 VC.J.
 p1259
 sg12
-g9
+g46
 sa(dp1260
 g6
 VI have no idea what makes me say this, but it's good to see you. I have a strategy breakfast.
 p1261
 sg8
-g31
+g46
 sg10
 VSAM
 p1262
 sg12
-g9
+g22
 sa(dp1263
 g6
 VYou want me to come?
@@ -4662,7 +4662,7 @@ g6
 VI think Holcomb's been making bad mistakes with you, Sam. I think Josh's been right.
 p1279
 sg8
-g133
+g22
 sg10
 VC.J.
 p1280
@@ -4700,7 +4700,7 @@ sg10
 VSAM
 p1289
 sg12
-g9
+g46
 sa(dp1290
 g6
 VHas a Democrat ever won Orange County?
@@ -4711,7 +4711,7 @@ sg10
 VJOSH
 p1292
 sg12
-g9
+g46
 sa(dp1293
 g6
 VNo.
@@ -4739,7 +4739,7 @@ g6
 VThat's a fair point, but it's who the national committee wants running the campaign, and that's where money's coming from so I have a strategy breakfast and I'll see you all a little bit later.
 p1300
 sg8
-g31
+g46
 sg10
 VSAM
 p1301
@@ -4772,7 +4772,7 @@ g6
 VSome polls that have you within seven. If you only lost by seven, that would be huge, man.
 p1309
 sg8
-g133
+g22
 sg10
 VJOSH
 p1310
@@ -4788,7 +4788,7 @@ sg10
 VSAM
 p1313
 sg12
-g9
+g22
 sa(dp1314
 g6
 VGood.
@@ -4799,7 +4799,7 @@ sg10
 VJOSH
 p1316
 sg12
-g9
+g46
 sa(dp1317
 g6
 VOkay, where are we?
@@ -4832,18 +4832,18 @@ sg10
 VIVAN
 p1325
 sg12
-g9
+g22
 sa(dp1326
 g6
 VThat was weird.
 p1327
 sg8
-g133
+g22
 sg10
 VDONNA
 p1328
 sg12
-g9
+g22
 sa(dp1329
 g6
 VThat happens to me sometimes.
@@ -4854,24 +4854,24 @@ sg10
 VIVAN
 p1331
 sg12
-g9
+g22
 sa(dp1332
 g6
 VAre you a farm labor leader and a rock star?
 p1333
 sg8
-g31
+g46
 sg10
 VDONNA
 p1334
 sg12
-g31
+g46
 sa(dp1335
 g6
 VNo. But my point was we have no way of determining whether 12 hours under the sun, picking grapes is worth less or more than 9:00 to 5:00 in an office.
 p1336
 sg8
-g31
+g46
 sg10
 VIVAN
 p1337
@@ -4898,7 +4898,7 @@ sg10
 VIVAN
 p1343
 sg12
-g31
+g46
 sa(dp1344
 g6
 VWhat do you think of Richard Sutter?
@@ -4920,7 +4920,7 @@ sg10
 VIVAN
 p1349
 sg12
-g9
+g22
 sa(dp1350
 g6
 VRichard Sutter. I was just wondering what you opinion of Richard...?
@@ -4937,7 +4937,7 @@ g6
 VWell, he's the enemy, is what he is. I mean simply put, he is the enemy. This is an Assemblyman who led the charge for...
 p1354
 sg8
-g133
+g22
 sg10
 VIVAN
 p1355
@@ -4953,7 +4953,7 @@ sg10
 VDONNA
 p1358
 sg12
-g9
+g46
 sa(dp1359
 g6
 VUm, I'm sorry?
@@ -4964,13 +4964,13 @@ sg10
 VIVAN
 p1361
 sg12
-g9
+g22
 sa(dp1362
 g6
 VHe was. And I think what you have to say is valuable and I'm going to see if I can get you in to see Josh while we're here.
 p1363
 sg8
-g31
+g46
 sg10
 VDONNA
 p1364
@@ -4981,12 +4981,12 @@ g6
 VThat's wonderful. Thank you.
 p1366
 sg8
-g31
+g46
 sg10
 VIVAN
 p1367
 sg12
-g9
+g46
 sa(dp1368
 g6
 VGood meeting you.
@@ -4997,7 +4997,7 @@ sg10
 VDONNA
 p1370
 sg12
-g31
+g46
 sa(dp1371
 g6
 VDonna!
@@ -5030,7 +5030,7 @@ sg10
 VSAM
 p1379
 sg12
-g9
+g46
 sa(dp1380
 g6
 VI didn't get the chance to see you much last night. How are you doing?
@@ -5047,7 +5047,7 @@ g6
 VOh, everyone feels really bad about the start.
 p1384
 sg8
-g133
+g22
 sg10
 VDONNA
 p1385
@@ -5058,12 +5058,12 @@ g6
 VDon't worry about it. Where are you coming from?
 p1387
 sg8
-g133
+g22
 sg10
 VSAM
 p1388
 sg12
-g9
+g22
 sa(dp1389
 g6
 VFive minutes with a guy named Ivan Perez from the California Agricultural Laborers Association. Josh wanted me to find out if he's legit.
@@ -5096,7 +5096,7 @@ sg10
 VDONNA
 p1397
 sg12
-g9
+g22
 sa(dp1398
 g6
 V[to Scott and his aides] Anyone ever heard of Ivan Perez?
@@ -5305,7 +5305,7 @@ sg10
 VSAM
 p1454
 sg12
-g9
+g22
 sa(dp1455
 g6
 VLike I'm not used to that.
@@ -5327,7 +5327,7 @@ sg10
 VWILL
 p1460
 sg12
-g9
+g22
 sa(dp1461
 g6
 VHey, how's it going down there?
@@ -5338,7 +5338,7 @@ sg10
 VLEO
 p1463
 sg12
-g9
+g22
 sa(dp1464
 g6
 VFine.
@@ -5355,7 +5355,7 @@ g6
 VI heard your staff quit.
 p1468
 sg8
-g133
+g22
 sg10
 VLEO
 p1469
@@ -5382,7 +5382,7 @@ sg10
 VLEO
 p1475
 sg12
-g9
+g46
 sa(dp1476
 g6
 VIt would appear so.
@@ -5393,18 +5393,18 @@ sg10
 VWILL
 p1478
 sg12
-g9
+g22
 sa(dp1479
 g6
 VWell, that's a little small.
 p1480
 sg8
-g133
+g22
 sg10
 VLEO
 p1481
 sg12
-g9
+g22
 sa(dp1482
 g6
 VWhatever. Do you suppose there's anyone around with speechwriting experience, I could borrow for a day or two?
@@ -5454,12 +5454,12 @@ g6
 VNo problem. Is there anything I can do for you?
 p1495
 sg8
-g133
+g22
 sg10
 VWILL
 p1496
 sg12
-g9
+g22
 sa(dp1497
 g6
 VFor me?
@@ -5470,13 +5470,13 @@ sg10
 VLEO
 p1499
 sg12
-g9
+g22
 sa(dp1500
 g6
 VWith regard to whatever's happening right now. I feel a little responsible.
 p1501
 sg8
-g31
+g46
 sg10
 VWILL
 p1502
@@ -5492,13 +5492,13 @@ sg10
 VLEO
 p1505
 sg12
-g9
+g46
 sa(dp1506
 g6
 VYou need me to prepare remarks at all?
 p1507
 sg8
-g31
+g46
 sg10
 VWILL
 p1508
@@ -5509,7 +5509,7 @@ g6
 VI hope not.
 p1510
 sg8
-g31
+g46
 sg10
 VLEO
 p1511
@@ -5542,7 +5542,7 @@ g6
 VAre we seeing any pictures of the Arkutu getting ready to surrender?
 p1519
 sg8
-g133
+g22
 sg10
 VLEO
 p1520
@@ -5586,7 +5586,7 @@ g6
 VSo why not talk about blowing off the deadline?
 p1531
 sg8
-g31
+g46
 sg10
 VLEO
 p1532
@@ -5608,7 +5608,7 @@ g6
 VHe's trying to finish the job before the deadline.
 p1537
 sg8
-g31
+g46
 sg10
 VLEO
 p1538
@@ -5624,7 +5624,7 @@ sg10
 VFITZWALLACE
 p1541
 sg12
-g31
+g46
 sa(dp1542
 g6
 VSure. He's getting continuous updates. He's also spoken by phone today with the UN Secretary-General and the leadership of the World Bank and the IMF to begin discussing rebuilding packages after the Arkutu stepdown.
@@ -5652,7 +5652,7 @@ g6
 VThe tax plan isn't a response to the Republicans, it's a tax plan, and yes.
 p1549
 sg8
-g133
+g22
 sg10
 VC.J.
 p1550
@@ -5674,7 +5674,7 @@ g6
 VWas a White House aide sent to meet with the Communist Party's candidate for governor?
 p1555
 sg8
-g31
+g46
 sg10
 VC.J.
 p1556
@@ -5707,7 +5707,7 @@ g6
 VReally, really well. I'll talk to you before the dinner. Thank you.
 p1564
 sg8
-g31
+g46
 sg10
 VC.J.
 p1565
@@ -5723,13 +5723,13 @@ sg10
 VALL
 p1568
 sg12
-g31
+g46
 sa(dp1569
 g6
 V"Nothing is more important than teaching our children well." This is good. These are remarks prepared by number 48 for the Undersecretary of Education at the AFT Leadership Breakfast. Very good start. "Nothing is more important than teaching our children well, grounding them in the basics. And while we're at it, We should teach them that the Republican tax plan is a job killer..." Yeah, I don't think this is going to work out, do you?
 p1570
 sg8
-g31
+g46
 sg10
 VWILL
 p1571
@@ -5773,7 +5773,7 @@ g6
 VYes. I know you were. You don't know I know how to retreive information.
 p1582
 sg8
-g31
+g46
 sg10
 VWILL
 p1583
@@ -5795,7 +5795,7 @@ g6
 VWhat was I doing? My job, okay? That's what I was doing.
 p1588
 sg8
-g31
+g46
 sg10
 VWILL
 p1589
@@ -5850,7 +5850,7 @@ g6
 VDid I tell you to worry about the speeches or did I tell you to worry about Sam's campaign?
 p1603
 sg8
-g133
+g22
 sg10
 VTOBY
 p1604
@@ -5861,12 +5861,12 @@ g6
 VI worry about Sam's campaign without anyone telling me to.
 p1606
 sg8
-g133
+g22
 sg10
 VWILL
 p1607
 sg12
-g9
+g22
 sa(dp1608
 g6
 VRead me what you've got for the swearing in of the Ambassador.
@@ -5894,7 +5894,7 @@ g6
 VOkay, you're going to polish that up?
 p1615
 sg8
-g31
+g46
 sg10
 VTOBY
 p1616
@@ -5927,7 +5927,7 @@ g6
 VThe President's proposing the tax plan, not me.
 p1624
 sg8
-g133
+g22
 sg10
 VCHARLIE
 p1625
@@ -5938,7 +5938,7 @@ g6
 VThe White House wants to raise taxes on the wealthies one percent of the population by one percent, in order to pay for college tuition to be fully tax deductible for anyone making under $80,000 a year, and incrementally tax deductible after that. Does that make sense?
 p1627
 sg8
-g31
+g46
 sg10
 VCHARLIE
 p1628
@@ -5960,7 +5960,7 @@ g6
 VYeah. Speaking of people getting to know you, you and Zoey went to a couple of runway shows in Paris, and there were an awful lot of pictures.
 p1633
 sg8
-g133
+g22
 sg10
 VCHARLIE
 p1634
@@ -6053,7 +6053,7 @@ sg10
 VZOEY
 p1658
 sg12
-g31
+g9
 sa(dp1659
 g6
 V[to Toby] You and Josh need to take over the campaign.
@@ -6075,7 +6075,7 @@ sg10
 VTOBY
 p1664
 sg12
-g9
+g22
 sa(dp1665
 g6
 VJust for the last week.
@@ -6103,7 +6103,7 @@ g6
 VWhen they have him in community centers at a podium...
 p1672
 sg8
-g31
+g46
 sg10
 VC.J.
 p1673
@@ -6119,13 +6119,13 @@ sg10
 VTOBY
 p1676
 sg12
-g9
+g22
 sa(dp1677
 g6
 V...it looks like he's wearing his dad's old suit. He's got youth and vitality. He should...
 p1678
 sg8
-g31
+g46
 sg10
 VC.J.
 p1679
@@ -6141,7 +6141,7 @@ sg10
 VTOBY
 p1682
 sg12
-g9
+g22
 sa(dp1683
 g6
 VCommunist look exactly like non-Communist.
@@ -6163,13 +6163,13 @@ sg10
 VTOBY
 p1688
 sg12
-g9
+g22
 sa(dp1689
 g6
 VMiss Wyatt, those kids you got in there deserve a father.
 p1690
 sg8
-g31
+g46
 sg10
 VMAN
 p1691
@@ -6185,7 +6185,7 @@ sg10
 VANDY
 p1694
 sg12
-g9
+g22
 sa(dp1695
 g6
 VYes, I was. That's all.
@@ -6235,7 +6235,7 @@ g6
 VYou may not realize it... but you are an example to young women, and there's something to be said for acting like it.
 p1708
 sg8
-g31
+g46
 sg10
 VMAN
 p1709
@@ -6334,7 +6334,7 @@ g6
 VOkay, sir, you're standing too close now.
 p1735
 sg8
-g31
+g46
 sg10
 VTOBY
 p1736
@@ -6356,7 +6356,7 @@ g6
 VYeah, it's the father and you're standing too close, so, if you're going to insist on being drunk and minding other people's business, you've got to take a step back, 'cause as you are apparently aware, the Congresswoman is pregnant.
 p1741
 sg8
-g31
+g46
 sg10
 VTOBY
 p1742
@@ -6367,7 +6367,7 @@ g6
 VIs there a problem, Toby?
 p1744
 sg8
-g133
+g22
 sg10
 VCHARLIE
 p1745
@@ -6378,7 +6378,7 @@ g6
 VThis is the one who was with the daughter.
 p1747
 sg8
-g31
+g46
 sg10
 VBETTY
 p1748
@@ -6389,7 +6389,7 @@ g6
 V#500 million in undirected aid. Assurance that he stays in power-- a guarantee that he and his top aides will receive immunity from prosecution for war crimes.
 p1750
 sg8
-g31
+g46
 sg10
 VROBBIE
 p1751
@@ -6400,7 +6400,7 @@ g6
 VHe's killed 115,000 people and he wants to stay in power, get immunity and cash a check for half a billion dollars?
 p1753
 sg8
-g31
+g46
 sg10
 VLEO
 p1754
@@ -6416,7 +6416,7 @@ sg10
 VROBBIE
 p1757
 sg12
-g31
+g46
 sa(dp1758
 g6
 VYeah?
@@ -6449,13 +6449,13 @@ sg10
 VLEO
 p1766
 sg12
-g9
+g22
 sa(dp1767
 g6
 V[into phone] Don't come here. Turn around, go to the event. We're fine. C.J., we're fine. And tell Andy not to come here. We'll meet her there as soon as we're done. [to officer taking Charlie's fingerprints] Excuse me, Officer, ballpark-- How long do you think this is going to be?
 p1768
 sg8
-g31
+g46
 sg10
 VTOBY
 p1769
@@ -6477,18 +6477,18 @@ g6
 VIt wasn't assault. He slipped on a thing.
 p1774
 sg8
-g133
+g22
 sg10
 VCHARLIE
 p1775
 sg12
-g9
+g22
 sa(dp1776
 g6
 VYeah, one of the guys says you hit him.
 p1777
 sg8
-g133
+g22
 sg10
 VOFFICER
 p1778
@@ -6499,18 +6499,18 @@ g6
 VWell, that was different. That part may have been assault.
 p1780
 sg8
-g133
+g22
 sg10
 VCHARLIE
 p1781
 sg12
-g9
+g22
 sa(dp1782
 g6
 V[into phone] Tell him he's got to hit hard on quality-- health care quality-- and in his acknowledgements he's got to...
 p1783
 sg8
-g133
+g22
 sg10
 VTOBY
 p1784
@@ -6532,7 +6532,7 @@ g6
 V[to Officer] One second. [into phone] In his acknowledgements, he's got to mention the AFL folk. The President's working the...
 p1789
 sg8
-g31
+g46
 sg10
 VTOBY
 p1790
@@ -6554,7 +6554,7 @@ g6
 VThe President's working the rope line for 15...
 p1795
 sg8
-g31
+g46
 sg10
 VTOBY
 p1796
@@ -6587,12 +6587,12 @@ g6
 VHey, give me the damn phone.
 p1804
 sg8
-g133
+g22
 sg10
 VOFFICER
 p1805
 sg12
-g9
+g22
 sa(dp1806
 g6
 VAnd if you can call the NEC and get a one-pager on trucking faxed to me in my cell, I'd really...
@@ -6620,12 +6620,12 @@ g6
 VOkay. I got to go. I'm under arrest. [hangs up]
 p1813
 sg8
-g133
+g22
 sg10
 VTOBY
 p1814
 sg12
-g9
+g22
 sa(dp1815
 g6
 VHe's not going to know the names of the people he's meeting.
@@ -6658,7 +6658,7 @@ sg10
 VOFFICER
 p1823
 sg12
-g9
+g22
 sa(dp1824
 g6
 VIs there any chance I could get a corner cell or anything possibly with a loft?
@@ -6713,7 +6713,7 @@ sg10
 VSAM
 p1838
 sg12
-g9
+g22
 sa(dp1839
 g6
 VWe got a new shirt?
@@ -6724,7 +6724,7 @@ sg10
 VSCOTT
 p1841
 sg12
-g31
+g46
 sa(dp1842
 g6
 VYeah, they got it.
@@ -6735,7 +6735,7 @@ sg10
 VSAM
 p1844
 sg12
-g9
+g46
 sa(dp1845
 g6
 V[to staffers in the room] Can I have the room please?
@@ -6763,7 +6763,7 @@ g6
 VI'm going to propose something bold.
 p1852
 sg8
-g31
+g46
 sg10
 VSCOTT
 p1853
@@ -6774,18 +6774,18 @@ g6
 VI like bold.
 p1855
 sg8
-g31
+g46
 sg10
 VSAM
 p1856
 sg12
-g9
+g22
 sa(dp1857
 g6
 VThe White House is going to announce their answer to the Republican tax plan on Monday. It's a one percent tax hike on the wealthiest one percent, which would pay for, among other things...
 p1858
 sg8
-g133
+g22
 sg10
 VSCOTT
 p1859
@@ -6845,7 +6845,7 @@ sg10
 VSAM
 p1874
 sg12
-g9
+g22
 sa(dp1875
 g6
 VOn what?
@@ -6867,7 +6867,7 @@ sg10
 VSAM
 p1880
 sg12
-g9
+g22
 sa(dp1881
 g6
 VYou were doing what the President told you to do.
@@ -6884,7 +6884,7 @@ g6
 VYeah, and the President was also doing what I helped advise him to do.
 p1885
 sg8
-g31
+g46
 sg10
 VSAM
 p1886
@@ -6900,7 +6900,7 @@ sg10
 VSCOTT
 p1889
 sg12
-g9
+g22
 sa(dp1890
 g6
 VWait a second. They're announcing on Monday?
@@ -6933,7 +6933,7 @@ sg10
 VSAM
 p1898
 sg12
-g31
+g9
 sa(dp1899
 g6
 VI know.
@@ -6944,18 +6944,18 @@ sg10
 VSCOTT
 p1901
 sg12
-g9
+g22
 sa(dp1902
 g6
 VAnd it's been scored, fully scored?
 p1903
 sg8
-g31
+g46
 sg10
 VSAM
 p1904
 sg12
-g9
+g46
 sa(dp1905
 g6
 VYeah.
@@ -6972,12 +6972,12 @@ g6
 VWell, why the hell would...? Excuse me.
 p1909
 sg8
-g133
+g22
 sg10
 VSAM
 p1910
 sg12
-g9
+g22
 sa(dp1911
 g6
 VMr. President?
@@ -7021,7 +7021,7 @@ sg10
 VBARTLET
 p1922
 sg12
-g133
+g22
 sa(dp1923
 g6
 VThey're being held.
@@ -7049,7 +7049,7 @@ g6
 VToby and Charlie are under arrest. There was an incident at a bar.
 p1930
 sg8
-g133
+g22
 sg10
 VDEBBIE
 p1931
@@ -7060,7 +7060,7 @@ g6
 VThey're under arrest?
 p1933
 sg8
-g133
+g22
 sg10
 VBARTLET
 p1934
@@ -7071,18 +7071,18 @@ g6
 VYes, sir.
 p1936
 sg8
-g31
+g46
 sg10
 VDEBBIE
 p1937
 sg12
-g31
+g46
 sa(dp1938
 g6
 VDid they rob the bar?
 p1939
 sg8
-g133
+g22
 sg10
 VBARTLET
 p1940
@@ -7093,7 +7093,7 @@ g6
 VNo, sir. A patron was jostling Congresswoman Wyatt and Toby tried to get him to step back, and the man slipped on the floor. And then the man's friend lunged for Toby.
 p1942
 sg8
-g31
+g46
 sg10
 VDEBBIE
 p1943
@@ -7115,7 +7115,7 @@ g6
 VHe hit him.
 p1948
 sg8
-g133
+g22
 sg10
 VDEBBIE
 p1949
@@ -7137,7 +7137,7 @@ g6
 VToby and Charlie were arrested in a bar fight.
 p1954
 sg8
-g133
+g22
 sg10
 VBARTLET
 p1955
@@ -7170,7 +7170,7 @@ g6
 VIt's going to be a little bit of a problem.
 p1963
 sg8
-g133
+g22
 sg10
 VJOSH
 p1964
@@ -7192,7 +7192,7 @@ g6
 VHe booked him at the Newport Beach Chamber of Commerce. He had him skip a union lunch without telling restaurant employees...
 p1969
 sg8
-g133
+g22
 sg10
 VJOSH
 p1970
@@ -7214,7 +7214,7 @@ g6
 VHe wants him speaking at Cal Lutheran. Scott Holcomb's given up on Sam, and he's running his own agenda. Now, I can't leave with the tax proposal coming out, but Toby says he can for a week. Evidently, Will's put together a top-flight staff that can handle the paper for a week. And I suppose it's worth mentioning that Toby probably can't leave the state anyway. Now, as the leader of this party you...
 p1975
 sg8
-g133
+g22
 sg10
 VJOSH
 p1976
@@ -7236,7 +7236,7 @@ g6
 VAt this point in the election calendar look which way his numbers are going. I'm amazed he's kept a veneer of sanity, much less...
 p1981
 sg8
-g31
+g46
 sg10
 VJOSH
 p1982
@@ -7247,7 +7247,7 @@ g6
 VAre you crazy?!
 p1984
 sg8
-g133
+g22
 sg10
 VSAM
 p1985
@@ -7263,13 +7263,13 @@ sg10
 VJOSH
 p1988
 sg12
-g9
+g22
 sa(dp1989
 g6
 VHave you all lost your minds?
 p1990
 sg8
-g133
+g22
 sg10
 VSAM
 p1991
@@ -7285,7 +7285,7 @@ sg10
 VJOSH
 p1994
 sg12
-g9
+g22
 sa(dp1995
 g6
 VI just assumed that it wasn't ready yet. It's ready now, isn't it?
@@ -7296,7 +7296,7 @@ sg10
 VSAM
 p1997
 sg12
-g9
+g22
 sa(dp1998
 g6
 VYeah.
@@ -7313,7 +7313,7 @@ g6
 VYou are missing news cycle after news cycle after news cycle, but you didn't announce 'cause you didn't want to do it from Orange County.
 p2002
 sg8
-g133
+g22
 sg10
 VSAM
 p2003
@@ -7329,13 +7329,13 @@ sg10
 VJOSH
 p2006
 sg12
-g31
+g46
 sa(dp2007
 g6
 VYes! I say to hell with the election! There's a guy in St. Louis making $55,000 a year trying to send his kid to Notre Dame!
 p2008
 sg8
-g133
+g22
 sg10
 VSAM
 p2009
@@ -7357,18 +7357,18 @@ g6
 VIf I'm going to lose, I'd like to lose doing something.
 p2014
 sg8
-g133
+g22
 sg10
 VSAM
 p2015
 sg12
-g9
+g22
 sa(dp2016
 g6
 VThank you. Thank you very much. The President of the United States is backstage. He'll be out here in a minute. He'll be out here in a minute because, of course, he's monitoring our troops in Kuhndu. But I wanted to say that yesterday the Republicans rolled out their tax plan. Do not let this President off this stage until he's told you his. Send me to Congress, and mine will be the first yea vote cast.
 p2017
 sg8
-g133
+g22
 sg10
 VSAM
 p2018
@@ -7384,7 +7384,7 @@ sg10
 VSCOTT
 p2021
 sg12
-g9
+g22
 sa(dp2022
 g6
 VScott...
@@ -7395,18 +7395,18 @@ sg10
 VBARTLET
 p2024
 sg12
-g9
+g46
 sa(dp2025
 g6
 VYes, sir?
 p2026
 sg8
-g31
+g46
 sg10
 VSCOTT
 p2027
 sg12
-g31
+g46
 sa(dp2028
 g6
 VWhy are you putting Sam next to business?
@@ -7439,13 +7439,13 @@ sg10
 VBARTLET
 p2036
 sg12
-g9
+g22
 sa(dp2037
 g6
 VYou read numbers as well as anyone, sir. Webb's going to win here. That's not a surprise. So why burn the DNC's bridges...?
 p2038
 sg8
-g31
+g46
 sg10
 VSCOTT
 p2039
@@ -7467,12 +7467,12 @@ g6
 VYes, sir.
 p2044
 sg8
-g31
+g46
 sg10
 VJOSH
 p2045
 sg12
-g31
+g46
 sa(dp2046
 g6
 VTell Toby to take over the campaign.
@@ -7505,7 +7505,7 @@ sg10
 VLIEUTENANT
 p2054
 sg12
-g9
+g22
 sa(dp2055
 g6
 VYes.
@@ -7516,7 +7516,7 @@ sg10
 VDEBBIE
 p2057
 sg12
-g31
+g46
 sa(dp2058
 g6
 VMr. McGarry.
@@ -7538,7 +7538,7 @@ sg10
 VDEBBIE
 p2063
 sg12
-g31
+g46
 sa(dp2064
 g6
 VSir.
@@ -7566,12 +7566,12 @@ g6
 VSir, I'm afraid something has happened.
 p2071
 sg8
-g133
+g22
 sg10
 VLEO
 p2072
 sg12
-g9
+g22
 sa(dp2073
 g6
 VWhat?
@@ -7593,7 +7593,7 @@ sg10
 VLEO
 p2078
 sg12
-g133
+g22
 sa(dp2079
 g6
 VWhat do you mean they've been taken?
@@ -7654,7 +7654,7 @@ g6
 VSpecial Ops wants to brief you on some rescue scenarios.
 p2095
 sg8
-g31
+g46
 sg10
 VLEO
 p2096
@@ -7670,18 +7670,18 @@ sg10
 VBARTLET
 p2099
 sg12
-g9
+g22
 sa(dp2100
 g6
 VNzele says for immunity and $500 million he'll keep them alive.
 p2101
 sg8
-g31
+g46
 sg10
 VLEO
 p2102
 sg12
-g9
+g46
 sa(dp2103
 g6
 VTell Ghana to tell Nzele he's got 9 hours and 20 minutes before I take him.
@@ -7698,12 +7698,12 @@ g6
 VYes, sir.
 p2107
 sg8
-g31
+g46
 sg10
 VLEO
 p2108
 sg12
-g31
+g46
 sa(dp2109
 g6
 VSir, he's about to introduce you.
@@ -7714,7 +7714,7 @@ sg10
 VNANCY
 p2111
 sg12
-g9
+g46
 sa(dp2112
 g6
 VThanks.
@@ -7742,12 +7742,12 @@ g6
 VYes, sir.
 p2119
 sg8
-g31
+g46
 sg10
 VLIEUTENANT
 p2120
 sg12
-g31
+g46
 sa(dp2121
 g6
 VHow old are you?
@@ -7758,13 +7758,13 @@ sg10
 VBARTLET
 p2123
 sg12
-g31
+g9
 sa(dp2124
 g6
 VI'm 22 years old, sir.
 p2125
 sg8
-g31
+g46
 sg10
 VLIEUTENANT
 p2126

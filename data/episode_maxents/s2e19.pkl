@@ -23,30 +23,30 @@ VWOMAN
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'positive'
+p13
+sa(dp14
 g6
 VBecause my staff's work on the analysis of HR 437 ignored the Fourth Amendment implications and instead...
-p14
+p15
 sg8
 g9
 sg10
 VOLIVER
-p15
+p16
 sg12
 g9
-sa(dp16
+sa(dp17
 g6
 VYes.
-p17
+p18
 sg8
 g9
 sg10
 VWOMAN
-p18
-sg12
-S'positive'
 p19
+sg12
+g13
 sa(dp20
 g6
 V...became fascinated with the Third, Seventh and Eleventh.
@@ -57,7 +57,7 @@ sg10
 VOLIVER
 p22
 sg12
-g9
+g13
 sa(dp23
 g6
 VPlease.
@@ -74,7 +74,7 @@ g6
 VLike you've got to be a prime number to get the attention of the U.S. Supreme Court.
 p27
 sg8
-g19
+g13
 sg10
 VOLIVER
 p28
@@ -101,201 +101,201 @@ sg10
 VOLIVER
 p34
 sg12
-g9
-sa(dp35
+S'negative'
+p35
+sa(dp36
 g6
 VYou're going on vacation.
-p36
+p37
 sg8
-g19
+g13
 sg10
 VWOMAN
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VWait, it's coming back to me.
-p39
+p40
 sg8
 g9
 sg10
 VOLIVER
-p40
+p41
 sg12
-g9
-sa(dp41
+g35
+sa(dp42
 g6
 VOliver...
-p42
+p43
 sg8
 g9
 sg10
 VWOMAN
-p43
+p44
 sg12
-g9
-sa(dp44
+g13
+sa(dp45
 g6
 VIt's not a vacation.
-p45
+p46
 sg8
-g19
+g13
 sg10
 VOLIVER
-p46
+p47
 sg12
-g9
-sa(dp47
+g35
+sa(dp48
 g6
 VYou'll have a...
-p48
+p49
 sg8
 g9
 sg10
 VWOMAN
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VIt's a forced vacation.
-p51
+p52
 sg8
 g9
 sg10
 VOLIVER
-p52
+p53
 sg12
-g9
-sa(dp53
+g13
+sa(dp54
 g6
 VIn Borneo.
-p54
+p55
 sg8
 g9
 sg10
 VMAN
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VIt's an international law summit where m supposed to show my support for -- I'm not certain -- so I have that in my notes someplace?
-p57
+p58
 sg8
 g9
 sg10
 VOLIVER
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VYes.
-p60
+p61
 sg8
 g9
 sg10
 VWOMAN
-p61
+p62
 sg12
-g19
-sa(dp62
+g13
+sa(dp63
 g6
 VI need the amicus brief on Sovereign Immunity...
-p63
+p64
 sg8
 g9
 sg10
 VOLIVER
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VIt's there.
-p66
+p67
 sg8
 g9
 sg10
 VWOMAN
-p67
+p68
 sg12
 g9
-sa(dp68
+sa(dp69
 g6
 VFederal Land Use...
-p69
+p70
 sg8
 g9
 sg10
 VOLIVER
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VIt's there.
-p72
+p73
 sg8
 g9
 sg10
 VMAN
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VWould you like us to pack your big hammer?
-p75
+p76
 sg8
 g9
 sg10
 VWOMAN
-p76
+p77
 sg12
 g9
-sa(dp77
+sa(dp78
 g6
 VYou know what? Don't make fun of the big hammer. The big hammer happens to be a gavel given to my father's father by Justice Louis Brandeis. I need a Dictaphone.
-p78
+p79
 sg8
-g19
+g13
 sg10
 VOLIVER
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VYou've got one on your desk.
-p81
+p82
 sg8
 g9
 sg10
 VWOMAN
-p82
+p83
 sg12
 g9
-sa(dp83
+sa(dp84
 g6
 VIt doesn't work.
-p84
+p85
 sg8
 g9
 sg10
 VOLIVER
-p85
+p86
 sg12
-g9
-sa(dp86
+g35
+sa(dp87
 g6
 VWhat's wrong with it?
-p87
-sg8
-S'negative'
 p88
+sg8
+g35
 sg10
 VWOMAN
 p89
@@ -311,7 +311,7 @@ sg10
 VOLIVER
 p92
 sg12
-g9
+g35
 sa(dp93
 g6
 VHe's asking...
@@ -328,7 +328,7 @@ g6
 VIt's stuck on record. It won't stop recording things; so it's just what you want lying around the White House Counsel's Office because there's never been a problem with that before. Okay, you know what else?
 p97
 sg8
-g88
+g35
 sg10
 VOLIVER
 p98
@@ -377,7 +377,7 @@ sg10
 VOLIVER
 p110
 sg12
-g9
+g35
 sa(dp111
 g6
 VThat was Mr. McGarry's office. He's on his way down with the President.
@@ -416,7 +416,7 @@ g6
 VI couldn't disagree more, Cal. As long as these people are funding their public school districts with property taxes, neither the value of the schools nor the value of their property is going to go up. It's a vicious circle. It's terrible and it has to be stopped.
 p121
 sg8
-g88
+g35
 sg10
 VBARTLET
 p122
@@ -443,18 +443,18 @@ sg10
 VBARTLET
 p128
 sg12
-g9
+g35
 sa(dp129
 g6
 VNo, sir. Thank you.
 p130
 sg8
-g19
+g13
 sg10
 VCAL
 p131
 sg12
-g19
+g13
 sa(dp132
 g6
 VThank you.
@@ -465,7 +465,7 @@ sg10
 VBARTLET
 p134
 sg12
-g19
+g13
 sa(dp135
 g6
 VMr. President.
@@ -482,12 +482,12 @@ g6
 VIt's a vicious circle, Leo.
 p139
 sg8
-g88
+g35
 sg10
 VBARTLET
 p140
 sg12
-g9
+g35
 sa(dp141
 g6
 VYeah.
@@ -509,7 +509,7 @@ sg10
 VBARTLET
 p146
 sg12
-g9
+g35
 sa(dp147
 g6
 VSir...
@@ -531,7 +531,7 @@ sg10
 VBARTLET
 p152
 sg12
-g9
+g35
 sa(dp153
 g6
 VLook...
@@ -553,7 +553,7 @@ sg10
 VBARTLET
 p158
 sg12
-g9
+g13
 sa(dp159
 g6
 VLet's go see him.
@@ -636,7 +636,7 @@ g6
 VFive White House Counsels in two and a half years. Cochran, Gates, Solomon, Tribbey. Why can't I keep a head lawyer around here?
 p181
 sg8
-g88
+g35
 sg10
 VBARTLET
 p182
@@ -647,7 +647,7 @@ g6
 V'Cause they all show up thinking they're going to be a counselor to the President and you never let them in.
 p184
 sg8
-g19
+g13
 sg10
 VLEO
 p185
@@ -663,7 +663,7 @@ sg10
 VBARTLET
 p188
 sg12
-g9
+g35
 sa(dp189
 g6
 VOliver Babish isn't a new person. You know each other. Your kids know each other. You built hospitals together. He was Midwest Finance Chairman on the campaign.
@@ -707,7 +707,7 @@ sg10
 VBARTLET
 p200
 sg12
-g9
+g13
 sa(dp201
 g6
 VYou're scared of Babish.
@@ -729,7 +729,7 @@ sg10
 VBARTLET
 p206
 sg12
-g9
+g35
 sa(dp207
 g6
 VNo, because we are both men of Chicago.
@@ -762,18 +762,18 @@ sg10
 VLEO
 p215
 sg12
-g9
+g35
 sa(dp216
 g6
 VHe looks down his nose at me 'cause I'm not a lawyer.
 p217
 sg8
-g88
+g35
 sg10
 VBARTLET
 p218
 sg12
-g9
+g35
 sa(dp219
 g6
 VYes.
@@ -784,7 +784,7 @@ sg10
 VLEO
 p221
 sg12
-g19
+g13
 sa(dp222
 g6
 VI didn't go to law school. I got a Ph.D. in economics instead.
@@ -795,13 +795,13 @@ sg10
 VBARTLET
 p224
 sg12
-g9
+g35
 sa(dp225
 g6
 VYour parents were very proud.
 p226
 sg8
-g19
+g13
 sg10
 VLEO
 p227
@@ -812,7 +812,7 @@ g6
 VYeah, and all that happened was I won a Nobel Prize and got elected President so I guess that decision didn't really pay off.
 p229
 sg8
-g19
+g13
 sg10
 VBARTLET
 p230
@@ -839,7 +839,7 @@ sg10
 VBARTLET
 p236
 sg12
-g9
+g35
 sa(dp237
 g6
 VI think he knows you've got one.
@@ -883,7 +883,7 @@ sg10
 VBARTLET
 p248
 sg12
-g9
+g35
 sa(dp249
 g6
 VGood morning, Mr. President.
@@ -905,7 +905,7 @@ sg10
 VBARTLET
 p254
 sg12
-g9
+g13
 sa(dp255
 g6
 VCome on in.
@@ -933,12 +933,12 @@ g6
 VI was just heading out on vacation.
 p262
 sg8
-g19
+g13
 sg10
 VOLIVER
 p263
 sg12
-g9
+g35
 sa(dp264
 g6
 VOh... oh, gosh. Oliver, this...
@@ -949,7 +949,7 @@ sg10
 VBARTLET
 p266
 sg12
-g88
+g13
 sa(dp267
 g6
 VSir...
@@ -971,7 +971,7 @@ sg10
 VBARTLET
 p272
 sg12
-g88
+g13
 sa(dp273
 g6
 VMr. President...
@@ -1032,12 +1032,12 @@ g6
 VIt's really not even... I don't want you to worry that much about it.
 p289
 sg8
-g88
+g35
 sg10
 VBARTLET
 p290
 sg12
-g9
+g35
 sa(dp291
 g6
 VSir...
@@ -1059,7 +1059,7 @@ sg10
 VBARTLET
 p296
 sg12
-g9
+g35
 sa(dp297
 g6
 VOkay.
@@ -1125,7 +1125,7 @@ sg10
 VJOSH
 p314
 sg12
-g19
+g9
 sa(dp315
 g6
 VMexico collapsed over the weekend?
@@ -1147,13 +1147,13 @@ sg10
 VJOSH
 p320
 sg12
-g9
+g35
 sa(dp321
 g6
 VHow does a country collapse on a Monday morning?
 p322
 sg8
-g88
+g35
 sg10
 VDONNA
 p323
@@ -1208,7 +1208,7 @@ g6
 VSeriously, they're in big trouble. Three weeks ago, they fell to 20 cents against the dollar. Two weeks ago, the Bolsa Index took its worst single day fall in history and this morning the Mexican market opened twenty percent off its Friday close.
 p337
 sg8
-g88
+g35
 sg10
 VJOSH
 p338
@@ -1230,7 +1230,7 @@ g6
 VIt'd be like a 2000 point drop in the Dow. The immediate problem...
 p343
 sg8
-g88
+g35
 sg10
 VJOSH
 p344
@@ -1268,24 +1268,24 @@ sg10
 VTOBY
 p353
 sg12
-g88
+g35
 sa(dp354
 g6
 VWe could be screwed on vouchers.
 p355
 sg8
-g88
+g35
 sg10
 VJOSH
 p356
 sg12
-g9
+g35
 sa(dp357
 g6
 VWe are screwed on vouchers, but I want to know...
 p358
 sg8
-g88
+g35
 sg10
 VTOBY
 p359
@@ -1307,7 +1307,7 @@ g6
 VSomebody's going to eat this quote!
 p364
 sg8
-g19
+g13
 sg10
 VTOBY
 p365
@@ -1318,29 +1318,29 @@ g6
 VHe's pretty pissed.
 p367
 sg8
-g19
+g13
 sg10
 VDONNA
 p368
 sg12
-g9
+g13
 sa(dp369
 g6
 VYeah, I can't worry about it right now.
 p370
 sg8
-g88
+g35
 sg10
 VJOSH
 p371
 sg12
-g9
+g35
 sa(dp372
 g6
 VSo what's the problem?
 p373
 sg8
-g88
+g35
 sg10
 VDONNA
 p374
@@ -1389,18 +1389,18 @@ sg10
 VJOSH
 p386
 sg12
-g9
+g13
 sa(dp387
 g6
 VLet's find some money.
 p388
 sg8
-g19
+g13
 sg10
 VJOSH
 p389
 sg12
-g9
+g13
 sa(dp390
 g6
 VI've seen it, obviously. I just haven't spoken to the President about it.
@@ -1428,7 +1428,7 @@ g6
 VIt sounds like the senior White House official would be willing to compromise, but I haven't spoken to the President yet this morning. If I could move off the quote for a moment. This is from the Coast Guard Marine Safety and Environmental Protection Division. About three hours ago a single-hull VLCC carrying four million gallons of crude oil ran up on a shoal three miles south of Rahobeth Beach, Delaware.
 p397
 sg8
-g88
+g35
 sg10
 VC.J.
 p398
@@ -1444,7 +1444,7 @@ sg10
 VC.J.
 p401
 sg12
-g9
+g35
 sa(dp402
 g6
 V200,000 gallons so far.
@@ -1455,7 +1455,7 @@ sg10
 VC.J.
 p404
 sg12
-g9
+g13
 sa(dp405
 g6
 VThe Coast Guard has deployed containment booms around the vessel, and they're siphoning oil...
@@ -1477,7 +1477,7 @@ sg10
 VSAM
 p410
 sg12
-g9
+g13
 sa(dp411
 g6
 VWhat do you mean?
@@ -1505,7 +1505,7 @@ g6
 VI'm hearing it now.
 p418
 sg8
-g88
+g35
 sg10
 VBONNIE
 p419
@@ -1527,29 +1527,29 @@ g6
 VIt hit Delaware.
 p424
 sg8
-g88
+g35
 sg10
 VGINGER
 p425
 sg12
-g9
+g35
 sa(dp426
 g6
 VI'm amazed it found Delaware.
 p427
 sg8
-g19
+g13
 sg10
 VSAM
 p428
 sg12
-g19
+g35
 sa(dp429
 g6
 VThe Federal on-site coordinator scheduled a press conference for 200 this afternoon from the Coast Guard Incident Command Post. We hope to have much more information by then.
 p430
 sg8
-g19
+g13
 sg10
 VC.J.
 p431
@@ -1565,24 +1565,24 @@ sg10
 VC.J.
 p434
 sg12
-g19
+g13
 sa(dp435
 g6
 VWhat the hell, C.J.?
 p436
 sg8
-g88
+g35
 sg10
 VTOBY
 p437
 sg12
-g9
+g35
 sa(dp438
 g6
 VAnything good in the paper this morning?
 p439
 sg8
-g19
+g13
 sg10
 VC.J.
 p440
@@ -1609,13 +1609,13 @@ sg10
 VC.J.
 p446
 sg12
-g9
+g35
 sa(dp447
 g6
 VAre you telling me you can't can't control... (raising his voice) A reporter can just pick up the phone and call anyone?
 p448
 sg8
-g19
+g13
 sg10
 VTOBY
 p449
@@ -1692,7 +1692,7 @@ g6
 VToby, I'll talk to Leo and Josh. I'll talk to the President. I'll get a clarification. Beyond that, what do you want me to do?
 p469
 sg8
-g19
+g13
 sg10
 VC.J.
 p470
@@ -1703,7 +1703,7 @@ g6
 VI want you to find out who the senior White House official was and (yelling) put his ass in my office by the end of the day!
 p472
 sg8
-g88
+g35
 sg10
 VTOBY
 p473
@@ -1719,7 +1719,7 @@ sg10
 VSAM
 p476
 sg12
-g9
+g35
 sa(dp477
 g6
 VI imagine if it was anyone within the sound of Toby's voice they'd be looking for a trapdoor right now.
@@ -1780,7 +1780,7 @@ g6
 VYeah. (turns to leave)
 p493
 sg8
-g88
+g35
 sg10
 VSAM
 p494
@@ -1813,18 +1813,18 @@ g6
 VWhat can you tell me about this disease that I don't already know?
 p502
 sg8
-g88
+g35
 sg10
 VOLIVER
 p503
 sg12
-g9
+g35
 sa(dp504
 g6
 VNot as much as a doctor. You should talk to a doctor.
 p505
 sg8
-g19
+g13
 sg10
 VBARTLET
 p506
@@ -1835,7 +1835,7 @@ g6
 VWell, I'm going to talk to quite a few of them. But let me ask you this. Is it possible for someone with relapsing/remitting MS to experience an attack that would include temporary loss of proper brain function but exclude any physical symptoms?
 p508
 sg8
-g19
+g13
 sg10
 VOLIVER
 p509
@@ -1846,7 +1846,7 @@ g6
 VLet me put it another way. Is it possible you could be sitting in this room, have an attack, and I don't know it?
 p511
 sg8
-g88
+g35
 sg10
 VOLIVER
 p512
@@ -1857,7 +1857,7 @@ g6
 VI think what you're asking is, Is it possible I could be sitting in the Situation Room, have an attack, and nobody knows it.
 p514
 sg8
-g88
+g35
 sg10
 VBARTLET
 p515
@@ -1873,7 +1873,7 @@ sg10
 VOLIVER
 p518
 sg12
-g19
+g13
 sa(dp519
 g6
 VYes. My vision might get blurry. You wouldn't know that. My legs might get numb...
@@ -1890,7 +1890,7 @@ g6
 VOkay sir, uh... before we go any further, there's something that I want to make sure is absolutely clear.
 p523
 sg8
-g19
+g13
 sg10
 VOLIVER
 p524
@@ -1912,12 +1912,12 @@ g6
 VYou and I don't enjoy attorney/client privilege.
 p529
 sg8
-g19
+g13
 sg10
 VOLIVER
 p530
 sg12
-g9
+g35
 sa(dp531
 g6
 V(to Leo) What's he talking about?
@@ -1934,7 +1934,7 @@ g6
 VHe's a government lawyer. The privilege doesn't exist.
 p535
 sg8
-g88
+g35
 sg10
 VLEO
 p536
@@ -1945,7 +1945,7 @@ g6
 VSo you want to be very careful about what you say in this room right now, Mr. President, because if subpoenaed to give a deposition, I'm not going to lie under oath.
 p538
 sg8
-g19
+g13
 sg10
 VOLIVER
 p539
@@ -1956,7 +1956,7 @@ g6
 VI don't want to be careful about what I say in this room.
 p541
 sg8
-g19
+g13
 sg10
 VBARTLET
 p542
@@ -1967,7 +1967,7 @@ g6
 VWell, then we should end this meeting and you should retain private counsel.
 p544
 sg8
-g19
+g13
 sg10
 VOLIVER
 p545
@@ -1978,12 +1978,12 @@ g6
 VI want you. I meant, I don't need to be careful.
 p547
 sg8
-g19
+g13
 sg10
 VBARTLET
 p548
 sg12
-g9
+g35
 sa(dp549
 g6
 VOkay. I'd like to ask you some questions now. These are preliminary, and with no preparation and in no particular order.
@@ -2011,7 +2011,7 @@ g6
 VHave you ever been party to a lawsuit?
 p556
 sg8
-g88
+g35
 sg10
 VOLIVER
 p557
@@ -2022,23 +2022,23 @@ g6
 VHave I ever been party to a lawsuit?
 p559
 sg8
-g88
+g35
 sg10
 VBARTLET
 p560
 sg12
-g9
+g35
 sa(dp561
 g6
 VYes, sir.
 p562
 sg8
-g19
+g13
 sg10
 VOLIVER
 p563
 sg12
-g19
+g13
 sa(dp564
 g6
 VI was governor of New Hampshire. Anybody who...
@@ -2055,7 +2055,7 @@ g6
 VI mean a lawsuit in which you gave a deposition.
 p568
 sg8
-g88
+g35
 sg10
 VOLIVER
 p569
@@ -2066,7 +2066,7 @@ g6
 V(heavy sigh) A meter reader slipped on a patch of black ice in my driveway and I got dragged into some pain-in-the-ass thing over my great-aunt's will.
 p571
 sg8
-g88
+g35
 sg10
 VBARTLET
 p572
@@ -2110,7 +2110,7 @@ g6
 VOliver, why are we talking about my great-aunt's will and the meter reader?
 p583
 sg8
-g19
+g13
 sg10
 VBARTLET
 p584
@@ -2137,7 +2137,7 @@ sg10
 VLEO
 p590
 sg12
-g9
+g13
 sa(dp591
 g6
 VLeo, I'd like to hear the President say that.
@@ -2159,13 +2159,13 @@ sg10
 VBARTLET
 p596
 sg12
-g9
+g35
 sa(dp597
 g6
 VYou never had to testify under oath about your health?
 p598
 sg8
-g19
+g13
 sg10
 VOLIVER
 p599
@@ -2209,12 +2209,12 @@ g6
 VOkay. The First Lady and your kids, that's four. The six original doctors and radiologists, that's ten; your brother, that's 11. Fitzwallace, the Vice President, and Leo, that's 14...
 p610
 sg8
-g19
+g13
 sg10
 VOLIVER
 p611
 sg12
-g9
+g13
 sa(dp612
 g6
 VAnd the anesthesiologist at GW.
@@ -2247,7 +2247,7 @@ sg10
 VBARTLET
 p620
 sg12
-g9
+g35
 sa(dp621
 g6
 VYou said 16 people, who's the last one?
@@ -2335,7 +2335,7 @@ sg10
 VLEO
 p644
 sg12
-g9
+g13
 sa(dp645
 g6
 V(sighs deeply) I wouldn't think so, Mr. President, I have some more questions. Is there time now?
@@ -2352,7 +2352,7 @@ g6
 VWell, the Mexican economy crashed, an oil tanker busted up about 120 miles from here and 13 percent of Americans are living in poverty. So yeah, I can hang out with you and answer insulting questions for awhile.
 p649
 sg8
-g88
+g35
 sg10
 VBARTLET
 p650
@@ -2368,7 +2368,7 @@ sg10
 VOLIVER
 p653
 sg12
-g9
+g13
 sa(dp654
 g6
 VTreasury's getting it into legislative language right now. The Assistant Secretary for Legislative Affairs...
@@ -2423,7 +2423,7 @@ sg10
 VJOSH
 p668
 sg12
-g9
+g35
 sa(dp669
 g6
 VWhat Josh means is the very next story in the news cycle has got to be that the U.S. is guaranteeing the loans.
@@ -2484,7 +2484,7 @@ g6
 VThe President doesn't mind staying up late to sign his name.
 p685
 sg8
-g88
+g35
 sg10
 VJOSH
 p686
@@ -2511,13 +2511,13 @@ sg10
 VJOSH
 p692
 sg12
-g9
+g35
 sa(dp693
 g6
 VAll right. Uh... you mind if we use the room to talk?
 p694
 sg8
-g19
+g13
 sg10
 VMAN
 p695
@@ -2588,7 +2588,7 @@ sg10
 VC.J.
 p713
 sg12
-g19
+g13
 sa(dp714
 g6
 VToby?
@@ -2605,12 +2605,12 @@ g6
 VHe wants me to find the leak.
 p718
 sg8
-g88
+g35
 sg10
 VC.J.
 p719
 sg12
-g9
+g35
 sa(dp720
 g6
 VYou should.
@@ -2621,18 +2621,18 @@ sg10
 VJOSH
 p722
 sg12
-g9
+g35
 sa(dp723
 g6
 VNo problem. Was it you?
 p724
 sg8
-g88
+g35
 sg10
 VC.J.
 p725
 sg12
-g19
+g35
 sa(dp726
 g6
 VNo.
@@ -2654,7 +2654,7 @@ sg10
 VC.J.
 p731
 sg12
-g9
+g35
 sa(dp732
 g6
 VC.J....
@@ -2671,7 +2671,7 @@ g6
 VJosh, when there's a leak, I do what I do. Finding the person is usually impossible under benign circumstances but with Toby blasting around the halls whoever it was has gone so far underground we could start our search in Beijing.
 p736
 sg8
-g88
+g35
 sg10
 VC.J.
 p737
@@ -2742,7 +2742,7 @@ sg10
 VC.J.
 p755
 sg12
-g19
+g35
 sa(dp756
 g6
 VNo, because that was an investigation into personal behavior. This guy compromised a policy initiative.
@@ -2753,7 +2753,7 @@ sg10
 VJOSH
 p758
 sg12
-g9
+g35
 sa(dp759
 g6
 VThat's a fair point and I'm not saying it's not bad I'm just saying I'm not going to find him.
@@ -2786,7 +2786,7 @@ sg10
 VC.J.
 p767
 sg12
-g9
+g35
 sa(dp768
 g6
 VYes.
@@ -2797,7 +2797,7 @@ sg10
 VJOSH
 p770
 sg12
-g19
+g13
 sa(dp771
 g6
 VBecause Toby's pissed.
@@ -2808,13 +2808,13 @@ sg10
 VC.J.
 p773
 sg12
-g9
+g13
 sa(dp774
 g6
 VLet me tell you something. I've found that if you accept that as a good enough reason for doing something life becomes easier.
 p775
 sg8
-g19
+g13
 sg10
 VJOSH
 p776
@@ -2825,7 +2825,7 @@ g6
 VThanks for the fortune cookie wisdom.
 p778
 sg8
-g19
+g13
 sg10
 VC.J.
 p779
@@ -2858,7 +2858,7 @@ g6
 VYou just lurk there in the shadows, like... Whatever. What are you doing?
 p787
 sg8
-g88
+g35
 sg10
 VJOSH
 p788
@@ -2957,7 +2957,7 @@ g6
 VLater it might be a done deal, and before you send $30 billion of my money to Mexico I'd like to ask a few questions.
 p814
 sg8
-g19
+g13
 sg10
 VDONNA
 p815
@@ -3006,13 +3006,13 @@ sg10
 VDONNA
 p827
 sg12
-g9
+g35
 sa(dp828
 g6
 VBecause in the world of Donnatella Moss we should love one another just as long as it doesn't cost you anything.
 p829
 sg8
-g19
+g13
 sg10
 VJOSH
 p830
@@ -3028,7 +3028,7 @@ sg10
 VDONNA
 p833
 sg12
-g9
+g13
 sa(dp834
 g6
 V[picks up the phone] Close the door.
@@ -3072,7 +3072,7 @@ sg10
 VJOSH
 p845
 sg12
-g19
+g13
 sa(dp846
 g6
 VHey.
@@ -3094,7 +3094,7 @@ sg10
 VCHARLIE
 p851
 sg12
-g19
+g9
 sa(dp852
 g6
 VIs he back yet?
@@ -3105,7 +3105,7 @@ sg10
 VSAM
 p854
 sg12
-g19
+g9
 sa(dp855
 g6
 VNo.
@@ -3127,7 +3127,7 @@ sg10
 VSAM
 p860
 sg12
-g19
+g13
 sa(dp861
 g6
 VTheology 201 Intro to Biblical Literature.
@@ -3221,12 +3221,12 @@ g6
 V[smiles wryly] With a pretty decent GPA.
 p886
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p887
 sg12
-g9
+g13
 sa(dp888
 g6
 VCharlie, just how smart are you?
@@ -3237,7 +3237,7 @@ sg10
 VSAM
 p890
 sg12
-g9
+g35
 sa(dp891
 g6
 VI've got some game.
@@ -3303,7 +3303,7 @@ sg10
 VSAM
 p908
 sg12
-g9
+g35
 sa(dp909
 g6
 VSam.
@@ -3364,12 +3364,12 @@ g6
 VIt's no problem.
 p925
 sg8
-g88
+g35
 sg10
 VEMILY
 p926
 sg12
-g9
+g35
 sa(dp927
 g6
 VI'm surprised to see you in a dress uniform on a day like you must be having today.
@@ -3386,7 +3386,7 @@ g6
 VWe're required to wear the Class-As for any business on the Hill or in the White House.
 p931
 sg8
-g88
+g35
 sg10
 VEMILY
 p932
@@ -3402,13 +3402,13 @@ sg10
 VSAM
 p935
 sg12
-g9
+g35
 sa(dp936
 g6
 VYou never noticed that every soldier sailor and Marine who's walked in here has been in a dress uniform?
 p937
 sg8
-g19
+g13
 sg10
 VEMILY
 p938
@@ -3419,7 +3419,7 @@ g6
 VI'm less visually observant than others but I make up for it.
 p940
 sg8
-g19
+g13
 sg10
 VSAM
 p941
@@ -3441,12 +3441,12 @@ g6
 VWith cunning and guile.
 p946
 sg8
-g88
+g35
 sg10
 VSAM
 p947
 sg12
-g88
+g35
 sa(dp948
 g6
 VOkay.
@@ -3474,7 +3474,7 @@ g6
 VIt suffered some kind of malfunction causing a steering loss about ten miles offshore. The captain dropped anchor to avoid a run-in with other marine traffic.
 p955
 sg8
-g19
+g13
 sg10
 VEMILY
 p956
@@ -3485,7 +3485,7 @@ g6
 VIf he dropped anchor ten miles out, what's he doing here?
 p958
 sg8
-g19
+g13
 sg10
 VSAM
 p959
@@ -3518,7 +3518,7 @@ g6
 VYeah. I want you to try and guess something. A ship of a size and gross tonnage of the Indio steaming at 18 knots how long do you think it takes to come to a complete stop from the moment the bridge cuts the engines and throws the props into reverse?
 p967
 sg8
-g88
+g35
 sg10
 VEMILY
 p968
@@ -3529,7 +3529,7 @@ g6
 VI don't know. A couple football fields, probably.
 p970
 sg8
-g19
+g13
 sg10
 VSAM
 p971
@@ -3562,7 +3562,7 @@ g6
 VThere's no anchor that stops that boat at 18 knots.
 p979
 sg8
-g19
+g13
 sg10
 VEMILY
 p980
@@ -3650,23 +3650,23 @@ g6
 VYeah, and the tidal pull...
 p1003
 sg8
-g19
+g13
 sg10
 VEMILY
 p1004
 sg12
-g9
+g13
 sa(dp1005
 g6
 V...pushed the Indio into shore. How bad is this going to end up being?
 p1006
 sg8
-g88
+g35
 sg10
 VSAM
 p1007
 sg12
-g9
+g35
 sa(dp1008
 g6
 VBad. Everyone's in it-Coast Guard, EPA, NTSB, state, local-- but there are only so many pairs of hands and, you know, getting oil out of water. You try it sometime.
@@ -3705,7 +3705,7 @@ g6
 VI'd appreciate it. Good luck.
 p1018
 sg8
-g19
+g13
 sg10
 VSAM
 p1019
@@ -3760,12 +3760,12 @@ g6
 VI have accidental death insurance as well as considerable personal worth. Were I to die, my family would not miss my government salary.
 p1033
 sg8
-g88
+g35
 sg10
 VBARTLET
 p1034
 sg12
-g9
+g35
 sa(dp1035
 g6
 VWhat about health insurance?
@@ -3787,7 +3787,7 @@ sg10
 VBARTLET
 p1040
 sg12
-g9
+g35
 sa(dp1041
 g6
 VWhy not?
@@ -3798,13 +3798,13 @@ sg10
 VOLIVER
 p1043
 sg12
-g9
+g35
 sa(dp1044
 g6
 VI'm the husband of a doctor and as a Governor and President, the various governments I've led generously...
 p1045
 sg8
-g19
+g13
 sg10
 VBARTLET
 p1046
@@ -3815,7 +3815,7 @@ g6
 VYeah, let me cut to the end of the page, sir. Have you ever signed any document for health insurance or life insurance or any document, which falls under the pains, and penalty of perjury in which you are asked about your health and did not disclose you have MS?
 p1048
 sg8
-g88
+g35
 sg10
 VOLIVER
 p1049
@@ -3853,7 +3853,7 @@ sg10
 VLEO
 p1058
 sg12
-g9
+g35
 sa(dp1059
 g6
 VYeah. Excuse me.
@@ -3864,7 +3864,7 @@ sg10
 VBARTLET
 p1061
 sg12
-g9
+g35
 sa(dp1062
 g6
 VWhat do you think?
@@ -3881,7 +3881,7 @@ g6
 VI am nowhere close to being able to answer that question.
 p1066
 sg8
-g19
+g13
 sg10
 VOLIVER
 p1067
@@ -3908,7 +3908,7 @@ sg10
 VC.J.
 p1073
 sg12
-g9
+g13
 sa(dp1074
 g6
 VJamie?
@@ -3941,13 +3941,13 @@ sg10
 VC.J.
 p1082
 sg12
-g9
+g35
 sa(dp1083
 g6
 VMy team's been working on this for nine months. You can't get leverage with a rubber crowbar. They are going to jump on this.
 p1084
 sg8
-g19
+g13
 sg10
 VHOTCHKISS
 p1085
@@ -3963,7 +3963,7 @@ sg10
 VC.J.
 p1088
 sg12
-g19
+g13
 sa(dp1089
 g6
 VSure.
@@ -3974,7 +3974,7 @@ sg10
 VHOTCHKISS
 p1091
 sg12
-g9
+g35
 sa(dp1092
 g6
 VThere was a meeting about vouchers in the Roosevelt Room last Thursday. Were you part of it?
@@ -4035,7 +4035,7 @@ g6
 VYou're asking me if I'm the leak?
 p1108
 sg8
-g88
+g35
 sg10
 VHOTCHKISS
 p1109
@@ -4051,7 +4051,7 @@ sg10
 VC.J.
 p1112
 sg12
-g9
+g35
 sa(dp1113
 g6
 VI can tell.
@@ -4062,7 +4062,7 @@ sg10
 VHOTCHKISS
 p1115
 sg12
-g9
+g35
 sa(dp1116
 g6
 VJamie...
@@ -4079,7 +4079,7 @@ g6
 VI've been working on this for nine months.
 p1120
 sg8
-g19
+g13
 sg10
 VHOTCHKISS
 p1121
@@ -4090,7 +4090,7 @@ g6
 VAnd frankly -- and I don't say this to you enough -- doing a very good job.
 p1123
 sg8
-g19
+g13
 sg10
 VC.J.
 p1124
@@ -4106,13 +4106,13 @@ sg10
 VHOTCHKISS
 p1127
 sg12
-g19
+g13
 sa(dp1128
 g6
 VDo you happen to know who the leak is?
 p1129
 sg8
-g88
+g35
 sg10
 VC.J.
 p1130
@@ -4123,12 +4123,12 @@ g6
 VListen up. I'm not the leak. I don't know who the leak is. If I did, I wouldn't tell you. Any other questions?
 p1132
 sg8
-g88
+g35
 sg10
 VHOTCHKISS
 p1133
 sg12
-g9
+g35
 sa(dp1134
 g6
 VNo, no, we wrapped that up tight.
@@ -4139,7 +4139,7 @@ sg10
 VC.J.
 p1136
 sg12
-g9
+g35
 sa(dp1137
 g6
 VThank you. [exits]
@@ -4150,7 +4150,7 @@ sg10
 VHOTCHKISS
 p1139
 sg12
-g19
+g13
 sa(dp1140
 g6
 VCarol?
@@ -4227,7 +4227,7 @@ sg10
 VC.J.
 p1160
 sg12
-g9
+g35
 sa(dp1161
 g6
 VThey're not done meeting yet?
@@ -4238,7 +4238,7 @@ sg10
 VJOSH
 p1163
 sg12
-g19
+g9
 sa(dp1164
 g6
 VIn the Roosevelt Room?
@@ -4304,7 +4304,7 @@ sg10
 VJOSH
 p1181
 sg12
-g9
+g13
 sa(dp1182
 g6
 VFrank Kelly.
@@ -4332,7 +4332,7 @@ g6
 VHe's a textiles worker in South Carolina making $12.17 an hour with no health insurance. His two kids go to public school. The school's fine, but they've had to cut art and music for budget reasons, and Frank's ten-year-old is just nuts about the trumpet, so the mom does telemarketing at night after the kids have gone to bed to pay for lessons and rent an instrument. Not that art and music are important or that any of us had any fun or met friends doing it. Frank obeys the law and pays his bills. He also pays his taxes, and he called to thank you for sending his money to Mexico.
 p1189
 sg8
-g19
+g13
 sg10
 VDONNA
 p1190
@@ -4365,7 +4365,7 @@ g6
 VNo, why don't you call him back. Why don't you call him back and remind him that the Mexican consumers who buy his textiles can't afford to buy them anymore. Frank will be laid off. Which isn't a problem there are plenty of jobs out there for a 48-year-old textiles worker just as long as he's trained in high-tech computers and/or medical research.
 p1198
 sg8
-g19
+g13
 sg10
 VJOSH
 p1199
@@ -4387,7 +4387,7 @@ g6
 VEventually it does. And we're not giving them the money, we're giving them our credit card and paying the bill. It's a loan. We did the same thing six years ago -- the loan was paid back ahead of schedule.
 p1204
 sg8
-g19
+g13
 sg10
 VJOSH
 p1205
@@ -4414,7 +4414,7 @@ sg10
 VJOSH
 p1211
 sg12
-g19
+g13
 sa(dp1212
 g6
 VAnd five years before that?
@@ -4436,13 +4436,13 @@ sg10
 VJOSH
 p1217
 sg12
-g19
+g13
 sa(dp1218
 g6
 VAA's definition of insanity is doing the same thing over and over again expecting a different result. I'm not cheap, nor am I xenophobic. I just think it's time for some tough love.
 p1219
 sg8
-g88
+g35
 sg10
 VDONNA
 p1220
@@ -4491,7 +4491,7 @@ sg10
 VDONNA
 p1232
 sg12
-g9
+g35
 sa(dp1233
 g6
 VYeah, probably.
@@ -4502,7 +4502,7 @@ sg10
 VJOSH
 p1235
 sg12
-g9
+g13
 sa(dp1236
 g6
 VCome in.
@@ -4535,7 +4535,7 @@ sg10
 VAINSLEY
 p1244
 sg12
-g9
+g13
 sa(dp1245
 g6
 VYou did some decorating.
@@ -4585,12 +4585,12 @@ g6
 VHang on, I know this piece of music. I love it.
 p1258
 sg8
-g19
+g13
 sg10
 VSAM
 p1259
 sg12
-g9
+g35
 sa(dp1260
 g6
 VIsn't it great?
@@ -4601,13 +4601,13 @@ sg10
 VAINSLEY
 p1262
 sg12
-g9
+g35
 sa(dp1263
 g6
 VNo, but there's a reason I like it.
 p1264
 sg8
-g19
+g13
 sg10
 VSAM
 p1265
@@ -4618,23 +4618,23 @@ g6
 VWell, it's beautiful.
 p1267
 sg8
-g19
+g13
 sg10
 VAINSLEY
 p1268
 sg12
-g9
+g13
 sa(dp1269
 g6
 VBut there's another reason, hang on.
 p1270
 sg8
-g19
+g13
 sg10
 VSAM
 p1271
 sg12
-g9
+g35
 sa(dp1272
 g6
 VIt's called "Air on a G String." Could that be...?
@@ -4656,7 +4656,7 @@ sg10
 VSAM
 p1277
 sg12
-g19
+g13
 sa(dp1278
 g6
 VWhat do you need?
@@ -4673,18 +4673,18 @@ g6
 VA lawyer.
 p1282
 sg8
-g88
+g35
 sg10
 VSAM
 p1283
 sg12
-g9
+g35
 sa(dp1284
 g6
 VWell, you came to the wrong place.
 p1285
 sg8
-g88
+g35
 sg10
 VAINSLEY
 p1286
@@ -4750,12 +4750,12 @@ g6
 VThey'll hold a joint press conference this afternoon to announce that they're seeking damages.
 p1303
 sg8
-g88
+g35
 sg10
 VAINSLEY
 p1304
 sg12
-g88
+g9
 sa(dp1305
 g6
 VHow much?
@@ -4766,7 +4766,7 @@ sg10
 VSAM
 p1307
 sg12
-g88
+g35
 sa(dp1308
 g6
 VWho can say at this point, but if I had to guess I'd say in the area of $100 million for cleanup costs, probably another 3 or $400 million punitive. I know how you feel about these things, trust me. Kensington's going to pay it through the nose.
@@ -4788,24 +4788,24 @@ sg10
 VSAM
 p1313
 sg12
-g88
+g35
 sa(dp1314
 g6
 VI think you're wrong.
 p1315
 sg8
-g88
+g35
 sg10
 VAINSLEY
 p1316
 sg12
-g9
+g35
 sa(dp1317
 g6
 VSomebody's going to pay. It's not going to be them.
 p1318
 sg8
-g19
+g13
 sg10
 VSAM
 p1319
@@ -4832,7 +4832,7 @@ sg10
 VSAM
 p1325
 sg12
-g9
+g35
 sa(dp1326
 g6
 VHow do you know?
@@ -4843,7 +4843,7 @@ sg10
 VAINSLEY
 p1328
 sg12
-g19
+g9
 sa(dp1329
 g6
 V'Cause I'm the one who bought them the boat. I bought the Indio for them when I was at Gage Whitney.
@@ -4871,7 +4871,7 @@ g6
 VYeah, but what I was thinking was this. I know this is going to sound crazy but I was thinking, if I could be deposed for the plaintiffs...
 p1336
 sg8
-g88
+g35
 sg10
 VSAM
 p1337
@@ -4893,7 +4893,7 @@ g6
 VBecause... Look, I was very proud of myself for making such a great deal and it really sealed it for me with the partners and they were about to make me one. And it really didn't bother me that the boat was cheap for a reason. But then, at the 11th hour, I had a change of heart. For whatever reason, I had a change of heart and I told them the boat wasn't good enough, particularly with regards to the steering and navigation systems, which, of course, they already knew, and I suggested they spend more money, and they said...
 p1342
 sg8
-g19
+g13
 sg10
 VSAM
 p1343
@@ -4915,7 +4915,7 @@ g6
 V$11 million extra dollars.
 p1348
 sg8
-g19
+g13
 sg10
 VSAM
 p1349
@@ -4948,7 +4948,7 @@ g6
 VStop talking, or I'm walking out. [beat] You know better. Neither you nor your clients abdicated attorney/client privilege when you left Gage. If you gave that deposition, you'd be disbarred. And even if you were willing to be disbarred, there's no judge in the country who'd allow privileged testimony.
 p1357
 sg8
-g19
+g13
 sg10
 VAINSLEY
 p1358
@@ -4959,7 +4959,7 @@ g6
 VAinsley, unless a company like this is forced to fork over so much money they don't want to go on living -- unless they're compelled to pay $500 million -- there's no incentive for them to pay the extra 11 million to make the boat safer.
 p1360
 sg8
-g19
+g13
 sg10
 VSAM
 p1361
@@ -4975,7 +4975,7 @@ sg10
 VAINSLEY
 p1364
 sg12
-g19
+g13
 sa(dp1365
 g6
 VAll right. It was just an idea.
@@ -4986,13 +4986,13 @@ sg10
 VSAM
 p1367
 sg12
-g9
+g35
 sa(dp1368
 g6
 VHey, you never know. With the liability shield? Maybe you're not as good as you think.
 p1369
 sg8
-g19
+g13
 sg10
 VAINSLEY
 p1370
@@ -5008,13 +5008,13 @@ sg10
 VSAM
 p1373
 sg12
-g9
+g35
 sa(dp1374
 g6
 VWell, I'm going to be filling out forms for quite some time. It's basically going to be my major.
 p1375
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1376
@@ -5030,7 +5030,7 @@ sg10
 VCHARLIE
 p1379
 sg12
-g9
+g35
 sa(dp1380
 g6
 VI don't think so, Mrs. Landingham.
@@ -5041,7 +5041,7 @@ sg10
 VCHARLIE
 p1382
 sg12
-g9
+g35
 sa(dp1383
 g6
 VI'm only going to have time for a couple of classes at night. I'm not going to be able to be that gleeful.
@@ -5085,24 +5085,24 @@ sg10
 VCHARLIE
 p1394
 sg12
-g9
+g35
 sa(dp1395
 g6
 VFencing's good, 'cause you learn the philosophy of self-defense.
 p1396
 sg8
-g19
+g13
 sg10
 VMARGARET
 p1397
 sg12
-g9
+g13
 sa(dp1398
 g6
 VWell, I usually don't get a lot of people pulling an epee on me in my neighborhood, and my philosophy of self-defense has a lot to do with running as fast as I possibly can. These forms are really out of control, you know that? Look at this six forms for financial aid, three forms for housing, and I'm not using their housing, a form for roommate preference, and I'm not using their housing, emergency contacts, general activity information, transfer of credits, and a 14-page form...
 p1399
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1400
@@ -5140,13 +5140,13 @@ sg10
 VMARGARET
 p1409
 sg12
-g9
+g13
 sa(dp1410
 g6
 VYeah, I know. I'm sorry, I need to speak to him right now, please. [beat] Tell him it's an old friend from home.
 p1411
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1412
@@ -5190,7 +5190,7 @@ g6
 VYou're a little pissy too, there, my friend.
 p1423
 sg8
-g19
+g13
 sg10
 VLEO
 p1424
@@ -5206,7 +5206,7 @@ sg10
 VOLIVER
 p1427
 sg12
-g9
+g35
 sa(dp1428
 g6
 VNo kidding.
@@ -5223,7 +5223,7 @@ g6
 VYou weren't when you found out?
 p1432
 sg8
-g19
+g13
 sg10
 VOLIVER
 p1433
@@ -5239,7 +5239,7 @@ sg10
 VLEO
 p1436
 sg12
-g9
+g35
 sa(dp1437
 g6
 VWhat?
@@ -5256,18 +5256,18 @@ g6
 VThat I'm a drunk, and he didn't give a damn.
 p1441
 sg8
-g88
+g35
 sg10
 VLEO
 p1442
 sg12
-g9
+g35
 sa(dp1443
 g6
 VYou guys going to go public?
 p1444
 sg8
-g19
+g13
 sg10
 VOLIVER
 p1445
@@ -5283,7 +5283,7 @@ sg10
 VLEO
 p1448
 sg12
-g9
+g35
 sa(dp1449
 g6
 VNot up to me. Up to the policy advisors.
@@ -5294,7 +5294,7 @@ sg10
 VOLIVER
 p1451
 sg12
-g9
+g35
 sa(dp1452
 g6
 VWell, I think you're about to be one of them.
@@ -5316,7 +5316,7 @@ sg10
 VOLIVER
 p1457
 sg12
-g9
+g35
 sa(dp1458
 g6
 VYou're staying.
@@ -5349,7 +5349,7 @@ sg10
 VLEO
 p1466
 sg12
-g9
+g35
 sa(dp1467
 g6
 VLeo...
@@ -5366,7 +5366,7 @@ g6
 VI mean, in the two and a half hours we've been sitting here have you discovered one thing that he's done wrong?
 p1471
 sg8
-g88
+g35
 sg10
 VLEO
 p1472
@@ -5388,18 +5388,18 @@ g6
 VSo, what's your problem?
 p1477
 sg8
-g88
+g35
 sg10
 VLEO
 p1478
 sg12
-g9
+g35
 sa(dp1479
 g6
 VThat's my problem, Leo. Are you out of your mind? He did everything right. He did everything you do if your intent is to perpetrate a fraud.
 p1480
 sg8
-g88
+g35
 sg10
 VOLIVER
 p1481
@@ -5432,18 +5432,18 @@ g6
 VI can't right now. It'll have to wait.
 p1489
 sg8
-g88
+g35
 sg10
 VLEO
 p1490
 sg12
-g9
+g35
 sa(dp1491
 g6
 VShe said to mention something about an old friend from home.
 p1492
 sg8
-g19
+g13
 sg10
 VAIDE
 p1493
@@ -5465,7 +5465,7 @@ g6
 VWhat is it? [beat] Charlie, you can talk to me. What is it? [beat] Charlie...
 p1498
 sg8
-g19
+g13
 sg10
 VLEO
 p1499
@@ -5498,7 +5498,7 @@ g6
 VOn the form, they ask for a number of things, including a complete family medical history.
 p1507
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1508
@@ -5509,7 +5509,7 @@ g6
 VGod. [beat] Charlie... [beat] How did you know he was sick? How did you know that the President was sick? [beat] Charlie...
 p1510
 sg8
-g88
+g35
 sg10
 VLEO
 p1511
@@ -5547,7 +5547,7 @@ sg10
 VCHARLIE
 p1520
 sg12
-g9
+g35
 sa(dp1521
 g6
 VNo, it's okay.
@@ -5569,7 +5569,7 @@ sg10
 VCHARLIE
 p1526
 sg12
-g9
+g35
 sa(dp1527
 g6
 VYou absolutely did the right thing. [beat] Okay. [beat] Okay. Go back to work.
@@ -5613,13 +5613,13 @@ sg10
 VMARGARET
 p1538
 sg12
-g9
+g35
 sa(dp1539
 g6
 VNo, you call Pat Carr, the family lawyer and you tell him I want it.
 p1540
 sg8
-g88
+g35
 sg10
 VLEO
 p1541
@@ -5668,7 +5668,7 @@ sg10
 VDONNA
 p1553
 sg12
-g19
+g13
 sa(dp1554
 g6
 VAnd do you recall him talking to you about what went on?
@@ -5690,18 +5690,18 @@ sg10
 VDONNA
 p1559
 sg12
-g88
+g35
 sa(dp1560
 g6
 VIt's important.
 p1561
 sg8
-g19
+g13
 sg10
 VC.J.
 p1562
 sg12
-g9
+g13
 sa(dp1563
 g6
 VI'll try to remember.
@@ -5745,7 +5745,7 @@ sg10
 VC.J.
 p1574
 sg12
-g19
+g13
 sa(dp1575
 g6
 VIt's just... I'll be fine.
@@ -5756,13 +5756,13 @@ sg10
 VDONNA
 p1577
 sg12
-g9
+g35
 sa(dp1578
 g6
 VAnd... and you yourself didn't talk to anyone, did you?
 p1579
 sg8
-g19
+g13
 sg10
 VC.J.
 p1580
@@ -5789,7 +5789,7 @@ sg10
 VDONNA
 p1586
 sg12
-g9
+g35
 sa(dp1587
 g6
 VWhat?
@@ -5806,12 +5806,12 @@ g6
 VI can't lie like this anymore.
 p1591
 sg8
-g88
+g35
 sg10
 VDONNA
 p1592
 sg12
-g9
+g35
 sa(dp1593
 g6
 VAre you saying it was you?
@@ -5822,18 +5822,18 @@ sg10
 VC.J.
 p1595
 sg12
-g19
+g35
 sa(dp1596
 g6
 VI feel horrible. I should've said something before, but I was afraid of what you'd...
 p1597
 sg8
-g88
+g35
 sg10
 VDONNA
 p1598
 sg12
-g9
+g35
 sa(dp1599
 g6
 VNo, it's okay.
@@ -5877,7 +5877,7 @@ sg10
 VDONNA
 p1610
 sg12
-g9
+g35
 sa(dp1611
 g6
 V[in disbelief] What are you talking about?
@@ -5894,23 +5894,23 @@ g6
 VI'm a madwoman, C.J. And it doesn't stop with the leak.
 p1615
 sg8
-g88
+g35
 sg10
 VDONNA
 p1616
 sg12
-g9
+g35
 sa(dp1617
 g6
 V[horrified] What do you mean?
 p1618
 sg8
-g88
+g35
 sg10
 VC.J.
 p1619
 sg12
-g9
+g35
 sa(dp1620
 g6
 VCall the authorities. Send them to my parent's house in Madison.
@@ -5938,18 +5938,18 @@ g6
 VThey'll find the Lindbergh baby in the basement.
 p1627
 sg8
-g19
+g13
 sg10
 VDONNA
 p1628
 sg12
-g9
+g13
 sa(dp1629
 g6
 V[finally catching up] Okay... (slaps her hand on her desk)
 p1630
 sg8
-g19
+g13
 sg10
 VC.J.
 p1631
@@ -6042,7 +6042,7 @@ sg10
 VJOSH
 p1655
 sg12
-g19
+g13
 sa(dp1656
 g6
 VShe didn't let me get to Whittaker Chambers and the secret pumpkin.
@@ -6075,7 +6075,7 @@ sg10
 VDONNA
 p1664
 sg12
-g9
+g13
 sa(dp1665
 g6
 VEurope in 1939.
@@ -6103,7 +6103,7 @@ g6
 VYeah, I jotted it down. Apparently they're at war, but we've taken a firm stand as an isolationist nation and refused to get involved. Our resources are our own and their problems are on the other side of the world. Though, they do have problems. It sounds to me from what they said on the phone that France, Austria, and England are getting absolutely pounded by the Germans, and with no end in sight. They say that by 1941 they're gonna desperately need our help if they have any chance of survival. But I think they're just being hysterical. This son of a customs agent with the Charlie Chaplin mustache ain't going anywhere. But there's no telling that to Franklin Roosevelt, who's trying to convince his country they need to get involved. That's why he came up with this.
 p1672
 sg8
-g88
+g35
 sg10
 VJOSH
 p1673
@@ -6147,7 +6147,7 @@ g6
 VYeah. Simply put, a loan of arms to Russia and Britain, with the understanding that they'd pay us back when the war was over. And he said this, he said, "If your neighbor's house is on fire, you don't haggle over the price of your garden hose." Frank Kelly in South Carolina wouldn't... There are too many things in the world we can't do. Mexico's on fire. Why help them? Because we can.
 p1684
 sg8
-g19
+g13
 sg10
 VJOSH
 p1685
@@ -6158,12 +6158,12 @@ g6
 VDid they agree to the money?
 p1687
 sg8
-g19
+g13
 sg10
 VDONNA
 p1688
 sg12
-g9
+g13
 sa(dp1689
 g6
 VYeah.
@@ -6191,12 +6191,12 @@ g6
 VYou shouldn't feel bad about this.
 p1696
 sg8
-g88
+g35
 sg10
 VZACH
 p1697
 sg12
-g9
+g35
 sa(dp1698
 g6
 VEveryone hates me.
@@ -6207,7 +6207,7 @@ sg10
 VC.J.
 p1700
 sg12
-g9
+g35
 sa(dp1701
 g6
 VNah, they'll get over it.
@@ -6218,7 +6218,7 @@ sg10
 VZACH
 p1703
 sg12
-g88
+g9
 sa(dp1704
 g6
 VYou think?
@@ -6235,12 +6235,12 @@ g6
 VSure. You're just doing your job.
 p1708
 sg8
-g19
+g13
 sg10
 VZACH
 p1709
 sg12
-g9
+g35
 sa(dp1710
 g6
 VThat's exactly right.
@@ -6257,12 +6257,12 @@ g6
 VAnd this is really important.
 p1714
 sg8
-g19
+g13
 sg10
 VZACH
 p1715
 sg12
-g88
+g35
 sa(dp1716
 g6
 VYou're the first person who's understood that.
@@ -6295,13 +6295,13 @@ sg10
 VC.J.
 p1724
 sg12
-g9
+g35
 sa(dp1725
 g6
 V[wryly] If you dunk the suspect in a deep well of water, and they drown, it means they're not a witch.
 p1726
 sg8
-g88
+g35
 sg10
 VZACH
 p1727
@@ -6323,7 +6323,7 @@ g6
 VI saw Lizzie Proctor speaking with the devil!
 p1732
 sg8
-g88
+g35
 sg10
 VZACH
 p1733
@@ -6345,7 +6345,7 @@ g6
 V720,000 gallons covering close to 100 square miles. 10,000 blue and horseshoe crabs are dead, so that's a $25 million dollar industry that can start looking for jobs at the local Dairy Queen. 12,500 starfish, flounder and bass. $342 million estimated lost to the tourism economy based on beach communities. You ever wonder why you never hear anything about a boatload of Honda Civics spilling into the ocean?
 p1738
 sg8
-g88
+g35
 sg10
 VSAM
 p1739
@@ -6372,7 +6372,7 @@ sg10
 VSAM
 p1745
 sg12
-g19
+g13
 sa(dp1746
 g6
 VYeah... No. I'm sorry, no.
@@ -6383,7 +6383,7 @@ sg10
 VTOBY
 p1748
 sg12
-g9
+g35
 sa(dp1749
 g6
 VExcuse me, Sam, would you mind?
@@ -6416,7 +6416,7 @@ sg10
 VC.J.
 p1757
 sg12
-g9
+g35
 sa(dp1758
 g6
 VLook ...
@@ -6433,7 +6433,7 @@ g6
 VIt was a leak. Leaks happen. They've happened since the beginning of time. In this White House, in every White House. There's no malicious intent. Things get out. It's a company town. Everybody talks to everybody, and junior staffers try to impress reporters by showing they're in the know. There is no group of people this large in the world that can keep a secret. I find it comforting. It's how I know for sure the government isn't covering up aliens in New Mexico. (pause) Toby, I've issued a blanket email to 1,100 staffers about the incident. I've asked the President to let me make a clarification for tomorrow morning. I've seen to it it'll be on page one. We're not gonna lose an inch of ground in the negotiation.
 p1762
 sg8
-g88
+g35
 sg10
 VC.J.
 p1763
@@ -6444,12 +6444,12 @@ g6
 V[wearily] No, we're not.
 p1765
 sg8
-g88
+g35
 sg10
 VTOBY
 p1766
 sg12
-g9
+g35
 sa(dp1767
 g6
 VNo, we're not. And you knew that since this morning.
@@ -6471,7 +6471,7 @@ sg10
 VTOBY
 p1772
 sg12
-g19
+g9
 sa(dp1773
 g6
 VYeah. So what's this about?
@@ -6488,7 +6488,7 @@ g6
 VThis is small potatoes. I want to know, when the big potatoes come, are we up for it?
 p1777
 sg8
-g88
+g35
 sg10
 VTOBY
 p1778
@@ -6504,7 +6504,7 @@ sg10
 VC.J.
 p1781
 sg12
-g9
+g13
 sa(dp1782
 g6
 V[quietly, not meeting her gaze] No.
@@ -6543,12 +6543,12 @@ g6
 VWhy are you lying to me?
 p1792
 sg8
-g88
+g35
 sg10
 VC.J.
 p1793
 sg12
-g9
+g35
 sa(dp1794
 g6
 VI'm not. (clears his throat) Thanks for doing that stuff today. (more shifting) It was...
@@ -6581,24 +6581,24 @@ sg10
 VBARTLET
 p1802
 sg12
-g9
+g35
 sa(dp1803
 g6
 VMy youngest daughter's got a big mouth.
 p1804
 sg8
-g19
+g13
 sg10
 VBARTLET
 p1805
 sg12
-g9
+g13
 sa(dp1806
 g6
 VNo, she doesn't, sir. She wanted me to be on the lookout for certain physical signs so I could tell the First Lady.
 p1807
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1808
@@ -6609,7 +6609,7 @@ g6
 VWe won't discuss this any more for the time being. It'll be public soon enough. And the more conversations you have with me, the more lawyers you're gonna have to talk to, and they bill in an hour what you take home in a week, so we won't discuss it except to say this you're gonna be subpoenaed. I'm confident in your loyalty to me. I'm confident in your love for me. If you lie to protect me, if you lie just once, if you lie just a little, if you lie 'cause you can't stand what's happening to me and the people making it happen, if you ever, ever lie...
 p1810
 sg8
-g19
+g13
 sg10
 VBARTLET
 p1811
@@ -6631,12 +6631,12 @@ g6
 VYes, sir.
 p1816
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1817
 sg12
-g19
+g13
 sa(dp1818
 g6
 VSay you understand.
@@ -6653,12 +6653,12 @@ g6
 VI understand, sir.
 p1822
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1823
 sg12
-g9
+g13
 sa(dp1824
 g6
 VGo back to work.
@@ -6675,12 +6675,12 @@ g6
 VYes, sir.
 p1828
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1829
 sg12
-g19
+g13
 sa(dp1830
 g6
 VIs there anything you need?
@@ -6691,7 +6691,7 @@ sg10
 VCHARLIE
 p1832
 sg12
-g19
+g9
 sa(dp1833
 g6
 V(turns around) I need you to go to law school and graduate as soon as humanly possible.
@@ -6708,12 +6708,12 @@ g6
 VYes, sir.
 p1837
 sg8
-g19
+g13
 sg10
 VCHARLIE
 p1838
 sg12
-g19
+g13
 sa(dp1839
 g6
 VGood evening, Mr. President.
@@ -6730,7 +6730,7 @@ g6
 VWell, I've got good news for you, Oliver. Turns out I didn't do everything right after all. Zoey had to fill out a family history form for Georgetown and because she was 17, a parent had to sign it.
 p1843
 sg8
-g19
+g13
 sg10
 VBARTLET
 p1844
@@ -6746,7 +6746,7 @@ sg10
 VOLIVER
 p1847
 sg12
-g9
+g35
 sa(dp1848
 g6
 VYeah.
@@ -6768,7 +6768,7 @@ sg10
 VOLIVER
 p1853
 sg12
-g19
+g35
 sa(dp1854
 g6
 VI'd give anything if I had. It was Lady Macbeth. (pause) There's a bad moon rising, Oliver. We both know it. They're gonna take me out for a walk.
@@ -6785,7 +6785,7 @@ g6
 VThis isn't what you signed up for. Leo begged you to take this job. This isn't what you signed up for. If you leave, I'd appreciate it if you did it now, so it doesn't look like my lawyer bailed on me when the rain starts. No one's gonna hold it against you.
 p1858
 sg8
-g88
+g35
 sg10
 VBARTLET
 p1859
@@ -6823,7 +6823,7 @@ sg10
 VOLIVER
 p1868
 sg12
-g9
+g35
 sa(dp1869
 g6
 VWhat would my first step be?
@@ -6862,12 +6862,12 @@ g6
 VThen, decide how to make a public announcement.
 p1879
 sg8
-g19
+g13
 sg10
 VOLIVER
 p1880
 sg12
-g19
+g9
 sa(dp1881
 g6
 VYeah.
@@ -6895,7 +6895,7 @@ g6
 VHe's gonna have an unlimited budget and a staff like an army. The new slogan around here is gonna be "bring it on." He's gonna have access to every piece of paper you ever touched. If you invoke executive privilege one time, I'm gone. An assistant DA in Ducksworth wants to take your deposition, you're on the next plane. A freshman Congressman wants your testimony, you'll sit in his kitchen. They wanna drag you to The Hague and charge you with war crimes, what do we say?
 p1888
 sg8
-g88
+g35
 sg10
 VOLIVER
 p1889

@@ -101,7 +101,7 @@ sg10
 VTOBY
 p34
 sg12
-g9
+g24
 sa(dp35
 g6
 VNot tonight. [to Leo] McGowan says we're fine. He feels the word 'vigorously''s inflammatory. [to staffers] Change chokehold to tight grip.
@@ -146,7 +146,7 @@ sg10
 VLEO
 p47
 sg12
-g9
+g37
 sa(dp48
 g6
 VBob Novak just said this was the speech of my political life. You know how many times I've heard that?
@@ -179,7 +179,7 @@ sg10
 VBARTLET
 p56
 sg12
-g9
+g24
 sa(dp57
 g6
 VHow you feeling?
@@ -201,7 +201,7 @@ sg10
 VBARTLET
 p62
 sg12
-g9
+g37
 sa(dp63
 g6
 VAbbey's already in her seat?
@@ -377,7 +377,7 @@ sg10
 VBARTLET
 p110
 sg12
-g9
+g24
 sa(dp111
 g6
 VGinger!
@@ -542,7 +542,7 @@ sg10
 VJOSH
 p155
 sg12
-g37
+g9
 sa(dp156
 g6
 VJosh.
@@ -674,7 +674,7 @@ sg10
 VJOSH
 p191
 sg12
-g9
+g24
 sa(dp192
 g6
 VHe's fine!
@@ -817,7 +817,7 @@ sg10
 VTOBY
 p230
 sg12
-g9
+g37
 sa(dp231
 g6
 VEntrenchment.
@@ -905,7 +905,7 @@ sg10
 VTOBY
 p254
 sg12
-g9
+g37
 sa(dp255
 g6
 VMr. President.
@@ -993,7 +993,7 @@ sg10
 VJOSH
 p278
 sg12
-g9
+g24
 sa(dp279
 g6
 VHe was brilliant up there.
@@ -1004,7 +1004,7 @@ sg10
 VDONNA
 p281
 sg12
-g24
+g37
 sa(dp282
 g6
 VUp there is where this President eats! That is his place of business. Yes, he did well.
@@ -1048,7 +1048,7 @@ sg10
 VDONNA
 p293
 sg12
-g9
+g37
 sa(dp294
 g6
 VYeah.
@@ -1081,7 +1081,7 @@ sg10
 VJOSH
 p302
 sg12
-g9
+g24
 sa(dp303
 g6
 VWhat do you mean?
@@ -1180,7 +1180,7 @@ sg10
 VDONNA
 p329
 sg12
-g9
+g24
 sa(dp330
 g6
 VDonna!
@@ -1235,7 +1235,7 @@ sg10
 VJOSH
 p344
 sg12
-g9
+g24
 sa(dp345
 g6
 VShe called from the plane and said she was late.
@@ -1268,7 +1268,7 @@ sg10
 VJOSH
 p353
 sg12
-g9
+g24
 sa(dp354
 g6
 VWhere the hell you been?
@@ -1279,7 +1279,7 @@ sg10
 VJOSH
 p356
 sg12
-g9
+g24
 sa(dp357
 g6
 VThis is the State of the Union. There was nothing you could do about it?
@@ -1510,7 +1510,7 @@ sg10
 VSAM
 p419
 sg12
-g37
+g24
 sa(dp420
 g6
 VCan we do it here?
@@ -1554,7 +1554,7 @@ sg10
 VSAM
 p431
 sg12
-g9
+g24
 sa(dp432
 g6
 VCarol!
@@ -1576,7 +1576,7 @@ sg10
 VCAROL
 p437
 sg12
-g24
+g9
 sa(dp438
 g6
 VThank you.
@@ -1686,7 +1686,7 @@ sg10
 VC.J.
 p467
 sg12
-g9
+g37
 sa(dp468
 g6
 V[runs up] How's it coming?
@@ -1697,7 +1697,7 @@ sg10
 VCAROL
 p470
 sg12
-g9
+g24
 sa(dp471
 g6
 VWhere'd you get the bathrobe?
@@ -1785,7 +1785,7 @@ sg10
 VC.J.
 p494
 sg12
-g9
+g37
 sa(dp495
 g6
 VWhat's going on?
@@ -1829,7 +1829,7 @@ sg10
 VSAM
 p506
 sg12
-g9
+g37
 sa(dp507
 g6
 V[looks angry] How long ago?
@@ -1840,7 +1840,7 @@ sg10
 VC.J.
 p509
 sg12
-g9
+g24
 sa(dp510
 g6
 V17 years ago. There was a criminal charge... it was dismissed. There was a civil suit... it was dismissed. There was enormous community and political pressure from local Black Democrats.
@@ -2005,7 +2005,7 @@ sg10
 VCHARLIE
 p554
 sg12
-g9
+g37
 sa(dp555
 g6
 VWell, she's wearing underwear Mrs. Landingham. She hasn't gone smokeless.
@@ -2016,7 +2016,7 @@ sg10
 VCHARLIE
 p557
 sg12
-g9
+g37
 sa(dp558
 g6
 VI didn't understand this note.
@@ -2027,7 +2027,7 @@ sg10
 VCHARLIE
 p560
 sg12
-g9
+g24
 sa(dp561
 g6
 VThe President was balancing his checkbook?
@@ -2082,7 +2082,7 @@ sg10
 VCHARLIE
 p575
 sg12
-g9
+g24
 sa(dp576
 g6
 VYeah, okay. This is a good job. [walks out]
@@ -2093,7 +2093,7 @@ sg10
 VCHARLIE
 p578
 sg12
-g9
+g37
 sa(dp579
 g6
 VCool.
@@ -2104,7 +2104,7 @@ sg10
 VCHARLIE
 p581
 sg12
-g9
+g37
 sa(dp582
 g6
 VCome in!
@@ -2126,7 +2126,7 @@ sg10
 VCHARLIE
 p587
 sg12
-g9
+g24
 sa(dp588
 g6
 VHey, Charlie.
@@ -2181,7 +2181,7 @@ sg10
 VABBEY
 p602
 sg12
-g9
+g24
 sa(dp603
 g6
 VC.J. sat in wet paint.
@@ -2247,7 +2247,7 @@ sg10
 VABBEY
 p620
 sg12
-g9
+g24
 sa(dp621
 g6
 VThat's what I do.
@@ -2302,7 +2302,7 @@ sg10
 VCHARLIE
 p635
 sg12
-g9
+g24
 sa(dp636
 g6
 V[angry] Her name is Jane Robinson. I read an article about her a few months ago.
@@ -2357,7 +2357,7 @@ sg10
 VABBEY
 p650
 sg12
-g9
+g37
 sa(dp651
 g6
 VWell, she hasn't cashed it. I'll make sure it got to her.
@@ -2511,7 +2511,7 @@ sg10
 VSAM
 p692
 sg12
-g9
+g24
 sa(dp693
 g6
 VThey need you in the Situation Room. [walks away with Leo]
@@ -2588,7 +2588,7 @@ sg10
 VSTAFFER
 p713
 sg12
-g9
+g24
 sa(dp714
 g6
 VDo we think it was the C.R.F?
@@ -2599,7 +2599,7 @@ sg10
 VLEO
 p716
 sg12
-g9
+g24
 sa(dp717
 g6
 VYeah.
@@ -2676,7 +2676,7 @@ sg10
 VLEO
 p737
 sg12
-g37
+g9
 sa(dp738
 g6
 VYeah?
@@ -2698,7 +2698,7 @@ sg10
 VDONNA
 p743
 sg12
-g9
+g37
 sa(dp744
 g6
 V[walks up] Jack Sloane was reprimanded for excessive violence by the Detroit Police Department.
@@ -2720,7 +2720,7 @@ sg10
 VDONNA
 p749
 sg12
-g9
+g24
 sa(dp750
 g6
 V17 years.
@@ -2753,7 +2753,7 @@ sg10
 VJOSH
 p758
 sg12
-g9
+g24
 sa(dp759
 g6
 VFrom tonight.
@@ -2775,7 +2775,7 @@ sg10
 VJOSH
 p764
 sg12
-g9
+g37
 sa(dp765
 g6
 VOfficer Jack Sloane of the Detroit Police Department was added at the last minute to the invited guests that are recognized by the President at the speech.
@@ -2907,7 +2907,7 @@ sg10
 VJOEY
 p800
 sg12
-g9
+g24
 sa(dp801
 g6
 VOkay.
@@ -2951,7 +2951,7 @@ sg10
 VJOSH
 p812
 sg12
-g9
+g24
 sa(dp813
 g6
 VYou should ask Joey out. Tonight could be the night.
@@ -3039,7 +3039,7 @@ sg10
 VMICKEY
 p836
 sg12
-g37
+g24
 sa(dp837
 g6
 VSit Room.
@@ -3061,7 +3061,7 @@ sg10
 VMICKEY
 p842
 sg12
-g9
+g37
 sa(dp843
 g6
 VAre we verifying exactly who was at the Lab?
@@ -3094,7 +3094,7 @@ sg10
 VMICKEY
 p851
 sg12
-g9
+g37
 sa(dp852
 g6
 VMickey, 2:00 P.M. local time in Bogot., 5 DEA Agents assisting police in evidence gathering at a cocaine lab were taken by the CRF.
@@ -3116,7 +3116,7 @@ sg10
 VMICKEY
 p857
 sg12
-g24
+g37
 sa(dp858
 g6
 VWe think so.
@@ -3127,7 +3127,7 @@ sg10
 VLEO
 p860
 sg12
-g9
+g24
 sa(dp861
 g6
 VOkay. Puente Mayo is an Affronte stronghold. The C lab the Agents grabbed was one of their top producing cocaine labs. I'm gonna open a dialog... we're gonna do it with one of their own commanders.
@@ -3149,7 +3149,7 @@ sg10
 VLEO
 p866
 sg12
-g24
+g9
 sa(dp867
 g6
 VThey'll tell us but I think it's gonna be Nelson Guerra. He's a friend of Jeffe.
@@ -3171,7 +3171,7 @@ sg10
 VLEO
 p872
 sg12
-g9
+g24
 sa(dp873
 g6
 VYes, sir.
@@ -3270,7 +3270,7 @@ sg10
 VMICKEY
 p899
 sg12
-g9
+g37
 sa(dp900
 g6
 VNot the numbers you're hoping for if you're contemplating a massive attack and rescue mission.
@@ -3545,7 +3545,7 @@ sg10
 VMARK
 p974
 sg12
-g9
+g24
 sa(dp975
 g6
 V[laughs] Thank you.
@@ -3567,7 +3567,7 @@ sg10
 VSAM
 p980
 sg12
-g9
+g37
 sa(dp981
 g6
 VHey, Sam! [takes off her mike]
@@ -3611,7 +3611,7 @@ sg10
 VAINSLEY
 p992
 sg12
-g37
+g9
 sa(dp993
 g6
 VYes.
@@ -3633,7 +3633,7 @@ sg10
 VAINSLEY
 p998
 sg12
-g9
+g24
 sa(dp999
 g6
 VYes.
@@ -3655,7 +3655,7 @@ sg10
 VSAM
 p1004
 sg12
-g9
+g24
 sa(dp1005
 g6
 VThe ACLU has a reasonable case to make against the President.
@@ -3710,7 +3710,7 @@ sg10
 VAINSLEY
 p1019
 sg12
-g9
+g24
 sa(dp1020
 g6
 VYou've been working here 3 months.
@@ -3776,7 +3776,7 @@ sg10
 VAINSLEY
 p1037
 sg12
-g37
+g9
 sa(dp1038
 g6
 VIt's no problem.
@@ -3787,7 +3787,7 @@ sg10
 VSAM
 p1040
 sg12
-g9
+g24
 sa(dp1041
 g6
 VYes, it is.
@@ -3831,7 +3831,7 @@ sg10
 VSAM
 p1052
 sg12
-g9
+g37
 sa(dp1053
 g6
 VI am not scared to meet the President cause I'm not gonna meet the President.
@@ -3875,7 +3875,7 @@ sg10
 VSAM
 p1064
 sg12
-g9
+g24
 sa(dp1065
 g6
 V[stammers] I am... yes... I am indeed... Yes, I am scared to meet the President.
@@ -3897,7 +3897,7 @@ sg10
 VSAM
 p1070
 sg12
-g9
+g24
 sa(dp1071
 g6
 VYes.
@@ -3985,7 +3985,7 @@ sg10
 VSAM
 p1094
 sg12
-g9
+g24
 sa(dp1095
 g6
 VGod! Thanks Sam for that debating tip. You have a feel for nuances. You say I shouldn't be drunk when I'm representing the White House.
@@ -4007,7 +4007,7 @@ sg10
 VSAM
 p1100
 sg12
-g9
+g37
 sa(dp1101
 g6
 VI'm going back on television now.
@@ -4106,7 +4106,7 @@ sg10
 VABBEY
 p1127
 sg12
-g9
+g24
 sa(dp1128
 g6
 VWe changed the language at the last minute, Abbey. If you want to be pissed at someone, the architect of...
@@ -4150,7 +4150,7 @@ sg10
 VTOBY
 p1139
 sg12
-g9
+g37
 sa(dp1140
 g6
 VKeep shaking hands.
@@ -4161,7 +4161,7 @@ sg10
 VABBEY
 p1142
 sg12
-g9
+g24
 sa(dp1143
 g6
 VSix out of ten were black or Hispanic.
@@ -4216,7 +4216,7 @@ sg10
 VJOSH
 p1157
 sg12
-g24
+g9
 sa(dp1158
 g6
 VHave you asked her out yet?
@@ -4271,7 +4271,7 @@ sg10
 VJOSH
 p1172
 sg12
-g9
+g24
 sa(dp1173
 g6
 VCause you can't!
@@ -4293,7 +4293,7 @@ sg10
 VJOSH
 p1178
 sg12
-g9
+g24
 sa(dp1179
 g6
 VJosh, I can help you or not help you. It's up to you.
@@ -4315,7 +4315,7 @@ sg10
 VJOSH
 p1184
 sg12
-g9
+g24
 sa(dp1185
 g6
 VYou want me to ask her out for you?
@@ -4425,7 +4425,7 @@ sg10
 VJOEY
 p1214
 sg12
-g9
+g24
 sa(dp1215
 g6
 VJoey, it's the State of the Union. We worked on this speech for three months!
@@ -4458,7 +4458,7 @@ sg10
 VSHALLICK
 p1223
 sg12
-g9
+g24
 sa(dp1224
 g6
 VI don't...
@@ -4469,7 +4469,7 @@ sg10
 VTOBY
 p1226
 sg12
-g9
+g24
 sa(dp1227
 g6
 VExcuse me. But this White House uses the first amendment to protect flag burning, to protect pornography, to ban school prayer. Why when the second amendment clearly says that the federal government will not infringe upon a citizens...
@@ -4491,7 +4491,7 @@ sg10
 VTOBY
 p1232
 sg12
-g9
+g24
 sa(dp1233
 g6
 V...right to keep and bear arms...
@@ -4502,7 +4502,7 @@ sg10
 VSHALLICK
 p1235
 sg12
-g9
+g37
 sa(dp1236
 g6
 VIt doesn't barely say that.
@@ -4513,7 +4513,7 @@ sg10
 VTOBY
 p1238
 sg12
-g9
+g24
 sa(dp1239
 g6
 VToby!
@@ -4535,7 +4535,7 @@ sg10
 VTOBY
 p1244
 sg12
-g9
+g24
 sa(dp1245
 g6
 VOh, look. Will you...?
@@ -4546,7 +4546,7 @@ sg10
 VSHALLICK
 p1247
 sg12
-g37
+g9
 sa(dp1248
 g6
 VIt says a well-regulated militia, being necessary for the security of the free state... the government shall not infringe. The words regulated and militia are in the first sentence. I don't think the Framer's were thinking of three guys in a Dodge Durango.
@@ -4634,7 +4634,7 @@ sg10
 VTOBY
 p1271
 sg12
-g9
+g24
 sa(dp1272
 g6
 VI'm sorry I'm late.
@@ -4645,7 +4645,7 @@ sg10
 VTOBY
 p1274
 sg12
-g9
+g24
 sa(dp1275
 g6
 VIt's fine.
@@ -4755,7 +4755,7 @@ sg10
 VTOBY
 p1304
 sg12
-g9
+g37
 sa(dp1305
 g6
 VThe Blue Ribbon Commission is swell. I am not talking about the Blue Ribbon Commission, and you know it. And don't talk to me like I'm 'other people'. You've never done that.
@@ -4887,7 +4887,7 @@ sg10
 VABBEY
 p1340
 sg12
-g9
+g37
 sa(dp1341
 g6
 VBelieve me, we gave Republicans plenty to be pissed about... the surplus, missile defense, capital gains. And I was just on TV for the 900th time and alienated gun owners... to say nothing of people who own Dodge Durango's. So, what exactly was your problem with the language?
@@ -5074,7 +5074,7 @@ sg10
 VSLOANE
 p1391
 sg12
-g9
+g24
 sa(dp1392
 g6
 VHe said you kicked him repeatedly while he was handcuffed.
@@ -5151,7 +5151,7 @@ sg10
 VC.J.
 p1412
 sg12
-g9
+g24
 sa(dp1413
 g6
 VI assumed it was okay now... That... I was okay. I didn't think it was all gonna come up again. Does the press know?
@@ -5162,7 +5162,7 @@ sg10
 VSLOANE
 p1415
 sg12
-g9
+g24
 sa(dp1416
 g6
 VNo, but I have to tell them.
@@ -5206,7 +5206,7 @@ sg10
 VSLOANE
 p1427
 sg12
-g37
+g24
 sa(dp1428
 g6
 VOfficer...
@@ -5250,7 +5250,7 @@ sg10
 VSLOANE
 p1439
 sg12
-g9
+g37
 sa(dp1440
 g6
 VIt's a story.
@@ -5338,7 +5338,7 @@ sg10
 VSLOANE
 p1463
 sg12
-g9
+g24
 sa(dp1464
 g6
 VDon't talk to anybody about this.
@@ -5382,7 +5382,7 @@ sg10
 VSLOANE
 p1475
 sg12
-g9
+g24
 sa(dp1476
 g6
 VOkay. [hangs up] Good news. [reads from her pad] The Potomac Electric Power Company says the outage was caused by a 13,000-volt cable that caught fire in a building on M Street and Wisconsin.
@@ -5404,7 +5404,7 @@ sg10
 VJOSH
 p1481
 sg12
-g9
+g37
 sa(dp1482
 g6
 V[shines the flashlight in his face] Well, we have hard information now.
@@ -5503,7 +5503,7 @@ sg10
 VJOEY
 p1508
 sg12
-g9
+g37
 sa(dp1509
 g6
 VAre those numbers safe?
@@ -5613,7 +5613,7 @@ sg10
 VJOSH
 p1538
 sg12
-g9
+g24
 sa(dp1539
 g6
 VSam.
@@ -5657,7 +5657,7 @@ sg10
 VSAM
 p1550
 sg12
-g9
+g24
 sa(dp1551
 g6
 VWe're five minutes away from an East Coast sample. We got nothing west of Indiana, Illinois...
@@ -5690,7 +5690,7 @@ sg10
 VJOSH
 p1559
 sg12
-g9
+g37
 sa(dp1560
 g6
 VDonna told me to tell you you should ask out Joey Lucas.
@@ -5767,7 +5767,7 @@ sg10
 VSAM
 p1580
 sg12
-g9
+g24
 sa(dp1581
 g6
 VI heard.
@@ -5789,7 +5789,7 @@ sg10
 VBARTLET
 p1586
 sg12
-g9
+g37
 sa(dp1587
 g6
 VYes, and I know a way you can repay me.
@@ -5800,7 +5800,7 @@ sg10
 VSAM
 p1589
 sg12
-g9
+g37
 sa(dp1590
 g6
 VRepay you for what?
@@ -5844,7 +5844,7 @@ sg10
 VSAM
 p1601
 sg12
-g9
+g37
 sa(dp1602
 g6
 VI owe you anything for that?
@@ -5855,7 +5855,7 @@ sg10
 VBARTLET
 p1604
 sg12
-g9
+g24
 sa(dp1605
 g6
 V[waving] Thank you.
@@ -5888,7 +5888,7 @@ sg10
 VBARTLET
 p1613
 sg12
-g37
+g24
 sa(dp1614
 g6
 VRandomly in the hallways in the next few days you two are bound to be in the same place at the same time. Would just...
@@ -5943,7 +5943,7 @@ sg10
 VBARTLET
 p1628
 sg12
-g9
+g37
 sa(dp1629
 g6
 V[realizes what he said] Yeah.
@@ -6064,7 +6064,7 @@ sg10
 VBARTLET
 p1661
 sg12
-g9
+g24
 sa(dp1662
 g6
 VYeah, they may have blown their cover.
@@ -6130,7 +6130,7 @@ sg10
 VLEO
 p1679
 sg12
-g9
+g24
 sa(dp1680
 g6
 VWhy not?
@@ -6141,7 +6141,7 @@ sg10
 VBARTLET
 p1682
 sg12
-g9
+g24
 sa(dp1683
 g6
 VAffronte doesn't care about Juan Aguilar and how long he stays in jail. They want to kill these guys.
@@ -6163,7 +6163,7 @@ sg10
 VMICKEY
 p1688
 sg12
-g9
+g24
 sa(dp1689
 g6
 VThey want to drag their bodies through the streets. These people provide 70% of the world's cocaine. They have 122,000 hectares of coca. The Puente Maya region alone produced 400 million dollars in cocaine for them last year. The government has no control over the region. There is no law and they're gonna shoot these guys in the head and then have a parade.
@@ -6218,7 +6218,7 @@ sg10
 VGENERAL
 p1703
 sg12
-g9
+g37
 sa(dp1704
 g6
 VHow long?
@@ -6229,7 +6229,7 @@ sg10
 VBARTLET
 p1706
 sg12
-g9
+g24
 sa(dp1707
 g6
 VFive to seven minutes.
@@ -6262,7 +6262,7 @@ sg10
 VLEO
 p1715
 sg12
-g37
+g9
 sa(dp1716
 g6
 V[shaking head] No.
@@ -6306,7 +6306,7 @@ sg10
 VMICKEY
 p1727
 sg12
-g9
+g24
 sa(dp1728
 g6
 VHow?
@@ -6328,7 +6328,7 @@ sg10
 VMICKEY
 p1733
 sg12
-g9
+g24
 sa(dp1734
 g6
 VLead to a war? We're in a war. We're sending people down there to fight a war on drugs. These guys aren't hostages, they're prisoners.
@@ -6427,7 +6427,7 @@ sg10
 VLEO
 p1760
 sg12
-g37
+g9
 sa(dp1761
 g6
 VThank you, Sir.
@@ -6515,7 +6515,7 @@ sg10
 VDONNA
 p1784
 sg12
-g9
+g37
 sa(dp1785
 g6
 VYeah. [looks at his watch]
@@ -6625,7 +6625,7 @@ sg10
 VSAM
 p1814
 sg12
-g9
+g24
 sa(dp1815
 g6
 VI don't know. Leo wants everybody back. Leave Joey and Donna for a while.
@@ -6636,7 +6636,7 @@ sg10
 VSAM
 p1817
 sg12
-g9
+g24
 sa(dp1818
 g6
 VI'll be right there.
@@ -6680,7 +6680,7 @@ sg10
 VSAM
 p1829
 sg12
-g9
+g24
 sa(dp1830
 g6
 VShe's in her office.
@@ -6702,7 +6702,7 @@ sg10
 VSAM
 p1835
 sg12
-g9
+g24
 sa(dp1836
 g6
 VShe needs to meet you in her office.
@@ -6746,7 +6746,7 @@ sg10
 VAINSLEY
 p1847
 sg12
-g9
+g37
 sa(dp1848
 g6
 VBlame it on the bossa nova that he did so well...
@@ -6779,7 +6779,7 @@ sg10
 VAINSLEY
 p1856
 sg12
-g9
+g37
 sa(dp1857
 g6
 VWell, I hardly know where to start.
@@ -6834,7 +6834,7 @@ sg10
 VSAM
 p1871
 sg12
-g37
+g24
 sa(dp1872
 g6
 VI'm Blaming it on the Bossa Nova!
@@ -6856,7 +6856,7 @@ sg10
 VSAM
 p1877
 sg12
-g9
+g37
 sa(dp1878
 g6
 VI know what you mean about the adrenaline high. [picks up a drink] I think I've definitely got it. Plus, the bartender made me a Pink Squirrel Suzy. I'm not the teetotaler you think I am. [takes a drink]
@@ -6889,7 +6889,7 @@ sg10
 VAINSLEY
 p1886
 sg12
-g9
+g37
 sa(dp1887
 g6
 VI came down here to tell you...
@@ -6911,7 +6911,7 @@ sg10
 VAINSLEY
 p1892
 sg12
-g9
+g37
 sa(dp1893
 g6
 V...a family,
@@ -6966,7 +6966,7 @@ sg10
 VBARTLET
 p1907
 sg12
-g9
+g24
 sa(dp1908
 g6
 VOh, my gosh!
@@ -6977,7 +6977,7 @@ sg10
 VAINSLEY
 p1910
 sg12
-g9
+g37
 sa(dp1911
 g6
 VMr. President, I don't believe you've met Ainsley Hayes.
@@ -6988,7 +6988,7 @@ sg10
 VSAM
 p1913
 sg12
-g37
+g9
 sa(dp1914
 g6
 VYeah. Ainsley, I wanted to say hello and to you know... mention "a lot of people assumed you were hired because you're a blonde, republican sex kitten" and well, they're obviously wrong. Keep up the good work.
@@ -7043,7 +7043,7 @@ sg10
 VSAM
 p1928
 sg12
-g9
+g24
 sa(dp1929
 g6
 VNo, probably not. [leaves]
@@ -7054,7 +7054,7 @@ sg10
 VSAM
 p1931
 sg12
-g9
+g24
 sa(dp1932
 g6
 VAnd take us behind the scenes. What are the President and the First Lady doing right now?
@@ -7285,7 +7285,7 @@ sg10
 VC.J.
 p1994
 sg12
-g9
+g24
 sa(dp1995
 g6
 VI'm looking at my watch.
@@ -7296,7 +7296,7 @@ sg10
 VMARK
 p1997
 sg12
-g9
+g24
 sa(dp1998
 g6
 VHey.
@@ -7362,7 +7362,7 @@ sg10
 VBARTLET
 p2015
 sg12
-g9
+g24
 sa(dp2016
 g6
 VJed, you know what? I'm not your mommy.
@@ -7461,7 +7461,7 @@ sg10
 VABBEY
 p2042
 sg12
-g9
+g24
 sa(dp2043
 g6
 VAbbey.
@@ -7505,7 +7505,7 @@ sg10
 VABBEY
 p2054
 sg12
-g9
+g37
 sa(dp2055
 g6
 VAbbey.
@@ -7582,7 +7582,7 @@ sg10
 VBARTLET
 p2075
 sg12
-g9
+g24
 sa(dp2076
 g6
 VWhat happened?
@@ -7703,5 +7703,5 @@ sg10
 VABBEY
 p2108
 sg12
-g9
+g24
 sas.

@@ -35,7 +35,7 @@ sg10
 VDONNA
 p16
 sg12
-g13
+g9
 sa(dp17
 g6
 VNo.
@@ -68,7 +68,7 @@ sg10
 VSAM
 p25
 sg12
-g13
+g9
 sa(dp26
 g6
 VCake.
@@ -102,7 +102,7 @@ sg10
 VDONNA
 p35
 sg12
-g13
+g32
 sa(dp36
 g6
 VIt was a confluence of events that I'm saying, if you pitched it to a Hollywood movie producer, they'd tell you that Aristotle says, a probable impossibility is preferable to an improbable possibility.
@@ -124,7 +124,7 @@ sg10
 VDONNA
 p41
 sg12
-g13
+g32
 sa(dp42
 g6
 VThe Midwest, the RNC exits, a dead candidate, a rainstorm...? It's Aristotle all over the place.
@@ -135,7 +135,7 @@ sg10
 VSAM
 p44
 sg12
-g13
+g9
 sa(dp45
 g6
 VI'm going to turn these off. Why don't you head out into the party? Everyone's asking for you.
@@ -157,7 +157,7 @@ sg10
 VSAM
 p50
 sg12
-g13
+g32
 sa(dp51
 g6
 VIt's cake! It's cake.
@@ -168,7 +168,7 @@ sg10
 VDONNA
 p53
 sg12
-g13
+g9
 sa(dp54
 g6
 VI talked to the woman. She had tears in her voice. Her husband loved the President, admired his integrity. Yes, we're big on integrity. By the way, when I said I'd run in his place, it's not like I meant it.
@@ -212,7 +212,7 @@ sg10
 VSAM
 p65
 sg12
-g13
+g32
 sa(dp66
 g6
 VGet Will Bailey, please. Got to get him.
@@ -256,7 +256,7 @@ sg10
 VSAM
 p77
 sg12
-g9
+g32
 sa(dp78
 g6
 VThey're talking about someone else.
@@ -553,7 +553,7 @@ sg10
 VABBEY
 p158
 sg12
-g13
+g9
 sa(dp159
 g6
 VYes. And do the ladies like him? Oh, yes. To the tune of 58%.
@@ -586,7 +586,7 @@ sg10
 VCHARLIE
 p167
 sg12
-g13
+g32
 sa(dp168
 g6
 VI thought we had an understanding with regard to tonight and interruptions, Charlie. I thought we were men.
@@ -619,7 +619,7 @@ sg10
 VBARTLET
 p176
 sg12
-g13
+g32
 sa(dp177
 g6
 VYes, sir.
@@ -685,7 +685,7 @@ sg10
 VBARTLET
 p194
 sg12
-g13
+g9
 sa(dp195
 g6
 VI hope I'm not here at a bad time.
@@ -696,7 +696,7 @@ sg10
 VSAM
 p197
 sg12
-g13
+g32
 sa(dp198
 g6
 VNo, what would make you say that?
@@ -718,7 +718,7 @@ sg10
 VSAM
 p203
 sg12
-g13
+g32
 sa(dp204
 g6
 VNo, no, you could have and I'm not going to take any chances, so let's do it now.
@@ -729,7 +729,7 @@ sg10
 VBARTLET
 p206
 sg12
-g13
+g32
 sa(dp207
 g6
 VHorton Wilde won in the 47th.
@@ -751,7 +751,7 @@ sg10
 VBARTLET
 p212
 sg12
-g13
+g32
 sa(dp213
 g6
 VThere's going to be a special election.
@@ -806,7 +806,7 @@ sg10
 VSAM
 p227
 sg12
-g13
+g32
 sa(dp228
 g6
 VThen, I'm behind you 100%.
@@ -817,7 +817,7 @@ sg10
 VBARTLET
 p230
 sg12
-g13
+g32
 sa(dp231
 g6
 VLook...
@@ -850,7 +850,7 @@ sg10
 VSAM
 p239
 sg12
-g13
+g9
 sa(dp240
 g6
 VHello, Mr. President.
@@ -872,7 +872,7 @@ sg10
 VSAM
 p245
 sg12
-g13
+g9
 sa(dp246
 g6
 VOh, my God.
@@ -894,7 +894,7 @@ sg10
 VBARTLET
 p251
 sg12
-g13
+g9
 sa(dp252
 g6
 VHi, Sam.
@@ -905,7 +905,7 @@ sg10
 VABBEY
 p254
 sg12
-g13
+g9
 sa(dp255
 g6
 VHi.
@@ -927,7 +927,7 @@ sg10
 VBARTLET
 p260
 sg12
-g13
+g9
 sa(dp261
 g6
 VYou know, sir, I'll have this taken care of in the next few hours anyway. You don't even need to worry about it.
@@ -1004,7 +1004,7 @@ sg10
 VSAM
 p281
 sg12
-g13
+g9
 sa(dp282
 g6
 VThank you.
@@ -1026,7 +1026,7 @@ sg10
 VSAM
 p287
 sg12
-g9
+g13
 sa(dp288
 g6
 VCould you keep trying Will Bailey, please?
@@ -1037,7 +1037,7 @@ sg10
 VSAM
 p290
 sg12
-g9
+g13
 sa(dp291
 g6
 VYeah.
@@ -1092,7 +1092,7 @@ sg10
 VTOBY
 p305
 sg12
-g13
+g32
 sa(dp306
 g6
 VUh, right over there.
@@ -1103,7 +1103,7 @@ sg10
 VTOM
 p308
 sg12
-g13
+g9
 sa(dp309
 g6
 VThe great state of Maryland!
@@ -1136,7 +1136,7 @@ sg10
 VTOBY
 p317
 sg12
-g13
+g32
 sa(dp318
 g6
 VMmm! It's ginger ale, crazy boy.
@@ -1158,7 +1158,7 @@ sg10
 VTOBY
 p323
 sg12
-g13
+g32
 sa(dp324
 g6
 VMy man got the President reelected tonight.
@@ -1224,7 +1224,7 @@ sg10
 VTOBY
 p341
 sg12
-g13
+g9
 sa(dp342
 g6
 VWe've already been through this.
@@ -1257,7 +1257,7 @@ sg10
 VANDY
 p350
 sg12
-g13
+g32
 sa(dp351
 g6
 VCongresswoman Wyatt, are you pregnant?
@@ -1323,7 +1323,7 @@ sg10
 VANDY
 p368
 sg12
-g13
+g32
 sa(dp369
 g6
 VI'm not worried about you.
@@ -1334,7 +1334,7 @@ sg10
 VTOBY
 p371
 sg12
-g13
+g32
 sa(dp372
 g6
 VI know. You're worried about a senior counselor fathering kids out of wedlock.
@@ -1400,7 +1400,7 @@ sg10
 VTOBY
 p389
 sg12
-g9
+g13
 sa(dp390
 g6
 VNo, but when they ask me who the father is, I won't tell them that, either.
@@ -1576,7 +1576,7 @@ sg10
 VLEO
 p437
 sg12
-g9
+g13
 sa(dp438
 g6
 VPretty good. You got a second?
@@ -1642,7 +1642,7 @@ sg10
 VLEO
 p455
 sg12
-g13
+g9
 sa(dp456
 g6
 V15 minutes?
@@ -1763,7 +1763,7 @@ sg10
 VJOSH
 p488
 sg12
-g13
+g32
 sa(dp489
 g6
 VIt sounds like he did very well.
@@ -1774,7 +1774,7 @@ sg10
 VC.J.
 p491
 sg12
-g13
+g32
 sa(dp492
 g6
 VI think that's Chris Whitaker.
@@ -1807,7 +1807,7 @@ sg10
 VLARRY
 p500
 sg12
-g13
+g32
 sa(dp501
 g6
 V...enjoy that Jed Bartlet packs a strong...
@@ -1818,7 +1818,7 @@ sg10
 VJULIE
 p503
 sg12
-g13
+g9
 sa(dp504
 g6
 VExcuse me. Don't break things.
@@ -1862,7 +1862,7 @@ sg10
 VASHLEY
 p515
 sg12
-g13
+g32
 sa(dp516
 g6
 VYep, we won the Dakotas tonight, the Badlands.
@@ -1906,7 +1906,7 @@ sg10
 VC.J.
 p527
 sg12
-g13
+g32
 sa(dp528
 g6
 VThis... uh, this is, uh, Ashley, assistant to Jane Zalaznick at the Women's Leadership Coalition.
@@ -1939,7 +1939,7 @@ sg10
 VASHLEY
 p536
 sg12
-g13
+g9
 sa(dp537
 g6
 VYou got a second?
@@ -2126,7 +2126,7 @@ sg10
 VBRUNO
 p587
 sg12
-g13
+g32
 sa(dp588
 g6
 VI think you should talk to some reporters. You are entitled to the status you've earned.
@@ -2159,7 +2159,7 @@ sg10
 VC.J.
 p596
 sg12
-g13
+g32
 sa(dp597
 g6
 VNo, you don't have to watch him...
@@ -2170,7 +2170,7 @@ sg10
 VBRUNO
 p599
 sg12
-g13
+g32
 sa(dp600
 g6
 VWe owe you, Bruno.
@@ -2181,7 +2181,7 @@ sg10
 VC.J.
 p602
 sg12
-g9
+g32
 sa(dp603
 g6
 VNo. I got paid. But thanks. I'm going to talk to Ashley now.
@@ -2203,7 +2203,7 @@ sg10
 VC.J.
 p608
 sg12
-g13
+g32
 sa(dp609
 g6
 VI'm going to be talking to Ashley.
@@ -2269,7 +2269,7 @@ sg10
 VDONNA
 p626
 sg12
-g13
+g9
 sa(dp627
 g6
 VOkay.
@@ -2335,7 +2335,7 @@ sg10
 VJOSH
 p644
 sg12
-g13
+g32
 sa(dp645
 g6
 VCome here.
@@ -2423,7 +2423,7 @@ sg10
 VAMY
 p668
 sg12
-g9
+g32
 sa(dp669
 g6
 VWant to hear the funniest thing? A week ago, Sam told Horton Wilde's widow that he'd run in his place.
@@ -2445,7 +2445,7 @@ sg10
 VAMY
 p674
 sg12
-g13
+g32
 sa(dp675
 g6
 VYou heard?
@@ -2500,7 +2500,7 @@ sg10
 VJOSH
 p689
 sg12
-g13
+g32
 sa(dp690
 g6
 VWill Bailey also.
@@ -2533,7 +2533,7 @@ sg10
 VAMY
 p698
 sg12
-g13
+g9
 sa(dp699
 g6
 VFor a dead candidate, of course you did. Anyway, Sam's desperately trying to get ahold of the widow so he can have the worst conversation of his life. He's... just going to have to say...
@@ -2577,7 +2577,7 @@ sg10
 VAMY
 p710
 sg12
-g13
+g9
 sa(dp711
 g6
 VHe'll get killed.
@@ -2588,7 +2588,7 @@ sg10
 VJOSH
 p713
 sg12
-g13
+g9
 sa(dp714
 g6
 VYeah, but tomorrow morning, you're going to face a very angry minority who don't feel the President did enough to make them the majority.
@@ -2621,7 +2621,7 @@ sg10
 VAMY
 p722
 sg12
-g13
+g32
 sa(dp723
 g6
 VYou know what, the President's coattails were long enough to elect a Democrat out of Orange County with literally no pulse. Any Congressman complaining...
@@ -2687,7 +2687,7 @@ sg10
 VAMY
 p740
 sg12
-g13
+g9
 sa(dp741
 g6
 VAll right, give me your coat.
@@ -2720,7 +2720,7 @@ sg10
 VAMY
 p749
 sg12
-g13
+g32
 sa(dp750
 g6
 VOkay, your coat will be here.
@@ -2731,7 +2731,7 @@ sg10
 VJOSH
 p752
 sg12
-g13
+g9
 sa(dp753
 g6
 VI'm going to go collect money.
@@ -2907,7 +2907,7 @@ sg10
 VWILL
 p800
 sg12
-g13
+g9
 sa(dp801
 g6
 VIt's the shank of the evening and there are all kinds of volunteers that want to dance with you and you know what that means.
@@ -2929,7 +2929,7 @@ sg10
 VWILL
 p806
 sg12
-g13
+g32
 sa(dp807
 g6
 VAre you ever going to enjoy yourself?
@@ -2951,7 +2951,7 @@ sg10
 VWILL
 p812
 sg12
-g13
+g32
 sa(dp813
 g6
 VYes, you did. I'm so proud that you're my brother.
@@ -2962,7 +2962,7 @@ sg10
 VELSIE
 p815
 sg12
-g9
+g13
 sa(dp816
 g6
 VMe, too. I mean, me too. You know what I mean.
@@ -2995,7 +2995,7 @@ sg10
 VWILL
 p824
 sg12
-g13
+g32
 sa(dp825
 g6
 VOkay. Sleep well.
@@ -3006,7 +3006,7 @@ sg10
 VELSIE
 p827
 sg12
-g13
+g9
 sa(dp828
 g6
 VThanks. Don't be wearing that dress all in front of... Ah, never mind.
@@ -3105,7 +3105,7 @@ sg10
 VWILL
 p854
 sg12
-g13
+g32
 sa(dp855
 g6
 VI'm trying to get a sense of what happens when Sam gets tagged with Bartlet fatigue.
@@ -3127,7 +3127,7 @@ sg10
 VWILL
 p860
 sg12
-g13
+g32
 sa(dp861
 g6
 VSure.
@@ -3138,7 +3138,7 @@ sg10
 VJOSH
 p863
 sg12
-g13
+g32
 sa(dp864
 g6
 VI can call you in the morning from the office...
@@ -3248,7 +3248,7 @@ sg10
 VDONNA
 p893
 sg12
-g13
+g32
 sa(dp894
 g6
 VHey, I know you.
@@ -3259,7 +3259,7 @@ sg10
 VJACK
 p896
 sg12
-g9
+g13
 sa(dp897
 g6
 VYeah.
@@ -3303,7 +3303,7 @@ sg10
 VJACK
 p908
 sg12
-g13
+g32
 sa(dp909
 g6
 VLet me see your slip. I'm sure you're over in Dr. McNally's wing.
@@ -3325,7 +3325,7 @@ sg10
 VJACK
 p914
 sg12
-g13
+g32
 sa(dp915
 g6
 VYou had to study it?
@@ -3358,7 +3358,7 @@ sg10
 VDONNA
 p923
 sg12
-g13
+g32
 sa(dp924
 g6
 VAnnapolis, Maryland.
@@ -3369,7 +3369,7 @@ sg10
 VJACK
 p926
 sg12
-g13
+g9
 sa(dp927
 g6
 VOf course, I'm sorry. It's this way. I'll take you.
@@ -3402,7 +3402,7 @@ sg10
 VDONNA
 p935
 sg12
-g13
+g32
 sa(dp936
 g6
 VNo, no. So you guys having a party or something?
@@ -3424,7 +3424,7 @@ sg10
 VDONNA
 p941
 sg12
-g13
+g32
 sa(dp942
 g6
 VI heard. Congratulations.
@@ -3479,7 +3479,7 @@ sg10
 VJACK
 p956
 sg12
-g13
+g32
 sa(dp957
 g6
 V'Cause you traded me, but your intent was to vote for Ritchie.
@@ -3512,7 +3512,7 @@ sg10
 VDONNA
 p965
 sg12
-g13
+g32
 sa(dp966
 g6
 VI appreciate that.
@@ -3523,7 +3523,7 @@ sg10
 VJACK
 p968
 sg12
-g13
+g32
 sa(dp969
 g6
 VSo why the hell were you going to vote for Ritchie?
@@ -3545,7 +3545,7 @@ sg10
 VJACK
 p974
 sg12
-g32
+g13
 sa(dp975
 g6
 VIs that what they told you to say if somebody asked?
@@ -3589,7 +3589,7 @@ sg10
 VJACK
 p986
 sg12
-g32
+g9
 sa(dp987
 g6
 VIt is.
@@ -3655,7 +3655,7 @@ sg10
 VJACK
 p1004
 sg12
-g13
+g9
 sa(dp1005
 g6
 VYou bet. So, why were you vo...?
@@ -3721,7 +3721,7 @@ sg10
 VJACK
 p1022
 sg12
-g13
+g32
 sa(dp1023
 g6
 VLieutenant Commander Reese.
@@ -3776,7 +3776,7 @@ sg10
 VJACK
 p1037
 sg12
-g13
+g32
 sa(dp1038
 g6
 VWell, you should go do that then.
@@ -3787,7 +3787,7 @@ sg10
 VDONNA
 p1040
 sg12
-g13
+g32
 sa(dp1041
 g6
 VYeah.
@@ -3809,7 +3809,7 @@ sg10
 VDONNA
 p1046
 sg12
-g13
+g9
 sa(dp1047
 g6
 VUh, thanks, but I'm just going downstairs.
@@ -3886,7 +3886,7 @@ sg10
 VLEO
 p1067
 sg12
-g13
+g32
 sa(dp1068
 g6
 VThe request was denied.
@@ -3897,7 +3897,7 @@ sg10
 VNSA
 p1070
 sg12
-g13
+g32
 sa(dp1071
 g6
 VYeah, that wasn't really a high percentage phone call, was it?
@@ -3908,7 +3908,7 @@ sg10
 VLEO
 p1073
 sg12
-g13
+g32
 sa(dp1074
 g6
 VNo.
@@ -3963,7 +3963,7 @@ sg10
 VLEO
 p1088
 sg12
-g32
+g13
 sa(dp1089
 g6
 VYes, sir.
@@ -4040,7 +4040,7 @@ sg10
 VJACK
 p1109
 sg12
-g13
+g32
 sa(dp1110
 g6
 V20 minutes, son.
@@ -4073,7 +4073,7 @@ sg10
 VANDY
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VYeah.
@@ -4172,7 +4172,7 @@ sg10
 VTOBY
 p1145
 sg12
-g9
+g32
 sa(dp1146
 g6
 VIt was in your inflection.
@@ -4194,7 +4194,7 @@ sg10
 VTOBY
 p1151
 sg12
-g13
+g32
 sa(dp1152
 g6
 VIt is not a matter of national security that the public know. I do not waive my Fourteenth Amendment rights.
@@ -4249,7 +4249,7 @@ sg10
 VANDY
 p1166
 sg12
-g13
+g32
 sa(dp1167
 g6
 VThe people who elected you aren't the ones who are going to throw the picnic.
@@ -4271,7 +4271,7 @@ sg10
 VANDY
 p1172
 sg12
-g13
+g32
 sa(dp1173
 g6
 VThen what's the problem?
@@ -4304,7 +4304,7 @@ sg10
 VTOBY
 p1181
 sg12
-g13
+g32
 sa(dp1182
 g6
 VNope.
@@ -4392,7 +4392,7 @@ sg10
 VTOBY
 p1205
 sg12
-g13
+g9
 sa(dp1206
 g6
 VHoney, have you told the Bartlets?
@@ -4425,7 +4425,7 @@ sg10
 VANDY
 p1214
 sg12
-g13
+g32
 sa(dp1215
 g6
 VI came up with a plan to tell them apart in the initial months.
@@ -4480,7 +4480,7 @@ sg10
 VTOBY
 p1229
 sg12
-g13
+g32
 sa(dp1230
 g6
 VThere's a thing, "The biggest lies are told after sex, before..." something.
@@ -4524,7 +4524,7 @@ sg10
 VBRUNO
 p1241
 sg12
-g13
+g9
 sa(dp1242
 g6
 VYou're funny.
@@ -4601,7 +4601,7 @@ sg10
 VBRUNO
 p1262
 sg12
-g13
+g32
 sa(dp1263
 g6
 VI am, uh... I'm just going to kill you.
@@ -4623,7 +4623,7 @@ sg10
 VC.J.
 p1268
 sg12
-g13
+g9
 sa(dp1269
 g6
 VThat's "The Brunette named Annette."
@@ -4711,7 +4711,7 @@ sg10
 VC.J.
 p1292
 sg12
-g13
+g32
 sa(dp1293
 g6
 VListen, I think it's good this guy is talking. He doesn't know anything. The process story won't last as long.
@@ -4854,7 +4854,7 @@ sg10
 VBRUNO
 p1331
 sg12
-g13
+g9
 sa(dp1332
 g6
 VListen, can I talk to you for a minute?
@@ -4953,7 +4953,7 @@ sg10
 VAMY
 p1358
 sg12
-g13
+g9
 sa(dp1359
 g6
 VI don't think running for Congress is the thing you do to change the story.
@@ -4997,7 +4997,7 @@ sg10
 VAMY
 p1370
 sg12
-g13
+g32
 sa(dp1371
 g6
 VWhat are you doing here?
@@ -5019,7 +5019,7 @@ sg10
 VAMY
 p1376
 sg12
-g13
+g32
 sa(dp1377
 g6
 VOkay.
@@ -5063,7 +5063,7 @@ sg10
 VAMY
 p1388
 sg12
-g13
+g32
 sa(dp1389
 g6
 VI bet against a Puerto Rican for Bronx Borough President. I deserve to lose.
@@ -5107,7 +5107,7 @@ sg10
 VAMY
 p1400
 sg12
-g13
+g32
 sa(dp1401
 g6
 VCan we talk to you for a minute?
@@ -5173,7 +5173,7 @@ sg10
 VTOBY
 p1418
 sg12
-g32
+g13
 sa(dp1419
 g6
 VYeah.
@@ -5250,7 +5250,7 @@ sg10
 VDONNA
 p1439
 sg12
-g13
+g32
 sa(dp1440
 g6
 VThe building has maintenance, though, doesn't it?
@@ -5349,7 +5349,7 @@ sg10
 VJACK
 p1466
 sg12
-g13
+g32
 sa(dp1467
 g6
 VA $400 ashtray?
@@ -5371,7 +5371,7 @@ sg10
 VDONNA
 p1472
 sg12
-g13
+g32
 sa(dp1473
 g6
 VA $400 ashtray. It's off the U.S.S. Greenville, a nuclear attack submarine and a likely target for a torpedo. When you get hit with one, you've got enough problems without glass flying into the eyes of the navigator and the Officer of the Deck. This one's built to break into three dull pieces. We lead a slightly different life out there and it costs a little more money.
@@ -5393,7 +5393,7 @@ sg10
 VDONNA
 p1478
 sg12
-g9
+g13
 sa(dp1479
 g6
 VYeah, I wish I hadn't done that. It's... 'cause you're blonde.
@@ -5404,7 +5404,7 @@ sg10
 VJACK
 p1481
 sg12
-g13
+g32
 sa(dp1482
 g6
 VHow'd it go in the Sit Room?
@@ -5426,7 +5426,7 @@ sg10
 VJACK
 p1487
 sg12
-g13
+g32
 sa(dp1488
 g6
 VYou want to go to the party?
@@ -5448,7 +5448,7 @@ sg10
 VJACK
 p1493
 sg12
-g13
+g9
 sa(dp1494
 g6
 VOkay. Can you glue that thing back together?
@@ -5514,7 +5514,7 @@ sg10
 VABBEY
 p1511
 sg12
-g13
+g9
 sa(dp1512
 g6
 VI know how you do. Stoli Cristall, the most elegant of vodkas.
@@ -5547,7 +5547,7 @@ sg10
 VABBEY
 p1520
 sg12
-g13
+g9
 sa(dp1521
 g6
 VCalifornia white sturgeon from the Stillman Sea Farm in Elverta. Only the best.
@@ -5591,7 +5591,7 @@ sg10
 VBARTLET
 p1532
 sg12
-g13
+g32
 sa(dp1533
 g6
 VGood evening, Mr. President.
@@ -5613,7 +5613,7 @@ sg10
 VBARTLET
 p1538
 sg12
-g9
+g13
 sa(dp1539
 g6
 VI'm fine, thank you, sir. I'm sorry, but Leo needs to see you.
@@ -5635,7 +5635,7 @@ sg10
 VBARTLET
 p1544
 sg12
-g13
+g32
 sa(dp1545
 g6
 VYes, sir, then Toby.
@@ -5679,7 +5679,7 @@ sg10
 VBARTLET
 p1556
 sg12
-g9
+g32
 sa(dp1557
 g6
 VGood evening, sir.
@@ -5690,7 +5690,7 @@ sg10
 VLEO
 p1559
 sg12
-g13
+g9
 sa(dp1560
 g6
 VYes?
@@ -5712,7 +5712,7 @@ sg10
 VLEO
 p1565
 sg12
-g13
+g9
 sa(dp1566
 g6
 VThank you.
@@ -5734,7 +5734,7 @@ sg10
 VLEO
 p1571
 sg12
-g13
+g9
 sa(dp1572
 g6
 VHi, Leo.
@@ -5745,7 +5745,7 @@ sg10
 VABBEY
 p1574
 sg12
-g13
+g9
 sa(dp1575
 g6
 VWhat happened?
@@ -5800,7 +5800,7 @@ sg10
 VBARTLET
 p1589
 sg12
-g13
+g32
 sa(dp1590
 g6
 VYes, sir.
@@ -5822,7 +5822,7 @@ sg10
 VBARTLET
 p1595
 sg12
-g32
+g13
 sa(dp1596
 g6
 VYeah.
@@ -5877,7 +5877,7 @@ sg10
 VLEO
 p1610
 sg12
-g9
+g13
 sa(dp1611
 g6
 VGood evening, sir.
@@ -5888,7 +5888,7 @@ sg10
 VTOBY
 p1613
 sg12
-g13
+g9
 sa(dp1614
 g6
 VHi.
@@ -5954,7 +5954,7 @@ sg10
 VBARTLET
 p1631
 sg12
-g13
+g9
 sa(dp1632
 g6
 VYeah.
@@ -6020,7 +6020,7 @@ sg10
 VABBEY
 p1649
 sg12
-g13
+g32
 sa(dp1650
 g6
 VYou should marry that girl, Toby.
@@ -6042,7 +6042,7 @@ sg10
 VTOBY
 p1655
 sg12
-g13
+g32
 sa(dp1656
 g6
 VHow far along is she?
@@ -6053,7 +6053,7 @@ sg10
 VABBEY
 p1658
 sg12
-g13
+g32
 sa(dp1659
 g6
 VEnd of May. I have a picture.
@@ -6119,7 +6119,7 @@ sg10
 VBARTLET
 p1676
 sg12
-g13
+g9
 sa(dp1677
 g6
 VThe truth is, I don't, sir. At least not a good one. I was intimidated by your Catholicism.
@@ -6163,7 +6163,7 @@ sg10
 VBARTLET
 p1688
 sg12
-g13
+g32
 sa(dp1689
 g6
 VAnd me.
@@ -6174,7 +6174,7 @@ sg10
 VABBEY
 p1691
 sg12
-g13
+g32
 sa(dp1692
 g6
 VAnd her. Did you break any laws?
@@ -6207,7 +6207,7 @@ sg10
 VBARTLET
 p1700
 sg12
-g13
+g9
 sa(dp1701
 g6
 VThank you, sir. Thank you, ma'am.
@@ -6251,7 +6251,7 @@ sg10
 VABBEY
 p1712
 sg12
-g13
+g32
 sa(dp1713
 g6
 VLet's go.
@@ -6284,7 +6284,7 @@ sg10
 VWHITAKER
 p1721
 sg12
-g13
+g9
 sa(dp1722
 g6
 VThank you. Thank you, thank you, thank you, thank you.
@@ -6328,7 +6328,7 @@ sg10
 VWHITAKER
 p1733
 sg12
-g9
+g32
 sa(dp1734
 g6
 VDon't disrespect Leo McGarry and Bruno Gianelli.
@@ -6339,7 +6339,7 @@ sg10
 VC.J.
 p1736
 sg12
-g13
+g32
 sa(dp1737
 g6
 VSam.
@@ -6361,7 +6361,7 @@ sg10
 VSAM
 p1742
 sg12
-g13
+g32
 sa(dp1743
 g6
 VWe need to talk to you.
@@ -6394,7 +6394,7 @@ sg10
 VC.J.
 p1751
 sg12
-g9
+g32
 sa(dp1752
 g6
 VWhy? Why would you think something like that?
@@ -6416,7 +6416,7 @@ sg10
 VC.J.
 p1757
 sg12
-g13
+g32
 sa(dp1758
 g6
 VActually, it was Amy's.
@@ -6526,7 +6526,7 @@ sg10
 VTOBY
 p1787
 sg12
-g9
+g13
 sa(dp1788
 g6
 VI'm sorry. I finally got Mrs. Wilde on the phone.
@@ -6581,7 +6581,7 @@ sg10
 VC.J.
 p1802
 sg12
-g13
+g32
 sa(dp1803
 g6
 VOh, yeah.
@@ -6592,7 +6592,7 @@ sg10
 VJOSH
 p1805
 sg12
-g13
+g9
 sa(dp1806
 g6
 VI'm going to take this call.
@@ -6636,7 +6636,7 @@ sg10
 VJORDAN
 p1817
 sg12
-g13
+g32
 sa(dp1818
 g6
 VWhy?
@@ -6658,7 +6658,7 @@ sg10
 VJORDAN
 p1823
 sg12
-g13
+g32
 sa(dp1824
 g6
 VWell, let me tell you something about process, Dr. Kendall, and I'll do so while tuning this radio to WNKW, "The Music Of Your Life..." and begging the sun for one more moment of moonlight.

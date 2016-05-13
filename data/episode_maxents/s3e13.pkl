@@ -35,7 +35,7 @@ sg10
 VSTANLEY
 p16
 sg12
-g9
+g15
 sa(dp17
 g6
 VYour flight was all right?
@@ -57,388 +57,388 @@ sg10
 VSTANLEY
 p22
 sg12
-g9
-sa(dp23
+S'negative'
+p23
+sa(dp24
 g6
 VHow are you?
-p24
+p25
 sg8
 g9
 sg10
 VJOSH
-p25
+p26
 sg12
 g15
-sa(dp26
+sa(dp27
 g6
 VMe?
-p27
+p28
 sg8
 g9
 sg10
 VSTANLEY
-p28
+p29
 sg12
 g9
-sa(dp29
+sa(dp30
 g6
 VYeah?
-p30
+p31
 sg8
 g9
 sg10
 VJOSH
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 VI'm fine.
-p33
+p34
 sg8
 g9
 sg10
 VSTANLEY
-p34
+p35
 sg12
-g9
-sa(dp35
+g23
+sa(dp36
 g6
 V[looking down at Stanley's bags] These are your things?
-p36
+p37
 sg8
 g9
 sg10
 VJOSH
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VYeah.
-p39
+p40
 sg8
 g9
 sg10
 VSTANLEY
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 V[heading out] I'm going to put them back in my office.
-p42
+p43
 sg8
 g9
 sg10
 VJOSH
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VShould I go with you?
-p45
+p46
 sg8
 g9
 sg10
 VSTANLEY
-p46
+p47
 sg12
 g9
-sa(dp47
+sa(dp48
 g6
 VNo. I'll be right back.
-p48
+p49
 sg8
 g9
 sg10
 VJOSH
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VThey'll be all right back there.
-p51
+p52
 sg8
 g9
 sg10
 VJOSH
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VWhere should we go?
-p54
+p55
 sg8
 g9
 sg10
 VSTANLEY
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VYou ever seen the White House?
-p57
+p58
 sg8
 g9
 sg10
 VJOSH
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VJust the little I saw when we talked last year.
-p60
+p61
 sg8
 g9
 sg10
 VSTANLEY
-p61
+p62
 sg12
 g9
-sa(dp62
+sa(dp63
 g6
 VFollow me.
-p63
+p64
 sg8
 g9
 sg10
 VJOSH
-p64
+p65
 sg12
-g9
-sa(dp65
+g23
+sa(dp66
 g6
 V[gesturing as he talks] This is the communications bullpen where Toby Ziegler and Sam Seaborn work. The rest of the ommunications and speech-writing work across the alley in the Old Executive Office Building.
-p66
+p67
 sg8
 g15
 sg10
 VJOSH
-p67
+p68
 sg12
 g9
-sa(dp68
+sa(dp69
 g6
 VAnd here comes the actual Sam Seaborn. What's going on?
-p69
+p70
 sg8
 g15
 sg10
 VJOSH
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VLeo's reading it, and we're going to send it out in about ten to fifteen minutes so Toby's been banging around.
-p72
+p73
 sg8
 g15
 sg10
 VSAM
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VWhat are you doing?
-p75
+p76
 sg8
 g9
 sg10
 VJOSH
-p76
+p77
 sg12
 g9
-sa(dp77
+sa(dp78
 g6
 VBanging around.
-p78
+p79
 sg8
 g9
 sg10
 VSAM
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 V[nodding toward Stanley] This Dr. Keyworth.
-p81
+p82
 sg8
 g9
 sg10
 VJOSH
-p82
+p83
 sg12
-g9
-sa(dp83
+g15
+sa(dp84
 g6
 VSam Seaborn.
-p84
+p85
 sg8
 g9
 sg10
 VSAM
-p85
+p86
 sg12
 g9
-sa(dp86
+sa(dp87
 g6
 VNice to meet you.
-p87
+p88
 sg8
 g9
 sg10
 VSTANLEY
-p88
+p89
 sg12
-g9
-sa(dp89
+g15
+sa(dp90
 g6
 VDid you have a good flight?
-p90
+p91
 sg8
 g15
 sg10
 VSAM
-p91
+p92
 sg12
-g9
-sa(dp92
+g15
+sa(dp93
 g6
 VYes.
-p93
+p94
 sg8
 g9
 sg10
 VSTANLEY
-p94
+p95
 sg12
 g15
-sa(dp95
+sa(dp96
 g6
 VAnybody you know on the plane?
-p96
+p97
 sg8
 g9
 sg10
 VSAM
-p97
+p98
 sg12
 g9
-sa(dp98
+sa(dp99
 g6
 VNo.
-p99
+p100
 sg8
 g9
 sg10
 VSTANLEY
-p100
+p101
 sg12
 g9
-sa(dp101
+sa(dp102
 g6
 VOkay. [to Josh] I'll see you.
-p102
+p103
 sg8
 g9
 sg10
 VSAM
-p103
+p104
 sg12
-g9
-sa(dp104
+g15
+sa(dp105
 g6
 V[calling after Sam] Yeah. [gesturing, talking to Stanley] Uh... that's Leo's office. It has a private entrance into the Oval Office, but we'll go in here.
-p105
+p106
 sg8
 g9
 sg10
 VJOSH
-p106
+p107
 sg12
 g9
-sa(dp107
+sa(dp108
 g6
 V[thoughtfully] The driver asked me the same question.
-p108
+p109
 sg8
 g15
 sg10
 VSTANLEY
-p109
+p110
 sg12
 g9
-sa(dp110
+sa(dp111
 g6
 VWhat?
-p111
+p112
 sg8
 g9
 sg10
 VJOSH
-p112
+p113
 sg12
 g9
-sa(dp113
+sa(dp114
 g6
 VDid I know anybody on the flight.
-p114
+p115
 sg8
 g9
 sg10
 VSTANLEY
-p115
+p116
 sg12
 g9
-sa(dp116
+sa(dp117
 g6
 VYeah, he wanted to know if you had talked to anybody on the way here.
-p117
+p118
 sg8
 g9
 sg10
 VJOSH
-p118
+p119
 sg12
 g9
-sa(dp119
+sa(dp120
 g6
 VI didn't.
-p120
+p121
 sg8
 g9
 sg10
 VSTANLEY
-p121
+p122
 sg12
-g9
-sa(dp122
+g23
+sa(dp123
 g6
 V[smiling] I know. [beat] This is the Oval Office.
-p123
+p124
 sg8
 g15
 sg10
 VJOSH
-p124
+p125
 sg12
-g9
-sa(dp125
+g15
+sa(dp126
 g6
 VThat's the Resolute Desk. It was built from the timbers of the H.M.S. Resolute and given to Rutherford Hayes by Queen Victoria to thank the U.S. for finding the abandoned ship. [beat] We're going to go over to the residence, but I'm going to take you out through the portico.
-p126
-sg8
-S'negative'
 p127
+sg8
+g23
 sg10
 VJOSH
 p128
@@ -449,12 +449,12 @@ g6
 V[hanging back] Josh?
 p130
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p131
 sg12
-g9
+g23
 sa(dp132
 g6
 VYeah?
@@ -520,7 +520,7 @@ sg10
 VSTANLEY
 p149
 sg12
-g9
+g15
 sa(dp150
 g6
 VIf somebody sees us, I'd like for them to see me giving you a tour.
@@ -608,7 +608,7 @@ sg10
 VSTANLEY
 p173
 sg12
-g9
+g15
 sa(dp174
 g6
 VYeah.
@@ -663,7 +663,7 @@ sg10
 VJOSH
 p188
 sg12
-g9
+g15
 sa(dp189
 g6
 VStanley.
@@ -696,7 +696,7 @@ sg10
 VLEO
 p197
 sg12
-g9
+g15
 sa(dp198
 g6
 V[nodding] Yeah.
@@ -724,7 +724,7 @@ g6
 VLeo likes to show people the soot stains on the North Portico.
 p205
 sg8
-g127
+g23
 sg10
 VJOSH
 p206
@@ -751,7 +751,7 @@ sg10
 VSTANLEY
 p212
 sg12
-g9
+g23
 sa(dp213
 g6
 VNot that. You know when Dolly Madison heard the cannon fire, she evacuated the building, but she already had the table set for a forty-person dinner party. So the British soldiers ate, then they set the building on fire.
@@ -795,7 +795,7 @@ sg10
 VSTANLEY
 p224
 sg12
-g9
+g23
 sa(dp225
 g6
 VDid you know anyone on the plane?
@@ -850,18 +850,18 @@ sg10
 VSTANLEY
 p239
 sg12
-g9
+g23
 sa(dp240
 g6
 V[leaving] We'll leave you alone.
 p241
 sg8
-g127
+g23
 sg10
 VLEO
 p242
 sg12
-g15
+g23
 sa(dp243
 g6
 V[to Leo] The speech is going out?
@@ -905,7 +905,7 @@ sg10
 VBARTLET
 p254
 sg12
-g9
+g23
 sa(dp255
 g6
 VStanley Keyworth.
@@ -960,7 +960,7 @@ sg10
 VSTANLEY
 p269
 sg12
-g9
+g23
 sa(dp270
 g6
 VYou understand that this is an election here, right? I mean by itself who cares? The President's having trouble sleeping, he talks to a doctor, but with the MS and the hearings and you're a psychiatrist...
@@ -1026,7 +1026,7 @@ sg10
 VSTANLEY
 p287
 sg12
-g9
+g23
 sa(dp288
 g6
 VYeah, we know you. You helped Josh out last year?
@@ -1043,7 +1043,7 @@ g6
 VJosh was shot.
 p292
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p293
@@ -1070,7 +1070,7 @@ sg10
 VSTANLEY
 p299
 sg12
-g15
+g23
 sa(dp300
 g6
 VHow would I know?
@@ -1081,7 +1081,7 @@ sg10
 VBARTLET
 p302
 sg12
-g9
+g23
 sa(dp303
 g6
 VThat's a fair point.
@@ -1109,7 +1109,7 @@ g6
 VWell, Mr. President, um... [takes a seat opposite Bartlet] Tell me about the nature of your sleeping problem.
 p310
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p311
@@ -1125,7 +1125,7 @@ sg10
 VBARTLET
 p314
 sg12
-g9
+g23
 sa(dp315
 g6
 VWhat happens when you try to sleep?
@@ -1147,7 +1147,7 @@ sg10
 VBARTLET
 p320
 sg12
-g9
+g23
 sa(dp321
 g6
 VHow long has it been?
@@ -1158,7 +1158,7 @@ sg10
 VSTANLEY
 p323
 sg12
-g9
+g23
 sa(dp324
 g6
 VFour nights.
@@ -1202,7 +1202,7 @@ sg10
 VSTANLEY
 p335
 sg12
-g9
+g23
 sa(dp336
 g6
 VYeah.
@@ -1224,7 +1224,7 @@ sg10
 VSTANLEY
 p341
 sg12
-g15
+g9
 sa(dp342
 g6
 VThe third night.
@@ -1246,7 +1246,7 @@ sg10
 VSTANLEY
 p347
 sg12
-g9
+g23
 sa(dp348
 g6
 VNot 'til the next morning in the middle of a national security briefing.
@@ -1301,13 +1301,13 @@ sg10
 VBARTLET
 p362
 sg12
-g9
+g23
 sa(dp363
 g6
 V'Cause nicotine will keep you up at night.
 p364
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p365
@@ -1323,7 +1323,7 @@ sg10
 VBARTLET
 p368
 sg12
-g9
+g23
 sa(dp369
 g6
 VIt could be now.
@@ -1334,18 +1334,18 @@ sg10
 VSTANLEY
 p371
 sg12
-g9
+g23
 sa(dp372
 g6
 V[looking down at the cigarette] You think if I put this out, I'm gonna fall asleep?
 p373
 sg8
-g127
+g23
 sg10
 VBARTLET
 p374
 sg12
-g9
+g23
 sa(dp375
 g6
 V[after a beat] No.
@@ -1455,7 +1455,7 @@ sg10
 VBARTLET
 p404
 sg12
-g9
+g23
 sa(dp405
 g6
 VWhen we're done writing it.
@@ -1477,7 +1477,7 @@ sg10
 VC.J.
 p410
 sg12
-g9
+g23
 sa(dp411
 g6
 VSunday night.
@@ -1554,7 +1554,7 @@ sg10
 VWALLACE
 p431
 sg12
-g9
+g23
 sa(dp432
 g6
 VWho?
@@ -1576,7 +1576,7 @@ sg10
 VWALLACE
 p437
 sg12
-g9
+g15
 sa(dp438
 g6
 VIsn't Billy in the Congo?
@@ -1609,13 +1609,13 @@ sg10
 VC.J.
 p446
 sg12
-g127
+g9
 sa(dp447
 g6
 VHe files story by satellite phone through the New York Bureau at a predetermined time. He's missed two deadlines in a row.
 p448
 sg8
-g127
+g23
 sg10
 VWALLACE
 p449
@@ -1719,7 +1719,7 @@ sg10
 VC.J.
 p476
 sg12
-g9
+g15
 sa(dp477
 g6
 VHow would he know he needed that?
@@ -1752,7 +1752,7 @@ sg10
 VWALLACE
 p485
 sg12
-g15
+g23
 sa(dp486
 g6
 VNo.
@@ -1769,7 +1769,7 @@ g6
 VC.J., the first fifteen minutes, they're the most critical in a war zone abduction.
 p490
 sg8
-g127
+g23
 sg10
 VWALLACE
 p491
@@ -1785,7 +1785,7 @@ sg10
 VC.J.
 p494
 sg12
-g9
+g23
 sa(dp495
 g6
 VIf we could get him delivered to someone higher up...
@@ -1813,7 +1813,7 @@ g6
 VI know Billy's been a pain in the ass to you guys for three years, but Billy has a wife and two kids. So, if you could see clear to forgetting about...
 p502
 sg8
-g127
+g23
 sg10
 VWALLACE
 p503
@@ -1840,7 +1840,7 @@ sg10
 VWALLACE
 p509
 sg12
-g9
+g23
 sa(dp510
 g6
 VI'd call his wife.
@@ -1939,13 +1939,13 @@ sg10
 VTOBY
 p536
 sg12
-g9
+g23
 sa(dp537
 g6
 VLook, this is exactly what we said we wanted it to be. We said we were tired of reading about the President's scattershot foreign policy. We said - you want to fillet me for this, fine - we said when we go to the U.N., we were gonna...
 p538
 sg8
-g127
+g23
 sg10
 VTOBY
 p539
@@ -2016,7 +2016,7 @@ sg10
 VTOBY
 p557
 sg12
-g15
+g9
 sa(dp558
 g6
 VIt bothers you.
@@ -2027,7 +2027,7 @@ sg10
 VLEO
 p560
 sg12
-g9
+g15
 sa(dp561
 g6
 VEverything bothers me.
@@ -2038,7 +2038,7 @@ sg10
 VTOBY
 p563
 sg12
-g9
+g23
 sa(dp564
 g6
 VYeah.
@@ -2060,7 +2060,7 @@ sg10
 VTOBY
 p569
 sg12
-g127
+g15
 sa(dp570
 g6
 VYeah. [after a moment] Toby, the night of the Iowa Caucus when you got back, did you and the President have a... conversation that night?
@@ -2126,7 +2126,7 @@ sg10
 VTOBY
 p587
 sg12
-g9
+g23
 sa(dp588
 g6
 VWhat was it?
@@ -2148,7 +2148,7 @@ sg10
 VTOBY
 p593
 sg12
-g9
+g23
 sa(dp594
 g6
 VIt was personal?
@@ -2159,7 +2159,7 @@ sg10
 VLEO
 p596
 sg12
-g9
+g23
 sa(dp597
 g6
 VYeah.
@@ -2220,7 +2220,7 @@ g6
 VToby, what the hell went on in there?
 p613
 sg8
-g127
+g23
 sg10
 VLEO
 p614
@@ -2231,12 +2231,12 @@ g6
 VDon't worry about it.
 p616
 sg8
-g127
+g23
 sg10
 VTOBY
 p617
 sg12
-g9
+g23
 sa(dp618
 g6
 VOkay. I'm gonna to read this again.
@@ -2291,7 +2291,7 @@ sg10
 VTOBY
 p632
 sg12
-g15
+g9
 sa(dp633
 g6
 VIt's great.
@@ -2407,12 +2407,12 @@ g6
 VWhat the hell is he doing there?
 p664
 sg8
-g127
+g23
 sg10
 VLEO
 p665
 sg12
-g9
+g23
 sa(dp666
 g6
 VReporting a story no one is paying attention to.
@@ -2423,7 +2423,7 @@ sg10
 VC.J.
 p668
 sg12
-g9
+g15
 sa(dp669
 g6
 VWhy don't we talked to the Congolese attache?
@@ -2434,7 +2434,7 @@ sg10
 VLEO
 p671
 sg12
-g9
+g23
 sa(dp672
 g6
 VHe's on his way.
@@ -2467,7 +2467,7 @@ sg10
 VTOBY
 p680
 sg12
-g9
+g15
 sa(dp681
 g6
 V[standing reading] Yeah?
@@ -2478,7 +2478,7 @@ sg10
 VSAM
 p683
 sg12
-g9
+g15
 sa(dp684
 g6
 VHe liked it alot. Mostly what I wrote. Not so much what you wrote.
@@ -2522,7 +2522,7 @@ sg10
 VSAM
 p695
 sg12
-g9
+g15
 sa(dp696
 g6
 VYou probably want to rethink calling me "baby," right?
@@ -2577,7 +2577,7 @@ sg10
 VSAM
 p710
 sg12
-g9
+g15
 sa(dp711
 g6
 VI was at a social function.
@@ -2632,7 +2632,7 @@ sg10
 VAINSLEY
 p725
 sg12
-g9
+g23
 sa(dp726
 g6
 VYes. 32-50 is a consolidated appropriations act that we want to drop in the U.N. speech for Monday morning. I need you to review the final legislative language so we can shop it around the Hill over the weekend.
@@ -2665,7 +2665,7 @@ sg10
 VSAM
 p734
 sg12
-g9
+g23
 sa(dp735
 g6
 VSam.
@@ -2682,7 +2682,7 @@ g6
 VIt authorizes payment of nine hundred and twenty-six million in U.N. dues over three years for an exchange in the reduction of U.N. bureaucracy as well as peace-keeping assessments by the General Assembly.
 p739
 sg8
-g127
+g23
 sg10
 VSAM
 p740
@@ -2731,7 +2731,7 @@ sg10
 VSAM
 p752
 sg12
-g9
+g15
 sa(dp753
 g6
 VLike what?
@@ -2748,7 +2748,7 @@ g6
 VI don't know. A ban on German food, or hidden amendment saying how annoying the French are.
 p757
 sg8
-g127
+g23
 sg10
 VSAM
 p758
@@ -2797,7 +2797,7 @@ sg10
 VSAM
 p770
 sg12
-g9
+g23
 sa(dp771
 g6
 VWell, that takes care of lifestyle factors. What about... environmental factors?
@@ -3050,7 +3050,7 @@ sg10
 VCASEY
 p839
 sg12
-g9
+g15
 sa(dp840
 g6
 VYou guys survived?
@@ -3072,7 +3072,7 @@ sg10
 VCASEY
 p845
 sg12
-g9
+g23
 sa(dp846
 g6
 VThey didn't?
@@ -3083,18 +3083,18 @@ sg10
 VDONNA
 p848
 sg12
-g9
+g23
 sa(dp849
 g6
 VJust hype.
 p850
 sg8
-g127
+g23
 sg10
 VCASEY
 p851
 sg12
-g9
+g23
 sa(dp852
 g6
 VI see.
@@ -3105,7 +3105,7 @@ sg10
 VDONNA
 p854
 sg12
-g9
+g23
 sa(dp855
 g6
 VDo you?
@@ -3116,7 +3116,7 @@ sg10
 VCASEY
 p857
 sg12
-g15
+g9
 sa(dp858
 g6
 VNo.
@@ -3199,7 +3199,7 @@ g6
 VNot gossip, hard subststance. Public policy. That's why we need all the help we can get.
 p880
 sg8
-g127
+g23
 sg10
 VCASEY
 p881
@@ -3210,12 +3210,12 @@ g6
 VI doubt I can get Josh involved - it'd be a conflict.
 p883
 sg8
-g127
+g23
 sg10
 VDONNA
 p884
 sg12
-g9
+g23
 sa(dp885
 g6
 VNo, I don't want Josh. I want you.
@@ -3237,7 +3237,7 @@ sg10
 VDONNA
 p890
 sg12
-g9
+g23
 sa(dp891
 g6
 VI want you.
@@ -3314,7 +3314,7 @@ sg10
 VCASEY
 p911
 sg12
-g9
+g15
 sa(dp912
 g6
 V[calling] Ginger?
@@ -3336,7 +3336,7 @@ sg10
 VSAM
 p917
 sg12
-g127
+g9
 sa(dp918
 g6
 VThey went to get something to eat.
@@ -3402,7 +3402,7 @@ sg10
 VSAM
 p935
 sg12
-g9
+g23
 sa(dp936
 g6
 VI go where I'm told. You mind if I say something to you?
@@ -3474,12 +3474,12 @@ g6
 VYeah. It was rude, it was inappropriate, and it was offensive.
 p955
 sg8
-g127
+g23
 sg10
 VCELIA
 p956
 sg12
-g9
+g23
 sa(dp957
 g6
 VWhat did I do?
@@ -3490,7 +3490,7 @@ sg10
 VSAM
 p959
 sg12
-g9
+g23
 sa(dp960
 g6
 VYou demeaned her.
@@ -3567,7 +3567,7 @@ sg10
 VSAM
 p980
 sg12
-g9
+g15
 sa(dp981
 g6
 VOkay.
@@ -3644,7 +3644,7 @@ sg10
 VSAM
 p1001
 sg12
-g9
+g23
 sa(dp1002
 g6
 VLiar.
@@ -3732,7 +3732,7 @@ sg10
 VSAM
 p1025
 sg12
-g9
+g23
 sa(dp1026
 g6
 VYou said that already.
@@ -3760,7 +3760,7 @@ g6
 VMay I wait in his office?
 p1033
 sg8
-g127
+g23
 sg10
 VANDY
 p1034
@@ -3793,7 +3793,7 @@ g6
 V[looking up from where she sits at her computer] Look, I'm just a temporary hand here for a week but I don't think it's a joke or anything.
 p1042
 sg8
-g127
+g23
 sg10
 VCELIA
 p1043
@@ -3870,7 +3870,7 @@ g6
 VWhat the hell did you let her in my office for?
 p1063
 sg8
-g127
+g23
 sg10
 VTOBY
 p1064
@@ -3897,7 +3897,7 @@ sg10
 VANDY
 p1070
 sg12
-g9
+g23
 sa(dp1071
 g6
 VCome on in.
@@ -3919,7 +3919,7 @@ sg10
 VANDY
 p1076
 sg12
-g9
+g23
 sa(dp1077
 g6
 V[closing the door] We consulted plenty of people. What do you think, Sam and I create foreign policy around here?
@@ -3941,7 +3941,7 @@ sg10
 VANDY
 p1082
 sg12
-g9
+g23
 sa(dp1083
 g6
 VWe brought in... For three weeks...
@@ -4002,7 +4002,7 @@ g6
 VI am the third ranking member on the damn committee.
 p1099
 sg8
-g127
+g23
 sg10
 VANDY
 p1100
@@ -4018,7 +4018,7 @@ sg10
 VTOBY
 p1103
 sg12
-g9
+g23
 sa(dp1104
 g6
 VA what?
@@ -4040,7 +4040,7 @@ sg10
 VTOBY
 p1109
 sg12
-g9
+g15
 sa(dp1110
 g6
 V[reading] "Freedom must run deeper than the free flow of capital. Freedom must mean more than the free trade of goods and services. The world will be free..."
@@ -4134,7 +4134,7 @@ g6
 V"...Whether in the guise of facist dictatorships..."
 p1135
 sg8
-g127
+g23
 sg10
 VANDY
 p1136
@@ -4145,7 +4145,7 @@ g6
 VYou getting nervous?
 p1138
 sg8
-g127
+g23
 sg10
 VTOBY
 p1139
@@ -4156,7 +4156,7 @@ g6
 V"...Or economic slavery, or ethnic hostility..."
 p1141
 sg8
-g127
+g23
 sg10
 VANDY
 p1142
@@ -4167,18 +4167,18 @@ g6
 VA little nervous?
 p1144
 sg8
-g127
+g23
 sg10
 VTOBY
 p1145
 sg12
-g127
+g9
 sa(dp1146
 g6
 V"...Or..." Wait for it... "the crushing yoke of Islamic fanaticism." Gentlemen, start your engines.
 p1147
 sg8
-g127
+g23
 sg10
 VANDY
 p1148
@@ -4200,7 +4200,7 @@ g6
 VIs she very upset?
 p1153
 sg8
-g127
+g23
 sg10
 VLEO
 p1154
@@ -4216,7 +4216,7 @@ sg10
 VC.J.
 p1157
 sg12
-g9
+g15
 sa(dp1158
 g6
 VLeo?
@@ -4304,7 +4304,7 @@ sg10
 VLOBOKO
 p1181
 sg12
-g9
+g23
 sa(dp1182
 g6
 VThe MaiMais care about proper documentation, do they?
@@ -4337,7 +4337,7 @@ sg10
 VC.J.
 p1190
 sg12
-g9
+g23
 sa(dp1191
 g6
 VWe haven't been introduced.
@@ -4348,7 +4348,7 @@ sg10
 VLOBOKO
 p1193
 sg12
-g9
+g23
 sa(dp1194
 g6
 VI'm C.J. Cregg. I'm the White House Press Secretary. That guy sat in my room for a year, his wife's sitting in my office, his two kids are sitting at home, and I want him back.
@@ -4392,18 +4392,18 @@ sg10
 VLOBOKO
 p1205
 sg12
-g9
+g23
 sa(dp1206
 g6
 VThe Congolese government is a myth.
 p1207
 sg8
-g127
+g23
 sg10
 VC.J.
 p1208
 sg12
-g9
+g23
 sa(dp1209
 g6
 VI can't talk to this woman.
@@ -4447,7 +4447,7 @@ sg10
 VDONNA
 p1220
 sg12
-g9
+g23
 sa(dp1221
 g6
 VFor an hour?
@@ -4458,7 +4458,7 @@ sg10
 VJOSH
 p1223
 sg12
-g9
+g15
 sa(dp1224
 g6
 VWell... yeah.
@@ -4502,7 +4502,7 @@ sg10
 VJOSH
 p1235
 sg12
-g127
+g9
 sa(dp1236
 g6
 VWhy?
@@ -4535,7 +4535,7 @@ sg10
 VDONNA
 p1244
 sg12
-g9
+g15
 sa(dp1245
 g6
 V[not turning] What do you mean?
@@ -4579,7 +4579,7 @@ sg10
 VDONNA
 p1256
 sg12
-g9
+g23
 sa(dp1257
 g6
 VThat's where you were?
@@ -4623,7 +4623,7 @@ sg10
 VDONNA
 p1268
 sg12
-g9
+g23
 sa(dp1269
 g6
 VWhat's the job?
@@ -4645,7 +4645,7 @@ sg10
 VDONNA
 p1274
 sg12
-g9
+g15
 sa(dp1275
 g6
 VWhat kind of site?
@@ -4656,7 +4656,7 @@ sg10
 VJOSH
 p1277
 sg12
-g9
+g15
 sa(dp1278
 g6
 VCommentary. He asked me to be Issues Director.
@@ -4667,7 +4667,7 @@ sg10
 VDONNA
 p1280
 sg12
-g9
+g23
 sa(dp1281
 g6
 VIssues Director?
@@ -4700,18 +4700,18 @@ sg10
 VJOSH
 p1289
 sg12
-g9
+g15
 sa(dp1290
 g6
 VDot.coms aren't dying, just the hype.
 p1291
 sg8
-g127
+g23
 sg10
 VDONNA
 p1292
 sg12
-g9
+g23
 sa(dp1293
 g6
 VReally?
@@ -4755,7 +4755,7 @@ sg10
 VDONNA
 p1304
 sg12
-g9
+g23
 sa(dp1305
 g6
 VYou suppose.
@@ -4832,7 +4832,7 @@ sg10
 VJOSH
 p1325
 sg12
-g9
+g23
 sa(dp1326
 g6
 VLike what?
@@ -4997,7 +4997,7 @@ sg10
 VSAM
 p1370
 sg12
-g9
+g15
 sa(dp1371
 g6
 VIt did.
@@ -5019,7 +5019,7 @@ sg10
 VSAM
 p1376
 sg12
-g9
+g23
 sa(dp1377
 g6
 VI appreciate it.
@@ -5030,7 +5030,7 @@ sg10
 VAINSLEY
 p1379
 sg12
-g9
+g23
 sa(dp1380
 g6
 VI didn't mean to demean you.
@@ -5041,7 +5041,7 @@ sg10
 VSAM
 p1382
 sg12
-g9
+g23
 sa(dp1383
 g6
 VI kind of need you to listen along.
@@ -5107,7 +5107,7 @@ sg10
 VSAM
 p1400
 sg12
-g15
+g23
 sa(dp1401
 g6
 VYou didn't.
@@ -5118,7 +5118,7 @@ sg10
 VAINSLEY
 p1403
 sg12
-g9
+g23
 sa(dp1404
 g6
 VI was told that I did.
@@ -5157,7 +5157,7 @@ g6
 VShe's mistaken.
 p1414
 sg8
-g127
+g23
 sg10
 VAINSLEY
 p1415
@@ -5234,18 +5234,18 @@ g6
 V[leaving] I don't like to pry.
 p1435
 sg8
-g127
+g23
 sg10
 VSAM
 p1436
 sg12
-g15
+g23
 sa(dp1437
 g6
 VAmerica doesn't have a monopoly on what's right. And even if we did, I think you're gonna have a tough time convincing the Arab world.
 p1438
 sg8
-g127
+g23
 sg10
 VANDY
 p1439
@@ -5267,7 +5267,7 @@ g6
 VThat ought to do the trick.
 p1444
 sg8
-g127
+g23
 sg10
 VANDY
 p1445
@@ -5283,7 +5283,7 @@ sg10
 VTOBY
 p1448
 sg12
-g9
+g15
 sa(dp1449
 g6
 VThe U.S. Constitution defends religious pluralism. It doesn't reduce all of Islam to fanaticism.
@@ -5344,7 +5344,7 @@ g6
 VYes, to a point. Grotesque oppression isn't okay just because it's been institutionlised. If you ask me, I think we should have gotten into the game three, four decades ago, but they're coming after us now, so it's time to saddle up.
 p1465
 sg8
-g127
+g23
 sg10
 VTOBY
 p1466
@@ -5377,18 +5377,18 @@ g6
 VThis is why they hate us.
 p1474
 sg8
-g127
+g23
 sg10
 VANDY
 p1475
 sg12
-g9
+g23
 sa(dp1476
 g6
 VThere's a lot of reasons why they hate us. You know when they're gonna like us? When we win.
 p1477
 sg8
-g127
+g23
 sg10
 VTOBY
 p1478
@@ -5459,7 +5459,7 @@ sg10
 VJANET
 p1496
 sg12
-g9
+g23
 sa(dp1497
 g6
 VYour husband is employed by a billion dollar corporation.
@@ -5481,7 +5481,7 @@ sg10
 VWALLACE
 p1502
 sg12
-g9
+g15
 sa(dp1503
 g6
 VRansom.
@@ -5525,18 +5525,18 @@ sg10
 VJANET
 p1514
 sg12
-g9
+g23
 sa(dp1515
 g6
 V[turning to leave] Okay. Okay.
 p1516
 sg8
-g127
+g23
 sg10
 VC.J.
 p1517
 sg12
-g9
+g23
 sa(dp1518
 g6
 VI- I should stay here?
@@ -5547,7 +5547,7 @@ sg10
 VJANET
 p1520
 sg12
-g9
+g23
 sa(dp1521
 g6
 VYeah. [leaves]
@@ -5564,7 +5564,7 @@ g6
 VInsomnia's a pretty common symptom of depression. Are you depressed?
 p1525
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p1526
@@ -5586,7 +5586,7 @@ g6
 VI didn't think so. Some people or predisposed to insomnia in times of acute stress. Are you under any stress? Is there any stress in your... job at all, or...? [beat] But seriously folks, has there been an unusual amount of stress lately?
 p1531
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p1532
@@ -5602,7 +5602,7 @@ sg10
 VBARTLET
 p1535
 sg12
-g9
+g23
 sa(dp1536
 g6
 VYeah.
@@ -5646,7 +5646,7 @@ sg10
 VBARTLET
 p1547
 sg12
-g9
+g23
 sa(dp1548
 g6
 VMh-hmm.
@@ -5685,12 +5685,12 @@ g6
 VSo, you don't feel stress?
 p1558
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p1559
 sg12
-g9
+g23
 sa(dp1560
 g6
 VI have a job I like, and my family's healthy.
@@ -5707,7 +5707,7 @@ g6
 VThat doesn't mean you're not entitled to feel stress.
 p1564
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p1565
@@ -5740,12 +5740,12 @@ g6
 VI'm saying it's not stress. I was feeling stressed five nights ago, too and I slept fine.
 p1573
 sg8
-g127
+g23
 sg10
 VBARTLET
 p1574
 sg12
-g9
+g23
 sa(dp1575
 g6
 VSo what happened four nights ago?
@@ -5767,7 +5767,7 @@ sg10
 VBARTLET
 p1580
 sg12
-g9
+g23
 sa(dp1581
 g6
 V[after a moment] This is a very unusual conversation.
@@ -5789,7 +5789,7 @@ sg10
 VBARTLET
 p1586
 sg12
-g15
+g23
 sa(dp1587
 g6
 VI'd imagine.
@@ -5800,7 +5800,7 @@ sg10
 VSTANLEY
 p1589
 sg12
-g9
+g23
 sa(dp1590
 g6
 VSo, what do you charge?
@@ -5822,13 +5822,13 @@ sg10
 VSTANLEY
 p1595
 sg12
-g9
+g15
 sa(dp1596
 g6
 VFor three hundred and seventy-five dollars an hour, you ought to bring your own damn lingerie.
 p1597
 sg8
-g127
+g23
 sg10
 VBARTLET
 p1598
@@ -5844,7 +5844,7 @@ sg10
 VSTANLEY
 p1601
 sg12
-g9
+g23
 sa(dp1602
 g6
 VThere's a great story about Arthur Miller. "Death of a Salesman" had just opened on Broadway the night before, and he was walking around his old neighborhood in Brooklyn and he see's a hot dog vendor that he went to high school with, and he says, "Hey, Jimmy, it's me, Arthur Miller." And the hot dog vendor says, "Artie, how you doing? What you been up to?" And Miller says, "I'm, you know, I'm a playwright." And the hot dog vendor says, "Hmm, play writing, I should've gone into that." Three hundred and seventy-five dollars an hour.
@@ -5888,18 +5888,18 @@ sg10
 VSTANLEY
 p1613
 sg12
-g9
+g23
 sa(dp1614
 g6
 VI can't sleep. I can't sleep. I'll be tired and I'll lie there and it doesn't happen.
 p1615
 sg8
-g127
+g23
 sg10
 VBARTLET
 p1616
 sg12
-g9
+g23
 sa(dp1617
 g6
 VWhat happened four nights ago?
@@ -5921,7 +5921,7 @@ sg10
 VBARTLET
 p1622
 sg12
-g9
+g23
 sa(dp1623
 g6
 VAnything else?
@@ -5932,7 +5932,7 @@ sg10
 VSTANLEY
 p1625
 sg12
-g9
+g23
 sa(dp1626
 g6
 VThat's not enough?
@@ -5943,7 +5943,7 @@ sg10
 VBARTLET
 p1628
 sg12
-g9
+g23
 sa(dp1629
 g6
 VMr. President... If you were any other patient-
@@ -5965,7 +5965,7 @@ sg10
 VBARTLET
 p1634
 sg12
-g15
+g9
 sa(dp1635
 g6
 VI'd say, screw around if you want, but it's your money, it's about to be my money, and I sleep fine.
@@ -6031,7 +6031,7 @@ sg10
 VBARTLET
 p1652
 sg12
-g9
+g23
 sa(dp1653
 g6
 V[to himself] Ouch.
@@ -6070,7 +6070,7 @@ g6
 VAre you in pain?
 p1663
 sg8
-g127
+g23
 sg10
 VSAM
 p1664
@@ -6339,7 +6339,7 @@ sg10
 VSAM
 p1736
 sg12
-g127
+g9
 sa(dp1737
 g6
 VShe plays varsity, Sam.
@@ -6350,7 +6350,7 @@ sg10
 VCHARLIE
 p1739
 sg12
-g9
+g15
 sa(dp1740
 g6
 VGirl's varsity.
@@ -6394,7 +6394,7 @@ sg10
 VCHARLIE
 p1751
 sg12
-g9
+g23
 sa(dp1752
 g6
 VListen, I can tell you're down in the dumps, but let's talk about me.
@@ -6438,7 +6438,7 @@ sg10
 VCHARLIE
 p1763
 sg12
-g15
+g23
 sa(dp1764
 g6
 V[approaching] Sam...
@@ -6471,7 +6471,7 @@ sg10
 VCHARLIE
 p1772
 sg12
-g9
+g23
 sa(dp1773
 g6
 VYeah.
@@ -6493,7 +6493,7 @@ sg10
 VCHARLIE
 p1778
 sg12
-g9
+g23
 sa(dp1779
 g6
 VYou and how many Girl Scouts?
@@ -6515,7 +6515,7 @@ sg10
 VCHARLIE
 p1784
 sg12
-g9
+g23
 sa(dp1785
 g6
 VSam...
@@ -6537,7 +6537,7 @@ sg10
 VSAM
 p1790
 sg12
-g9
+g23
 sa(dp1791
 g6
 VThen you're fine.
@@ -6559,7 +6559,7 @@ sg10
 VSAM
 p1796
 sg12
-g9
+g23
 sa(dp1797
 g6
 VYou're not, 'cause this isn't quite right.
@@ -6592,13 +6592,13 @@ sg10
 VAINSLEY
 p1805
 sg12
-g9
+g23
 sa(dp1806
 g6
 VWe've been in this fight.
 p1807
 sg8
-g127
+g23
 sg10
 VSAM
 p1808
@@ -6647,7 +6647,7 @@ sg10
 VCHARLIE
 p1820
 sg12
-g9
+g15
 sa(dp1821
 g6
 VSam?
@@ -6702,7 +6702,7 @@ sg10
 VAINSLEY
 p1835
 sg12
-g9
+g15
 sa(dp1836
 g6
 VYeah, I also thinks it's important to make clear I am not a sexist.
@@ -6724,7 +6724,7 @@ sg10
 VCHARLIE
 p1841
 sg12
-g9
+g23
 sa(dp1842
 g6
 VYou're Celia?
@@ -6757,13 +6757,13 @@ sg10
 VAINSLEY
 p1850
 sg12
-g9
+g23
 sa(dp1851
 g6
 VIf you're willing to let your sexuality diminish your power.
 p1852
 sg8
-g127
+g23
 sg10
 VCELIA
 p1853
@@ -6779,13 +6779,13 @@ sg10
 VAINSLEY
 p1856
 sg12
-g9
+g23
 sa(dp1857
 g6
 VI said, I'm surprised you're willing to let you sexuality diminish your power.
 p1858
 sg8
-g127
+g23
 sg10
 VCELIA
 p1859
@@ -6801,7 +6801,7 @@ sg10
 VAINSLEY
 p1862
 sg12
-g9
+g23
 sa(dp1863
 g6
 VI think you do.
@@ -6829,12 +6829,12 @@ g6
 VI didn't say they did, and when somebody said something that offended me, I did say so.
 p1870
 sg8
-g127
+g23
 sg10
 VCELIA
 p1871
 sg12
-g9
+g23
 sa(dp1872
 g6
 VI like it when the guys tease me. It's an inadvertent show of respect that I'm on the team and I don't mind it when it gets sexual. And you know why? I like sex.
@@ -6867,7 +6867,7 @@ sg10
 VAINSLEY
 p1880
 sg12
-g9
+g23
 sa(dp1881
 g6
 VAnd what kind of feminism do you call that?
@@ -6889,7 +6889,7 @@ sg10
 VAINSLEY
 p1886
 sg12
-g9
+g15
 sa(dp1887
 g6
 V[from over her shoulder] It's called Lipstick Feminism. I call it Stiletto Feminism.
@@ -6933,7 +6933,7 @@ sg10
 VSAM
 p1898
 sg12
-g9
+g23
 sa(dp1899
 g6
 VIsn't the point that Sam wouldn't have been able to find another way to be chummy with a woman who wasn't sexually appealing?
@@ -6944,7 +6944,7 @@ sg10
 VCELIA
 p1901
 sg12
-g9
+g23
 sa(dp1902
 g6
 VHe would be able to, but that isn't the point. The point is that sexual revolution tends to get in the way of actual revolution. Nonsense issues distract attention away from real ones: pay equity, child care, honest-to-God sexual harrassment and in this case, a speech in front of the U.N. General Assembly. So, you, [to Sam] 25 percent on the assesments for Category A. You... [Charlie looks up.] I don't know what your thing is. [turns to Celia] And you, stop trying to take the fun out of my day. With that, I'm going to get a cupcake.
@@ -6999,7 +6999,7 @@ sg10
 VCHARLIE
 p1916
 sg12
-g15
+g9
 sa(dp1917
 g6
 VThere. [places one cup on the table] It's not the best in the world, but it's hot.
@@ -7021,7 +7021,7 @@ sg10
 VJANET
 p1922
 sg12
-g9
+g23
 sa(dp1923
 g6
 VDonna.
@@ -7065,7 +7065,7 @@ sg10
 VJANET
 p1934
 sg12
-g9
+g15
 sa(dp1935
 g6
 VHow old is she?
@@ -7098,7 +7098,7 @@ sg10
 VDONNA
 p1943
 sg12
-g127
+g23
 sa(dp1944
 g6
 VBill's written... I know he's written negetive things about the President...
@@ -7115,7 +7115,7 @@ g6
 V[shaking her head] No.
 p1948
 sg8
-g127
+g23
 sg10
 VDONNA
 p1949
@@ -7131,7 +7131,7 @@ sg10
 VJANET
 p1952
 sg12
-g9
+g23
 sa(dp1953
 g6
 VNobody cares about that tonight.
@@ -7197,7 +7197,7 @@ sg10
 VANDY
 p1970
 sg12
-g9
+g23
 sa(dp1971
 g6
 VThen why were we here for an hour?
@@ -7219,7 +7219,7 @@ sg10
 VANDY
 p1976
 sg12
-g9
+g15
 sa(dp1977
 g6
 V[after a beat] Sure.
@@ -7230,7 +7230,7 @@ sg10
 VTOBY
 p1979
 sg12
-g9
+g23
 sa(dp1980
 g6
 VThis will follow your paragraph.
@@ -7340,7 +7340,7 @@ sg10
 VTOBY
 p2009
 sg12
-g9
+g15
 sa(dp2010
 g6
 VOh, when we win?
@@ -7406,7 +7406,7 @@ sg10
 VTOBY
 p2027
 sg12
-g127
+g23
 sa(dp2028
 g6
 VAnd plenty of Republicans. But this one moment in time, you have to get off your horse and just... simply put - be nice to the Arab world.
@@ -7428,7 +7428,7 @@ sg10
 VTOBY
 p2033
 sg12
-g9
+g23
 sa(dp2034
 g6
 VYes.
@@ -7489,7 +7489,7 @@ g6
 VThousands of madrassahs teaching children nothing, nothing, nothing but the Koran and to hate America. Who do we see about that? [beat] Do I want to preach America? Judeo-Christianity? No. If their religion forbids them from playing the trumpet, so be it. But I want those kids to... look at a globe. Be exposed to social sciences, history. Some literature. [beat] I'll like us when we win.
 p2050
 sg8
-g127
+g23
 sg10
 VTOBY
 p2051
@@ -7516,7 +7516,7 @@ sg10
 VTOBY
 p2057
 sg12
-g9
+g15
 sa(dp2058
 g6
 VHow's she doing?
@@ -7610,7 +7610,7 @@ g6
 V[lowering her head] Oh, God.
 p2083
 sg8
-g127
+g23
 sg10
 VC.J.
 p2084
@@ -7621,7 +7621,7 @@ g6
 VYeah. He was killed in an ambush. Embassy Kinshasa's going to get the body.
 p2086
 sg8
-g127
+g23
 sg10
 VJOSH
 p2087
@@ -7654,12 +7654,12 @@ g6
 VWhat's wrong with my head?
 p2095
 sg8
-g127
+g23
 sg10
 VBARTLET
 p2096
 sg12
-g9
+g23
 sa(dp2097
 g6
 VI don't know.
@@ -7670,7 +7670,7 @@ sg10
 VSTANLEY
 p2099
 sg12
-g9
+g23
 sa(dp2100
 g6
 VOf course not. That would be three hundred and eighty-five dollars an hour.
@@ -7681,7 +7681,7 @@ sg10
 VBARTLET
 p2102
 sg12
-g9
+g23
 sa(dp2103
 g6
 VThey keep moving the goalpost on you, don't they? Get A's, good college, Latin honours. Get into the London School of Economics. Get a good teaching job. Ivy League school, tenure. Now you gotta publish, now you gotta go to Stockholm.
@@ -7731,7 +7731,7 @@ g6
 VYeah, but that's most men. That's not you. That's the other people, the ones who feel stress. You're destined for something else.
 p2116
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p2117
@@ -7747,7 +7747,7 @@ sg10
 VBARTLET
 p2120
 sg12
-g127
+g23
 sa(dp2121
 g6
 VAnd now you have an opportunity to use them.
@@ -7769,7 +7769,7 @@ sg10
 VBARTLET
 p2126
 sg12
-g127
+g23
 sa(dp2127
 g6
 VThat room I passed down the hall, on the left, it's got a name, right?
@@ -7846,24 +7846,24 @@ sg10
 VSTANLEY
 p2147
 sg12
-g15
+g9
 sa(dp2148
 g6
 VI think I've made tough choices.
 p2149
 sg8
-g127
+g23
 sg10
 VBARTLET
 p2150
 sg12
-g9
+g23
 sa(dp2151
 g6
 VI think Lincoln did what he thought was right, even though it meant losing half the country. I think you don't do what you think is right if it means losing Michigan's electoral votes.
 p2152
 sg8
-g127
+g23
 sg10
 VSTANLEY
 p2153
@@ -7879,7 +7879,7 @@ sg10
 VBARTLET
 p2156
 sg12
-g9
+g23
 sa(dp2157
 g6
 VI'll be the first to admit that.
@@ -7890,7 +7890,7 @@ sg10
 VSTANLEY
 p2159
 sg12
-g9
+g15
 sa(dp2160
 g6
 VI'm not trying to get my father to like me.
@@ -7901,7 +7901,7 @@ sg10
 VBARTLET
 p2162
 sg12
-g9
+g23
 sa(dp2163
 g6
 VGood. 'Cause it's never, never gonna happen. Look, we're done for the night.
@@ -7940,7 +7940,7 @@ g6
 VStanley, I hate to put it this way, but I'm me, and you're you, and we're done when I say we're done.
 p2173
 sg8
-g127
+g23
 sg10
 VBARTLET
 p2174

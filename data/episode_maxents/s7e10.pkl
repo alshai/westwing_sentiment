@@ -47,7 +47,7 @@ sg10
 VLEO
 p20
 sg12
-g13
+g9
 sa(dp21
 g6
 VNo, no.
@@ -58,7 +58,7 @@ sg10
 VANNABETH
 p23
 sg12
-g13
+g9
 sa(dp24
 g6
 VSorry. What'd you say, "broke" or "broken"?
@@ -168,7 +168,7 @@ sg10
 VOTTO
 p53
 sg12
-g13
+g9
 sa(dp54
 g6
 VReally?
@@ -212,7 +212,7 @@ sg10
 VANNABETH
 p65
 sg12
-g13
+g9
 sa(dp66
 g6
 VI know. I'd like to smoke it and then have someone shoot me.
@@ -223,7 +223,7 @@ sg10
 VLEO
 p68
 sg12
-g13
+g9
 sa(dp69
 g6
 VI'm sorry.
@@ -234,7 +234,7 @@ sg10
 VLEO
 p71
 sg12
-g13
+g9
 sa(dp72
 g6
 VNo, it's fine. That's what this is for.
@@ -267,7 +267,7 @@ sg10
 VANNABETH
 p80
 sg12
-g13
+g16
 sa(dp81
 g6
 VMr. McGarry? [pause] Mr. McGarry?
@@ -344,7 +344,7 @@ sg10
 VDONNA
 p101
 sg12
-g13
+g9
 sa(dp102
 g6
 VTell me what?
@@ -355,7 +355,7 @@ sg10
 VSANTOS
 p104
 sg12
-g13
+g9
 sa(dp105
 g6
 VDonna!
@@ -388,7 +388,7 @@ sg10
 VSANTOS
 p113
 sg12
-g13
+g9
 sa(dp114
 g6
 VHe knows.
@@ -399,7 +399,7 @@ sg10
 VDONNA
 p116
 sg12
-g13
+g16
 sa(dp117
 g6
 VTell Josh to chill.
@@ -421,7 +421,7 @@ sg10
 VDONNA
 p122
 sg12
-g13
+g16
 sa(dp123
 g6
 VDid you just tell me to chill?
@@ -432,7 +432,7 @@ sg10
 VJOSH
 p125
 sg12
-g13
+g9
 sa(dp126
 g6
 VIt would appear so.
@@ -443,7 +443,7 @@ sg10
 VDONNA
 p128
 sg12
-g13
+g9
 sa(dp129
 g6
 VIs it somehow not clear that I'm your boss?
@@ -476,7 +476,7 @@ sg10
 VDONNA
 p137
 sg12
-g13
+g9
 sa(dp138
 g6
 VYeah, I don't think you tell me to chill.
@@ -487,7 +487,7 @@ sg10
 VJOSH
 p140
 sg12
-g13
+g9
 sa(dp141
 g6
 VI wanted to scream it everyday for eight years.
@@ -531,7 +531,7 @@ sg10
 VJOSH
 p152
 sg12
-g13
+g16
 sa(dp153
 g6
 VLike she always does. It'd be kind of butch on me, but Lou makes it work.
@@ -542,7 +542,7 @@ sg10
 VRONNA
 p155
 sg12
-g13
+g16
 sa(dp156
 g6
 VDoes she look happy, worried?
@@ -553,7 +553,7 @@ sg10
 VJOSH
 p158
 sg12
-g13
+g16
 sa(dp159
 g6
 VUh, stricken might be the word.
@@ -586,7 +586,7 @@ sg10
 VRONNA
 p167
 sg12
-g13
+g9
 sa(dp168
 g6
 VFor the purposes of this moment, let's stipulate that you do.
@@ -630,7 +630,7 @@ sg10
 VJOSH
 p179
 sg12
-g13
+g16
 sa(dp180
 g6
 VThis is the high-water mark.
@@ -641,7 +641,7 @@ sg10
 VLOU
 p182
 sg12
-g13
+g16
 sa(dp183
 g6
 VSwitch it off.
@@ -652,7 +652,7 @@ sg10
 VJOSH
 p185
 sg12
-g13
+g9
 sa(dp186
 g6
 VWhat?
@@ -685,7 +685,7 @@ sg10
 VJOSH
 p194
 sg12
-g13
+g9
 sa(dp195
 g6
 VWatch it.
@@ -696,7 +696,7 @@ sg10
 VLOU
 p197
 sg12
-g13
+g9
 sa(dp198
 g6
 VCan you fix it?
@@ -707,7 +707,7 @@ sg10
 VJOSH
 p200
 sg12
-g16
+g13
 sa(dp201
 g6
 VWe have to. The debate's in two days.
@@ -740,7 +740,7 @@ sg10
 VRONNA
 p209
 sg12
-g13
+g9
 sa(dp210
 g6
 VPlay the expectations game.
@@ -806,7 +806,7 @@ sg10
 VJOSH
 p227
 sg12
-g13
+g9
 sa(dp228
 g6
 VThe machine ate the tape.
@@ -839,7 +839,7 @@ sg10
 VJOSH
 p236
 sg12
-g13
+g9
 sa(dp237
 g6
 VI'd love to review it.
@@ -938,7 +938,7 @@ sg10
 VBRAM
 p263
 sg12
-g13
+g16
 sa(dp264
 g6
 VReconnecting to his loving, photogenic family.
@@ -949,7 +949,7 @@ sg10
 VDONNA
 p266
 sg12
-g13
+g16
 sa(dp267
 g6
 VBecause God forbid any normal human behaviour should go unpoliticized.
@@ -1048,7 +1048,7 @@ sg10
 VSANTOS
 p293
 sg12
-g13
+g9
 sa(dp294
 g6
 VI've got a cold.
@@ -1059,7 +1059,7 @@ sg10
 VPETER
 p296
 sg12
-g13
+g9
 sa(dp297
 g6
 VThank you for that gift.
@@ -1092,7 +1092,7 @@ sg10
 VSANTOS
 p305
 sg12
-g13
+g16
 sa(dp306
 g6
 VWelcome home, Daddy.
@@ -1114,7 +1114,7 @@ sg10
 VSANTOS
 p311
 sg12
-g13
+g16
 sa(dp312
 g6
 VMy throat's scratchy.
@@ -1235,7 +1235,7 @@ sg10
 VANNABETH
 p344
 sg12
-g13
+g16
 sa(dp345
 g6
 VWe'll see. [pause] So, how did I do?
@@ -1257,7 +1257,7 @@ sg10
 VANNABETH
 p350
 sg12
-g13
+g9
 sa(dp351
 g6
 VArtful dodge. Uncharacteristic, your usual conversation mode tending more toward blunt instrument. On style, then.
@@ -1268,7 +1268,7 @@ sg10
 VLEO
 p353
 sg12
-g13
+g16
 sa(dp354
 g6
 VOh, that was horrible.
@@ -1279,7 +1279,7 @@ sg10
 VANNABETH
 p356
 sg12
-g13
+g9
 sa(dp357
 g6
 VThere's the cudgel.
@@ -1301,7 +1301,7 @@ sg10
 VANNABETH
 p362
 sg12
-g13
+g16
 sa(dp363
 g6
 VNot again with the Botox.
@@ -1312,7 +1312,7 @@ sg10
 VLEO
 p365
 sg12
-g13
+g16
 sa(dp366
 g6
 VHair and makeup room: man's best friend. Plan to spend some time there.
@@ -1367,7 +1367,7 @@ sg10
 VANNABETH
 p380
 sg12
-g9
+g13
 sa(dp381
 g6
 VMy what?
@@ -1400,7 +1400,7 @@ sg10
 VLEO
 p389
 sg12
-g13
+g9
 sa(dp390
 g6
 VIt's your default expression, Leo.
@@ -1455,7 +1455,7 @@ sg10
 VANNABETH
 p404
 sg12
-g13
+g16
 sa(dp405
 g6
 VSexy?
@@ -1598,7 +1598,7 @@ sg10
 VLEO
 p443
 sg12
-g13
+g9
 sa(dp444
 g6
 VFinish.
@@ -1675,7 +1675,7 @@ sg10
 VANNABETH
 p464
 sg12
-g13
+g9
 sa(dp465
 g6
 VYou want to lose those, clear to the knuckle?
@@ -1719,7 +1719,7 @@ sg10
 VANNABETH
 p476
 sg12
-g13
+g9
 sa(dp477
 g6
 VI thought you didn't do content.
@@ -1906,7 +1906,7 @@ sg10
 VKATE
 p527
 sg12
-g13
+g9
 sa(dp528
 g6
 VHave the parties agreed to U.N. monitors in this election that may or may not be rescheduled?
@@ -1950,7 +1950,7 @@ sg10
 VKATE
 p539
 sg12
-g13
+g9
 sa(dp540
 g6
 VIs the subject of monitors being discussed?
@@ -2005,7 +2005,7 @@ sg10
 VKATE
 p554
 sg12
-g13
+g9
 sa(dp555
 g6
 VIt makes you feel powerful. "I am woman, hear me withhold."
@@ -2027,7 +2027,7 @@ sg10
 VKATE
 p560
 sg12
-g13
+g9
 sa(dp561
 g6
 VA little.
@@ -2049,7 +2049,7 @@ sg10
 VKATE
 p566
 sg12
-g13
+g16
 sa(dp567
 g6
 VThis moment?
@@ -2082,7 +2082,7 @@ sg10
 VWILL
 p575
 sg12
-g13
+g16
 sa(dp576
 g6
 VWhat's that say about you?
@@ -2148,7 +2148,7 @@ sg10
 VSANTOS
 p593
 sg12
-g13
+g9
 sa(dp594
 g6
 VSmall price to pay to have you home.
@@ -2280,7 +2280,7 @@ sg10
 VAGENT
 p629
 sg12
-g13
+g9
 sa(dp630
 g6
 VThat's okay. Never mind.
@@ -2346,7 +2346,7 @@ sg10
 VSANTOS
 p647
 sg12
-g13
+g9
 sa(dp648
 g6
 VThose are our vehicles. We keep their engines running.
@@ -2368,7 +2368,7 @@ sg10
 VSANTOS
 p653
 sg12
-g13
+g16
 sa(dp654
 g6
 VYes, sir.
@@ -2423,7 +2423,7 @@ sg10
 VLOU
 p668
 sg12
-g16
+g13
 sa(dp669
 g6
 VI didn't leak anything.
@@ -2434,7 +2434,7 @@ sg10
 VRONNA
 p671
 sg12
-g13
+g9
 sa(dp672
 g6
 VMe neither.
@@ -2456,7 +2456,7 @@ sg10
 VJOSH
 p677
 sg12
-g13
+g9
 sa(dp678
 g6
 VHey.
@@ -2522,7 +2522,7 @@ sg10
 VBOB
 p695
 sg12
-g13
+g16
 sa(dp696
 g6
 VGod bless the Internet.
@@ -2544,7 +2544,7 @@ sg10
 VSULLIVAN
 p701
 sg12
-g13
+g16
 sa(dp702
 g6
 VWell, it's giving with both hands on this baby.
@@ -2643,7 +2643,7 @@ sg10
 VBOB
 p728
 sg12
-g13
+g9
 sa(dp729
 g6
 VLeo's no neophyte.
@@ -2654,7 +2654,7 @@ sg10
 VSULLIVAN
 p731
 sg12
-g13
+g9
 sa(dp732
 g6
 VAt being a candidate, he is.
@@ -2665,7 +2665,7 @@ sg10
 VSHEILA
 p734
 sg12
-g9
+g16
 sa(dp735
 g6
 VYou can go balls to the wall all you want in private with the President. Try doing that on TV.
@@ -2698,7 +2698,7 @@ sg10
 VSULLIVAN
 p743
 sg12
-g13
+g9
 sa(dp744
 g6
 VYou'll wipe the floor with him.
@@ -2742,7 +2742,7 @@ sg10
 VSULLIVAN
 p755
 sg12
-g13
+g9
 sa(dp756
 g6
 VThe trick is to beat his brains in without making people feel sorry for the guy.
@@ -2786,7 +2786,7 @@ sg10
 VDONNA
 p767
 sg12
-g13
+g16
 sa(dp768
 g6
 VMm. Modified stump.
@@ -2962,7 +2962,7 @@ sg10
 VSANTOS
 p815
 sg12
-g9
+g13
 sa(dp816
 g6
 VIt's all about the dinero.
@@ -2984,7 +2984,7 @@ sg10
 VSANTOS
 p821
 sg12
-g13
+g16
 sa(dp822
 g6
 VHey, remember: we're trying to build confidence, so hold back a little.
@@ -3006,7 +3006,7 @@ sg10
 VLOU
 p827
 sg12
-g13
+g9
 sa(dp828
 g6
 VReady?
@@ -3061,7 +3061,7 @@ sg10
 VLOU
 p842
 sg12
-g13
+g9
 sa(dp843
 g6
 VNo split focus: we want you to concentrate on your performance, not whether your forehead is shining.
@@ -3193,7 +3193,7 @@ sg10
 VLEO
 p878
 sg12
-g16
+g9
 sa(dp879
 g6
 VYeah? Good. And the language was a bit dense.
@@ -3237,7 +3237,7 @@ sg10
 VJOSH
 p890
 sg12
-g13
+g16
 sa(dp891
 g6
 VIt could be more plainspoken.
@@ -3248,7 +3248,7 @@ sg10
 VANNABETH
 p893
 sg12
-g13
+g9
 sa(dp894
 g6
 VThat's it.
@@ -3270,7 +3270,7 @@ sg10
 VLOU
 p899
 sg12
-g13
+g9
 sa(dp900
 g6
 VPlainspoken.
@@ -3358,7 +3358,7 @@ sg10
 VWILL
 p923
 sg12
-g13
+g9
 sa(dp924
 g6
 VI couldn't say.
@@ -3369,7 +3369,7 @@ sg10
 VWILL
 p926
 sg12
-g13
+g9
 sa(dp927
 g6
 VBut you could say?
@@ -3600,7 +3600,7 @@ sg10
 VSANTOS
 p989
 sg12
-g13
+g16
 sa(dp990
 g6
 VDo the windows in here look any different?
@@ -3622,7 +3622,7 @@ sg10
 VSANTOS
 p995
 sg12
-g13
+g9
 sa(dp996
 g6
 VIt's amazing the natural look they can achieve now with bulletproof glass. Labor Day, the barbeque: I had to provide the Secret Service with everyone's names, Social Security numbers, birthdates. To come by and have a hot dog, everybody had to be issued ID pins. My mother walking around tagged like she was some threatening wacko. If you're considering this an opportunity to crack a mother-in-law joke, you are seriously misjudging the mood of your audience.
@@ -3644,7 +3644,7 @@ sg10
 VSANTOS
 p1001
 sg12
-g13
+g16
 sa(dp1002
 g6
 VYeah, what?
@@ -3655,7 +3655,7 @@ sg10
 VHELEN
 p1004
 sg12
-g13
+g16
 sa(dp1005
 g6
 VToo late. [pause] I'm sorry. Tomorrow will be better.
@@ -3666,7 +3666,7 @@ sg10
 VSANTOS
 p1007
 sg12
-g13
+g9
 sa(dp1008
 g6
 VHey, think about the neat place we get to live in once we win this thing.
@@ -3688,7 +3688,7 @@ sg10
 VMIRANDA
 p1013
 sg12
-g13
+g9
 sa(dp1014
 g6
 VOh, sweetie. Come here, honey.
@@ -3699,7 +3699,7 @@ sg10
 VHELEN
 p1016
 sg12
-g9
+g16
 sa(dp1017
 g6
 VI'll handle it.
@@ -3710,7 +3710,7 @@ sg10
 VSANTOS
 p1019
 sg12
-g13
+g9
 sa(dp1020
 g6
 VWhat's wrong, angel?
@@ -3776,7 +3776,7 @@ sg10
 VHELEN
 p1037
 sg12
-g9
+g16
 sa(dp1038
 g6
 VHe can't be flippant about this.
@@ -3787,7 +3787,7 @@ sg10
 VLOU
 p1040
 sg12
-g13
+g9
 sa(dp1041
 g6
 VI thought it was funny.
@@ -3798,7 +3798,7 @@ sg10
 VJOSH
 p1043
 sg12
-g13
+g9
 sa(dp1044
 g6
 VDefusing.
@@ -3897,7 +3897,7 @@ sg10
 VLOU
 p1070
 sg12
-g13
+g16
 sa(dp1071
 g6
 VLipstick cameras. You use these at home for your personal pleasure?
@@ -3941,7 +3941,7 @@ sg10
 VLOU
 p1082
 sg12
-g13
+g9
 sa(dp1083
 g6
 VThe debate?
@@ -3952,7 +3952,7 @@ sg10
 VJOSH
 p1085
 sg12
-g13
+g16
 sa(dp1086
 g6
 VIt's the right question.
@@ -3974,7 +3974,7 @@ sg10
 VANNABETH
 p1091
 sg12
-g13
+g9
 sa(dp1092
 g6
 VBetter than moving forward and him, in fact, looking bad.
@@ -4007,7 +4007,7 @@ sg10
 VRONNA
 p1100
 sg12
-g13
+g16
 sa(dp1101
 g6
 V[sarcastically] Is it? Really? Gee, it slipped my mind.
@@ -4018,7 +4018,7 @@ sg10
 VJOSH
 p1103
 sg12
-g16
+g13
 sa(dp1104
 g6
 VOkay, guys. Thank you. You can go.
@@ -4051,7 +4051,7 @@ sg10
 VLOU
 p1112
 sg12
-g16
+g9
 sa(dp1113
 g6
 VYeah.
@@ -4095,7 +4095,7 @@ sg10
 VLEO
 p1124
 sg12
-g13
+g9
 sa(dp1125
 g6
 VIt's shameful how shameless you get. What are you up to?
@@ -4106,7 +4106,7 @@ sg10
 VSANTOS
 p1127
 sg12
-g13
+g9
 sa(dp1128
 g6
 VI know the feeling.
@@ -4139,7 +4139,7 @@ sg10
 VSANTOS
 p1136
 sg12
-g13
+g9
 sa(dp1137
 g6
 VHardly.
@@ -4205,7 +4205,7 @@ sg10
 VSANTOS
 p1154
 sg12
-g13
+g16
 sa(dp1155
 g6
 VHaving a little reentry problem?
@@ -4216,7 +4216,7 @@ sg10
 VLEO
 p1157
 sg12
-g9
+g13
 sa(dp1158
 g6
 VA little bit.
@@ -4282,7 +4282,7 @@ sg10
 VSANTOS
 p1175
 sg12
-g13
+g9
 sa(dp1176
 g6
 VThanks for calling.
@@ -4370,7 +4370,7 @@ sg10
 VKATE
 p1199
 sg12
-g9
+g13
 sa(dp1200
 g6
 VAgain, alarmingly alluring.
@@ -4436,7 +4436,7 @@ sg10
 VKATE
 p1217
 sg12
-g13
+g16
 sa(dp1218
 g6
 VDon't change the subject.
@@ -4458,7 +4458,7 @@ sg10
 VKATE
 p1223
 sg12
-g13
+g16
 sa(dp1224
 g6
 VThe end of the world as we know it.
@@ -4502,7 +4502,7 @@ sg10
 VKATE
 p1235
 sg12
-g13
+g9
 sa(dp1236
 g6
 VYou have the thanks of a thankful Communications director. Though the thought of the world ending did have one upside: I figured it gave license to ask whether you might want to have dinner with me before we and the planet went up in cinders.
@@ -4535,7 +4535,7 @@ sg10
 VWILL
 p1244
 sg12
-g13
+g9
 sa(dp1245
 g6
 VHow's tonight?
@@ -4579,7 +4579,7 @@ sg10
 VJOSH
 p1256
 sg12
-g13
+g16
 sa(dp1257
 g6
 VI haven't spoken to a friend in two months.
@@ -4601,7 +4601,7 @@ sg10
 VANNABETH
 p1262
 sg12
-g13
+g9
 sa(dp1263
 g6
 VAll my friends are in this room.
@@ -4689,7 +4689,7 @@ sg10
 VLOU
 p1286
 sg12
-g13
+g9
 sa(dp1287
 g6
 VOr just Lou. Or me.
@@ -4700,7 +4700,7 @@ sg10
 VJOSH
 p1289
 sg12
-g13
+g9
 sa(dp1290
 g6
 VI think I'll do better on my own.
@@ -4711,7 +4711,7 @@ sg10
 VLEO
 p1292
 sg12
-g13
+g9
 sa(dp1293
 g6
 VShort session?
@@ -4733,7 +4733,7 @@ sg10
 VLEO
 p1298
 sg12
-g13
+g9
 sa(dp1299
 g6
 VRight.
@@ -4777,7 +4777,7 @@ sg10
 VJOSH
 p1310
 sg12
-g13
+g9
 sa(dp1311
 g6
 VBeyond what they are?
@@ -4865,7 +4865,7 @@ sg10
 VSANTOS
 p1334
 sg12
-g13
+g9
 sa(dp1335
 g6
 VWhat?
@@ -4942,7 +4942,7 @@ sg10
 VSANTOS
 p1355
 sg12
-g13
+g9
 sa(dp1356
 g6
 VIt's not of you.
@@ -4986,7 +4986,7 @@ sg10
 VSULLIVAN
 p1367
 sg12
-g13
+g9
 sa(dp1368
 g6
 VSorry. You're right. Only you.
@@ -5030,7 +5030,7 @@ sg10
 VSHEILA
 p1379
 sg12
-g13
+g9
 sa(dp1380
 g6
 VFour points up is still up.
@@ -5041,7 +5041,7 @@ sg10
 VBOB
 p1382
 sg12
-g13
+g9
 sa(dp1383
 g6
 VSenator of Chicago to the suburbs...
@@ -5063,7 +5063,7 @@ sg10
 VSULLIVAN
 p1388
 sg12
-g13
+g9
 sa(dp1389
 g6
 VSantos ain't playing in Peoria.
@@ -5074,7 +5074,7 @@ sg10
 VBOB
 p1391
 sg12
-g13
+g9
 sa(dp1392
 g6
 VThey're talking about canceling.
@@ -5140,7 +5140,7 @@ sg10
 VSHEILA
 p1409
 sg12
-g16
+g13
 sa(dp1410
 g6
 VHe set the bar so low, the only way McGarry can look bad is if he trips over it.
@@ -5206,7 +5206,7 @@ sg10
 VSANTOS
 p1427
 sg12
-g13
+g9
 sa(dp1428
 g6
 VI... I guess this is speechless.
@@ -5250,7 +5250,7 @@ sg10
 VDONNA
 p1439
 sg12
-g13
+g9
 sa(dp1440
 g6
 VCan you? What kind of underwear are you wearing right now, Donna?
@@ -5283,7 +5283,7 @@ sg10
 VDONNA
 p1448
 sg12
-g13
+g9
 sa(dp1449
 g6
 VPut me on the phone with him, right now.
@@ -5338,7 +5338,7 @@ sg10
 VTOBY
 p1463
 sg12
-g13
+g9
 sa(dp1464
 g6
 VIs somebody dead?
@@ -5393,7 +5393,7 @@ sg10
 VTOBY
 p1478
 sg12
-g13
+g9
 sa(dp1479
 g6
 VIs that the reason you're calling? Because I'm not sure I'm in the ideal headspace for a character critique.
@@ -5470,7 +5470,7 @@ sg10
 VJOSH
 p1499
 sg12
-g13
+g9
 sa(dp1500
 g6
 VIt's the VP debate - the very definition of "low impact."
@@ -5492,7 +5492,7 @@ sg10
 VTOBY
 p1505
 sg12
-g13
+g16
 sa(dp1506
 g6
 VHe's a big boy, Josh.
@@ -5525,7 +5525,7 @@ sg10
 VTOBY
 p1514
 sg12
-g13
+g9
 sa(dp1515
 g6
 VLeo McGarry didn't accept his party's nomination to the Vice Presidency of the United States because he thought it might make your socks roll up and down.
@@ -5547,7 +5547,7 @@ sg10
 VJOSH
 p1520
 sg12
-g13
+g9
 sa(dp1521
 g6
 VHe's really that bad?
@@ -5558,7 +5558,7 @@ sg10
 VTOBY
 p1523
 sg12
-g13
+g9
 sa(dp1524
 g6
 VYou mean to someone under indictment? It does concentrate the mind, just a little.
@@ -5657,7 +5657,7 @@ sg10
 VJOSH
 p1550
 sg12
-g13
+g9
 sa(dp1551
 g6
 VToo soon?
@@ -5701,7 +5701,7 @@ sg10
 VHELEN
 p1562
 sg12
-g13
+g16
 sa(dp1563
 g6
 VI'm sorry about all this.
@@ -5723,7 +5723,7 @@ sg10
 VHELEN
 p1568
 sg12
-g13
+g9
 sa(dp1569
 g6
 VIn a way.
@@ -5888,7 +5888,7 @@ sg10
 VLEO
 p1613
 sg12
-g13
+g9
 sa(dp1614
 g6
 VYou got a suit picked out? A tie?
@@ -5921,7 +5921,7 @@ sg10
 VJOSH
 p1622
 sg12
-g13
+g9
 sa(dp1623
 g6
 VThanks for saying it at least. Listen, we should move "Rock the Vote" up.
@@ -5965,7 +5965,7 @@ sg10
 VJOSH
 p1634
 sg12
-g13
+g9
 sa(dp1635
 g6
 VWe make lemonade, put them both on: youthful, attractive.
@@ -6009,7 +6009,7 @@ sg10
 VJOSH
 p1646
 sg12
-g13
+g9
 sa(dp1647
 g6
 VThey haven't had anyone like him to vote for since Kennedy.
@@ -6042,7 +6042,7 @@ sg10
 VLEO
 p1655
 sg12
-g13
+g9
 sa(dp1656
 g6
 VLast minute review?
@@ -6097,7 +6097,7 @@ sg10
 VJOSH
 p1670
 sg12
-g13
+g16
 sa(dp1671
 g6
 VThanks for coming by.
@@ -6119,7 +6119,7 @@ sg10
 VJOSH
 p1676
 sg12
-g16
+g13
 sa(dp1677
 g6
 VLeo's going to be better than people think, but you know, it's the message, not the messenger.
@@ -6229,7 +6229,7 @@ sg10
 VJORGE
 p1706
 sg12
-g13
+g9
 sa(dp1707
 g6
 VHey, you made it after all.
@@ -6240,7 +6240,7 @@ sg10
 VSANTOS
 p1709
 sg12
-g13
+g9
 sa(dp1710
 g6
 VHey. I thought I was going to get cavity searched.
@@ -6251,7 +6251,7 @@ sg10
 VJORGE
 p1712
 sg12
-g13
+g9
 sa(dp1713
 g6
 VHe wasn't on the list.
@@ -6262,7 +6262,7 @@ sg10
 VBRAM
 p1715
 sg12
-g13
+g9
 sa(dp1716
 g6
 VStandard operating procedure now.
@@ -6295,7 +6295,7 @@ sg10
 VSANTOS
 p1724
 sg12
-g13
+g9
 sa(dp1725
 g6
 VI'll see what I can do.
@@ -6306,7 +6306,7 @@ sg10
 VBRAM
 p1727
 sg12
-g13
+g9
 sa(dp1728
 g6
 VHelen's back here.
@@ -6416,7 +6416,7 @@ sg10
 VHELEN
 p1757
 sg12
-g13
+g9
 sa(dp1758
 g6
 VWith all due respect, we both know you're not that naive. The option to be left alone took a hit when the Congressman signed on to run and pretty much got obliterated when he won the nomination. It'll be a distant memory when he wins this thing. It might be time for you to start talking about the kind of First Lady you want to be. I'd like to help out with that if you'll let me.
@@ -6504,7 +6504,7 @@ sg10
 VJOSH
 p1781
 sg12
-g13
+g9
 sa(dp1782
 g6
 VHe'll be boring.
@@ -6515,7 +6515,7 @@ sg10
 VLOU
 p1784
 sg12
-g13
+g9
 sa(dp1785
 g6
 VHey, look at me.
@@ -6526,7 +6526,7 @@ sg10
 VANNABETH
 p1787
 sg12
-g13
+g16
 sa(dp1788
 g6
 VGorgeous.
@@ -6614,7 +6614,7 @@ sg10
 VKATE
 p1811
 sg12
-g13
+g16
 sa(dp1812
 g6
 VYou.
@@ -6691,7 +6691,7 @@ sg10
 VWILL
 p1832
 sg12
-g13
+g9
 sa(dp1833
 g6
 VFirst?
@@ -6713,7 +6713,7 @@ sg10
 VWILL
 p1838
 sg12
-g13
+g9
 sa(dp1839
 g6
 VTake out dinner in your office; you must be.
@@ -6735,7 +6735,7 @@ sg10
 VWILL
 p1844
 sg12
-g13
+g16
 sa(dp1845
 g6
 VI never said he was going to giber like a gibbon.
@@ -6757,7 +6757,7 @@ sg10
 VJOSH
 p1850
 sg12
-g13
+g9
 sa(dp1851
 g6
 VOr, you know, not.
@@ -6768,7 +6768,7 @@ sg10
 VJOSH
 p1853
 sg12
-g16
+g13
 sa(dp1854
 g6
 VHe didn't really answer the question.
@@ -6790,7 +6790,7 @@ sg10
 VJOSH
 p1859
 sg12
-g13
+g9
 sa(dp1860
 g6
 VIt doesn't matter.
@@ -6801,7 +6801,7 @@ sg10
 VSHEILA
 p1862
 sg12
-g13
+g9
 sa(dp1863
 g6
 VDamn straight.
@@ -6834,7 +6834,7 @@ sg10
 VLEO
 p1871
 sg12
-g16
+g9
 sa(dp1872
 g6
 VAre you kidding?
@@ -6856,7 +6856,7 @@ sg10
 VLEO
 p1877
 sg12
-g13
+g16
 sa(dp1878
 g6
 VYou gave them a lot to work with.
@@ -6878,7 +6878,7 @@ sg10
 VLEO
 p1883
 sg12
-g13
+g16
 sa(dp1884
 g6
 VAre you coming next door for a drink?
@@ -6922,7 +6922,7 @@ sg10
 VLEO
 p1895
 sg12
-g13
+g9
 sa(dp1896
 g6
 VYou sandbagged.
@@ -6955,7 +6955,7 @@ sg10
 VANNABETH
 p1904
 sg12
-g13
+g9
 sa(dp1905
 g6
 VThe truth?
@@ -6966,7 +6966,7 @@ sg10
 VLEO
 p1907
 sg12
-g13
+g16
 sa(dp1908
 g6
 VYeah.
@@ -6988,7 +6988,7 @@ sg10
 VLEO
 p1913
 sg12
-g13
+g9
 sa(dp1914
 g6
 VOh, come on.
@@ -7032,7 +7032,7 @@ sg10
 VLEO
 p1925
 sg12
-g13
+g9
 sa(dp1926
 g6
 VSo you just called up a bunch of reporters and said "Hey, Leo McGarry here, just letting you know I'm one scary debater.
@@ -7054,7 +7054,7 @@ sg10
 VLEO
 p1931
 sg12
-g13
+g9
 sa(dp1932
 g6
 VWasn't the voice a big tip-off?
@@ -7087,7 +7087,7 @@ sg10
 VANNABETH
 p1940
 sg12
-g13
+g9
 sa(dp1941
 g6
 VNever use your cat's name as your password.
@@ -7175,7 +7175,7 @@ sg10
 VSANTOS
 p1964
 sg12
-g13
+g16
 sa(dp1965
 g6
 VI'll be there.
@@ -7186,7 +7186,7 @@ sg10
 VHELEN
 p1967
 sg12
-g13
+g9
 sa(dp1968
 g6
 VI hear that the hotel's got this water slide.
@@ -7252,7 +7252,7 @@ sg10
 VHELEN
 p1985
 sg12
-g13
+g9
 sa(dp1986
 g6
 VI miss them like crazy.
@@ -7274,7 +7274,7 @@ sg10
 VHELEN
 p1991
 sg12
-g13
+g9
 sa(dp1992
 g6
 VI miss you, too.
@@ -7296,7 +7296,7 @@ sg10
 VHELEN
 p1997
 sg12
-g13
+g9
 sa(dp1998
 g6
 VYeah.

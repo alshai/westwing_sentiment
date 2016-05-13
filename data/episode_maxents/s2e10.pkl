@@ -34,174 +34,174 @@ sg10
 VSTANLEY
 p15
 sg12
-g9
-sa(dp16
+S'negative'
+p16
+sa(dp17
 g6
 VJosh Lyman.
-p17
+p18
 sg8
 g9
 sg10
 VJOSH
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VHi.
-p20
+p21
 sg8
 g9
 sg10
 VKAYTHA
-p21
+p22
 sg12
 g9
-sa(dp22
+sa(dp23
 g6
 VDo I call you doctor?
-p23
+p24
 sg8
 S'positive'
-p24
+p25
 sg10
 VJOSH
-p25
+p26
 sg12
-g24
-sa(dp26
+g9
+sa(dp27
 g6
 VI'm sorry?
-p27
+p28
 sg8
 g9
 sg10
 VSTANLEY
-p28
+p29
 sg12
-g9
-sa(dp29
+g16
+sa(dp30
 g6
 VIs it Dr. Keyworth?
-p30
+p31
 sg8
 g9
 sg10
 VJOSH
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 VOh, whatever you want. You can call me Stanley if you want.
-p33
+p34
 sg8
 g9
 sg10
 VSTANLEY
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 V[to Kaytha] And Dr...? I'm sorry?
-p36
+p37
 sg8
 g9
 sg10
 VJOSH
-p37
+p38
 sg12
-g9
-sa(dp38
+g16
+sa(dp39
 g6
 VTrask. But it's not doctor. I'm not a psychologist.
-p39
+p40
 sg8
-g24
+g25
 sg10
 VKAYTHA
-p40
+p41
 sg12
-g9
-sa(dp41
+g16
+sa(dp42
 g6
 V[as he sits] Kaytha is, uh, training as a traumatologist.
-p42
+p43
 sg8
 g9
 sg10
 VSTANLEY
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VI was wondering why there were two of you.
-p45
+p46
 sg8
 g9
 sg10
 VJOSH
-p46
+p47
 sg12
 g9
-sa(dp47
+sa(dp48
 g6
 VKaytha's training. You don't mind, do you?
-p48
+p49
 sg8
 g9
 sg10
 VSTANLEY
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VNo.
-p51
+p52
 sg8
 g9
 sg10
 VJOSH
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VWhat happened to your hand?
-p54
+p55
 sg8
 g9
 sg10
 VSTANLEY
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 V[sits] I-I uh, I cut it putting down a glass.
-p57
+p58
 sg8
 g9
 sg10
 VJOSH
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VIt broke?
-p60
-sg8
-S'negative'
 p61
+sg8
+g16
 sg10
 VSTANLEY
 p62
 sg12
-g9
+g16
 sa(dp63
 g6
 VYeah.
@@ -218,7 +218,7 @@ g6
 VThe glass broke?
 p67
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p68
@@ -256,7 +256,7 @@ sg10
 VJOSH
 p77
 sg12
-g9
+g16
 sa(dp78
 g6
 VWe're from ATVA.
@@ -306,7 +306,7 @@ g6
 VWe're commonly called in by the government to work with trauma victims. I'll give you some examples. The pipe bomb at Lancaster Middle School. We worked with the parents and the kids...
 p91
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p92
@@ -317,7 +317,7 @@ g6
 V[interrupts] Tulsa, Hurricane Beth, the Chatham fires, the Iowa tornadoes, the FBI raid in Rock Creek.
 p94
 sg8
-g61
+g16
 sg10
 VJOSH
 p95
@@ -328,12 +328,12 @@ g6
 VSo, you are familiar with us?
 p97
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p98
 sg12
-g9
+g25
 sa(dp99
 g6
 VDr. Keyworth, I'm the Deputy White House Chief of Staff. I oversee 1100 White House employees. I answer directly to Leo McGarry and the President of the United States. Do you think you're talking to the paperboy?
@@ -361,7 +361,7 @@ g6
 VIn your wildest dreams did you imagine that I'd walk in this room without knowing exactly who you are and what you do?
 p106
 sg8
-g24
+g25
 sg10
 VJOSH
 p107
@@ -383,12 +383,12 @@ g6
 VThen why did you lie to me right off the bat?
 p112
 sg8
-g61
+g16
 sg10
 VJOSH
 p113
 sg12
-g9
+g16
 sa(dp114
 g6
 VJosh...
@@ -427,7 +427,7 @@ g6
 VI read briefing books everyday on subjects considerably more complicated than ATVA.
 p124
 sg8
-g61
+g16
 sg10
 VJOSH
 p125
@@ -471,7 +471,7 @@ g6
 VThat's not the reason why there are two of you.
 p136
 sg8
-g24
+g25
 sg10
 VJOSH
 p137
@@ -515,7 +515,7 @@ g6
 VStanley, you got off to a bad start.
 p148
 sg8
-g61
+g16
 sg10
 VJOSH
 p149
@@ -531,7 +531,7 @@ sg10
 VSTANLEY
 p152
 sg12
-g24
+g9
 sa(dp153
 g6
 VYes, you did.
@@ -542,7 +542,7 @@ sg10
 VJOSH
 p155
 sg12
-g24
+g9
 sa(dp156
 g6
 VLet's start again.
@@ -559,18 +559,18 @@ g6
 VYou gonna lie to me this time?
 p160
 sg8
-g61
+g16
 sg10
 VJOSH
 p161
 sg12
-g9
+g16
 sa(dp162
 g6
 VNo. You gonna lie to me?
 p163
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p164
@@ -586,7 +586,7 @@ sg10
 VJOSH
 p167
 sg12
-g24
+g9
 sa(dp168
 g6
 VReally?
@@ -729,7 +729,7 @@ sg10
 VSTANLEY
 p206
 sg12
-g9
+g25
 sa(dp207
 g6
 VShe's my assistant.
@@ -773,18 +773,18 @@ sg10
 VSTANLEY
 p218
 sg12
-g9
+g16
 sa(dp219
 g6
 VThe shooting took place at Rosslyn, Virginia, not Rosalyn.
 p220
 sg8
-g61
+g16
 sg10
 VJOSH
 p221
 sg12
-g9
+g16
 sa(dp222
 g6
 VI'm sorry. I'm not from around here.
@@ -795,7 +795,7 @@ sg10
 VSTANLEY
 p224
 sg12
-g9
+g16
 sa(dp225
 g6
 VWhere are you from?
@@ -828,7 +828,7 @@ sg10
 VJOSH
 p233
 sg12
-g9
+g16
 sa(dp234
 g6
 VWas she with you?
@@ -839,7 +839,7 @@ sg10
 VSTANLEY
 p236
 sg12
-g9
+g25
 sa(dp237
 g6
 VDonna?
@@ -883,7 +883,7 @@ sg10
 VSTANLEY
 p248
 sg12
-g24
+g9
 sa(dp249
 g6
 VEverybody was with me. We'd just gone to a Town Hall meeting. We'd just gotten off television.
@@ -894,7 +894,7 @@ sg10
 VJOSH
 p251
 sg12
-g9
+g16
 sa(dp252
 g6
 VWho's everybody?
@@ -916,7 +916,7 @@ sg10
 VJOSH
 p257
 sg12
-g9
+g25
 sa(dp258
 g6
 VWho's...?
@@ -933,7 +933,7 @@ g6
 VIt was geared to young people. There were Department of Education people, event staff, obviously C.J. Cregg and the press corps, Leo McGarry was there, Bob Shanahan, Toby Ziegler, Ziegler's deputy Sam Seaborn, Zoey Bartlet was there obviously, Charlie Young...
 p262
 sg8
-g24
+g25
 sg10
 VJOSH
 p263
@@ -949,7 +949,7 @@ sg10
 VSTANLEY
 p266
 sg12
-g24
+g9
 sa(dp267
 g6
 VJosh, I'm trying to get you to tell me what happened.
@@ -993,7 +993,7 @@ sg10
 VJOSH
 p278
 sg12
-g9
+g16
 sa(dp279
 g6
 VI don't know what I'm referring to either but some of the people you work with became concerned with your behavior three weeks ago.
@@ -1032,7 +1032,7 @@ g6
 VThey were talking about the pilot.
 p289
 sg8
-g24
+g25
 sg10
 VJOSH
 p290
@@ -1043,23 +1043,23 @@ g6
 VThe pilot?
 p292
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p293
 sg12
-g9
+g25
 sa(dp294
 g6
 VRobert Cano, the Air Force pilot.
 p295
 sg8
-g24
+g25
 sg10
 VJOSH
 p296
 sg12
-g9
+g25
 sa(dp297
 g6
 VAnd what about him?
@@ -1081,13 +1081,13 @@ sg10
 VJOSH
 p302
 sg12
-g9
+g16
 sa(dp303
 g6
 VYou just said they were talking about the pilot
 p304
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p305
@@ -1098,7 +1098,7 @@ g6
 VI said they may have been talking about the pilot.
 p307
 sg8
-g24
+g25
 sg10
 VJOSH
 p308
@@ -1131,18 +1131,18 @@ g6
 VBut you mentioned the pilot.
 p316
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p317
 sg12
-g9
+g25
 sa(dp318
 g6
 VI didn't mention the pilot for any specific reason. I was saying there was a lot happening three weeks ago.
 p319
 sg8
-g24
+g25
 sg10
 VJOSH
 p320
@@ -1153,7 +1153,7 @@ g6
 VOkay then let's talk about three weeks ago.
 p322
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p323
@@ -1186,7 +1186,7 @@ g6
 VWhat the hell's going on?
 p331
 sg8
-g61
+g16
 sg10
 VJOSH
 p332
@@ -1235,7 +1235,7 @@ sg10
 VJOSH
 p344
 sg12
-g9
+g16
 sa(dp345
 g6
 V[yelling] A brass quintet... two trumpets, trombone, baritone horn, French horn. Do you like them?
@@ -1301,7 +1301,7 @@ sg10
 VJOSH
 p362
 sg12
-g9
+g16
 sa(dp363
 g6
 VLet me tell you something, the last two Christmases in this White House I've been accused of not being in the proper spirit. I was called names. Not this year! For the next three weeks I will be filling this lobby with music in the mornings and evenings so that we may all experience this season of... [turning to musicians with annoyance] Would you people stop playing for one damn minute!
@@ -1318,12 +1318,12 @@ g6
 VThis season of peace and joy.
 p367
 sg8
-g24
+g25
 sg10
 VTOBY
 p368
 sg12
-g9
+g25
 sa(dp369
 g6
 VOkay.
@@ -1362,12 +1362,12 @@ g6
 VAnd the loose change they collect goes to pay for musical instruments in DC public schools.
 p379
 sg8
-g24
+g25
 sg10
 VTOBY
 p380
 sg12
-g9
+g25
 sa(dp381
 g6
 VToby, Ben Zaharian stepped off the reservation last night.
@@ -1384,7 +1384,7 @@ g6
 VWhat'd he do? [over shoulder] You guys can keep playing.
 p385
 sg8
-g24
+g25
 sg10
 VTOBY
 p386
@@ -1395,7 +1395,7 @@ g6
 VHe was at a Q&A at the NRDC about drilling the North Slope. He was asked if the President would consider tapping into the SPR and he said tapping into the SPR has a lot of merit.
 p388
 sg8
-g24
+g25
 sg10
 VJOSH
 p389
@@ -1422,7 +1422,7 @@ sg10
 VJOSH
 p395
 sg12
-g24
+g25
 sa(dp396
 g6
 VSam!
@@ -1450,7 +1450,7 @@ g6
 VBen Zaharian did a Q&A last night and he was asked a question about the strategic petroleum reserve.
 p403
 sg8
-g24
+g25
 sg10
 VTOBY
 p404
@@ -1461,7 +1461,7 @@ g6
 VAnd he said the SPR's for emergencies like times of war?
 p406
 sg8
-g61
+g16
 sg10
 VSAM
 p407
@@ -1472,18 +1472,18 @@ g6
 VHe said tapping into the SPR has a lot of merit.
 p409
 sg8
-g24
+g25
 sg10
 VTOBY
 p410
 sg12
-g9
+g25
 sa(dp411
 g6
 VI'll talk to a deputy.
 p412
 sg8
-g24
+g25
 sg10
 VSAM
 p413
@@ -1505,7 +1505,7 @@ g6
 V...And expressed his confidence when the IMF and the World Bank meet in Prague next week some of those restrictions will be relaxed.
 p418
 sg8
-g24
+g25
 sg10
 VC.J.
 p419
@@ -1538,7 +1538,7 @@ g6
 VHe sits on the foreign ep sub committee so... Mark.
 p427
 sg8
-g61
+g16
 sg10
 VC.J.
 p428
@@ -1549,7 +1549,7 @@ g6
 VThis is way out of left field but do you know anything about a woman... I don't know how to say this... going a little crazy during a tour.
 p430
 sg8
-g61
+g16
 sg10
 VMARK
 p431
@@ -1571,7 +1571,7 @@ g6
 VYeah, a woman saw a painting and started screaming.
 p436
 sg8
-g61
+g16
 sg10
 VMARK
 p437
@@ -1582,7 +1582,7 @@ g6
 VI don't know Mark. There's a painting of Dolly Madison in the grand foyer. You catch it in the wrong light it can scare the...
 p439
 sg8
-g61
+g16
 sg10
 VC.J.
 p440
@@ -1615,7 +1615,7 @@ g6
 VC.J., last night the energy secretary gave a speech at the Natural Resource Defense Council about the perils of drilling on the North Slope. During a Q&A he was asked about tapping into the Strategic Petroleum Reserve to help ease oil prices. He responded that the idea had a lot of merit. Does this signal a shift in policy since last June?
 p448
 sg8
-g24
+g25
 sg10
 VKATIE
 p449
@@ -1626,12 +1626,12 @@ g6
 VNo, it doesn't, but I will say that a bad idea in June isn't necessarily a bad idea in December.
 p451
 sg8
-g61
+g16
 sg10
 VC.J.
 p452
 sg12
-g9
+g16
 sa(dp453
 g6
 VWhy?
@@ -1648,7 +1648,7 @@ g6
 VYou don't need to lower the price of heating oil during the summer. Thank you everyone.
 p457
 sg8
-g61
+g16
 sg10
 VC.J.
 p458
@@ -1664,7 +1664,7 @@ sg10
 VSAM
 p461
 sg12
-g24
+g25
 sa(dp462
 g6
 VIs somebody going to speak to somebody?
@@ -1681,7 +1681,7 @@ g6
 VI'll talk to a deputy.
 p466
 sg8
-g24
+g25
 sg10
 VSAM
 p467
@@ -1725,7 +1725,7 @@ g6
 VThe woman who went crazy on the tour?
 p478
 sg8
-g61
+g16
 sg10
 VSAM
 p479
@@ -1769,7 +1769,7 @@ g6
 VWhat exactly about the White House tour makes them go crazy?
 p490
 sg8
-g61
+g16
 sg10
 VSAM
 p491
@@ -1780,7 +1780,7 @@ g6
 VThe blue blazers? You're going to talk to someone at the energy department.
 p493
 sg8
-g24
+g25
 sg10
 VC.J.
 p494
@@ -1802,12 +1802,12 @@ g6
 VGood save.
 p499
 sg8
-g24
+g25
 sg10
 VJOSH
 p500
 sg12
-g9
+g25
 sa(dp501
 g6
 VThank you. Where's the President?
@@ -1846,7 +1846,7 @@ g6
 VSomething about a pilot.
 p511
 sg8
-g24
+g25
 sg10
 VJOSH
 p512
@@ -1873,13 +1873,13 @@ sg10
 VBARTLET
 p518
 sg12
-g9
+g16
 sa(dp519
 g6
 VReturning home from an exercise the flight leader visually realized that the tail plane was no longer in formation.
 p520
 sg8
-g24
+g25
 sg10
 VKEN
 p521
@@ -1912,18 +1912,18 @@ g6
 VDid he crash?
 p529
 sg8
-g61
+g16
 sg10
 VBARTLET
 p530
 sg12
-g9
+g16
 sa(dp531
 g6
 VIs there any chance he's trying to contact the ground and can't?
 p532
 sg8
-g24
+g25
 sg10
 VBARTLET
 p533
@@ -1939,24 +1939,24 @@ sg10
 VLEO
 p536
 sg12
-g9
+g16
 sa(dp537
 g6
 VWell he's got a 20mm Vulcan cannon and 7 AIM sidewinder missiles.
 p538
 sg8
-g61
+g16
 sg10
 VKEN
 p539
 sg12
-g9
+g25
 sa(dp540
 g6
 VIs his intention to defect with a military asset or his intention to blow something up?
 p541
 sg8
-g61
+g16
 sg10
 VBARTLET
 p542
@@ -1967,7 +1967,7 @@ g6
 VDon't our fighter pilors have to go through some kind of psychological testing?
 p544
 sg8
-g24
+g25
 sg10
 VBARTLET
 p545
@@ -1978,7 +1978,7 @@ g6
 VOh they go through extensive screening sir. He was deemed psychologically fit to fly.
 p547
 sg8
-g24
+g25
 sg10
 VKEN
 p548
@@ -1989,7 +1989,7 @@ g6
 VLet me ask a ridiculous question and I know the answer is no. Is there any way to bring this plane down without shooting it down?
 p550
 sg8
-g61
+g16
 sg10
 VBARTLET
 p551
@@ -2027,7 +2027,7 @@ sg10
 VKEN
 p560
 sg12
-g9
+g16
 sa(dp561
 g6
 VYeah okay.
@@ -2044,18 +2044,18 @@ g6
 V[very tired] I'm sorry?
 p565
 sg8
-g61
+g16
 sg10
 VJOSH
 p566
 sg12
-g9
+g16
 sa(dp567
 g6
 VThat was the first time you heard about the pilot?
 p568
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p569
@@ -2077,7 +2077,7 @@ g6
 VBut that day was when you first heard out the pilot?
 p574
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p575
@@ -2093,13 +2093,13 @@ sg10
 VJOSH
 p578
 sg12
-g9
+g16
 sa(dp579
 g6
 VHaving to do with the pilot?
 p580
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p581
@@ -2132,7 +2132,7 @@ g6
 VI'm sorry if this question sounds rude but how long will we be here today?
 p589
 sg8
-g24
+g25
 sg10
 VJOSH
 p590
@@ -2148,7 +2148,7 @@ sg10
 VSTANLEY
 p593
 sg12
-g9
+g16
 sa(dp594
 g6
 VI know who asked you here.
@@ -2159,13 +2159,13 @@ sg10
 VJOSH
 p596
 sg12
-g9
+g16
 sa(dp597
 g6
 VThree weeks ago, the pilot.
 p598
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p599
@@ -2187,7 +2187,7 @@ g6
 VWhat was the assignment with the pilot?
 p604
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p605
@@ -2247,13 +2247,13 @@ sg10
 VJOSH
 p620
 sg12
-g9
+g16
 sa(dp621
 g6
 VNinety minutes since he broke formation.
 p622
 sg8
-g61
+g16
 sg10
 VLEO
 p623
@@ -2269,7 +2269,7 @@ sg10
 VJOSH
 p626
 sg12
-g9
+g16
 sa(dp627
 g6
 VI'm amazed News Center 4 doesn't have their traffic helicopter up there right now.
@@ -2280,13 +2280,13 @@ sg10
 VLEO
 p629
 sg12
-g9
+g16
 sa(dp630
 g6
 VAnd how long before we make visual contact?
 p631
 sg8
-g24
+g25
 sg10
 VJOSH
 p632
@@ -2308,7 +2308,7 @@ g6
 VWhat do we know about the pilot?
 p637
 sg8
-g24
+g25
 sg10
 VJOSH
 p638
@@ -2341,7 +2341,7 @@ g6
 VGet the biographical info. How did this guy get through a fairly intense psychological screening process?
 p646
 sg8
-g24
+g25
 sg10
 VLEO
 p647
@@ -2396,7 +2396,7 @@ g6
 VI have the personnel file for the pilot.
 p661
 sg8
-g24
+g25
 sg10
 VDONNA
 p662
@@ -2467,7 +2467,7 @@ sg10
 VDONNA
 p680
 sg12
-g9
+g16
 sa(dp681
 g6
 VOh.
@@ -2506,7 +2506,7 @@ g6
 VYou're a very powerful and a very handsome man.
 p691
 sg8
-g24
+g25
 sg10
 VDONNA
 p692
@@ -2533,7 +2533,7 @@ sg10
 VDONNA
 p698
 sg12
-g9
+g16
 sa(dp699
 g6
 V[sounding annoyed] What do you need?
@@ -2566,7 +2566,7 @@ sg10
 VJOSH
 p707
 sg12
-g24
+g25
 sa(dp708
 g6
 VCongressional.
@@ -2599,7 +2599,7 @@ sg10
 VDONNA
 p716
 sg12
-g9
+g16
 sa(dp717
 g6
 VGive me the file.
@@ -2610,7 +2610,7 @@ sg10
 VJOSH
 p719
 sg12
-g9
+g16
 sa(dp720
 g6
 VCan I come?
@@ -2621,7 +2621,7 @@ sg10
 VDONNA
 p722
 sg12
-g9
+g16
 sa(dp723
 g6
 VTo the Congressional Christmas party?
@@ -2665,7 +2665,7 @@ sg10
 VDONNA
 p734
 sg12
-g9
+g25
 sa(dp735
 g6
 VHmm.
@@ -2693,7 +2693,7 @@ g6
 V[looking over the file] This guy? The pilot?
 p742
 sg8
-g24
+g25
 sg10
 VJOSH
 p743
@@ -2715,7 +2715,7 @@ g6
 VHe's got the same birthday as me. I'll be in here.
 p748
 sg8
-g24
+g25
 sg10
 VJOSH
 p749
@@ -2748,12 +2748,12 @@ g6
 VSo I spoke to Jessie Witt at Energy.
 p757
 sg8
-g61
+g16
 sg10
 VSAM
 p758
 sg12
-g9
+g16
 sa(dp759
 g6
 VYeah.
@@ -2770,7 +2770,7 @@ g6
 VI dressed her down pretty good.
 p763
 sg8
-g24
+g25
 sg10
 VSAM
 p764
@@ -2792,7 +2792,7 @@ g6
 VAnd I told her that, I told her that in no uncertain terms. [looks down at the file]
 p769
 sg8
-g61
+g16
 sg10
 VSAM
 p770
@@ -2808,7 +2808,7 @@ sg10
 VJOSH
 p773
 sg12
-g9
+g16
 sa(dp774
 g6
 VI think we should change our policy.
@@ -2825,7 +2825,7 @@ g6
 VI kind of have to do this thing right now. Can we talk about it later?
 p778
 sg8
-g24
+g25
 sg10
 VJOSH
 p779
@@ -2836,23 +2836,23 @@ g6
 VYeah. [starts to leave]
 p781
 sg8
-g61
+g16
 sg10
 VSAM
 p782
 sg12
-g9
+g16
 sa(dp783
 g6
 V[sits] You know this guy, the pilot?
 p784
 sg8
-g24
+g25
 sg10
 VJOSH
 p785
 sg12
-g9
+g25
 sa(dp786
 g6
 VYeah. [turns]
@@ -2863,24 +2863,24 @@ sg10
 VSAM
 p788
 sg12
-g9
+g25
 sa(dp789
 g6
 VWe have the same birthday.
 p790
 sg8
-g24
+g25
 sg10
 VJOSH
 p791
 sg12
-g9
+g16
 sa(dp792
 g6
 VOkay, well, I'm gonna go talk to Leo about the SPR.
 p793
 sg8
-g24
+g25
 sg10
 VSAM
 p794
@@ -2951,7 +2951,7 @@ sg10
 VC.J.
 p812
 sg12
-g24
+g9
 sa(dp813
 g6
 VI'm not at all well.
@@ -2962,7 +2962,7 @@ sg10
 VBERNARD
 p815
 sg12
-g9
+g16
 sa(dp816
 g6
 VThat's not unusual, is it?
@@ -3012,12 +3012,12 @@ g6
 VWell, you should punish them for that, Bernard.
 p829
 sg8
-g61
+g16
 sg10
 VC.J.
 p830
 sg12
-g9
+g16
 sa(dp831
 g6
 VI've begged my supervisors to allow me.
@@ -3045,7 +3045,7 @@ g6
 VOh, yes. It's all in the report. It wasn't a problem.
 p838
 sg8
-g61
+g16
 sg10
 VBERNARD
 p839
@@ -3100,7 +3100,7 @@ g6
 VIf it was a language at all, its origin was unknown to me. I sent for the agent on duty, who attempted to take a statement, but not speaking whatever language was simply escorted her out of the building.
 p853
 sg8
-g24
+g25
 sg10
 VBERNARD
 p854
@@ -3122,7 +3122,7 @@ g6
 VC.J., your necklace is a monument to bourgeois taste.
 p859
 sg8
-g24
+g25
 sg10
 VBERNARD
 p860
@@ -3138,7 +3138,7 @@ sg10
 VC.J.
 p863
 sg12
-g24
+g9
 sa(dp864
 g6
 VYou're welcome.
@@ -3155,7 +3155,7 @@ g6
 VListen, who is Gustave Callioux, and how long has this painting been hanging outside the Blue Room?
 p868
 sg8
-g61
+g16
 sg10
 VC.J.
 p869
@@ -3166,7 +3166,7 @@ g6
 VCallioux was a contemporary of Courbet, who was considerably more gifted. This is a painting of the cliffs of Etretat, cleverly titled "The Cliffs of Etretat. It is a minor work.
 p871
 sg8
-g24
+g25
 sg10
 VBERNARD
 p872
@@ -3188,7 +3188,7 @@ g6
 VIt was on loan from the Musee d'Orsay to the National Gallery. The President, on a visit to the gallery, and possessing even less taste in fine art than you have in accessories, announced that he liked the painting. The French government offered it as a gift to the White House. [Both stop walking.] I suppose in retribution for EuroDisney. So here it hangs, like a gym sock on a shower rod.
 p877
 sg8
-g24
+g25
 sg10
 VBERNARD
 p878
@@ -3199,7 +3199,7 @@ g6
 VYou're a snob.
 p880
 sg8
-g61
+g16
 sg10
 VC.J.
 p881
@@ -3215,7 +3215,7 @@ sg10
 VBERNARD
 p884
 sg12
-g24
+g25
 sa(dp885
 g6
 VThey're going to know when the F-16's have painted him before I will.
@@ -3237,7 +3237,7 @@ sg10
 VWOMAN
 p890
 sg12
-g24
+g9
 sa(dp891
 g6
 VThank you.
@@ -3248,7 +3248,7 @@ sg10
 VBARTLET
 p893
 sg12
-g24
+g25
 sa(dp894
 g6
 VWhen I was in tenth grade me and my friends took my dad's Ford Country Squire for a joyride to Vermont. He locked me in the garage till Easter.
@@ -3287,7 +3287,7 @@ g6
 V[sadly] No.
 p904
 sg8
-g61
+g16
 sg10
 VBARTLET
 p905
@@ -3298,7 +3298,7 @@ g6
 VMr. President, they've asked me to talk to you about your Christmas cards.
 p907
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p908
@@ -3369,7 +3369,7 @@ sg10
 VCHARLIE
 p926
 sg12
-g9
+g16
 sa(dp927
 g6
 VI don't like the whole idea of the autopen.
@@ -3380,7 +3380,7 @@ sg10
 VBARTLET
 p929
 sg12
-g9
+g16
 sa(dp930
 g6
 VNonetheless.
@@ -3424,7 +3424,7 @@ sg10
 VBARTLET
 p941
 sg12
-g9
+g16
 sa(dp942
 g6
 V1,110,000.
@@ -3452,12 +3452,12 @@ g6
 VYes, sir.
 p949
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p950
 sg12
-g24
+g25
 sa(dp951
 g6
 VI'm sending out 1.1 million Christmas cards? [sits down]
@@ -3474,7 +3474,7 @@ g6
 VIt's a three-tier system, sir. There are about a thousand names on the First Family's list, then there are about a one hundred thousand campaign workers and contributors.
 p955
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p956
@@ -3512,13 +3512,13 @@ sg10
 VBARTLET
 p965
 sg12
-g9
+g16
 sa(dp966
 g6
 VYes, sir. And somewhere around a million people wrote you letters this year.
 p967
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p968
@@ -3529,7 +3529,7 @@ g6
 VOkay, but some of those were death threats.
 p970
 sg8
-g61
+g16
 sg10
 VBARTLET
 p971
@@ -3556,7 +3556,7 @@ sg10
 VBARTLET
 p977
 sg12
-g9
+g16
 sa(dp978
 g6
 VI wouldn't think so.
@@ -3567,7 +3567,7 @@ sg10
 VCHARLIE
 p980
 sg12
-g9
+g16
 sa(dp981
 g6
 VMr. President?
@@ -3595,12 +3595,12 @@ g6
 VYes, sir. [exits]
 p988
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p989
 sg12
-g24
+g25
 sa(dp990
 g6
 V[to Leo] Yeah?
@@ -3644,18 +3644,18 @@ sg10
 VJOSH
 p1001
 sg12
-g9
+g16
 sa(dp1002
 g6
 VThe pilot.
 p1003
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1004
 sg12
-g9
+g25
 sa(dp1005
 g6
 VRobert Cano, yeah. Leo came and told me.
@@ -3666,13 +3666,13 @@ sg10
 VJOSH
 p1007
 sg12
-g9
+g25
 sa(dp1008
 g6
 VWhat had you found out about him?
 p1009
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1010
@@ -3694,7 +3694,7 @@ g6
 VYou were supposed to learn about the pilot and brief the President.
 p1015
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1016
@@ -3705,12 +3705,12 @@ g6
 VI didn't learn anything.
 p1018
 sg8
-g24
+g25
 sg10
 VJOSH
 p1019
 sg12
-g9
+g16
 sa(dp1020
 g6
 VWell, you must have learned something.
@@ -3738,12 +3738,12 @@ g6
 VHow'd he die?
 p1027
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p1028
 sg12
-g9
+g16
 sa(dp1029
 g6
 VCano?
@@ -3776,18 +3776,18 @@ sg10
 VJOSH
 p1037
 sg12
-g9
+g25
 sa(dp1038
 g6
 VNo, I mean, was it 'cause he lost oxygen? Did you have to shoot him down?
 p1039
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p1040
 sg12
-g9
+g16
 sa(dp1041
 g6
 VThis was on the front page of the newspapers.
@@ -3837,7 +3837,7 @@ g6
 VWas the pilot alive when it crashed?
 p1054
 sg8
-g24
+g25
 sg10
 VJOSH
 p1055
@@ -3864,13 +3864,13 @@ sg10
 VJOSH
 p1061
 sg12
-g9
+g16
 sa(dp1062
 g6
 VThere was a radio communication.
 p1063
 sg8
-g24
+g25
 sg10
 VLEO
 p1064
@@ -3881,12 +3881,12 @@ g6
 VFrom the pilot?
 p1066
 sg8
-g24
+g25
 sg10
 VJOSH
 p1067
 sg12
-g9
+g25
 sa(dp1068
 g6
 VYeah.
@@ -4024,7 +4024,7 @@ g6
 VWe had the same birthday.
 p1105
 sg8
-g24
+g25
 sg10
 VJOSH
 p1106
@@ -4068,7 +4068,7 @@ g6
 VHis plane was shot at over Bosnia. It caught fire, he ejected.
 p1117
 sg8
-g61
+g16
 sg10
 VJOSH
 p1118
@@ -4200,12 +4200,12 @@ g6
 VThey're pretty loud.
 p1153
 sg8
-g24
+g25
 sg10
 VJOSH
 p1154
 sg12
-g9
+g25
 sa(dp1155
 g6
 VThe bagpipes?
@@ -4255,7 +4255,7 @@ g6
 VThey money that people toss in their cases will go to buy band uniforms for the St. Mary's Assumption Marching Red Raiders.
 p1168
 sg8
-g24
+g25
 sg10
 VTOBY
 p1169
@@ -4271,7 +4271,7 @@ sg10
 VJOSH
 p1172
 sg12
-g9
+g16
 sa(dp1173
 g6
 VThese guys have a fourteen-song repertoire...
@@ -4282,13 +4282,13 @@ sg10
 VTOBY
 p1175
 sg12
-g61
+g9
 sa(dp1176
 g6
 V[screaming] I can hear the damn sirens all over the building! [long pause] The... bagpipes.
 p1177
 sg8
-g61
+g16
 sg10
 VJOSH
 p1178
@@ -4365,7 +4365,7 @@ g6
 VHe said the Secret Service took a report from a woman who had some kind of an episode on a tour?
 p1198
 sg8
-g24
+g25
 sg10
 VC.J.
 p1199
@@ -4392,7 +4392,7 @@ sg10
 VC.J.
 p1205
 sg12
-g9
+g16
 sa(dp1206
 g6
 VYeah. [leaves]
@@ -4409,7 +4409,7 @@ g6
 VToby, if I get asked the SPR question...
 p1210
 sg8
-g24
+g25
 sg10
 VC.J.
 p1211
@@ -4420,7 +4420,7 @@ g6
 VWould it be possible to hold the noise down out here?!
 p1213
 sg8
-g61
+g16
 sg10
 VJOSH
 p1214
@@ -4453,7 +4453,7 @@ g6
 VIt's like a damn hockey game out here.
 p1222
 sg8
-g61
+g16
 sg10
 VJOSH
 p1223
@@ -4475,12 +4475,12 @@ g6
 VI don't... I'm not really comfortable with that question.
 p1228
 sg8
-g24
+g25
 sg10
 VJOSH
 p1229
 sg12
-g9
+g16
 sa(dp1230
 g6
 VI mean concerned with your behavior.
@@ -4508,7 +4508,7 @@ g6
 VIf you look back to the days following the pilot, do you remember anything unusual about your behavior?
 p1237
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1238
@@ -4557,13 +4557,13 @@ sg10
 VSTANLEY
 p1250
 sg12
-g9
+g16
 sa(dp1251
 g6
 VI think if you want to know what my friends were thinking and why they were thinking it, you should talk to my friends.
 p1252
 sg8
-g24
+g25
 sg10
 VJOSH
 p1253
@@ -4590,7 +4590,7 @@ sg10
 VJOSH
 p1259
 sg12
-g9
+g16
 sa(dp1260
 g6
 VWhat was going on on the 19th?
@@ -4667,7 +4667,7 @@ sg10
 VC.J.
 p1280
 sg12
-g9
+g25
 sa(dp1281
 g6
 VWhat are you doing?
@@ -4689,7 +4689,7 @@ sg10
 VC.J.
 p1286
 sg12
-g9
+g16
 sa(dp1287
 g6
 VWhy is...
@@ -4700,7 +4700,7 @@ sg10
 VJOSH
 p1289
 sg12
-g9
+g25
 sa(dp1290
 g6
 VSomething's strange about this photograph.
@@ -4717,7 +4717,7 @@ g6
 VListen, why is there no more information coming about Robert Cano?
 p1294
 sg8
-g24
+g25
 sg10
 VJOSH
 p1295
@@ -4728,7 +4728,7 @@ g6
 V'Cause there's no new information.
 p1297
 sg8
-g24
+g25
 sg10
 VC.J.
 p1298
@@ -4739,7 +4739,7 @@ g6
 VOkay. [turns to leave the office]
 p1300
 sg8
-g61
+g16
 sg10
 VJOSH
 p1301
@@ -4766,7 +4766,7 @@ sg10
 VJOSH
 p1307
 sg12
-g9
+g25
 sa(dp1308
 g6
 VYeah!
@@ -4783,40 +4783,40 @@ g6
 VA perfectly healthy air force pilot kills himself and nobody's asking why?
 p1312
 sg8
-g24
+g25
 sg10
 VJOSH
 p1313
 sg12
-g9
+g25
 sa(dp1314
 g6
 VA lot of people are asking why, we just don't know why except that he obviously wasn't perfectly healthy anymore!
 p1315
 sg8
-g24
+g25
 sg10
 VC.J.
 p1316
 sg12
-g9
+g16
 sa(dp1317
 g6
 VAll right. [turns to leave again]
 p1318
 sg8
-g61
+g16
 sg10
 VJOSH
 p1319
 sg12
-g9
+g16
 sa(dp1320
 g6
 VHang on. [gets up and shows him the picture] Look at this picture. Does something in this picture look familiar?
 p1321
 sg8
-g24
+g25
 sg10
 VC.J.
 p1322
@@ -4882,18 +4882,18 @@ g6
 VIt looks familiar?
 p1339
 sg8
-g24
+g25
 sg10
 VC.J.
 p1340
 sg12
-g9
+g25
 sa(dp1341
 g6
 VIt's the same one that's hanging outside the Blue Room.
 p1342
 sg8
-g61
+g16
 sg10
 VJOSH
 p1343
@@ -4909,13 +4909,13 @@ sg10
 VC.J.
 p1346
 sg12
-g24
+g25
 sa(dp1347
 g6
 VI need information.
 p1348
 sg8
-g24
+g25
 sg10
 VJOSH
 p1349
@@ -5030,7 +5030,7 @@ sg10
 VSTANLEY
 p1379
 sg12
-g24
+g9
 sa(dp1380
 g6
 VOkay.
@@ -5069,7 +5069,7 @@ g6
 VThe meeting I'm talking about wasn't usual.
 p1390
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1391
@@ -5107,24 +5107,24 @@ sg10
 VJOSH
 p1400
 sg12
-g9
+g16
 sa(dp1401
 g6
 VOPEC will find a way to punish us.
 p1402
 sg8
-g61
+g16
 sg10
 VBARTLET
 p1403
 sg12
-g24
+g25
 sa(dp1404
 g6
 VThe Saudis have announced that they'd welcome the US tapping into the SPR to calm the market. Even the Saudis think that the price is too high.
 p1405
 sg8
-g24
+g25
 sg10
 VSAM
 p1406
@@ -5151,7 +5151,7 @@ sg10
 VSAM
 p1412
 sg12
-g61
+g16
 sa(dp1413
 g6
 VI didn't think so.
@@ -5162,7 +5162,7 @@ sg10
 VBARTLET
 p1415
 sg12
-g9
+g16
 sa(dp1416
 g6
 VIt was Sam's meeting. He wanted the President to get together with his Energy and Economic advisors on the SPR. I was only there for a political perspective.
@@ -5184,7 +5184,7 @@ sg10
 VSTANLEY
 p1421
 sg12
-g9
+g16
 sa(dp1422
 g6
 VThere are only two things that ever stopped the government from doing anything money or politics.
@@ -5201,12 +5201,12 @@ g6
 VSo, you were there to say it was a bad idea politically?
 p1426
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p1427
 sg12
-g9
+g16
 sa(dp1428
 g6
 VYeah.
@@ -5228,7 +5228,7 @@ sg10
 VSTANLEY
 p1433
 sg12
-g24
+g16
 sa(dp1434
 g6
 VYeah.
@@ -5250,7 +5250,7 @@ sg10
 VSTANLEY
 p1439
 sg12
-g24
+g9
 sa(dp1440
 g6
 VI'm paid to say so!
@@ -5289,12 +5289,12 @@ g6
 VI'm a fairly well-educated guy.
 p1450
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1451
 sg12
-g9
+g25
 sa(dp1452
 g6
 VYou need to understand the background.
@@ -5316,7 +5316,7 @@ sg10
 VSTANLEY
 p1457
 sg12
-g9
+g25
 sa(dp1458
 g6
 VTo the President?
@@ -5410,7 +5410,7 @@ g6
 VThere's always lively discussion and the President's informal with his staff, but there's a line you don't cross... Ever. You don't ever cross that line.
 p1483
 sg8
-g61
+g16
 sg10
 VJOSH
 p1484
@@ -5437,7 +5437,7 @@ sg10
 VSAM
 p1490
 sg12
-g9
+g16
 sa(dp1491
 g6
 VYou sold me. We're setting up a meeting. [about to walk out of the office]
@@ -5465,12 +5465,12 @@ g6
 VCan I say I think it's a bad idea?
 p1498
 sg8
-g61
+g16
 sg10
 VJOSH
 p1499
 sg12
-g9
+g16
 sa(dp1500
 g6
 V[stops and turns to Josh] Why?
@@ -5481,7 +5481,7 @@ sg10
 VBARTLET
 p1502
 sg12
-g9
+g16
 sa(dp1503
 g6
 VIt's not something Didion's gonna like.
@@ -5580,7 +5580,7 @@ sg10
 VBARTLET
 p1529
 sg12
-g9
+g16
 sa(dp1530
 g6
 VAnything else?
@@ -5591,7 +5591,7 @@ sg10
 VLEO
 p1532
 sg12
-g9
+g16
 sa(dp1533
 g6
 V[ignoring Leo] Of course they're related.
@@ -5602,7 +5602,7 @@ sg10
 VJOSH
 p1535
 sg12
-g61
+g9
 sa(dp1536
 g6
 VJosh.
@@ -5619,18 +5619,18 @@ g6
 VIf Didion doesn't like that we're tapping into the SPR, he won't let the IMF debt out of committee.
 p1540
 sg8
-g61
+g16
 sg10
 VJOSH
 p1541
 sg12
-g9
+g16
 sa(dp1542
 g6
 VWe'll talk to him tonight.
 p1543
 sg8
-g24
+g25
 sg10
 VBARTLET
 p1544
@@ -5663,7 +5663,7 @@ g6
 V[raises his voice a bit] No, sir, you can't just take him aside...
 p1552
 sg8
-g24
+g25
 sg10
 VJOSH
 p1553
@@ -5707,7 +5707,7 @@ g6
 VWe can't just take him aside! If we tell him we need his help then we give him visibility and power, and we put him in a position to say 'no' and be a hero to his party! Who wouldn't want to do that for a living?
 p1564
 sg8
-g24
+g25
 sg10
 VJOSH
 p1565
@@ -5718,7 +5718,7 @@ g6
 VJosh, Didion's a good guy, we can talk to him.
 p1567
 sg8
-g24
+g25
 sg10
 VBARTLET
 p1568
@@ -5762,7 +5762,7 @@ g6
 VJosh, go wait in my office, would you?
 p1579
 sg8
-g61
+g16
 sg10
 VLEO
 p1580
@@ -5778,7 +5778,7 @@ sg10
 VJOSH
 p1583
 sg12
-g9
+g16
 sa(dp1584
 g6
 VWait in my office.
@@ -5806,7 +5806,7 @@ g6
 VWe'll talk with Didion tonight?
 p1591
 sg8
-g24
+g25
 sg10
 VBARTLET
 p1592
@@ -5828,7 +5828,7 @@ g6
 VBy the way, it's not intervention in a free market if that's what he's worried about.
 p1597
 sg8
-g61
+g16
 sg10
 VBARTLET
 p1598
@@ -5839,18 +5839,18 @@ g6
 VI agree!
 p1600
 sg8
-g24
+g25
 sg10
 VSAM
 p1601
 sg12
-g9
+g25
 sa(dp1602
 g6
 VIt's not free trade if the price of oil is being controlled by a cartel.
 p1603
 sg8
-g61
+g16
 sg10
 VBARTLET
 p1604
@@ -5883,12 +5883,12 @@ g6
 VYes, sir.
 p1612
 sg8
-g24
+g25
 sg10
 VSAM
 p1613
 sg12
-g24
+g25
 sa(dp1614
 g6
 VThank you.
@@ -5899,7 +5899,7 @@ sg10
 VBARTLET
 p1616
 sg12
-g24
+g25
 sa(dp1617
 g6
 VThank you, Mr. President.
@@ -5910,7 +5910,7 @@ sg10
 VSAM
 p1619
 sg12
-g24
+g9
 sa(dp1620
 g6
 VHave you ever heard of ATVA?
@@ -5943,7 +5943,7 @@ sg10
 VLEO
 p1628
 sg12
-g61
+g16
 sa(dp1629
 g6
 VI think I should go back in there.
@@ -5954,7 +5954,7 @@ sg10
 VJOSH
 p1631
 sg12
-g9
+g16
 sa(dp1632
 g6
 VIt's the American Trauma Victims Association.
@@ -5998,7 +5998,7 @@ sg10
 VJOSH
 p1643
 sg12
-g9
+g16
 sa(dp1644
 g6
 VYou're gonna sit with a guy.
@@ -6042,13 +6042,13 @@ sg10
 VJOSH
 p1655
 sg12
-g9
+g16
 sa(dp1656
 g6
 VJosh, I'm not sure you were fully conscious while you were saying it.
 p1657
 sg8
-g24
+g25
 sg10
 VLEO
 p1658
@@ -6059,12 +6059,12 @@ g6
 VWell, thank god for Leo.
 p1660
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1661
 sg12
-g9
+g25
 sa(dp1662
 g6
 VYeah.
@@ -6092,12 +6092,12 @@ g6
 VI'm not sure it was as bad as maybe it was...
 p1669
 sg8
-g61
+g16
 sg10
 VJOSH
 p1670
 sg12
-g61
+g16
 sa(dp1671
 g6
 VIt was.
@@ -6108,7 +6108,7 @@ sg10
 VSTANLEY
 p1673
 sg12
-g9
+g16
 sa(dp1674
 g6
 VStanley, you can ask the questions and you can answer them, but you can't do both at the same time.
@@ -6130,7 +6130,7 @@ sg10
 VSTANLEY
 p1679
 sg12
-g24
+g16
 sa(dp1680
 g6
 VWhy?
@@ -6163,7 +6163,7 @@ sg10
 VJOSH
 p1688
 sg12
-g61
+g9
 sa(dp1689
 g6
 VHow'd you cut your hand?
@@ -6207,7 +6207,7 @@ sg10
 VSTANLEY
 p1700
 sg12
-g24
+g9
 sa(dp1701
 g6
 VStanley, I got home from the thing, I made a drink, I sat down, I pushed the magazine aside to use as a coaster, and I missed the coaster.
@@ -6224,12 +6224,12 @@ g6
 VYou missed the coaster with quite a bit of force.
 p1705
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p1706
 sg12
-g9
+g25
 sa(dp1707
 g6
 VI work out when I can.
@@ -6240,18 +6240,18 @@ sg10
 VJOSH
 p1709
 sg12
-g9
+g16
 sa(dp1710
 g6
 VI swear I am completely unimpressed with clever answers.
 p1711
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1712
 sg12
-g9
+g25
 sa(dp1713
 g6
 VAnd I was so hoping we'd have a second day.
@@ -6262,13 +6262,13 @@ sg10
 VJOSH
 p1715
 sg12
-g9
+g16
 sa(dp1716
 g6
 V[smiles] You're in nine kinds of pain. You don't know what's going on inside of you, and you are so locked into damage control, that you can't...
 p1717
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p1718
@@ -6356,7 +6356,7 @@ g6
 VYou look good, Charlie.
 p1741
 sg8
-g24
+g25
 sg10
 VBARTLET
 p1742
@@ -6367,12 +6367,12 @@ g6
 VI didn't know people dressed like this anymore, sir.
 p1744
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p1745
 sg12
-g9
+g16
 sa(dp1746
 g6
 VI've brought it back.
@@ -6389,18 +6389,18 @@ g6
 VYes, sir.
 p1750
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p1751
 sg12
-g24
+g25
 sa(dp1752
 g6
 VLike Woodrow Wilson and top hats.
 p1753
 sg8
-g24
+g25
 sg10
 VBARTLET
 p1754
@@ -6411,7 +6411,7 @@ g6
 VWe're not gonna wear top hats with this are we, sir?
 p1756
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p1757
@@ -6427,7 +6427,7 @@ sg10
 VBARTLET
 p1760
 sg12
-g24
+g9
 sa(dp1761
 g6
 VGood evening, Mr. President.
@@ -6455,34 +6455,34 @@ g6
 VYes sir.
 p1768
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p1769
 sg12
-g24
+g25
 sa(dp1770
 g6
 VIt's regal.
 p1771
 sg8
-g24
+g25
 sg10
 VBARTLET
 p1772
 sg12
-g9
+g25
 sa(dp1773
 g6
 VYes sir.
 p1774
 sg8
-g24
+g25
 sg10
 VCHARLIE
 p1775
 sg12
-g24
+g25
 sa(dp1776
 g6
 VEagle's moving.
@@ -6504,7 +6504,7 @@ sg10
 VC.J.
 p1781
 sg12
-g9
+g16
 sa(dp1782
 g6
 VC.J., this is Rebecca Haussmann and her son, David.
@@ -6515,18 +6515,18 @@ sg10
 VBERNARD
 p1784
 sg12
-g61
+g25
 sa(dp1785
 g6
 VI'm C.J. Cregg, David. We spoke on the phone.
 p1786
 sg8
-g61
+g16
 sg10
 VC.J.
 p1787
 sg12
-g9
+g16
 sa(dp1788
 g6
 VYes.
@@ -6537,7 +6537,7 @@ sg10
 VDAVID
 p1790
 sg12
-g24
+g25
 sa(dp1791
 g6
 VMrs. Haussmann, I'm C.J. Cregg. I'm the White House Press Secretary. [to David] Does she understand me?
@@ -6559,7 +6559,7 @@ sg10
 VDAVID
 p1796
 sg12
-g61
+g16
 sa(dp1797
 g6
 VThis is your painting. Your father was Augie Haussmann?
@@ -6576,7 +6576,7 @@ g6
 VHe was an art collector, mostly of minor impressionists that nobody really cared that much about. He was a French Jew.
 p1801
 sg8
-g24
+g25
 sg10
 VDAVID
 p1802
@@ -6587,7 +6587,7 @@ g6
 VAnd the Vichy Laws stripped him of his property?
 p1804
 sg8
-g61
+g16
 sg10
 VC.J.
 p1805
@@ -6609,7 +6609,7 @@ g6
 VWell, best as we can tell, the Nazis sold the painting to a Swiss dealer sometime after your grandfather perished at Auschwitz. It made its way to the Musee d'Orsee, and then to the National Gallery, where the President spotted it. We've contacted the French...
 p1810
 sg8
-g61
+g16
 sg10
 VC.J.
 p1811
@@ -6642,7 +6642,7 @@ g6
 VWe'd like you to have our sincere apology, as well as, of course, the painting back.
 p1819
 sg8
-g24
+g25
 sg10
 VC.J.
 p1820
@@ -6653,12 +6653,12 @@ g6
 VWell, you've made an old woman and her son very happy.
 p1822
 sg8
-g24
+g25
 sg10
 VDAVID
 p1823
 sg12
-g24
+g9
 sa(dp1824
 g6
 VDavid, do you happen to know what your grandfather paid for it originally?
@@ -6686,7 +6686,7 @@ g6
 VYes, that's about right. Would you explain to your mother that I had the painting appraised, and it's worth about $400,000 now. You should also tell her that, if she likes, we'd be honored to continue hanging the painting, and the longer we do, the higher it will appreciate.
 p1831
 sg8
-g24
+g25
 sg10
 VBERNARD
 p1832
@@ -6713,7 +6713,7 @@ sg10
 VDAVID
 p1838
 sg12
-g24
+g25
 sa(dp1839
 g6
 VYou see, you try very hard to be mean, but then you see that being nice is better.
@@ -6730,7 +6730,7 @@ g6
 VYou're a freakish little woman.
 p1843
 sg8
-g61
+g16
 sg10
 VBERNARD
 p1844
@@ -6757,7 +6757,7 @@ sg10
 VBERNARD
 p1850
 sg12
-g24
+g25
 sa(dp1851
 g6
 VOh, Josh! Sam said the Didion meeting went well.
@@ -6774,7 +6774,7 @@ g6
 VYeah, we'll support a LIEHEAP subsidy for air-conditioning in the Texas 23rd.
 p1855
 sg8
-g61
+g16
 sg10
 VJOSH
 p1856
@@ -6829,12 +6829,12 @@ g6
 VWhat was the diagnosis?
 p1870
 sg8
-g61
+g16
 sg10
 VJOSH
 p1871
 sg12
-g9
+g16
 sa(dp1872
 g6
 VI'm sorry?
@@ -6845,13 +6845,13 @@ sg10
 VSTANLEY
 p1874
 sg12
-g9
+g16
 sa(dp1875
 g6
 VYou said you diagnosed me in five minutes. What was the diagnosis?
 p1876
 sg8
-g61
+g16
 sg10
 VJOSH
 p1877
@@ -6873,7 +6873,7 @@ g6
 VWell, that doesn't really sound like something they let you have if you work for the President. Can we have it be something else? Seriously, I-I think you might be wrong about that. I-I'm not tryin' to be difficult.
 p1882
 sg8
-g61
+g16
 sg10
 VJOSH
 p1883
@@ -6889,7 +6889,7 @@ sg10
 VSTANLEY
 p1886
 sg12
-g9
+g16
 sa(dp1887
 g6
 VI know that I-I'm givin' you cocky answers, I that should be...
@@ -6900,7 +6900,7 @@ sg10
 VJOSH
 p1889
 sg12
-g9
+g16
 sa(dp1890
 g6
 VListen...
@@ -6917,7 +6917,7 @@ g6
 VI know that you want me to talk about my feelings.
 p1894
 sg8
-g24
+g25
 sg10
 VJOSH
 p1895
@@ -6928,7 +6928,7 @@ g6
 VNo I don't, Josh. The last thing I want you to do is talk about your feelings. I think if you heard a tape recording of this day, you wouldn't hear the word 'feelings.' What we need to be able to get you to do is to remember the shooting without reliving it. And you have been reliving it.
 p1897
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p1898
@@ -6988,7 +6988,7 @@ sg10
 VJOSH
 p1913
 sg12
-g9
+g16
 sa(dp1914
 g6
 VJosh?
@@ -7032,7 +7032,7 @@ sg10
 VJOSH
 p1925
 sg12
-g61
+g16
 sa(dp1926
 g6
 VDid he play it well?
@@ -7076,7 +7076,7 @@ sg10
 VJOSH
 p1937
 sg12
-g9
+g16
 sa(dp1938
 g6
 VI don't know.
@@ -7087,7 +7087,7 @@ sg10
 VJOSH
 p1940
 sg12
-g9
+g16
 sa(dp1941
 g6
 VYes, you do.
@@ -7098,7 +7098,7 @@ sg10
 VSTANLEY
 p1943
 sg12
-g24
+g25
 sa(dp1944
 g6
 VI was just sitting there.
@@ -7109,7 +7109,7 @@ sg10
 VJOSH
 p1946
 sg12
-g9
+g16
 sa(dp1947
 g6
 VAnd then what happened?
@@ -7131,7 +7131,7 @@ sg10
 VJOSH
 p1952
 sg12
-g9
+g16
 sa(dp1953
 g6
 VAre you in the fourth grade?
@@ -7186,7 +7186,7 @@ sg10
 VJOSH
 p1967
 sg12
-g9
+g16
 sa(dp1968
 g6
 VI couldn't make it stop.
@@ -7197,13 +7197,13 @@ sg10
 VJOSH
 p1970
 sg12
-g9
+g16
 sa(dp1971
 g6
 VNo you couldn't, Josh, but you've been trying for weeks and that's why you feel sick inside.
 p1972
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p1973
@@ -7285,13 +7285,13 @@ sg10
 VSTANLEY
 p1994
 sg12
-g24
+g9
 sa(dp1995
 g6
 V[in his head, he sees the action.] I-I pushed the magazine aside as a coaster...
 p1996
 sg8
-g24
+g25
 sg10
 VJOSH
 p1997
@@ -7302,7 +7302,7 @@ g6
 V...that when the Pilot committed suicide... Can you honestly tell me that you didn't wonder if you were suicidal too?
 p1999
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2000
@@ -7318,18 +7318,18 @@ sg10
 VJOSH
 p2003
 sg12
-g9
+g16
 sa(dp2004
 g6
 VYou're lying.
 p2005
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2006
 sg12
-g9
+g16
 sa(dp2007
 g6
 VI didn't wonder that.
@@ -7340,7 +7340,7 @@ sg10
 VJOSH
 p2009
 sg12
-g9
+g16
 sa(dp2010
 g6
 VEverything that the two of you had in common...
@@ -7368,7 +7368,7 @@ g6
 VYou know you had the same birthday...
 p2017
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p2018
@@ -7412,7 +7412,7 @@ g6
 VYou knew he has been shot down once, that his plane had caught on fire, that he had ejected, and that there were some injuries.
 p2029
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2030
@@ -7472,7 +7472,7 @@ sg10
 VSTANLEY
 p2045
 sg12
-g9
+g16
 sa(dp2046
 g6
 VOkay then?
@@ -7483,7 +7483,7 @@ sg10
 VJOSH
 p2048
 sg12
-g9
+g16
 sa(dp2049
 g6
 V[nods] That's that.
@@ -7505,13 +7505,13 @@ sg10
 VJOSH
 p2054
 sg12
-g9
+g16
 sa(dp2055
 g6
 V[humoring him] Yeah, Josh. You're cured. No problem.
 p2056
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2057
@@ -7533,12 +7533,12 @@ g6
 VI'm gonna recommend a therapist you'll like.
 p2062
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p2063
 sg12
-g9
+g16
 sa(dp2064
 g6
 VI like you!
@@ -7555,7 +7555,7 @@ g6
 VYou're to easy a case for me.
 p2068
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2069
@@ -7566,7 +7566,7 @@ g6
 VI broke a window!
 p2071
 sg8
-g61
+g16
 sg10
 VJOSH
 p2072
@@ -7577,7 +7577,7 @@ g6
 VYeah. Stop doing that. I want to commend you on not hurting anybody else and not hurting yourself too badly, but nevertheless, stop doing that. [gets up from the chair]
 p2074
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2075
@@ -7588,12 +7588,12 @@ g6
 VAnd... that'll do the trick?
 p2077
 sg8
-g61
+g16
 sg10
 VJOSH
 p2078
 sg12
-g9
+g16
 sa(dp2079
 g6
 VYup.
@@ -7637,13 +7637,13 @@ sg10
 VKAYTHA
 p2090
 sg12
-g24
+g9
 sa(dp2091
 g6
 VHang on! What happens if tomorrow some pilot with my birthday decides to kill himself?
 p2092
 sg8
-g24
+g25
 sg10
 VJOSH
 p2093
@@ -7659,7 +7659,7 @@ sg10
 VSTANLEY
 p2096
 sg12
-g9
+g16
 sa(dp2097
 g6
 VWhat started it?
@@ -7676,7 +7676,7 @@ g6
 VYou were already cooking for a few hours before the pilot.
 p2101
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p2102
@@ -7692,13 +7692,13 @@ sg10
 VJOSH
 p2105
 sg12
-g9
+g16
 sa(dp2106
 g6
 VUsually with a gunshot victim it's a car backfiring, or a twig snapping, but that's not what it was with you.
 p2107
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2108
@@ -7731,12 +7731,12 @@ g6
 VThe music.
 p2116
 sg8
-g24
+g25
 sg10
 VKAYTHA
 p2117
 sg12
-g9
+g25
 sa(dp2118
 g6
 VThe brass quintet.
@@ -7753,7 +7753,7 @@ g6
 VWhy would the music have started it?
 p2122
 sg8
-g24
+g25
 sg10
 VJOSH
 p2123
@@ -7764,7 +7764,7 @@ g6
 VWell, I know it's gonna sound like I'm telling you that two plus two equals a bushel of potatoes, but at this moment, in your head, music is the same thing as...
 p2125
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p2126
@@ -7780,7 +7780,7 @@ sg10
 VJOSH
 p2129
 sg12
-g9
+g16
 sa(dp2130
 g6
 V[nods] Yeah. [puts on his coat]
@@ -7797,7 +7797,7 @@ g6
 VSo that's gonna be my reaction every time I hear music?
 p2134
 sg8
-g24
+g25
 sg10
 VJOSH
 p2135
@@ -7824,18 +7824,18 @@ sg10
 VJOSH
 p2141
 sg12
-g9
+g16
 sa(dp2142
 g6
 VBecause we get better. [starts to leave]
 p2143
 sg8
-g61
+g16
 sg10
 VSTANLEY
 p2144
 sg12
-g9
+g16
 sa(dp2145
 g6
 VAll the same, I need some more therapy!
@@ -7896,7 +7896,7 @@ g6
 V[laughs] Have a good night!
 p2161
 sg8
-g24
+g25
 sg10
 VSTANLEY
 p2162
@@ -7934,24 +7934,24 @@ sg10
 VLEO
 p2171
 sg12
-g9
+g16
 sa(dp2172
 g6
 V[turns] Did you wait around for me?
 p2173
 sg8
-g61
+g16
 sg10
 VJOSH
 p2174
 sg12
-g9
+g16
 sa(dp2175
 g6
 VHe thinks I may have an eating disorder.
 p2176
 sg8
-g61
+g16
 sg10
 VJOSH
 p2177
@@ -7973,7 +7973,7 @@ g6
 VAnd a fear of rectangles. That's not weird, is it? [pause] I didn't cut my hand on a glass. I broke a window in my apartment.
 p2182
 sg8
-g61
+g16
 sg10
 VJOSH
 p2183
@@ -7984,7 +7984,7 @@ g6
 VThis guy's walking down a street, when he falls in a hole. The walls are so steep. He can't get out. A doctor passes by, and the guy shouts up "Hey you! Can you help me out?" The doctor writes him a prescription, throws it down the hole and moves on. Then a priest comes along and the guy shouts up "Father, I'm down in this hole, can you help me out?" The priest writes out a prayer, throws it down in the hole and moves on. Then a friend walks by. "Hey Joe, it's me, can you help me out?" And the friend jumps in the hole! Our guy says "Are you stupid? Now we're both down here!" and the friend says, "Yeah, but I've been down here before, and I know the way out."
 p2185
 sg8
-g24
+g25
 sg10
 VLEO
 p2186
@@ -8000,7 +8000,7 @@ sg10
 VJOSH
 p2189
 sg12
-g9
+g25
 sa(dp2190
 g6
 VYeah.
@@ -8028,7 +8028,7 @@ g6
 VOkay. Donna's gonna take you to the emergency room.
 p2197
 sg8
-g61
+g16
 sg10
 VLEO
 p2198
@@ -8044,7 +8044,7 @@ sg10
 VJOSH
 p2201
 sg12
-g9
+g25
 sa(dp2202
 g6
 VShe was the one who guessed.
@@ -8061,12 +8061,12 @@ g6
 VI don't need the emergency room.
 p2206
 sg8
-g61
+g16
 sg10
 VJOSH
 p2207
 sg12
-g9
+g16
 sa(dp2208
 g6
 VCome on, it could be infected, you could have a thing.
@@ -8077,7 +8077,7 @@ sg10
 VLEO
 p2210
 sg12
-g9
+g16
 sa(dp2211
 g6
 VWhat thing?
@@ -8094,12 +8094,12 @@ g6
 VHow the hell do I know?
 p2215
 sg8
-g61
+g16
 sg10
 VLEO
 p2216
 sg12
-g9
+g16
 sa(dp2217
 g6
 VLeo...
@@ -8132,7 +8132,7 @@ sg10
 VJOSH
 p2225
 sg12
-g9
+g25
 sa(dp2226
 g6
 VOkay.
@@ -8149,7 +8149,7 @@ g6
 VI don't need a doctor.
 p2230
 sg8
-g24
+g25
 sg10
 VJOSH
 p2231
@@ -8160,12 +8160,12 @@ g6
 VAre you a doctor?
 p2233
 sg8
-g24
+g25
 sg10
 VDONNA
 p2234
 sg12
-g9
+g25
 sa(dp2235
 g6
 VNo.
@@ -8182,12 +8182,12 @@ g6
 VThen be quiet.
 p2239
 sg8
-g24
+g25
 sg10
 VDONNA
 p2240
 sg12
-g9
+g25
 sa(dp2241
 g6
 VJosh?

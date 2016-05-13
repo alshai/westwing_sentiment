@@ -102,7 +102,7 @@ sg10
 VBARTLET
 p35
 sg12
-g9
+g34
 sa(dp36
 g6
 VIt's vegetables that grow underground. He told her she was coming out here to find out if Americans were eating more beats.
@@ -410,7 +410,7 @@ sg10
 VBARTLET
 p119
 sg12
-g9
+g30
 sa(dp120
 g6
 VMr. President, you remember Joey Lucas?
@@ -454,7 +454,7 @@ sg10
 VLEO
 p131
 sg12
-g9
+g30
 sa(dp132
 g6
 VNo, sir.
@@ -509,7 +509,7 @@ sg10
 VBARTLET
 p146
 sg12
-g34
+g9
 sa(dp147
 g6
 VJosh?
@@ -553,7 +553,7 @@ sg10
 VC.J.
 p158
 sg12
-g9
+g34
 sa(dp159
 g6
 VThey may be right.
@@ -619,7 +619,7 @@ sg10
 VROBBIE
 p176
 sg12
-g9
+g30
 sa(dp177
 g6
 VAnd the OAS?
@@ -696,7 +696,7 @@ sg10
 VROBBIE
 p197
 sg12
-g9
+g30
 sa(dp198
 g6
 VMost troubling are personnel carriers with Haitian troops parked in front of virtually every police station in Port-au-Prince. This is a sign that the army plans to take power from the Gendarme Nationale.
@@ -751,7 +751,7 @@ sg10
 VBARTLET
 p212
 sg12
-g9
+g34
 sa(dp213
 g6
 VJake, what the hell do you mean you can't find...
@@ -795,7 +795,7 @@ sg10
 VROBBIE
 p224
 sg12
-g9
+g34
 sa(dp225
 g6
 VLeo.
@@ -850,7 +850,7 @@ sg10
 VMEN
 p239
 sg12
-g30
+g9
 sa(dp240
 g6
 VSaggitarius.
@@ -883,7 +883,7 @@ sg10
 VC.J.
 p248
 sg12
-g9
+g34
 sa(dp249
 g6
 VIt's not too cold!
@@ -938,7 +938,7 @@ sg10
 VSAM
 p263
 sg12
-g9
+g30
 sa(dp264
 g6
 VWe'll do a 30-minute live special from one of the news magazines.
@@ -1092,7 +1092,7 @@ sg10
 VC.J.
 p305
 sg12
-g9
+g30
 sa(dp306
 g6
 VWhy?
@@ -1158,7 +1158,7 @@ sg10
 VC.J.
 p323
 sg12
-g9
+g30
 sa(dp324
 g6
 VSo, we're gonna need an answer to that too.
@@ -1180,7 +1180,7 @@ sg10
 VCHARLIE
 p329
 sg12
-g30
+g9
 sa(dp330
 g6
 VSix speakers?
@@ -1367,7 +1367,7 @@ sg10
 VCHARLIE
 p380
 sg12
-g9
+g30
 sa(dp381
 g6
 VMargaret!
@@ -1422,7 +1422,7 @@ sg10
 VJOSH
 p395
 sg12
-g34
+g9
 sa(dp396
 g6
 VHe's right here.
@@ -1444,7 +1444,7 @@ sg10
 VLEO
 p401
 sg12
-g9
+g34
 sa(dp402
 g6
 V[to Josh] This report is staggering.
@@ -1466,7 +1466,7 @@ sg10
 VJOSH
 p407
 sg12
-g9
+g34
 sa(dp408
 g6
 VJustice has 31 lawyers and staff. Tobacco has 1,893 lawyers and 2,783 paralegals. This is no typo, right?
@@ -1477,7 +1477,7 @@ sg10
 VLEO
 p410
 sg12
-g9
+g30
 sa(dp411
 g6
 VNo.
@@ -1554,7 +1554,7 @@ sg10
 VJOSH
 p431
 sg12
-g9
+g34
 sa(dp432
 g6
 VTalk to him. Find out what the problem is.
@@ -1576,7 +1576,7 @@ sg10
 VJOSH
 p437
 sg12
-g9
+g34
 sa(dp438
 g6
 V[gets up] Josh? How's it going downstairs?
@@ -1675,7 +1675,7 @@ sg10
 VJOSH
 p464
 sg12
-g9
+g30
 sa(dp465
 g6
 VExcuse me. [walks out]
@@ -1686,7 +1686,7 @@ sg10
 VLEO
 p467
 sg12
-g9
+g34
 sa(dp468
 g6
 VWhat?
@@ -1741,7 +1741,7 @@ sg10
 VBARTLET
 p482
 sg12
-g9
+g34
 sa(dp483
 g6
 VHe went down for the inauguration, and he may well have Dessalines in the trunk of his car.
@@ -1928,7 +1928,7 @@ sg10
 VTOBY
 p533
 sg12
-g9
+g34
 sa(dp534
 g6
 VAt the press conference?
@@ -1950,7 +1950,7 @@ sg10
 VTOBY
 p539
 sg12
-g9
+g34
 sa(dp540
 g6
 VThere's never been a more important time to emphasize the Vice Presidency.
@@ -1983,7 +1983,7 @@ sg10
 VSAM
 p548
 sg12
-g9
+g30
 sa(dp549
 g6
 VBut it'll also serve to underscore that he anticipated the problem and didn't tell anybody about it.
@@ -1994,7 +1994,7 @@ sg10
 VC.J.
 p551
 sg12
-g9
+g34
 sa(dp552
 g6
 VHoynes was one of the first people to know. If he's there it's a breathing demonstration that he signed off on the president's health and joined the ticket.
@@ -2038,7 +2038,7 @@ sg10
 VC.J.
 p563
 sg12
-g9
+g34
 sa(dp564
 g6
 VThere's a situation developing in Port-Au-Prince, I have to get ready to brief. [exits]
@@ -2060,7 +2060,7 @@ sg10
 VTOBY
 p569
 sg12
-g9
+g30
 sa(dp570
 g6
 VI'm not a medical expert.
@@ -2082,7 +2082,7 @@ sg10
 VTOBY
 p575
 sg12
-g9
+g30
 sa(dp576
 g6
 VToby, there is a responsibility and the future and an obligation to the party, and if he is not gonna run, then he's gotta point to Hoynes and say, 'This is our guy.'
@@ -2115,7 +2115,7 @@ sg10
 VSAM
 p584
 sg12
-g9
+g30
 sa(dp585
 g6
 VWhat if he says, 'I'm not a medical expert'?
@@ -2170,7 +2170,7 @@ sg10
 VRITTER
 p599
 sg12
-g9
+g34
 sa(dp600
 g6
 VYou may be right, but Haiti's actually not what I wanted to talk to you about.
@@ -2214,7 +2214,7 @@ sg10
 VRITTER
 p611
 sg12
-g9
+g34
 sa(dp612
 g6
 VHas the chairman scheduled a vote?
@@ -2225,7 +2225,7 @@ sg10
 VJOSH
 p614
 sg12
-g9
+g30
 sa(dp615
 g6
 VHe's not gonna.
@@ -2236,7 +2236,7 @@ sg10
 VRITTER
 p617
 sg12
-g9
+g34
 sa(dp618
 g6
 VHe's not gonna schedule a vote?
@@ -2247,7 +2247,7 @@ sg10
 VJOSH
 p620
 sg12
-g9
+g34
 sa(dp621
 g6
 VKalmbach's gonna dance with the girl that brung him.
@@ -2258,7 +2258,7 @@ sg10
 VRITTER
 p623
 sg12
-g9
+g30
 sa(dp624
 g6
 VHow much tobacco money has he taken?
@@ -2335,7 +2335,7 @@ sg10
 VJOSH
 p644
 sg12
-g9
+g34
 sa(dp645
 g6
 VNo, believe it or not. We've got two Republicans, they've got two Democrats
@@ -2368,7 +2368,7 @@ sg10
 VRITTER
 p653
 sg12
-g9
+g30
 sa(dp654
 g6
 VWarren and Rossitter aren't even from the South.
@@ -2379,7 +2379,7 @@ sg10
 VJOSH
 p656
 sg12
-g9
+g34
 sa(dp657
 g6
 VThey have ideological problems with the case.
@@ -2401,7 +2401,7 @@ sg10
 VJOSH
 p662
 sg12
-g9
+g34
 sa(dp663
 g6
 VWe were wondering when you guys were going to notice.
@@ -2610,7 +2610,7 @@ sg10
 VCHARLIE
 p719
 sg12
-g9
+g34
 sa(dp720
 g6
 VThat's right.
@@ -2632,7 +2632,7 @@ sg10
 VCHARLIE
 p725
 sg12
-g9
+g30
 sa(dp726
 g6
 VNeither have I, and I was hoping you'd take me. I'd be sitting there fishing and listening to the Orioles on a transistor radio.
@@ -2654,7 +2654,7 @@ sg10
 VCHARLIE
 p731
 sg12
-g9
+g34
 sa(dp732
 g6
 VCan you tell me how much you paid below sticker?
@@ -2687,7 +2687,7 @@ sg10
 VCHARLIE
 p740
 sg12
-g9
+g34
 sa(dp741
 g6
 VNo, seriously, you paid sticker price?
@@ -2698,7 +2698,7 @@ sg10
 VCHARLIE
 p743
 sg12
-g30
+g34
 sa(dp744
 g6
 VWhy?
@@ -2775,7 +2775,7 @@ sg10
 VCHARLIE
 p764
 sg12
-g9
+g34
 sa(dp765
 g6
 VThat's what happens when you buy a car.
@@ -2797,7 +2797,7 @@ sg10
 VC.J.
 p770
 sg12
-g9
+g34
 sa(dp771
 g6
 VHe's in the Situation Room.
@@ -2841,7 +2841,7 @@ sg10
 VMAN
 p782
 sg12
-g9
+g34
 sa(dp783
 g6
 VWell how many are they estimating?
@@ -2885,7 +2885,7 @@ sg10
 VMAN
 p794
 sg12
-g9
+g30
 sa(dp795
 g6
 VYou guys need some adult supervision?
@@ -2995,7 +2995,7 @@ sg10
 VNANCY
 p824
 sg12
-g9
+g30
 sa(dp825
 g6
 VWhat happens when the first shot is fired?
@@ -3017,7 +3017,7 @@ sg10
 VNANCY
 p830
 sg12
-g9
+g34
 sa(dp831
 g6
 VYes, ma'am.
@@ -3182,7 +3182,7 @@ sg10
 VC.J.
 p875
 sg12
-g9
+g34
 sa(dp876
 g6
 VYou're not taking me there, Mark.
@@ -3204,7 +3204,7 @@ sg10
 VSTEVE
 p881
 sg12
-g9
+g30
 sa(dp882
 g6
 VIt should be clear that we're talking about two separate issues: one is a democratically- elected president whose people are being denied their leader by an armed militia, the other is the lives of the Americans in the embassy and the American marines who are guarding them.
@@ -3270,7 +3270,7 @@ sg10
 VC.J.
 p899
 sg12
-g9
+g30
 sa(dp900
 g6
 VYou look pretty tired.
@@ -3281,7 +3281,7 @@ sg10
 VCAROL
 p902
 sg12
-g9
+g30
 sa(dp903
 g6
 VThat's what you're saying to me?
@@ -3314,7 +3314,7 @@ sg10
 VHACKETT
 p911
 sg12
-g9
+g34
 sa(dp912
 g6
 VPaul.
@@ -3336,7 +3336,7 @@ sg10
 VHACKET
 p917
 sg12
-g9
+g30
 sa(dp918
 g6
 VBonnie, thank you. Would you step outside the door and knock if anybody wants to come in?
@@ -3358,7 +3358,7 @@ sg10
 VBONNIE
 p923
 sg12
-g9
+g34
 sa(dp924
 g6
 V[as they both sit down] She took me in through the basement.
@@ -3446,7 +3446,7 @@ sg10
 VC.J.
 p947
 sg12
-g9
+g34
 sa(dp948
 g6
 VWhat is it?
@@ -3468,7 +3468,7 @@ sg10
 VC.J.
 p953
 sg12
-g30
+g9
 sa(dp954
 g6
 VWhat am I supposed to tell my news director?
@@ -3721,7 +3721,7 @@ sg10
 VWARREN
 p1022
 sg12
-g9
+g34
 sa(dp1023
 g6
 VYeah.
@@ -3754,7 +3754,7 @@ sg10
 VROSSITTER
 p1031
 sg12
-g9
+g34
 sa(dp1032
 g6
 VHowever, we are both former US Attorneys and it's the suit itself we find troublesome.
@@ -3897,7 +3897,7 @@ sg10
 VGUARD
 p1070
 sg12
-g9
+g30
 sa(dp1071
 g6
 VSagittarius.
@@ -3919,7 +3919,7 @@ sg10
 VSAM
 p1076
 sg12
-g9
+g30
 sa(dp1077
 g6
 VWhat do we use this place for, when we're not using it for this?
@@ -3963,7 +3963,7 @@ sg10
 VSAM
 p1088
 sg12
-g9
+g34
 sa(dp1089
 g6
 VWould you like to sit down? [sits]
@@ -4029,7 +4029,7 @@ sg10
 VABBEY
 p1106
 sg12
-g34
+g30
 sa(dp1107
 g6
 V'Cause if they don't, they'll lose the story.
@@ -4183,7 +4183,7 @@ sg10
 VABBEY
 p1148
 sg12
-g9
+g30
 sa(dp1149
 g6
 VMrs. Bartlet...
@@ -4216,7 +4216,7 @@ sg10
 VSAM
 p1157
 sg12
-g9
+g30
 sa(dp1158
 g6
 VWhy aren't the President and I doing this together?
@@ -4227,7 +4227,7 @@ sg10
 VABBEY
 p1160
 sg12
-g9
+g34
 sa(dp1161
 g6
 VI'm sorry?
@@ -4238,7 +4238,7 @@ sg10
 VSAM
 p1163
 sg12
-g9
+g34
 sa(dp1164
 g6
 VSomebody's doing this with the President, and I was asking, why we're not doing it at the same time. Is it so you can compare our stories?
@@ -4590,7 +4590,7 @@ sg10
 VLEO
 p1259
 sg12
-g34
+g9
 sa(dp1260
 g6
 VWho are we using?
@@ -4667,7 +4667,7 @@ sg10
 VBARTLET
 p1280
 sg12
-g9
+g34
 sa(dp1281
 g6
 VMargaret, get me the Secretary of State.
@@ -4711,7 +4711,7 @@ sg10
 VBARTLET
 p1292
 sg12
-g9
+g34
 sa(dp1293
 g6
 VNot when there are so many new mistakes we can make.
@@ -4777,7 +4777,7 @@ sg10
 VBARTLET
 p1310
 sg12
-g30
+g9
 sa(dp1311
 g6
 VYou need to look at the next page - subsection B, paragraph four, Mamie Yokum.
@@ -4799,7 +4799,7 @@ sg10
 VBARTLET
 p1316
 sg12
-g9
+g34
 sa(dp1317
 g6
 V[reading] "The definition of 'gift' excludes opportunities and benefits including favorable rates and commercial discounts available to the public at large."
@@ -4821,7 +4821,7 @@ sg10
 VBARTLET
 p1322
 sg12
-g9
+g34
 sa(dp1323
 g6
 V[removes glasses] Is the reason you didn't tell me you were getting a new car... you...? Did you think I was gonna think it was an extravagance?
@@ -4832,7 +4832,7 @@ sg10
 VBARTLET
 p1325
 sg12
-g30
+g9
 sa(dp1326
 g6
 VYou don't think I think you should have a new car? [pause] Delores, have you ever had a new car?
@@ -4865,7 +4865,7 @@ sg10
 VBARTLET
 p1334
 sg12
-g30
+g9
 sa(dp1335
 g6
 VSmell?
@@ -4887,7 +4887,7 @@ sg10
 VBARTLET
 p1340
 sg12
-g9
+g30
 sa(dp1341
 g6
 VWhen are you picking it up?
@@ -4986,7 +4986,7 @@ sg10
 VABBEY
 p1367
 sg12
-g9
+g30
 sa(dp1368
 g6
 V[smiling slightly] What a dumb major you had.
@@ -4997,7 +4997,7 @@ sg10
 VSAM
 p1370
 sg12
-g9
+g30
 sa(dp1371
 g6
 VGood evening.
@@ -5008,7 +5008,7 @@ sg10
 VOLIVER
 p1373
 sg12
-g9
+g30
 sa(dp1374
 g6
 V[lightly] Ah, Oliver...Do you know what peripheral neuropathy indicates?
@@ -5063,7 +5063,7 @@ sg10
 VOLIVER
 p1388
 sg12
-g9
+g30
 sa(dp1389
 g6
 VSure.
@@ -5074,7 +5074,7 @@ sg10
 VSAM
 p1391
 sg12
-g9
+g34
 sa(dp1392
 g6
 VMrs. Bartlet, I want to talk to you about...
@@ -5129,7 +5129,7 @@ sg10
 VABBEY
 p1406
 sg12
-g9
+g34
 sa(dp1407
 g6
 VPat's a family lawyer. I want you to get someone for this. I'll give you eight names. You, Pat, and the President whittle it down to three. I'll pick the one.
@@ -5184,7 +5184,7 @@ sg10
 VOLIVER
 p1421
 sg12
-g30
+g34
 sa(dp1422
 g6
 VSam said they're not gonna get into issues of legality.
@@ -5206,7 +5206,7 @@ sg10
 VOLIVER
 p1427
 sg12
-g9
+g34
 sa(dp1428
 g6
 V[leans forward] Oliver...
@@ -5217,7 +5217,7 @@ sg10
 VABBEY
 p1430
 sg12
-g9
+g30
 sa(dp1431
 g6
 VHerman Vikram was the original specialist, right?
@@ -5316,7 +5316,7 @@ sg10
 VOLIVER
 p1457
 sg12
-g9
+g34
 sa(dp1458
 g6
 VIt was in consultation with Vikram.
@@ -5349,7 +5349,7 @@ sg10
 VABBEY
 p1466
 sg12
-g9
+g34
 sa(dp1467
 g6
 VSo you wrote the prescriptions to yourself and then had them filled where?
@@ -5404,7 +5404,7 @@ sg10
 VOLIVER
 p1481
 sg12
-g9
+g34
 sa(dp1482
 g6
 VProbably.
@@ -5635,7 +5635,7 @@ sg10
 VJOSH
 p1544
 sg12
-g30
+g9
 sa(dp1545
 g6
 VYou need this?
@@ -5723,7 +5723,7 @@ sg10
 VJOSH
 p1568
 sg12
-g9
+g30
 sa(dp1569
 g6
 VSagittarius.
@@ -5745,7 +5745,7 @@ sg10
 VJOSH
 p1574
 sg12
-g9
+g30
 sa(dp1575
 g6
 V[nodding, still meeting his gaze] Yeah... There's an empty office next to the conference room downstairs. I moved two couches in and there's some pillows and blankets.
@@ -5877,7 +5877,7 @@ sg10
 VCAROL
 p1610
 sg12
-g9
+g30
 sa(dp1611
 g6
 V[opening door] Thanks.
@@ -5899,7 +5899,7 @@ sg10
 VTOBY
 p1616
 sg12
-g9
+g30
 sa(dp1617
 g6
 VWhat's insane? Oh, never mind. What isn't?
@@ -5910,7 +5910,7 @@ sg10
 VLEO
 p1619
 sg12
-g9
+g34
 sa(dp1620
 g6
 VYou don't think it's crazy?
@@ -5987,7 +5987,7 @@ sg10
 VTOBY
 p1640
 sg12
-g9
+g34
 sa(dp1641
 g6
 VGood evening.
@@ -5998,7 +5998,7 @@ sg10
 VJOSH
 p1643
 sg12
-g9
+g30
 sa(dp1644
 g6
 VGood evening, Josh.
@@ -6009,7 +6009,7 @@ sg10
 VLEO
 p1646
 sg12
-g9
+g30
 sa(dp1647
 g6
 VLeo, would you excuse us for a second? Toby, can I talk to you outside?
@@ -6031,7 +6031,7 @@ sg10
 VJOSH
 p1652
 sg12
-g9
+g30
 sa(dp1653
 g6
 VYeah.
@@ -6053,7 +6053,7 @@ sg10
 VJOSH
 p1658
 sg12
-g30
+g34
 sa(dp1659
 g6
 VYou hadn't yet.
@@ -6064,7 +6064,7 @@ sg10
 VTOBY
 p1661
 sg12
-g30
+g34
 sa(dp1662
 g6
 V[bows head] How'd she take it?
@@ -6075,7 +6075,7 @@ sg10
 VJOSH
 p1664
 sg12
-g30
+g9
 sa(dp1665
 g6
 VIf everybody out there takes it the way she did, we may be okay. If a few more people in here took it the way she did, that'd be all right, too.
@@ -6097,7 +6097,7 @@ sg10
 VJOSH
 p1670
 sg12
-g9
+g34
 sa(dp1671
 g6
 VThat was for me.
@@ -6108,7 +6108,7 @@ sg10
 VTOBY
 p1673
 sg12
-g9
+g34
 sa(dp1674
 g6
 VTobacco.
@@ -6141,7 +6141,7 @@ sg10
 VLEO
 p1682
 sg12
-g9
+g30
 sa(dp1683
 g6
 V[sits down on sofa] No...We have Stacy and Miner but Warren and Rossitter are voting against. They have ideological problems with the case...What do you wanna do now?
@@ -6163,7 +6163,7 @@ sg10
 VLEO
 p1688
 sg12
-g9
+g34
 sa(dp1689
 g6
 VYeah, the problem is, Rossitter sits on the Judiciary Committee and I don't know how many enemies on Judiciary we wanna make right now.
@@ -6361,7 +6361,7 @@ sg10
 VSAM
 p1742
 sg12
-g9
+g30
 sa(dp1743
 g6
 VSam, what do you know?
@@ -6405,7 +6405,7 @@ sg10
 VLEO
 p1754
 sg12
-g9
+g34
 sa(dp1755
 g6
 VThe whole country's gonna assume he's not running when he announces the thing.
@@ -6427,7 +6427,7 @@ sg10
 VLEO
 p1760
 sg12
-g9
+g34
 sa(dp1761
 g6
 VThe press is gonna assume...
@@ -6548,7 +6548,7 @@ sg10
 VLEO
 p1793
 sg12
-g34
+g9
 sa(dp1794
 g6
 V"The President calls on Congress to fund the Justice Department's tobacco lawsuit at the levels necessary to continue this litigation."
@@ -6669,7 +6669,7 @@ sg10
 VLEO
 p1826
 sg12
-g34
+g9
 sa(dp1827
 g6
 VYeah.

@@ -190,7 +190,7 @@ sg10
 VDONNA
 p59
 sg12
-g13
+g22
 sa(dp60
 g6
 V'Cause it's not the same.
@@ -201,7 +201,7 @@ sg10
 VJOSH
 p62
 sg12
-g9
+g22
 sa(dp63
 g6
 VIt looks the same.
@@ -267,7 +267,7 @@ sg10
 VJOSH
 p80
 sg12
-g9
+g22
 sa(dp81
 g6
 VYou should do it after the entree.
@@ -300,7 +300,7 @@ sg10
 VDONNA
 p89
 sg12
-g9
+g22
 sa(dp90
 g6
 VIs there etiquette for this?
@@ -333,7 +333,7 @@ sg10
 VJOSH
 p98
 sg12
-g13
+g22
 sa(dp99
 g6
 VI need to talk to you about something.
@@ -410,7 +410,7 @@ sg10
 VDONNA
 p119
 sg12
-g9
+g22
 sa(dp120
 g6
 VCall around.
@@ -432,7 +432,7 @@ sg10
 VC.J.
 p125
 sg12
-g9
+g22
 sa(dp126
 g6
 VI don't think I will.
@@ -443,7 +443,7 @@ sg10
 VTOBY
 p128
 sg12
-g9
+g22
 sa(dp129
 g6
 VQuiz me.
@@ -454,7 +454,7 @@ sg10
 VC.J.
 p131
 sg12
-g9
+g22
 sa(dp132
 g6
 VYou're a lively conversationalist. You won't have any problem getting...
@@ -465,7 +465,7 @@ sg10
 VTOBY
 p134
 sg12
-g9
+g22
 sa(dp135
 g6
 VQuiz me.
@@ -476,7 +476,7 @@ sg10
 VC.J.
 p137
 sg12
-g9
+g22
 sa(dp138
 g6
 VWho are you sitting next to?
@@ -586,7 +586,7 @@ sg10
 VTOBY
 p167
 sg12
-g9
+g13
 sa(dp168
 g6
 VYeah, I know. Listen. The Social Office called.
@@ -597,7 +597,7 @@ sg10
 VSAM
 p170
 sg12
-g9
+g22
 sa(dp171
 g6
 VAnd?
@@ -608,7 +608,7 @@ sg10
 VTOBY
 p173
 sg12
-g9
+g22
 sa(dp174
 g6
 VThey said the Republicans who RSVP'd for the dinner aren't gonna show up.
@@ -630,7 +630,7 @@ sg10
 VTOBY
 p179
 sg12
-g9
+g22
 sa(dp180
 g6
 VWell, it happened. You think we should...
@@ -652,7 +652,7 @@ sg10
 VTOBY
 p185
 sg12
-g9
+g22
 sa(dp186
 g6
 VYeah.
@@ -674,7 +674,7 @@ sg10
 VTOBY
 p191
 sg12
-g9
+g22
 sa(dp192
 g6
 VI'm saying...
@@ -685,7 +685,7 @@ sg10
 VSAM
 p194
 sg12
-g9
+g22
 sa(dp195
 g6
 VThe President said he was gonna veto the bill. C.J. announced he was gonna veto the bill. He's gonna veto the bill.
@@ -707,7 +707,7 @@ sg10
 VBARTLET
 p200
 sg12
-g9
+g22
 sa(dp201
 g6
 VThere's an emergency meeting of the Republican Leadership.
@@ -773,7 +773,7 @@ sg10
 VBARTLET
 p218
 sg12
-g9
+g13
 sa(dp219
 g6
 VYeah.
@@ -861,7 +861,7 @@ sg10
 VBARTLET
 p242
 sg12
-g9
+g22
 sa(dp243
 g6
 VWell, that's what I thought too.
@@ -872,7 +872,7 @@ sg10
 VLEO
 p245
 sg12
-g9
+g13
 sa(dp246
 g6
 VAnd now?
@@ -949,7 +949,7 @@ sg10
 VBARTLET
 p266
 sg12
-g9
+g13
 sa(dp267
 g6
 VWas anything you just said food?
@@ -960,7 +960,7 @@ sg10
 VJOSH
 p269
 sg12
-g9
+g13
 sa(dp270
 g6
 VGood evening, Mr. President.
@@ -982,7 +982,7 @@ sg10
 VSAM
 p275
 sg12
-g9
+g13
 sa(dp276
 g6
 VIt's on its way.
@@ -1004,7 +1004,7 @@ sg10
 VSAM
 p281
 sg12
-g9
+g13
 sa(dp282
 g6
 VWe know.
@@ -1092,7 +1092,7 @@ sg10
 VSAM
 p305
 sg12
-g9
+g22
 sa(dp306
 g6
 VNo.
@@ -1136,7 +1136,7 @@ sg10
 VSAM
 p317
 sg12
-g9
+g22
 sa(dp318
 g6
 V'Cause if it's a show of strength and resolve, you don't wait to think about it.
@@ -1169,7 +1169,7 @@ sg10
 VTOBY
 p326
 sg12
-g9
+g22
 sa(dp327
 g6
 VSays you.
@@ -1191,7 +1191,7 @@ sg10
 VTOBY
 p332
 sg12
-g9
+g13
 sa(dp333
 g6
 VSometimes it's like I don't even need to be here.
@@ -1279,7 +1279,7 @@ sg10
 VC.J.
 p356
 sg12
-g9
+g22
 sa(dp357
 g6
 V[to Toby] What's her problem?
@@ -1334,7 +1334,7 @@ sg10
 VBARTLET
 p371
 sg12
-g22
+g9
 sa(dp372
 g6
 VYes, sir.
@@ -1411,7 +1411,7 @@ sg10
 VSAM
 p392
 sg12
-g9
+g22
 sa(dp393
 g6
 VI don't think they're bluffing, Sam.
@@ -1455,7 +1455,7 @@ sg10
 VTOBY
 p404
 sg12
-g9
+g22
 sa(dp405
 g6
 VThey wouldn't. What do you got in the box, Mr. Dolan?
@@ -1488,7 +1488,7 @@ sg10
 VTOBY
 p413
 sg12
-g9
+g22
 sa(dp414
 g6
 VLeo, you think we lost some votes we don't know about?
@@ -1499,7 +1499,7 @@ sg10
 VTOBY
 p416
 sg12
-g9
+g22
 sa(dp417
 g6
 VI think we're about to find out.
@@ -1543,7 +1543,7 @@ sg10
 VBARTLET
 p428
 sg12
-g9
+g13
 sa(dp429
 g6
 VI'm sorry, sir?
@@ -1554,7 +1554,7 @@ sg10
 VC.J.
 p431
 sg12
-g9
+g22
 sa(dp432
 g6
 VTable salt. [gives the bill back to Dolan] Send it back.
@@ -1587,7 +1587,7 @@ sg10
 VKATIE
 p440
 sg12
-g22
+g9
 sa(dp441
 g6
 VWe don't know. Phil?
@@ -1598,7 +1598,7 @@ sg10
 VC.J.
 p443
 sg12
-g9
+g22
 sa(dp444
 g6
 VYou know why the Republican leadership's meeting in an emergency session tonight?
@@ -1675,7 +1675,7 @@ sg10
 VC.J.
 p464
 sg12
-g9
+g22
 sa(dp465
 g6
 VC.J...
@@ -1719,7 +1719,7 @@ sg10
 VC.J.
 p476
 sg12
-g9
+g13
 sa(dp477
 g6
 VLocal news. She was here to cover the Nobel dinner.
@@ -1983,7 +1983,7 @@ sg10
 VLARRY
 p548
 sg12
-g9
+g13
 sa(dp549
 g6
 VStraight up or down.
@@ -2027,7 +2027,7 @@ sg10
 VLARRY
 p560
 sg12
-g13
+g9
 sa(dp561
 g6
 V[shouts] Ginger, the phones, the bodies, and keep an open line to the Whip's office!
@@ -2181,7 +2181,7 @@ sg10
 VCHARLIE
 p602
 sg12
-g9
+g22
 sa(dp603
 g6
 VYeah.
@@ -2280,7 +2280,7 @@ sg10
 VDONNA
 p629
 sg12
-g9
+g13
 sa(dp630
 g6
 VWhen is he doing it?
@@ -2390,7 +2390,7 @@ sg10
 VSAM
 p659
 sg12
-g9
+g22
 sa(dp660
 g6
 VWhat's happening?
@@ -2412,7 +2412,7 @@ sg10
 VSAM
 p665
 sg12
-g9
+g22
 sa(dp666
 g6
 V[phone in hand] It's Kimball.
@@ -2434,7 +2434,7 @@ sg10
 VSAM
 p671
 sg12
-g9
+g22
 sa(dp672
 g6
 VIt's Kimball on the phone right now.
@@ -2577,7 +2577,7 @@ sg10
 VJOSH
 p710
 sg12
-g9
+g13
 sa(dp711
 g6
 VHe wanted to make sure you looked at the new EPA stats on child asthma.
@@ -2643,7 +2643,7 @@ sg10
 VJOSH
 p728
 sg12
-g9
+g13
 sa(dp729
 g6
 VGood.
@@ -2654,7 +2654,7 @@ sg10
 VDONNA
 p731
 sg12
-g9
+g13
 sa(dp732
 g6
 VMaybe he wants the compromise back on the table.
@@ -2676,7 +2676,7 @@ sg10
 VTOBY
 p737
 sg12
-g9
+g22
 sa(dp738
 g6
 VHe was ready to settle for a 10 million-dollar exemption instead of a 5 million.
@@ -2786,7 +2786,7 @@ sg10
 VLEO
 p767
 sg12
-g9
+g22
 sa(dp768
 g6
 VTen people were killed right away. It looks about a hundred and twenty-five injured, mostly young adults. Leo, two of the dead were American students. We think they may have been targeted.
@@ -2907,7 +2907,7 @@ sg10
 VBARTLET
 p800
 sg12
-g9
+g22
 sa(dp801
 g6
 VNot yet.
@@ -3050,7 +3050,7 @@ sg10
 VBARTLET
 p839
 sg12
-g9
+g13
 sa(dp840
 g6
 VOr even Iran.
@@ -3083,7 +3083,7 @@ sg10
 VBARTLET
 p848
 sg12
-g9
+g22
 sa(dp849
 g6
 V45 minutes, an hour.
@@ -3171,7 +3171,7 @@ sg10
 VC.J.
 p872
 sg12
-g9
+g22
 sa(dp873
 g6
 VIs it on the news yet?
@@ -3204,7 +3204,7 @@ sg10
 VLEO
 p881
 sg12
-g9
+g22
 sa(dp882
 g6
 VWhat were they doing there?
@@ -3226,7 +3226,7 @@ sg10
 VLEO
 p887
 sg12
-g22
+g9
 sa(dp888
 g6
 VCan we say whether or not we think they were intentional targets?
@@ -3303,7 +3303,7 @@ sg10
 VC.J.
 p908
 sg12
-g9
+g22
 sa(dp909
 g6
 VNo.
@@ -3391,7 +3391,7 @@ sg10
 VC.J.
 p932
 sg12
-g9
+g13
 sa(dp933
 g6
 VI can't talk about it.
@@ -3446,7 +3446,7 @@ sg10
 VCHARLIE
 p947
 sg12
-g9
+g22
 sa(dp948
 g6
 VFor a few hours, not 100 hours.
@@ -3479,7 +3479,7 @@ sg10
 VC.J.
 p956
 sg12
-g9
+g22
 sa(dp957
 g6
 VI really can't talk about it.
@@ -3490,7 +3490,7 @@ sg10
 VCHARLIE
 p959
 sg12
-g9
+g22
 sa(dp960
 g6
 VOkay. I'm going to change my clothes.
@@ -3501,7 +3501,7 @@ sg10
 VC.J.
 p962
 sg12
-g9
+g22
 sa(dp963
 g6
 V[unflinching, and without any pause] I'll watch.
@@ -3556,7 +3556,7 @@ sg10
 VJOSH
 p977
 sg12
-g9
+g22
 sa(dp978
 g6
 VThree of our guys are on airplanes, and out of reach.
@@ -3666,7 +3666,7 @@ sg10
 VSAM
 p1007
 sg12
-g9
+g13
 sa(dp1008
 g6
 VYeah.
@@ -3743,7 +3743,7 @@ sg10
 VJOSH
 p1028
 sg12
-g9
+g13
 sa(dp1029
 g6
 VI never said that.
@@ -3754,7 +3754,7 @@ sg10
 VBUCKLAND
 p1031
 sg12
-g9
+g22
 sa(dp1032
 g6
 V"If you want to save a spotted owl Vote for Bartlet, If you want to save a job, Vote for someone else"?
@@ -3776,7 +3776,7 @@ sg10
 VBUCKLAND
 p1037
 sg12
-g9
+g22
 sa(dp1038
 g6
 VNo, she did, in the Indianapolis Post-Dispatch. You weren't misquoted, right?
@@ -3996,7 +3996,7 @@ sg10
 VKIMBALL
 p1097
 sg12
-g9
+g22
 sa(dp1098
 g6
 VAnd I'm not about to be.
@@ -4007,7 +4007,7 @@ sg10
 VTOBY
 p1100
 sg12
-g9
+g22
 sa(dp1101
 g6
 VYeah?
@@ -4029,7 +4029,7 @@ sg10
 VTOBY
 p1106
 sg12
-g22
+g9
 sa(dp1107
 g6
 VI've got four proxies in my pocket so you can't do anything without me. Don't worry about it, I came with a shopping list.
@@ -4040,7 +4040,7 @@ sg10
 VKIMBALL
 p1109
 sg12
-g9
+g22
 sa(dp1110
 g6
 VHow does a Democrat from Tennessee Farm Country, where we championed electrification -- the Tennessee Valley Authority, farm safety nets, the... how do you do this to a democratic president?
@@ -4073,7 +4073,7 @@ sg10
 VTOBY
 p1118
 sg12
-g9
+g22
 sa(dp1119
 g6
 VWhy would anyone want to build up-?
@@ -4095,7 +4095,7 @@ sg10
 VTOBY
 p1124
 sg12
-g9
+g22
 sa(dp1125
 g6
 VWell, what's the point?
@@ -4315,7 +4315,7 @@ sg10
 VBARTLET
 p1184
 sg12
-g9
+g13
 sa(dp1185
 g6
 VYeah.
@@ -4502,7 +4502,7 @@ sg10
 VSAM
 p1235
 sg12
-g9
+g22
 sa(dp1236
 g6
 VAnd how do ranchers put food on their tables? And yours, for that matter?
@@ -4601,7 +4601,7 @@ sg10
 VKIMBALL
 p1262
 sg12
-g9
+g13
 sa(dp1263
 g6
 VDonna?
@@ -4634,7 +4634,7 @@ sg10
 VSAM
 p1271
 sg12
-g9
+g22
 sa(dp1272
 g6
 VHe's still in with-
@@ -4645,7 +4645,7 @@ sg10
 VDONNA
 p1274
 sg12
-g9
+g13
 sa(dp1275
 g6
 VYeah, tell him we're going to need more time.
@@ -4667,7 +4667,7 @@ sg10
 VDONNA
 p1280
 sg12
-g9
+g22
 sa(dp1281
 g6
 VYeah?
@@ -4931,7 +4931,7 @@ sg10
 VLEO
 p1352
 sg12
-g9
+g13
 sa(dp1353
 g6
 VEight AIM-Sidewinders. Pilots are in the cockpits. We see heat plumes.
@@ -4964,7 +4964,7 @@ sg10
 VLEO
 p1361
 sg12
-g9
+g22
 sa(dp1362
 g6
 VIt's always a training exercise.
@@ -4975,7 +4975,7 @@ sg10
 VNANCY
 p1364
 sg12
-g9
+g13
 sa(dp1365
 g6
 VWhat do we think are the targets?
@@ -5173,7 +5173,7 @@ sg10
 VC.J.
 p1418
 sg12
-g9
+g22
 sa(dp1419
 g6
 VCarry a big stick.
@@ -5184,7 +5184,7 @@ sg10
 VCAROL
 p1421
 sg12
-g9
+g13
 sa(dp1422
 g6
 VYeah. Walk softly. Walk around.
@@ -5239,7 +5239,7 @@ sg10
 VALAN
 p1436
 sg12
-g9
+g22
 sa(dp1437
 g6
 VI say, C. J. Cregg's known to be a bit of a clothes horse and perhaps she's missed some information during one of her wardrobe changes.
@@ -5294,7 +5294,7 @@ sg10
 VSAM
 p1451
 sg12
-g9
+g13
 sa(dp1452
 g6
 VHe'll be here in just a minute.
@@ -5503,7 +5503,7 @@ sg10
 VJOSH
 p1508
 sg12
-g9
+g22
 sa(dp1509
 g6
 VNo.
@@ -5591,7 +5591,7 @@ sg10
 VTOBY
 p1532
 sg12
-g9
+g13
 sa(dp1533
 g6
 V[to Toby] Hang on.
@@ -5679,7 +5679,7 @@ sg10
 VTOBY
 p1556
 sg12
-g9
+g13
 sa(dp1557
 g6
 VRepublicans. Royce. He'll carry six Republicans. That'll be seven votes. First off, when Kimball and his four see we're going to win, they'll hop onboard so we've got a bigger margin. Second, C.J. can make a big deal out of bipartisanship but mostly-
@@ -5701,7 +5701,7 @@ sg10
 VTOBY
 p1562
 sg12
-g9
+g22
 sa(dp1563
 g6
 VOn national TV.
@@ -5745,7 +5745,7 @@ sg10
 VKIMBALL
 p1574
 sg12
-g9
+g22
 sa(dp1575
 g6
 VI think I will.
@@ -5833,7 +5833,7 @@ sg10
 VKIMBALL
 p1598
 sg12
-g9
+g13
 sa(dp1599
 g6
 VThank you very much.
@@ -5844,7 +5844,7 @@ sg10
 VSAM
 p1601
 sg12
-g9
+g22
 sa(dp1602
 g6
 V[loud enough for Kirkland to hear] Ginger! We need congressman Robert Royce, Republican of Pennsylvania, on the phone.
@@ -5921,7 +5921,7 @@ sg10
 VABBEY
 p1622
 sg12
-g9
+g22
 sa(dp1623
 g6
 VYeah, you're pretty gross.
@@ -5943,7 +5943,7 @@ sg10
 VABBEY
 p1628
 sg12
-g9
+g13
 sa(dp1629
 g6
 VIt's good... but... a suicide bomber got two American kids in Jerusalem.
@@ -6009,7 +6009,7 @@ sg10
 VABBEY
 p1646
 sg12
-g22
+g9
 sa(dp1647
 g6
 V19 and 21. They were brothers. You speak to Zoey today?
@@ -6295,7 +6295,7 @@ sg10
 VLEO
 p1724
 sg12
-g13
+g9
 sa(dp1725
 g6
 VThis isn't...
@@ -6306,7 +6306,7 @@ sg10
 VBUCKLAND
 p1727
 sg12
-g9
+g22
 sa(dp1728
 g6
 VHang on-
@@ -6361,7 +6361,7 @@ sg10
 VJOSH
 p1742
 sg12
-g9
+g22
 sa(dp1743
 g6
 VHow am I supposed to keep advocating the issues that I care about if I don't get into the race for a while?
@@ -6394,7 +6394,7 @@ sg10
 VDONNA
 p1751
 sg12
-g9
+g22
 sa(dp1752
 g6
 VYeah.
@@ -6460,7 +6460,7 @@ sg10
 VDONNA
 p1769
 sg12
-g9
+g13
 sa(dp1770
 g6
 VDoesn't matter. "To qualify for the estate tax repeal, the estates have to have Astroturfo."
@@ -6482,7 +6482,7 @@ sg10
 VDONNA
 p1775
 sg12
-g9
+g22
 sa(dp1776
 g6
 VI'm sorry.
@@ -6493,7 +6493,7 @@ sg10
 VJOSH
 p1778
 sg12
-g9
+g22
 sa(dp1779
 g6
 VNo, that's all right. There's a lot goin' on here tonight.
@@ -6526,7 +6526,7 @@ sg10
 VBUCKLAND
 p1787
 sg12
-g9
+g22
 sa(dp1788
 g6
 VYeah.
@@ -6570,7 +6570,7 @@ sg10
 VBUCKLAND
 p1799
 sg12
-g9
+g22
 sa(dp1800
 g6
 VYeah.
@@ -6625,7 +6625,7 @@ sg10
 VBUCKLAND
 p1814
 sg12
-g9
+g22
 sa(dp1815
 g6
 VWell, we're afraid of everything. [laughs and sighs simultaneously, pauses] But no kidding, Jack, I-I, I think you'd make an interesting nominee for Labor Secretary.
@@ -6647,7 +6647,7 @@ sg10
 VJOSH
 p1820
 sg12
-g9
+g22
 sa(dp1821
 g6
 VI'm gonna go see if there's any dessert left.
@@ -6713,7 +6713,7 @@ sg10
 VROYCE
 p1838
 sg12
-g9
+g13
 sa(dp1839
 g6
 VYeah.
@@ -6966,7 +6966,7 @@ sg10
 VCHARLIE
 p1907
 sg12
-g9
+g22
 sa(dp1908
 g6
 VTake it.
@@ -6999,7 +6999,7 @@ sg10
 VLEO
 p1916
 sg12
-g9
+g22
 sa(dp1917
 g6
 VWould they take it if they were?
@@ -7032,7 +7032,7 @@ sg10
 VCHARLIE
 p1925
 sg12
-g9
+g22
 sa(dp1926
 g6
 VNot necessarily.
@@ -7043,7 +7043,7 @@ sg10
 VLEO
 p1928
 sg12
-g9
+g22
 sa(dp1929
 g6
 VAnd if someone in my position took a deal to protect himself...what would that person be saying to his employer? That they were wrong to trust him.
@@ -7065,7 +7065,7 @@ sg10
 VLEO
 p1934
 sg12
-g22
+g9
 sa(dp1935
 g6
 VWhy not?
@@ -7076,7 +7076,7 @@ sg10
 VCHARLIE
 p1937
 sg12
-g9
+g22
 sa(dp1938
 g6
 VI'll stay with my team. People should stop trying to get me not to do that.
@@ -7153,7 +7153,7 @@ sg10
 VLEO
 p1958
 sg12
-g9
+g13
 sa(dp1959
 g6
 VPalestinian police arrested Mujeeb at his residence in Gaza.
@@ -7219,7 +7219,7 @@ sg10
 VDONNA
 p1976
 sg12
-g13
+g22
 sa(dp1977
 g6
 VYeah, but that doesn't seem that likely, right? You can go home.
@@ -7230,7 +7230,7 @@ sg10
 VJOSH
 p1979
 sg12
-g9
+g22
 sa(dp1980
 g6
 VI'll stick around.
@@ -7340,7 +7340,7 @@ sg10
 VDONNA
 p2009
 sg12
-g9
+g22
 sa(dp2010
 g6
 VIt was just that night?
@@ -7351,7 +7351,7 @@ sg10
 VJOSH
 p2012
 sg12
-g9
+g22
 sa(dp2013
 g6
 VYeah. [pauses] No... [sighs] We got together the next night again. We shouldn't have.
@@ -7406,7 +7406,7 @@ sg10
 VDONNA
 p2027
 sg12
-g9
+g22
 sa(dp2028
 g6
 VDid any reporters see you?
@@ -7582,7 +7582,7 @@ sg10
 VSHERRI
 p2075
 sg12
-g9
+g22
 sa(dp2076
 g6
 VHow many votes does it take to override, Sherri?
@@ -7593,7 +7593,7 @@ sg10
 VC.J.
 p2078
 sg12
-g9
+g22
 sa(dp2079
 g6
 VA majority.
@@ -7615,7 +7615,7 @@ sg10
 VC.J.
 p2084
 sg12
-g9
+g13
 sa(dp2085
 g6
 VYes, a two-thirds majority.
@@ -7626,7 +7626,7 @@ sg10
 VSHERRI
 p2087
 sg12
-g9
+g13
 sa(dp2088
 g6
 VYeah, 290. And how many votes does it take to sustain?
@@ -7637,7 +7637,7 @@ sg10
 VC.J.
 p2090
 sg12
-g9
+g22
 sa(dp2091
 g6
 VThat should be easy. You just subtract 290 from the total number of members in the House, and add one.
@@ -7725,7 +7725,7 @@ sg10
 VSHERRI
 p2114
 sg12
-g9
+g22
 sa(dp2115
 g6
 VYeah?
@@ -7835,7 +7835,7 @@ sg10
 VJOSH
 p2144
 sg12
-g9
+g22
 sa(dp2145
 g6
 VWhat I meant was that this calls national attention to the peace process.
@@ -7978,7 +7978,7 @@ sg10
 VBARTLET
 p2183
 sg12
-g13
+g9
 sa(dp2184
 g6
 VThank you, Mr. President.
@@ -7989,7 +7989,7 @@ sg10
 VALL
 p2186
 sg12
-g13
+g9
 sa(dp2187
 g6
 V[sadly] Mr. and Mrs. Levy, this is Jed Bartlet. I have three children. I really don't know what to say.

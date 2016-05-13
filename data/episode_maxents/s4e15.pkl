@@ -157,7 +157,7 @@ sg10
 VWILL
 p50
 sg12
-g13
+g9
 sa(dp51
 g6
 VWith the President?
@@ -179,7 +179,7 @@ sg10
 VWILL
 p56
 sg12
-g13
+g31
 sa(dp57
 g6
 VThe Dow plummets because of casual conversations with this man, but that's not the point.
@@ -223,7 +223,7 @@ sg10
 VWILL
 p68
 sg12
-g13
+g31
 sa(dp69
 g6
 VNo, no "but" at the end of that. Not on this one. This one haunts him. It haunts everyone.
@@ -267,7 +267,7 @@ sg10
 VWILL
 p80
 sg12
-g13
+g9
 sa(dp81
 g6
 VThat's foreign policy.
@@ -377,7 +377,7 @@ sg10
 VWILL
 p110
 sg12
-g13
+g9
 sa(dp111
 g6
 VThe speech is good. It's better than good. There's one paragraph that's vague, and we're going to live with it.
@@ -509,7 +509,7 @@ sg10
 VC.J.
 p146
 sg12
-g13
+g9
 sa(dp147
 g6
 VWhat's the weather report for Sunday?
@@ -575,7 +575,7 @@ sg10
 VDANNY
 p164
 sg12
-g13
+g31
 sa(dp165
 g6
 VDanny, I have no idea. I have no idea what the distinction is. All I know is I got a memo from State-- close your notebook-- a memo from State to make sure not to call it genocide.
@@ -619,7 +619,7 @@ sg10
 VDANNY
 p176
 sg12
-g13
+g9
 sa(dp177
 g6
 VOkay, then what?
@@ -707,7 +707,7 @@ sg10
 VDANNY
 p200
 sg12
-g13
+g9
 sa(dp201
 g6
 VDid you find the pilot?
@@ -718,7 +718,7 @@ sg10
 VC.J.
 p203
 sg12
-g13
+g31
 sa(dp204
 g6
 VShareef's pilot?
@@ -729,7 +729,7 @@ sg10
 VDANNY
 p206
 sg12
-g13
+g31
 sa(dp207
 g6
 VI can't remember his name.
@@ -828,7 +828,7 @@ sg10
 VC.J.
 p233
 sg12
-g13
+g9
 sa(dp234
 g6
 VWell, not publicly. This was an incredibly clumsy attempt on the part of this officer to send a turf message to the President, and obviously he's not a rogue, so I thought I'd give you the heads-up.
@@ -894,7 +894,7 @@ sg10
 VC.J.
 p251
 sg12
-g13
+g31
 sa(dp252
 g6
 V11905 and 12333?
@@ -905,7 +905,7 @@ sg10
 VDANNY
 p254
 sg12
-g13
+g31
 sa(dp255
 g6
 VYeah.
@@ -1015,7 +1015,7 @@ sg10
 VJOSH
 p284
 sg12
-g13
+g9
 sa(dp285
 g6
 V[to Will] Got those?
@@ -1059,7 +1059,7 @@ sg10
 VJOSH
 p296
 sg12
-g13
+g9
 sa(dp297
 g6
 VI don't know. Let's just go. Ask C.J.
@@ -1114,7 +1114,7 @@ sg10
 VWILL
 p311
 sg12
-g13
+g9
 sa(dp312
 g6
 VOkay.
@@ -1191,7 +1191,7 @@ sg10
 VWILL
 p332
 sg12
-g13
+g9
 sa(dp333
 g6
 VHe can't just send people someplace.
@@ -1202,7 +1202,7 @@ sg10
 VJOSH
 p335
 sg12
-g13
+g9
 sa(dp336
 g6
 VI understand. Is that it?
@@ -1268,7 +1268,7 @@ sg10
 VJOSH
 p353
 sg12
-g13
+g9
 sa(dp354
 g6
 VYeah. I'm going to put these changes in.
@@ -1378,7 +1378,7 @@ sg10
 VBARTLET
 p383
 sg12
-g13
+g9
 sa(dp384
 g6
 VWhat Bible would you prefer, sir?
@@ -1422,7 +1422,7 @@ sg10
 VBARTLET
 p395
 sg12
-g13
+g9
 sa(dp396
 g6
 VThe Freemasons won't let it travel by plane.
@@ -1510,7 +1510,7 @@ sg10
 VBARTLET
 p419
 sg12
-g13
+g9
 sa(dp420
 g6
 VNot a huge demo for you, no. But they're good people, and after all, a President is being inaugurated, so let's see what we can do.
@@ -1598,7 +1598,7 @@ sg10
 VLEO
 p443
 sg12
-g13
+g9
 sa(dp444
 g6
 VI didn't?
@@ -1609,7 +1609,7 @@ sg10
 VBARTLET
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VIt was an NSC Presidential Decision Directive-- it's different.
@@ -1631,7 +1631,7 @@ sg10
 VBARTLET
 p452
 sg12
-g13
+g9
 sa(dp453
 g6
 VIt is, and that's how I was able to look C.J. in the eye and say you didn't rescind 11905, and that's how she was able to look Danny Concannon in the eye and do the same.
@@ -1653,7 +1653,7 @@ sg10
 VBARTLET
 p458
 sg12
-g13
+g9
 sa(dp459
 g6
 VNo, sir, we didn't dodge nothing. They hit what they aimed at.
@@ -1708,7 +1708,7 @@ sg10
 VLEO
 p473
 sg12
-g13
+g9
 sa(dp474
 g6
 VYou think in your wildest dreams that Hutchinson's running an offense? He's that pissed that I asked for forced Depletion Report he's going to show me in Danny's byline I go to Khundu and here's what happened in Bermuda?
@@ -1741,7 +1741,7 @@ sg10
 VBARTLET
 p482
 sg12
-g13
+g9
 sa(dp483
 g6
 VHey, the Chief Justice wrote another opinion in verse. Want to hear it?
@@ -1774,7 +1774,7 @@ sg10
 VLEO
 p491
 sg12
-g13
+g9
 sa(dp492
 g6
 V[yells back] Good night.
@@ -1796,7 +1796,7 @@ sg10
 VLEO
 p497
 sg12
-g31
+g13
 sa(dp498
 g6
 VAbbey.
@@ -1862,7 +1862,7 @@ sg10
 VABBEY
 p515
 sg12
-g13
+g9
 sa(dp516
 g6
 VYes.
@@ -1884,7 +1884,7 @@ sg10
 VABBEY
 p521
 sg12
-g13
+g31
 sa(dp522
 g6
 VWell, it was for sale, and I wanted it.
@@ -1895,7 +1895,7 @@ sg10
 VBARTLET
 p524
 sg12
-g13
+g9
 sa(dp525
 g6
 VCome to bed.
@@ -1961,7 +1961,7 @@ sg10
 VBARTLET
 p542
 sg12
-g13
+g9
 sa(dp543
 g6
 VCome to bed soon.
@@ -2005,7 +2005,7 @@ sg10
 VBARTLET
 p554
 sg12
-g13
+g31
 sa(dp555
 g6
 VAnd?
@@ -2016,7 +2016,7 @@ sg10
 VABBEY
 p557
 sg12
-g13
+g9
 sa(dp558
 g6
 VI don't really know what that means, do you?
@@ -2027,7 +2027,7 @@ sg10
 VBARTLET
 p560
 sg12
-g13
+g9
 sa(dp561
 g6
 VNo. But I'm mostly asleep right now, and also I don't know what you're talking about.
@@ -2115,7 +2115,7 @@ sg10
 VC.J.
 p584
 sg12
-g13
+g31
 sa(dp585
 g6
 VUh, two. Cynthia, I left a message for Donna. She might call.
@@ -2214,7 +2214,7 @@ sg10
 VTOBY
 p611
 sg12
-g13
+g9
 sa(dp612
 g6
 VIt's what we always say.
@@ -2236,7 +2236,7 @@ sg10
 VTOBY
 p617
 sg12
-g13
+g31
 sa(dp618
 g6
 VAnd to establish justice and promote the general welfare. Stand by while atrocities are taking place, and you're an accomplice.
@@ -2247,7 +2247,7 @@ sg10
 VC.J.
 p620
 sg12
-g13
+g31
 sa(dp621
 g6
 VI'm not indifferent to that, but knuckleheaded self-destruction is never going to burn itself out, you really want to send your kids across the street into the fire?
@@ -2269,7 +2269,7 @@ sg10
 VC.J.
 p626
 sg12
-g31
+g13
 sa(dp627
 g6
 VWhy? And don't give me a lefty answer.
@@ -2280,7 +2280,7 @@ sg10
 VTOBY
 p629
 sg12
-g13
+g9
 sa(dp630
 g6
 VA lefty answer is all I've got.
@@ -2346,7 +2346,7 @@ sg10
 VBARTLET
 p647
 sg12
-g13
+g31
 sa(dp648
 g6
 VRight away, sir.
@@ -2357,7 +2357,7 @@ sg10
 VWOMAN
 p650
 sg12
-g13
+g31
 sa(dp651
 g6
 V"Rock me to sleep, Rock me to sleep, I wish I had somebody to rock me to sleep."
@@ -2368,7 +2368,7 @@ sg10
 VJILL
 p653
 sg12
-g13
+g9
 sa(dp654
 g6
 VI'm not talking about fighting two wars at once, I'm not talking about fighting wars. Intervening when there's violence against people who are defenseless...
@@ -2412,7 +2412,7 @@ sg10
 VTOBY
 p665
 sg12
-g13
+g9
 sa(dp666
 g6
 VThat's right.
@@ -2445,7 +2445,7 @@ sg10
 VJOSH
 p674
 sg12
-g13
+g9
 sa(dp675
 g6
 VLeave her alone-- she's having a last night with... What's his name?
@@ -2588,7 +2588,7 @@ sg10
 VWILL
 p713
 sg12
-g13
+g9
 sa(dp714
 g6
 VUh, yeah.
@@ -2599,7 +2599,7 @@ sg10
 VWILL
 p716
 sg12
-g13
+g31
 sa(dp717
 g6
 VMr. Bailey, this is the White Hoouse operator.
@@ -2665,7 +2665,7 @@ sg10
 VDANNY
 p734
 sg12
-g13
+g9
 sa(dp735
 g6
 VThis is, A] it was garbage. That was... that was totally out of left field on the piece on the unnamed White House source...
@@ -2687,7 +2687,7 @@ sg10
 VDANNY
 p740
 sg12
-g13
+g9
 sa(dp741
 g6
 VWhat do you mean, it wasn't yours?
@@ -2698,7 +2698,7 @@ sg10
 VC.J.
 p743
 sg12
-g13
+g9
 sa(dp744
 g6
 VIt got dropped in.
@@ -2709,7 +2709,7 @@ sg10
 VDANNY
 p746
 sg12
-g13
+g31
 sa(dp747
 g6
 VWho dropped it in?
@@ -2731,7 +2731,7 @@ sg10
 VDANNY
 p752
 sg12
-g13
+g31
 sa(dp753
 g6
 VThey dropped it in?
@@ -2764,7 +2764,7 @@ sg10
 VC.J.
 p761
 sg12
-g13
+g31
 sa(dp762
 g6
 VYes.
@@ -2874,7 +2874,7 @@ sg10
 VC.J.
 p791
 sg12
-g13
+g9
 sa(dp792
 g6
 VAs a matter of form, he's tell them what I'm writing about. C.J., I don't know who he talked to.
@@ -2907,7 +2907,7 @@ sg10
 VDANNY
 p800
 sg12
-g13
+g9
 sa(dp801
 g6
 VNo, but that day, yesterday, her boyfriend Jack Reese, a Navy Lieutenant Commander, was reassigned from a White House poistion, and she was very angry about it.
@@ -2995,7 +2995,7 @@ sg10
 VJOSH
 p824
 sg12
-g13
+g31
 sa(dp825
 g6
 VYes.
@@ -3017,7 +3017,7 @@ sg10
 VJOSH
 p830
 sg12
-g13
+g31
 sa(dp831
 g6
 VIt will capture our interest...
@@ -3028,7 +3028,7 @@ sg10
 VTOBY
 p833
 sg12
-g13
+g9
 sa(dp834
 g6
 V...and will be written about...
@@ -3039,7 +3039,7 @@ sg10
 VJOSH
 p836
 sg12
-g13
+g9
 sa(dp837
 g6
 V...in English, I would think as well as...
@@ -3116,7 +3116,7 @@ sg10
 VTOBY
 p857
 sg12
-g13
+g9
 sa(dp858
 g6
 VThat wasn't the subject.
@@ -3259,7 +3259,7 @@ sg10
 VTOBY
 p896
 sg12
-g13
+g9
 sa(dp897
 g6
 V[to Leo] Do I just keep standing here?
@@ -3270,7 +3270,7 @@ sg10
 VBARTLET
 p899
 sg12
-g13
+g9
 sa(dp900
 g6
 VNo. [to the gang] Excuse me!
@@ -3303,7 +3303,7 @@ sg10
 VALL
 p908
 sg12
-g31
+g13
 sa(dp909
 g6
 VAll right, everything else off the table. [to C.J.] What were you going to say before?
@@ -3457,7 +3457,7 @@ sg10
 VJOSH
 p950
 sg12
-g13
+g9
 sa(dp951
 g6
 V"Set free the oppressed, break every yoke, clothe the naked and your light shall break forth like the dawn, and the glory of the Lord shall be your rear guard."
@@ -3490,7 +3490,7 @@ sg10
 VBARTLET
 p959
 sg12
-g13
+g9
 sa(dp960
 g6
 VStill. They frighten people?
@@ -3567,7 +3567,7 @@ sg10
 VLEO
 p980
 sg12
-g13
+g9
 sa(dp981
 g6
 VSo we're doing well so far.
@@ -3611,7 +3611,7 @@ sg10
 VLEO
 p992
 sg12
-g31
+g13
 sa(dp993
 g6
 VBecause of Laurel and Hardy?
@@ -3655,7 +3655,7 @@ sg10
 VBARTLET
 p1004
 sg12
-g13
+g9
 sa(dp1005
 g6
 VThat decision was made by your Inauguration Chariman, who's from Massachusetts.
@@ -3688,7 +3688,7 @@ sg10
 VABBEY
 p1013
 sg12
-g13
+g9
 sa(dp1014
 g6
 VI walked to school every morning in weather colder than this.
@@ -3787,7 +3787,7 @@ sg10
 VBARTLET
 p1040
 sg12
-g13
+g9
 sa(dp1041
 g6
 VThe train's stuck in Philadelphia.
@@ -3809,7 +3809,7 @@ sg10
 VBARTLET
 p1046
 sg12
-g13
+g31
 sa(dp1047
 g6
 VFrozen tracks.
@@ -3919,7 +3919,7 @@ sg10
 VLARRY
 p1076
 sg12
-g13
+g9
 sa(dp1077
 g6
 VYeah, they got one.
@@ -3930,7 +3930,7 @@ sg10
 VED
 p1079
 sg12
-g13
+g31
 sa(dp1080
 g6
 VExcuse me, sir. [runs off]
@@ -3941,7 +3941,7 @@ sg10
 VCHARLIE
 p1082
 sg12
-g13
+g9
 sa(dp1083
 g6
 VJust common courtesy I think. "Place your hand on this Bible." And, "Oh, can I use your Bible?" That's not right.
@@ -3985,7 +3985,7 @@ sg10
 VC.J.
 p1094
 sg12
-g13
+g31
 sa(dp1095
 g6
 VThey'd like you to start with the Plain States, followed by the Rust Belt Ball, then the one from the Pacific Northwest.
@@ -4018,7 +4018,7 @@ sg10
 VC.J.
 p1103
 sg12
-g13
+g31
 sa(dp1104
 g6
 VHe could start with the New Hampshire Ball...
@@ -4073,7 +4073,7 @@ sg10
 VWILL
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VStill.
@@ -4172,7 +4172,7 @@ sg10
 VC.J.
 p1145
 sg12
-g13
+g9
 sa(dp1146
 g6
 VCharlie'll get it.
@@ -4370,7 +4370,7 @@ sg10
 VLEO
 p1199
 sg12
-g13
+g31
 sa(dp1200
 g6
 VHey!
@@ -4414,7 +4414,7 @@ sg10
 VJOSH
 p1211
 sg12
-g13
+g9
 sa(dp1212
 g6
 VWhere is she?
@@ -4491,7 +4491,7 @@ sg10
 VDANNY
 p1232
 sg12
-g31
+g9
 sa(dp1233
 g6
 VI tried hard.
@@ -4502,7 +4502,7 @@ sg10
 VJOSH
 p1235
 sg12
-g13
+g9
 sa(dp1236
 g6
 VShe didn't think she was on the record. I'm not sure if my editor knew that one.
@@ -4524,7 +4524,7 @@ sg10
 VJOSH
 p1241
 sg12
-g13
+g9
 sa(dp1242
 g6
 VYeah. I thought the balance of the piece was--
@@ -4557,7 +4557,7 @@ sg10
 VDANNY
 p1250
 sg12
-g13
+g9
 sa(dp1251
 g6
 VYou're walking around with a copy of it?
@@ -4667,7 +4667,7 @@ sg10
 VWILL
 p1280
 sg12
-g13
+g9
 sa(dp1281
 g6
 VDanny what are you?
@@ -4678,7 +4678,7 @@ sg10
 VJOSH
 p1283
 sg12
-g13
+g31
 sa(dp1284
 g6
 VThe bad cop.
@@ -4689,7 +4689,7 @@ sg10
 VDANNY
 p1286
 sg12
-g13
+g9
 sa(dp1287
 g6
 VToby, what are you?
@@ -4700,7 +4700,7 @@ sg10
 VJOSH
 p1289
 sg12
-g13
+g31
 sa(dp1290
 g6
 VHurry up.
@@ -4766,7 +4766,7 @@ sg10
 VCHARLIE
 p1307
 sg12
-g13
+g9
 sa(dp1308
 g6
 VCharlie, aren't you cold without a coat?
@@ -4777,7 +4777,7 @@ sg10
 VDANNY
 p1310
 sg12
-g13
+g9
 sa(dp1311
 g6
 VI took off my coat to show my love for Zoey.
@@ -4788,7 +4788,7 @@ sg10
 VCHARLIE
 p1313
 sg12
-g13
+g9
 sa(dp1314
 g6
 VWow.
@@ -4810,7 +4810,7 @@ sg10
 VCHARLIE
 p1319
 sg12
-g13
+g9
 sa(dp1320
 g6
 VNot if we're at Chipendales.
@@ -4821,7 +4821,7 @@ sg10
 VDANNY
 p1322
 sg12
-g13
+g9
 sa(dp1323
 g6
 V[to Josh] I'm standing here!
@@ -4865,7 +4865,7 @@ sg10
 VJOSH
 p1334
 sg12
-g13
+g9
 sa(dp1335
 g6
 VMaybe she's just not answering.
@@ -4997,7 +4997,7 @@ sg10
 VDONNA
 p1370
 sg12
-g13
+g9
 sa(dp1371
 g6
 VDon't even think about telling me to keep my voice! Get down here!
@@ -5019,7 +5019,7 @@ sg10
 VDONNA
 p1376
 sg12
-g13
+g9
 sa(dp1377
 g6
 VOh, no, I'm sorry. Didn't mean to wake you guys. Uh, this is a special situation. It's okay, I'm the good cop.
@@ -5096,7 +5096,7 @@ sg10
 VDONNA
 p1397
 sg12
-g13
+g31
 sa(dp1398
 g6
 VYeah?
@@ -5129,7 +5129,7 @@ sg10
 VJOSH
 p1406
 sg12
-g13
+g31
 sa(dp1407
 g6
 VHe didn't, Josh. That was legitimate.
@@ -5140,7 +5140,7 @@ sg10
 VDONNA
 p1409
 sg12
-g13
+g9
 sa(dp1410
 g6
 VHe's letting you take credit for this?
@@ -5162,7 +5162,7 @@ sg10
 VDONNA
 p1415
 sg12
-g13
+g31
 sa(dp1416
 g6
 VYour career isn't important? What was the point of anyone claiming... You knew it was easy... to figure out it was him.
@@ -5261,7 +5261,7 @@ sg10
 VTOBY
 p1442
 sg12
-g13
+g9
 sa(dp1443
 g6
 VIt was stupid, but it was menschy.
@@ -5272,7 +5272,7 @@ sg10
 VDANNY
 p1445
 sg12
-g13
+g9
 sa(dp1446
 g6
 V[to Danny] Hey, hey, hey. Good cop/bad cop.
@@ -5283,7 +5283,7 @@ sg10
 VJOSH
 p1448
 sg12
-g13
+g31
 sa(dp1449
 g6
 VSorry, it was just stupid.
@@ -5294,7 +5294,7 @@ sg10
 VDANNY
 p1451
 sg12
-g13
+g9
 sa(dp1452
 g6
 VHey, Will, you and Toby wrote maybe the greatest speech I've ever heard.
@@ -5316,7 +5316,7 @@ sg10
 VWILL
 p1457
 sg12
-g13
+g9
 sa(dp1458
 g6
 V[to Donna] We're going to a ball.
@@ -5338,7 +5338,7 @@ sg10
 VDONNA
 p1463
 sg12
-g13
+g31
 sa(dp1464
 g6
 VWe're actually going to eight of them.
@@ -5393,7 +5393,7 @@ sg10
 VDONNA
 p1478
 sg12
-g31
+g13
 sa(dp1479
 g6
 VWell, I'm going to win Zoey's heart from Jean-Paul.
@@ -5415,7 +5415,7 @@ sg10
 VDONNA
 p1484
 sg12
-g13
+g31
 sa(dp1485
 g6
 V'Cause he may be good-looking and rich and well schooled and French royalty, you know, and live basically in a castle, but... Oh, God.
@@ -5426,7 +5426,7 @@ sg10
 VCHARLIE
 p1487
 sg12
-g13
+g31
 sa(dp1488
 g6
 VThis is what I've been telling you. Get in the car.
@@ -5481,7 +5481,7 @@ sg10
 VLEO
 p1502
 sg12
-g13
+g31
 sa(dp1503
 g6
 VYou should expect increased voices of dissent after today - in breadth and depth.
@@ -5580,7 +5580,7 @@ sg10
 VBARTLET
 p1529
 sg12
-g13
+g31
 sa(dp1530
 g6
 VGood evening, Mr. President.
@@ -5602,7 +5602,7 @@ sg10
 VBARTLET
 p1535
 sg12
-g13
+g31
 sa(dp1536
 g6
 VYes, sir.
@@ -5668,7 +5668,7 @@ sg10
 VWILL
 p1553
 sg12
-g13
+g9
 sa(dp1554
 g6
 VToby wants to make you deputy.
@@ -5690,7 +5690,7 @@ sg10
 VWILL
 p1559
 sg12
-g13
+g9
 sa(dp1560
 g6
 VI'm appointing you Deputy Communications Director. It covers a wide range of areas of policy and execution and counsel to me.
@@ -5734,7 +5734,7 @@ sg10
 VWILL
 p1571
 sg12
-g31
+g9
 sa(dp1572
 g6
 VGood God, boy.
@@ -5756,7 +5756,7 @@ sg10
 VJOSH
 p1577
 sg12
-g13
+g9
 sa(dp1578
 g6
 VThe same thing happened to me.
@@ -5888,7 +5888,7 @@ sg10
 VBARTLET
 p1613
 sg12
-g13
+g31
 sa(dp1614
 g6
 V...and affixed with the Seal of of the Unites States.
@@ -5899,7 +5899,7 @@ sg10
 VBARTLET
 p1616
 sg12
-g13
+g31
 sa(dp1617
 g6
 VAnd it is done so on this day and in this place.
@@ -5954,5 +5954,5 @@ sg10
 VWILL
 p1631
 sg12
-g13
+g9
 sas.

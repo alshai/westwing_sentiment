@@ -35,96 +35,96 @@ sg10
 VBARTLET
 p16
 sg12
-g13
-sa(dp17
+S'negative'
+p17
+sa(dp18
 g6
 VOr tell jokes.
-p18
+p19
 sg8
 g13
 sg10
 VELLIE
-p19
+p20
 sg12
-g13
-sa(dp20
+g17
+sa(dp21
 g6
 VNone?
-p21
+p22
 sg8
 g13
 sg10
 VBARTLET
-p22
+p23
 sg12
 g13
-sa(dp23
+sa(dp24
 g6
 VAfter the ceremony, short ones, preferably not during the toast.
-p24
+p25
 sg8
 g9
 sg10
 VELLIE
-p25
+p26
 sg12
 g13
-sa(dp26
+sa(dp27
 g6
 VI have to give a toast?
-p27
+p28
 sg8
 g9
 sg10
 VBARTLET
-p28
+p29
 sg12
 g13
-sa(dp29
+sa(dp30
 g6
 VDad.
-p30
+p31
 sg8
 g13
 sg10
 VELLIE
-p31
+p32
 sg12
 g13
-sa(dp32
+sa(dp33
 g6
 VTurn to face the bride. Now you lift the veil.
-p33
+p34
 sg8
 g9
 sg10
 VSHIRLEY
-p34
+p35
 sg12
-g13
-sa(dp35
+g9
+sa(dp36
 g6
 VGive her a kiss.
-p36
+p37
 sg8
 g9
 sg10
 VSHIRLEY
-p37
+p38
 sg12
-g13
-sa(dp38
+g9
+sa(dp39
 g6
 VWalk over here.
-p39
+p40
 sg8
 g13
 sg10
 VSHIRLEY
-p40
-sg12
-S'negative'
 p41
+sg12
+g13
 sa(dp42
 g6
 VAnd sit.
@@ -135,7 +135,7 @@ sg10
 VSHIRLEY
 p44
 sg12
-g13
+g17
 sa(dp45
 g6
 VKind of far from the action, isn't it?
@@ -168,18 +168,18 @@ sg10
 VBARTLET
 p53
 sg12
-g9
+g17
 sa(dp54
 g6
 VSir, I'm sorry to interrupt.
 p55
 sg8
-g41
+g17
 sg10
 VC.J.
 p56
 sg12
-g13
+g17
 sa(dp57
 g6
 VNo, that's quite all right. He was about to go into his Spencer Tracy routine.
@@ -223,7 +223,7 @@ sg10
 VBARTLET
 p68
 sg12
-g13
+g17
 sa(dp69
 g6
 VWe need to practice our dance. Father.
@@ -300,7 +300,7 @@ sg10
 VBARTLET
 p89
 sg12
-g13
+g9
 sa(dp90
 g6
 VPretty much.
@@ -311,13 +311,13 @@ sg10
 VKATE
 p92
 sg12
-g41
+g17
 sa(dp93
 g6
 VPresident Tarimov's got to be nervous with the Chinese camped out at the border and his own people ready to storm the palace gate.
 p94
 sg8
-g41
+g17
 sg10
 VC.J.
 p95
@@ -328,7 +328,7 @@ g6
 VNot nervous enough to reschedule elections. The Chinese seeing what we're seeing?
 p97
 sg8
-g41
+g17
 sg10
 VBARTLET
 p98
@@ -339,7 +339,7 @@ g6
 VThe Chinese won't enter the country unprovoked, but if those convoys cross the border...
 p100
 sg8
-g41
+g17
 sg10
 VC.J.
 p101
@@ -366,7 +366,7 @@ sg10
 VDEBBIE
 p107
 sg12
-g13
+g9
 sa(dp108
 g6
 VI'm going to need the Russian Ambassador, the Chinese Ambassador, and my wife; probably not in that order.
@@ -405,7 +405,7 @@ g6
 VMr. President, I hate to interrupt but we've got Secretary Hutchinson on the other line.
 p118
 sg8
-g41
+g17
 sg10
 VC.J.
 p119
@@ -421,7 +421,7 @@ sg10
 VBARTLET
 p122
 sg12
-g13
+g9
 sa(dp123
 g6
 VFlower arrangements.
@@ -531,7 +531,7 @@ sg10
 VDONNA
 p152
 sg12
-g41
+g17
 sa(dp153
 g6
 VWe drew record crowds in Jersey today, we got a four-point bump in the debate, the economists said a Santos Presidency might be the best thing to happen to race relations in this country since the Civil Rights Act. I'd say we're gaining ground.
@@ -685,7 +685,7 @@ sg10
 VJOSH
 p194
 sg12
-g13
+g9
 sa(dp195
 g6
 VGood night.
@@ -740,7 +740,7 @@ sg10
 VLEO
 p209
 sg12
-g13
+g9
 sa(dp210
 g6
 VYes, of course, Mr. Ambassador, but... We've been over this: it's three convoys, they're not invading. ... Yes, but as I've said... if the Chinese Army enters the country...
@@ -762,7 +762,7 @@ sg10
 VBARTLET
 p215
 sg12
-g13
+g9
 sa(dp216
 g6
 VHow long before the convoys reach Kazakhstan?
@@ -795,7 +795,7 @@ sg10
 VBARTLET
 p224
 sg12
-g41
+g13
 sa(dp225
 g6
 VHard to know.
@@ -894,7 +894,7 @@ sg10
 VC.J.
 p251
 sg12
-g9
+g17
 sa(dp252
 g6
 VAlright if I...
@@ -905,13 +905,13 @@ sg10
 VKATE
 p254
 sg12
-g13
+g17
 sa(dp255
 g6
 VYeah. No, wait a minute. The Chinese Ambassador's coming to the wedding.
 p256
 sg8
-g41
+g17
 sg10
 VC.J.
 p257
@@ -971,7 +971,7 @@ sg10
 VKATE
 p272
 sg12
-g9
+g17
 sa(dp273
 g6
 VYeah.
@@ -1010,7 +1010,7 @@ g6
 VIf you could sign off on those before you leave for DC.
 p283
 sg8
-g41
+g17
 sg10
 VBRAM
 p284
@@ -1070,7 +1070,7 @@ sg10
 VJOSH
 p299
 sg12
-g13
+g17
 sa(dp300
 g6
 VRight, and we'll want local press from south Jersey and the Philly suburbs. ... Great, thanks Edie.
@@ -1081,7 +1081,7 @@ sg10
 VDONNA
 p302
 sg12
-g13
+g9
 sa(dp303
 g6
 VDid you get the photo op with the Governor?
@@ -1114,7 +1114,7 @@ sg10
 VJOSH
 p311
 sg12
-g13
+g9
 sa(dp312
 g6
 VAdvance said he should get a cheese-steak.
@@ -1136,7 +1136,7 @@ sg10
 VJOSH
 p317
 sg12
-g13
+g17
 sa(dp318
 g6
 VThe press is a little antsy.
@@ -1153,7 +1153,7 @@ g6
 VYeah, tell them national polls are meaningless.
 p322
 sg8
-g41
+g17
 sg10
 VJOSH
 p323
@@ -1213,7 +1213,7 @@ sg10
 VDONNA
 p338
 sg12
-g13
+g9
 sa(dp339
 g6
 VDonna...
@@ -1230,7 +1230,7 @@ g6
 VThere's a rumor we're pulling out of Arizona.
 p343
 sg8
-g41
+g17
 sg10
 VDONNA
 p344
@@ -1241,12 +1241,12 @@ g6
 VOkay, I need you to kill that rumor.
 p346
 sg8
-g41
+g17
 sg10
 VJOSH
 p347
 sg12
-g13
+g17
 sa(dp348
 g6
 VIs it because we're moving money into Illinois?
@@ -1290,7 +1290,7 @@ sg10
 VLOU
 p359
 sg12
-g13
+g9
 sa(dp360
 g6
 VWe're down by nine points.
@@ -1312,7 +1312,7 @@ sg10
 VLOU
 p365
 sg12
-g13
+g17
 sa(dp366
 g6
 VWhat's going on?
@@ -1356,7 +1356,7 @@ sg10
 VLEO
 p377
 sg12
-g13
+g17
 sa(dp378
 g6
 V[into phone] All right, let me call you back.
@@ -1367,18 +1367,18 @@ sg10
 VSANTOS
 p380
 sg12
-g9
+g17
 sa(dp381
 g6
 VThis could be a mistake. We should have Joey rerun this in the morning.
 p382
 sg8
-g41
+g17
 sg10
 VJOSH
 p383
 sg12
-g13
+g17
 sa(dp384
 g6
 VNo, this has got to be the Trib.
@@ -1433,7 +1433,7 @@ sg10
 VLOU
 p398
 sg12
-g41
+g13
 sa(dp399
 g6
 V21 electoral votes.
@@ -1455,18 +1455,18 @@ sg10
 VLEO
 p404
 sg12
-g13
+g9
 sa(dp405
 g6
 VI'm thinking a 1500 rating points buy, maybe 2000.
 p406
 sg8
-g41
+g17
 sg10
 VLOU
 p407
 sg12
-g13
+g17
 sa(dp408
 g6
 VWhere the hell are we going to get the money?
@@ -1499,7 +1499,7 @@ sg10
 VBARTLET
 p416
 sg12
-g13
+g9
 sa(dp417
 g6
 VOnly by an hour and a half.
@@ -1532,7 +1532,7 @@ sg10
 VBARTLET
 p425
 sg12
-g13
+g17
 sa(dp426
 g6
 VReally? It was their relatives, who we don't particularly know, and our relatives, who we don't particularly like. They understood. The Faisons were so busy playing host they barely noticed. Although we did decide on Uncle Norman as a possible stand-in for you tomorrow.
@@ -1587,7 +1587,7 @@ sg10
 VABBEY
 p440
 sg12
-g13
+g9
 sa(dp441
 g6
 VI'll find her tomorrow.
@@ -1708,7 +1708,7 @@ sg10
 VLOU
 p473
 sg12
-g13
+g17
 sa(dp474
 g6
 VWell, conference room, five minutes.
@@ -1725,7 +1725,7 @@ g6
 VThree day schedule, point buys for the weekend, couple of calls.
 p478
 sg8
-g41
+g17
 sg10
 VEDIE
 p479
@@ -1736,12 +1736,12 @@ g6
 VYeah, anything urgent?
 p481
 sg8
-g41
+g17
 sg10
 VJOSH
 p482
 sg12
-g13
+g17
 sa(dp483
 g6
 VYou got ten state party chairs worried you're going to pull local advertising.
@@ -1763,7 +1763,7 @@ sg10
 VJOSH
 p488
 sg12
-g13
+g17
 sa(dp489
 g6
 VFolks in Illinois seem pretty excited.
@@ -1796,7 +1796,7 @@ sg10
 VEDIE
 p497
 sg12
-g13
+g9
 sa(dp498
 g6
 VWhat about the guy who's running the DNC field operation in Chicago?
@@ -1890,7 +1890,7 @@ g6
 VHoward in Advance is worried about the comparative visual.
 p523
 sg8
-g41
+g17
 sg10
 VDONNA
 p524
@@ -1912,7 +1912,7 @@ g6
 VI believe his exact words were "pansy-assed."
 p529
 sg8
-g41
+g17
 sg10
 VDONNA
 p530
@@ -1950,7 +1950,7 @@ sg10
 VJOSH
 p539
 sg12
-g13
+g17
 sa(dp540
 g6
 VWhiz?
@@ -1978,12 +1978,12 @@ g6
 VI'm getting calls about Illinois.
 p547
 sg8
-g41
+g17
 sg10
 VDONNA
 p548
 sg12
-g13
+g17
 sa(dp549
 g6
 VTell 'em we're excited.
@@ -2066,7 +2066,7 @@ g6
 VSo, rumor has it you're going to have a chat with the groom tomorrow morning.
 p571
 sg8
-g41
+g17
 sg10
 VABBEY
 p572
@@ -2082,7 +2082,7 @@ sg10
 VBARTLET
 p575
 sg12
-g13
+g17
 sa(dp576
 g6
 VWell, that will be lovely, I'm sure.
@@ -2093,7 +2093,7 @@ sg10
 VABBEY
 p578
 sg12
-g41
+g17
 sa(dp579
 g6
 VWhat, I did it with Doug.
@@ -2104,7 +2104,7 @@ sg10
 VBARTLET
 p581
 sg12
-g13
+g9
 sa(dp582
 g6
 VYeah. I don't recall that as being unqualified success.
@@ -2115,7 +2115,7 @@ sg10
 VABBEY
 p584
 sg12
-g41
+g17
 sa(dp585
 g6
 VWell, now I've had a run at it.
@@ -2159,7 +2159,7 @@ sg10
 VBARTLET
 p596
 sg12
-g13
+g17
 sa(dp597
 g6
 VNew Hampshire, Iowa, Wisconsin.
@@ -2236,7 +2236,7 @@ sg10
 VLOU
 p617
 sg12
-g13
+g17
 sa(dp618
 g6
 VWait.
@@ -2269,7 +2269,7 @@ sg10
 VJOSH
 p626
 sg12
-g9
+g13
 sa(dp627
 g6
 VYou need a ride?
@@ -2302,7 +2302,7 @@ sg10
 VLOU
 p635
 sg12
-g13
+g9
 sa(dp636
 g6
 V... should have been watching the sampling data. Of course, this campaign is still salvageable, but he certainly can't afford to make another Illinois-sized mistake, which is why I think some people have begun to question whether Josh Lyman is the right person to take the Santo's campaign down the stretch.
@@ -2335,7 +2335,7 @@ sg10
 VWILL
 p644
 sg12
-g13
+g17
 sa(dp645
 g6
 VThere's nothing better on?
@@ -2401,7 +2401,7 @@ sg10
 VWILL
 p662
 sg12
-g13
+g17
 sa(dp663
 g6
 VPau de soir?
@@ -2451,12 +2451,12 @@ g6
 VWell, that and the devaluation of the pound.
 p676
 sg8
-g41
+g17
 sg10
 VKATE
 p677
 sg12
-g13
+g9
 sa(dp678
 g6
 VRight. How about we swap in the Swedish Ambassador?
@@ -2500,7 +2500,7 @@ sg10
 VKATE
 p689
 sg12
-g13
+g9
 sa(dp690
 g6
 VSure.
@@ -2511,7 +2511,7 @@ sg10
 VWILL
 p692
 sg12
-g13
+g17
 sa(dp693
 g6
 VDo you mind if I take this for a little while.
@@ -2577,7 +2577,7 @@ sg10
 VLEO
 p710
 sg12
-g13
+g17
 sa(dp711
 g6
 VUh, Chicago field rep, Cooper, Steele, Golden, Walvick. I'm thinking New Hampshire, Iowa, Wisconsin.
@@ -2660,7 +2660,7 @@ g6
 VSoon you're going to be at two hours a night and it only gets worse if we win.
 p733
 sg8
-g41
+g17
 sg10
 VLEO
 p734
@@ -2720,7 +2720,7 @@ sg10
 VJOSH
 p749
 sg12
-g13
+g9
 sa(dp750
 g6
 VIowa, sure. How much are we up in Wisconsin?
@@ -2742,7 +2742,7 @@ sg10
 VJOSH
 p755
 sg12
-g13
+g9
 sa(dp756
 g6
 VYou consider cutbacks in Missouri?
@@ -2759,12 +2759,12 @@ g6
 VWe're only down two points. I don't want to cede the state.
 p760
 sg8
-g41
+g17
 sg10
 VJOSH
 p761
 sg12
-g13
+g17
 sa(dp762
 g6
 VLeo!
@@ -2781,7 +2781,7 @@ g6
 VSounds right. I've got to go make nice with the fat cats.
 p766
 sg8
-g41
+g17
 sg10
 VLEO
 p767
@@ -2797,7 +2797,7 @@ sg10
 VJOSH
 p770
 sg12
-g41
+g9
 sa(dp771
 g6
 VGet some sleep.
@@ -2808,7 +2808,7 @@ sg10
 VLEO
 p773
 sg12
-g13
+g17
 sa(dp774
 g6
 VYeah.
@@ -2836,12 +2836,12 @@ g6
 VI've been telling you guys we've got a shot in Illinois. I just wish you'd called sooner.
 p781
 sg8
-g41
+g17
 sg10
 VMITCHELL
 p782
 sg12
-g13
+g17
 sa(dp783
 g6
 VJust tell me we can get the full field operation ready by November 8th.
@@ -2885,7 +2885,7 @@ sg10
 VELLIE
 p794
 sg12
-g13
+g17
 sa(dp795
 g6
 VYou are most welcome.
@@ -2918,7 +2918,7 @@ sg10
 VABBEY
 p803
 sg12
-g13
+g9
 sa(dp804
 g6
 VYes.
@@ -2940,7 +2940,7 @@ sg10
 VABBEY
 p809
 sg12
-g13
+g9
 sa(dp810
 g6
 VYes.
@@ -2962,7 +2962,7 @@ sg10
 VCAROL
 p815
 sg12
-g13
+g9
 sa(dp816
 g6
 VBonjour, Monsieur.
@@ -2973,7 +2973,7 @@ sg10
 VELLIE
 p818
 sg12
-g13
+g9
 sa(dp819
 g6
 VHow many of these do we have?
@@ -3012,7 +3012,7 @@ g6
 VMaybe we ought to skip Romania.
 p829
 sg8
-g41
+g17
 sg10
 VCAROL
 p830
@@ -3061,7 +3061,7 @@ sg10
 VBARTLET
 p842
 sg12
-g13
+g9
 sa(dp843
 g6
 VMaybe not. Our Keyhole satellites took these photographs of the Russian military base in Omsk two hours ago.
@@ -3083,7 +3083,7 @@ sg10
 VBARTLET
 p848
 sg12
-g13
+g9
 sa(dp849
 g6
 VClose to 100,000 men.
@@ -3155,7 +3155,7 @@ g6
 VYeah, but you're talking about leaving 9,000 Marines in the middle of a wrestling match between two 800,000-pould gorillas.
 p868
 sg8
-g41
+g17
 sg10
 VC.J.
 p869
@@ -3193,7 +3193,7 @@ sg10
 VDEBBIE
 p878
 sg12
-g9
+g13
 sa(dp879
 g6
 VNo, thank you.
@@ -3204,7 +3204,7 @@ sg10
 VVIC
 p881
 sg12
-g9
+g13
 sa(dp882
 g6
 VWater?
@@ -3281,7 +3281,7 @@ sg10
 VHUTCHINSON
 p902
 sg12
-g13
+g17
 sa(dp903
 g6
 VYeah.
@@ -3358,7 +3358,7 @@ sg10
 VBARTLET
 p923
 sg12
-g13
+g17
 sa(dp924
 g6
 VTell me you didn't plan that.
@@ -3369,7 +3369,7 @@ sg10
 VC.J.
 p926
 sg12
-g9
+g13
 sa(dp927
 g6
 VIf you go dark in Wisconsin...
@@ -3413,7 +3413,7 @@ sg10
 VJOSH
 p938
 sg12
-g13
+g9
 sa(dp939
 g6
 VVinick's got 1500 points out of Milwaukee, Green Bay, Madison; he's outspending you guys 2-to-1.
@@ -3457,7 +3457,7 @@ sg10
 VJOSH
 p950
 sg12
-g13
+g17
 sa(dp951
 g6
 VYou're up four in Michigan and three in Jersey; you should trim there.
@@ -3479,7 +3479,7 @@ sg10
 VJOSH
 p956
 sg12
-g13
+g17
 sa(dp957
 g6
 VHey, how was Philly?
@@ -3501,13 +3501,13 @@ sg10
 VDONNA
 p962
 sg12
-g13
+g9
 sa(dp963
 g6
 VNo, we got it. A little problem with the cheesesteak, though.
 p964
 sg8
-g41
+g17
 sg10
 VDONNA
 p965
@@ -3518,12 +3518,12 @@ g6
 VHe screwed up the order.
 p967
 sg8
-g41
+g17
 sg10
 VJOSH
 p968
 sg12
-g13
+g17
 sa(dp969
 g6
 VSauce and whiz, no onions.
@@ -3534,7 +3534,7 @@ sg10
 VDONNA
 p971
 sg12
-g13
+g17
 sa(dp972
 g6
 VThat sounds fine.
@@ -3567,7 +3567,7 @@ sg10
 VDONNA
 p980
 sg12
-g13
+g17
 sa(dp981
 g6
 VWho was at the photo op?
@@ -3600,7 +3600,7 @@ sg10
 VMONTGOMERY
 p989
 sg12
-g13
+g9
 sa(dp990
 g6
 VAbsolutely. Nice to have it in play.
@@ -3644,7 +3644,7 @@ sg10
 VMONTGOMERY
 p1001
 sg12
-g13
+g17
 sa(dp1002
 g6
 VWe're only up by six in New York. Any state we're losing by ten doesn't get a lot of attention.
@@ -3672,12 +3672,12 @@ g6
 VThere's no doubt.
 p1009
 sg8
-g41
+g17
 sg10
 VJOSH
 p1010
 sg12
-g13
+g17
 sa(dp1011
 g6
 VListen, I heard there's a rumor you're pulling money out of Iowa.
@@ -3754,7 +3754,7 @@ sg10
 VWILL
 p1031
 sg12
-g13
+g17
 sa(dp1032
 g6
 VCanadian Prime Minister won't mind being stuck in the corner?
@@ -3842,7 +3842,7 @@ sg10
 VKATE
 p1055
 sg12
-g41
+g17
 sa(dp1056
 g6
 VSure.
@@ -3853,7 +3853,7 @@ sg10
 VWILL
 p1058
 sg12
-g13
+g17
 sa(dp1059
 g6
 VYou're not going?
@@ -3908,7 +3908,7 @@ sg10
 VWILL
 p1073
 sg12
-g13
+g17
 sa(dp1074
 g6
 VI mean, I was just going to go stag, but... if you're not busy later... don't have anything to do...
@@ -3919,7 +3919,7 @@ sg10
 VKATE
 p1076
 sg12
-g13
+g17
 sa(dp1077
 g6
 VYou clean up nice.
@@ -3958,7 +3958,7 @@ g6
 VYeah, wait till you see the pictures.
 p1087
 sg8
-g41
+g17
 sg10
 VSANTOS
 p1088
@@ -3985,7 +3985,7 @@ sg10
 VSANTOS
 p1094
 sg12
-g41
+g13
 sa(dp1095
 g6
 VHow's the governor?
@@ -4018,13 +4018,13 @@ sg10
 VLEO
 p1103
 sg12
-g13
+g9
 sa(dp1104
 g6
 VHe's not the only one that's concerned. I've gotten calls.
 p1105
 sg8
-g41
+g17
 sg10
 VSANTOS
 p1106
@@ -4073,7 +4073,7 @@ sg10
 VLEO
 p1118
 sg12
-g13
+g17
 sa(dp1119
 g6
 VCongressman. You wanted to screen the new Texas ad buy?
@@ -4095,7 +4095,7 @@ sg10
 VSANTOS
 p1124
 sg12
-g13
+g17
 sa(dp1125
 g6
 VYeah.
@@ -4172,7 +4172,7 @@ sg10
 VJOSH
 p1145
 sg12
-g13
+g9
 sa(dp1146
 g6
 VI just called the media team to pull the money out of Wisconsin.
@@ -4288,7 +4288,7 @@ g6
 VYou should be heading back to the Residence to change. You don't want to be late to the cocktail hour you're hosting.
 p1177
 sg8
-g41
+g17
 sg10
 VDEBBIE
 p1178
@@ -4359,7 +4359,7 @@ sg10
 VBARTLET
 p1196
 sg12
-g13
+g17
 sa(dp1197
 g6
 VThat's when I decided to marry her: a year ago, on our third date.
@@ -4425,7 +4425,7 @@ sg10
 VGOODWIN
 p1214
 sg12
-g13
+g9
 sa(dp1215
 g6
 VWishful thinking, maybe.
@@ -4436,7 +4436,7 @@ sg10
 VC.J.
 p1217
 sg12
-g13
+g17
 sa(dp1218
 g6
 VOh, no. Those of us on the sidelines can see what a great job he's doing.
@@ -4458,7 +4458,7 @@ sg10
 VJOSH
 p1223
 sg12
-g13
+g9
 sa(dp1224
 g6
 VNow, if we can just get this one to run for something. Good to see you, Josh.
@@ -4480,7 +4480,7 @@ sg10
 VJOSH
 p1229
 sg12
-g13
+g9
 sa(dp1230
 g6
 VKeep up the good work.
@@ -4491,7 +4491,7 @@ sg10
 VGOODWIN
 p1232
 sg12
-g13
+g9
 sa(dp1233
 g6
 VI appreciate it.
@@ -4502,7 +4502,7 @@ sg10
 VJOSH
 p1235
 sg12
-g13
+g17
 sa(dp1236
 g6
 VBarry Goodwin running the party; those were the days, huh?
@@ -4568,7 +4568,7 @@ sg10
 VJOSH
 p1253
 sg12
-g13
+g9
 sa(dp1254
 g6
 VPinching pennies?
@@ -4590,7 +4590,7 @@ sg10
 VJOSH
 p1259
 sg12
-g41
+g17
 sa(dp1260
 g6
 VYou're up a bit in Washington. Can you take some money out of Seattle?
@@ -4634,7 +4634,7 @@ sg10
 VJOSH
 p1271
 sg12
-g13
+g17
 sa(dp1272
 g6
 VIs that Kazakhstan?
@@ -4700,13 +4700,13 @@ sg10
 VC.J.
 p1289
 sg12
-g13
+g9
 sa(dp1290
 g6
 VNothing says "International Crisis" like a pair of black stilettos.
 p1291
 sg8
-g41
+g17
 sg10
 VKATE
 p1292
@@ -4733,7 +4733,7 @@ sg10
 VKATE
 p1298
 sg12
-g13
+g17
 sa(dp1299
 g6
 VYeah. You really look nice.
@@ -4744,7 +4744,7 @@ sg10
 VC.J.
 p1301
 sg12
-g13
+g17
 sa(dp1302
 g6
 VOk, now I'm starting to think you're hitting on me.
@@ -4777,7 +4777,7 @@ sg10
 VKATE
 p1310
 sg12
-g13
+g17
 sa(dp1311
 g6
 VWho's the guy?
@@ -4810,7 +4810,7 @@ sg10
 VC.J.
 p1319
 sg12
-g13
+g9
 sa(dp1320
 g6
 VOkay, okay. I have a date.
@@ -4920,7 +4920,7 @@ sg10
 VKATE
 p1349
 sg12
-g13
+g17
 sa(dp1350
 g6
 VWhat have we got Miles, other than the sensation that we've all suddenly landed in a British drawing room farce.
@@ -4937,7 +4937,7 @@ g6
 VThere's been an incident in Kazakhstan. The protestors at Alma Ata turned violent and Tarimov sent in riot police.
 p1354
 sg8
-g41
+g17
 sg10
 VHUTCHINSON
 p1355
@@ -4997,7 +4997,7 @@ sg10
 VDEBBIE
 p1370
 sg12
-g13
+g17
 sa(dp1371
 g6
 VIs this a test?
@@ -5008,7 +5008,7 @@ sg10
 VBARTLET
 p1373
 sg12
-g41
+g13
 sa(dp1374
 g6
 VDignitary Bingo, ten bucks a sheet; are you in?
@@ -5030,7 +5030,7 @@ sg10
 VBARTLET
 p1379
 sg12
-g13
+g17
 sa(dp1380
 g6
 VPhoto op with Congressman Santos and then bridal party photo at 4:00.
@@ -5052,7 +5052,7 @@ sg10
 VBARTLET
 p1385
 sg12
-g13
+g17
 sa(dp1386
 g6
 VMaybe. Is that the Swiss Ambassador or not?
@@ -5074,7 +5074,7 @@ sg10
 VBARTLET
 p1391
 sg12
-g13
+g17
 sa(dp1392
 g6
 V50 bucks.
@@ -5184,7 +5184,7 @@ sg10
 VLEO
 p1421
 sg12
-g13
+g17
 sa(dp1422
 g6
 VYou think that's impressive, you ought to see me do cheese steak.
@@ -5195,7 +5195,7 @@ sg10
 VSANTOS
 p1424
 sg12
-g13
+g17
 sa(dp1425
 g6
 VSenator Montgomery wanted a word.
@@ -5250,7 +5250,7 @@ sg10
 VBARTLET
 p1439
 sg12
-g13
+g9
 sa(dp1440
 g6
 VThings are looking up, bub.
@@ -5305,7 +5305,7 @@ sg10
 VBARTLET
 p1454
 sg12
-g13
+g17
 sa(dp1455
 g6
 VHow's everything on this end?
@@ -5327,7 +5327,7 @@ sg10
 VBARTLET
 p1460
 sg12
-g13
+g9
 sa(dp1461
 g6
 VSeriously?
@@ -5366,12 +5366,12 @@ g6
 VI've been getting some calls about Josh.
 p1471
 sg8
-g41
+g17
 sg10
 VBARTLET
 p1472
 sg12
-g13
+g17
 sa(dp1473
 g6
 VYeah.
@@ -5393,13 +5393,13 @@ sg10
 VBARTLET
 p1478
 sg12
-g13
+g9
 sa(dp1479
 g6
 VWe're losing six weeks out, people get antsy.
 p1480
 sg8
-g41
+g17
 sg10
 VLEO
 p1481
@@ -5415,7 +5415,7 @@ sg10
 VBARTLET
 p1484
 sg12
-g13
+g17
 sa(dp1485
 g6
 VAbsolutely. Who'd they want to replace me?
@@ -5437,7 +5437,7 @@ sg10
 VBARTLET
 p1490
 sg12
-g13
+g17
 sa(dp1491
 g6
 VOkay, enough gossiping, ladies.
@@ -5503,7 +5503,7 @@ sg10
 VBARTLET
 p1508
 sg12
-g13
+g17
 sa(dp1509
 g6
 VWe got a little ahead of the game so I thought you might want to get in that dance.
@@ -5547,7 +5547,7 @@ sg10
 VBARTLET
 p1520
 sg12
-g13
+g17
 sa(dp1521
 g6
 VI do now?
@@ -5569,7 +5569,7 @@ sg10
 VBARTLET
 p1526
 sg12
-g13
+g17
 sa(dp1527
 g6
 VWhat did you say?
@@ -5602,7 +5602,7 @@ sg10
 VABBEY
 p1535
 sg12
-g13
+g17
 sa(dp1536
 g6
 VMr. President. The Chinese troops have started moving into Kazakhstan. We've got a translator in the Oval, we're getting the Premier on the line now.
@@ -5679,7 +5679,7 @@ sg10
 VDONNA
 p1556
 sg12
-g41
+g9
 sa(dp1557
 g6
 VYeah?
@@ -5734,7 +5734,7 @@ sg10
 VDONNA
 p1571
 sg12
-g13
+g17
 sa(dp1572
 g6
 VHe was just with the President. I'm sure he's still...
@@ -5756,7 +5756,7 @@ sg10
 VDONNA
 p1577
 sg12
-g13
+g17
 sa(dp1578
 g6
 VHe was with the Congressman and Barry Goodwin and Senator Montgomery. It looked pretty intense. [pause] Illinois? [pause] I'm sure it's nothing to worry about.
@@ -5789,18 +5789,18 @@ sg10
 VLEO
 p1586
 sg12
-g13
+g17
 sa(dp1587
 g6
 VJosh got it wrong in Illinois.
 p1588
 sg8
-g41
+g17
 sg10
 VMONTGOMERY
 p1589
 sg12
-g13
+g17
 sa(dp1590
 g6
 VWell, sure, with the benefit of hindsight.
@@ -5811,7 +5811,7 @@ sg10
 VLEO
 p1592
 sg12
-g13
+g9
 sa(dp1593
 g6
 V21 electoral votes.
@@ -5921,7 +5921,7 @@ sg10
 VABBEY
 p1622
 sg12
-g13
+g17
 sa(dp1623
 g6
 VIt'll wrinkle. [pause] You know, we considered going to Las Vegas.
@@ -5943,7 +5943,7 @@ sg10
 VABBEY
 p1628
 sg12
-g13
+g9
 sa(dp1629
 g6
 VCome in.
@@ -5965,7 +5965,7 @@ sg10
 VWILL
 p1634
 sg12
-g13
+g9
 sa(dp1635
 g6
 VHello.
@@ -5982,7 +5982,7 @@ g6
 VC.J. asked me to tell you that they started circulating additional refreshments downstairs, in case you were worried.
 p1639
 sg8
-g41
+g17
 sg10
 VWILL
 p1640
@@ -6004,12 +6004,12 @@ g6
 VI'm afraid not.
 p1645
 sg8
-g41
+g17
 sg10
 VWILL
 p1646
 sg12
-g13
+g17
 sa(dp1647
 g6
 VWell, I should, uh... get back. Congratulations.
@@ -6020,7 +6020,7 @@ sg10
 VWILL
 p1649
 sg12
-g13
+g17
 sa(dp1650
 g6
 VWhy is Will Bailey wearing a tux?
@@ -6086,13 +6086,13 @@ sg10
 VTRANSLATOR
 p1667
 sg12
-g13
+g17
 sa(dp1668
 g6
 VLian, I'm not condoning anything. I am trying to stop two nuclear powers from going to war over oil!
 p1669
 sg8
-g41
+g17
 sg10
 VBARTLET
 p1670
@@ -6103,7 +6103,7 @@ g6
 VOil? Mr. President, this is not about oil. It is about the brutal suppression of a Democratic movement; a movement that includes many ethnic Chinese - our brothers and sisters. You, of all people, should understand our concern.
 p1672
 sg8
-g41
+g17
 sg10
 VTRANSLATOR
 p1673
@@ -6114,7 +6114,7 @@ g6
 VLook, you've only got one more hour of campaigning left anyway.
 p1675
 sg8
-g41
+g17
 sg10
 VMONTGOMERY
 p1676
@@ -6141,7 +6141,7 @@ sg10
 VLEO
 p1682
 sg12
-g13
+g17
 sa(dp1683
 g6
 VDue respect, you're not exactly a force on the campaign trail.
@@ -6158,7 +6158,7 @@ g6
 VJosh is going to have to move his war room to the Congressman's plane in the next few weeks anyway. You guys start campaigning together, you can work out of there.
 p1687
 sg8
-g41
+g17
 sg10
 VGOODWIN
 p1688
@@ -6185,7 +6185,7 @@ sg10
 VLEO
 p1694
 sg12
-g13
+g17
 sa(dp1695
 g6
 VYou'd get a boost from the joint appearances.
@@ -6284,18 +6284,18 @@ sg10
 VSANTOS
 p1721
 sg12
-g41
+g13
 sa(dp1722
 g6
 VHey, stranger.
 p1723
 sg8
-g41
+g17
 sg10
 VABBEY
 p1724
 sg12
-g13
+g17
 sa(dp1725
 g6
 VAbbey.
@@ -6361,7 +6361,7 @@ sg10
 VABBEY
 p1742
 sg12
-g13
+g9
 sa(dp1743
 g6
 VHow's Ellie?
@@ -6383,7 +6383,7 @@ sg10
 VABBEY
 p1748
 sg12
-g13
+g9
 sa(dp1749
 g6
 VThat's good.
@@ -6394,7 +6394,7 @@ sg10
 VLEO
 p1751
 sg12
-g13
+g9
 sa(dp1752
 g6
 VNot really. The dress... it wrinkles.
@@ -6405,7 +6405,7 @@ sg10
 VABBEY
 p1754
 sg12
-g13
+g17
 sa(dp1755
 g6
 VI'm sure he'll be here any minute.
@@ -6460,7 +6460,7 @@ sg10
 VTRANSLATOR
 p1769
 sg12
-g13
+g17
 sa(dp1770
 g6
 VLet me at least talk to the Russians. Try to convince them to push President Tarimov to reschedule elections.
@@ -6515,7 +6515,7 @@ sg10
 VBARTLET
 p1784
 sg12
-g13
+g9
 sa(dp1785
 g6
 VIs your daughter married?
@@ -6669,7 +6669,7 @@ sg10
 VLEO
 p1826
 sg12
-g13
+g9
 sa(dp1827
 g6
 VYeah? Who's he want to replace me.
@@ -6719,7 +6719,7 @@ g6
 VIt's Goodwin too, isn't it? Son of a bitch. He was just shaking my... So, who do they want? Is it Pipeman? Bloom? I mean, the guy's practically tone deaf when it comes to message politics, but I'm sure he'd be good.
 p1840
 sg8
-g41
+g17
 sg10
 VJOSH
 p1841
@@ -6785,7 +6785,7 @@ g6
 VI wouldn't have gotten the money because I would have been in Illinois. The polls there looked as bad as when we were running against Eisenhower. I would have made the same decision as you. And that is exactly what I told Barry Goodwin and George Montgomery. Look, these are tough calls. It's impossible to know how they're going to turn out. What's important is how you respond when you get it wrong, how you react, what your next move is.
 p1858
 sg8
-g41
+g17
 sg10
 VLEO
 p1859
@@ -6796,23 +6796,23 @@ g6
 VI don't know what my next move is. I've been staring at this damn map all day. I still haven't got a clue. Iowa's vulnerable. I don't know what I was thinking in Wisconsin. We can't take a dime out of Ohio, Florida, Texas... I don't know where to start. They're right: you should take over.
 p1861
 sg8
-g41
+g17
 sg10
 VJOSH
 p1862
 sg12
-g13
+g17
 sa(dp1863
 g6
 VYou're all trying to kill me.
 p1864
 sg8
-g41
+g17
 sg10
 VLEO
 p1865
 sg12
-g13
+g17
 sa(dp1866
 g6
 VThe wedding's about to start. Give me the map. Come on, we'll talk about it on the way.
@@ -6834,7 +6834,7 @@ sg10
 VABBEY
 p1871
 sg12
-g13
+g17
 sa(dp1872
 g6
 VHoney, you look...
@@ -6867,7 +6867,7 @@ sg10
 VBARTLET
 p1880
 sg12
-g13
+g17
 sa(dp1881
 g6
 VIt's okay, Dad, really. You wanted a White House wedding.
@@ -6900,7 +6900,7 @@ sg10
 VLEO
 p1889
 sg12
-g13
+g9
 sa(dp1890
 g6
 VHow'd it go?
@@ -6911,7 +6911,7 @@ sg10
 VSANTOS
 p1892
 sg12
-g13
+g17
 sa(dp1893
 g6
 VFine.
@@ -6977,7 +6977,7 @@ sg10
 VELLIE
 p1910
 sg12
-g13
+g9
 sa(dp1911
 g6
 VYou know, one time during my first term in Congress we went on a Congressional delegation to East Germany. You probably don't remember, you couldn't have been more than four or five. But anyway, we got to East Berlin and we were waiting online with our passports at Checkpoint Charlie when all of a sudden you bolted out into the no-man's land between the two guard posts and everything stopped. The MPs just froze and your mother and I were scared to death, but not you. You just calmly looked up at one of the soldiers on the wall and you waved and the soldier waved back. And then...

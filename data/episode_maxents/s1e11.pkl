@@ -101,7 +101,7 @@ sg10
 VDONNA
 p34
 sg12
-g9
+g16
 sa(dp35
 g6
 VCaddying?
@@ -157,7 +157,7 @@ sg10
 VJOSH
 p50
 sg12
-g9
+g49
 sa(dp51
 g6
 VOf course it's good exercise, I'm lugging your golf clubs around.
@@ -212,7 +212,7 @@ sg10
 VJOSH
 p65
 sg12
-g16
+g9
 sa(dp66
 g6
 V[to guard] Why do you let him in the building?
@@ -388,7 +388,7 @@ sg10
 VJOSH
 p113
 sg12
-g9
+g49
 sa(dp114
 g6
 VI've been subpoenaed.
@@ -399,7 +399,7 @@ sg10
 VJOSH
 p116
 sg12
-g9
+g16
 sa(dp117
 g6
 V[taking one] Yes, thanks. The President asked me to come by.
@@ -432,7 +432,7 @@ sg10
 VBARTLET
 p125
 sg12
-g9
+g49
 sa(dp126
 g6
 V[sits] Mr. President, twenty-five minutes ago, the Indian army launched an invasion along the Kashmir cease-fire line, into Pakistan-held Kashmir territory.
@@ -520,7 +520,7 @@ sg10
 VMITCH
 p149
 sg12
-g9
+g49
 sa(dp150
 g6
 VAll told?
@@ -542,7 +542,7 @@ sg10
 VFITZWALLACE
 p155
 sg12
-g9
+g49
 sa(dp156
 g6
 V[looking up] In the last twenty-five minutes?
@@ -575,7 +575,7 @@ sg10
 VBARTLET
 p164
 sg12
-g9
+g16
 sa(dp165
 g6
 VYes sir.
@@ -597,7 +597,7 @@ sg10
 VBARTLET
 p170
 sg12
-g9
+g16
 sa(dp171
 g6
 VYes sir.
@@ -674,7 +674,7 @@ sg10
 VBARTLET
 p191
 sg12
-g9
+g16
 sa(dp192
 g6
 VPossibly.
@@ -707,7 +707,7 @@ sg10
 VFITZWALLACE
 p200
 sg12
-g9
+g16
 sa(dp201
 g6
 VOh, I wouldn't worry about that, that's probably not important information.
@@ -718,7 +718,7 @@ sg10
 VBARTLET
 p203
 sg12
-g9
+g16
 sa(dp204
 g6
 VHow intense?
@@ -751,7 +751,7 @@ sg10
 VFITZWALLACE
 p212
 sg12
-g9
+g49
 sa(dp213
 g6
 VAll right. I'm ordering the Crisis Task Force activated, and I want you to prepare to give me a national security briefing. Thank you.
@@ -784,7 +784,7 @@ sg10
 VTOBY
 p221
 sg12
-g9
+g49
 sa(dp222
 g6
 VThe Pakistani ambassador.
@@ -795,7 +795,7 @@ sg10
 VSAM
 p224
 sg12
-g9
+g49
 sa(dp225
 g6
 VYou're saying our guy in Pakistan, or their guy here?
@@ -861,7 +861,7 @@ sg10
 VCHARLIE
 p242
 sg12
-g9
+g49
 sa(dp243
 g6
 VHey Charlie.
@@ -905,7 +905,7 @@ sg10
 VTOBY
 p254
 sg12
-g9
+g49
 sa(dp255
 g6
 V[to Toby] It's been over a year.
@@ -938,7 +938,7 @@ sg10
 VSAM
 p263
 sg12
-g9
+g16
 sa(dp264
 g6
 VThat's right.
@@ -960,7 +960,7 @@ sg10
 VSAM
 p269
 sg12
-g9
+g16
 sa(dp270
 g6
 VYeah.
@@ -1004,7 +1004,7 @@ sg10
 VBARTLET
 p281
 sg12
-g9
+g16
 sa(dp282
 g6
 VWell, I feel better already, Mr. President.
@@ -1037,7 +1037,7 @@ sg10
 VBARTLET
 p290
 sg12
-g9
+g16
 sa(dp291
 g6
 VHow could the CIA miss 300,000 armed people walking all over-
@@ -1191,7 +1191,7 @@ sg10
 VLEO
 p332
 sg12
-g9
+g16
 sa(dp333
 g6
 VCan I tell the room there's a full lid?
@@ -1213,7 +1213,7 @@ sg10
 VLEO
 p338
 sg12
-g9
+g49
 sa(dp339
 g6
 VOkay. I'll send 'em home.
@@ -1235,7 +1235,7 @@ sg10
 VBARTLET
 p344
 sg12
-g9
+g49
 sa(dp345
 g6
 VThank you, Mr. President. [exits]
@@ -1246,7 +1246,7 @@ sg10
 VC.J.
 p347
 sg12
-g49
+g9
 sa(dp348
 g6
 V[to Toby] I'll brief her in the morning.
@@ -1312,7 +1312,7 @@ sg10
 VCHARLIE
 p365
 sg12
-g9
+g49
 sa(dp366
 g6
 VIs he in?
@@ -1345,7 +1345,7 @@ sg10
 VZOEY
 p374
 sg12
-g9
+g49
 sa(dp375
 g6
 VHe'll want to know you're here.
@@ -1367,7 +1367,7 @@ sg10
 VZOEY
 p380
 sg12
-g9
+g16
 sa(dp381
 g6
 VOkay.
@@ -1411,7 +1411,7 @@ sg10
 VZOEY
 p392
 sg12
-g9
+g16
 sa(dp393
 g6
 VNo, it's all right.
@@ -1466,7 +1466,7 @@ sg10
 VCHARLIE
 p407
 sg12
-g9
+g16
 sa(dp408
 g6
 VHi Zoey.
@@ -1521,7 +1521,7 @@ sg10
 VJOSH
 p422
 sg12
-g9
+g16
 sa(dp423
 g6
 VBy Claypool?
@@ -1587,7 +1587,7 @@ sg10
 VJOSH
 p440
 sg12
-g9
+g16
 sa(dp441
 g6
 VWho you bringing?
@@ -1598,7 +1598,7 @@ sg10
 VSAM
 p443
 sg12
-g49
+g9
 sa(dp444
 g6
 VI'm not bringing anyone.
@@ -1609,7 +1609,7 @@ sg10
 VJOSH
 p446
 sg12
-g9
+g16
 sa(dp447
 g6
 VJosh.
@@ -1642,7 +1642,7 @@ sg10
 VSAM
 p455
 sg12
-g9
+g16
 sa(dp456
 g6
 VI am a lawyer.
@@ -1653,7 +1653,7 @@ sg10
 VJOSH
 p458
 sg12
-g9
+g16
 sa(dp459
 g6
 VYeah. Seriously, you should bring a real lawyer.
@@ -1752,7 +1752,7 @@ sg10
 VJOSH
 p485
 sg12
-g9
+g16
 sa(dp486
 g6
 VI meant the President.
@@ -1763,7 +1763,7 @@ sg10
 VMANDY
 p488
 sg12
-g9
+g16
 sa(dp489
 g6
 VI know. I'm just sayin'. [goes into his office]
@@ -1774,7 +1774,7 @@ sg10
 VJOSH
 p491
 sg12
-g9
+g16
 sa(dp492
 g6
 VSam, could I talk to you for a second?
@@ -1950,7 +1950,7 @@ sg10
 VMANDY
 p539
 sg12
-g9
+g16
 sa(dp540
 g6
 VYou think Josh and Toby might have a problem with that?
@@ -1972,7 +1972,7 @@ sg10
 VMANDY
 p545
 sg12
-g9
+g49
 sa(dp546
 g6
 VAnd he's a Republican.
@@ -1983,7 +1983,7 @@ sg10
 VSAM
 p548
 sg12
-g9
+g49
 sa(dp549
 g6
 VHe came to me.
@@ -2115,7 +2115,7 @@ sg10
 VSAM
 p584
 sg12
-g9
+g49
 sa(dp585
 g6
 VNot lately.
@@ -2126,7 +2126,7 @@ sg10
 VMANDY
 p587
 sg12
-g9
+g16
 sa(dp588
 g6
 VI disagree.
@@ -2137,7 +2137,7 @@ sg10
 VSAM
 p590
 sg12
-g9
+g16
 sa(dp591
 g6
 VThe banking bill, the land-use rider, assault weapons? You like Mike Brace.
@@ -2170,7 +2170,7 @@ sg10
 VMANDY
 p599
 sg12
-g9
+g16
 sa(dp600
 g6
 VThis is going to be an impossible sell.
@@ -2192,7 +2192,7 @@ sg10
 VMANDY
 p605
 sg12
-g9
+g16
 sa(dp606
 g6
 VBut it will be.
@@ -2203,7 +2203,7 @@ sg10
 VSAM
 p608
 sg12
-g16
+g49
 sa(dp609
 g6
 VI know.
@@ -2214,7 +2214,7 @@ sg10
 VMANDY
 p611
 sg12
-g9
+g16
 sa(dp612
 g6
 VI admire your pluck.
@@ -2225,7 +2225,7 @@ sg10
 VSAM
 p614
 sg12
-g9
+g49
 sa(dp615
 g6
 VI'm sorry, what part of me do you admire?
@@ -2401,7 +2401,7 @@ sg10
 VC.J.
 p662
 sg12
-g9
+g49
 sa(dp663
 g6
 VI've got a source at the Pentagon who says in the last few hours there's been massive troop movement on the Kashmir border.
@@ -2456,7 +2456,7 @@ sg10
 VBRUCE
 p677
 sg12
-g9
+g16
 sa(dp678
 g6
 VWhat kind of troop movement?
@@ -2533,7 +2533,7 @@ sg10
 VC.J.
 p698
 sg12
-g9
+g16
 sa(dp699
 g6
 VOkay.
@@ -2599,7 +2599,7 @@ sg10
 VLEO
 p716
 sg12
-g9
+g16
 sa(dp717
 g6
 VWell, we've got ourselves a ballgame.
@@ -2676,7 +2676,7 @@ sg10
 VTOBY
 p737
 sg12
-g9
+g49
 sa(dp738
 g6
 VHe has information about the investigation.
@@ -2687,7 +2687,7 @@ sg10
 VDONNA
 p740
 sg12
-g9
+g49
 sa(dp741
 g6
 VIt wasn't an investigation.
@@ -2698,7 +2698,7 @@ sg10
 VTOBY
 p743
 sg12
-g9
+g16
 sa(dp744
 g6
 VI'm sure Josh'll mention that.
@@ -2720,7 +2720,7 @@ sg10
 VTOBY
 p749
 sg12
-g9
+g16
 sa(dp750
 g6
 VSaid he didn't need one.
@@ -2731,7 +2731,7 @@ sg10
 VDONNA
 p752
 sg12
-g9
+g16
 sa(dp753
 g6
 VOh, good, I like the sound of this.
@@ -2852,7 +2852,7 @@ sg10
 VMARGARET
 p785
 sg12
-g9
+g16
 sa(dp786
 g6
 V[pointing across the hall] Oh, including this one.
@@ -2863,7 +2863,7 @@ sg10
 VLEO
 p788
 sg12
-g9
+g49
 sa(dp789
 g6
 VThis happened last night?
@@ -2907,7 +2907,7 @@ sg10
 VLEO
 p800
 sg12
-g9
+g16
 sa(dp801
 g6
 VYou told me the lid was on.
@@ -2984,7 +2984,7 @@ sg10
 VC.J.
 p821
 sg12
-g9
+g49
 sa(dp822
 g6
 VAnd four CVEs.
@@ -3028,7 +3028,7 @@ sg10
 VC.J.
 p833
 sg12
-g9
+g16
 sa(dp834
 g6
 VC.J.
@@ -3050,7 +3050,7 @@ sg10
 VC.J.
 p839
 sg12
-g9
+g16
 sa(dp840
 g6
 VAs soon as you tell 'em India's the story, this is forgotten.
@@ -3072,7 +3072,7 @@ sg10
 VC.J.
 p845
 sg12
-g9
+g16
 sa(dp846
 g6
 VYeah.
@@ -3149,7 +3149,7 @@ sg10
 VJOSH
 p866
 sg12
-g9
+g16
 sa(dp867
 g6
 VWhy not?
@@ -3160,7 +3160,7 @@ sg10
 VCLAYPOOL
 p869
 sg12
-g9
+g16
 sa(dp870
 g6
 VIt wasn't that serious.
@@ -3171,7 +3171,7 @@ sg10
 VJOSH
 p872
 sg12
-g9
+g16
 sa(dp873
 g6
 VYou don't consider illegal drug use at the White House to be serious?
@@ -3237,7 +3237,7 @@ sg10
 VJOSH
 p890
 sg12
-g9
+g49
 sa(dp891
 g6
 VLeo McGarry and Toby Ziegler.
@@ -3248,7 +3248,7 @@ sg10
 VCLAYPOOL
 p893
 sg12
-g9
+g49
 sa(dp894
 g6
 VYes.
@@ -3281,7 +3281,7 @@ sg10
 VJOSH
 p902
 sg12
-g9
+g49
 sa(dp903
 g6
 VBefore being deposed here today, did you talk to anybody about the fact that we were requiring your testimony?
@@ -3303,7 +3303,7 @@ sg10
 VJOSH
 p908
 sg12
-g9
+g49
 sa(dp909
 g6
 VWho were they?
@@ -3314,7 +3314,7 @@ sg10
 VCLAYPOOL
 p911
 sg12
-g16
+g9
 sa(dp912
 g6
 VSam Seaborn.
@@ -3457,7 +3457,7 @@ sg10
 VJOSH
 p950
 sg12
-g9
+g49
 sa(dp951
 g6
 VWell, what did you tell Mr. Seaborn and Miss Moss about this deposition?
@@ -3545,7 +3545,7 @@ sg10
 VED
 p974
 sg12
-g9
+g16
 sa(dp975
 g6
 VYes, whose average per capita income is $400.
@@ -3567,7 +3567,7 @@ sg10
 VED
 p980
 sg12
-g9
+g49
 sa(dp981
 g6
 VAnd they're healthier. Average lifespan is 57.7 years.
@@ -3611,7 +3611,7 @@ sg10
 VLARRY
 p992
 sg12
-g9
+g16
 sa(dp993
 g6
 VWhere'd you get this stuff?
@@ -3644,7 +3644,7 @@ sg10
 VC.J.
 p1001
 sg12
-g9
+g16
 sa(dp1002
 g6
 V[as she leaves] C.J., we're getting someone from State...
@@ -3765,7 +3765,7 @@ sg10
 VSAM
 p1034
 sg12
-g9
+g49
 sa(dp1035
 g6
 VIs this a joke?
@@ -3776,7 +3776,7 @@ sg10
 VTOBY
 p1037
 sg12
-g16
+g9
 sa(dp1038
 g6
 VYes, hello. Is this a joke?
@@ -3787,7 +3787,7 @@ sg10
 VTOBY
 p1040
 sg12
-g49
+g9
 sa(dp1041
 g6
 VNo.
@@ -3809,7 +3809,7 @@ sg10
 VTOBY
 p1046
 sg12
-g9
+g16
 sa(dp1047
 g6
 VToby.
@@ -3831,7 +3831,7 @@ sg10
 VTOBY
 p1052
 sg12
-g9
+g16
 sa(dp1053
 g6
 VWhat should I say your first reaction was?
@@ -3886,7 +3886,7 @@ sg10
 VSAM
 p1067
 sg12
-g9
+g16
 sa(dp1068
 g6
 VDon't do that.
@@ -3897,7 +3897,7 @@ sg10
 VTOBY
 p1070
 sg12
-g9
+g16
 sa(dp1071
 g6
 VShe just asked me to take your temperature.
@@ -3908,7 +3908,7 @@ sg10
 VSAM
 p1073
 sg12
-g9
+g16
 sa(dp1074
 g6
 VAnd please don't do that.
@@ -3919,7 +3919,7 @@ sg10
 VTOBY
 p1076
 sg12
-g9
+g16
 sa(dp1077
 g6
 VIndia has two intermediate-range ballistic missiles named Agni 1 and Agni 2. Agni means 'fire' in Hindi. They have a 55-kiloton A-bomb which is roughly 50% more destructive than the Hiroshima bomb. But they also have a thermonuclear device.
@@ -3963,7 +3963,7 @@ sg10
 VTOBY
 p1088
 sg12
-g9
+g49
 sa(dp1089
 g6
 VWell, this is the truly terrifying part.
@@ -3974,7 +3974,7 @@ sg10
 VJOE
 p1091
 sg12
-g9
+g49
 sa(dp1092
 g6
 VGood, 'cause we were waiting for a truly terrifying part.
@@ -4040,7 +4040,7 @@ sg10
 VLEO
 p1109
 sg12
-g9
+g49
 sa(dp1110
 g6
 VSure.
@@ -4051,7 +4051,7 @@ sg10
 VJOE
 p1112
 sg12
-g9
+g16
 sa(dp1113
 g6
 VThere's an India expert I want to bring in.
@@ -4249,7 +4249,7 @@ sg10
 VBARTLET
 p1166
 sg12
-g9
+g16
 sa(dp1167
 g6
 VThank you, Mr. President.
@@ -4260,7 +4260,7 @@ sg10
 VLEO
 p1169
 sg12
-g49
+g9
 sa(dp1170
 g6
 VCan I just say this about Mandy's representing Mike Brace?
@@ -4304,7 +4304,7 @@ sg10
 VTOBY
 p1181
 sg12
-g9
+g16
 sa(dp1182
 g6
 VDon't.
@@ -4315,7 +4315,7 @@ sg10
 VSAM
 p1184
 sg12
-g9
+g16
 sa(dp1185
 g6
 VYou think?
@@ -4359,7 +4359,7 @@ sg10
 VSAM
 p1196
 sg12
-g9
+g16
 sa(dp1197
 g6
 VYeah.
@@ -4403,7 +4403,7 @@ sg10
 VCAROL
 p1208
 sg12
-g49
+g16
 sa(dp1209
 g6
 VIn the next few weeks, it's going to be important that the White House reassure Americans and the world that the President has a firm grip on the crisis and is working hard to defuse it.
@@ -4469,7 +4469,7 @@ sg10
 VCAROL
 p1226
 sg12
-g9
+g16
 sa(dp1227
 g6
 V[arrives] Hey, Carol.
@@ -4524,7 +4524,7 @@ sg10
 VTOBY
 p1241
 sg12
-g9
+g16
 sa(dp1242
 g6
 VCould've told me that before sending me in there.
@@ -4535,7 +4535,7 @@ sg10
 VC.J.
 p1244
 sg12
-g9
+g16
 sa(dp1245
 g6
 VC.J.
@@ -4568,7 +4568,7 @@ sg10
 VTOBY
 p1253
 sg12
-g9
+g16
 sa(dp1254
 g6
 VI know that. They think you lied to me, which is what happened. They don't know me. I'm from nowhere. I was just starting to get credible. I was just starting to get their respect. You know how long it's going to take me to get it back?
@@ -4579,7 +4579,7 @@ sg10
 VC.J.
 p1256
 sg12
-g9
+g16
 sa(dp1257
 g6
 VThere's a concern.
@@ -4590,7 +4590,7 @@ sg10
 VTOBY
 p1259
 sg12
-g9
+g16
 sa(dp1260
 g6
 VDon't ask C.J., she doesn't know anything.
@@ -4601,7 +4601,7 @@ sg10
 VC.J.
 p1262
 sg12
-g9
+g16
 sa(dp1263
 g6
 VThere is a concern that you're too friendly with the press.
@@ -4656,7 +4656,7 @@ sg10
 VTOBY
 p1277
 sg12
-g9
+g16
 sa(dp1278
 g6
 VDoes this have to do with Danny Concannon?
@@ -4667,7 +4667,7 @@ sg10
 VC.J.
 p1280
 sg12
-g16
+g9
 sa(dp1281
 g6
 VPeople see you with Danny.
@@ -4689,7 +4689,7 @@ sg10
 VC.J.
 p1286
 sg12
-g9
+g49
 sa(dp1287
 g6
 VThis is one time, and if we erred, it's on the side of trying to-
@@ -4711,7 +4711,7 @@ sg10
 VC.J.
 p1292
 sg12
-g9
+g16
 sa(dp1293
 g6
 VWe sent you in there uninformed because we thought there was a chance you couldn't.
@@ -4722,7 +4722,7 @@ sg10
 VTOBY
 p1295
 sg12
-g9
+g16
 sa(dp1296
 g6
 VOkay. I have all this work to do.
@@ -4755,7 +4755,7 @@ sg10
 VTOBY
 p1304
 sg12
-g9
+g16
 sa(dp1305
 g6
 VIt was fine.
@@ -4766,7 +4766,7 @@ sg10
 VJOSH
 p1307
 sg12
-g9
+g16
 sa(dp1308
 g6
 VGot to go back tomorrow?
@@ -4887,7 +4887,7 @@ sg10
 VTOBY
 p1340
 sg12
-g9
+g16
 sa(dp1341
 g6
 VC.J. pissed?
@@ -4953,7 +4953,7 @@ sg10
 VBARTLET
 p1358
 sg12
-g9
+g49
 sa(dp1359
 g6
 VYes sir.
@@ -4997,7 +4997,7 @@ sg10
 VBARTLET
 p1370
 sg12
-g9
+g16
 sa(dp1371
 g6
 VI was wondering how you would feel about my going out on a date with Zoey.
@@ -5019,7 +5019,7 @@ sg10
 VBARTLET
 p1376
 sg12
-g9
+g16
 sa(dp1377
 g6
 VWell, Zoey was talking to me before, and she mentioned that if I had a free night-
@@ -5030,7 +5030,7 @@ sg10
 VCHARLIE
 p1379
 sg12
-g9
+g16
 sa(dp1380
 g6
 VMy daughter asked you out?
@@ -5041,7 +5041,7 @@ sg10
 VBARTLET
 p1382
 sg12
-g9
+g49
 sa(dp1383
 g6
 VYes sir.
@@ -5085,7 +5085,7 @@ sg10
 VBARTLET
 p1394
 sg12
-g9
+g16
 sa(dp1395
 g6
 VSir, if it's not too much-
@@ -5195,7 +5195,7 @@ sg10
 VLEO
 p1424
 sg12
-g9
+g49
 sa(dp1425
 g6
 VPlease sit down.
@@ -5206,7 +5206,7 @@ sg10
 VBARTLET
 p1427
 sg12
-g9
+g16
 sa(dp1428
 g6
 VMr. Ambassador, it is crucial that we join together to bring about a cease-fire and then a pullback, in Kashmir, before this conflict takes another escalating step.
@@ -5250,7 +5250,7 @@ sg10
 VLEO
 p1439
 sg12
-g49
+g16
 sa(dp1440
 g6
 VWell, this just keeps getting better and better.
@@ -5316,7 +5316,7 @@ sg10
 VMANDY
 p1457
 sg12
-g9
+g16
 sa(dp1458
 g6
 VMandy, uh...
@@ -5437,7 +5437,7 @@ sg10
 VSAM
 p1490
 sg12
-g9
+g16
 sa(dp1491
 g6
 VTalk to him.
@@ -5470,7 +5470,7 @@ sg10
 VMANDY
 p1499
 sg12
-g9
+g16
 sa(dp1500
 g6
 VOkay.
@@ -5536,7 +5536,7 @@ sg10
 VJOSH
 p1517
 sg12
-g9
+g49
 sa(dp1518
 g6
 VYeah, she's a pretty bright girl.
@@ -5547,7 +5547,7 @@ sg10
 VSAM
 p1520
 sg12
-g9
+g49
 sa(dp1521
 g6
 VOh, I'm gonna kill her.
@@ -5580,7 +5580,7 @@ sg10
 VJOSH
 p1529
 sg12
-g9
+g49
 sa(dp1530
 g6
 VYeah.
@@ -5624,7 +5624,7 @@ sg10
 VLEO
 p1541
 sg12
-g9
+g49
 sa(dp1542
 g6
 VPlease, sit down. We've been trying to phone your Prime Minister without any luck. Can you help us out there?
@@ -5657,7 +5657,7 @@ sg10
 VBARTLET
 p1550
 sg12
-g9
+g16
 sa(dp1551
 g6
 VYou deny there has been Pakistani movement in the Neutral Zone?
@@ -5756,7 +5756,7 @@ sg10
 VBARTLET
 p1577
 sg12
-g9
+g49
 sa(dp1578
 g6
 VYes sir.
@@ -5778,7 +5778,7 @@ sg10
 VBARTLET
 p1583
 sg12
-g9
+g16
 sa(dp1584
 g6
 VYes sir.
@@ -5855,7 +5855,7 @@ sg10
 VLEO
 p1604
 sg12
-g9
+g16
 sa(dp1605
 g6
 VI'm a father in pain.
@@ -5877,7 +5877,7 @@ sg10
 VLEO
 p1610
 sg12
-g9
+g16
 sa(dp1611
 g6
 VLeo.
@@ -5899,7 +5899,7 @@ sg10
 VLEO
 p1616
 sg12
-g9
+g16
 sa(dp1617
 g6
 VA racial problem?
@@ -5910,7 +5910,7 @@ sg10
 VBARTLET
 p1619
 sg12
-g9
+g16
 sa(dp1620
 g6
 VIt's okay to admit it.
@@ -5932,7 +5932,7 @@ sg10
 VBARTLET
 p1625
 sg12
-g9
+g16
 sa(dp1626
 g6
 VOkay.
@@ -6009,7 +6009,7 @@ sg10
 VLEO
 p1646
 sg12
-g9
+g16
 sa(dp1647
 g6
 VMy problem is not that she's white, he's black, it's that she's a girl and he's not. To say nothing of he's older than she is.
@@ -6064,7 +6064,7 @@ sg10
 VBARTLET
 p1661
 sg12
-g9
+g49
 sa(dp1662
 g6
 VYeah.
@@ -6130,7 +6130,7 @@ sg10
 VCLAYPOOL
 p1679
 sg12
-g49
+g16
 sa(dp1680
 g6
 VNo.
@@ -6229,7 +6229,7 @@ sg10
 VJOSH
 p1706
 sg12
-g9
+g16
 sa(dp1707
 g6
 VYou would imagine?
@@ -6240,7 +6240,7 @@ sg10
 VCLAYPOOL
 p1709
 sg12
-g9
+g16
 sa(dp1710
 g6
 VStatistics suggest...
@@ -6361,7 +6361,7 @@ sg10
 VJOSH
 p1742
 sg12
-g9
+g16
 sa(dp1743
 g6
 VHas he received treatment at a facility for alcoholism?
@@ -6372,7 +6372,7 @@ sg10
 VCLAYPOOL
 p1745
 sg12
-g9
+g49
 sa(dp1746
 g6
 VI won't answer that.
@@ -6383,7 +6383,7 @@ sg10
 VJOSH
 p1748
 sg12
-g9
+g16
 sa(dp1749
 g6
 VHas he received treatment at a facility for Valium addiction?
@@ -6394,7 +6394,7 @@ sg10
 VCLAYPOOL
 p1751
 sg12
-g9
+g49
 sa(dp1752
 g6
 VHe's not obligated to answer that question.
@@ -6416,7 +6416,7 @@ sg10
 VCLAYPOOL
 p1757
 sg12
-g9
+g16
 sa(dp1758
 g6
 VIt's irrelevant to your cause of action under the Freedom of Information Act in which you are seeking any and all documents relating to Joshua Lyman's investigation of illegal drug use in the White House. We go see the judge right now, she'll sustain my objection.
@@ -6449,7 +6449,7 @@ sg10
 VJOSH
 p1766
 sg12
-g9
+g16
 sa(dp1767
 g6
 VDid you look at any Secret Service files?
@@ -6460,7 +6460,7 @@ sg10
 VCLAYPOOL
 p1769
 sg12
-g9
+g49
 sa(dp1770
 g6
 VYes.
@@ -6504,7 +6504,7 @@ sg10
 VCLAYPOOL
 p1781
 sg12
-g9
+g16
 sa(dp1782
 g6
 VHow did you get that?
@@ -6570,7 +6570,7 @@ sg10
 VCLAYPOOL
 p1799
 sg12
-g9
+g16
 sa(dp1800
 g6
 VWe're postponing. You have a problem with it, cite us for contempt.
@@ -6691,7 +6691,7 @@ sg10
 VLEO
 p1832
 sg12
-g49
+g16
 sa(dp1833
 g6
 VI keep forgetting.
@@ -6702,7 +6702,7 @@ sg10
 VBARTLET
 p1835
 sg12
-g9
+g49
 sa(dp1836
 g6
 V[sticks his head in] Mr. President?
@@ -6790,7 +6790,7 @@ sg10
 VBARTLET
 p1859
 sg12
-g9
+g16
 sa(dp1860
 g6
 VIntoxicating.
@@ -6812,7 +6812,7 @@ sg10
 VLEO
 p1865
 sg12
-g9
+g16
 sa(dp1866
 g6
 V[to Leo] Allow me to present myself, Lord John Marbury, I was summoned by your President.
@@ -6834,7 +6834,7 @@ sg10
 VLEO
 p1871
 sg12
-g49
+g16
 sa(dp1872
 g6
 VI thought you were the butler.
@@ -7021,7 +7021,7 @@ sg10
 VC.J.
 p1922
 sg12
-g49
+g9
 sa(dp1923
 g6
 VToby's here.
@@ -7054,7 +7054,7 @@ sg10
 VTOBY
 p1931
 sg12
-g9
+g16
 sa(dp1932
 g6
 VEither I'm a trusted member of the communications staff or I'm not, Toby, what was your argument?
@@ -7076,7 +7076,7 @@ sg10
 VTOBY
 p1937
 sg12
-g9
+g16
 sa(dp1938
 g6
 VThat wasn't your argument.
@@ -7087,7 +7087,7 @@ sg10
 VC.J.
 p1940
 sg12
-g9
+g16
 sa(dp1941
 g6
 V[sitting on the couch] It was my argument a little while ago, when I was arguing in my head.
@@ -7098,7 +7098,7 @@ sg10
 VTOBY
 p1943
 sg12
-g9
+g16
 sa(dp1944
 g6
 VAre you apologizing?
@@ -7120,7 +7120,7 @@ sg10
 VTOBY
 p1949
 sg12
-g49
+g9
 sa(dp1950
 g6
 VWell?
@@ -7186,7 +7186,7 @@ sg10
 VTOBY
 p1967
 sg12
-g9
+g16
 sa(dp1968
 g6
 V[sitting next to him on the couch] Whose idea was it?
@@ -7230,7 +7230,7 @@ sg10
 VTOBY
 p1979
 sg12
-g9
+g16
 sa(dp1980
 g6
 VWell, how'd you say it?
@@ -7274,7 +7274,7 @@ sg10
 VJOSH
 p1991
 sg12
-g9
+g49
 sa(dp1992
 g6
 VI didn't expect you back so soon.
@@ -7329,7 +7329,7 @@ sg10
 VTOBY
 p2006
 sg12
-g9
+g16
 sa(dp2007
 g6
 VYeah.
@@ -7351,7 +7351,7 @@ sg10
 VC.J.
 p2012
 sg12
-g9
+g16
 sa(dp2013
 g6
 VListen...
@@ -7461,7 +7461,7 @@ sg10
 VSAM
 p2042
 sg12
-g9
+g16
 sa(dp2043
 g6
 VDid you tell him about...?
@@ -7494,7 +7494,7 @@ sg10
 VMANDY
 p2051
 sg12
-g9
+g49
 sa(dp2052
 g6
 VLeo's in trouble. You're a political consultant. Your job isn't to end the fight, it's to win it! Now you can work for us or you can work for them, but you can't do both.
@@ -7549,7 +7549,7 @@ sg10
 VLEO
 p2066
 sg12
-g9
+g16
 sa(dp2067
 g6
 VOh, do you?
@@ -7560,7 +7560,7 @@ sg10
 VMARBURY
 p2069
 sg12
-g49
+g9
 sa(dp2070
 g6
 VYes. I think you're dramatically over-estimating the possibility of escalation beyond the point we're at now.
@@ -7648,7 +7648,7 @@ sg10
 VBARTLET
 p2093
 sg12
-g9
+g49
 sa(dp2094
 g6
 VThank you. [leaves with Charlie]
@@ -7659,7 +7659,7 @@ sg10
 VMARBURY
 p2096
 sg12
-g49
+g9
 sa(dp2097
 g6
 V[to Bartlet] I don't even think the accent's real.
@@ -7670,7 +7670,7 @@ sg10
 VLEO
 p2099
 sg12
-g9
+g16
 sa(dp2100
 g6
 VI want to ask him to stay a little bit and help us out.
@@ -7747,7 +7747,7 @@ sg10
 VBARTLET
 p2120
 sg12
-g9
+g49
 sa(dp2121
 g6
 VWhat do you need?
@@ -7769,7 +7769,7 @@ sg10
 VLEO
 p2126
 sg12
-g9
+g16
 sa(dp2127
 g6
 VYeah.
@@ -7934,7 +7934,7 @@ sg10
 VCHARLIE
 p2171
 sg12
-g49
+g9
 sa(dp2172
 g6
 V[going to his desk] There's a quote from Revelations I'm trying to remember.
@@ -7956,7 +7956,7 @@ sg10
 VCHARLIE
 p2177
 sg12
-g9
+g49
 sa(dp2178
 g6
 VIt's about a horse.
@@ -7989,7 +7989,7 @@ sg10
 VBARTLET
 p2186
 sg12
-g9
+g16
 sa(dp2187
 g6
 VNever got around to it.
@@ -8022,7 +8022,7 @@ sg10
 VCHARLIE
 p2195
 sg12
-g9
+g16
 sa(dp2196
 g6
 VIt's not.
@@ -8033,7 +8033,7 @@ sg10
 VBARTLET
 p2198
 sg12
-g9
+g16
 sa(dp2199
 g6
 VI thought it was 'cause I'm a guy.
@@ -8044,7 +8044,7 @@ sg10
 VCHARLIE
 p2201
 sg12
-g9
+g16
 sa(dp2202
 g6
 VIt is.
@@ -8066,7 +8066,7 @@ sg10
 VCHARLIE
 p2207
 sg12
-g9
+g16
 sa(dp2208
 g6
 VStill, I want you to go out with her if that's what you both want to do.
@@ -8088,7 +8088,7 @@ sg10
 VCHARLIE
 p2213
 sg12
-g49
+g9
 sa(dp2214
 g6
 VThat's fine.
@@ -8275,7 +8275,7 @@ sg10
 VBARTLET
 p2264
 sg12
-g49
+g9
 sa(dp2265
 g6
 VAh, good, I want you all to meet John.
@@ -8330,7 +8330,7 @@ sg10
 VBARTLET
 p2279
 sg12
-g49
+g9
 sa(dp2280
 g6
 VI'm fine.
@@ -8341,7 +8341,7 @@ sg10
 VLEO
 p2282
 sg12
-g9
+g16
 sa(dp2283
 g6
 VDon't you ever forget the battles you've fought and won.
@@ -8385,7 +8385,7 @@ sg10
 VLEO
 p2294
 sg12
-g9
+g49
 sa(dp2295
 g6
 VMr. President, the telephone call was from the British ambassador to the United Nations. He believes there'll be a cease-fire resolution within a few hours.
@@ -8495,7 +8495,7 @@ sg10
 VBARTLET
 p2324
 sg12
-g49
+g9
 sa(dp2325
 g6
 VDo you mean do I think we can stop a war in the next two weeks?
@@ -8539,7 +8539,7 @@ sg10
 VBARTLET
 p2336
 sg12
-g9
+g49
 sa(dp2337
 g6
 VBut --

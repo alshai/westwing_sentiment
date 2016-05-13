@@ -35,7 +35,7 @@ sg10
 VC.J.
 p16
 sg12
-g9
+g15
 sa(dp17
 g6
 VAnd you.
@@ -90,96 +90,96 @@ sg10
 VC.J.
 p31
 sg12
-g9
-sa(dp32
+S'negative'
+p32
+sa(dp33
 g6
 VAbbey wants a picture of the baby.
-p33
+p34
 sg8
 g15
 sg10
 VBARTLET
-p34
+p35
 sg12
-g9
-sa(dp35
+g15
+sa(dp36
 g6
 VI thought we e-mailed you one.
-p36
+p37
 sg8
 g9
 sg10
 VDANNY
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VSomething she can tape to the fridge.
-p39
+p40
 sg8
 g9
 sg10
 VBARTLET
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VOh. I'll see what I can dig up.
-p42
+p43
 sg8
 g9
 sg10
 VDANNY
-p43
+p44
 sg12
-g9
-sa(dp44
+g32
+sa(dp45
 g6
 VGlad you could make it.
-p45
+p46
 sg8
 g9
 sg10
 VBARTLET
-p46
+p47
 sg12
-g15
-sa(dp47
+g32
+sa(dp48
 g6
 VThanks for the invitation, sir.
-p48
+p49
 sg8
 g15
 sg10
 VTOBY
-p49
+p50
 sg12
-g9
-sa(dp50
+g15
+sa(dp51
 g6
 VHow's Columbia?
-p51
+p52
 sg8
 g9
 sg10
 VBARTLET
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VNot such a bad place to spend some time.
-p54
-sg8
-S'negative'
 p55
+sg8
+g32
 sg10
 VTOBY
 p56
 sg12
-g9
+g15
 sa(dp57
 g6
 VI read your book. Gorgeous prose.
@@ -223,7 +223,7 @@ sg10
 VCHARLIE
 p68
 sg12
-g9
+g15
 sa(dp69
 g6
 VThank you. Just trying to get them talking. Don't anyone hold your breath. Congressman.
@@ -234,7 +234,7 @@ sg10
 VBARTLET
 p71
 sg12
-g9
+g32
 sa(dp72
 g6
 VMr. President.
@@ -256,18 +256,18 @@ sg10
 VBARTLET
 p77
 sg12
-g9
+g15
 sa(dp78
 g6
 VBackbencher. I sit tight for 32 years, I have a shot at Chairman.
 p79
 sg8
-g55
+g32
 sg10
 VWILL
 p80
 sg12
-g9
+g32
 sa(dp81
 g6
 VAll set with your speech?
@@ -284,7 +284,7 @@ g6
 VI think so. A little meandering in the middle, but...
 p85
 sg8
-g55
+g32
 sg10
 VBARTLET
 p86
@@ -311,7 +311,7 @@ sg10
 VJOSH
 p92
 sg12
-g9
+g15
 sa(dp93
 g6
 VThere he is.
@@ -322,7 +322,7 @@ sg10
 VBARTLET
 p95
 sg12
-g9
+g32
 sa(dp96
 g6
 VWow. Quite a collection of dignitaries. Sorry.
@@ -333,7 +333,7 @@ sg10
 VJOSH
 p98
 sg12
-g9
+g15
 sa(dp99
 g6
 VYou were saying, Josh?
@@ -366,7 +366,7 @@ sg10
 VBRAM
 p107
 sg12
-g9
+g32
 sa(dp108
 g6
 VWow! Look at that. That's what we like to see.
@@ -399,13 +399,13 @@ sg10
 VJOSH
 p116
 sg12
-g15
+g32
 sa(dp117
 g6
 VUh, rally in Columbus was fantastic, crowds were going wild. Q&A in Dayton got a little sticky; they wouldn't shut up about the ticket.
 p118
 sg8
-g55
+g32
 sg10
 VBRAM
 p119
@@ -476,7 +476,7 @@ sg10
 VBRAM
 p137
 sg12
-g9
+g15
 sa(dp138
 g6
 VI've been away from you people for a whole day. You got nothing?
@@ -498,7 +498,7 @@ sg10
 VBRAM
 p143
 sg12
-g9
+g15
 sa(dp144
 g6
 VOkay, ten minutes of grip-and-grin, followed by the speech, followed b a quick stop in Bakersfield.
@@ -548,7 +548,7 @@ g6
 VThat's what he calls himself.
 p157
 sg8
-g55
+g32
 sg10
 VANNABETH
 p158
@@ -641,7 +641,7 @@ sg10
 VLEO
 p182
 sg12
-g9
+g32
 sa(dp183
 g6
 V"Ah".
@@ -685,7 +685,7 @@ sg10
 VLEO
 p194
 sg12
-g9
+g32
 sa(dp195
 g6
 VNo, but you wanted to.
@@ -696,7 +696,7 @@ sg10
 VANNABETH
 p197
 sg12
-g15
+g9
 sa(dp198
 g6
 VYou wouldn't tell me even if you had it because I'm about to go onstage and you feel it's your responsibility to manage my mood, which it isn't.
@@ -707,7 +707,7 @@ sg10
 VLEO
 p200
 sg12
-g9
+g32
 sa(dp201
 g6
 VYou know I left a great job to come work for this campaign.
@@ -729,7 +729,7 @@ sg10
 VLEO
 p206
 sg12
-g9
+g32
 sa(dp207
 g6
 VYou most certainly do. Just because you've trained a Preakness jockey doesn't mean you know how to sit a horse.
@@ -784,7 +784,7 @@ sg10
 VBRAM
 p221
 sg12
-g9
+g15
 sa(dp222
 g6
 VWe'll get it when we get it.
@@ -806,7 +806,7 @@ sg10
 VNED
 p227
 sg12
-g15
+g9
 sa(dp228
 g6
 VNot yet.
@@ -839,7 +839,7 @@ sg10
 VJOSH
 p236
 sg12
-g9
+g32
 sa(dp237
 g6
 VYou think we should call them?
@@ -955,12 +955,12 @@ g6
 VOh, that's not a bad idea. Excuse me.
 p268
 sg8
-g55
+g32
 sg10
 VSANTOS
 p269
 sg12
-g9
+g32
 sa(dp270
 g6
 VYou don't think that's micromanaging?
@@ -971,7 +971,7 @@ sg10
 VHELEN
 p272
 sg12
-g9
+g32
 sa(dp273
 g6
 VHe went, didn't he?
@@ -982,7 +982,7 @@ sg10
 VJOSH
 p275
 sg12
-g9
+g32
 sa(dp276
 g6
 VMatthew Santos served his community for two terms as Mayor of Houston; served his state for three terms in Congress; served his country for 12 years in the U.S. Navy.
@@ -1037,7 +1037,7 @@ sg10
 VJOSH
 p290
 sg12
-g9
+g32
 sa(dp291
 g6
 VBefore or after your 600 interviews?
@@ -1081,7 +1081,7 @@ sg10
 VHELEN
 p302
 sg12
-g15
+g9
 sa(dp303
 g6
 VHopefully you two will have some time this afternoon. Get to know each other, maybe lunch.
@@ -1114,7 +1114,7 @@ sg10
 VJOSH
 p311
 sg12
-g9
+g15
 sa(dp312
 g6
 VWe've got one day in DC, you really think we should spend it on lunch?
@@ -1175,12 +1175,12 @@ g6
 VGet me an advance copy of this damn poll before I chew my arm off.
 p328
 sg8
-g55
+g32
 sg10
 VJOSH
 p329
 sg12
-g9
+g32
 sa(dp330
 g6
 VHas the campaign seen this yet?
@@ -1235,7 +1235,7 @@ sg10
 VBARTLET
 p344
 sg12
-g9
+g15
 sa(dp345
 g6
 VHow much do you plan on telling them?
@@ -1307,7 +1307,7 @@ g6
 VSenator Weller has started his own investigation of the leak.
 p364
 sg8
-g55
+g32
 sg10
 VC.J.
 p365
@@ -1389,7 +1389,7 @@ sg10
 VBARTLET
 p386
 sg12
-g9
+g15
 sa(dp387
 g6
 VIf the meet higher standards they get a cash bump, pay for performance.
@@ -1428,7 +1428,7 @@ g6
 VYou think we should skip it?
 p397
 sg8
-g55
+g32
 sg10
 VBARTLET
 p398
@@ -1439,7 +1439,7 @@ g6
 VNo. I think we should call his bluff.
 p400
 sg8
-g55
+g32
 sg10
 VTOBY
 p401
@@ -1450,7 +1450,7 @@ g6
 VWe steal a lot of thunder away from the campaign for an education plan that'll die before it hits the floor of the House.
 p403
 sg8
-g55
+g32
 sg10
 VC.J.
 p404
@@ -1499,7 +1499,7 @@ sg10
 VTOBY
 p416
 sg12
-g15
+g9
 sa(dp417
 g6
 VThank you.
@@ -1516,7 +1516,7 @@ g6
 VWhat they won't tell you is that 5.4 million jobs were actually lost in the last eight years.
 p421
 sg8
-g55
+g32
 sg10
 VVINICK
 p422
@@ -1532,7 +1532,7 @@ sg10
 VC.J.
 p425
 sg12
-g9
+g15
 sa(dp426
 g6
 VWe don't have to talk yet. My caffeine uptake's a bit logy.
@@ -1582,7 +1582,7 @@ g6
 VHmm, I'm about to monopolize a bunch of your morning with this NASA crap. She should cancel things.
 p439
 sg8
-g55
+g32
 sg10
 VBABISH
 p440
@@ -1631,7 +1631,7 @@ sg10
 VBABISH
 p452
 sg12
-g9
+g15
 sa(dp453
 g6
 VHe needs you back in there already.
@@ -1653,18 +1653,18 @@ sg10
 VC.J.
 p458
 sg12
-g15
+g32
 sa(dp459
 g6
 VI'll wait.
 p460
 sg8
-g55
+g32
 sg10
 VBABISH
 p461
 sg12
-g9
+g32
 sa(dp462
 g6
 VWallingford's office still hasn't called back. He's supposed to do the intro at the Denver rally.
@@ -1697,7 +1697,7 @@ sg10
 VBRAM
 p470
 sg12
-g15
+g32
 sa(dp471
 g6
 VLeo McGarry, ladies and gentlemen! Let's send this guy back to the White House.
@@ -1741,7 +1741,7 @@ sg10
 VANNABETH
 p482
 sg12
-g9
+g32
 sa(dp483
 g6
 VWhere do you think he got it? I've been rejecting the premises of questions since the Hoover Administration.
@@ -1763,7 +1763,7 @@ sg10
 VLEO
 p488
 sg12
-g9
+g15
 sa(dp489
 g6
 VWhen was the last time you went to a meeting?
@@ -1796,7 +1796,7 @@ sg10
 VREPORTER
 p497
 sg12
-g9
+g15
 sa(dp498
 g6
 VMy cardiologist has made a statement about that. You should take a look at it. See, what I'd like to talk about is what Matt Santos can do to improve the public schools here in Pennsylvania and across the country.
@@ -1829,7 +1829,7 @@ sg10
 VMARGARET
 p506
 sg12
-g9
+g15
 sa(dp507
 g6
 VWhy?
@@ -1851,7 +1851,7 @@ sg10
 VMARGARET
 p512
 sg12
-g9
+g15
 sa(dp513
 g6
 VDo me a favor: call me when she gets out.
@@ -1862,7 +1862,7 @@ sg10
 VTOBY
 p515
 sg12
-g9
+g32
 sa(dp516
 g6
 VI'm getting a lot of questions about McGarry's health. I'm gonna need a better answer than he's cut out red meat.
@@ -1945,7 +1945,7 @@ g6
 VI heard it straight from Kelwick at NASA and he wasn't going to blab any more than he had to because the whole thing made his department look terrible. The space station's losing oxygen, they've got a $4 billion space shuttle fleet and not one of them is ready to leave the ground because of a retrofit he ordered.
 p538
 sg8
-g55
+g32
 sg10
 VC.J.
 p539
@@ -1972,7 +1972,7 @@ sg10
 VC.J.
 p545
 sg12
-g55
+g32
 sa(dp546
 g6
 VYou ever notice his eyebrows?
@@ -2005,7 +2005,7 @@ sg10
 VBABISH
 p554
 sg12
-g9
+g32
 sa(dp555
 g6
 VAre they?
@@ -2016,7 +2016,7 @@ sg10
 VC.J.
 p557
 sg12
-g55
+g32
 sa(dp558
 g6
 VI'm vamping. I brought the wrong folder. Humor me, though: who else new before the story went public?
@@ -2038,7 +2038,7 @@ sg10
 VC.J.
 p563
 sg12
-g9
+g15
 sa(dp564
 g6
 VYeah. Who at the White House?
@@ -2225,7 +2225,7 @@ sg10
 VSANTOS
 p614
 sg12
-g9
+g32
 sa(dp615
 g6
 VCheck out state-by-state.
@@ -2242,7 +2242,7 @@ g6
 VThat's a nice shot.
 p619
 sg8
-g55
+g32
 sg10
 VJOSH
 p620
@@ -2313,7 +2313,7 @@ sg10
 VHELEN
 p638
 sg12
-g9
+g15
 sa(dp639
 g6
 VYou know somebody named Jackie in Advance?
@@ -2357,7 +2357,7 @@ sg10
 VJOSH
 p650
 sg12
-g9
+g32
 sa(dp651
 g6
 VThe office is still mostly in boxes. We've only hired about half the staff so far, but it's a start.
@@ -2434,7 +2434,7 @@ sg10
 VSANTOS
 p671
 sg12
-g9
+g15
 sa(dp672
 g6
 VThat's enough. Back to work.
@@ -2456,7 +2456,7 @@ sg10
 VJOSH
 p677
 sg12
-g9
+g32
 sa(dp678
 g6
 VPleasure to meet you.
@@ -2467,7 +2467,7 @@ sg10
 VSANTOS
 p680
 sg12
-g9
+g15
 sa(dp681
 g6
 VThrilled to be on board.
@@ -2500,7 +2500,7 @@ sg10
 VSANTOS
 p689
 sg12
-g9
+g15
 sa(dp690
 g6
 VRalph Lee, Veterans Coordinator. Steve Lacey. Steve's our African-American Steering Committee Chair. Mary DiMartino next to him, Women for Santos. John Vega, Latino Committee Coordinator. That's kind of Minority Row there, now that I think about it. Angie. Angie Worster's our blogmaster.
@@ -2522,7 +2522,7 @@ sg10
 VSANTOS
 p695
 sg12
-g9
+g15
 sa(dp696
 g6
 VAngie's assistant, Craig, and this is his crew. They're making a documentary on Craig. I'm not entirely clear why. Smile.
@@ -2555,7 +2555,7 @@ sg10
 VJOSH
 p704
 sg12
-g9
+g15
 sa(dp705
 g6
 VMrs. Santos, we need to get you to Georgetown, speech to the DNC Women's Caucus.
@@ -2588,7 +2588,7 @@ sg10
 VSANTOS
 p713
 sg12
-g15
+g9
 sa(dp714
 g6
 VI've got to swing through Virginia. I think we catch up with you in Denver.
@@ -2665,7 +2665,7 @@ sg10
 VSANTOS
 p734
 sg12
-g55
+g9
 sa(dp735
 g6
 VYou're never going to step foot in this building again.
@@ -2687,7 +2687,7 @@ sg10
 VBRAM
 p740
 sg12
-g9
+g15
 sa(dp741
 g6
 VJosh, Gregory Ward, he's interviewing for Midwest Regional Political Director. And Dana Sharpey's after that. Congressman, if you need to use Josh's office, Stan Picket needs you right now. He's one of the Deputy Communications Directors.
@@ -2775,7 +2775,7 @@ sg10
 VC.J.
 p764
 sg12
-g9
+g32
 sa(dp765
 g6
 VKate Harper.
@@ -2808,7 +2808,7 @@ sg10
 VBABISH
 p773
 sg12
-g15
+g9
 sa(dp774
 g6
 VSure.
@@ -2819,7 +2819,7 @@ sg10
 VC.J.
 p776
 sg12
-g9
+g32
 sa(dp777
 g6
 VShe's an achiever.
@@ -2830,7 +2830,7 @@ sg10
 VBABISH
 p779
 sg12
-g9
+g15
 sa(dp780
 g6
 VYoung for the job, and I think she's earned it.
@@ -2852,7 +2852,7 @@ sg10
 VBABISH
 p785
 sg12
-g55
+g32
 sa(dp786
 g6
 VNancy McNally trusts her quite a lot.
@@ -2874,7 +2874,7 @@ sg10
 VBABISH
 p791
 sg12
-g15
+g9
 sa(dp792
 g6
 VSure.
@@ -2885,7 +2885,7 @@ sg10
 VC.J.
 p794
 sg12
-g9
+g32
 sa(dp795
 g6
 VSo she was your go-to gal with questions or anything else?
@@ -2929,7 +2929,7 @@ sg10
 VC.J.
 p806
 sg12
-g9
+g32
 sa(dp807
 g6
 VYou, uh, consult with anyone else before you briefed the President?
@@ -2946,7 +2946,7 @@ g6
 VI... no. I mean... I had a conversation with Leo McGarry about some of the technical elements that were put in place while he was here, and I spoke to Toby Ziegler about it, and I had Hutchinson's deputy brief me.
 p811
 sg8
-g55
+g32
 sg10
 VC.J.
 p812
@@ -3006,7 +3006,7 @@ sg10
 VBABISH
 p827
 sg12
-g9
+g32
 sa(dp828
 g6
 VWell, next time we'll check with you.
@@ -3017,7 +3017,7 @@ sg10
 VC.J.
 p830
 sg12
-g9
+g15
 sa(dp831
 g6
 VWell, you're the one who didn't want to talk to her about it.
@@ -3039,7 +3039,7 @@ sg10
 VC.J.
 p836
 sg12
-g9
+g32
 sa(dp837
 g6
 VBut you went to Leo and Toby. So let's go back to the earlier question. Do you trust her?
@@ -3149,7 +3149,7 @@ sg10
 VJOSH
 p866
 sg12
-g9
+g15
 sa(dp867
 g6
 VWhen are we at the White House?
@@ -3232,7 +3232,7 @@ g6
 VExcuse me, Mr. McGarry, can I grab you for a moment?
 p889
 sg8
-g55
+g32
 sg10
 VBRAM
 p890
@@ -3248,7 +3248,7 @@ sg10
 VLEO
 p893
 sg12
-g9
+g32
 sa(dp894
 g6
 VHey, are those clips?
@@ -3292,7 +3292,7 @@ sg10
 VBRAM
 p905
 sg12
-g55
+g9
 sa(dp906
 g6
 VHow do you do?
@@ -3342,7 +3342,7 @@ g6
 VIs the Congressman getting hit like this?
 p919
 sg8
-g55
+g32
 sg10
 VANNABETH
 p920
@@ -3358,7 +3358,7 @@ sg10
 VJOSH
 p923
 sg12
-g55
+g32
 sa(dp924
 g6
 VJoey Lucas is here.
@@ -3369,7 +3369,7 @@ sg10
 VBRAM
 p926
 sg12
-g55
+g9
 sa(dp927
 g6
 VAll right. Tell Ronna to halt the interview parade till I'm done with Joey.
@@ -3435,7 +3435,7 @@ sg10
 VBRAM
 p944
 sg12
-g9
+g15
 sa(dp945
 g6
 VWho's the big head?
@@ -3501,7 +3501,7 @@ sg10
 VJOSH
 p962
 sg12
-g9
+g32
 sa(dp963
 g6
 VYou tell me.
@@ -3512,7 +3512,7 @@ sg10
 VJOSH
 p965
 sg12
-g9
+g32
 sa(dp966
 g6
 VI'm not sneezing. I'm ordering champagne.
@@ -3523,7 +3523,7 @@ sg10
 VJOSH
 p968
 sg12
-g9
+g32
 sa(dp969
 g6
 VNed. Jake, can you get that?
@@ -3556,13 +3556,13 @@ sg10
 VJOSH
 p977
 sg12
-g9
+g32
 sa(dp978
 g6
 VFirst few days are tough.
 p979
 sg8
-g55
+g32
 sg10
 VJOSH
 p980
@@ -3578,7 +3578,7 @@ sg10
 VJOSH
 p983
 sg12
-g9
+g32
 sa(dp984
 g6
 VThe Congressman's looking for you. Strategy was supposed to start ten minutes ago.
@@ -3600,7 +3600,7 @@ sg10
 VJOSH
 p989
 sg12
-g9
+g32
 sa(dp990
 g6
 VJosh is in the market for a deputy. Someone to help him out, if anyone's got a cousin who needs a job. What do we got?
@@ -3617,7 +3617,7 @@ g6
 VOkay, the current schedule is yellow. If you have a blue copy or a pink copy burn it. It is tragically out of date and will put you in Kansas when the rest of us are in Michigan.
 p994
 sg8
-g55
+g32
 sg10
 VEDIE
 p995
@@ -3650,7 +3650,7 @@ g6
 VMaybe we should wait a second.
 p1003
 sg8
-g55
+g32
 sg10
 VJOSH
 p1004
@@ -3688,7 +3688,7 @@ sg10
 VNED
 p1013
 sg12
-g9
+g15
 sa(dp1014
 g6
 VIt has something to do with strong arms and fireplaces and you don't want to hear it from Kenny.
@@ -3760,12 +3760,12 @@ g6
 VI could carry around a copy of Proust.
 p1033
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1034
 sg12
-g9
+g32
 sa(dp1035
 g6
 VSo Scheduling needs to make room for more Q&As. Let everybody know he's not just a pretty face with nothing to say.
@@ -3820,7 +3820,7 @@ sg10
 VSANTOS
 p1049
 sg12
-g9
+g15
 sa(dp1050
 g6
 VHe's right. We're talking five conversations with the press pool every day.
@@ -3897,7 +3897,7 @@ sg10
 VSANTOS
 p1070
 sg12
-g9
+g15
 sa(dp1071
 g6
 VBroad-based, moderate groups first.
@@ -3908,7 +3908,7 @@ sg10
 VJOSH
 p1073
 sg12
-g9
+g15
 sa(dp1074
 g6
 VCareful.
@@ -3930,7 +3930,7 @@ sg10
 VJOSH
 p1079
 sg12
-g9
+g32
 sa(dp1080
 g6
 VArnold Vinick is a moderate Republican. There's not a lot of center he doesn't have a hold on.
@@ -3941,7 +3941,7 @@ sg10
 VANNABETH
 p1082
 sg12
-g9
+g32
 sa(dp1083
 g6
 VShe's right. We need the left flank.
@@ -3969,12 +3969,12 @@ g6
 VAnd without the Democratic base I'm not going to make it onto the battlefield.
 p1090
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1091
 sg12
-g9
+g32
 sa(dp1092
 g6
 VEverybody. What else?
@@ -3985,7 +3985,7 @@ sg10
 VJOSH
 p1094
 sg12
-g9
+g32
 sa(dp1095
 g6
 VThere's been a lot of interest in Mr. McGarry's personal history. Do we want to reevaluate the way we're addressing that?
@@ -4002,7 +4002,7 @@ g6
 VI've made statements about all of it in the past; the addiction, the health stuff. Just refer them to that.
 p1099
 sg8
-g55
+g32
 sg10
 VLEO
 p1100
@@ -4029,13 +4029,13 @@ sg10
 VANNABETH
 p1106
 sg12
-g9
+g32
 sa(dp1107
 g6
 VOr 20/20. You tell your story, cry a little and get on with it.
 p1108
 sg8
-g55
+g32
 sg10
 VANNABETH
 p1109
@@ -4051,18 +4051,18 @@ sg10
 VSANTOS
 p1112
 sg12
-g9
+g15
 sa(dp1113
 g6
 VIf I thought it would work I'd cry all afternoon. I don't think it'll help.
 p1114
 sg8
-g55
+g32
 sg10
 VLEO
 p1115
 sg12
-g9
+g32
 sa(dp1116
 g6
 VMy daughter, Mallory?
@@ -4073,7 +4073,7 @@ sg10
 VLEO
 p1118
 sg12
-g9
+g15
 sa(dp1119
 g6
 VShe might enjoy joining you on the road.
@@ -4134,7 +4134,7 @@ g6
 VThat's a lot of feeding the beast.
 p1135
 sg8
-g55
+g32
 sg10
 VLEO
 p1136
@@ -4238,7 +4238,7 @@ sg10
 VJOSH
 p1163
 sg12
-g9
+g15
 sa(dp1164
 g6
 VThe media gal's right. The press is doing a lot of talking about my love for sedatives and single-malt.
@@ -4260,18 +4260,18 @@ sg10
 VJOSH
 p1169
 sg12
-g9
+g32
 sa(dp1170
 g6
 VAnd you're not worried?
 p1171
 sg8
-g55
+g32
 sg10
 VLEO
 p1172
 sg12
-g9
+g32
 sa(dp1173
 g6
 VWe're only nine points down. White House, half an hour, you and me.
@@ -4337,7 +4337,7 @@ sg10
 VBABISH
 p1190
 sg12
-g9
+g32
 sa(dp1191
 g6
 VI've got a meeting. The Santos Campaign and the West Wing need to coordinate agendas.
@@ -4365,7 +4365,7 @@ g6
 VYou're a lonely man, aren't you?
 p1198
 sg8
-g55
+g32
 sg10
 VC.J.
 p1199
@@ -4414,7 +4414,7 @@ sg10
 VC.J.
 p1211
 sg12
-g9
+g32
 sa(dp1212
 g6
 VReally?
@@ -4442,7 +4442,7 @@ g6
 VWell, then why does Greg Brock of the New York Times appear on your call log an average of five times a week in the six months before he published his leak story? He spent that much time with Leo McGarry?
 p1219
 sg8
-g55
+g32
 sg10
 VBABISH
 p1220
@@ -4458,7 +4458,7 @@ sg10
 VC.J.
 p1223
 sg12
-g9
+g32
 sa(dp1224
 g6
 VI'm thinking turkey club for me. Do you want some kind of salad?
@@ -4480,7 +4480,7 @@ sg10
 VTOBY
 p1229
 sg12
-g9
+g15
 sa(dp1230
 g6
 VSix kinds of makeup.
@@ -4508,7 +4508,7 @@ g6
 VI'm worried tomorrow she's going to braid my hair.
 p1237
 sg8
-g55
+g32
 sg10
 VLEO
 p1238
@@ -4541,7 +4541,7 @@ g6
 VSight for sore eyes.
 p1246
 sg8
-g55
+g32
 sg10
 VLEO
 p1247
@@ -4568,7 +4568,7 @@ sg10
 VTOBY
 p1253
 sg12
-g9
+g32
 sa(dp1254
 g6
 VWell, I'm lunching with Oliver Babish. He has his heart set on ruining my day. Sit, sit.
@@ -4590,7 +4590,7 @@ sg10
 VJOSH
 p1259
 sg12
-g15
+g9
 sa(dp1260
 g6
 VI did. How the hell did you pull that off?
@@ -4612,7 +4612,7 @@ sg10
 VJOSH
 p1265
 sg12
-g55
+g32
 sa(dp1266
 g6
 VAs soon as you get a message calendar, send it over. We'll be sure to back you up.
@@ -4667,7 +4667,7 @@ sg10
 VTOBY
 p1280
 sg12
-g9
+g32
 sa(dp1281
 g6
 VWhat kind?
@@ -4678,7 +4678,7 @@ sg10
 VJOSH
 p1283
 sg12
-g9
+g15
 sa(dp1284
 g6
 VWe'll get you a summary but probably class size reduction, a little infrastructure money, some version of performance incentives for teachers.
@@ -4711,7 +4711,7 @@ sg10
 VC.J.
 p1292
 sg12
-g9
+g32
 sa(dp1293
 g6
 VHe definitely doesn't have the votes.
@@ -4722,7 +4722,7 @@ sg10
 VJOSH
 p1295
 sg12
-g9
+g32
 sa(dp1296
 g6
 VBut if he's expressing an interest...
@@ -4733,7 +4733,7 @@ sg10
 VC.J.
 p1298
 sg12
-g9
+g15
 sa(dp1299
 g6
 VHe's expressing an interest because the Vinick camp told him to.
@@ -4755,7 +4755,7 @@ sg10
 VTOBY
 p1304
 sg12
-g9
+g32
 sa(dp1305
 g6
 VEducation may be the only thing the public knows about Matt Santos other than his hair color. We would be thrilled if you kept the hands off.
@@ -4794,12 +4794,12 @@ g6
 VThat's unfortunate.
 p1315
 sg8
-g55
+g32
 sg10
 VTOBY
 p1316
 sg12
-g9
+g32
 sa(dp1317
 g6
 VOkay, everybody, let's take a breath.
@@ -4843,7 +4843,7 @@ sg10
 VLEO
 p1328
 sg12
-g9
+g15
 sa(dp1329
 g6
 VYou people are nine points down. It's better than 20 points down, but it's not what I'd call a win.
@@ -4975,7 +4975,7 @@ sg10
 VTOBY
 p1364
 sg12
-g9
+g32
 sa(dp1365
 g6
 VHey. Babish is still in your office.
@@ -5058,7 +5058,7 @@ g6
 VI thought I heard that voice. I'm headed for the dungeon, care for a stroll?
 p1387
 sg8
-g55
+g32
 sg10
 VBARTLET
 p1388
@@ -5118,7 +5118,7 @@ sg10
 VLEO
 p1403
 sg12
-g9
+g15
 sa(dp1404
 g6
 VYou having a good time?
@@ -5129,13 +5129,13 @@ sg10
 VBARTLET
 p1406
 sg12
-g9
+g15
 sa(dp1407
 g6
 VIt's quite a ride. We spoke to Toby and C.J. about this education plan Haffley's putting on the table. You think it's going anywhere?
 p1408
 sg8
-g55
+g32
 sg10
 VLEO
 p1409
@@ -5179,7 +5179,7 @@ g6
 VMaybe you back off, leave it for the new kid.
 p1420
 sg8
-g55
+g32
 sg10
 VLEO
 p1421
@@ -5261,7 +5261,7 @@ sg10
 VBARTLET
 p1442
 sg12
-g9
+g32
 sa(dp1443
 g6
 VInvigorating, Kevin. Thanks for asking.
@@ -5327,7 +5327,7 @@ sg10
 VKEVIN
 p1460
 sg12
-g9
+g15
 sa(dp1461
 g6
 VBecause the Constitution empowers the President to sign bills into law and doesn't empower candidates to do anything.
@@ -5338,7 +5338,7 @@ sg10
 VLEO
 p1463
 sg12
-g9
+g32
 sa(dp1464
 g6
 VThanks folks, it's been a real pleasure.
@@ -5393,7 +5393,7 @@ sg10
 VRONNA
 p1478
 sg12
-g9
+g32
 sa(dp1479
 g6
 VNo one?
@@ -5404,7 +5404,7 @@ sg10
 VJOSH
 p1481
 sg12
-g15
+g9
 sa(dp1482
 g6
 VThey're all in D.C. this weekend.
@@ -5421,7 +5421,7 @@ g6
 VCongressmen don't stay in D.C. on the weekend, they go home to their districts to make nice with... Son of a bitch. Get Wallingford's Chief of Staff on the phone, now.
 p1486
 sg8
-g55
+g32
 sg10
 VJOSH
 p1487
@@ -5432,7 +5432,7 @@ g6
 VSon of a bitch!
 p1489
 sg8
-g55
+g32
 sg10
 VJOSH
 p1490
@@ -5448,7 +5448,7 @@ sg10
 VANNABETH
 p1493
 sg12
-g55
+g32
 sa(dp1494
 g6
 VWhat?
@@ -5503,7 +5503,7 @@ sg10
 VANNABETH
 p1508
 sg12
-g9
+g15
 sa(dp1509
 g6
 VWhat was that?
@@ -5514,13 +5514,13 @@ sg10
 VSANTOS
 p1511
 sg12
-g9
+g32
 sa(dp1512
 g6
 VA little stumble. Bram!
 p1513
 sg8
-g55
+g32
 sg10
 VJOSH
 p1514
@@ -5558,7 +5558,7 @@ sg10
 VSANTOS
 p1523
 sg12
-g9
+g32
 sa(dp1524
 g6
 VIt's one of those "Close your eyes and think of England" moments.
@@ -5580,7 +5580,7 @@ sg10
 VBRAM
 p1529
 sg12
-g9
+g32
 sa(dp1530
 g6
 VLeo?
@@ -5597,7 +5597,7 @@ g6
 VYeah, let's not worry about that right now. You've got a press avail in the conference room. Big smiles.
 p1534
 sg8
-g55
+g32
 sg10
 VJOSH
 p1535
@@ -5624,7 +5624,7 @@ sg10
 VBABISH
 p1541
 sg12
-g9
+g15
 sa(dp1542
 g6
 VThat's okay. Where were we?
@@ -5679,7 +5679,7 @@ sg10
 VC.J.
 p1556
 sg12
-g15
+g32
 sa(dp1557
 g6
 VSo, uh, you guys spend some time together?
@@ -5701,7 +5701,7 @@ sg10
 VC.J.
 p1562
 sg12
-g55
+g32
 sa(dp1563
 g6
 VHe's the guy?
@@ -5723,7 +5723,7 @@ sg10
 VC.J.
 p1568
 sg12
-g9
+g32
 sa(dp1569
 g6
 VYour fav.
@@ -5745,7 +5745,7 @@ sg10
 VC.J.
 p1574
 sg12
-g9
+g32
 sa(dp1575
 g6
 VI'm thinking you play favorites, given the number of times his name appears on your call sheet and also given the fact that six reporters in the White House Press Corps say you play favorites. It used to be Danny Concanon, now it's Greg Brock. So... it's a crush, or an affair, or a mutually acknowledged though never requited... what are we talking about here?
@@ -5778,7 +5778,7 @@ sg10
 VBABISH
 p1583
 sg12
-g9
+g15
 sa(dp1584
 g6
 VWe're not doing this.
@@ -5789,7 +5789,7 @@ sg10
 VC.J.
 p1586
 sg12
-g55
+g32
 sa(dp1587
 g6
 VYou talk to him every day. He drops by more than a guy with a phone in his pocket needs to drop by. And he published code-word classified information on the front page of his newspaper. So this does not fall under the category of things to which I do not need an answer.
@@ -5806,12 +5806,12 @@ g6
 VYou think the leak came from me. I'm the suspect.
 p1591
 sg8
-g55
+g32
 sg10
 VC.J.
 p1592
 sg12
-g9
+g32
 sa(dp1593
 g6
 VCan you tell me about the nature of your relationship with Greg Brock?
@@ -5844,7 +5844,7 @@ sg10
 VBRAM
 p1601
 sg12
-g9
+g15
 sa(dp1602
 g6
 VOkay, shut the door.
@@ -5932,7 +5932,7 @@ sg10
 VANNABETH
 p1625
 sg12
-g9
+g32
 sa(dp1626
 g6
 VHarrison?
@@ -5960,12 +5960,12 @@ g6
 VOkay, the Congressman calls this list, Leo this. Within the next 24 hours. We've got to do some hand-holding.
 p1633
 sg8
-g55
+g32
 sg10
 VJOSH
 p1634
 sg12
-g9
+g32
 sa(dp1635
 g6
 VKelly and I go way back. Zwick, too. Put them on my list.
@@ -5982,7 +5982,7 @@ g6
 VI'll call them all. I'll do all the calls. Who else?
 p1639
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1640
@@ -5998,7 +5998,7 @@ sg10
 VANNABETH
 p1643
 sg12
-g9
+g15
 sa(dp1644
 g6
 VThat's the whole Colorado delegation.
@@ -6020,7 +6020,7 @@ sg10
 VBRAM
 p1649
 sg12
-g9
+g15
 sa(dp1650
 g6
 VRight, tell him I need five minutes, but get Houfek on the phone for me, right now.
@@ -6053,7 +6053,7 @@ sg10
 VRONNA
 p1658
 sg12
-g15
+g9
 sa(dp1659
 g6
 VI told Chuck, everybody who's still waiting come back tomorrow.
@@ -6081,12 +6081,12 @@ g6
 VWell, Chuck is wrong.
 p1666
 sg8
-g55
+g32
 sg10
 VJOSH
 p1667
 sg12
-g9
+g32
 sa(dp1668
 g6
 VWhat else?
@@ -6130,7 +6130,7 @@ sg10
 VC.J.
 p1679
 sg12
-g9
+g32
 sa(dp1680
 g6
 VThat's it.
@@ -6152,7 +6152,7 @@ sg10
 VC.J.
 p1685
 sg12
-g9
+g32
 sa(dp1686
 g6
 VAsk you what?
@@ -6284,7 +6284,7 @@ sg10
 VJOSH
 p1721
 sg12
-g55
+g32
 sa(dp1722
 g6
 VI'm good is the point. I'm as surprised as you are and rumor has it that you could use a deputy.
@@ -6317,7 +6317,7 @@ sg10
 VDONNA
 p1730
 sg12
-g9
+g32
 sa(dp1731
 g6
 V"Claiming that 3 House terms qualifies you to be President is like me saying I'm a foreign relations expert because I ordered Kung Pao last night."
@@ -6339,7 +6339,7 @@ sg10
 VDONNA
 p1736
 sg12
-g9
+g32
 sa(dp1737
 g6
 VFebruary 26; Coffee, Cake, and Candidates; Raleigh, North Carolina. "He wasn't a military strategist, he was a pilot. Ask him about the overhead compartment, not about defense."
@@ -6400,12 +6400,12 @@ g6
 VI can make a couple of calls...
 p1753
 sg8
-g55
+g32
 sg10
 VJOSH
 p1754
 sg12
-g9
+g15
 sa(dp1755
 g6
 VThank you for your time.
@@ -6422,7 +6422,7 @@ g6
 VYou need to stop the internal investigation of the security leak.
 p1759
 sg8
-g55
+g32
 sg10
 VBABISH
 p1760
@@ -6438,13 +6438,13 @@ sg10
 VBARTLET
 p1763
 sg12
-g9
+g32
 sa(dp1764
 g6
 VA White House investigation is, at best, superfluous.
 p1765
 sg8
-g55
+g32
 sg10
 VBABISH
 p1766
@@ -6455,12 +6455,12 @@ g6
 VAre you getting tired? We can give this to somebody else.
 p1768
 sg8
-g55
+g32
 sg10
 VBARTLET
 p1769
 sg12
-g9
+g32
 sa(dp1770
 g6
 VI appreciate that, sir.
@@ -6471,7 +6471,7 @@ sg10
 VBABISH
 p1772
 sg12
-g9
+g15
 sa(dp1773
 g6
 VI know you have a lot on your plate.
@@ -6493,7 +6493,7 @@ sg10
 VBABISH
 p1778
 sg12
-g9
+g15
 sa(dp1779
 g6
 VThis was a massive security breech. Not only will we continue our investigation, we'll make it abundantly clear to the American people that it is among our highest priorities and not even remotely superfluous.
@@ -6504,7 +6504,7 @@ sg10
 VBARTLET
 p1781
 sg12
-g9
+g15
 sa(dp1782
 g6
 VThe evidence thus far suggests the leak came from inside the White House. This was not NASA or DOD. This was us. And we are not qualified to investigate ourselves.
@@ -6526,7 +6526,7 @@ sg10
 VBARTLET
 p1787
 sg12
-g9
+g32
 sa(dp1788
 g6
 VI don't have subpoena power. I can't put people under oath. If you want answers cooperate with the Attorney General's investigation and with Congress.
@@ -6543,7 +6543,7 @@ g6
 VYou have a suspect. Otherwise we wouldn't be having this conversation.
 p1792
 sg8
-g55
+g32
 sg10
 VBARTLET
 p1793
@@ -6565,7 +6565,7 @@ g6
 VWe're going to get slammed for this. The press is going to say we're running like frightened rabbits down the nearest hole and they'll be right.
 p1798
 sg8
-g55
+g32
 sg10
 VBARTLET
 p1799
@@ -6576,7 +6576,7 @@ g6
 VYou're not going to tell me who your suspect is?
 p1801
 sg8
-g55
+g32
 sg10
 VBARTLET
 p1802
@@ -6592,13 +6592,13 @@ sg10
 VBABISH
 p1805
 sg12
-g9
+g32
 sa(dp1806
 g6
 VIs this a bad time?
 p1807
 sg8
-g55
+g32
 sg10
 VLEO
 p1808
@@ -6625,7 +6625,7 @@ sg10
 VLEO
 p1814
 sg12
-g9
+g15
 sa(dp1815
 g6
 VThe President's going to pass an education bill because he's powerful and I'm a lot of hot air. Yeah, that was ugly.
@@ -6647,7 +6647,7 @@ sg10
 VLEO
 p1820
 sg12
-g9
+g32
 sa(dp1821
 g6
 VLeo, do a 20/20 interview, tell them the story they want to hear. They'll stop gunning for you.
@@ -6697,18 +6697,18 @@ g6
 VAre you trying to quit?
 p1834
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1835
 sg12
-g9
+g32
 sa(dp1836
 g6
 VYou're either trying to quit or you're trying to get me to fire you.
 p1837
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1838
@@ -6730,7 +6730,7 @@ g6
 VI'm not going to fire you. You want out you're going to have to drum up another heart attack or something.
 p1843
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1844
@@ -6790,7 +6790,7 @@ sg10
 VLEO
 p1859
 sg12
-g9
+g32
 sa(dp1860
 g6
 VLook, nobody hired you because you'd be a brilliant campaigner. You're a beginner in all this. Yes, at the moment, you're a liability, but you'll get the hang of it. You're here because you know how to run a country. The conversation I'm interested in is how do we build a four year plan where you don't know what kind of Congress you're going to have to work with.
@@ -6818,7 +6818,7 @@ g6
 VI don't want to wait until transition. I want a plan in place. I want to spend transition hiring a staff that can execute it and on day one I want to get to work, not dickering around for the first three months. You want something to worry about, worry about that.
 p1867
 sg8
-g55
+g32
 sg10
 VSANTOS
 p1868
@@ -6851,7 +6851,7 @@ g6
 VIn the garbage. Realistically, one page, but we can do this in phases.
 p1876
 sg8
-g55
+g32
 sg10
 VLEO
 p1877

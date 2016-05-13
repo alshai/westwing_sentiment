@@ -47,7 +47,7 @@ sg10
 VBILL
 p20
 sg12
-g13
+g9
 sa(dp21
 g6
 VYeah.
@@ -223,7 +223,7 @@ sg10
 VSAM
 p68
 sg12
-g9
+g13
 sa(dp69
 g6
 VThey gotta light from outside the window, if they don't light from outside the window...
@@ -388,7 +388,7 @@ sg10
 VTOBY
 p113
 sg12
-g13
+g9
 sa(dp114
 g6
 VLeo's office had me put him back on.
@@ -553,7 +553,7 @@ sg10
 VC.J.
 p158
 sg12
-g13
+g9
 sa(dp159
 g6
 VThe Justice Department's run out of money in their suit against the tobacco companies.
@@ -597,7 +597,7 @@ sg10
 VC.J.
 p170
 sg12
-g17
+g13
 sa(dp171
 g6
 VEight of the fifteen members of the subcommittee that controls the budgets for Justice and Commerce, including Kalmbach, who has significant ties to tobacco, and Warren and Rossiter, who do not.
@@ -608,7 +608,7 @@ sg10
 VJOSH
 p173
 sg12
-g13
+g17
 sa(dp174
 g6
 VWe lost two Democrats?
@@ -619,7 +619,7 @@ sg10
 VC.J.
 p176
 sg12
-g13
+g9
 sa(dp177
 g6
 VThey have ideological objections.
@@ -641,7 +641,7 @@ sg10
 VC.J.
 p182
 sg12
-g13
+g9
 sa(dp183
 g6
 VYou haven't been in my office this morning.
@@ -663,7 +663,7 @@ sg10
 VC.J.
 p188
 sg12
-g13
+g9
 sa(dp189
 g6
 VAnyway, uh, Leo felt pretty strongly that we ought to light a fire under it, so I wrote up a strongly worded release.
@@ -696,7 +696,7 @@ sg10
 VJOSH
 p197
 sg12
-g13
+g17
 sa(dp198
 g6
 VYou got to put it away for a while.
@@ -707,7 +707,7 @@ sg10
 VC.J.
 p200
 sg12
-g13
+g17
 sa(dp201
 g6
 VYou think?
@@ -740,7 +740,7 @@ sg10
 VJOSH
 p209
 sg12
-g13
+g9
 sa(dp210
 g6
 VListen... Have you seen him today?
@@ -905,7 +905,7 @@ sg10
 VMAN
 p254
 sg12
-g13
+g9
 sa(dp255
 g6
 V[has heard enough] Okay.
@@ -916,7 +916,7 @@ sg10
 VSAM
 p257
 sg12
-g13
+g17
 sa(dp258
 g6
 VSam...
@@ -949,7 +949,7 @@ sg10
 VPHILLIPS
 p266
 sg12
-g13
+g9
 sa(dp267
 g6
 VWhen I say 'okay,' that's it. Close your notebooks. We don't talk like that here. I don't give a damn whose nephew you are. Tommy, President Bartlet's not a candidate. He's the President.
@@ -1059,7 +1059,7 @@ sg10
 VLEO
 p296
 sg12
-g13
+g17
 sa(dp297
 g6
 VOur front door.
@@ -1070,7 +1070,7 @@ sg10
 VNANCY
 p299
 sg12
-g13
+g17
 sa(dp300
 g6
 VMr. President, we want to send Fitz down there.
@@ -1125,7 +1125,7 @@ sg10
 VJED
 p314
 sg12
-g13
+g9
 sa(dp315
 g6
 VPeople shouldn't put their cigarettes out in the chapel, Mr. Spence.
@@ -1158,7 +1158,7 @@ sg10
 VJED
 p323
 sg12
-g13
+g9
 sa(dp324
 g6
 VBasically we think we can get St. Jacques to fracture Bazan's army.
@@ -1180,7 +1180,7 @@ sg10
 VLEO
 p329
 sg12
-g13
+g9
 sa(dp330
 g6
 VIt becomes peacekeeping.
@@ -1202,7 +1202,7 @@ sg10
 VBARTLET
 p335
 sg12
-g13
+g9
 sa(dp336
 g6
 VNo, sir. Thank you, Mr. President.
@@ -1213,7 +1213,7 @@ sg10
 VNANCY
 p338
 sg12
-g17
+g13
 sa(dp339
 g6
 VThey've been in there 48 hours.
@@ -1301,7 +1301,7 @@ sg10
 VCHARLIE
 p362
 sg12
-g13
+g9
 sa(dp363
 g6
 VIt's a tropical storm.
@@ -1312,7 +1312,7 @@ sg10
 VBARTLET
 p365
 sg12
-g13
+g9
 sa(dp366
 g6
 VYes, sir.
@@ -1378,7 +1378,7 @@ sg10
 VBARTLET
 p383
 sg12
-g13
+g9
 sa(dp384
 g6
 VI could have someone find out for you, Mr. President.
@@ -1455,7 +1455,7 @@ sg10
 VCHARLIE
 p404
 sg12
-g13
+g9
 sa(dp405
 g6
 VWe should try it.
@@ -1466,7 +1466,7 @@ sg10
 VBARTLET
 p407
 sg12
-g13
+g9
 sa(dp408
 g6
 VYou only have two meetings between now and then. Is there anything else you need, sir?
@@ -1620,7 +1620,7 @@ sg10
 VSAM
 p449
 sg12
-g13
+g9
 sa(dp450
 g6
 VWhat are you talking about?
@@ -1642,7 +1642,7 @@ sg10
 VSAM
 p455
 sg12
-g13
+g9
 sa(dp456
 g6
 V[alarmed] Why not?
@@ -1653,7 +1653,7 @@ sg10
 VC.J.
 p458
 sg12
-g13
+g9
 sa(dp459
 g6
 VThey've been pulling the wiring and they found asbestos and they have to seal it off.
@@ -1697,7 +1697,7 @@ sg10
 VC.J.
 p470
 sg12
-g13
+g17
 sa(dp471
 g6
 VYeah.
@@ -1730,7 +1730,7 @@ sg10
 VSTEVE
 p479
 sg12
-g13
+g9
 sa(dp480
 g6
 V[tersely] Get inside.
@@ -1741,7 +1741,7 @@ sg10
 VC.J.
 p482
 sg12
-g13
+g9
 sa(dp483
 g6
 VSeriously, I complained that one time cause, I don't know, I was in a bad mood.
@@ -1752,7 +1752,7 @@ sg10
 VSTEVE
 p485
 sg12
-g13
+g9
 sa(dp486
 g6
 VThis isn't about seating arrangements. Notebooks, no tape recorders. This story's embargoed for an hour, and you'll identify me as a senior White House official.
@@ -1785,7 +1785,7 @@ sg10
 VLEO
 p494
 sg12
-g13
+g9
 sa(dp495
 g6
 VC.J.'s leaking it right now.
@@ -1807,7 +1807,7 @@ sg10
 VBARTLET
 p500
 sg12
-g13
+g9
 sa(dp501
 g6
 VIn what sectors?
@@ -2038,7 +2038,7 @@ sg10
 VJED
 p563
 sg12
-g13
+g9
 sa(dp564
 g6
 VIt wouldn't have felt non-denominational if you were Jewish.
@@ -2093,7 +2093,7 @@ sg10
 VJED
 p578
 sg12
-g13
+g9
 sa(dp579
 g6
 VNo, I-I get free tuition, so, you know, I guess it's a good idea to give something back.
@@ -2115,7 +2115,7 @@ sg10
 VJED
 p584
 sg12
-g9
+g13
 sa(dp585
 g6
 VI'm sorry. Am I boring you, Dolores?
@@ -2126,7 +2126,7 @@ sg10
 VJED
 p587
 sg12
-g17
+g13
 sa(dp588
 g6
 VMy father's the Headmaster.
@@ -2148,7 +2148,7 @@ sg10
 VJED
 p593
 sg12
-g13
+g9
 sa(dp594
 g6
 VYeah.
@@ -2236,7 +2236,7 @@ sg10
 VBARTLET
 p617
 sg12
-g13
+g17
 sa(dp618
 g6
 VWe're here.
@@ -2280,7 +2280,7 @@ sg10
 VMONOHAN
 p629
 sg12
-g9
+g17
 sa(dp630
 g6
 V...and in my body, I shall see God...
@@ -2302,7 +2302,7 @@ sg10
 VMONOHAN
 p635
 sg12
-g13
+g17
 sa(dp636
 g6
 V[looks over, sees her, and smiles slightly] I'm trying to get through an honest day's work, Mrs. Landingham.
@@ -2324,7 +2324,7 @@ sg10
 VJED
 p641
 sg12
-g13
+g9
 sa(dp642
 g6
 VYou have a habit of doing that, you know?
@@ -2346,7 +2346,7 @@ sg10
 VJED
 p647
 sg12
-g13
+g9
 sa(dp648
 g6
 VYeah.
@@ -2401,7 +2401,7 @@ sg10
 VJED
 p662
 sg12
-g13
+g9
 sa(dp663
 g6
 VFirst reading will be from Mr. Charles Young, from the Book of Wisdom, Chapter III.
@@ -2445,7 +2445,7 @@ sg10
 VJED
 p674
 sg12
-g13
+g9
 sa(dp675
 g6
 VI'm saying, shouldn't you maybe go home when you're done with work?
@@ -2610,7 +2610,7 @@ sg10
 VCONGREGATION
 p719
 sg12
-g13
+g9
 sa(dp720
 g6
 VCrew.
@@ -2687,7 +2687,7 @@ sg10
 VJED
 p740
 sg12
-g13
+g9
 sa(dp741
 g6
 VMrs. Mueller gets half as much to teach music as Mr. Ryan gets to coach crew.
@@ -2709,7 +2709,7 @@ sg10
 VJED
 p746
 sg12
-g13
+g9
 sa(dp747
 g6
 VWhen?
@@ -2731,7 +2731,7 @@ sg10
 VJED
 p752
 sg12
-g13
+g9
 sa(dp753
 g6
 VI stuck my hands in my pockets!
@@ -2775,7 +2775,7 @@ sg10
 VLEO
 p764
 sg12
-g13
+g17
 sa(dp765
 g6
 V[nodding] Yeah.
@@ -3006,7 +3006,7 @@ sg10
 VC.J.
 p827
 sg12
-g13
+g9
 sa(dp828
 g6
 V[looks down] I'm gonna bring it up again.
@@ -3017,7 +3017,7 @@ sg10
 VSAM
 p830
 sg12
-g13
+g9
 sa(dp831
 g6
 VWhy?
@@ -3182,7 +3182,7 @@ sg10
 VSUMMERHAYS
 p875
 sg12
-g13
+g17
 sa(dp876
 g6
 VGood Morning, Greg.
@@ -3226,7 +3226,7 @@ sg10
 VSUMMERHAYS
 p887
 sg12
-g17
+g13
 sa(dp888
 g6
 VYeah.
@@ -3248,7 +3248,7 @@ sg10
 VSUMMERHAYS
 p893
 sg12
-g13
+g9
 sa(dp894
 g6
 VBuy Atlantic Intermediate.
@@ -3336,7 +3336,7 @@ sg10
 VTOBY
 p917
 sg12
-g13
+g9
 sa(dp918
 g6
 VIt was a nice service, don't you think?
@@ -3347,7 +3347,7 @@ sg10
 VDONNA
 p920
 sg12
-g13
+g9
 sa(dp921
 g6
 VYeah. Yes it was.
@@ -3358,7 +3358,7 @@ sg10
 VJOSH
 p923
 sg12
-g17
+g9
 sa(dp924
 g6
 VI'm gonna run across the street to the OEMB for a minute. The President is still asking for information on the storm. He's got it caught in his teeth.
@@ -3391,7 +3391,7 @@ sg10
 VDONNA
 p932
 sg12
-g13
+g9
 sa(dp933
 g6
 VWe have no idea if he's gonna run again. He's in a room with Leo making his decision. Two people in a matter of minutes. Is this how it works?
@@ -3534,7 +3534,7 @@ sg10
 VBARTLET
 p971
 sg12
-g13
+g9
 sa(dp972
 g6
 VI'm gonna get C.J.
@@ -3545,7 +3545,7 @@ sg10
 VLEO
 p974
 sg12
-g13
+g9
 sa(dp975
 g6
 VYeah.
@@ -3633,7 +3633,7 @@ sg10
 VTOBY
 p998
 sg12
-g9
+g13
 sa(dp999
 g6
 VNo, we're about to give them clips to beat it.
@@ -3688,7 +3688,7 @@ sg10
 VLEO
 p1013
 sg12
-g13
+g17
 sa(dp1014
 g6
 VDo you imagine there are any circumstances under which I would use it?
@@ -3721,7 +3721,7 @@ sg10
 VTOBY
 p1022
 sg12
-g13
+g9
 sa(dp1023
 g6
 VTo show him that. [heads for the door, stops and turns to Toby.] C.J.'s in her office?
@@ -3809,7 +3809,7 @@ sg10
 VDONNA
 p1046
 sg12
-g13
+g17
 sa(dp1047
 g6
 VHow are you?
@@ -3897,7 +3897,7 @@ sg10
 VDONNA
 p1070
 sg12
-g13
+g17
 sa(dp1071
 g6
 VOkay, and how many times say, in the last hundred years, has a tropical storm come off the Atlantic seaboard to Washington in the middle of May?
@@ -3952,7 +3952,7 @@ sg10
 VC.J.
 p1085
 sg12
-g13
+g17
 sa(dp1086
 g6
 VYeah. Thank you, Donna.
@@ -3974,7 +3974,7 @@ sg10
 VDONNA
 p1091
 sg12
-g17
+g13
 sa(dp1092
 g6
 VAccording to the NOAA, the storm is a non-recurring phenomenon, which is science's term for 'we don't know what in the world is going on, but we're stocking up on canned goods.'
@@ -4007,7 +4007,7 @@ sg10
 VBARTLET
 p1100
 sg12
-g13
+g9
 sa(dp1101
 g6
 VYou'll want to take the first question from Lawrence Altman, the Times' Chief Medical Correspondent.
@@ -4051,7 +4051,7 @@ sg10
 VC.J.
 p1112
 sg12
-g13
+g17
 sa(dp1113
 g6
 VOkay. [walks away and looks aside]
@@ -4062,7 +4062,7 @@ sg10
 VBARTLET
 p1115
 sg12
-g13
+g9
 sa(dp1116
 g6
 VMr. President?
@@ -4139,7 +4139,7 @@ sg10
 VC.J.
 p1136
 sg12
-g13
+g17
 sa(dp1137
 g6
 VMy right.
@@ -4150,7 +4150,7 @@ sg10
 VBARTLET
 p1139
 sg12
-g13
+g17
 sa(dp1140
 g6
 VThank you, sir. [exits]
@@ -4238,7 +4238,7 @@ sg10
 VJED
 p1163
 sg12
-g13
+g9
 sa(dp1164
 g6
 VHe banned "Fahrenheit 451," which is about banning books!
@@ -4337,7 +4337,7 @@ sg10
 VBARTLET
 p1190
 sg12
-g13
+g9
 sa(dp1191
 g6
 VIt's not that I don't know how to use it, it's just that I haven't learned yet.
@@ -4348,7 +4348,7 @@ sg10
 VBARTLET
 p1193
 sg12
-g13
+g9
 sa(dp1194
 g6
 VI have MS, and I didn't tell anybody.

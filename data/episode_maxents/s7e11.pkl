@@ -23,30 +23,30 @@ VC.J.
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'negative'
+p13
+sa(dp14
 g6
 VFor what?
-p14
+p15
 sg8
 g9
 sg10
 VDANNY
-p15
+p16
 sg12
 g9
-sa(dp16
+sa(dp17
 g6
 VWe should be drinking.
-p17
-sg8
-S'negative'
 p18
+sg8
+g13
 sg10
 VC.J.
 p19
 sg12
-g9
+g13
 sa(dp20
 g6
 VYou look incredible.
@@ -57,157 +57,157 @@ sg10
 VDANNY
 p22
 sg12
-g9
-sa(dp23
+S'positive'
+p23
+sa(dp24
 g6
 VStop.
-p24
+p25
 sg8
 g9
 sg10
 VC.J.
-p25
+p26
 sg12
 g9
-sa(dp26
+sa(dp27
 g6
 VWell, you do.
-p27
+p28
 sg8
 g9
 sg10
 VDANNY
-p28
+p29
 sg12
 g9
-sa(dp29
+sa(dp30
 g6
 VThat's unnecessary.
-p30
+p31
 sg8
 g9
 sg10
 VC.J.
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 VYou okay?
-p33
+p34
 sg8
 g9
 sg10
 VDANNY
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 VI'm just great.
-p36
+p37
 sg8
 g9
 sg10
 VC.J.
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VHave a seat.
-p39
+p40
 sg8
 g9
 sg10
 VDANNY
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VThanks.
-p42
+p43
 sg8
 g9
 sg10
 VC.J.
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VSo, how's the President?
-p45
+p46
 sg8
 g9
 sg10
 VDANNY
-p46
+p47
 sg12
 g9
-sa(dp47
+sa(dp48
 g6
 VAre we off the record?
-p48
+p49
 sg8
 g9
 sg10
 VC.J.
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VPlease, yes.
-p51
+p52
 sg8
 g9
 sg10
 VDANNY
-p52
+p53
 sg12
-g9
-sa(dp53
+g23
+sa(dp54
 g6
 VHe's doing great.
-p54
+p55
 sg8
 g9
 sg10
 VC.J.
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VI wouldn't want that to get around.
-p57
+p58
 sg8
 g9
 sg10
 VDANNY
-p58
+p59
 sg12
-g9
-sa(dp59
+g13
+sa(dp60
 g6
 VI'm surprised you called. I vaguely remember shunning you.
-p60
+p61
 sg8
 g9
 sg10
 VC.J.
-p61
+p62
 sg12
 g9
-sa(dp62
+sa(dp63
 g6
 VDignity's not my forte. [pause] So... they kept the kitchen open.
-p63
-sg8
-S'positive'
 p64
+sg8
+g23
 sg10
 VDANNY
 p65
@@ -223,7 +223,7 @@ sg10
 VC.J.
 p68
 sg12
-g9
+g13
 sa(dp69
 g6
 VHi. Thank you.
@@ -234,7 +234,7 @@ sg10
 VC.J.
 p71
 sg12
-g64
+g23
 sa(dp72
 g6
 VMmm-hm. Would you like to hear the specials?
@@ -262,7 +262,7 @@ g6
 VWell, tonight we're featuring New Zealand lamb...
 p79
 sg8
-g64
+g23
 sg10
 VWAITRESS
 p80
@@ -289,7 +289,7 @@ sg10
 VWAITRESS
 p86
 sg12
-g9
+g13
 sa(dp87
 g6
 VThe specials, are they written down somewhere?
@@ -311,7 +311,7 @@ sg10
 VWAITRESS
 p92
 sg12
-g18
+g23
 sa(dp93
 g6
 VJust give us that. We'll read. We're readers.
@@ -322,7 +322,7 @@ sg10
 VC.J.
 p95
 sg12
-g64
+g9
 sa(dp96
 g6
 VWhatever you want.
@@ -383,12 +383,12 @@ g6
 VExcept it's cold and dark.
 p112
 sg8
-g18
+g13
 sg10
 VDANNY
 p113
 sg12
-g9
+g13
 sa(dp114
 g6
 VWhat?
@@ -405,23 +405,23 @@ g6
 VI was making a joke.
 p118
 sg8
-g18
+g13
 sg10
 VDANNY
 p119
 sg12
-g9
+g13
 sa(dp120
 g6
 VOh, you don't have to do that. Relaxing makes me nervous. It makes me feel like I'm missing something.
 p121
 sg8
-g18
+g13
 sg10
 VC.J.
 p122
 sg12
-g9
+g13
 sa(dp123
 g6
 VYou want a drink?
@@ -465,7 +465,7 @@ sg10
 VC.J.
 p134
 sg12
-g18
+g13
 sa(dp135
 g6
 VYou really want me to...?
@@ -482,7 +482,7 @@ g6
 VCut to the chase; I do.
 p139
 sg8
-g18
+g13
 sg10
 VC.J.
 p140
@@ -493,7 +493,7 @@ g6
 VAll right, well... I'm having a bit of performance anxiety here.
 p142
 sg8
-g18
+g13
 sg10
 VDANNY
 p143
@@ -542,7 +542,7 @@ sg10
 VDANNY
 p155
 sg12
-g9
+g13
 sa(dp156
 g6
 VA thing?
@@ -575,7 +575,7 @@ sg10
 VC.J.
 p164
 sg12
-g9
+g13
 sa(dp165
 g6
 VNo?
@@ -614,7 +614,7 @@ g6
 VThey ticked me off because they care more about coming up with a good story than they do about telling the truth.
 p175
 sg8
-g64
+g23
 sg10
 VC.J.
 p176
@@ -630,13 +630,13 @@ sg10
 VDANNY
 p179
 sg12
-g9
+g13
 sa(dp180
 g6
 VSo now I have to live in a culture where what's important doesn't matter because we're too preoccupied by people who are more attractive than we are playing musical genitalia in Hollywood.
 p181
 sg8
-g64
+g23
 sg10
 VC.J.
 p182
@@ -658,12 +658,12 @@ g6
 VIt's disgusting.
 p187
 sg8
-g18
+g13
 sg10
 VC.J.
 p188
 sg12
-g9
+g13
 sa(dp189
 g6
 VI cover politicians.
@@ -674,7 +674,7 @@ sg10
 VDANNY
 p191
 sg12
-g9
+g13
 sa(dp192
 g6
 VMost of them are homely, so no one cares.
@@ -691,7 +691,7 @@ g6
 VWell, that's true. Maybe if they made up for it with guts, we'd write better stories.
 p196
 sg8
-g64
+g23
 sg10
 VDANNY
 p197
@@ -713,7 +713,7 @@ g6
 VAs opposed to what, leading? You want to know why politicians tick me off?
 p202
 sg8
-g18
+g13
 sg10
 VDANNY
 p203
@@ -724,18 +724,18 @@ g6
 VCan't wait.
 p205
 sg8
-g18
+g13
 sg10
 VC.J.
 p206
 sg12
-g9
+g13
 sa(dp207
 g6
 VThey're attracted to arenas of false heroics.
 p208
 sg8
-g64
+g23
 sg10
 VDANNY
 p209
@@ -751,13 +751,13 @@ sg10
 VC.J.
 p212
 sg12
-g9
+g13
 sa(dp213
 g6
 VWell, there are two places where you can see a pumped-up egomaniac slathered with man tan talking about how great he is and how he's going to kick his opponent's ass: one is a professional wrestling match, the other is a national political convention.
 p214
 sg8
-g18
+g13
 sg10
 VDANNY
 p215
@@ -773,13 +773,13 @@ sg10
 VC.J.
 p218
 sg12
-g9
+g13
 sa(dp219
 g6
 VYour boss never has to get elected ever again. But you guys are content to run out the clock with the same game of well-intention defense you've always played.
 p220
 sg8
-g64
+g23
 sg10
 VDANNY
 p221
@@ -790,7 +790,7 @@ g6
 VThat's not true.
 p223
 sg8
-g64
+g23
 sg10
 VC.J.
 p224
@@ -812,7 +812,7 @@ g6
 VYou think I'm not aware that I'm living the first line of my obituary now?
 p229
 sg8
-g18
+g13
 sg10
 VC.J.
 p230
@@ -823,7 +823,7 @@ g6
 VSo don't get hypnotized by complexity. Make it count. [pause] What are you working on?
 p232
 sg8
-g64
+g23
 sg10
 VDANNY
 p233
@@ -834,7 +834,7 @@ g6
 VRight now? I'm trying to keep China and Russia from annihilating the Northern Hemisphere over oil in Kazakhstan. What are you working on?
 p235
 sg8
-g64
+g23
 sg10
 VC.J.
 p236
@@ -856,12 +856,12 @@ g6
 VWell, no good comes from that.
 p241
 sg8
-g64
+g23
 sg10
 VC.J.
 p242
 sg12
-g9
+g13
 sa(dp243
 g6
 VNo. [pause] Have you heard anything about Doug Westin?
@@ -933,7 +933,7 @@ g6
 VHe's getting a lot of heat, a bunch of profiles, rising star crap. And I was surprised because the one time I met him he seemed kind of...
 p262
 sg8
-g64
+g23
 sg10
 VDANNY
 p263
@@ -966,7 +966,7 @@ g6
 VAre you implying the success in politics isn't a question of inherent value?
 p271
 sg8
-g64
+g23
 sg10
 VC.J.
 p272
@@ -982,7 +982,7 @@ sg10
 VDANNY
 p275
 sg12
-g9
+g13
 sa(dp276
 g6
 VGood. Okay, let's kind of move on here. Fish is a stupid thing to get in a restaurant.
@@ -1059,7 +1059,7 @@ sg10
 VC.J.
 p296
 sg12
-g64
+g23
 sa(dp297
 g6
 VYou're what?
@@ -1087,12 +1087,12 @@ g6
 VOh, shoot, I ruined the dinner.
 p304
 sg8
-g18
+g13
 sg10
 VDANNY
 p305
 sg12
-g9
+g13
 sa(dp306
 g6
 VTomorrow's a big day.
@@ -1109,12 +1109,12 @@ g6
 VYou're hungry.
 p310
 sg8
-g18
+g13
 sg10
 VDANNY
 p311
 sg12
-g9
+g13
 sa(dp312
 g6
 VIt just got bigger.
@@ -1131,12 +1131,12 @@ g6
 VYou've got to eat.
 p316
 sg8
-g64
+g23
 sg10
 VDANNY
 p317
 sg12
-g9
+g23
 sa(dp318
 g6
 VGet the steak. Tell me how it was.
@@ -1147,7 +1147,7 @@ sg10
 VC.J.
 p320
 sg12
-g9
+g13
 sa(dp321
 g6
 VCan I see you again?
@@ -1158,7 +1158,7 @@ sg10
 VDANNY
 p323
 sg12
-g64
+g13
 sa(dp324
 g6
 VSure, we're swell.
@@ -1169,7 +1169,7 @@ sg10
 VC.J.
 p326
 sg12
-g9
+g13
 sa(dp327
 g6
 VWhen?
@@ -1197,7 +1197,7 @@ g6
 VHow do we expect the people of Kazakhstan to come out and vote if we can't guarantee the safety of our own election monitors?
 p334
 sg8
-g64
+g23
 sg10
 VC.J.
 p335
@@ -1230,7 +1230,7 @@ g6
 VEthnic Chinese want revenge. They're not looking for a referendum.
 p343
 sg8
-g18
+g13
 sg10
 VKATE
 p344
@@ -1241,7 +1241,7 @@ g6
 VIs there some kind of legitimacy threshold?
 p346
 sg8
-g64
+g23
 sg10
 VC.J.
 p347
@@ -1252,12 +1252,12 @@ g6
 VYou mean participation?
 p349
 sg8
-g64
+g23
 sg10
 VKATE
 p350
 sg12
-g9
+g23
 sa(dp351
 g6
 VYeah.
@@ -1307,7 +1307,7 @@ g6
 VKazakhs understand that one hung over riot cop goes nuts and everyone gets to live in a sarcophagus?
 p364
 sg8
-g18
+g13
 sg10
 VC.J.
 p365
@@ -1329,7 +1329,7 @@ g6
 VThese people love their vodka.
 p370
 sg8
-g64
+g23
 sg10
 VC.J.
 p371
@@ -1340,7 +1340,7 @@ g6
 VDon't drink and play thermonuclear war.
 p373
 sg8
-g18
+g13
 sg10
 VKATE
 p374
@@ -1351,7 +1351,7 @@ g6
 VThat's what I'm saying. Whatever communication we have with the Russians, we need to emphasize that everyone needs to bury their dead and vote in peace.
 p376
 sg8
-g64
+g23
 sg10
 VC.J.
 p377
@@ -1406,7 +1406,7 @@ g6
 VJanjaweed warriors on camel and horseback attacked the camp along with government troops out of Khartoum.
 p391
 sg8
-g18
+g13
 sg10
 VKATE
 p392
@@ -1422,7 +1422,7 @@ sg10
 VC.J.
 p395
 sg12
-g64
+g23
 sa(dp396
 g6
 VAttacking the camps is new.
@@ -1433,13 +1433,13 @@ sg10
 VKATE
 p398
 sg12
-g64
+g9
 sa(dp399
 g6
 VAnd it's directed by the government in Khartoum?
 p400
 sg8
-g18
+g13
 sg10
 VC.J.
 p401
@@ -1450,7 +1450,7 @@ g6
 VAfrican peacekeeper unions say the Janjaweed and Sudanese government are the same thing. Government helicopters were a part of the assault. There's rape trauma in the camps, there's amputations, all the men are dead. We've seen it before.
 p403
 sg8
-g18
+g13
 sg10
 VKATE
 p404
@@ -1461,7 +1461,7 @@ g6
 VThe big question is, will there be another member of the Bartlet family in the Capitol come next January. Mr. Westin, who has insisted from the beginning on running as his own man...
 p406
 sg8
-g64
+g23
 sg10
 VNEWSCASTER
 p407
@@ -1472,23 +1472,23 @@ g6
 VThey look good.
 p409
 sg8
-g64
+g23
 sg10
 VKATE
 p410
 sg12
-g9
+g23
 sa(dp411
 g6
 VSo, the peacekeepers are overwhelmed?
 p412
 sg8
-g18
+g13
 sg10
 VC.J.
 p413
 sg12
-g9
+g13
 sa(dp414
 g6
 VYeah. The minute it gets too dangerous, the humanitarian agents pull out and we have genocide on smack.
@@ -1549,7 +1549,7 @@ g6
 VLet's chop the financial balls off these genocidal bastards in Khartoum.
 p430
 sg8
-g18
+g13
 sg10
 VC.J.
 p431
@@ -1582,7 +1582,7 @@ g6
 VI thought we agreed...
 p439
 sg8
-g64
+g23
 sg10
 VKATE
 p440
@@ -1604,18 +1604,18 @@ g6
 VThat China would veto; that's why we've never tried it before.
 p445
 sg8
-g18
+g13
 sg10
 VKATE
 p446
 sg12
-g9
+g13
 sa(dp447
 g6
 VChina needs us now. They need an honest broker with the Russians to make sure this election in Kazakhstan is legitimate.
 p448
 sg8
-g64
+g23
 sg10
 VC.J.
 p449
@@ -1642,13 +1642,13 @@ sg10
 VC.J.
 p455
 sg12
-g9
+g13
 sa(dp456
 g6
 VIf we can assure them their flow of oil in Kazakhstan is secure, then they may be willing to sacrifice something in the Sudan.
 p457
 sg8
-g64
+g23
 sg10
 VKATE
 p458
@@ -1670,12 +1670,12 @@ g6
 VWe don't want to jeopardize our neutrality in Kazakhstan.
 p463
 sg8
-g18
+g13
 sg10
 VKATE
 p464
 sg12
-g9
+g13
 sa(dp465
 g6
 VNo, they can't know it's coming from us.
@@ -1686,7 +1686,7 @@ sg10
 VC.J.
 p467
 sg12
-g9
+g13
 sa(dp468
 g6
 VWe find a proxy.
@@ -1697,7 +1697,7 @@ sg10
 VKATE
 p470
 sg12
-g64
+g9
 sa(dp471
 g6
 VYeah.
@@ -1796,7 +1796,7 @@ sg10
 VKATE
 p497
 sg12
-g9
+g13
 sa(dp498
 g6
 VGreat. Thanks.
@@ -1807,7 +1807,7 @@ sg10
 VC.J.
 p500
 sg12
-g9
+g23
 sa(dp501
 g6
 VCampaign coordination in the Roosevelt. Josh is waiting.
@@ -1873,7 +1873,7 @@ sg10
 VC.J.
 p518
 sg12
-g9
+g13
 sa(dp519
 g6
 VYou, I need. Come here.
@@ -1884,18 +1884,18 @@ sg10
 VC.J.
 p521
 sg12
-g9
+g13
 sa(dp522
 g6
 VWhat's wrong?
 p523
 sg8
-g18
+g13
 sg10
 VWILL
 p524
 sg12
-g9
+g13
 sa(dp525
 g6
 VClose the door.
@@ -1906,7 +1906,7 @@ sg10
 VC.J.
 p527
 sg12
-g9
+g13
 sa(dp528
 g6
 VI didn't do it.
@@ -1917,7 +1917,7 @@ sg10
 VWILL
 p530
 sg12
-g9
+g13
 sa(dp531
 g6
 VClose the door.
@@ -1928,7 +1928,7 @@ sg10
 VC.J.
 p533
 sg12
-g9
+g13
 sa(dp534
 g6
 VToby did it.
@@ -1939,7 +1939,7 @@ sg10
 VWILL
 p536
 sg12
-g9
+g13
 sa(dp537
 g6
 VShut up!
@@ -1989,7 +1989,7 @@ g6
 VBecause you deal with the press and I don't want you to get blindsided.
 p550
 sg8
-g64
+g23
 sg10
 VC.J.
 p551
@@ -2016,18 +2016,18 @@ sg10
 VC.J.
 p557
 sg12
-g9
+g13
 sa(dp558
 g6
 VI can't act. I'm a terrible actor.
 p559
 sg8
-g18
+g13
 sg10
 VWILL
 p560
 sg12
-g9
+g13
 sa(dp561
 g6
 VYou were up in New Hampshire...
@@ -2044,12 +2044,12 @@ g6
 VI don't like to pretend.
 p565
 sg8
-g18
+g13
 sg10
 VWILL
 p566
 sg12
-g9
+g13
 sa(dp567
 g6
 V...during the primaries.
@@ -2071,7 +2071,7 @@ sg10
 VWILL
 p572
 sg12
-g9
+g23
 sa(dp573
 g6
 VSo, find out if there's any truth to said rumor.
@@ -2121,7 +2121,7 @@ g6
 VYou think? I've got the President flying up there next week to lend his credibility to the alleged fornicator.
 p586
 sg8
-g64
+g23
 sg10
 VC.J.
 p587
@@ -2132,34 +2132,34 @@ g6
 VReally bad.
 p589
 sg8
-g18
+g13
 sg10
 VWILL
 p590
 sg12
-g9
+g13
 sa(dp591
 g6
 VAnd we've already lost a Vice President in a sex scandal. I feel like I'm handing out towels in the Playboy mansion.
 p592
 sg8
-g18
+g13
 sg10
 VC.J.
 p593
 sg12
-g9
+g13
 sa(dp594
 g6
 VIt's not your fault.
 p595
 sg8
-g18
+g13
 sg10
 VWILL
 p596
 sg12
-g9
+g13
 sa(dp597
 g6
 VOh, really now? Open the door.
@@ -2170,7 +2170,7 @@ sg10
 VC.J.
 p599
 sg12
-g9
+g13
 sa(dp600
 g6
 VWhat?
@@ -2192,18 +2192,18 @@ sg10
 VC.J.
 p605
 sg12
-g9
+g13
 sa(dp606
 g6
 VDid you take an awkward pill?
 p607
 sg8
-g64
+g23
 sg10
 VC.J.
 p608
 sg12
-g64
+g23
 sa(dp609
 g6
 VWhat? I'm always like this.
@@ -2214,18 +2214,18 @@ sg10
 VWILL
 p611
 sg12
-g9
+g13
 sa(dp612
 g6
 VBriefer boy, I caught you on C-SPAN. You look real cute in makeup.
 p613
 sg8
-g64
+g23
 sg10
 VJOSH
 p614
 sg12
-g9
+g23
 sa(dp615
 g6
 VWithering sarcasm, I love it.
@@ -2236,13 +2236,13 @@ sg10
 VWILL
 p617
 sg12
-g9
+g13
 sa(dp618
 g6
 VThose are some brutal briefings. It's like some sort of medieval wonk baiting.
 p619
 sg8
-g18
+g13
 sg10
 VJOSH
 p620
@@ -2253,7 +2253,7 @@ g6
 VSupport me in public, that's all I ask.
 p622
 sg8
-g64
+g23
 sg10
 VWILL
 p623
@@ -2275,7 +2275,7 @@ g6
 VYeah. Since I'm in town, I thought I'd nail down the President's availability for the rest of the campaign. I'm back at 4:00 to sit with Cabinet Affairs and work out a calendar.
 p628
 sg8
-g64
+g23
 sg10
 VJOSH
 p629
@@ -2286,7 +2286,7 @@ g6
 VWe're going to need some people left in the building to, you know, run the country.
 p631
 sg8
-g64
+g23
 sg10
 VC.J.
 p632
@@ -2324,7 +2324,7 @@ sg10
 VC.J.
 p641
 sg12
-g9
+g13
 sa(dp642
 g6
 VNow, I don't want you to do anything you wouldn't be doing anyway.
@@ -2346,7 +2346,7 @@ sg10
 VC.J.
 p647
 sg12
-g9
+g13
 sa(dp648
 g6
 VBut whatever you have in terms of research grants, infrastructure initiatives... it's a waste to piddle it out in some Department of Commerce press release. Let's highlight it: have the Secretary show up, create some sizzle.
@@ -2363,7 +2363,7 @@ g6
 VWe've got some small-business loans and light rail stuff coming down the pipe. We'll keep you posted.
 p652
 sg8
-g18
+g13
 sg10
 VWILL
 p653
@@ -2434,7 +2434,7 @@ sg10
 VC.J.
 p671
 sg12
-g9
+g13
 sa(dp672
 g6
 VThe molecular transport lab - the biotech chemical genome thing.
@@ -2561,18 +2561,18 @@ g6
 VMaybe he doesn't. Maybe it's just a rumor.
 p706
 sg8
-g18
+g13
 sg10
 VC.J.
 p707
 sg12
-g9
+g13
 sa(dp708
 g6
 VMaybe it's wishful thinking and he's trying to jam it home on us.
 p709
 sg8
-g64
+g23
 sg10
 VC.J.
 p710
@@ -2616,7 +2616,7 @@ g6
 VHe's fine. I gave him a beverage.
 p721
 sg8
-g64
+g23
 sg10
 VMARGARET
 p722
@@ -2638,7 +2638,7 @@ g6
 VWhere did you leave it with the Senator?
 p727
 sg8
-g18
+g13
 sg10
 VWILL
 p728
@@ -2649,7 +2649,7 @@ g6
 VBowles knows it's going to Texas. He's fighting for his life. His constituents don't like his politics anymore, "shwing" with the federal purse is all he's got.
 p730
 sg8
-g18
+g13
 sg10
 VC.J.
 p731
@@ -2660,12 +2660,12 @@ g6
 VHe didn't promise them anything.
 p733
 sg8
-g64
+g23
 sg10
 VWILL
 p734
 sg12
-g9
+g13
 sa(dp735
 g6
 VAll he's asking is that we hold off on the announcement until after the election.
@@ -2715,12 +2715,12 @@ g6
 VJust standing there in front of me.
 p748
 sg8
-g64
+g23
 sg10
 VC.J.
 p749
 sg12
-g9
+g23
 sa(dp750
 g6
 VI thought we were talking.
@@ -2753,7 +2753,7 @@ sg10
 VWILL
 p758
 sg12
-g9
+g13
 sa(dp759
 g6
 VWalk away from me, now.
@@ -2792,7 +2792,7 @@ g6
 VWe would like to turn off the financial spigot that is supporting the government in Khartoum. There's no reason not to expect more mass killings and more displacements.
 p769
 sg8
-g64
+g23
 sg10
 VC.J.
 p770
@@ -2808,18 +2808,18 @@ sg10
 VC.J.
 p773
 sg12
-g64
+g23
 sa(dp774
 g6
 VWhich we admire; we believe you have the domestic constituency to support bold action.
 p775
 sg8
-g64
+g23
 sg10
 VC.J.
 p776
 sg12
-g9
+g23
 sa(dp777
 g6
 VWe may be willing to support reopening your arms' sales to China.
@@ -2858,29 +2858,29 @@ g6
 VAre you offering French troops to a NATO peacekeeping effort?
 p787
 sg8
-g64
+g23
 sg10
 VC.J.
 p788
 sg12
-g9
+g23
 sa(dp789
 g6
 VPeople are still dying.
 p790
 sg8
-g18
+g13
 sg10
 VC.J.
 p791
 sg12
-g64
+g23
 sa(dp792
 g6
 VWe would all prefer an African solution, but it's not working.
 p793
 sg8
-g64
+g23
 sg10
 VC.J.
 p794
@@ -2902,12 +2902,12 @@ g6
 V...could provide the United States with crucial information, absolutely.
 p799
 sg8
-g64
+g23
 sg10
 VC.J.
 p800
 sg12
-g9
+g23
 sa(dp801
 g6
 VWe all make calculations, Jacques.
@@ -2924,7 +2924,7 @@ g6
 VAnd there's plenty of hypocrisy to go around.
 p805
 sg8
-g18
+g13
 sg10
 VC.J.
 p806
@@ -2962,7 +2962,7 @@ sg10
 VC.J.
 p815
 sg12
-g9
+g13
 sa(dp816
 g6
 VNo, I mean I didn't get anything.
@@ -2973,7 +2973,7 @@ sg10
 VWILL
 p818
 sg12
-g9
+g13
 sa(dp819
 g6
 VI told you to...
@@ -2984,13 +2984,13 @@ sg10
 VC.J.
 p821
 sg12
-g9
+g23
 sa(dp822
 g6
 VTo what, casually call people in New Hampshire and ask them if they think the President's son-in-law is committing adultery with the nanny?
 p823
 sg8
-g18
+g13
 sg10
 VWILL
 p824
@@ -3006,18 +3006,18 @@ sg10
 VC.J.
 p827
 sg12
-g18
+g13
 sa(dp828
 g6
 VThere is no art in trying to find out if somebody slept with someone else. You ask it straight out, or you don't. Art?
 p829
 sg8
-g64
+g23
 sg10
 VWILL
 p830
 sg12
-g9
+g13
 sa(dp831
 g6
 VI didn't say it would be easy.
@@ -3028,7 +3028,7 @@ sg10
 VC.J.
 p833
 sg12
-g9
+g13
 sa(dp834
 g6
 VThe segue hasn't been invented that takes us from "how's the weather" to "Is Doug Westin hammering the nanny?".
@@ -3067,18 +3067,18 @@ g6
 VYou're useless.
 p844
 sg8
-g18
+g13
 sg10
 VC.J.
 p845
 sg12
-g9
+g13
 sa(dp846
 g6
 VAnd that the Westin's 26-year-old nanny of three years was let go in August and is now traveling in Europe.
 p847
 sg8
-g64
+g23
 sg10
 VWILL
 p848
@@ -3116,7 +3116,7 @@ sg10
 VC.J.
 p857
 sg12
-g9
+g13
 sa(dp858
 g6
 VSheila Jacobs, Tom Weller, Danny Concannon.
@@ -3127,7 +3127,7 @@ sg10
 VWILL
 p860
 sg12
-g9
+g23
 sa(dp861
 g6
 VDanny Concannon, yeah.
@@ -3138,7 +3138,7 @@ sg10
 VC.J.
 p863
 sg12
-g9
+g23
 sa(dp864
 g6
 VThey're all talking to people off the record about Doug - non politicos.
@@ -3155,7 +3155,7 @@ g6
 VAnd I pulled this picture of the whole family at a butter festival off the Internet. That's the nanny right there, which makes me think he did it. I mean, just look at her.
 p868
 sg8
-g64
+g23
 sg10
 VWILL
 p869
@@ -3182,7 +3182,7 @@ sg10
 VWILL
 p875
 sg12
-g9
+g13
 sa(dp876
 g6
 VYeah, I can see your mouth moving. You're just saying what?
@@ -3193,18 +3193,18 @@ sg10
 VC.J.
 p878
 sg12
-g9
+g13
 sa(dp879
 g6
 VThat she's really cute and he probably did it.
 p880
 sg8
-g64
+g23
 sg10
 VWILL
 p881
 sg12
-g9
+g23
 sa(dp882
 g6
 VThey have children.
@@ -3221,12 +3221,12 @@ g6
 VSure. It'd be stupid to have a nanny if you didn't have kids. Especially one that looks like that.
 p886
 sg8
-g18
+g13
 sg10
 VWILL
 p887
 sg12
-g9
+g13
 sa(dp888
 g6
 VOkay.
@@ -3243,7 +3243,7 @@ g6
 VI'm just saying, if you're interested in the male perspective...
 p892
 sg8
-g64
+g23
 sg10
 VWILL
 p893
@@ -3254,18 +3254,18 @@ g6
 VAlways. I find it raises the level of the discussion.
 p895
 sg8
-g64
+g23
 sg10
 VC.J.
 p896
 sg12
-g9
+g23
 sa(dp897
 g6
 VCan I give you one piece of advice before you ask me to leave my own office?
 p898
 sg8
-g18
+g13
 sg10
 VWILL
 p899
@@ -3292,13 +3292,13 @@ sg10
 VWILL
 p905
 sg12
-g9
+g13
 sa(dp906
 g6
 VI'm protecting the President.
 p907
 sg8
-g64
+g23
 sg10
 VC.J.
 p908
@@ -3309,7 +3309,7 @@ g6
 VRight. Whatever. This much I do know: there's only one thing worse than telling the President of the United States his son-in-law is having an affair.
 p910
 sg8
-g18
+g13
 sg10
 VWILL
 p911
@@ -3331,7 +3331,7 @@ g6
 VTelling the President of the United States his son-in-law is having an affair and then finding out you were wrong.
 p916
 sg8
-g18
+g13
 sg10
 VWILL
 p917
@@ -3347,13 +3347,13 @@ sg10
 VDANNY
 p920
 sg12
-g9
+g23
 sa(dp921
 g6
 VBut right now, I'm concerned with the President and I don't want to have to walk your dumb-ass gauntlet of journalistic ethics, so I'll make this easy for you: I'm going to say a sentence and if it's true, you just don't say anything. Clear?
 p922
 sg8
-g64
+g23
 sg10
 VC.J.
 p923
@@ -3369,13 +3369,13 @@ sg10
 VDANNY
 p926
 sg12
-g9
+g13
 sa(dp927
 g6
 VIf you don't say anything, it means that what I said was true.
 p928
 sg8
-g64
+g23
 sg10
 VC.J.
 p929
@@ -3391,7 +3391,7 @@ sg10
 VDANNY
 p932
 sg12
-g9
+g23
 sa(dp933
 g6
 VGot it?
@@ -3402,7 +3402,7 @@ sg10
 VC.J.
 p935
 sg12
-g9
+g13
 sa(dp936
 g6
 VWhat do you mean?
@@ -3419,7 +3419,7 @@ g6
 VWell, what if you say something that's not true and my cell phone cuts out?
 p940
 sg8
-g64
+g23
 sg10
 VDANNY
 p941
@@ -3435,7 +3435,7 @@ sg10
 VDANNY
 p944
 sg12
-g9
+g13
 sa(dp945
 g6
 VWell, get off now, mister!
@@ -3457,7 +3457,7 @@ sg10
 VDANNY
 p950
 sg12
-g9
+g23
 sa(dp951
 g6
 VAre you okay?
@@ -3468,7 +3468,7 @@ sg10
 VMARGARET
 p953
 sg12
-g64
+g23
 sa(dp954
 g6
 VI'm fine. I'm fine.
@@ -3479,7 +3479,7 @@ sg10
 VC.J.
 p956
 sg12
-g9
+g13
 sa(dp957
 g6
 VWhat the...?
@@ -3512,7 +3512,7 @@ sg10
 VMARGARET
 p965
 sg12
-g9
+g13
 sa(dp966
 g6
 VI really do.
@@ -3523,7 +3523,7 @@ sg10
 VC.J.
 p968
 sg12
-g9
+g13
 sa(dp969
 g6
 VSteve Lawson from Refugees' Rights Alliance is out here.
@@ -3556,7 +3556,7 @@ sg10
 VMARGARET
 p977
 sg12
-g9
+g13
 sa(dp978
 g6
 VYou there?
@@ -3567,7 +3567,7 @@ sg10
 VC.J.
 p980
 sg12
-g9
+g13
 sa(dp981
 g6
 VYeah. You okay?
@@ -3589,7 +3589,7 @@ sg10
 VC.J.
 p986
 sg12
-g64
+g13
 sa(dp987
 g6
 VOn purpose?
@@ -3606,7 +3606,7 @@ g6
 VWell, you've been under a lot of pressure.
 p991
 sg8
-g18
+g13
 sg10
 VDANNY
 p992
@@ -3622,13 +3622,13 @@ sg10
 VC.J.
 p995
 sg12
-g9
+g13
 sa(dp996
 g6
 VI'll tell you anything you want to know if you have dinner with me tomorrow night.
 p997
 sg8
-g64
+g23
 sg10
 VDANNY
 p998
@@ -3666,7 +3666,7 @@ sg10
 VDANNY
 p1007
 sg12
-g64
+g23
 sa(dp1008
 g6
 VGreat. Shoot.
@@ -3677,13 +3677,13 @@ sg10
 VDANNY
 p1010
 sg12
-g9
+g23
 sa(dp1011
 g6
 VIf I went to the President with the information you brought to my attention, would I be making a mistake?
 p1012
 sg8
-g64
+g23
 sg10
 VC.J.
 p1013
@@ -3699,7 +3699,7 @@ sg10
 VDANNY
 p1016
 sg12
-g64
+g9
 sa(dp1017
 g6
 VSteve. Come in.
@@ -3716,23 +3716,23 @@ g6
 VIt's good to see you.
 p1021
 sg8
-g64
+g23
 sg10
 VC.J.
 p1022
 sg12
-g9
+g23
 sa(dp1023
 g6
 VI'm glad we could make this happen.
 p1024
 sg8
-g64
+g23
 sg10
 VC.J.
 p1025
 sg12
-g9
+g13
 sa(dp1026
 g6
 VMe too.
@@ -3782,7 +3782,7 @@ g6
 VThe attacks on the displacement camps, Janjaweed warriors backed by government helicopters.
 p1039
 sg8
-g18
+g13
 sg10
 VLAWSON
 p1040
@@ -3809,7 +3809,7 @@ sg10
 VLAWSON
 p1046
 sg12
-g9
+g13
 sa(dp1047
 g6
 VWe condemned it.
@@ -3820,7 +3820,7 @@ sg10
 VC.J.
 p1049
 sg12
-g9
+g13
 sa(dp1050
 g6
 VWell, what do you want to hear, C.J.? You want to hear the numbers first, or the horror stories?
@@ -3875,7 +3875,7 @@ sg10
 VLAWSON
 p1064
 sg12
-g18
+g9
 sa(dp1065
 g6
 VI don't need to see photographs.
@@ -3892,7 +3892,7 @@ g6
 VWhen the babies die, the mothers don't know how to put them down so they carry them around - on this planet, on your watch.
 p1069
 sg8
-g18
+g13
 sg10
 VLAWSON
 p1070
@@ -3914,7 +3914,7 @@ g6
 VYou remember the picture of the Vietnamese monk who lit himself on fire to protest the war? I used to think that guy was nuts. Now, it seems like the only logical response.
 p1075
 sg8
-g64
+g23
 sg10
 VLAWSON
 p1076
@@ -3930,24 +3930,24 @@ sg10
 VC.J.
 p1079
 sg12
-g18
+g13
 sa(dp1080
 g6
 VWe need strong preemptive action led by the Bartlet Administration.
 p1081
 sg8
-g64
+g23
 sg10
 VLAWSON
 p1082
 sg12
-g9
+g13
 sa(dp1083
 g6
 VOverwhelming American military might? Followed by a decade of nation building in a part of the world where many consider us infidels so that we might bring forth a new and benevolent democracy?
 p1084
 sg8
-g64
+g23
 sg10
 VC.J.
 p1085
@@ -3958,18 +3958,18 @@ g6
 VOf course not. Come on, C.J. When did it become naive to try to put an end to genocide?
 p1087
 sg8
-g18
+g13
 sg10
 VLAWSON
 p1088
 sg12
-g9
+g13
 sa(dp1089
 g6
 VWe are monitoring the situation carefully. Steve you don't need to...
 p1090
 sg8
-g64
+g23
 sg10
 VC.J.
 p1091
@@ -3980,34 +3980,34 @@ g6
 VI need my government...
 p1093
 sg8
-g18
+g13
 sg10
 VLAWSON
 p1094
 sg12
-g9
+g13
 sa(dp1095
 g6
 VThe President is fully aware...
 p1096
 sg8
-g64
+g23
 sg10
 VC.J.
 p1097
 sg12
-g9
+g23
 sa(dp1098
 g6
 V...to assert what's left of its moral authority.
 p1099
 sg8
-g64
+g23
 sg10
 VLAWSON
 p1100
 sg12
-g9
+g23
 sa(dp1101
 g6
 VOkay.
@@ -4112,12 +4112,12 @@ g6
 VI smell bacon.
 p1129
 sg8
-g18
+g13
 sg10
 VJOSH
 p1130
 sg12
-g9
+g13
 sa(dp1131
 g6
 VHello, Josh.
@@ -4128,13 +4128,13 @@ sg10
 VC.J.
 p1133
 sg12
-g9
+g23
 sa(dp1134
 g6
 VA heapin' helpin' of sizzling federal pork butt.
 p1135
 sg8
-g18
+g13
 sg10
 VJOSH
 p1136
@@ -4145,7 +4145,7 @@ g6
 VI can't talk right now.
 p1138
 sg8
-g64
+g23
 sg10
 VC.J.
 p1139
@@ -4156,12 +4156,12 @@ g6
 VJust perfect for a Texas barbeque.
 p1141
 sg8
-g64
+g23
 sg10
 VJOSH
 p1142
 sg12
-g9
+g13
 sa(dp1143
 g6
 VI have a meeting.
@@ -4172,7 +4172,7 @@ sg10
 VC.J.
 p1145
 sg12
-g18
+g13
 sa(dp1146
 g6
 VI just finished up with Cabinet Affairs. I thought you might have some news.
@@ -4183,7 +4183,7 @@ sg10
 VJOSH
 p1148
 sg12
-g9
+g13
 sa(dp1149
 g6
 VI don't.
@@ -4194,18 +4194,18 @@ sg10
 VC.J.
 p1151
 sg12
-g9
+g13
 sa(dp1152
 g6
 VCause it would be really helpful to make the announcement in Texas next week.
 p1153
 sg8
-g64
+g23
 sg10
 VJOSH
 p1154
 sg12
-g9
+g13
 sa(dp1155
 g6
 VWe can't announce something we haven't decided yet.
@@ -4238,7 +4238,7 @@ sg10
 VC.J.
 p1163
 sg12
-g9
+g13
 sa(dp1164
 g6
 VYeah. I have the data, plus the University of Texas has everything they need in terms of research coordination. You know all this. You're playing with me, right?
@@ -4260,7 +4260,7 @@ sg10
 VC.J.
 p1169
 sg12
-g9
+g13
 sa(dp1170
 g6
 VYou have bad information.
@@ -4277,7 +4277,7 @@ g6
 VI feel pretty confident about my information since I actually work here and you actually don't. And now, I have a meeting.
 p1174
 sg8
-g64
+g23
 sg10
 VC.J.
 p1175
@@ -4310,7 +4310,7 @@ g6
 VIt's going to come out before the election anyway, C.J. You can't keep this kind of information quiet.The only question is: do you want the President to be a part of the story or not. Think about it. I'm around.
 p1183
 sg8
-g64
+g23
 sg10
 VJOSH
 p1184
@@ -4343,12 +4343,12 @@ g6
 VAs long as oil revenues continue to flow into Khartoum, the humanitarian situation will continue to deteriorate.
 p1192
 sg8
-g64
+g23
 sg10
 VC.J.
 p1193
 sg12
-g9
+g23
 sa(dp1194
 g6
 VA diesel-electric plant, yes, we are aware.
@@ -4359,7 +4359,7 @@ sg10
 VC.J.
 p1196
 sg12
-g9
+g23
 sa(dp1197
 g6
 VWe are looking for a U.N. resolution.
@@ -4381,7 +4381,7 @@ sg10
 VC.J.
 p1202
 sg12
-g64
+g23
 sa(dp1203
 g6
 VThey might.
@@ -4403,13 +4403,13 @@ sg10
 VC.J.
 p1208
 sg12
-g64
+g23
 sa(dp1209
 g6
 VBecause we're doing everything we can to avoid World War III in Kazakhstan. And at the same time we would like to do everything that we can to prevent an unnecessary and massive loss of human life.
 p1210
 sg8
-g18
+g13
 sg10
 VC.J.
 p1211
@@ -4431,7 +4431,7 @@ g6
 VIn exchange for your introduction of the resolution, we will drop our opposition to your resumption of arms sales to China. And, of course, we can assure you a sympathetic hearing at the next round of trade negotiations.
 p1216
 sg8
-g64
+g23
 sg10
 VC.J.
 p1217
@@ -4480,13 +4480,13 @@ sg10
 VC.J.
 p1229
 sg12
-g9
+g13
 sa(dp1230
 g6
 VSon of a bitch! Dial Josh, now. Son of a bitch.
 p1231
 sg8
-g18
+g13
 sg10
 VC.J.
 p1232
@@ -4519,34 +4519,34 @@ g6
 VI hate it when I make myself clear...
 p1240
 sg8
-g18
+g13
 sg10
 VC.J.
 p1241
 sg12
-g9
+g13
 sa(dp1242
 g6
 VWhoa, whoa, whoa, whoa, wait.
 p1243
 sg8
-g18
+g13
 sg10
 VJOSH
 p1244
 sg12
-g9
+g13
 sa(dp1245
 g6
 VIt's a done deal, C.J.
 p1246
 sg8
-g64
+g23
 sg10
 VJOSH
 p1247
 sg12
-g9
+g23
 sa(dp1248
 g6
 VThis is not your call.
@@ -4557,7 +4557,7 @@ sg10
 VC.J.
 p1250
 sg12
-g9
+g13
 sa(dp1251
 g6
 VDon't make distinctions with me, Josh. I've known you too long.
@@ -4568,7 +4568,7 @@ sg10
 VC.J.
 p1253
 sg12
-g64
+g13
 sa(dp1254
 g6
 VWay too long.
@@ -4667,7 +4667,7 @@ sg10
 VMARGARET
 p1280
 sg12
-g9
+g13
 sa(dp1281
 g6
 VTell him I'll be right there.
@@ -4700,7 +4700,7 @@ sg10
 VC.J.
 p1289
 sg12
-g9
+g13
 sa(dp1290
 g6
 VC.J., how you doing?
@@ -4728,7 +4728,7 @@ g6
 VGreat. You know what the first thing I'm going to do when they declare me the winner?
 p1297
 sg8
-g64
+g23
 sg10
 VDOUG
 p1298
@@ -4761,7 +4761,7 @@ g6
 VThat's not my line, but I love it. It's great, isn't it?
 p1306
 sg8
-g64
+g23
 sg10
 VDOUG
 p1307
@@ -4777,13 +4777,13 @@ sg10
 VC.J.
 p1310
 sg12
-g9
+g23
 sa(dp1311
 g6
 VI am so jazzed about this event with the President next week. We are gonna win this thing. I've never felt so strongly about anything in my life. But until that last vote is counted, I'm going to operate under the assumption that I'm going to lose; nothing for granted. But, I mean, look who I'm talking to. You know exactly what I'm going through.
 p1312
 sg8
-g64
+g23
 sg10
 VDOUG
 p1313
@@ -4799,7 +4799,7 @@ sg10
 VDOUG
 p1316
 sg12
-g9
+g13
 sa(dp1317
 g6
 VNo, he doesn't.
@@ -4810,7 +4810,7 @@ sg10
 VC.J.
 p1319
 sg12
-g9
+g13
 sa(dp1320
 g6
 VGood.
@@ -4821,7 +4821,7 @@ sg10
 VDOUG
 p1322
 sg12
-g9
+g23
 sa(dp1323
 g6
 VI don't care what you do privately.
@@ -4832,7 +4832,7 @@ sg10
 VC.J.
 p1325
 sg12
-g9
+g13
 sa(dp1326
 g6
 VOK.
@@ -4854,7 +4854,7 @@ sg10
 VC.J.
 p1331
 sg12
-g9
+g13
 sa(dp1332
 g6
 VI'm a little...
@@ -4865,13 +4865,13 @@ sg10
 VDOUG
 p1334
 sg12
-g18
+g13
 sa(dp1335
 g6
 VBut when you do something that affects my boss's ability to do his job, that could embarrass him on a political trip to New Hampshire, and will take attention away from urgent national and, at the moment, international, issues, I begin to care very deeply. Right now, I'm trying to get the Chinese Ambassador here to put an end to some unimaginable human suffering. So if you have a problem with your zipper, get it out of my face, right now. Do you understand me?
 p1336
 sg8
-g18
+g13
 sg10
 VC.J.
 p1337
@@ -4887,7 +4887,7 @@ sg10
 VDOUG
 p1340
 sg12
-g9
+g13
 sa(dp1341
 g6
 VI think you do too.
@@ -4970,7 +4970,7 @@ g6
 VI agree. The timing is odd.
 p1363
 sg8
-g64
+g23
 sg10
 VC.J.
 p1364
@@ -5003,7 +5003,7 @@ g6
 VYou are interested in purchasing arms from the French and the Germans.
 p1372
 sg8
-g64
+g23
 sg10
 VC.J.
 p1373
@@ -5019,7 +5019,7 @@ sg10
 VC.J.
 p1376
 sg12
-g9
+g13
 sa(dp1377
 g6
 VSix months ago, the French and the Germans told us they would like to sell to you again.
@@ -5036,12 +5036,12 @@ g6
 VWe objected strongly.
 p1381
 sg8
-g64
+g23
 sg10
 VC.J.
 p1382
 sg12
-g9
+g23
 sa(dp1383
 g6
 VThere may be some latitude now.
@@ -5063,13 +5063,13 @@ sg10
 VC.J.
 p1388
 sg12
-g64
+g23
 sa(dp1389
 g6
 VWe're going to make sure your oil supply is preserved in Kazakhstan. You can show yourself to be responsible members of the world community with a simple abstention on the German resolution. It will allow us to put American election monitors on the ground to ensure a fair vote there.
 p1390
 sg8
-g64
+g23
 sg10
 VC.J.
 p1391
@@ -5107,24 +5107,24 @@ sg10
 VC.J.
 p1400
 sg12
-g64
+g23
 sa(dp1401
 g6
 VWhat, sir?
 p1402
 sg8
-g64
+g23
 sg10
 VC.J.
 p1403
 sg12
-g9
+g23
 sa(dp1404
 g6
 VWe're trying to address a humanitarian situation in the Sudan.
 p1405
 sg8
-g64
+g23
 sg10
 VC.J.
 p1406
@@ -5135,7 +5135,7 @@ g6
 V[pause] This is a good deal for the Chinese. I hope you'll consider it carefully.
 p1408
 sg8
-g64
+g23
 sg10
 VC.J.
 p1409
@@ -5151,7 +5151,7 @@ sg10
 VC.J.
 p1412
 sg12
-g64
+g23
 sa(dp1413
 g6
 VThe President needs you in the Oval and I have a yogurt.
@@ -5179,7 +5179,7 @@ g6
 VTo eat.
 p1420
 sg8
-g64
+g23
 sg10
 VMARGARET
 p1421
@@ -5212,7 +5212,7 @@ g6
 VAnd... he's grumpy.
 p1429
 sg8
-g18
+g13
 sg10
 VMARGARET
 p1430
@@ -5245,12 +5245,12 @@ g6
 VVery good, sir.
 p1438
 sg8
-g64
+g23
 sg10
 VC.J.
 p1439
 sg12
-g9
+g23
 sa(dp1440
 g6
 VI'm glad to hear it. Teddy Barrow just called from State. What the hell's going on with this Sudan thing?
@@ -5267,7 +5267,7 @@ g6
 VI'm working on a Security Council resolution.
 p1444
 sg8
-g64
+g23
 sg10
 VC.J.
 p1445
@@ -5289,7 +5289,7 @@ g6
 VYes, sir; to be introduced by the Germans.
 p1450
 sg8
-g64
+g23
 sg10
 VC.J.
 p1451
@@ -5316,7 +5316,7 @@ sg10
 VC.J.
 p1457
 sg12
-g9
+g13
 sa(dp1458
 g6
 VProbably.
@@ -5338,7 +5338,7 @@ sg10
 VC.J.
 p1463
 sg12
-g9
+g13
 sa(dp1464
 g6
 VI am trying to diffuse a nuclear stand-off. Why on Earth would we want to antagonize the Chinese right now?
@@ -5360,13 +5360,13 @@ sg10
 VC.J.
 p1469
 sg12
-g9
+g13
 sa(dp1470
 g6
 VYou don't think the Chinese are going to figure it out? We owe these people $150,000 for God's sake. They're not stupid.
 p1471
 sg8
-g18
+g13
 sg10
 VBARTLET
 p1472
@@ -5393,13 +5393,13 @@ sg10
 VBARTLET
 p1478
 sg12
-g9
+g13
 sa(dp1479
 g6
 VThis won't. As far as China knows, this is Europe holding their feet to the fire, not us. We're the ones brokering the face-saving deal. China would owe us. This could even help us in Kazakhstan.
 p1480
 sg8
-g64
+g23
 sg10
 VC.J.
 p1481
@@ -5410,7 +5410,7 @@ g6
 VIs this about the Sudan or the fact that we're all about to get kicked out of this building?
 p1483
 sg8
-g64
+g23
 sg10
 VBARTLET
 p1484
@@ -5421,7 +5421,7 @@ g6
 V[pause] When the babies die, the mothers carry them around for days. They can't put them down.
 p1486
 sg8
-g18
+g13
 sg10
 VC.J.
 p1487
@@ -5432,12 +5432,12 @@ g6
 VYeah. Keep working the resolution.
 p1489
 sg8
-g64
+g23
 sg10
 VBARTLET
 p1490
 sg12
-g9
+g23
 sa(dp1491
 g6
 VThank you, Mr. President.
@@ -5448,13 +5448,13 @@ sg10
 VC.J.
 p1493
 sg12
-g64
+g9
 sa(dp1494
 g6
 VWhy is Matt Santos stomping on what's left of my goodwill up on the Hill.
 p1495
 sg8
-g64
+g23
 sg10
 VBARTLET
 p1496
@@ -5476,7 +5476,7 @@ g6
 VI got an irate phone call from the senior Senator from Kentucky.
 p1501
 sg8
-g18
+g13
 sg10
 VBARTLET
 p1502
@@ -5498,7 +5498,7 @@ g6
 VAt least I think he was irate. He didn't have his teeth in so I'm not sure what the hell he was talking about.
 p1507
 sg8
-g18
+g13
 sg10
 VBARTLET
 p1508
@@ -5569,13 +5569,13 @@ sg10
 VBARTLET
 p1526
 sg12
-g9
+g13
 sa(dp1527
 g6
 VI think he wants to prove he's his own man.
 p1528
 sg8
-g64
+g23
 sg10
 VC.J.
 p1529
@@ -5586,12 +5586,12 @@ g6
 VBy losing?
 p1531
 sg8
-g18
+g13
 sg10
 VBARTLET
 p1532
 sg12
-g9
+g13
 sa(dp1533
 g6
 VIf that's what it takes.
@@ -5602,13 +5602,13 @@ sg10
 VC.J.
 p1535
 sg12
-g9
+g23
 sa(dp1536
 g6
 VLiz is going to kill him. Doug just changed his mind?
 p1537
 sg8
-g18
+g13
 sg10
 VBARTLET
 p1538
@@ -5624,18 +5624,18 @@ sg10
 VBARTLET
 p1541
 sg12
-g9
+g13
 sa(dp1542
 g6
 VNo, sir. Thank you, Mr. President.
 p1543
 sg8
-g64
+g23
 sg10
 VC.J.
 p1544
 sg12
-g64
+g9
 sa(dp1545
 g6
 VWhen do you get an answer from the Chinese?
@@ -5668,7 +5668,7 @@ sg10
 VKATE
 p1553
 sg12
-g9
+g23
 sa(dp1554
 g6
 VYeah.
@@ -5723,7 +5723,7 @@ sg10
 VKATE
 p1568
 sg12
-g9
+g23
 sa(dp1569
 g6
 VDoug Westin...
@@ -5745,7 +5745,7 @@ sg10
 VKATE
 p1574
 sg12
-g64
+g23
 sa(dp1575
 g6
 VDoug Westin had an affair with his nanny.
@@ -5767,7 +5767,7 @@ sg10
 VKATE
 p1580
 sg12
-g9
+g13
 sa(dp1581
 g6
 VIt might break, it might not.
@@ -5778,18 +5778,18 @@ sg10
 VC.J.
 p1583
 sg12
-g9
+g13
 sa(dp1584
 g6
 VIs she cute?
 p1585
 sg8
-g64
+g23
 sg10
 VKATE
 p1586
 sg12
-g9
+g23
 sa(dp1587
 g6
 VWho cares if she's...
@@ -5806,7 +5806,7 @@ g6
 VI've spent my life surrounded by men in uniform.
 p1591
 sg8
-g18
+g13
 sg10
 VKATE
 p1592
@@ -5822,13 +5822,13 @@ sg10
 VC.J.
 p1595
 sg12
-g9
+g13
 sa(dp1596
 g6
 VBiology kicks Virtue's ass, in my experience.
 p1597
 sg8
-g18
+g13
 sg10
 VKATE
 p1598
@@ -5844,18 +5844,18 @@ sg10
 VC.J.
 p1601
 sg12
-g9
+g23
 sa(dp1602
 g6
 VYeesh. So she doesn't have to be cute.
 p1603
 sg8
-g64
+g23
 sg10
 VKATE
 p1604
 sg12
-g9
+g13
 sa(dp1605
 g6
 VI'm...
@@ -5866,18 +5866,18 @@ sg10
 VC.J.
 p1607
 sg12
-g9
+g13
 sa(dp1608
 g6
 VIt's disgusting.
 p1609
 sg8
-g18
+g13
 sg10
 VKATE
 p1610
 sg12
-g9
+g13
 sa(dp1611
 g6
 VYeah.
@@ -5894,12 +5894,12 @@ g6
 VHe should die. The bastard should just be dead. [pause] Did Liz leave him?
 p1615
 sg8
-g18
+g13
 sg10
 VKATE
 p1616
 sg12
-g9
+g13
 sa(dp1617
 g6
 VI don't think she knows.
@@ -5910,13 +5910,13 @@ sg10
 VC.J.
 p1619
 sg12
-g9
+g13
 sa(dp1620
 g6
 VWe should sic Special Ops on him. Make him a tragedy she can cry over.
 p1621
 sg8
-g18
+g13
 sg10
 VKATE
 p1622
@@ -5927,7 +5927,7 @@ g6
 VI made him withdraw his request to have the President appear with him in Manchester next week.
 p1624
 sg8
-g18
+g13
 sg10
 VC.J.
 p1625
@@ -5943,7 +5943,7 @@ sg10
 VKATE
 p1628
 sg12
-g9
+g13
 sa(dp1629
 g6
 VI don't know if I should...
@@ -5954,7 +5954,7 @@ sg10
 VC.J.
 p1631
 sg12
-g9
+g13
 sa(dp1632
 g6
 VTell her? No. No, no, no. Now's the time everybody just looks at her funny until she figures it out.
@@ -5976,13 +5976,13 @@ sg10
 VC.J.
 p1637
 sg12
-g9
+g13
 sa(dp1638
 g6
 VSorry. Liz Westin's in your office. She needs to talk to you.
 p1639
 sg8
-g64
+g23
 sg10
 VMARGARET
 p1640
@@ -5993,12 +5993,12 @@ g6
 VGood luck.
 p1642
 sg8
-g64
+g23
 sg10
 VKATE
 p1643
 sg12
-g9
+g23
 sa(dp1644
 g6
 VOkay.
@@ -6020,7 +6020,7 @@ sg10
 VC.J.
 p1649
 sg12
-g9
+g23
 sa(dp1650
 g6
 VC.J., hi. I'm sorry to barge in on you. Are you busy?
@@ -6037,34 +6037,34 @@ g6
 VWell, you know, thermonuclear war, genocide...
 p1654
 sg8
-g18
+g13
 sg10
 VC.J.
 p1655
 sg12
-g64
+g9
 sa(dp1656
 g6
 VI don't mean to bother you.
 p1657
 sg8
-g18
+g13
 sg10
 VLIZ
 p1658
 sg12
-g9
+g13
 sa(dp1659
 g6
 VIt's fine. It's good to see you.
 p1660
 sg8
-g64
+g23
 sg10
 VC.J.
 p1661
 sg12
-g9
+g23
 sa(dp1662
 g6
 VHave you seen Doug?
@@ -6086,7 +6086,7 @@ sg10
 VC.J.
 p1667
 sg12
-g18
+g9
 sa(dp1668
 g6
 VYeah. He marched into Political Affairs and told them he didn't want my father to come up and do the event with us next week.
@@ -6114,7 +6114,7 @@ g6
 VI can't believe it. Do you have any idea how long it took me to convince him to let my father help?
 p1675
 sg8
-g64
+g23
 sg10
 VLIZ
 p1676
@@ -6141,7 +6141,7 @@ sg10
 VLIZ
 p1682
 sg12
-g9
+g13
 sa(dp1683
 g6
 VIt's got to be hard to try and live up to the President.
@@ -6163,7 +6163,7 @@ sg10
 VLIZ
 p1688
 sg12
-g9
+g13
 sa(dp1689
 g6
 VNo.
@@ -6196,7 +6196,7 @@ sg10
 VC.J.
 p1697
 sg12
-g9
+g13
 sa(dp1698
 g6
 VNo matter what he's done.
@@ -6229,13 +6229,13 @@ sg10
 VC.J.
 p1706
 sg12
-g9
+g13
 sa(dp1707
 g6
 VI think you do too. Talk to him. Tell him it's political suicide to run away from Dad.
 p1708
 sg8
-g18
+g13
 sg10
 VLIZ
 p1709
@@ -6257,7 +6257,7 @@ g6
 VMarriage is complicated, C.J. This isn't ideal, but it's the best thing for my children.
 p1714
 sg8
-g18
+g13
 sg10
 VLIZ
 p1715
@@ -6273,7 +6273,7 @@ sg10
 VC.J.
 p1718
 sg12
-g9
+g13
 sa(dp1719
 g6
 VGood.
@@ -6284,13 +6284,13 @@ sg10
 VLIZ
 p1721
 sg12
-g9
+g23
 sa(dp1722
 g6
 VBut my job is to protect your father.
 p1723
 sg8
-g64
+g23
 sg10
 VC.J.
 p1724
@@ -6301,7 +6301,7 @@ g6
 VMy father would want to protect my children too.
 p1726
 sg8
-g64
+g23
 sg10
 VLIZ
 p1727
@@ -6328,7 +6328,7 @@ sg10
 VLIZ
 p1733
 sg12
-g9
+g13
 sa(dp1734
 g6
 VIt's gone.
@@ -6361,7 +6361,7 @@ sg10
 VC.J.
 p1742
 sg12
-g9
+g13
 sa(dp1743
 g6
 VYeah.
@@ -6378,7 +6378,7 @@ g6
 VI need some schedule C's who might be willing to take some paid leave and hit the road with the candidate.
 p1747
 sg8
-g18
+g13
 sg10
 VJOSH
 p1748
@@ -6394,7 +6394,7 @@ sg10
 VWILL
 p1751
 sg12
-g9
+g13
 sa(dp1752
 g6
 VThe least humiliating public speakers possible.
@@ -6455,12 +6455,12 @@ g6
 VGo to hell.
 p1768
 sg8
-g18
+g13
 sg10
 VC.J.
 p1769
 sg12
-g9
+g13
 sa(dp1770
 g6
 VU.N. delegation just notified State: there's a Security Council negotiation on language for a Sudan resolution.
@@ -6499,12 +6499,12 @@ g6
 VThreatening to veto?
 p1780
 sg8
-g18
+g13
 sg10
 VC.J.
 p1781
 sg12
-g9
+g13
 sa(dp1782
 g6
 VNot out of hand, no.
@@ -6537,7 +6537,7 @@ sg10
 VKATE
 p1790
 sg12
-g9
+g23
 sa(dp1791
 g6
 VHuh.
@@ -6576,7 +6576,7 @@ g6
 VYou want to get some food?
 p1801
 sg8
-g64
+g23
 sg10
 VKATE
 p1802
@@ -6592,7 +6592,7 @@ sg10
 VC.J.
 p1805
 sg12
-g9
+g13
 sa(dp1806
 g6
 VYou do not.
@@ -6625,7 +6625,7 @@ sg10
 VKATE
 p1814
 sg12
-g18
+g13
 sa(dp1815
 g6
 VWith a guy I used to go out with.
@@ -6647,13 +6647,13 @@ sg10
 VKATE
 p1820
 sg12
-g9
+g23
 sa(dp1821
 g6
 VYou go ahead. I need to talk with the President. The Doug story is going to break and it's going to be terrible for him and I want him to hear it from me.
 p1822
 sg8
-g64
+g23
 sg10
 VC.J.
 p1823
@@ -6691,7 +6691,7 @@ sg10
 VKATE
 p1832
 sg12
-g64
+g23
 sa(dp1833
 g6
 VYeah.
@@ -6735,24 +6735,24 @@ sg10
 VDANNY
 p1844
 sg12
-g64
+g9
 sa(dp1845
 g6
 VQuit sweet talking me, baby.
 p1846
 sg8
-g64
+g23
 sg10
 VDANNY
 p1847
 sg12
-g9
+g23
 sa(dp1848
 g6
 VUnless they get taken out by a bear paw in a waterfall as they deserve.
 p1849
 sg8
-g64
+g23
 sg10
 VC.J.
 p1850
@@ -6823,29 +6823,29 @@ sg10
 VC.J.
 p1868
 sg12
-g9
+g13
 sa(dp1869
 g6
 VI figured. I'll get you some more water. Oh, gee, I'm sorry. I'll shut up and leave now.
 p1870
 sg8
-g18
+g13
 sg10
 VWAITRESS
 p1871
 sg12
-g9
+g13
 sa(dp1872
 g6
 VShe hates my guts.
 p1873
 sg8
-g64
+g23
 sg10
 VC.J.
 p1874
 sg12
-g9
+g23
 sa(dp1875
 g6
 VYeah, she does - a little bit.
@@ -6884,7 +6884,7 @@ g6
 VBecause, I was behaving like the type-A, career woman, freak automaton that I so very much do not what to become.
 p1885
 sg8
-g64
+g23
 sg10
 VC.J.
 p1886
@@ -6906,7 +6906,7 @@ g6
 VI wanted to see you... and I haven't felt that in a long time and I just got all awkward and antagonistic.
 p1891
 sg8
-g18
+g13
 sg10
 VC.J.
 p1892
@@ -6917,7 +6917,7 @@ g6
 VThat's okay, as long as you didn't kill our fish.
 p1894
 sg8
-g18
+g13
 sg10
 VDANNY
 p1895
@@ -6933,7 +6933,7 @@ sg10
 VC.J.
 p1898
 sg12
-g9
+g13
 sa(dp1899
 g6
 VYou won't have to.
@@ -6944,13 +6944,13 @@ sg10
 VDANNY
 p1901
 sg12
-g9
+g13
 sa(dp1902
 g6
 VI want to do my job. I want to suck every morsel of meat off this experience before it's over.
 p1903
 sg8
-g18
+g13
 sg10
 VC.J.
 p1904
@@ -6966,7 +6966,7 @@ sg10
 VDANNY
 p1907
 sg12
-g9
+g13
 sa(dp1908
 g6
 VWell, that will come down to what it always comes down to.
@@ -6977,7 +6977,7 @@ sg10
 VC.J.
 p1910
 sg12
-g9
+g13
 sa(dp1911
 g6
 VWhat's that?
@@ -6994,7 +6994,7 @@ g6
 VHow dirty do my feet have to get without disappearing into the mud in order to get an inch of what I really want done?
 p1915
 sg8
-g18
+g13
 sg10
 VC.J.
 p1916
@@ -7005,12 +7005,12 @@ g6
 VIt doesn't sound very heroic.
 p1918
 sg8
-g64
+g23
 sg10
 VDANNY
 p1919
 sg12
-g9
+g13
 sa(dp1920
 g6
 VIt's not.
@@ -7021,13 +7021,13 @@ sg10
 VC.J.
 p1922
 sg12
-g9
+g13
 sa(dp1923
 g6
 VSo what's the deal? You still creeped out by reporters or what?
 p1924
 sg8
-g64
+g23
 sg10
 VDANNY
 p1925
@@ -7038,7 +7038,7 @@ g6
 VWhy? You got another unholy bomb to drop on me? Is that what these dates are about?
 p1927
 sg8
-g18
+g13
 sg10
 VC.J.
 p1928
@@ -7049,7 +7049,7 @@ g6
 VNo. That was an attempt at a real date the other night.
 p1930
 sg8
-g64
+g23
 sg10
 VDANNY
 p1931
@@ -7065,18 +7065,18 @@ sg10
 VC.J.
 p1934
 sg12
-g18
+g13
 sa(dp1935
 g6
 VAnother attempt. Hey, if I'd have wanted to publish that story, I wouldn't have given you the heads-up. I can't write that kind of crap anymore. I don't... I don't even know if I want to be a reporter anymore.
 p1936
 sg8
-g64
+g23
 sg10
 VDANNY
 p1937
 sg12
-g9
+g13
 sa(dp1938
 g6
 VReally?
@@ -7093,7 +7093,7 @@ g6
 VDoug Westin's libido broke the camel's back.
 p1942
 sg8
-g18
+g13
 sg10
 VDANNY
 p1943
@@ -7120,7 +7120,7 @@ sg10
 VDANNY
 p1949
 sg12
-g9
+g13
 sa(dp1950
 g6
 VYeah.
@@ -7148,12 +7148,12 @@ g6
 VBecause you made me promise to.
 p1957
 sg8
-g64
+g23
 sg10
 VC.J.
 p1958
 sg12
-g64
+g23
 sa(dp1959
 g6
 VWhy'd you come?
@@ -7186,13 +7186,13 @@ sg10
 VDANNY
 p1967
 sg12
-g64
+g23
 sa(dp1968
 g6
 VYou going to do a magic trick?
 p1969
 sg8
-g18
+g13
 sg10
 VC.J.
 p1970
@@ -7203,12 +7203,12 @@ g6
 VUh, I'm flying a little blind here. I'm halfway through my life and I'm never quite sure if I'm doing anything right until I'm completely done doing it wrong.
 p1972
 sg8
-g18
+g13
 sg10
 VDANNY
 p1973
 sg12
-g18
+g13
 sa(dp1974
 g6
 VWork with it.
@@ -7219,51 +7219,51 @@ sg10
 VC.J.
 p1976
 sg12
-g9
+g23
 sa(dp1977
 g6
 VSo this may come out wrong.
 p1978
 sg8
-g18
+g13
 sg10
 VDANNY
 p1979
 sg12
-g9
+g13
 sa(dp1980
 g6
 VI forgive you.
 p1981
 sg8
-g64
+g23
 sg10
 VC.J.
 p1982
 sg12
-g9
+g23
 sa(dp1983
 g6
 VIncrementalism is not an option. I'm forced into a heroic posture.
 p1984
 sg8
-g64
+g23
 sg10
 VDANNY
 p1985
 sg12
-g9
+g13
 sa(dp1986
 g6
 VHeroic can be good.
 p1987
 sg8
-g64
+g23
 sg10
 VC.J.
 p1988
 sg12
-g9
+g23
 sa(dp1989
 g6
 VIt feels funny.
@@ -7285,13 +7285,13 @@ sg10
 VC.J.
 p1994
 sg12
-g9
+g13
 sa(dp1995
 g6
 VUh, we're both about to fall of a cliff and I don't know what I'm going to do with the rest of my life except I know what I don't want to do. And on Inauguration Day you're going to be released from that glorious prison on Pennsylvania Avenue with...
 p1996
 sg8
-g18
+g13
 sg10
 VDANNY
 p1997
@@ -7307,7 +7307,7 @@ sg10
 VC.J.
 p2000
 sg12
-g9
+g13
 sa(dp2001
 g6
 VSeems to me...
@@ -7318,13 +7318,13 @@ sg10
 VDANNY
 p2003
 sg12
-g9
+g13
 sa(dp2004
 g6
 VI should punch you in the face, but yes.
 p2005
 sg8
-g18
+g13
 sg10
 VC.J.
 p2006
@@ -7357,7 +7357,7 @@ g6
 VSo, if I'm going to jump off the cliff and you're going to get pushed off the cliff, why don't we hold hands on the way down?
 p2014
 sg8
-g64
+g23
 sg10
 VDANNY
 p2015
@@ -7368,12 +7368,12 @@ g6
 VOh, shoot.
 p2017
 sg8
-g18
+g13
 sg10
 VC.J.
 p2018
 sg12
-g9
+g13
 sa(dp2019
 g6
 VTurn it off.
@@ -7384,7 +7384,7 @@ sg10
 VDANNY
 p2021
 sg12
-g9
+g13
 sa(dp2022
 g6
 VI can't.
@@ -7395,7 +7395,7 @@ sg10
 VC.J.
 p2024
 sg12
-g9
+g13
 sa(dp2025
 g6
 VJust for a couple of seconds.
@@ -7406,7 +7406,7 @@ sg10
 VDANNY
 p2027
 sg12
-g9
+g23
 sa(dp2028
 g6
 VOh, my God.
@@ -7489,23 +7489,23 @@ g6
 VWhat's happening? Did China invade?
 p2050
 sg8
-g18
+g13
 sg10
 VC.J.
 p2051
 sg12
-g9
+g13
 sa(dp2052
 g6
 VKazakhstan is stable.
 p2053
 sg8
-g64
+g23
 sg10
 VKATE
 p2054
 sg12
-g9
+g23
 sa(dp2055
 g6
 VWhat is it?
@@ -7538,7 +7538,7 @@ sg10
 VC.J.
 p2063
 sg12
-g9
+g23
 sa(dp2064
 g6
 VA power plant.
@@ -7571,5 +7571,5 @@ sg10
 VKATE
 p2072
 sg12
-g18
+g9
 sas.

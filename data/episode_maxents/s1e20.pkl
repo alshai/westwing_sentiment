@@ -23,14 +23,14 @@ VBARTLET
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'negative'
+p13
+sa(dp14
 g6
 VWe better have term limits, 'cause voters can't be trusted to recognize corruption.
-p14
-sg8
-S'negative'
 p15
+sg8
+g13
 sg10
 VBARTLET
 p16
@@ -80,7 +80,7 @@ sg10
 VDANNY
 p29
 sg12
-g9
+g19
 sa(dp30
 g6
 VYeah. You're not going to want to miss this.
@@ -124,7 +124,7 @@ sg10
 VREPORTER
 p41
 sg12
-g9
+g13
 sa(dp42
 g6
 VYou're about to find out.
@@ -152,7 +152,7 @@ g6
 VThis was given to me by a constituent who read in Time Magazine that I like Cognac. The problem is, that this is Brandy and not Cognac. Anyone know the difference?
 p49
 sg8
-g15
+g13
 sg10
 VSENATOR
 p50
@@ -273,7 +273,7 @@ g6
 VWhat the hell are you talking about?
 p82
 sg8
-g15
+g13
 sg10
 VSENATOR
 p83
@@ -300,35 +300,35 @@ sg10
 VSENATOR
 p89
 sg12
-g9
+g13
 sa(dp90
 g6
 VI was wrong.
 p91
 sg8
-g15
+g13
 sg10
 VONORATO
 p92
 sg12
-g9
+g13
 sa(dp93
 g6
 VYou were wrong?
 p94
 sg8
-g15
+g13
 sg10
 VSENATOR
 p95
 sg12
-g9
+g13
 sa(dp96
 g6
 VHe's going to name... damn it! Somebody....
 p97
 sg8
-g15
+g13
 sg10
 VONORATO
 p98
@@ -366,7 +366,7 @@ sg10
 VSENATOR
 p107
 sg12
-g9
+g19
 sa(dp108
 g6
 VI made it very clear.
@@ -377,7 +377,7 @@ sg10
 VONORATO
 p110
 sg12
-g9
+g13
 sa(dp111
 g6
 V[on T.V.] I am proud to nominate John Branford Bacon and Patricia Calhoun to the Federal Election Commission.
@@ -509,7 +509,7 @@ sg10
 VJOSH
 p146
 sg12
-g15
+g13
 sa(dp147
 g6
 VThey threatened you with a legislative agenda.
@@ -537,7 +537,7 @@ g6
 VThey made you feel powerless and you're a little off your game.
 p154
 sg8
-g15
+g13
 sg10
 VSAM
 p155
@@ -559,12 +559,12 @@ g6
 VA little gun shy.
 p160
 sg8
-g15
+g13
 sg10
 VSAM
 p161
 sg12
-g15
+g13
 sa(dp162
 g6
 VLeave him alone.
@@ -586,7 +586,7 @@ sg10
 VSAM
 p167
 sg12
-g9
+g13
 sa(dp168
 g6
 VLeave him alone.
@@ -608,18 +608,18 @@ sg10
 VSAM
 p173
 sg12
-g9
+g13
 sa(dp174
 g6
 VNow, I'm telling you to leave him alone.
 p175
 sg8
-g15
+g13
 sg10
 VTOBY
 p176
 sg12
-g9
+g13
 sa(dp177
 g6
 VGuys, I'm trying to watch this speech.
@@ -630,7 +630,7 @@ sg10
 VJOSH
 p179
 sg12
-g15
+g9
 sa(dp180
 g6
 VJosh.
@@ -680,7 +680,7 @@ g6
 V[into phone] Hi, Senator. Why don't you take your legislative agenda and shove it up your ass.
 p193
 sg8
-g15
+g13
 sg10
 VJOSH
 p194
@@ -696,7 +696,7 @@ sg10
 VJOSH
 p197
 sg12
-g9
+g13
 sa(dp198
 g6
 VC.J.? Is the White House concerned that the FEC will become a partisan political football?
@@ -779,7 +779,7 @@ g6
 VC.J., is the President declaring war on Congress?
 p220
 sg8
-g15
+g13
 sg10
 VREPORTER
 p221
@@ -828,7 +828,7 @@ sg10
 VDONNA
 p233
 sg12
-g19
+g9
 sa(dp234
 g6
 VOn the phone?
@@ -861,7 +861,7 @@ sg10
 VJOSH
 p242
 sg12
-g19
+g9
 sa(dp243
 g6
 VPolling.
@@ -883,7 +883,7 @@ sg10
 VJOSH
 p248
 sg12
-g9
+g19
 sa(dp249
 g6
 VLet him tell you.
@@ -905,7 +905,7 @@ sg10
 VJOSH
 p254
 sg12
-g19
+g13
 sa(dp255
 g6
 V'Cause you're going to his office right now. And I've got 37 different things to...
@@ -960,7 +960,7 @@ sg10
 VDONNA
 p269
 sg12
-g9
+g19
 sa(dp270
 g6
 VIt's a big polling week, Donna. I figured he was bringing in Kiefer.
@@ -988,7 +988,7 @@ g6
 VThat's what you were afraid to tell me?
 p277
 sg8
-g15
+g13
 sg10
 VJOSH
 p278
@@ -999,12 +999,12 @@ g6
 VI wasn't afraid.
 p280
 sg8
-g15
+g13
 sg10
 VDONNA
 p281
 sg12
-g9
+g13
 sa(dp282
 g6
 VOkay.
@@ -1087,7 +1087,7 @@ g6
 VBy the way, that's what I was afraid to tell you.
 p304
 sg8
-g15
+g13
 sg10
 VDONNA
 p305
@@ -1103,7 +1103,7 @@ sg10
 VJOSH
 p308
 sg12
-g9
+g13
 sa(dp309
 g6
 VIt's no big deal.
@@ -1235,7 +1235,7 @@ sg10
 VJOSH
 p344
 sg12
-g9
+g13
 sa(dp345
 g6
 VNice phone call.
@@ -1323,7 +1323,7 @@ sg10
 VTOBY
 p368
 sg12
-g9
+g19
 sa(dp369
 g6
 VYeah.
@@ -1367,7 +1367,7 @@ sg10
 VTOBY
 p380
 sg12
-g9
+g13
 sa(dp381
 g6
 VImagery.
@@ -1450,7 +1450,7 @@ g6
 VThat's the first thing they're going to fight back with, Josh.
 p403
 sg8
-g15
+g13
 sg10
 VSAM
 p404
@@ -1532,7 +1532,7 @@ sg10
 VTOBY
 p425
 sg12
-g15
+g19
 sa(dp426
 g6
 VThis isn't a thing.
@@ -1543,7 +1543,7 @@ sg10
 VJOSH
 p428
 sg12
-g9
+g13
 sa(dp429
 g6
 VOkay.
@@ -1686,7 +1686,7 @@ sg10
 VKATIE
 p467
 sg12
-g9
+g13
 sa(dp468
 g6
 VSymbolism. There'll be plenty more tomorrow. Everybody have a good night.
@@ -1697,7 +1697,7 @@ sg10
 VC.J.
 p470
 sg12
-g9
+g19
 sa(dp471
 g6
 VCarol.
@@ -1785,7 +1785,7 @@ sg10
 VDANNY
 p494
 sg12
-g19
+g9
 sa(dp495
 g6
 VMandatory Minimums are racist.
@@ -1796,7 +1796,7 @@ sg10
 VSAM
 p497
 sg12
-g9
+g19
 sa(dp498
 g6
 VI understand that.
@@ -1807,7 +1807,7 @@ sg10
 VTOBY
 p500
 sg12
-g9
+g13
 sa(dp501
 g6
 VThey're a red herring.
@@ -1829,13 +1829,13 @@ sg10
 VTOBY
 p506
 sg12
-g9
+g19
 sa(dp507
 g6
 VIt's a way of looking like you're tough on crime, without assuming the burden of being tough on crime.
 p508
 sg8
-g15
+g13
 sg10
 VSAM
 p509
@@ -1862,7 +1862,7 @@ sg10
 VSAM
 p515
 sg12
-g9
+g13
 sa(dp516
 g6
 VWe do things one thing at a time.
@@ -1884,7 +1884,7 @@ sg10
 VSAM
 p521
 sg12
-g9
+g13
 sa(dp522
 g6
 VWe're talking about treatment.
@@ -1912,7 +1912,7 @@ g6
 VWhen you talk to the President, I want you talking about treatment. I want you talking about treatment vs. enforcement and I don't want you to stray from that!
 p529
 sg8
-g15
+g13
 sg10
 VTOBY
 p530
@@ -1961,7 +1961,7 @@ sg10
 VTOBY
 p542
 sg12
-g9
+g19
 sa(dp543
 g6
 VIt's still on the last street.
@@ -1983,7 +1983,7 @@ sg10
 VTOBY
 p548
 sg12
-g19
+g13
 sa(dp549
 g6
 VWe were having a nice conversation.
@@ -1994,7 +1994,7 @@ sg10
 VSAM
 p551
 sg12
-g9
+g13
 sa(dp552
 g6
 VMr. McGarry, would you like some tomato juice while waiting for the others?
@@ -2016,7 +2016,7 @@ sg10
 VLEO
 p557
 sg12
-g9
+g19
 sa(dp558
 g6
 VAll set there?
@@ -2077,12 +2077,12 @@ g6
 VI was hungry.
 p574
 sg8
-g15
+g13
 sg10
 VLEO
 p575
 sg12
-g9
+g13
 sa(dp576
 g6
 VWe couldn't have food ordered?
@@ -2093,7 +2093,7 @@ sg10
 VJOSH
 p578
 sg12
-g15
+g13
 sa(dp579
 g6
 VOh, sit down, would you?
@@ -2126,7 +2126,7 @@ sg10
 VMARGARET
 p587
 sg12
-g9
+g13
 sa(dp588
 g6
 VDonna.
@@ -2214,7 +2214,7 @@ sg10
 VJOSH
 p611
 sg12
-g9
+g13
 sa(dp612
 g6
 VFound it.
@@ -2225,7 +2225,7 @@ sg10
 VSAM
 p614
 sg12
-g9
+g13
 sa(dp615
 g6
 VAbout time. Sit down.
@@ -2264,7 +2264,7 @@ g6
 VWe can make a case for treatment vs. enforcement and we're ready to go to the President.
 p625
 sg8
-g15
+g13
 sg10
 VTOBY
 p626
@@ -2275,7 +2275,7 @@ g6
 VWe're also ready to go to the President with Mandatory Minimums on crack versus powder cocaine.
 p628
 sg8
-g15
+g13
 sg10
 VSAM
 p629
@@ -2291,7 +2291,7 @@ sg10
 VLEO
 p632
 sg12
-g9
+g19
 sa(dp633
 g6
 VThat's what Toby just said.
@@ -2324,7 +2324,7 @@ sg10
 VSAM
 p641
 sg12
-g9
+g13
 sa(dp642
 g6
 VIt was an honorary kind of thing, Sam.
@@ -2390,7 +2390,7 @@ sg10
 VTOBY
 p659
 sg12
-g9
+g13
 sa(dp660
 g6
 VYou know what that was.
@@ -2401,7 +2401,7 @@ sg10
 VLEO
 p662
 sg12
-g9
+g13
 sa(dp663
 g6
 VLeo, what do you want me to do with this thing?
@@ -2445,7 +2445,7 @@ sg10
 VLEO
 p674
 sg12
-g9
+g13
 sa(dp675
 g6
 VI'd like to clear up that I... I don't have suits for the days of the week. This is just a regular suit.
@@ -2456,7 +2456,7 @@ sg10
 VJOSH
 p677
 sg12
-g9
+g13
 sa(dp678
 g6
 VIt's a nice suit.
@@ -2495,12 +2495,12 @@ g6
 VI'm beginning to regret not getting the waffles.
 p688
 sg8
-g15
+g13
 sg10
 VDONNA
 p689
 sg12
-g9
+g13
 sa(dp690
 g6
 V[exasperated] I am beginning to regret having hired any of you. We have a 42% job approval and you're talking about waffles and something with Josh, I don't understand.
@@ -2588,7 +2588,7 @@ sg10
 VLEO
 p713
 sg12
-g15
+g13
 sa(dp714
 g6
 VI'm saying calm down.
@@ -2599,7 +2599,7 @@ sg10
 VJOSH
 p716
 sg12
-g9
+g13
 sa(dp717
 g6
 VI'm perfectly calm.
@@ -2649,7 +2649,7 @@ g6
 VIt's a huge mistake.
 p730
 sg8
-g15
+g13
 sg10
 VAL
 p731
@@ -2671,7 +2671,7 @@ g6
 VIt is a huge mistake, Mr. President. And possibly a fatal one. It'll doom the midterms in November. It'll haunt you at the convention. And if you manage to get renominated, which is far from a lock, there's no way you'll win reelection.
 p736
 sg8
-g15
+g13
 sg10
 VAL
 p737
@@ -2698,7 +2698,7 @@ sg10
 VSAM
 p743
 sg12
-g9
+g13
 sa(dp744
 g6
 VIt's going to be a long day.
@@ -2775,7 +2775,7 @@ sg10
 VMANDY
 p764
 sg12
-g9
+g13
 sa(dp765
 g6
 VLeo's not comfortable with it.
@@ -2830,7 +2830,7 @@ sg10
 VC.J.
 p779
 sg12
-g9
+g13
 sa(dp780
 g6
 VC.J.
@@ -2852,7 +2852,7 @@ sg10
 VC.J.
 p785
 sg12
-g9
+g13
 sa(dp786
 g6
 VIt was just a memo.
@@ -2863,7 +2863,7 @@ sg10
 VMANDY
 p788
 sg12
-g9
+g13
 sa(dp789
 g6
 VIt wasn't just a memo.
@@ -2874,7 +2874,7 @@ sg10
 VC.J.
 p791
 sg12
-g9
+g13
 sa(dp792
 g6
 VThe fact that you guys....
@@ -2913,7 +2913,7 @@ g6
 VThey're pissed at me, that's how pissed they are at you. They want to know how the hell I didn't know about the memo.
 p802
 sg8
-g15
+g13
 sg10
 VC.J.
 p803
@@ -2929,7 +2929,7 @@ sg10
 VMANDY
 p806
 sg12
-g9
+g13
 sa(dp807
 g6
 VWe'll see. There's plenty for you to do. Leo would feel more comfortable if you stayed out of this...
@@ -2946,7 +2946,7 @@ g6
 VOkay. Okay! [walks away in a huff]
 p811
 sg8
-g15
+g13
 sg10
 VMANDY
 p812
@@ -2995,7 +2995,7 @@ sg10
 VSAM
 p824
 sg12
-g9
+g13
 sa(dp825
 g6
 VSir.
@@ -3039,13 +3039,13 @@ sg10
 VJOSH
 p836
 sg12
-g9
+g13
 sa(dp837
 g6
 V...are divided into a ratio of 2/3 enforcement, 1/3 treatment. We want to reverse that ratio.
 p838
 sg8
-g15
+g13
 sg10
 VSAM
 p839
@@ -3072,13 +3072,13 @@ sg10
 VSAM
 p845
 sg12
-g9
+g19
 sa(dp846
 g6
 VSo, you're soft on crime.
 p847
 sg8
-g15
+g13
 sg10
 VAL
 p848
@@ -3116,7 +3116,7 @@ sg10
 VBARTLET
 p857
 sg12
-g9
+g13
 sa(dp858
 g6
 VNo, sir.
@@ -3138,7 +3138,7 @@ sg10
 VLEO
 p863
 sg12
-g9
+g13
 sa(dp864
 g6
 VKiefer's been here 45 minutes, he's already got me on the playground at recess.
@@ -3226,7 +3226,7 @@ sg10
 VJOSH
 p887
 sg12
-g9
+g19
 sa(dp888
 g6
 VFine lookin' woman, Josh.
@@ -3259,7 +3259,7 @@ sg10
 VCHARLIE
 p896
 sg12
-g9
+g13
 sa(dp897
 g6
 VHelp me out with what?
@@ -3358,7 +3358,7 @@ sg10
 VJOSH
 p923
 sg12
-g9
+g13
 sa(dp924
 g6
 VHey, Joey. Hey, Kenny. Good to see you. I got your desks set up out here. Why don't you come with me? [walks out]
@@ -3490,7 +3490,7 @@ sg10
 VJOSH
 p959
 sg12
-g9
+g13
 sa(dp960
 g6
 VYes!
@@ -3540,12 +3540,12 @@ g6
 VOkay. [turns to leave]
 p973
 sg8
-g15
+g13
 sg10
 VJOSH
 p974
 sg12
-g9
+g13
 sa(dp975
 g6
 VNice suit.
@@ -3600,7 +3600,7 @@ sg10
 VC.J.
 p989
 sg12
-g9
+g13
 sa(dp990
 g6
 VThis from the White House counsel?
@@ -3705,7 +3705,7 @@ g6
 VThe American Medical Association says that addiction is a disease.
 p1018
 sg8
-g15
+g13
 sg10
 VSAM
 p1019
@@ -3754,7 +3754,7 @@ sg10
 VTOBY
 p1031
 sg12
-g9
+g13
 sa(dp1032
 g6
 VBecause...
@@ -3765,13 +3765,13 @@ sg10
 VAL
 p1034
 sg12
-g9
+g19
 sa(dp1035
 g6
 VDrug addiction is a disease. It's a... it's... it's a... medical problem. It can be treated. This isn't ideological. It's science.
 p1036
 sg8
-g15
+g13
 sg10
 VTOBY
 p1037
@@ -3809,7 +3809,7 @@ sg10
 VJOSH
 p1046
 sg12
-g9
+g13
 sa(dp1047
 g6
 VToby was just explaining to Al that science is science to everyone.
@@ -3831,13 +3831,13 @@ sg10
 VAL
 p1052
 sg12
-g9
+g13
 sa(dp1053
 g6
 VI'm sorry, Mr. President. While Al tries to come up with something easier to sell than science, would you mind if I spoke to Toby and Leo alone?
 p1054
 sg8
-g15
+g13
 sg10
 VJOSH
 p1055
@@ -3897,7 +3897,7 @@ sg10
 VLEO
 p1070
 sg12
-g9
+g13
 sa(dp1071
 g6
 VYeah... uh... C.J. misspoke last night during her briefing... uh, she'll fix it when she gets back in there.
@@ -3941,7 +3941,7 @@ sg10
 VLEO
 p1082
 sg12
-g9
+g19
 sa(dp1083
 g6
 VShe knows that now.
@@ -3952,18 +3952,18 @@ sg10
 VJOSH
 p1085
 sg12
-g9
+g19
 sa(dp1086
 g6
 VThis is just the kind of dumb mistake we don't need right now.
 p1087
 sg8
-g15
+g13
 sg10
 VLEO
 p1088
 sg12
-g9
+g13
 sa(dp1089
 g6
 VShe knows that, too.
@@ -3974,7 +3974,7 @@ sg10
 VJOSH
 p1091
 sg12
-g9
+g19
 sa(dp1092
 g6
 VAll right, what are you gonna do?
@@ -4007,7 +4007,7 @@ sg10
 VLEO
 p1100
 sg12
-g9
+g13
 sa(dp1101
 g6
 VYou talked to him about the thing, yet? [pointing at Toby]
@@ -4090,7 +4090,7 @@ g6
 V[pause, smiles a bit] I used to be married to someone who fits that description.
 p1123
 sg8
-g15
+g13
 sg10
 VTOBY
 p1124
@@ -4139,7 +4139,7 @@ sg10
 VJOSH
 p1136
 sg12
-g9
+g19
 sa(dp1137
 g6
 VAnd also take her temperature on the ethics thing.
@@ -4167,7 +4167,7 @@ g6
 VSee ya later. [starts to leave but turns around] Leo, you had to send flowers?
 p1144
 sg8
-g15
+g13
 sg10
 VJOSH
 p1145
@@ -4189,12 +4189,12 @@ g6
 VYeah, but I had this whole patter thing going... and then... the hell with it. [exits]
 p1150
 sg8
-g15
+g13
 sg10
 VJOSH
 p1151
 sg12
-g9
+g13
 sa(dp1152
 g6
 VMargaret!
@@ -4216,7 +4216,7 @@ sg10
 VMARGARET
 p1157
 sg12
-g9
+g19
 sa(dp1158
 g6
 VThe list of names I gave you before?
@@ -4238,7 +4238,7 @@ sg10
 VMARGARET
 p1163
 sg12
-g9
+g19
 sa(dp1164
 g6
 VYou didn't have to memorize them.
@@ -4249,7 +4249,7 @@ sg10
 VLEO
 p1166
 sg12
-g9
+g13
 sa(dp1167
 g6
 VI couldn't help it.
@@ -4260,7 +4260,7 @@ sg10
 VMARGARET
 p1169
 sg12
-g9
+g13
 sa(dp1170
 g6
 VOkay.
@@ -4354,12 +4354,12 @@ g6
 VDon't worry about it.
 p1195
 sg8
-g15
+g13
 sg10
 VLEO
 p1196
 sg12
-g9
+g13
 sa(dp1197
 g6
 VHello.
@@ -4403,7 +4403,7 @@ sg10
 VJOEY
 p1208
 sg12
-g9
+g19
 sa(dp1209
 g6
 VArea looks good. Not too many personal items. Got your little clock, that's fine.
@@ -4414,7 +4414,7 @@ sg10
 VJOSH
 p1211
 sg12
-g9
+g13
 sa(dp1212
 g6
 VThank you.
@@ -4431,7 +4431,7 @@ g6
 VHere's the story. The President announced last night, he's naming two Campaign Finance Reform minded nominees to the F.E.C. This will anger the Republican Leadership to the extent they'll retaliate. Retaliate, how? They'll introduce a series of bills design to put the President on the wrong side of public debates. The first will be a law making English the National language.
 p1216
 sg8
-g15
+g13
 sg10
 VJOSH
 p1217
@@ -4464,7 +4464,7 @@ g6
 VOver 30% of the entire Federal prison population are non-violent first time offenders in jail for drug related crimes.
 p1225
 sg8
-g15
+g13
 sg10
 VSAM
 p1226
@@ -4546,13 +4546,13 @@ sg10
 VSAM
 p1247
 sg12
-g9
+g19
 sa(dp1248
 g6
 VAnd yes, if you can get people to sit still long enough to hear that argument. But, it takes a lot less time to hear "Just Say No" And anyone on the other side is soft on crime.
 p1249
 sg8
-g15
+g13
 sg10
 VAL
 p1250
@@ -4607,12 +4607,12 @@ g6
 VI'm hungry and so far nobody has convinced me of anything.
 p1264
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1265
 sg12
-g9
+g13
 sa(dp1266
 g6
 VLet's go eat lunch and meet back here in an hour.
@@ -4678,7 +4678,7 @@ sg10
 VSAM
 p1283
 sg12
-g9
+g19
 sa(dp1284
 g6
 VSam.
@@ -4700,7 +4700,7 @@ sg10
 VSAM
 p1289
 sg12
-g15
+g13
 sa(dp1290
 g6
 VSam.
@@ -4722,7 +4722,7 @@ sg10
 VSAM
 p1295
 sg12
-g15
+g13
 sa(dp1296
 g6
 VWould you like to look at the menu?
@@ -4739,12 +4739,12 @@ g6
 VA nice piece of fish never hurt anyone, Cathy.
 p1300
 sg8
-g15
+g13
 sg10
 VSAM
 p1301
 sg12
-g9
+g13
 sa(dp1302
 g6
 VHey, Sam.
@@ -4755,7 +4755,7 @@ sg10
 VONORATO
 p1304
 sg12
-g9
+g19
 sa(dp1305
 g6
 VSteve.
@@ -4772,7 +4772,7 @@ g6
 VThere was an O.M.B. meeting downstairs. I wanted to see you. They said you were with the President that I should wait here.
 p1309
 sg8
-g15
+g13
 sg10
 VONORATO
 p1310
@@ -4843,7 +4843,7 @@ sg10
 VONORATO
 p1328
 sg12
-g9
+g13
 sa(dp1329
 g6
 VSteve.
@@ -4860,7 +4860,7 @@ g6
 V"Take your legislative agenda and shove it up your ass"?
 p1333
 sg8
-g15
+g13
 sg10
 VONORATO
 p1334
@@ -4876,7 +4876,7 @@ sg10
 VSAM
 p1337
 sg12
-g9
+g13
 sa(dp1338
 g6
 VMy boss is ready to set the building on fire.
@@ -4904,23 +4904,23 @@ g6
 VLook, don't mess with me Sam, I'm serious.
 p1345
 sg8
-g15
+g13
 sg10
 VONORATO
 p1346
 sg12
-g9
+g13
 sa(dp1347
 g6
 VAnd I'm tired, and this isn't my thing. Go see Josh.
 p1348
 sg8
-g15
+g13
 sg10
 VSAM
 p1349
 sg12
-g15
+g13
 sa(dp1350
 g6
 VYou gonna eat?
@@ -4931,7 +4931,7 @@ sg10
 VONORATO
 p1352
 sg12
-g9
+g19
 sa(dp1353
 g6
 VWhat?
@@ -4953,7 +4953,7 @@ sg10
 VONORATO
 p1358
 sg12
-g9
+g19
 sa(dp1359
 g6
 VYeah, but at my desk, I was just gonna get...
@@ -4997,7 +4997,7 @@ sg10
 VONORATO
 p1370
 sg12
-g9
+g13
 sa(dp1371
 g6
 VYes.
@@ -5052,7 +5052,7 @@ sg10
 VTOBY
 p1385
 sg12
-g9
+g13
 sa(dp1386
 g6
 VSo am I.
@@ -5074,7 +5074,7 @@ sg10
 VTOBY
 p1391
 sg12
-g9
+g13
 sa(dp1392
 g6
 VI'm a member of the United States Congress.
@@ -5096,7 +5096,7 @@ sg10
 VTOBY
 p1397
 sg12
-g9
+g13
 sa(dp1398
 g6
 VYou know what I got?
@@ -5151,7 +5151,7 @@ sg10
 VANDY
 p1412
 sg12
-g9
+g19
 sa(dp1413
 g6
 VYou baked a pie?
@@ -5173,7 +5173,7 @@ sg10
 VANDY
 p1418
 sg12
-g9
+g13
 sa(dp1419
 g6
 VLet's go.
@@ -5206,7 +5206,7 @@ sg10
 VTOBY
 p1427
 sg12
-g19
+g13
 sa(dp1428
 g6
 VWell, that's why I was hoping you'd eat it first.
@@ -5217,7 +5217,7 @@ sg10
 VANDY
 p1430
 sg12
-g9
+g13
 sa(dp1431
 g6
 VAndy.
@@ -5283,7 +5283,7 @@ sg10
 VANDY
 p1448
 sg12
-g9
+g19
 sa(dp1449
 g6
 VRitchie.
@@ -5371,7 +5371,7 @@ sg10
 VANDY
 p1472
 sg12
-g9
+g19
 sa(dp1473
 g6
 VOne step at a time.
@@ -5382,7 +5382,7 @@ sg10
 VTOBY
 p1475
 sg12
-g9
+g19
 sa(dp1476
 g6
 VIt's part of the same step.
@@ -5415,7 +5415,7 @@ sg10
 VANDY
 p1484
 sg12
-g9
+g13
 sa(dp1485
 g6
 VI know what you're saying. I don't want to talk about Mandatory Minimums.
@@ -5448,18 +5448,18 @@ sg10
 VTOBY
 p1493
 sg12
-g9
+g13
 sa(dp1494
 g6
 V...proposals regarding cocaine recommend that relative federal mandatory minimums sentencing crack users...
 p1495
 sg8
-g15
+g13
 sg10
 VANDY
 p1496
 sg12
-g9
+g13
 sa(dp1497
 g6
 VThis is what happens. This is what you do. I say I don't want to talk about Mandatory Minimums and we talk about Mandatory Minimums anyway. You hijack my ability to make that decision for myself, Andrea. And making decisions for myself is my birthright!
@@ -5509,7 +5509,7 @@ g6
 VYou don't have a problem with what Leo's gonna do?
 p1510
 sg8
-g15
+g13
 sg10
 VTOBY
 p1511
@@ -5547,7 +5547,7 @@ sg10
 VANDY
 p1520
 sg12
-g9
+g13
 sa(dp1521
 g6
 VIt's not fun, Andy.
@@ -5635,7 +5635,7 @@ sg10
 VANDY
 p1544
 sg12
-g9
+g13
 sa(dp1545
 g6
 VAndy.
@@ -5723,13 +5723,13 @@ sg10
 VONORATO
 p1568
 sg12
-g9
+g19
 sa(dp1569
 g6
 VThat's a problem.
 p1570
 sg8
-g15
+g13
 sg10
 VSAM
 p1571
@@ -5800,7 +5800,7 @@ sg10
 VSAM
 p1589
 sg12
-g9
+g13
 sa(dp1590
 g6
 VYeah, but now you're taking daylong strategy sessions in the Oval Office.
@@ -5899,7 +5899,7 @@ sg10
 VONORATO
 p1616
 sg12
-g9
+g19
 sa(dp1617
 g6
 VWe're not bartering.
@@ -5910,7 +5910,7 @@ sg10
 VSAM
 p1619
 sg12
-g9
+g13
 sa(dp1620
 g6
 VI'm saying without the F.E.C. nominations, there's room to work with us.
@@ -5932,7 +5932,7 @@ sg10
 VSAM
 p1625
 sg12
-g9
+g19
 sa(dp1626
 g6
 VYou can have all the strategy sessions you want. No one you need's gonna take your phone call. And you, Sam, can go back to writing speeches for when the President meets the Girl Scout who sold the most cupcakes.
@@ -5998,7 +5998,7 @@ sg10
 VONORATO
 p1643
 sg12
-g9
+g19
 sa(dp1644
 g6
 V[from outside his office] I will.
@@ -6042,7 +6042,7 @@ sg10
 VC.J.
 p1655
 sg12
-g9
+g13
 sa(dp1656
 g6
 VI don't have much time.
@@ -6053,7 +6053,7 @@ sg10
 VLEO
 p1658
 sg12
-g15
+g13
 sa(dp1659
 g6
 VYou're people are here. They're in the press briefing room.
@@ -6081,7 +6081,7 @@ g6
 VCarol's keeping the press in the northeast lobby. She'll wait for your high sign.
 p1666
 sg8
-g15
+g13
 sg10
 VC.J.
 p1667
@@ -6119,7 +6119,7 @@ sg10
 VLEO
 p1676
 sg12
-g9
+g19
 sa(dp1677
 g6
 VLeo, I don't know if you've heard...
@@ -6136,7 +6136,7 @@ g6
 VYeah, I did hear C.J. You want me to tell you how many different ways that screw-up was stupid?
 p1681
 sg8
-g15
+g13
 sg10
 VLEO
 p1682
@@ -6152,7 +6152,7 @@ sg10
 VC.J.
 p1685
 sg12
-g9
+g13
 sa(dp1686
 g6
 VFor one thing, don't pass yourself off as a legal authority. For another, what the hell are you doing using a phrase like "under no legal obligation"?
@@ -6196,7 +6196,7 @@ sg10
 VC.J.
 p1697
 sg12
-g9
+g13
 sa(dp1698
 g6
 VSo right out of the gate, we've got to go back.
@@ -6224,12 +6224,12 @@ g6
 VThese amateur mistakes make me crazy, C.J.
 p1705
 sg8
-g15
+g13
 sg10
 VLEO
 p1706
 sg12
-g9
+g13
 sa(dp1707
 g6
 VYes.
@@ -6284,7 +6284,7 @@ sg10
 VDANNY
 p1721
 sg12
-g9
+g13
 sa(dp1722
 g6
 VThere's a meeting in there.
@@ -6306,7 +6306,7 @@ sg10
 VDANNY
 p1727
 sg12
-g9
+g19
 sa(dp1728
 g6
 VNone of your business.
@@ -6339,7 +6339,7 @@ sg10
 VC.J.
 p1736
 sg12
-g9
+g19
 sa(dp1737
 g6
 VHi, Carol.
@@ -6350,7 +6350,7 @@ sg10
 VDANNY
 p1739
 sg12
-g9
+g19
 sa(dp1740
 g6
 VHi.
@@ -6405,7 +6405,7 @@ sg10
 VDANNY
 p1754
 sg12
-g9
+g13
 sa(dp1755
 g6
 VI would think a man with your credentials...
@@ -6427,7 +6427,7 @@ sg10
 VDANNY
 p1760
 sg12
-g9
+g13
 sa(dp1761
 g6
 V[yells] You think I am?!
@@ -6504,7 +6504,7 @@ sg10
 VC.J.
 p1781
 sg12
-g9
+g13
 sa(dp1782
 g6
 V[knocks] C.J.?
@@ -6570,7 +6570,7 @@ sg10
 VC.J.
 p1799
 sg12
-g9
+g19
 sa(dp1800
 g6
 VGood afternoon. I'll make this as quick and direct as I can. There's a chance...
@@ -6620,7 +6620,7 @@ g6
 VDick, in July of '96, your boss's son was arrested for carrying 25 grams of cocaine. That's a crime that usually carries... what Toby?
 p1813
 sg8
-g15
+g13
 sg10
 VLEO
 p1814
@@ -6653,12 +6653,12 @@ g6
 VSix months house arrest.
 p1822
 sg8
-g15
+g13
 sg10
 VTOBY
 p1823
 sg12
-g9
+g13
 sa(dp1824
 g6
 VLynn, your boss's husband was caught stealing Vicodin and Percocet from the hospital at which he served as Chief of Thoracic Surgery. Now, Vicodin and Percocet are schedule-two drugs in the same legal category as Opium. What was the blue-book value, Toby?
@@ -6675,7 +6675,7 @@ g6
 VEach stolen pill carries the penalty of one year in prison and a monetary fine.
 p1828
 sg8
-g15
+g13
 sg10
 VTOBY
 p1829
@@ -6702,13 +6702,13 @@ sg10
 VTOBY
 p1835
 sg12
-g9
+g13
 sa(dp1836
 g6
 VThat's not bad.
 p1837
 sg8
-g15
+g13
 sg10
 VLEO
 p1838
@@ -6724,7 +6724,7 @@ sg10
 VSTUART
 p1841
 sg12
-g9
+g13
 sa(dp1842
 g6
 VStuart, yours is my favorite. Your boss has a daughter who was pulled over with 31 grams of coke and charged with intent to deliver. More over, she's just been indicted by a federal grand jury in Greenville, South Carolina, along with 18 other people for conspiracy to distribute. Toby...
@@ -6763,7 +6763,7 @@ g6
 VHe wants to hear opposition, but he's not gonna stomach hypocrisy. We start hearing "soft on criminals", "soft on drugs" from any of the people you work for, we've got 7 stories ready for page one.
 p1852
 sg8
-g15
+g13
 sg10
 VLEO
 p1853
@@ -6801,7 +6801,7 @@ sg10
 VSTUART
 p1862
 sg12
-g15
+g13
 sa(dp1863
 g6
 VYou play the full nine innings at this level, Stuart. Tell your friends about it.
@@ -6856,7 +6856,7 @@ sg10
 VANDY
 p1877
 sg12
-g19
+g9
 sa(dp1878
 g6
 VAndy.
@@ -6922,7 +6922,7 @@ sg10
 VANDY
 p1895
 sg12
-g9
+g13
 sa(dp1896
 g6
 VWhat?
@@ -6944,7 +6944,7 @@ sg10
 VANDY
 p1901
 sg12
-g9
+g19
 sa(dp1902
 g6
 VWhat?
@@ -6988,7 +6988,7 @@ sg10
 VANDY
 p1913
 sg12
-g9
+g13
 sa(dp1914
 g6
 VYou didn't say, "Officer, I'm a member of Congress, isn't there anything we can do about this?"
@@ -7071,7 +7071,7 @@ g6
 VToby, are you upset that I went out on a date? Or are you upset that I went out on a date with someone who plays in the same division as the Yankees?
 p1936
 sg8
-g15
+g13
 sg10
 VANDY
 p1937
@@ -7087,7 +7087,7 @@ sg10
 VTOBY
 p1940
 sg12
-g9
+g13
 sa(dp1941
 g6
 VMandatory Minimums, Toby.
@@ -7098,13 +7098,13 @@ sg10
 VANDY
 p1943
 sg12
-g9
+g19
 sa(dp1944
 g6
 VWhat are you doing getting into cars with guys that have been drinking?
 p1945
 sg8
-g15
+g13
 sg10
 VTOBY
 p1946
@@ -7153,7 +7153,7 @@ sg10
 VTOBY
 p1958
 sg12
-g9
+g13
 sa(dp1959
 g6
 V[stops and stares at Toby] You'd come pick me up with a date?
@@ -7186,7 +7186,7 @@ sg10
 VANDY
 p1967
 sg12
-g9
+g13
 sa(dp1968
 g6
 VGo away.
@@ -7208,7 +7208,7 @@ sg10
 VANDY
 p1973
 sg12
-g9
+g19
 sa(dp1974
 g6
 VAndy?
@@ -7241,7 +7241,7 @@ sg10
 VTOBY
 p1982
 sg12
-g9
+g13
 sa(dp1983
 g6
 VMr. President.
@@ -7318,7 +7318,7 @@ sg10
 VLEO
 p2003
 sg12
-g9
+g13
 sa(dp2004
 g6
 VWhat's on your mind? [waves for Leo to come in]
@@ -7373,7 +7373,7 @@ sg10
 VCHARLIE
 p2018
 sg12
-g9
+g13
 sa(dp2019
 g6
 VF.E.C. Where's the President?
@@ -7406,7 +7406,7 @@ sg10
 VJOSH
 p2027
 sg12
-g9
+g19
 sa(dp2028
 g6
 VYeah.
@@ -7428,7 +7428,7 @@ sg10
 VJOSH
 p2033
 sg12
-g19
+g13
 sa(dp2034
 g6
 VShe's a fine looking...
@@ -7439,7 +7439,7 @@ sg10
 VCHARLIE
 p2036
 sg12
-g9
+g19
 sa(dp2037
 g6
 VCharlie.
@@ -7648,7 +7648,7 @@ sg10
 VSAM
 p2093
 sg12
-g9
+g13
 sa(dp2094
 g6
 VHe said that?
@@ -7703,7 +7703,7 @@ sg10
 VJOSH
 p2108
 sg12
-g9
+g19
 sa(dp2109
 g6
 VWhat do you mean?
@@ -7736,7 +7736,7 @@ sg10
 VSAM
 p2117
 sg12
-g9
+g13
 sa(dp2118
 g6
 VHe wants to move you out to the front of the field so he can drop Laurie on you.
@@ -7786,7 +7786,7 @@ g6
 VIt's okay, Sam. You haven't done anything wrong.
 p2131
 sg8
-g15
+g13
 sg10
 VJOSH
 p2132
@@ -7797,23 +7797,23 @@ g6
 VOh, I know I haven't done anything wrong. Are you serious?
 p2134
 sg8
-g15
+g13
 sg10
 VSAM
 p2135
 sg12
-g9
+g13
 sa(dp2136
 g6
 V[chuckling] We're serious. Don't worry about it.
 p2137
 sg8
-g15
+g13
 sg10
 VTOBY
 p2138
 sg12
-g9
+g13
 sa(dp2139
 g6
 VHe... are you saying, he... he tried to practice on my...
@@ -7907,7 +7907,7 @@ g6
 VI won't take it easy! Give me the phone. [reaches for the phone] I'm gonna call the Senator and I'm gonna tell him that he can shove his legislative agenda up his ass!
 p2164
 sg8
-g15
+g13
 sg10
 VSAM
 p2165
@@ -7923,7 +7923,7 @@ sg10
 VJOSH
 p2168
 sg12
-g9
+g13
 sa(dp2169
 g6
 VI'll do it again.
@@ -7940,7 +7940,7 @@ g6
 VYou know what this is like? This is like The Godfather. When Pacino tells James Caan that he's gonna kill the cop. It's a lot like that scene, only not really.
 p2173
 sg8
-g15
+g13
 sg10
 VJOSH
 p2174
@@ -8033,7 +8033,7 @@ sg10
 VJOSH
 p2198
 sg12
-g9
+g13
 sa(dp2199
 g6
 VHello.
@@ -8066,7 +8066,7 @@ sg10
 VJOSH
 p2207
 sg12
-g9
+g19
 sa(dp2208
 g6
 VHey, Josh.
@@ -8077,13 +8077,13 @@ sg10
 VKENNY
 p2210
 sg12
-g9
+g19
 sa(dp2211
 g6
 VI saw the light was on. You guys are here late.
 p2212
 sg8
-g15
+g13
 sg10
 VJOSH
 p2213
@@ -8132,7 +8132,7 @@ sg10
 VJOSH
 p2225
 sg12
-g9
+g19
 sa(dp2226
 g6
 VOh, sure. [signing to Joey] I'm going to step outside. [walks away]
@@ -8154,7 +8154,7 @@ sg10
 VJOSH
 p2231
 sg12
-g9
+g13
 sa(dp2232
 g6
 VYou have a regular Tuesday suit?
@@ -8187,7 +8187,7 @@ sg10
 VJOEY
 p2240
 sg12
-g9
+g13
 sa(dp2241
 g6
 VYeah... So... Okay, I gotta go. [smiles wide as Josh leaves]
@@ -8198,7 +8198,7 @@ sg10
 VJOSH
 p2243
 sg12
-g9
+g19
 sa(dp2244
 g6
 VSo... I don't want to be Labor the point, though. I... I do think this is understandable. I feel a little self-conscience coming down the mountain on drugs two months after I announce I was a recovering drug addict. What do you think?
@@ -8209,7 +8209,7 @@ sg10
 VLEO
 p2246
 sg12
-g9
+g13
 sa(dp2247
 g6
 VAbout what?
@@ -8242,7 +8242,7 @@ sg10
 VBARTLET
 p2255
 sg12
-g9
+g13
 sa(dp2256
 g6
 VSir...
@@ -8286,7 +8286,7 @@ sg10
 VBARTLET
 p2267
 sg12
-g19
+g9
 sa(dp2268
 g6
 VApparently there is.
@@ -8297,7 +8297,7 @@ sg10
 VBARTLET
 p2270
 sg12
-g15
+g13
 sa(dp2271
 g6
 V[enters] Mr. President.
@@ -8330,7 +8330,7 @@ sg10
 VC.J.
 p2279
 sg12
-g9
+g13
 sa(dp2280
 g6
 VI am.
@@ -8341,7 +8341,7 @@ sg10
 VBARTLET
 p2282
 sg12
-g9
+g13
 sa(dp2283
 g6
 VI haven't seen you all day, I just... wanted to apologize for the gaffe at the briefing last night.
@@ -8396,7 +8396,7 @@ sg10
 VC.J.
 p2297
 sg12
-g9
+g19
 sa(dp2298
 g6
 VNo need to apologize, but I accept your apology and now I'm ready, if not eager, to move on.
@@ -8528,7 +8528,7 @@ sg10
 VJOSH
 p2333
 sg12
-g19
+g9
 sa(dp2334
 g6
 VI'm fine, thanks. How you doing?
@@ -8539,7 +8539,7 @@ sg10
 VBARTLET
 p2336
 sg12
-g19
+g13
 sa(dp2337
 g6
 VGood! I gave Joey Lucas a coffee mug. She doesn't know anybody here and she's already working hard. She's very committed. I think I did the right thing.
@@ -8589,7 +8589,7 @@ g6
 VWe should go and leave you now.
 p2350
 sg8
-g15
+g13
 sg10
 VJOSH
 p2351
@@ -8611,12 +8611,12 @@ g6
 VSir, something has come up and frankly, it's got me as hot as a pistol. Apparently....
 p2356
 sg8
-g15
+g13
 sg10
 VSAM
 p2357
 sg12
-g9
+g13
 sa(dp2358
 g6
 VSam.
@@ -8660,7 +8660,7 @@ sg10
 VLEO
 p2369
 sg12
-g9
+g13
 sa(dp2370
 g6
 V[to Leo] She was doing her job. C.J.?
@@ -8693,7 +8693,7 @@ sg10
 VBARTLET
 p2378
 sg12
-g9
+g13
 sa(dp2379
 g6
 VYes, sir.
@@ -8737,7 +8737,7 @@ sg10
 VBARTLET
 p2390
 sg12
-g19
+g13
 sa(dp2391
 g6
 VI... met with Congresswoman Wyatt today.
@@ -8748,7 +8748,7 @@ sg10
 VTOBY
 p2393
 sg12
-g9
+g19
 sa(dp2394
 g6
 VWhen you were married to her, did you call her Congresswoman Wyatt?
@@ -8869,7 +8869,7 @@ sg10
 VBARTLET
 p2426
 sg12
-g9
+g13
 sa(dp2427
 g6
 VUh... the thing is, she's right.
@@ -8897,12 +8897,12 @@ g6
 VMandatory Minimums are considerably higher for crack than for powder cocaine.
 p2434
 sg8
-g15
+g13
 sg10
 VTOBY
 p2435
 sg12
-g9
+g13
 sa(dp2436
 g6
 VYes.
@@ -8935,7 +8935,7 @@ sg10
 VBARTLET
 p2444
 sg12
-g9
+g19
 sa(dp2445
 g6
 VIt should be part of the discussion.
@@ -8957,7 +8957,7 @@ sg10
 VBARTLET
 p2450
 sg12
-g9
+g19
 sa(dp2451
 g6
 VGood... uh... good night.

@@ -102,7 +102,7 @@ sg10
 VBARTLET
 p35
 sg12
-g9
+g31
 sa(dp36
 g6
 VIt happens, sir, we'll...
@@ -113,7 +113,7 @@ sg10
 VRON
 p38
 sg12
-g9
+g21
 sa(dp39
 g6
 VWhy is she vomiting?
@@ -124,7 +124,7 @@ sg10
 VBARTLET
 p41
 sg12
-g9
+g31
 sa(dp42
 g6
 VIt happens.  It could be shock.
@@ -135,7 +135,7 @@ sg10
 VRON
 p44
 sg12
-g9
+g31
 sa(dp45
 g6
 VRon...
@@ -245,7 +245,7 @@ sg10
 VRON
 p74
 sg12
-g9
+g31
 sa(dp75
 g6
 VWhat happened to your hand?!
@@ -267,7 +267,7 @@ sg10
 VRON
 p80
 sg12
-g9
+g31
 sa(dp81
 g6
 VOh God. [to the driver] Coop, turn around, we gotta go to the hospital.
@@ -355,7 +355,7 @@ sg10
 VC.J.
 p104
 sg12
-g9
+g31
 sa(dp105
 g6
 VI hit my head on the ground.
@@ -366,7 +366,7 @@ sg10
 VC.J.
 p107
 sg12
-g9
+g31
 sa(dp108
 g6
 VSomebody pulled me down.
@@ -377,7 +377,7 @@ sg10
 VC.J.
 p110
 sg12
-g9
+g31
 sa(dp111
 g6
 VYeah!
@@ -399,7 +399,7 @@ sg10
 VC.J.
 p116
 sg12
-g9
+g21
 sa(dp117
 g6
 VIs the President dead?
@@ -443,7 +443,7 @@ sg10
 VSAM
 p128
 sg12
-g9
+g21
 sa(dp129
 g6
 VYeah, where's the President?
@@ -476,7 +476,7 @@ sg10
 VC.J.
 p137
 sg12
-g9
+g31
 sa(dp138
 g6
 VGina?
@@ -586,7 +586,7 @@ sg10
 VGINA
 p167
 sg12
-g9
+g31
 sa(dp168
 g6
 VWhat kind of cap?
@@ -597,7 +597,7 @@ sg10
 VCHO
 p170
 sg12
-g9
+g21
 sa(dp171
 g6
 VMaybe it got knocked off from the crowd.
@@ -619,7 +619,7 @@ sg10
 VCHO
 p176
 sg12
-g9
+g21
 sa(dp177
 g6
 VI don't know.
@@ -630,7 +630,7 @@ sg10
 VGINA
 p179
 sg12
-g9
+g31
 sa(dp180
 g6
 V[to an agent] Fix the perimeter, close the airports, shut them down, I want the Harbor Patrol and the Coast Guard.
@@ -652,7 +652,7 @@ sg10
 VAGENT
 p185
 sg12
-g9
+g21
 sa(dp186
 g6
 VStevie! Paul!
@@ -685,7 +685,7 @@ sg10
 VTOBY
 p194
 sg12
-g21
+g9
 sa(dp195
 g6
 VYeah.
@@ -718,7 +718,7 @@ sg10
 VCHARLIE
 p203
 sg12
-g9
+g21
 sa(dp204
 g6
 VNo, he didn't. Shanahan got in with Leo. Josh didn't get in the car.
@@ -762,7 +762,7 @@ sg10
 VTOBY
 p215
 sg12
-g9
+g31
 sa(dp216
 g6
 VI need a... I need a doctor! I need help!
@@ -938,7 +938,7 @@ sg10
 VNURSE
 p263
 sg12
-g9
+g31
 sa(dp264
 g6
 VListen, I want you to wait as long as you can before you give me the anesthesia. I need to speak to Leo McGarry before you give me the anesthesia.
@@ -982,7 +982,7 @@ sg10
 VBARTLET
 p275
 sg12
-g9
+g31
 sa(dp276
 g6
 VGood evening, Mrs. Landingham.
@@ -993,7 +993,7 @@ sg10
 VMARGARET
 p278
 sg12
-g9
+g21
 sa(dp279
 g6
 VThe President's not back yet?
@@ -1059,7 +1059,7 @@ sg10
 VBARTLET
 p296
 sg12
-g9
+g31
 sa(dp297
 g6
 VDaddy?!
@@ -1114,7 +1114,7 @@ sg10
 VZOEY
 p311
 sg12
-g21
+g31
 sa(dp312
 g6
 VYeah, 'cause I want these guys to tell reporters that I was brave and joking around.
@@ -1147,7 +1147,7 @@ sg10
 VBARTLET
 p320
 sg12
-g9
+g31
 sa(dp321
 g6
 VMom's on her way.
@@ -1169,7 +1169,7 @@ sg10
 VBARTLET
 p326
 sg12
-g9
+g21
 sa(dp327
 g6
 VYeah.
@@ -1202,7 +1202,7 @@ sg10
 VZOEY
 p335
 sg12
-g9
+g31
 sa(dp336
 g6
 VShe booted all over the back of her car. You know they're gonna bill me for that.
@@ -1290,7 +1290,7 @@ sg10
 VBARTLET
 p359
 sg12
-g9
+g31
 sa(dp360
 g6
 VThe two shooters. They got them through the window.
@@ -1356,7 +1356,7 @@ sg10
 VBARTLET
 p377
 sg12
-g9
+g21
 sa(dp378
 g6
 VYeah.
@@ -1411,7 +1411,7 @@ sg10
 VLEO
 p392
 sg12
-g9
+g21
 sa(dp393
 g6
 VYou know what I'm talking about, right?
@@ -1444,7 +1444,7 @@ sg10
 VBARTLET
 p401
 sg12
-g9
+g31
 sa(dp402
 g6
 VIt's okay.
@@ -1477,7 +1477,7 @@ sg10
 VWOMAN
 p410
 sg12
-g9
+g31
 sa(dp411
 g6
 VOh. You all right?
@@ -1510,7 +1510,7 @@ sg10
 VZOEY
 p419
 sg12
-g9
+g31
 sa(dp420
 g6
 VGood ones, or...?
@@ -1554,7 +1554,7 @@ sg10
 VLEO
 p431
 sg12
-g9
+g21
 sa(dp432
 g6
 VOh, yes. We spoke in the car.
@@ -1587,7 +1587,7 @@ sg10
 VABBEY
 p440
 sg12
-g9
+g31
 sa(dp441
 g6
 VMm-hmm. Who's the anesthesiologist?
@@ -1609,7 +1609,7 @@ sg10
 VABBEY
 p446
 sg12
-g9
+g21
 sa(dp447
 g6
 VYeah.
@@ -1686,7 +1686,7 @@ sg10
 VGINA
 p467
 sg12
-g9
+g31
 sa(dp468
 g6
 VDid they close the airports?
@@ -1807,7 +1807,7 @@ sg10
 VPARAMEDIC
 p500
 sg12
-g9
+g21
 sa(dp501
 g6
 VWhat happened?
@@ -1829,7 +1829,7 @@ sg10
 VTOBY
 p506
 sg12
-g21
+g9
 sa(dp507
 g6
 VSingle gunshot wound, left fifth intercostal space.
@@ -1862,7 +1862,7 @@ sg10
 VJOSH
 p515
 sg12
-g9
+g31
 sa(dp516
 g6
 VTrauma One's ready.
@@ -1917,7 +1917,7 @@ sg10
 VDOCTOR
 p530
 sg12
-g9
+g31
 sa(dp531
 g6
 VI shouldn't be at this meeting.
@@ -1928,7 +1928,7 @@ sg10
 VJOSH
 p533
 sg12
-g9
+g31
 sa(dp534
 g6
 VPulse ox, 88.
@@ -1939,7 +1939,7 @@ sg10
 VNURSE
 p536
 sg12
-g9
+g21
 sa(dp537
 g6
 VI need to get to New Hampshire.
@@ -2038,7 +2038,7 @@ sg10
 VHOYNES
 p563
 sg12
-g9
+g31
 sa(dp564
 g6
 VA few hundred times, sir.
@@ -2082,7 +2082,7 @@ sg10
 VMARK
 p575
 sg12
-g9
+g31
 sa(dp576
 g6
 VMark, 400 billion dollars. Social Security represents one-fourth of the federal budget, and it's gonna be bankrupt in exactly 17 years. Right around the time you're going to check your mailbox, half of the elderly population will be living in poverty. This now, qualifies as a priority, and running for President of the United States not putting Social Security front and center is like running for President of the Walt Disney Corporation by saying you're gonna fix the rides at Epcot.
@@ -2148,7 +2148,7 @@ sg10
 VHOYNES
 p593
 sg12
-g9
+g31
 sa(dp594
 g6
 VI don't think the point of this is for me to have...
@@ -2170,7 +2170,7 @@ sg10
 VHOYNES
 p599
 sg12
-g9
+g31
 sa(dp600
 g6
 VSenator, you're the prohibitive favorite to be the Democratic Party's nominee for President. You have 58 million dollars in war chest with no end in sight, and... I don't know what we're for.
@@ -2269,7 +2269,7 @@ sg10
 VLEO
 p626
 sg12
-g9
+g31
 sa(dp627
 g6
 VOf course, I don't mind, but the senator just went down for the 404 vote.
@@ -2280,7 +2280,7 @@ sg10
 VJOSH
 p629
 sg12
-g9
+g31
 sa(dp630
 g6
 VIt's probably the annual vote override to veto on the resolution to ship nuclear wastes to Nevada.
@@ -2335,7 +2335,7 @@ sg10
 VLEO
 p644
 sg12
-g9
+g21
 sa(dp645
 g6
 VReally?
@@ -2390,7 +2390,7 @@ sg10
 VJOSH
 p659
 sg12
-g9
+g31
 sa(dp660
 g6
 VI heard your dad was in the hospital again.
@@ -2412,7 +2412,7 @@ sg10
 VJOSH
 p665
 sg12
-g9
+g31
 sa(dp666
 g6
 VIs he taking it easy?
@@ -2500,7 +2500,7 @@ sg10
 VJOSH
 p689
 sg12
-g9
+g21
 sa(dp690
 g6
 VYeah.
@@ -2643,7 +2643,7 @@ sg10
 VLEO
 p728
 sg12
-g9
+g31
 sa(dp729
 g6
 V[into phone] Yeah, uh, Janet. Uh, I need you to set up some plane tickets to New York. Uh, probably to Boston too...
@@ -2709,7 +2709,7 @@ sg10
 VSAM
 p746
 sg12
-g9
+g31
 sa(dp747
 g6
 VMr. Cameron, you want me to buy the boats, you're not asking me to be the first mate, right?
@@ -2808,7 +2808,7 @@ sg10
 VJOSH
 p773
 sg12
-g21
+g9
 sa(dp774
 g6
 VHey, you look fit.
@@ -2830,7 +2830,7 @@ sg10
 VJOSH
 p779
 sg12
-g9
+g21
 sa(dp780
 g6
 VNext month. Listen, I'm hungry. You want to go grab a hot dog or something?
@@ -2841,7 +2841,7 @@ sg10
 VSAM
 p782
 sg12
-g9
+g31
 sa(dp783
 g6
 VIt's 9:30 in the morning.
@@ -2940,7 +2940,7 @@ sg10
 VSAM
 p809
 sg12
-g9
+g31
 sa(dp810
 g6
 VI know.
@@ -2951,7 +2951,7 @@ sg10
 VJOSH
 p812
 sg12
-g9
+g31
 sa(dp813
 g6
 VSecond biggest firm in New York?
@@ -2973,7 +2973,7 @@ sg10
 VJOSH
 p818
 sg12
-g9
+g31
 sa(dp819
 g6
 VDid the Shearson deal--
@@ -2984,7 +2984,7 @@ sg10
 VSAM
 p821
 sg12
-g9
+g21
 sa(dp822
 g6
 VYeah.
@@ -3017,7 +3017,7 @@ sg10
 VJOSH
 p830
 sg12
-g9
+g31
 sa(dp831
 g6
 VWhat are you doing in town?
@@ -3039,7 +3039,7 @@ sg10
 VJOSH
 p836
 sg12
-g9
+g31
 sa(dp837
 g6
 VWhat's in Nashua?
@@ -3061,7 +3061,7 @@ sg10
 VJOSH
 p842
 sg12
-g9
+g31
 sa(dp843
 g6
 VYou want me to quit my job and come work for Hoynes?
@@ -3072,7 +3072,7 @@ sg10
 VSAM
 p845
 sg12
-g9
+g31
 sa(dp846
 g6
 VHe's gonna win, Sam.
@@ -3083,7 +3083,7 @@ sg10
 VJOSH
 p848
 sg12
-g9
+g21
 sa(dp849
 g6
 VSo what do you need me for?
@@ -3105,7 +3105,7 @@ sg10
 VJOSH
 p854
 sg12
-g9
+g21
 sa(dp855
 g6
 VLisa and I are getting married in September.
@@ -3149,7 +3149,7 @@ sg10
 VJOSH
 p866
 sg12
-g9
+g31
 sa(dp867
 g6
 VI got to get back to this thing.
@@ -3171,7 +3171,7 @@ sg10
 VJOSH
 p872
 sg12
-g9
+g21
 sa(dp873
 g6
 VIt's good seeing you. I miss you.
@@ -3182,7 +3182,7 @@ sg10
 VSAM
 p875
 sg12
-g9
+g21
 sa(dp876
 g6
 VHey, congratulations on that partnership.
@@ -3193,7 +3193,7 @@ sg10
 VJOSH
 p878
 sg12
-g9
+g21
 sa(dp879
 g6
 VJosh!
@@ -3248,7 +3248,7 @@ sg10
 VJOSH
 p893
 sg12
-g9
+g31
 sa(dp894
 g6
 VJosh. [beat] What are you doing?
@@ -3270,7 +3270,7 @@ sg10
 VJOSH
 p899
 sg12
-g9
+g31
 sa(dp900
 g6
 VProtecting oil companies from litigation.
@@ -3281,7 +3281,7 @@ sg10
 VSAM
 p902
 sg12
-g9
+g31
 sa(dp903
 g6
 VThey're our client. They don't lose legal protection because they make a lot of money.
@@ -3292,7 +3292,7 @@ sg10
 VSAM
 p905
 sg12
-g21
+g9
 sa(dp906
 g6
 VI can't believe no one ever wrote a folk song about that.
@@ -3325,7 +3325,7 @@ sg10
 VSAM
 p914
 sg12
-g9
+g31
 sa(dp915
 g6
 VWhy?
@@ -3380,7 +3380,7 @@ sg10
 VSAM
 p929
 sg12
-g9
+g31
 sa(dp930
 g6
 VThat's okay.
@@ -3402,7 +3402,7 @@ sg10
 VSAM
 p935
 sg12
-g9
+g31
 sa(dp936
 g6
 VDr. Bartlet. <><> ABBEY Yes.
@@ -3435,7 +3435,7 @@ sg10
 VABBEY
 p944
 sg12
-g9
+g21
 sa(dp945
 g6
 VYou can see him in the recovery room in about two hours.
@@ -3457,7 +3457,7 @@ sg10
 VABBEY
 p950
 sg12
-g21
+g9
 sa(dp951
 g6
 VNo ma'am, and blood loss was minimal. Dr. Keller was able to visualize the entire abdomen, and he's secure with the diagnostic of the laparoscopy.
@@ -3501,7 +3501,7 @@ sg10
 VABBEY
 p962
 sg12
-g31
+g9
 sa(dp963
 g6
 VNo. They're going to have to stay in and try to repair the artery primarily.
@@ -3611,7 +3611,7 @@ sg10
 VLEO
 p992
 sg12
-g9
+g21
 sa(dp993
 g6
 VWhere's the National Security Advisor?
@@ -3688,7 +3688,7 @@ sg10
 VNANCY
 p1013
 sg12
-g9
+g31
 sa(dp1014
 g6
 VGood evening, Mr. Vice President.
@@ -3710,7 +3710,7 @@ sg10
 VHOYNES
 p1019
 sg12
-g9
+g21
 sa(dp1020
 g6
 VJack.
@@ -3765,7 +3765,7 @@ sg10
 VHOYNES
 p1034
 sg12
-g9
+g31
 sa(dp1035
 g6
 VIf this signal guy isn't in custody in one hour, I'm going to federalize the Virginia and Maryland National Guards.
@@ -3809,7 +3809,7 @@ sg10
 VNANCY
 p1046
 sg12
-g9
+g21
 sa(dp1047
 g6
 VI've seen them. I'm not worried about it.
@@ -3820,7 +3820,7 @@ sg10
 VLEO
 p1049
 sg12
-g9
+g31
 sa(dp1050
 g6
 VLeo, these images show a sudden build-up of front-line Republican guard units along the Tigress and Euphrates Rivers.
@@ -3875,7 +3875,7 @@ sg10
 VNANCY
 p1064
 sg12
-g9
+g31
 sa(dp1065
 g6
 VThe Iraqi Republican guard can't find their car keys in 36 hours.
@@ -3952,7 +3952,7 @@ sg10
 VDOCTOR
 p1085
 sg12
-g9
+g31
 sa(dp1086
 g6
 VWe can't make you very comfortable here, and Josh's procedure is likely to take 12 to 14 hours. So--
@@ -3996,7 +3996,7 @@ sg10
 VDONNA
 p1097
 sg12
-g9
+g31
 sa(dp1098
 g6
 VHit with what?
@@ -4040,7 +4040,7 @@ sg10
 VDONNA
 p1109
 sg12
-g9
+g31
 sa(dp1110
 g6
 VYes, it's critical. The bullet collapsed his lung and damaged a major artery.
@@ -4238,7 +4238,7 @@ sg10
 VC.J.
 p1163
 sg12
-g9
+g31
 sa(dp1164
 g6
 VNo.
@@ -4260,7 +4260,7 @@ sg10
 VC.J.
 p1169
 sg12
-g9
+g31
 sa(dp1170
 g6
 VI don't have anything for you on that either.
@@ -4271,7 +4271,7 @@ sg10
 VC.J.
 p1172
 sg12
-g9
+g31
 sa(dp1173
 g6
 VC.J.!
@@ -4293,7 +4293,7 @@ sg10
 VC.J.
 p1178
 sg12
-g9
+g31
 sa(dp1179
 g6
 VOne more question!
@@ -4370,7 +4370,7 @@ sg10
 VC.J.
 p1199
 sg12
-g9
+g31
 sa(dp1200
 g6
 VWhat do you know? What can you tell us?
@@ -4447,7 +4447,7 @@ sg10
 VC.J.
 p1220
 sg12
-g9
+g31
 sa(dp1221
 g6
 VWhen what?
@@ -4469,7 +4469,7 @@ sg10
 VC.J.
 p1226
 sg12
-g9
+g31
 sa(dp1227
 g6
 VC.J.?
@@ -4601,7 +4601,7 @@ sg10
 VC.J.
 p1262
 sg12
-g9
+g31
 sa(dp1263
 g6
 VFitzwallace agrees with me, Nancy. Upgrade our DefCon posture and the whole world's gonna wake up.
@@ -4612,7 +4612,7 @@ sg10
 VLEO
 p1265
 sg12
-g9
+g31
 sa(dp1266
 g6
 VThe world's already awake Leo! Look at the TV. Look out the window! They had more than one shooter. We think they had a guy on the ground. If they had one, there's no reason to believe they didn't have more than one. Somebody had to get them into that office. This was not a lonely guy who lived with his cats. There was a plan and one of the things we have to assume is that we're under attack right now.
@@ -4656,7 +4656,7 @@ sg10
 VTOBY
 p1277
 sg12
-g9
+g31
 sa(dp1278
 g6
 VHe never signed a letter.
@@ -4667,7 +4667,7 @@ sg10
 VLEO
 p1280
 sg12
-g9
+g21
 sa(dp1281
 g6
 VWhat letter?
@@ -4722,7 +4722,7 @@ sg10
 VTOBY
 p1295
 sg12
-g9
+g21
 sa(dp1296
 g6
 VYeah.
@@ -4766,7 +4766,7 @@ sg10
 VC.J.
 p1307
 sg12
-g9
+g31
 sa(dp1308
 g6
 VIt says the Secretary of Defense will be the principal assistant to the President on all matters relating to national security.
@@ -4799,7 +4799,7 @@ sg10
 VNANCY
 p1316
 sg12
-g9
+g31
 sa(dp1317
 g6
 VOf course it wouldn't, 'cause that's an area of federal law where he'd want to have as much ambiguity as possible.
@@ -4832,7 +4832,7 @@ sg10
 VTOBY
 p1325
 sg12
-g9
+g31
 sa(dp1326
 g6
 VI'm gonna go back to the hospital.
@@ -4854,7 +4854,7 @@ sg10
 VLEO
 p1331
 sg12
-g9
+g31
 sa(dp1332
 g6
 VTry and hold Danny off for a few hours until the Counsel's office tells us where we are.
@@ -4931,7 +4931,7 @@ sg10
 VTOBY
 p1352
 sg12
-g21
+g9
 sa(dp1353
 g6
 VIt was. Arthur Leeds, then a couple of others stopped me.
@@ -4964,7 +4964,7 @@ sg10
 VC.J.
 p1361
 sg12
-g9
+g31
 sa(dp1362
 g6
 VYeah.
@@ -5052,7 +5052,7 @@ sg10
 VTOBY
 p1385
 sg12
-g9
+g31
 sa(dp1386
 g6
 VI just... I turned on the T.V.
@@ -5063,7 +5063,7 @@ sg10
 VGINGER
 p1388
 sg12
-g9
+g31
 sa(dp1389
 g6
 VIt's okay. [pause] Come here.
@@ -5096,7 +5096,7 @@ sg10
 VGINGER
 p1397
 sg12
-g9
+g31
 sa(dp1398
 g6
 VYou all right?
@@ -5140,7 +5140,7 @@ sg10
 VGINGER
 p1409
 sg12
-g9
+g21
 sa(dp1410
 g6
 VWhat?
@@ -5162,7 +5162,7 @@ sg10
 VGINGER
 p1415
 sg12
-g9
+g31
 sa(dp1416
 g6
 VYou want another one of those?
@@ -5217,7 +5217,7 @@ sg10
 VWOMAN
 p1430
 sg12
-g9
+g31
 sa(dp1431
 g6
 VYeah, we kept that secret pretty good. You know, he's speaking at the VFW hall tonight. You should come.
@@ -5316,7 +5316,7 @@ sg10
 VTOBY
 p1457
 sg12
-g21
+g9
 sa(dp1458
 g6
 VWhat's your record?
@@ -5371,7 +5371,7 @@ sg10
 VTOBY
 p1472
 sg12
-g9
+g21
 sa(dp1473
 g6
 V...None.
@@ -5404,7 +5404,7 @@ sg10
 VTOBY
 p1481
 sg12
-g9
+g21
 sa(dp1482
 g6
 VSo, let me ask you something.
@@ -5415,7 +5415,7 @@ sg10
 VWOMAN
 p1484
 sg12
-g9
+g31
 sa(dp1485
 g6
 VSure.
@@ -5426,7 +5426,7 @@ sg10
 VTOBY
 p1487
 sg12
-g9
+g31
 sa(dp1488
 g6
 VHow come you're drinking so much so early in the day?
@@ -5448,7 +5448,7 @@ sg10
 VTOBY
 p1493
 sg12
-g9
+g31
 sa(dp1494
 g6
 VIt was nice meeting you. [leaves the bar]
@@ -5525,7 +5525,7 @@ sg10
 VTOBY
 p1514
 sg12
-g9
+g31
 sa(dp1515
 g6
 VYou talked to him, didn't you?
@@ -5569,7 +5569,7 @@ sg10
 VTOBY
 p1526
 sg12
-g9
+g31
 sa(dp1527
 g6
 VYou talked to him about the New England D.F.C. if he's asked?
@@ -5690,7 +5690,7 @@ sg10
 VCAL
 p1559
 sg12
-g21
+g9
 sa(dp1560
 g6
 VNot that much, but then I haven't had much to compare it to so...
@@ -5701,7 +5701,7 @@ sg10
 VTOBY
 p1562
 sg12
-g9
+g31
 sa(dp1563
 g6
 V...which then again is a much larger tax on overstated real profits.
@@ -5811,7 +5811,7 @@ sg10
 VMAN
 p1592
 sg12
-g9
+g31
 sa(dp1593
 g6
 VI screwed you. You got hosed.
@@ -5822,7 +5822,7 @@ sg10
 VBARTLET
 p1595
 sg12
-g9
+g21
 sa(dp1596
 g6
 VSir, I...
@@ -5833,7 +5833,7 @@ sg10
 VMAN
 p1598
 sg12
-g9
+g31
 sa(dp1599
 g6
 VAnd not just you. A lot of my constituents. I put the hammer to farms in Concord, Salem, Laconia, and Elem.
@@ -5844,7 +5844,7 @@ sg10
 VBARTLET
 p1601
 sg12
-g9
+g21
 sa(dp1602
 g6
 VYou guys got rogered but good.
@@ -5910,7 +5910,7 @@ sg10
 VBARTLET
 p1619
 sg12
-g9
+g31
 sa(dp1620
 g6
 V[to Abbey] Is he okay?
@@ -5943,7 +5943,7 @@ sg10
 VBARTLET
 p1628
 sg12
-g9
+g31
 sa(dp1629
 g6
 VYou should stay in bed.
@@ -5987,7 +5987,7 @@ sg10
 VBARTLET
 p1640
 sg12
-g9
+g21
 sa(dp1641
 g6
 VWhat's next?
@@ -6020,7 +6020,7 @@ sg10
 VBARTLET
 p1649
 sg12
-g9
+g31
 sa(dp1650
 g6
 VIf I could just reframe the point that Cal was making.
@@ -6031,7 +6031,7 @@ sg10
 VJERRY
 p1652
 sg12
-g9
+g31
 sa(dp1653
 g6
 VI understand the point that Cal was making. I was sitting next to him when he made it, my ears are connected to my brain just like every body else. And I'm saying what's next?
@@ -6042,7 +6042,7 @@ sg10
 VBARTLET
 p1655
 sg12
-g9
+g31
 sa(dp1656
 g6
 VSir, not to put my head in the lion's mouth but by saying the name of your opponent in public you're essentially giving him free advertising.
@@ -6185,7 +6185,7 @@ sg10
 VTOBY
 p1694
 sg12
-g9
+g31
 sa(dp1695
 g6
 VI am talking about the Governor's answer tonight. But I'm also talking about. Every day there's some. Look, Toby, we can talk about this in the room or if you're more comfortable we can--
@@ -6262,7 +6262,7 @@ sg10
 VLEO
 p1715
 sg12
-g9
+g31
 sa(dp1716
 g6
 VIts freezing cold in October! I don't know how you people live here.
@@ -6273,7 +6273,7 @@ sg10
 VLEO
 p1718
 sg12
-g9
+g31
 sa(dp1719
 g6
 VDid you just fire Cal Mathis?
@@ -6284,7 +6284,7 @@ sg10
 VBARTLET
 p1721
 sg12
-g21
+g31
 sa(dp1722
 g6
 VYeah.
@@ -6317,7 +6317,7 @@ sg10
 VLEO
 p1730
 sg12
-g9
+g21
 sa(dp1731
 g6
 VIs there anyone you kept?
@@ -6328,7 +6328,7 @@ sg10
 VBARTLET
 p1733
 sg12
-g21
+g9
 sa(dp1734
 g6
 VI kept Toby Ziegler.
@@ -6339,7 +6339,7 @@ sg10
 VLEO
 p1736
 sg12
-g9
+g31
 sa(dp1737
 g6
 VOh, you kept Toby Ziegler, and you fired everyone else.
@@ -6416,7 +6416,7 @@ sg10
 VBARTLET
 p1757
 sg12
-g9
+g21
 sa(dp1758
 g6
 VYeah. You know why? 'Cause you're a crappy politician. I think you'll find I'll be making a lot of decisions on my own so get used to it.
@@ -6460,7 +6460,7 @@ sg10
 VLEO
 p1769
 sg12
-g9
+g21
 sa(dp1770
 g6
 VHey.
@@ -6559,7 +6559,7 @@ sg10
 VBARTLET
 p1796
 sg12
-g9
+g31
 sa(dp1797
 g6
 VYes.

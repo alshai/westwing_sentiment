@@ -123,7 +123,7 @@ sg10
 VHELEN
 p40
 sg12
-g13
+g9
 sa(dp41
 g6
 VYou got a four-point bump. Vinick only got a two-point bump.
@@ -189,47 +189,47 @@ sg10
 VBRAM
 p58
 sg12
-g13
-sa(dp59
+S'negative'
+p59
+sa(dp60
 g6
 VSir, do you know what average SMT time was this week?
-p60
+p61
 sg8
 g13
 sg10
 VLOU
-p61
+p62
 sg12
 g13
-sa(dp62
+sa(dp63
 g6
 VBram clocks this. He rounds up because he's got money on it.
-p63
+p64
 sg8
 g9
 sg10
 VSANTOS
-p64
+p65
 sg12
-g13
-sa(dp65
+g9
+sa(dp66
 g6
 V92 minutes.
-p66
+p67
 sg8
 g13
 sg10
 VLOU
-p67
+p68
 sg12
 g13
-sa(dp68
+sa(dp69
 g6
 VThat's a lie.
-p69
-sg8
-S'negative'
 p70
+sg8
+g59
 sg10
 VSANTOS
 p71
@@ -262,7 +262,7 @@ g6
 V92 minutes late?!
 p79
 sg8
-g70
+g59
 sg10
 VHELEN
 p80
@@ -300,7 +300,7 @@ sg10
 VSANTOS
 p89
 sg12
-g13
+g59
 sa(dp90
 g6
 VWednesday, 12:55. Six extra press questions after we called it.
@@ -311,7 +311,7 @@ sg10
 VLOU
 p92
 sg12
-g13
+g9
 sa(dp93
 g6
 VIt was a conversation.
@@ -333,13 +333,13 @@ sg10
 VLOU
 p98
 sg12
-g13
+g9
 sa(dp99
 g6
 VAnd initial. At the bottom.
 p100
 sg8
-g70
+g59
 sg10
 VEDIE
 p101
@@ -421,7 +421,7 @@ sg10
 VHELEN
 p122
 sg12
-g13
+g59
 sa(dp123
 g6
 VWe cancelled it for the debate, which was also a personal addition of yours to the schedule.
@@ -515,7 +515,7 @@ g6
 VMight not be a bad time to be in a black church, show 'em we feel their pain. See if we can't get some traction in the community.
 p148
 sg8
-g70
+g59
 sg10
 VLOU
 p149
@@ -586,7 +586,7 @@ sg10
 VBRAM
 p167
 sg12
-g13
+g59
 sa(dp168
 g6
 VA little black/brown friction in the 'hood, if you haven't noticed.
@@ -608,7 +608,7 @@ sg10
 VBRAM
 p173
 sg12
-g13
+g59
 sa(dp174
 g6
 VYeah, you're a Venezuelan from Princeton.
@@ -630,7 +630,7 @@ sg10
 VSANTOS
 p179
 sg12
-g70
+g9
 sa(dp180
 g6
 VI'm sorry, Lou. Gerard in Scheduling was considering a bigger change. I think he may be right.
@@ -680,7 +680,7 @@ g6
 VNo, this is why we run late: because you take time listening to people like Gerard from Scheduling.
 p193
 sg8
-g70
+g59
 sg10
 VLOU
 p194
@@ -713,12 +713,12 @@ g6
 VYeah, that's what I was afraid of.
 p202
 sg8
-g70
+g59
 sg10
 VSANTOS
 p203
 sg12
-g13
+g59
 sa(dp204
 g6
 VGet me Josh Lyman at HQ, Annabeth Schott on the McGarry plane, and Gerard from Scheduling.
@@ -795,7 +795,7 @@ sg10
 VWILL
 p224
 sg12
-g13
+g59
 sa(dp225
 g6
 VThe social secretary should be doing it but Ellie doesn't know her and she already feels the whole things not so much a wedding as an act of Congress.
@@ -834,7 +834,7 @@ g6
 VIt's the single entendres I worry about.
 p235
 sg8
-g70
+g59
 sg10
 VWILL
 p236
@@ -1015,7 +1015,7 @@ sg10
 VMARGARET
 p284
 sg12
-g13
+g59
 sa(dp285
 g6
 VLook at you! Congratulations!
@@ -1048,7 +1048,7 @@ sg10
 VC.J.
 p293
 sg12
-g13
+g9
 sa(dp294
 g6
 VHave you met Vic? C.J. Cregg.
@@ -1059,7 +1059,7 @@ sg10
 VELLIE
 p296
 sg12
-g9
+g13
 sa(dp297
 g6
 VIt's a pleasure.
@@ -1098,12 +1098,12 @@ g6
 VPlease, not at all. It's bad enough you have to coordinate with three branches of government. Anything I can do to help. Sit, please.
 p307
 sg8
-g70
+g59
 sg10
 VC.J.
 p308
 sg12
-g13
+g59
 sa(dp309
 g6
 VExcuse me.
@@ -1114,7 +1114,7 @@ sg10
 VMARGARET
 p311
 sg12
-g13
+g59
 sa(dp312
 g6
 VWe're not up to trout yet.
@@ -1125,7 +1125,7 @@ sg10
 VC.J.
 p314
 sg12
-g13
+g59
 sa(dp315
 g6
 VKate Harper needs you.
@@ -1136,7 +1136,7 @@ sg10
 VMARGARET
 p317
 sg12
-g9
+g13
 sa(dp318
 g6
 VNo, she doesn't. She doesn't know I'm here.
@@ -1147,7 +1147,7 @@ sg10
 VC.J.
 p320
 sg12
-g13
+g59
 sa(dp321
 g6
 VImagine her delight when she learned.
@@ -1180,7 +1180,7 @@ sg10
 VMARGARET
 p329
 sg12
-g13
+g59
 sa(dp330
 g6
 VSurrogates on the Sunday shows.
@@ -1213,7 +1213,7 @@ sg10
 VRONNA
 p338
 sg12
-g13
+g9
 sa(dp339
 g6
 VDo they have talking points or are they just going to flash a big V-For-Victory?
@@ -1257,7 +1257,7 @@ sg10
 VRONNA
 p350
 sg12
-g13
+g9
 sa(dp351
 g6
 VWhat do we know?
@@ -1301,18 +1301,18 @@ sg10
 VLESTER
 p362
 sg12
-g13
+g9
 sa(dp363
 g6
 VNo way the guy could have known the gun was fake?
 p364
 sg8
-g70
+g59
 sg10
 VJOSH
 p365
 sg12
-g13
+g59
 sa(dp366
 g6
 VProbably not, but local news has a tape of a bystander claiming the kid was putting his hands in the air to surrender when the officer fired.
@@ -1334,7 +1334,7 @@ sg10
 VJOSH
 p371
 sg12
-g13
+g9
 sa(dp372
 g6
 VIt doesn't matter, it's on the news. People are going to assume it's true.
@@ -1367,7 +1367,7 @@ sg10
 VLESTER
 p380
 sg12
-g70
+g13
 sa(dp381
 g6
 VWhat do you think?
@@ -1384,7 +1384,7 @@ g6
 VIt was going to be a tough crowd, even before this happened. The black community's wondering how we got a Latino nominee before we got an African-American nominee. There's always been tension between the two communities and now a cop named Martinez guns down one of their kids?
 p385
 sg8
-g70
+g59
 sg10
 VLESTER
 p386
@@ -1428,12 +1428,12 @@ g6
 VI had a hunch.
 p397
 sg8
-g70
+g59
 sg10
 VLESTER
 p398
 sg12
-g13
+g59
 sa(dp399
 g6
 VI should have sent you on the L.A. trip in the first place. Why didn't I think of that?
@@ -1466,7 +1466,7 @@ sg10
 VJOSH
 p407
 sg12
-g13
+g9
 sa(dp408
 g6
 VI'm doing Ellie Bartlet a favor. I'm not really here.
@@ -1477,7 +1477,7 @@ sg10
 VC.J.
 p410
 sg12
-g70
+g59
 sa(dp411
 g6
 VNSC just got a call. There's a China/Russia/Kazakhstan thing happening.
@@ -1488,7 +1488,7 @@ sg10
 VKATE
 p413
 sg12
-g13
+g59
 sa(dp414
 g6
 VOkay.
@@ -1549,7 +1549,7 @@ g6
 VTarimov just booted a Chinese government delegation out of the country. He's...
 p430
 sg8
-g70
+g59
 sg10
 VKATE
 p431
@@ -1587,7 +1587,7 @@ sg10
 VC.J.
 p440
 sg12
-g13
+g59
 sa(dp441
 g6
 VTarimov.
@@ -1609,7 +1609,7 @@ sg10
 VC.J.
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VYes.
@@ -1653,7 +1653,7 @@ sg10
 VC.J.
 p458
 sg12
-g13
+g9
 sa(dp459
 g6
 VExceptionally.
@@ -1686,7 +1686,7 @@ sg10
 VKATE
 p467
 sg12
-g13
+g59
 sa(dp468
 g6
 VYou golf?
@@ -1719,7 +1719,7 @@ sg10
 VRONNA
 p476
 sg12
-g13
+g9
 sa(dp477
 g6
 VMorning.
@@ -1763,7 +1763,7 @@ sg10
 VJOSH
 p488
 sg12
-g9
+g13
 sa(dp489
 g6
 VWe could push it to next week.
@@ -1796,29 +1796,29 @@ sg10
 VSANTOS
 p497
 sg12
-g13
+g59
 sa(dp498
 g6
 VSir, I don't think you want to be booed by angry churchgoers.
 p499
 sg8
-g70
+g59
 sg10
 VLOU
 p500
 sg12
-g13
+g59
 sa(dp501
 g6
 VThey're not going to boo me.
 p502
 sg8
-g70
+g59
 sg10
 VSANTOS
 p503
 sg12
-g13
+g59
 sa(dp504
 g6
 VHow about we go to the house instead? Pay our respects to the mother; less booing.
@@ -1835,7 +1835,7 @@ g6
 VIt'll look like we're exploiting the grief of a family in mourning.
 p508
 sg8
-g70
+g59
 sg10
 VSANTOS
 p509
@@ -1851,13 +1851,13 @@ sg10
 VSANTOS
 p512
 sg12
-g13
+g9
 sa(dp513
 g6
 VYeah, but if he exploits and we don't, we look callous.
 p514
 sg8
-g70
+g59
 sg10
 VDONNA
 p515
@@ -1901,7 +1901,7 @@ g6
 VSir, the foreign policy team's waiting.
 p526
 sg8
-g70
+g59
 sg10
 VBRAM
 p527
@@ -1950,7 +1950,7 @@ sg10
 VSANTOS
 p539
 sg12
-g13
+g9
 sa(dp540
 g6
 VI was summoned.
@@ -1961,7 +1961,7 @@ sg10
 VWILL
 p542
 sg12
-g13
+g59
 sa(dp543
 g6
 VYou were. Do me a favor and talk to Ellie about whatever problems you're having with her music.
@@ -2005,7 +2005,7 @@ sg10
 VWILL
 p554
 sg12
-g13
+g59
 sa(dp555
 g6
 VI was golfing.
@@ -2016,7 +2016,7 @@ sg10
 VKATE
 p557
 sg12
-g13
+g59
 sa(dp558
 g6
 VMini.
@@ -2033,7 +2033,7 @@ g6
 VI've mastered the windmill shot, with the bridge.
 p562
 sg8
-g70
+g59
 sg10
 VWILL
 p563
@@ -2082,7 +2082,7 @@ sg10
 VWILL
 p575
 sg12
-g13
+g59
 sa(dp576
 g6
 VWhat?
@@ -2115,7 +2115,7 @@ sg10
 VWILL
 p584
 sg12
-g13
+g9
 sa(dp585
 g6
 VSchroedinger's cats. It was a band I played with in grad school.
@@ -2159,7 +2159,7 @@ sg10
 VWILL
 p596
 sg12
-g13
+g9
 sa(dp597
 g6
 VIt's better than it sounds.
@@ -2187,7 +2187,7 @@ g6
 VIs there a problem?
 p604
 sg8
-g70
+g59
 sg10
 VELLIE
 p605
@@ -2236,7 +2236,7 @@ sg10
 VC.J.
 p617
 sg12
-g13
+g59
 sa(dp618
 g6
 VHe suspended them weeks ago and has made no move to reschedule. They guy's a Russian puppet. It was looking like the Chinese were getting there foot in the door so he halts negotiations and boots the Chinese out of the country.
@@ -2264,7 +2264,7 @@ g6
 VThey're their most promising one. The Kazakh people, meanwhile, are rioting in the streets because they've just been screwed out of an election. China's looking at major instability on their border, not to mention the 300,000 ethnic Chinese living in Kazakhstan who aren't looking particularly safe, all because the Russians want the oil and are willing to fight for it. Best-case scenario, I'm ruining your Saturday. Worst-case scenario, two nuclear powers are positioning themselves to actively engage in an armed conflict over oil.
 p625
 sg8
-g70
+g59
 sg10
 VKATE
 p626
@@ -2319,7 +2319,7 @@ g6
 V35:02. Send a copy to Josie at CNN and ask her to please stop running that stupid line about the EPA. Enough, already.
 p640
 sg8
-g70
+g59
 sg10
 VLOU
 p641
@@ -2390,7 +2390,7 @@ sg10
 VDONNA
 p659
 sg12
-g13
+g59
 sa(dp660
 g6
 VThey like you?
@@ -2401,7 +2401,7 @@ sg10
 VLESTER
 p662
 sg12
-g9
+g59
 sa(dp663
 g6
 VI'm very personable. It goes a long way.
@@ -2412,7 +2412,7 @@ sg10
 VLOU
 p665
 sg12
-g9
+g59
 sa(dp666
 g6
 VThe mayor's on his way to Ronnie Burke's house.
@@ -2434,7 +2434,7 @@ sg10
 VLOU
 p671
 sg12
-g13
+g59
 sa(dp672
 g6
 VHe's going there now. His people want to know if we want to coordinate press statements.
@@ -2522,7 +2522,7 @@ sg10
 VLOU
 p695
 sg12
-g13
+g59
 sa(dp696
 g6
 VThe Congressman may have to get over it. We need to cover as many bases as we can.
@@ -2599,18 +2599,18 @@ sg10
 VLESTER
 p716
 sg12
-g13
+g59
 sa(dp717
 g6
 VOnce, twice, three, shoot. Damn.
 p718
 sg8
-g70
+g59
 sg10
 VLOU
 p719
 sg12
-g13
+g9
 sa(dp720
 g6
 VHey, I covered the music. No offensive lyrics by Schroedinger's Cats. I am sending the happy couple back in here.
@@ -2687,7 +2687,7 @@ sg10
 VWILL
 p740
 sg12
-g13
+g59
 sa(dp741
 g6
 VMargaret laid the whole thing out. Half hour, tops.
@@ -2764,7 +2764,7 @@ sg10
 VLOU
 p761
 sg12
-g13
+g9
 sa(dp762
 g6
 VI think we need reinforcements.
@@ -2797,7 +2797,7 @@ sg10
 VLESTER
 p770
 sg12
-g13
+g59
 sa(dp771
 g6
 VNo.
@@ -2814,12 +2814,12 @@ g6
 VWe need 90% of black voters. We've got 81%. 12% of African-Americans are undecided in this race. The black vote's never had undecideds, but they're willing to hang back and weigh their options because they don't hate Vinick and they're not sure they like the whole idea of Santos. This is not a small problem.
 p775
 sg8
-g70
+g59
 sg10
 VLESTER
 p776
 sg12
-g13
+g59
 sa(dp777
 g6
 VGet me Josh, please.
@@ -2830,7 +2830,7 @@ sg10
 VLOU
 p779
 sg12
-g13
+g59
 sa(dp780
 g6
 VSorry, hang on. Uh... yeah, this is pretty straightforward. Okay. C.J.'s going to be back in a few minutes, she just thought we could get the ball rolling. Everybody's dream scenario: me planning your wedding. Okay, anything I should know before we get started?
@@ -2863,7 +2863,7 @@ sg10
 VWILL
 p788
 sg12
-g13
+g59
 sa(dp789
 g6
 VI know my father needs to invite a lot of people but I'm not crazy about the spotlight and Vic's a little agoraphobic.
@@ -2885,7 +2885,7 @@ sg10
 VVIC
 p794
 sg12
-g13
+g59
 sa(dp795
 g6
 VI was exaggerating.
@@ -2896,7 +2896,7 @@ sg10
 VELLIE
 p797
 sg12
-g13
+g59
 sa(dp798
 g6
 VIt's the occasional shortness of breath.
@@ -2918,7 +2918,7 @@ sg10
 VELLIE
 p803
 sg12
-g13
+g59
 sa(dp804
 g6
 VSometimes I pass out.
@@ -2946,7 +2946,7 @@ g6
 VA copy for you and you and me. Oh, sorry. There's a second page.
 p811
 sg8
-g70
+g59
 sg10
 VWILL
 p812
@@ -2962,7 +2962,7 @@ sg10
 VWILL
 p815
 sg12
-g13
+g9
 sa(dp816
 g6
 VThis has got to be 1000 names!
@@ -2973,7 +2973,7 @@ sg10
 VVIC
 p818
 sg12
-g13
+g9
 sa(dp819
 g6
 VShall we start with the A's?
@@ -2990,7 +2990,7 @@ g6
 VThe Russians should be putting pressure on Issetov to resume the talks with the Chinese.
 p823
 sg8
-g70
+g59
 sg10
 VBARROW
 p824
@@ -3023,7 +3023,7 @@ g6
 VIssetov is dead, we want them putting pressure on Tarimov.
 p832
 sg8
-g70
+g59
 sg10
 VC.J.
 p833
@@ -3039,7 +3039,7 @@ sg10
 VBARROW
 p836
 sg12
-g13
+g9
 sa(dp837
 g6
 VThey don't want to.
@@ -3050,7 +3050,7 @@ sg10
 VC.J.
 p839
 sg12
-g13
+g59
 sa(dp840
 g6
 VWhat do they think at the embassy?
@@ -3100,12 +3100,12 @@ g6
 VIt's a big, fat lie.
 p853
 sg8
-g70
+g59
 sg10
 VKATE
 p854
 sg12
-g13
+g59
 sa(dp855
 g6
 VOh, dear, I should have told him that. All right, you two put a call in to Camp David, let the President where we are. I'll see what we can do with China. Margaret!
@@ -3149,7 +3149,7 @@ sg10
 VWILL
 p866
 sg12
-g13
+g9
 sa(dp867
 g6
 VFine.
@@ -3171,7 +3171,7 @@ sg10
 VWILL
 p872
 sg12
-g13
+g9
 sa(dp873
 g6
 VMy father doesn't even like him.
@@ -3248,7 +3248,7 @@ sg10
 VC.J.
 p893
 sg12
-g13
+g9
 sa(dp894
 g6
 VJosh Lyman's here.
@@ -3270,7 +3270,7 @@ sg10
 VC.J.
 p899
 sg12
-g13
+g9
 sa(dp900
 g6
 VAren't you supposed to be running around the country with some politician?
@@ -3303,7 +3303,7 @@ sg10
 VC.J.
 p908
 sg12
-g13
+g9
 sa(dp909
 g6
 VCan we sit?
@@ -3325,7 +3325,7 @@ sg10
 VC.J.
 p914
 sg12
-g13
+g59
 sa(dp915
 g6
 VWhat are the chances I can get the President at a Santos appearance tomorrow? I know its short notice.
@@ -3353,12 +3353,12 @@ g6
 VIf I wasn't desperate...
 p922
 sg8
-g70
+g59
 sg10
 VJOSH
 p923
 sg12
-g13
+g59
 sa(dp924
 g6
 VSecret Service needs a week to advance a trip like that.
@@ -3397,7 +3397,7 @@ g6
 VYou hear about this kid, Ronnie Burke, got shot by a cop? It's a perfect storm.
 p934
 sg8
-g70
+g59
 sg10
 VJOSH
 p935
@@ -3424,7 +3424,7 @@ sg10
 VJOSH
 p941
 sg12
-g13
+g9
 sa(dp942
 g6
 VI'll take it to the President, see what he thinks.
@@ -3457,7 +3457,7 @@ sg10
 VC.J.
 p950
 sg12
-g13
+g59
 sa(dp951
 g6
 VHey, have you talked to Toby?
@@ -3523,7 +3523,7 @@ sg10
 VJOSH
 p968
 sg12
-g13
+g59
 sa(dp969
 g6
 VMr. and Mrs. Max Zelikovsky. He is the Chairman of the AFL-CIO, helping us out on a very testy negotiation with the steel workers.
@@ -3556,7 +3556,7 @@ sg10
 VWILL
 p977
 sg12
-g13
+g9
 sa(dp978
 g6
 VNo! No, no! This wedding is not the solution to every political problem the White House has. That's not its purpose. We have a list of 742 people. We are not inviting the Zelikovskys. They are a bridge too far.
@@ -3600,7 +3600,7 @@ sg10
 VWILL
 p989
 sg12
-g13
+g9
 sa(dp990
 g6
 VShe's my maid of honor. She's flying in from London for the wedding.
@@ -3633,7 +3633,7 @@ sg10
 VEDIE
 p998
 sg12
-g13
+g9
 sa(dp999
 g6
 VI've heard that before.
@@ -3650,7 +3650,7 @@ g6
 VNo, he can't mess around on this one if we're going to make it to California today.
 p1003
 sg8
-g70
+g59
 sg10
 VEDIE
 p1004
@@ -3699,7 +3699,7 @@ sg10
 VDONNA
 p1016
 sg12
-g13
+g9
 sa(dp1017
 g6
 VWhy do I have three?
@@ -3710,13 +3710,13 @@ sg10
 VEDIE
 p1019
 sg12
-g13
+g59
 sa(dp1020
 g6
 VOne where he denounces the cop, one where he doesn't denounce the cop, and one where he loves everybody.
 p1021
 sg8
-g70
+g59
 sg10
 VLOU
 p1022
@@ -3760,7 +3760,7 @@ g6
 VFor shooting at children, I think is the part they have their knickers in a twist about.
 p1033
 sg8
-g70
+g59
 sg10
 VLESTER
 p1034
@@ -3782,23 +3782,23 @@ g6
 VAnd a stolen car. I'm just telling you what I think they'll want to hear.
 p1039
 sg8
-g70
+g59
 sg10
 VLESTER
 p1040
 sg12
-g13
+g59
 sa(dp1041
 g6
 VHe can't denounce the cop. We don't even know what happened yet. He could prejudice the whole investigation.
 p1042
 sg8
-g70
+g59
 sg10
 VDONNA
 p1043
 sg12
-g13
+g59
 sa(dp1044
 g6
 VWell, the Latino community is not going to like it if he jumps all over the cop, not to mention the law and order vote. They're definitely looking for us to support the cop.
@@ -3815,12 +3815,12 @@ g6
 VAnd without the law and order vote we lose...?
 p1048
 sg8
-g70
+g59
 sg10
 VLOU
 p1049
 sg12
-g13
+g59
 sa(dp1050
 g6
 VAll white people.
@@ -3892,12 +3892,12 @@ g6
 VThat's just another way of saying Blacks hate Latinos, Latinos hate Blacks.
 p1069
 sg8
-g70
+g59
 sg10
 VLESTER
 p1070
 sg12
-g13
+g59
 sa(dp1071
 g6
 VWhich is kind of true, but shouldn't be said.
@@ -3930,7 +3930,7 @@ sg10
 VEDIE
 p1079
 sg12
-g13
+g9
 sa(dp1080
 g6
 VPerhaps some of the folks are a little riled about the coming in and taking of the jobs.
@@ -4002,12 +4002,12 @@ g6
 VEdie and Lester are fighting about avocados. Aside from that, not much.
 p1099
 sg8
-g70
+g59
 sg10
 VLOU
 p1100
 sg12
-g13
+g59
 sa(dp1101
 g6
 VYou know, there's a psalm that I think would be appropriate. It will speak to the moment more than any platitudes that we can string together. I want to make sure we get some time tomorrow before that rally in Sacramento to speak to the governor.
@@ -4029,7 +4029,7 @@ sg10
 VLOU
 p1106
 sg12
-g13
+g9
 sa(dp1107
 g6
 VYeah.
@@ -4073,7 +4073,7 @@ sg10
 VSANTOS
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VYou going to ask him now about the dead kid's house?
@@ -4095,7 +4095,7 @@ sg10
 VJOSH
 p1124
 sg12
-g13
+g9
 sa(dp1125
 g6
 VIt's me.
@@ -4106,7 +4106,7 @@ sg10
 VJOSH
 p1127
 sg12
-g13
+g59
 sa(dp1128
 g6
 VLet me in the door.
@@ -4161,7 +4161,7 @@ sg10
 VJOSH
 p1142
 sg12
-g13
+g59
 sa(dp1143
 g6
 VI had some coffee, but I seem to no longer have any coffee.
@@ -4172,7 +4172,7 @@ sg10
 VTOBY
 p1145
 sg12
-g13
+g59
 sa(dp1146
 g6
 VI'm fine.
@@ -4183,7 +4183,7 @@ sg10
 VJOSH
 p1148
 sg12
-g13
+g59
 sa(dp1149
 g6
 VWe can go to the corner. There's a coffee shop. Oh... right. That won't work. What if someone saw?
@@ -4205,7 +4205,7 @@ sg10
 VJOSH
 p1154
 sg12
-g13
+g59
 sa(dp1155
 g6
 VKind of a stupid move anyway, you coming here. Some reporter could have followed you.
@@ -4227,7 +4227,7 @@ sg10
 VJOSH
 p1160
 sg12
-g13
+g59
 sa(dp1161
 g6
 VThey're pretty sly.
@@ -4238,7 +4238,7 @@ sg10
 VTOBY
 p1163
 sg12
-g13
+g59
 sa(dp1164
 g6
 VI checked.
@@ -4249,7 +4249,7 @@ sg10
 VJOSH
 p1166
 sg12
-g13
+g59
 sa(dp1167
 g6
 VYou checked? That's great.
@@ -4271,7 +4271,7 @@ sg10
 VJOSH
 p1172
 sg12
-g13
+g9
 sa(dp1173
 g6
 VIndicted. You?
@@ -4288,7 +4288,7 @@ g6
 VI meant to call, but it's been insane.
 p1177
 sg8
-g70
+g59
 sg10
 VJOSH
 p1178
@@ -4315,7 +4315,7 @@ sg10
 VJOSH
 p1184
 sg12
-g13
+g9
 sa(dp1185
 g6
 VKind of a rush with the prep, looked like.
@@ -4332,12 +4332,12 @@ g6
 VNot really. I mean, it was quick, but he was ready. We got a four-point bump off that thing. He kicked ass.
 p1189
 sg8
-g70
+g59
 sg10
 VJOSH
 p1190
 sg12
-g13
+g59
 sa(dp1191
 g6
 VGood.
@@ -4348,18 +4348,18 @@ sg10
 VTOBY
 p1193
 sg12
-g13
+g9
 sa(dp1194
 g6
 VSo, jail?
 p1195
 sg8
-g70
+g59
 sg10
 VJOSH
 p1196
 sg12
-g13
+g59
 sa(dp1197
 g6
 VSorry.
@@ -4436,13 +4436,13 @@ sg10
 VTOBY
 p1217
 sg12
-g13
+g59
 sa(dp1218
 g6
 VYou'll be less radioactive in a few months.
 p1219
 sg8
-g70
+g59
 sg10
 VJOSH
 p1220
@@ -4480,7 +4480,7 @@ sg10
 VKATE
 p1229
 sg12
-g13
+g9
 sa(dp1230
 g6
 VGreat.
@@ -4491,7 +4491,7 @@ sg10
 VC.J.
 p1232
 sg12
-g13
+g9
 sa(dp1233
 g6
 VWe've got Beijing. Translator's patched in.
@@ -4535,7 +4535,7 @@ sg10
 VC.J.
 p1244
 sg12
-g13
+g59
 sa(dp1245
 g6
 VMr. Liu, President... President Bart... If I could finish... my...
@@ -4546,7 +4546,7 @@ sg10
 VC.J.
 p1247
 sg12
-g13
+g59
 sa(dp1248
 g6
 VFat lot of good this is going to do.
@@ -4568,7 +4568,7 @@ sg10
 VJOSH
 p1253
 sg12
-g9
+g13
 sa(dp1254
 g6
 VI have no idea what I was saying.
@@ -4579,7 +4579,7 @@ sg10
 VTOBY
 p1256
 sg12
-g13
+g59
 sa(dp1257
 g6
 VYour kids, how they are.
@@ -4634,7 +4634,7 @@ sg10
 VJOSH
 p1271
 sg12
-g13
+g9
 sa(dp1272
 g6
 VHello.
@@ -4651,12 +4651,12 @@ g6
 VI think I just screwed up.
 p1276
 sg8
-g70
+g59
 sg10
 VLOU
 p1277
 sg12
-g70
+g59
 sa(dp1278
 g6
 VI can't imagine.
@@ -4667,7 +4667,7 @@ sg10
 VJOSH
 p1280
 sg12
-g13
+g59
 sa(dp1281
 g6
 VThat's quite a mouthful.
@@ -4689,7 +4689,7 @@ sg10
 VLOU
 p1286
 sg12
-g13
+g9
 sa(dp1287
 g6
 VAre you sure we need it?
@@ -4722,7 +4722,7 @@ sg10
 VJOSH
 p1295
 sg12
-g13
+g9
 sa(dp1296
 g6
 VThe cop thing?
@@ -4761,7 +4761,7 @@ g6
 VSo the black vote, which was already not in the bag...
 p1306
 sg8
-g70
+g59
 sg10
 VJOSH
 p1307
@@ -4810,7 +4810,7 @@ sg10
 VJOSH
 p1319
 sg12
-g13
+g59
 sa(dp1320
 g6
 VGood luck with that.
@@ -4821,7 +4821,7 @@ sg10
 VTOBY
 p1322
 sg12
-g13
+g9
 sa(dp1323
 g6
 VI think she's going to work it out.
@@ -4915,12 +4915,12 @@ g6
 VWhat the hell is that supposed to mean?
 p1348
 sg8
-g70
+g59
 sg10
 VJOSH
 p1349
 sg12
-g13
+g59
 sa(dp1350
 g6
 VIt means it's unlikely he gets on a red eye.
@@ -4942,7 +4942,7 @@ sg10
 VJOSH
 p1355
 sg12
-g13
+g59
 sa(dp1356
 g6
 VThank you.
@@ -4975,7 +4975,7 @@ sg10
 VTOBY
 p1364
 sg12
-g13
+g59
 sa(dp1365
 g6
 VYeah, well, I don't know either. Nostalgia? It's been a pleasure. I'll see you later.
@@ -4986,7 +4986,7 @@ sg10
 VJOSH
 p1367
 sg12
-g13
+g59
 sa(dp1368
 g6
 VNo you won't. You won't be coming back. At least have the integrity to say that out loud.
@@ -5030,7 +5030,7 @@ sg10
 VBARROW
 p1379
 sg12
-g13
+g59
 sa(dp1380
 g6
 VI did not get a word in.
@@ -5052,7 +5052,7 @@ sg10
 VKATE
 p1385
 sg12
-g70
+g59
 sa(dp1386
 g6
 VI think we're going to make more headway with the Russians.
@@ -5069,7 +5069,7 @@ g6
 VExcuse me. Ellie's in tears. I've ruined her wedding. Someone else needs to take over.
 p1390
 sg8
-g70
+g59
 sg10
 VWILL
 p1391
@@ -5091,7 +5091,7 @@ g6
 VYou need to step in. Sorry about Central Asia. It's been a disaster for years. You're not really going to fix it today.
 p1396
 sg8
-g70
+g59
 sg10
 VWILL
 p1397
@@ -5107,7 +5107,7 @@ sg10
 VC.J.
 p1400
 sg12
-g13
+g9
 sa(dp1401
 g6
 VShirley stopped by, the social secretary. You need to talk to her about the dress.
@@ -5129,7 +5129,7 @@ sg10
 VWILL
 p1406
 sg12
-g13
+g59
 sa(dp1407
 g6
 VApparently Ellie bought a dress all on her own, which is sweet, but it's got applique flowers on it that Shirley's worried about.
@@ -5157,7 +5157,7 @@ g6
 VThere's some concern that they may have been hand-stitched in Saipan by little slave children.
 p1414
 sg8
-g70
+g59
 sg10
 VMARGARET
 p1415
@@ -5184,7 +5184,7 @@ sg10
 VMARGARET
 p1421
 sg12
-g13
+g9
 sa(dp1422
 g6
 VJosh called again.
@@ -5228,7 +5228,7 @@ sg10
 VBARROW
 p1433
 sg12
-g13
+g9
 sa(dp1434
 g6
 VExcuse me?
@@ -5239,7 +5239,7 @@ sg10
 VC.J.
 p1436
 sg12
-g13
+g59
 sa(dp1437
 g6
 VSwordfish, tuna, soft cheeses... am I the only one in the room with kids?
@@ -5272,7 +5272,7 @@ sg10
 VWILL
 p1445
 sg12
-g13
+g59
 sa(dp1446
 g6
 VIn the service of your country, son.
@@ -5327,7 +5327,7 @@ sg10
 VJOSH
 p1460
 sg12
-g9
+g59
 sa(dp1461
 g6
 VNo, that's okay. I know how busy she is.
@@ -5338,7 +5338,7 @@ sg10
 VJOSH
 p1463
 sg12
-g13
+g59
 sa(dp1464
 g6
 VNo, I get it.
@@ -5399,12 +5399,12 @@ g6
 VMrs. Burke. I'm so sorry for your loss.
 p1480
 sg8
-g70
+g59
 sg10
 VSANTOS
 p1481
 sg12
-g13
+g59
 sa(dp1482
 g6
 VI'm sure this is all terribly overwhelming. I can't even begin to imagine how you're feeling today.
@@ -5426,7 +5426,7 @@ sg10
 VBURKE
 p1487
 sg12
-g13
+g9
 sa(dp1488
 g6
 VNo, please. Don't trouble yourself.
@@ -5459,7 +5459,7 @@ sg10
 VSANTOS
 p1496
 sg12
-g13
+g9
 sa(dp1497
 g6
 VExcuse me.
@@ -5470,7 +5470,7 @@ sg10
 VSANTOS
 p1499
 sg12
-g13
+g59
 sa(dp1500
 g6
 VHer sister is at the end of the block!
@@ -5492,7 +5492,7 @@ sg10
 VAGENT
 p1505
 sg12
-g13
+g9
 sa(dp1506
 g6
 VI'm Matthew Santos. I'm so sorry for your...
@@ -5520,7 +5520,7 @@ g6
 VSir, I just wanted to let you and your family know how very sorry I am for your loss.
 p1513
 sg8
-g70
+g59
 sg10
 VSANTOS
 p1514
@@ -5547,7 +5547,7 @@ sg10
 VAGENT
 p1520
 sg12
-g13
+g9
 sa(dp1521
 g6
 VAll right, we're done here.
@@ -5569,7 +5569,7 @@ sg10
 VSANTOS
 p1526
 sg12
-g13
+g59
 sa(dp1527
 g6
 VCongressman, we really need to get going. Thank you, Mrs. Burke.
@@ -5602,7 +5602,7 @@ sg10
 VLOU
 p1535
 sg12
-g13
+g9
 sa(dp1536
 g6
 VIs that the speech?
@@ -5635,18 +5635,18 @@ sg10
 VSANTOS
 p1544
 sg12
-g9
+g13
 sa(dp1545
 g6
 VYou know, it doesn't play that badly on TV.
 p1546
 sg8
-g70
+g59
 sg10
 VHELEN
 p1547
 sg12
-g13
+g59
 sa(dp1548
 g6
 VWhat's that?
@@ -5679,7 +5679,7 @@ sg10
 VHELEN
 p1556
 sg12
-g13
+g9
 sa(dp1557
 g6
 VYeah.
@@ -5712,7 +5712,7 @@ sg10
 VSANTOS
 p1565
 sg12
-g13
+g59
 sa(dp1566
 g6
 VYou know you slide off-key on the chorus.
@@ -5745,7 +5745,7 @@ sg10
 VHELEN
 p1574
 sg12
-g13
+g59
 sa(dp1575
 g6
 VWell, the staff doesn't either, so maybe you should get together and talk about it.
@@ -5811,13 +5811,13 @@ sg10
 VHELEN
 p1592
 sg12
-g13
+g9
 sa(dp1593
 g6
 VOf course, they do! They want me to make sense out of all of this. And you know what, Helen, I've got nothing. Why the hell do they shoot a kid who is trying to surrender?! There's some guy on the scene that says the kid was trying to put his hands up in the air. The cop couldn't have waited, like, a half a second more before he fired? And who walks around South Central with a plastic M-16?! Where did this kid think he was living, Martha's Vineyard? Nobody figured out that when you live in the ghetto, you carry around something else if you don't want to get your ass blown away? That's what I've got right now. You think that's going to make anyone feel better?
 p1594
 sg8
-g70
+g59
 sg10
 VSANTOS
 p1595
@@ -5844,7 +5844,7 @@ sg10
 VC.J.
 p1601
 sg12
-g13
+g9
 sa(dp1602
 g6
 VSorry, Ted.
@@ -5855,7 +5855,7 @@ sg10
 VC.J.
 p1604
 sg12
-g13
+g9
 sa(dp1605
 g6
 VWhere are we?
@@ -5888,7 +5888,7 @@ sg10
 VC.J.
 p1613
 sg12
-g13
+g59
 sa(dp1614
 g6
 VIt's possible. It could be training drills, but it's unlikely.
@@ -5921,7 +5921,7 @@ sg10
 VJOSH
 p1622
 sg12
-g13
+g59
 sa(dp1623
 g6
 VI've given a lot of thought to the heartwarming insight you shared with me about how the President thinks Santos is a loser and I think you're full of it.
@@ -5943,7 +5943,7 @@ sg10
 VTOBY
 p1628
 sg12
-g13
+g59
 sa(dp1629
 g6
 VThis isn't about the President doesn't think Santos can win, it's about you don't think he can win.
@@ -5998,7 +5998,7 @@ sg10
 VJOSH
 p1643
 sg12
-g13
+g59
 sa(dp1644
 g6
 VHe's not Presidential material.
@@ -6009,7 +6009,7 @@ sg10
 VTOBY
 p1646
 sg12
-g13
+g59
 sa(dp1647
 g6
 VWhy?
@@ -6042,7 +6042,7 @@ sg10
 VJOSH
 p1655
 sg12
-g13
+g9
 sa(dp1656
 g6
 VThe man in that job shouldn't have to be presented with anything! It's for someone who grabs it and holds on to it, for someone who thinks the gods have conspired to bring him to this place, that destiny demands of him this service! If you don't have that kind of drive, that hubris, how in the hell are you going to make the kind of decisions that stump every other person in this country? How in the hell are you going to hold that kind of power in your hand?!
@@ -6070,7 +6070,7 @@ g6
 VYou don't know that he is. Is he? Look me in the eye and tell me that you know, without a shadow of a doubt you know.
 p1663
 sg8
-g70
+g59
 sg10
 VTOBY
 p1664
@@ -6207,7 +6207,7 @@ sg10
 VLOU
 p1700
 sg12
-g13
+g59
 sa(dp1701
 g6
 VShort notice.
@@ -6284,13 +6284,13 @@ sg10
 VLEO
 p1721
 sg12
-g70
+g59
 sa(dp1722
 g6
 VWe can hold the hand of the Lord and walk through the darkness!
 p1723
 sg8
-g70
+g59
 sg10
 VPASTOR
 p1724
@@ -6312,7 +6312,7 @@ g6
 VThrough the pain!
 p1729
 sg8
-g70
+g59
 sg10
 VPASTOR
 p1730
@@ -6367,7 +6367,7 @@ g6
 VThis is not the place to show up late.
 p1744
 sg8
-g70
+g59
 sg10
 VLESTER
 p1745
@@ -6389,12 +6389,12 @@ g6
 VHe's late.
 p1750
 sg8
-g70
+g59
 sg10
 VLESTER
 p1751
 sg12
-g13
+g59
 sa(dp1752
 g6
 VYes, he is.
@@ -6405,18 +6405,18 @@ sg10
 VLOU
 p1754
 sg12
-g13
+g9
 sa(dp1755
 g6
 VEdie, where the hell are you?
 p1756
 sg8
-g70
+g59
 sg10
 VLOU
 p1757
 sg12
-g13
+g59
 sa(dp1758
 g6
 VThey're here.
@@ -6427,7 +6427,7 @@ sg10
 VLOU
 p1760
 sg12
-g70
+g13
 sa(dp1761
 g6
 VWe've got the Reverend Dr. James Berlan Whitman. First Lady Denise Whitman is sitting in the first chair on your right. Choir Master Wilson Bennett.
@@ -6477,7 +6477,7 @@ g6
 VWe're tired of understanding, we're tired of waiting, we're tired of trying to figure out why our children are not safe and why our efforts to try to make them safe seem to fail. We're tired. But we must know that we have made some progress and blame will only destroy it. Blame will breed more violence and we have had enough of that.
 p1774
 sg8
-g70
+g59
 sg10
 VSANTOS
 p1775

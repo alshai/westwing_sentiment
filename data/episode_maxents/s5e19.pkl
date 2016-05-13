@@ -80,7 +80,7 @@ sg10
 VJOSH
 p29
 sg12
-g9
+g22
 sa(dp30
 g6
 V200 tractors, that doesn't worry you?
@@ -91,7 +91,7 @@ sg10
 VWILL
 p32
 sg12
-g16
+g22
 sa(dp33
 g6
 VNot being a bale of hay.
@@ -102,7 +102,7 @@ sg10
 VJOSH
 p35
 sg12
-g9
+g22
 sa(dp36
 g6
 VYou're flying to Brussels in nine hours, the place is surrounded by tractors, every pair of overalls in Europe has come out to protest your trade agreements.
@@ -124,7 +124,7 @@ sg10
 VJOSH
 p41
 sg12
-g16
+g9
 sa(dp42
 g6
 VFor the joint press conference after the signing.
@@ -212,7 +212,7 @@ sg10
 VJOSH
 p65
 sg12
-g9
+g22
 sa(dp66
 g6
 VBill Parsons called. What are European farmers so upset about?
@@ -267,7 +267,7 @@ sg10
 VDONNA
 p80
 sg12
-g9
+g22
 sa(dp81
 g6
 VIndia has all kinds of problems with this trade deal, why would they...?
@@ -311,7 +311,7 @@ sg10
 VDONNA
 p92
 sg12
-g16
+g9
 sa(dp93
 g6
 VYeah, I'm still working on that.
@@ -322,7 +322,7 @@ sg10
 VJOSH
 p95
 sg12
-g9
+g16
 sa(dp96
 g6
 VYou did a great job wrapping this up, I've sent a little something over to your office.
@@ -344,7 +344,7 @@ sg10
 VLEO
 p101
 sg12
-g9
+g16
 sa(dp102
 g6
 VMonths of work by a lot of people, sir, I just tossed in some free combs.
@@ -355,7 +355,7 @@ sg10
 VJOSH
 p104
 sg12
-g9
+g16
 sa(dp105
 g6
 VStart working on Congressional passage.
@@ -399,7 +399,7 @@ sg10
 VCHARLIE
 p116
 sg12
-g9
+g16
 sa(dp117
 g6
 VMr. President, you're doing five advance interviews on the Brussels Rounds: three domestic prints, plus CNN-FN, plus the International Herald Tribune.
@@ -432,7 +432,7 @@ sg10
 VBARTLET
 p125
 sg12
-g9
+g22
 sa(dp126
 g6
 VOur audience is Congress, not the Finnish Parliament.
@@ -443,7 +443,7 @@ sg10
 VLEO
 p128
 sg12
-g9
+g22
 sa(dp129
 g6
 VWhat do you say to the opponents of free trade, people who say it exports jobs?
@@ -498,7 +498,7 @@ sg10
 VBARTLET
 p143
 sg12
-g9
+g22
 sa(dp144
 g6
 VSir, have you read the talking points?
@@ -520,7 +520,7 @@ sg10
 VBARTLET
 p149
 sg12
-g9
+g22
 sa(dp150
 g6
 VDue respect, sir, your answers on economic issues can be a bit...
@@ -531,7 +531,7 @@ sg10
 VCHARLIE
 p152
 sg12
-g9
+g16
 sa(dp153
 g6
 VI was going to go with incomprehensible.
@@ -564,7 +564,7 @@ sg10
 VC.J.
 p161
 sg12
-g9
+g16
 sa(dp162
 g6
 VWhy?
@@ -630,7 +630,7 @@ sg10
 VBARTLET
 p179
 sg12
-g9
+g22
 sa(dp180
 g6
 VJosh makes a point. We're losing old economy jobs in steel, and textiles, all across manufacturing...
@@ -652,7 +652,7 @@ sg10
 VBARTLET
 p185
 sg12
-g9
+g16
 sa(dp186
 g6
 VThat's why we fought so hard in this deal for copyright enforcement: to protect the fruits of the new economy. Technology, inventions, ideas; the stuff where America can't be beat, where they can't do it in Malaysia for a dollar a day.
@@ -707,7 +707,7 @@ sg10
 VJOSH
 p200
 sg12
-g9
+g16
 sa(dp201
 g6
 VThe President bashing the clock industry in there.
@@ -828,7 +828,7 @@ sg10
 VLARRY
 p233
 sg12
-g16
+g9
 sa(dp234
 g6
 VDon't...
@@ -839,7 +839,7 @@ sg10
 VJOSH
 p236
 sg12
-g9
+g22
 sa(dp237
 g6
 VLeo. We may have a situation.
@@ -883,7 +883,7 @@ sg10
 VC.J.
 p248
 sg12
-g9
+g16
 sa(dp249
 g6
 V17,000 programming jobs.
@@ -927,7 +927,7 @@ sg10
 VJOSH
 p260
 sg12
-g9
+g22
 sa(dp261
 g6
 VThose are new economy jobs.
@@ -960,7 +960,7 @@ sg10
 VLEO
 p269
 sg12
-g9
+g22
 sa(dp270
 g6
 VWhich I'm going to say is a lot harder than it sounds.
@@ -1059,7 +1059,7 @@ sg10
 VJOSH
 p296
 sg12
-g9
+g22
 sa(dp297
 g6
 VTalk to JCN. You did a great job on this. I was serious about the rottweiler thing.
@@ -1323,7 +1323,7 @@ sg10
 VRYAN
 p368
 sg12
-g9
+g22
 sa(dp369
 g6
 VHow about a plaque, for best impersonation of a blue blazer?
@@ -1466,7 +1466,7 @@ sg10
 VJOSH
 p407
 sg12
-g9
+g22
 sa(dp408
 g6
 VAnd I'm trying to grow in mine. I've been helping on these trade talks for months. How are you going to manage by yourself?
@@ -1488,7 +1488,7 @@ sg10
 VJOSH
 p413
 sg12
-g9
+g22
 sa(dp414
 g6
 VGrab someone off the advance staff, maybe they can help you find them.
@@ -1499,7 +1499,7 @@ sg10
 VDONNA
 p416
 sg12
-g9
+g22
 sa(dp417
 g6
 VI didn't mean to... I'm busy, okay.
@@ -1510,7 +1510,7 @@ sg10
 VJOSH
 p419
 sg12
-g9
+g22
 sa(dp420
 g6
 VMaybe if you shackled me to my desk, it'd speed up my typing.
@@ -1521,7 +1521,7 @@ sg10
 VDONNA
 p422
 sg12
-g9
+g22
 sa(dp423
 g6
 VThis isn't a workers' collective. Don't get all Woodie Guthrie on me. I've got a situation here.
@@ -1598,7 +1598,7 @@ sg10
 VDEBBIE
 p443
 sg12
-g9
+g22
 sa(dp444
 g6
 VThank you, ma'am.
@@ -1653,7 +1653,7 @@ sg10
 VDEBBIE
 p458
 sg12
-g9
+g22
 sa(dp459
 g6
 VSecret Service locator boxes are code-word clearance or higher. Guests in this wing of the building just need an absence of felony charges. Some Congressmen don't even meet that standard.
@@ -1675,7 +1675,7 @@ sg10
 VHARPER
 p464
 sg12
-g9
+g22
 sa(dp465
 g6
 VOn second thought, feel free to call me ma'am.
@@ -1708,7 +1708,7 @@ sg10
 VHARPER
 p473
 sg12
-g9
+g16
 sa(dp474
 g6
 VMm-hmm.
@@ -1763,7 +1763,7 @@ sg10
 VJOSH
 p488
 sg12
-g9
+g16
 sa(dp489
 g6
 VThere's a chance JCN'll be moving some jobs there.
@@ -1774,7 +1774,7 @@ sg10
 VLOBBYIST
 p491
 sg12
-g9
+g16
 sa(dp492
 g6
 VYou can't do this. After everything I negotiated for you?
@@ -1785,7 +1785,7 @@ sg10
 VJOSH
 p494
 sg12
-g9
+g22
 sa(dp495
 g6
 VYou toughened copyright enforcement. Now it's safer for us to move sensitive programming work overseas.
@@ -1829,7 +1829,7 @@ sg10
 VJOSH
 p506
 sg12
-g9
+g16
 sa(dp507
 g6
 VWe lobbied through our trade association. That's how these things work.
@@ -1950,7 +1950,7 @@ sg10
 VLOBBYIST
 p539
 sg12
-g9
+g22
 sa(dp540
 g6
 VThese jobs, yes; $80,000-a-year jobs, yes. The jobs this deal is supposed to create on the day we're leaving to sign it...?
@@ -2016,7 +2016,7 @@ sg10
 VLOBBYIST
 p557
 sg12
-g9
+g22
 sa(dp558
 g6
 VIs that what you told the head of your union?
@@ -2093,7 +2093,7 @@ sg10
 VTOBY
 p578
 sg12
-g9
+g22
 sa(dp579
 g6
 VOr a local TV show, if I'm reading this correctly.
@@ -2148,7 +2148,7 @@ sg10
 VC.J.
 p593
 sg12
-g16
+g22
 sa(dp594
 g6
 VThe FCC's completely independent. These companies are your constituents.
@@ -2181,7 +2181,7 @@ sg10
 VCAROL
 p602
 sg12
-g9
+g22
 sa(dp603
 g6
 VNo. Tell him it's a bad day. He can't. Tell him I'll call him from the plane.
@@ -2302,7 +2302,7 @@ sg10
 VCHRIS
 p635
 sg12
-g9
+g16
 sa(dp636
 g6
 VYes. And you could say Christmas came a bit early this year. I'm not normally in the business of doing your investigative reporting.
@@ -2511,7 +2511,7 @@ sg10
 VLARRY
 p692
 sg12
-g9
+g22
 sa(dp693
 g6
 VWhy do I get the feeling the soil's going untilled?
@@ -2720,7 +2720,7 @@ sg10
 VJOSH
 p749
 sg12
-g9
+g22
 sa(dp750
 g6
 VFor Capitol Hill.
@@ -2742,7 +2742,7 @@ sg10
 VJOSH
 p755
 sg12
-g9
+g22
 sa(dp756
 g6
 VWe don't run the computer industry.
@@ -2808,7 +2808,7 @@ sg10
 VJOSH
 p773
 sg12
-g9
+g16
 sa(dp774
 g6
 VCongress would laugh us out of the room, and it'd cost 15, 20 billion a year.
@@ -2852,7 +2852,7 @@ sg10
 VJOSH
 p785
 sg12
-g9
+g22
 sa(dp786
 g6
 VWhere's it made?
@@ -2962,7 +2962,7 @@ sg10
 VBARTLET
 p815
 sg12
-g9
+g16
 sa(dp816
 g6
 VYes, yes. I have your C.V. You're fluent in Arabic.
@@ -3072,7 +3072,7 @@ sg10
 VBARTLET
 p845
 sg12
-g16
+g9
 sa(dp846
 g6
 VThere's a French side and an American side.
@@ -3160,7 +3160,7 @@ sg10
 VHARPER
 p869
 sg12
-g9
+g22
 sa(dp870
 g6
 VThanks for answering. It was nice meeting you, uh...
@@ -3182,7 +3182,7 @@ sg10
 VHARPER
 p875
 sg12
-g9
+g22
 sa(dp876
 g6
 VNo.
@@ -3281,7 +3281,7 @@ sg10
 VDONNA
 p902
 sg12
-g16
+g9
 sa(dp903
 g6
 VHarpo speaks.
@@ -3325,7 +3325,7 @@ sg10
 VJOSH
 p914
 sg12
-g9
+g22
 sa(dp915
 g6
 VHe says Congressman McKenna...
@@ -3336,7 +3336,7 @@ sg10
 VRYAN
 p917
 sg12
-g9
+g16
 sa(dp918
 g6
 VTell him the Social Office wants to remind him about your going away party.
@@ -3369,7 +3369,7 @@ sg10
 VJOSH
 p926
 sg12
-g9
+g22
 sa(dp927
 g6
 VHe says that actually he'd be quite tickled - stilts?
@@ -3402,7 +3402,7 @@ sg10
 VJOSH
 p935
 sg12
-g9
+g16
 sa(dp936
 g6
 VTell him there's something he should know about that meeting and I've got half a mind...
@@ -3435,7 +3435,7 @@ sg10
 VRYAN
 p944
 sg12
-g9
+g16
 sa(dp945
 g6
 VHarpo can hear, bright boy.
@@ -3468,7 +3468,7 @@ sg10
 VC.J.
 p953
 sg12
-g9
+g22
 sa(dp954
 g6
 VIt's a business story. Just 'cause I don't agree with your take on it...
@@ -3479,7 +3479,7 @@ sg10
 VBROCK
 p956
 sg12
-g9
+g22
 sa(dp957
 g6
 VI... I don't have a "take". The FCC looked at how many stations were already owned by the six or seven biggest companies and used that as the number, so nobody'd have to sell anything.
@@ -3534,7 +3534,7 @@ sg10
 VC.J.
 p971
 sg12
-g9
+g16
 sa(dp972
 g6
 VA free country.
@@ -3589,7 +3589,7 @@ sg10
 VC.J.
 p986
 sg12
-g9
+g22
 sa(dp987
 g6
 VThose are white-collar jobs; those new-economy jobs the president brags about creating.
@@ -3798,7 +3798,7 @@ sg10
 VMAN
 p1043
 sg12
-g9
+g22
 sa(dp1044
 g6
 VYou'll have pension assistance, wage assistance, you name it.
@@ -3809,7 +3809,7 @@ sg10
 VJOSH
 p1046
 sg12
-g9
+g16
 sa(dp1047
 g6
 VI don't want burial insurance. My career isn't over yet, I want to keep my job.
@@ -3930,7 +3930,7 @@ sg10
 VJOSH
 p1079
 sg12
-g9
+g22
 sa(dp1080
 g6
 VThink this job story's true?
@@ -3941,7 +3941,7 @@ sg10
 VWILL
 p1082
 sg12
-g9
+g16
 sa(dp1083
 g6
 VIt's proprietary.
@@ -3963,7 +3963,7 @@ sg10
 VWILL
 p1088
 sg12
-g9
+g16
 sa(dp1089
 g6
 VWith midterms coming up, what do you think? How'd you become a free-trader?
@@ -4029,7 +4029,7 @@ sg10
 VWILL
 p1106
 sg12
-g9
+g22
 sa(dp1107
 g6
 VOkay.
@@ -4062,7 +4062,7 @@ sg10
 VJOSH
 p1115
 sg12
-g9
+g22
 sa(dp1116
 g6
 VPay more for a drill-bit, you have less to spend on other things. Keep out cheap, foreign drill-bits, that country'll keep out cheap American something else. And that costs us jobs.
@@ -4249,7 +4249,7 @@ sg10
 VC.J.
 p1166
 sg12
-g9
+g22
 sa(dp1167
 g6
 VJosh. Josh. This job story's killing us with the Democrats.
@@ -4293,7 +4293,7 @@ sg10
 VLARRY
 p1178
 sg12
-g9
+g16
 sa(dp1179
 g6
 VIt's like the Hayseed Olympics out there.
@@ -4326,7 +4326,7 @@ sg10
 VJOSH
 p1187
 sg12
-g9
+g22
 sa(dp1188
 g6
 VThis no-talking thing isn't working for me.
@@ -4337,7 +4337,7 @@ sg10
 VJOSH
 p1190
 sg12
-g9
+g22
 sa(dp1191
 g6
 VYou have a 3:00. I need to brief you, and they won't leave your office.
@@ -4359,7 +4359,7 @@ sg10
 VJOSH
 p1196
 sg12
-g9
+g22
 sa(dp1197
 g6
 VI tried to move them. Do you want me to call Secret Service?
@@ -4436,7 +4436,7 @@ sg10
 VRYAN
 p1217
 sg12
-g9
+g22
 sa(dp1218
 g6
 VI've got bigger problems than your brass parachute.
@@ -4524,7 +4524,7 @@ sg10
 VJOSH
 p1241
 sg12
-g9
+g22
 sa(dp1242
 g6
 VI'm his new Legislative Director. Hi. He figured it'd be leverage enough that he's on two authorizing committees and can stall half your budget priorities. Is this the part where you smile and bob your head?
@@ -4634,7 +4634,7 @@ sg10
 VC.J.
 p1271
 sg12
-g9
+g22
 sa(dp1272
 g6
 VWhy are you hawking this FCC story? I got calls from two network heads.
@@ -4678,7 +4678,7 @@ sg10
 VC.J.
 p1283
 sg12
-g9
+g16
 sa(dp1284
 g6
 VThe President's against excessive media ownership. IF we think the FCC's not looking out for the little guy, use the Briefing Room to say it.
@@ -4711,7 +4711,7 @@ sg10
 VLEO
 p1292
 sg12
-g9
+g22
 sa(dp1293
 g6
 VLocal news is getting trampled. You think corporate media is gonna take on corporate polluters, describe mega-mergers as anything more than a rising stock price?
@@ -4744,7 +4744,7 @@ sg10
 VLEO
 p1301
 sg12
-g16
+g22
 sa(dp1302
 g6
 VI've spent my entire career living in Moosejaw. I get my news off CNN.
@@ -4755,7 +4755,7 @@ sg10
 VBEN
 p1304
 sg12
-g9
+g22
 sa(dp1305
 g6
 VI like this one.
@@ -4766,7 +4766,7 @@ sg10
 VLEO
 p1307
 sg12
-g9
+g22
 sa(dp1308
 g6
 VHe's about to become available.
@@ -4810,7 +4810,7 @@ sg10
 VC.J.
 p1319
 sg12
-g9
+g22
 sa(dp1320
 g6
 VYou're not thinking of leaving...?
@@ -4876,7 +4876,7 @@ sg10
 VCAROL
 p1337
 sg12
-g16
+g9
 sa(dp1338
 g6
 VLike a surgeon wields his scalpel, like a barrister wields his... whatever it is he wields, I am using my Briefing Room.
@@ -4887,7 +4887,7 @@ sg10
 VC.J.
 p1340
 sg12
-g9
+g22
 sa(dp1341
 g6
 VMr. Speaker, I guess you've seen the story about the job losses.
@@ -4942,7 +4942,7 @@ sg10
 VJOSH
 p1355
 sg12
-g9
+g22
 sa(dp1356
 g6
 VI have no issues.
@@ -4953,7 +4953,7 @@ sg10
 VHAFFLEY
 p1358
 sg12
-g9
+g22
 sa(dp1359
 g6
 VMeaning?
@@ -4986,7 +4986,7 @@ sg10
 VJOSH
 p1367
 sg12
-g9
+g22
 sa(dp1368
 g6
 VYou're home. I can get you 200, maybe 210 Republican votes. My members love it. You did a fantastic job.
@@ -5008,7 +5008,7 @@ sg10
 VJOSH
 p1373
 sg12
-g9
+g16
 sa(dp1374
 g6
 VBusiness lobby loves it, tech lobby loves it, unions always complain about trade.
@@ -5052,7 +5052,7 @@ sg10
 VJOSH
 p1385
 sg12
-g9
+g16
 sa(dp1386
 g6
 VWe knew there might be. The tech lobby was pressing India to sign the thing.
@@ -5129,7 +5129,7 @@ sg10
 VJOSH
 p1406
 sg12
-g9
+g16
 sa(dp1407
 g6
 VBut things went well with the Speaker.
@@ -5261,7 +5261,7 @@ sg10
 VJOSH
 p1442
 sg12
-g9
+g22
 sa(dp1443
 g6
 VWe'll give them transition assistance.
@@ -5415,7 +5415,7 @@ sg10
 VJOSH
 p1484
 sg12
-g9
+g22
 sa(dp1485
 g6
 VTell your pals at JCN to buy some TV stations, shut this down in a hurry.
@@ -5437,7 +5437,7 @@ sg10
 VJOSH
 p1490
 sg12
-g9
+g16
 sa(dp1491
 g6
 VAl the work you do with the unions, why'd Leo put you at that negotiating table?
@@ -5580,7 +5580,7 @@ sg10
 VBARTLET
 p1529
 sg12
-g16
+g22
 sa(dp1530
 g6
 VThank you so much.
@@ -5591,7 +5591,7 @@ sg10
 VLEO
 p1532
 sg12
-g9
+g22
 sa(dp1533
 g6
 VWould you give us a minute, please?
@@ -5602,7 +5602,7 @@ sg10
 VBARTLET
 p1535
 sg12
-g16
+g9
 sa(dp1536
 g6
 VSure.
@@ -5613,7 +5613,7 @@ sg10
 VFITZWALLACE
 p1538
 sg12
-g9
+g22
 sa(dp1539
 g6
 VLeo's told me about the 17,000 jobs.
@@ -5657,7 +5657,7 @@ sg10
 VJOSH
 p1550
 sg12
-g9
+g16
 sa(dp1551
 g6
 VIt's the natural evolution of capitalism.
@@ -5789,7 +5789,7 @@ sg10
 VJOSH
 p1586
 sg12
-g9
+g16
 sa(dp1587
 g6
 VThere was a man named Canute, one of the great Viking kings of the 11th Century. Wanted his people to be aware of his limitations, so he led them down to the sea and he commanded that the tide roll out. It didn't. Who gave us the notion that Presidents can move the economy like a play-toy?
@@ -5855,7 +5855,7 @@ sg10
 VBARTLET
 p1604
 sg12
-g9
+g22
 sa(dp1605
 g6
 VYes, Mr. President, it sure would.
@@ -6141,7 +6141,7 @@ sg10
 VC.J.
 p1682
 sg12
-g9
+g22
 sa(dp1683
 g6
 VI know you have a two-by-four to pick with the FCC.
@@ -6207,7 +6207,7 @@ sg10
 VC.J.
 p1700
 sg12
-g9
+g22
 sa(dp1701
 g6
 VWho's the little guy? I'm serious. Who is he? Do you know of any poor, struggling station owners, some guy wearing hand-me-downs, tying antennas to a pick-up truck?
@@ -6273,7 +6273,7 @@ sg10
 VC.J.
 p1718
 sg12
-g9
+g22
 sa(dp1719
 g6
 VSend me that bill. I'd like to pay for that carpentry myself.
@@ -6284,7 +6284,7 @@ sg10
 VLEO
 p1721
 sg12
-g9
+g22
 sa(dp1722
 g6
 VThanks, but it was worth ever nickel.
@@ -6295,7 +6295,7 @@ sg10
 VC.J.
 p1724
 sg12
-g9
+g16
 sa(dp1725
 g6
 VThe staff vans are leaving.
@@ -6350,7 +6350,7 @@ sg10
 VWOMAN
 p1739
 sg12
-g9
+g16
 sa(dp1740
 g6
 VNo, but we're gonna try.

@@ -123,41 +123,41 @@ sg10
 VCHARLIE
 p40
 sg12
-g13
-sa(dp41
+S'negative'
+p41
+sa(dp42
 g6
 VI'll make his wake up call...ah...sleep in.
-p42
+p43
 sg8
 g13
 sg10
 VTOBY
-p43
+p44
 sg12
 g13
-sa(dp44
+sa(dp45
 g6
 VYeah...
-p45
+p46
 sg8
 g13
 sg10
 VBARTLET
-p46
+p47
 sg12
 g13
-sa(dp47
+sa(dp48
 g6
 VCharlie, we're going to surgically implant a snooze button.  Won't hurt much.
-p48
-sg8
-S'negative'
 p49
+sg8
+g41
 sg10
 VBARTLET
 p50
 sg12
-g13
+g41
 sa(dp51
 g6
 VAh, it's Toby, sir.
@@ -168,7 +168,7 @@ sg10
 VTOBY
 p53
 sg12
-g13
+g9
 sa(dp54
 g6
 VIf they're not giving you enough to do down there...
@@ -185,7 +185,7 @@ g6
 VI know this sounds crazy but, I think we have two weeks.  A two week window... I need to see you alone right now, because if I'm right about this...
 p58
 sg8
-g49
+g41
 sg10
 VTOBY
 p59
@@ -212,7 +212,7 @@ sg10
 VTOBY
 p65
 sg12
-g13
+g41
 sa(dp66
 g6
 VI think Gaines is leaving the Senate.  I think he's not going to run again.
@@ -234,7 +234,7 @@ sg10
 VBARTLET
 p71
 sg12
-g13
+g9
 sa(dp72
 g6
 VBecause he's not raising money.  Because he was the only Republican to stand up and applaud a minimum wage hike at the State of the Union. Gaines breaking ranks over the AFL-CIO's top issue.
@@ -300,7 +300,7 @@ sg10
 VTOBY
 p89
 sg12
-g13
+g9
 sa(dp90
 g6
 VThis is right after we colonize Ontario.
@@ -328,7 +328,7 @@ g6
 VBut they don't tell you how many believe in UFOs.  That's the number we ought to be worried about.
 p97
 sg8
-g49
+g41
 sg10
 VBARTLET
 p98
@@ -339,7 +339,7 @@ g6
 VThe number of retirees is going to double.  If we do nothing, the trust fund will go broke.
 p100
 sg8
-g49
+g41
 sg10
 VTOBY
 p101
@@ -355,7 +355,7 @@ sg10
 VBARTLET
 p104
 sg12
-g13
+g9
 sa(dp105
 g6
 VOne Senator who's been the leader on it.  One Senator with the stature to bring his party along.  One Senator who's never had a President willing to meet him halfway.
@@ -388,7 +388,7 @@ sg10
 VTOBY
 p113
 sg12
-g13
+g41
 sa(dp114
 g6
 VMore like Krazy-Glue.  Think Republicans will raise payroll taxes?
@@ -399,7 +399,7 @@ sg10
 VBARTLET
 p116
 sg12
-g13
+g9
 sa(dp117
 g6
 VI think we have to have the conversation.  I can't give you the exact plan yet...
@@ -438,7 +438,7 @@ g6
 VIf it becomes public we've even discussed this, both sides will go crazy.  It'll jeopardize our whole agenda on the Hill.
 p127
 sg8
-g49
+g41
 sg10
 VBARTLET
 p128
@@ -449,12 +449,12 @@ g6
 VAnd if it blows up, I'm supposed to pretend we've never met?
 p130
 sg8
-g49
+g41
 sg10
 VBARTLET
 p131
 sg12
-g13
+g41
 sa(dp132
 g6
 VWe'll always have Paris.  [beat]  Mr. President, life expectancy's rising.  The biggest generation, ever, is retiring and we don't have the money!  Every year we wait means we have to cut deeper, take away more, 'til Social Security's not enough to live on... 'til retirement's a one- way ticket to a flop house.  We have an opening.  There's seventeen ways to fix it.  Twenty years of blue ribbon commissions have told us how. This isn't a government program, it is a moral covenant.  We don't want to be the administration that saves it from oblivion?  We don't want that legacy?
@@ -471,7 +471,7 @@ g6
 VThat's cause the third rail is where all the power is.
 p136
 sg8
-g49
+g41
 sg10
 VTOBY
 p137
@@ -498,18 +498,18 @@ sg10
 VTOBY
 p143
 sg12
-g9
+g13
 sa(dp144
 g6
 VWe have nothing to announce today.  No policy, no summit meetings, not even a warm front meeting up with a cold front.  We've been over this. We need a hard news announcement each and every day, or the press runs amuck.
 p145
 sg8
-g49
+g41
 sg10
 VCJ
 p146
 sg12
-g13
+g41
 sa(dp147
 g6
 VThis is Toby's job.  What am I, the White House complaint center?
@@ -542,7 +542,7 @@ sg10
 VJOSH
 p155
 sg12
-g13
+g9
 sa(dp156
 g6
 VNo news is very, very bad news.  If we're not running offense, we're running defense.  And if we're playing defense, then ... there's some clever sports analogy that explains what happens then.
@@ -553,18 +553,18 @@ sg10
 VCJ
 p158
 sg12
-g13
+g41
 sa(dp159
 g6
 VWe're screwed.
 p160
 sg8
-g49
+g41
 sg10
 VJOSH
 p161
 sg12
-g13
+g41
 sa(dp162
 g6
 VThat'll do.
@@ -586,13 +586,13 @@ sg10
 VJOSH
 p167
 sg12
-g13
+g41
 sa(dp168
 g6
 VDPC says it's not ready, OMB says it's not revenue neutral and I'm declaring a war on all acronyms.
 p169
 sg8
-g49
+g41
 sg10
 VCJ
 p170
@@ -603,7 +603,7 @@ g6
 VThere's gotta be something happening somewhere.  It's a big government.
 p172
 sg8
-g49
+g41
 sg10
 VJOSH
 p173
@@ -625,12 +625,12 @@ g6
 VThere's your offensive play.
 p178
 sg8
-g49
+g41
 sg10
 VJOSH
 p179
 sg12
-g13
+g41
 sa(dp180
 g6
 V...on...cabbage imports.
@@ -669,12 +669,12 @@ g6
 VWe'll find a better way to feed the beast.
 p190
 sg8
-g49
+g41
 sg10
 VJOSH
 p191
 sg12
-g13
+g41
 sa(dp192
 g6
 VToby!
@@ -707,13 +707,13 @@ sg10
 VGAINES
 p200
 sg12
-g9
+g13
 sa(dp201
 g6
 VI think you're not running for re-election.  I think that because you broke ranks, stood up and applauded a minimum wage hike at the State of the Union and because you barely raised a dime last quarter.
 p202
 sg8
-g49
+g41
 sg10
 VTOBY
 p203
@@ -729,7 +729,7 @@ sg10
 VGAINES
 p206
 sg12
-g13
+g41
 sa(dp207
 g6
 VAnd I'm offering you what I think could be the crowning achievement of your career.
@@ -740,7 +740,7 @@ sg10
 VTOBY
 p209
 sg12
-g13
+g9
 sa(dp210
 g6
 VYou want me to applaud the President more often.
@@ -806,7 +806,7 @@ sg10
 VTOBY
 p227
 sg12
-g13
+g9
 sa(dp228
 g6
 VMm-hmm, and here's how it'll go...I'll say let's have personal savings accounts so, God forbid, people can invest their own money, and Josh Lyman's hatchet factory will say I'm trying to turn social security into stock market bingo.
@@ -861,7 +861,7 @@ sg10
 VGAINES
 p242
 sg12
-g13
+g9
 sa(dp243
 g6
 VSenator...
@@ -889,7 +889,7 @@ g6
 VAre you willing to let the trust fund go completely broke? 'Cause let's face it, that'll lead to the mother of all tax increases, or the total collapse of the system.  Is that the legacy you want to leave?  One step, Senator, that's all I'm asking.
 p250
 sg8
-g49
+g41
 sg10
 VTOBY
 p251
@@ -905,7 +905,7 @@ sg10
 VGAINES
 p254
 sg12
-g49
+g41
 sa(dp255
 g6
 VHey.  The Vice President's speech to the Detroit Economic Club, it wasn't that bad.
@@ -944,7 +944,7 @@ g6
 VIt's his presentation problem.
 p265
 sg8
-g49
+g41
 sg10
 VWILL
 p266
@@ -971,13 +971,13 @@ sg10
 VWILL
 p272
 sg12
-g13
+g41
 sa(dp273
 g6
 VIt's the greatest sin in politics to be bad on television.
 p274
 sg8
-g49
+g41
 sg10
 VJOSH
 p275
@@ -1015,7 +1015,7 @@ sg10
 VWILL
 p284
 sg12
-g9
+g41
 sa(dp285
 g6
 VRussell's instinct is to make fun of his blandness.  Salt his speeches with self-deprecating jokes.
@@ -1037,13 +1037,13 @@ sg10
 VJOSH
 p290
 sg12
-g49
+g41
 sa(dp291
 g6
 VBob Russell is so dull his secret service code name is Bob Russell.
 p292
 sg8
-g49
+g41
 sg10
 VWILL
 p293
@@ -1054,7 +1054,7 @@ g6
 VThat's not bad.
 p295
 sg8
-g49
+g41
 sg10
 VJOSH
 p296
@@ -1065,7 +1065,7 @@ g6
 VBob Russell is an inspiration to the millions of Americans who suffer from Dutch Elm disease.
 p298
 sg8
-g49
+g41
 sg10
 VWILL
 p299
@@ -1076,7 +1076,7 @@ g6
 VAh... you're going to have a Sierra Club problem.
 p301
 sg8
-g49
+g41
 sg10
 VJOSH
 p302
@@ -1098,7 +1098,7 @@ g6
 VProblem is, telling people you're dull just removes all doubt. Russell needs to confound expectations.  Do something to really shock the party faithful. And I may have something...about Gaines.
 p307
 sg8
-g49
+g41
 sg10
 VJOSH
 p308
@@ -1169,7 +1169,7 @@ sg10
 VTOBY
 p326
 sg12
-g9
+g13
 sa(dp327
 g6
 VNobody here talks to me.  I don't think they like me.
@@ -1180,7 +1180,7 @@ sg10
 VRENA
 p329
 sg12
-g49
+g41
 sa(dp330
 g6
 VNot really, no.  [Beat]  Come here.
@@ -1191,7 +1191,7 @@ sg10
 VTOBY
 p332
 sg12
-g49
+g41
 sa(dp333
 g6
 VCan you handle something confidential?  Photocopying, pulling documents, answering my private line...
@@ -1224,7 +1224,7 @@ sg10
 VTOBY
 p341
 sg12
-g13
+g9
 sa(dp342
 g6
 VI won't let you down.
@@ -1235,7 +1235,7 @@ sg10
 VRENA
 p344
 sg12
-g9
+g41
 sa(dp345
 g6
 VTrained animals could do it.
@@ -1246,7 +1246,7 @@ sg10
 VTOBY
 p347
 sg12
-g13
+g41
 sa(dp348
 g6
 VMr. Zeigler, I'm honored.
@@ -1274,7 +1274,7 @@ g6
 VIs this a bad time?
 p355
 sg8
-g49
+g41
 sg10
 VJOSH
 p356
@@ -1312,18 +1312,18 @@ sg10
 VJOSH
 p365
 sg12
-g13
+g9
 sa(dp366
 g6
 VThis wasn't about the tax bill?
 p367
 sg8
-g49
+g41
 sg10
 VJOSH
 p368
 sg12
-g13
+g41
 sa(dp369
 g6
 VI, uh, bumped into him on the Hill.
@@ -1450,7 +1450,7 @@ g6
 VMr. Polk.  To what do I owe the pressure?
 p403
 sg8
-g49
+g41
 sg10
 VCJ
 p404
@@ -1472,12 +1472,12 @@ g6
 VCan it wait 'til the briefing?
 p409
 sg8
-g49
+g41
 sg10
 VCJ
 p410
 sg12
-g13
+g41
 sa(dp411
 g6
 VNot really.
@@ -1488,7 +1488,7 @@ sg10
 VPOLK
 p413
 sg12
-g13
+g41
 sa(dp414
 g6
 VThe Journal doesn't even have a bulldog edition.
@@ -1499,7 +1499,7 @@ sg10
 VCJ
 p416
 sg12
-g13
+g41
 sa(dp417
 g6
 VYou might need some time on this one.  Toby's been meeting on the Hill, I want to know if it's on Social Security.
@@ -1521,7 +1521,7 @@ sg10
 VCJ
 p422
 sg12
-g13
+g41
 sa(dp423
 g6
 VA member of Senator Gaines' staff says it might be.
@@ -1538,7 +1538,7 @@ g6
 VDo you know how many rounds we've gone on this issue?  They're just picking a fight.
 p427
 sg8
-g49
+g41
 sg10
 VCJ
 p428
@@ -1576,7 +1576,7 @@ sg10
 VPOLK
 p437
 sg12
-g13
+g9
 sa(dp438
 g6
 VA reporter from The Wall Street Journal called...
@@ -1593,7 +1593,7 @@ g6
 VNo press calls today.
 p442
 sg8
-g49
+g41
 sg10
 VTOBY
 p443
@@ -1604,7 +1604,7 @@ g6
 VOkay well, he said it was urgent.
 p445
 sg8
-g49
+g41
 sg10
 VRENA
 p446
@@ -1620,7 +1620,7 @@ sg10
 VTOBY
 p449
 sg12
-g49
+g13
 sa(dp450
 g6
 VCan I ask you a question?
@@ -1653,7 +1653,7 @@ sg10
 VRENA
 p458
 sg12
-g13
+g41
 sa(dp459
 g6
 VThen you could be a member of Congress.
@@ -1697,7 +1697,7 @@ sg10
 VRENA
 p470
 sg12
-g13
+g41
 sa(dp471
 g6
 VBecause when the baby boomers retire there'll only be 2 people working for every retiree, down from 42 workers per retiree when the system started.
@@ -1785,7 +1785,7 @@ sg10
 VTOBY
 p494
 sg12
-g13
+g41
 sa(dp495
 g6
 VNow the Wall Street Journal thinks you and Gaines are reforming Social Security.  What were you talking about with Gaines, his volumetric ethanol amendment?
@@ -1840,7 +1840,7 @@ sg10
 VJOSH
 p509
 sg12
-g9
+g13
 sa(dp510
 g6
 VIt has the advantage of being remote.
@@ -1862,7 +1862,7 @@ sg10
 VJOSH
 p515
 sg12
-g13
+g9
 sa(dp516
 g6
 VTwo doors down is the International Date Line.
@@ -1873,7 +1873,7 @@ sg10
 VWILL
 p518
 sg12
-g13
+g41
 sa(dp519
 g6
 VI got the answer to your Russell conundrum.  Forget the dull jokes.  The real problem in the Democratic Party these days is morale, right?  So, Russell comes out of the gate as a seltzer bottle squirting partisan. The happy warrior.  The guy who puts the fun back in Democratic politics.
@@ -1895,7 +1895,7 @@ sg10
 VWILL
 p524
 sg12
-g13
+g9
 sa(dp525
 g6
 VWrite that down.
@@ -1906,7 +1906,7 @@ sg10
 VJOSH
 p527
 sg12
-g13
+g41
 sa(dp528
 g6
 VGot it.
@@ -1917,13 +1917,13 @@ sg10
 VWILL
 p530
 sg12
-g13
+g41
 sa(dp531
 g6
 VDid you know that Gaines raised an anemic, pathetic 310 grand last quarter?
 p532
 sg8
-g49
+g41
 sg10
 VJOSH
 p533
@@ -1934,7 +1934,7 @@ g6
 VDoes he even have an opponent yet?
 p535
 sg8
-g49
+g41
 sg10
 VWILL
 p536
@@ -1978,7 +1978,7 @@ g6
 VDrops a nickel in the jar for each of Gaines' retrograde positions...
 p547
 sg8
-g49
+g41
 sg10
 VJOSH
 p548
@@ -1989,7 +1989,7 @@ g6
 VKa-ching!  It's a partisan stunt, Russell could do one every week.
 p550
 sg8
-g49
+g41
 sg10
 VWILL
 p551
@@ -2027,7 +2027,7 @@ sg10
 VJOSH
 p560
 sg12
-g13
+g9
 sa(dp561
 g6
 VSorry.
@@ -2055,7 +2055,7 @@ g6
 VGaines is willing to risk his career for this.  We just have to meet him halfway.
 p568
 sg8
-g49
+g41
 sg10
 VTOBY
 p569
@@ -2082,7 +2082,7 @@ sg10
 VTOBY
 p575
 sg12
-g13
+g41
 sa(dp576
 g6
 VI won't raise the retirement age.
@@ -2115,7 +2115,7 @@ sg10
 VBRAINERD
 p584
 sg12
-g13
+g41
 sa(dp585
 g6
 VAmericans are retiring in their 60s, living until their 80s, FDR didn't intend to pay for 20 years of shuffleboard.
@@ -2132,12 +2132,12 @@ g6
 VTell that to the sheet metal worker whose tendons are shot by 55.
 p589
 sg8
-g49
+g41
 sg10
 VBRAINERD
 p590
 sg12
-g13
+g9
 sa(dp591
 g6
 VHaving no Social Security works wonders on the tendons.
@@ -2154,7 +2154,7 @@ g6
 VYou're not worried about political fallout.
 p595
 sg8
-g49
+g41
 sg10
 VBRAINERD
 p596
@@ -2192,7 +2192,7 @@ sg10
 VCJ
 p605
 sg12
-g13
+g9
 sa(dp606
 g6
 VMs. Cregg.
@@ -2214,7 +2214,7 @@ sg10
 VCARRIO
 p611
 sg12
-g13
+g41
 sa(dp612
 g6
 VWell that's not newsworthy, perhaps, but certainly...
@@ -2236,7 +2236,7 @@ sg10
 VCARRIO
 p617
 sg12
-g9
+g13
 sa(dp618
 g6
 VAh.
@@ -2335,7 +2335,7 @@ sg10
 VCAROL
 p644
 sg12
-g13
+g41
 sa(dp645
 g6
 VIf I tug my left ear, create a diversion.
@@ -2346,7 +2346,7 @@ sg10
 VCJ
 p647
 sg12
-g13
+g9
 sa(dp648
 g6
 VGood afternoon, folks, I have an important announcement to make.  In the coming weeks the President plans to focus on raising education standards.  It's a big, juicy policy story no one's written, don't all pounce at once.  Chris.
@@ -2396,7 +2396,7 @@ g6
 VI'm hearing you were going to propose changes to federal adoption law?
 p661
 sg8
-g49
+g41
 sg10
 VGORDON
 p662
@@ -2434,7 +2434,7 @@ sg10
 VCJ
 p671
 sg12
-g13
+g41
 sa(dp672
 g6
 VThe Bartlet's have a combined age of 111.
@@ -2467,7 +2467,7 @@ sg10
 VPOLK
 p680
 sg12
-g13
+g41
 sa(dp681
 g6
 VCJ!
@@ -2511,18 +2511,18 @@ sg10
 VGORDON
 p692
 sg12
-g13
+g41
 sa(dp693
 g6
 VLike a blank page would kill ya!  Polk, follow me.
 p694
 sg8
-g49
+g41
 sg10
 VCJ
 p695
 sg12
-g13
+g41
 sa(dp696
 g6
 VYou didn't ask your question.
@@ -2544,7 +2544,7 @@ sg10
 VPOLK
 p701
 sg12
-g13
+g9
 sa(dp702
 g6
 V'Cause they like flimsy rumors and innuendo, too.
@@ -2555,7 +2555,7 @@ sg10
 VCJ
 p704
 sg12
-g49
+g9
 sa(dp705
 g6
 VI've got a second source.  You'll see how flimsy it is in tomorrow's Journal.
@@ -2599,13 +2599,13 @@ sg10
 VTOBY
 p716
 sg12
-g13
+g9
 sa(dp717
 g6
 VI just heard from two reporters that Bob Russell and the Bartlet smear machine are planning to attack me on Social Security, make a circus out of my fundraising weakness.  Is that the second step?
 p718
 sg8
-g49
+g41
 sg10
 VGAINES
 p719
@@ -2627,7 +2627,7 @@ g6
 VEither you're lying, or the left hand doesn't know what the far-left hand is doing.
 p724
 sg8
-g49
+g41
 sg10
 VGAINES
 p725
@@ -2638,12 +2638,12 @@ g6
 VI'm not lying.
 p727
 sg8
-g49
+g41
 sg10
 VTOBY
 p728
 sg12
-g13
+g41
 sa(dp729
 g6
 VYou know what happened to Carney?  He commissioned one lousy CBO analysis on raising the retirement age...
@@ -2665,7 +2665,7 @@ sg10
 VTOBY
 p734
 sg12
-g49
+g41
 sa(dp735
 g6
 V...Josh Lyman ran ads with 90 year olds in hard hats working construction, The Carney Social Security Plan.  Lost his seat by eleven points.
@@ -2687,7 +2687,7 @@ sg10
 VTOBY
 p740
 sg12
-g49
+g9
 sa(dp741
 g6
 VEleven points.
@@ -2715,7 +2715,7 @@ g6
 VWho said I wasn't running?  I thought it was time to raise the minimum wage.
 p748
 sg8
-g49
+g41
 sg10
 VGAINES
 p749
@@ -2737,7 +2737,7 @@ g6
 VI don't.   And even if I did put my neck on the line with my own party by scaling back private accounts, you and your guys would never give up on your favorite partisan attack.
 p754
 sg8
-g49
+g41
 sg10
 VGAINES
 p755
@@ -2764,7 +2764,7 @@ sg10
 VGAINES
 p761
 sg12
-g13
+g41
 sa(dp762
 g6
 VI told them that you came to me and urged me to cut Social Security.
@@ -2841,7 +2841,7 @@ sg10
 VCAROL
 p782
 sg12
-g13
+g41
 sa(dp783
 g6
 VWhere's Gordon?
@@ -2962,7 +2962,7 @@ sg10
 VGORDON
 p815
 sg12
-g13
+g41
 sa(dp816
 g6
 VGet out!!!
@@ -2995,7 +2995,7 @@ sg10
 VTOBY
 p824
 sg12
-g13
+g41
 sa(dp825
 g6
 VDon't write your story.
@@ -3006,7 +3006,7 @@ sg10
 VTOBY
 p827
 sg12
-g13
+g41
 sa(dp828
 g6
 VI almost forgot you were my editor.
@@ -3017,7 +3017,7 @@ sg10
 VPOLK
 p830
 sg12
-g9
+g41
 sa(dp831
 g6
 VI'll give you an exclusive when this is over.  I'll give you ten. Something big.
@@ -3045,7 +3045,7 @@ g6
 VJust so you know you're going to ruin me with the party, ruin us on 15 different issues!
 p838
 sg8
-g49
+g41
 sg10
 VTOBY
 p839
@@ -3056,7 +3056,7 @@ g6
 VGaines is vulnerable, so Josh is threatening him with political attacks to force a deal.  Good cop, bad cop... am I right?
 p841
 sg8
-g49
+g41
 sg10
 VPOLK
 p842
@@ -3067,7 +3067,7 @@ g6
 VYou're wrong.  And the arrogance you have in assuming that...
 p844
 sg8
-g49
+g41
 sg10
 VTOBY
 p845
@@ -3105,18 +3105,18 @@ sg10
 VPOLK
 p854
 sg12
-g13
+g9
 sa(dp855
 g6
 VFor germs, maybe.  Not the plague.
 p856
 sg8
-g49
+g41
 sg10
 VTOBY
 p857
 sg12
-g13
+g41
 sa(dp858
 g6
 VI told you the 3-10 K wasn't relevant.
@@ -3138,7 +3138,7 @@ sg10
 VJOSH
 p863
 sg12
-g13
+g41
 sa(dp864
 g6
 VI don't want it relevant.
@@ -3149,13 +3149,13 @@ sg10
 VTOBY
 p866
 sg12
-g13
+g41
 sa(dp867
 g6
 VYou dealing on Social Security?  [Toby doesn't meet his gaze.]  The Journal says you are.  I went on record denying it.
 p868
 sg8
-g49
+g41
 sg10
 VJOSH
 p869
@@ -3199,12 +3199,12 @@ g6
 VMeaning it's bad politics.
 p880
 sg8
-g49
+g41
 sg10
 VJOSH
 p881
 sg12
-g13
+g41
 sa(dp882
 g6
 VMeaning knock it off!
@@ -3248,7 +3248,7 @@ sg10
 VJOSH
 p893
 sg12
-g13
+g41
 sa(dp894
 g6
 VMr. Zeigler, there's someone...ah, you're needed in your office right away.  [She leaves.]
@@ -3347,7 +3347,7 @@ sg10
 VDONNA
 p920
 sg12
-g13
+g41
 sa(dp921
 g6
 VMake-up tips...see what's on her desk.
@@ -3391,7 +3391,7 @@ sg10
 VTOBY
 p932
 sg12
-g13
+g41
 sa(dp933
 g6
 VHe said he's out.  The Journal knows you and I met on this.
@@ -3413,7 +3413,7 @@ sg10
 VTOBY
 p938
 sg12
-g13
+g41
 sa(dp939
 g6
 VCommitments?
@@ -3441,7 +3441,7 @@ g6
 VNothing.  If it's in the papers I was even talking about raising retirement age, I'd have the walker brigade picketing my house.  Slowly.
 p946
 sg8
-g49
+g41
 sg10
 VBRAINERD
 p947
@@ -3490,7 +3490,7 @@ sg10
 VBRAINERD
 p959
 sg12
-g13
+g41
 sa(dp960
 g6
 VWe haven't met.  Donna Moss, I work for Josh.
@@ -3501,7 +3501,7 @@ sg10
 VDONNA
 p962
 sg12
-g13
+g41
 sa(dp963
 g6
 VRena.  I've seen you on C-SPAN.
@@ -3518,7 +3518,7 @@ g6
 VReally?  Well, sometimes they catch us in the back of the briefings.  My mom calls me when she thinks I look tired.
 p967
 sg8
-g49
+g41
 sg10
 VDONNA
 p968
@@ -3529,7 +3529,7 @@ g6
 VGod, everyone around here looks tired.
 p970
 sg8
-g49
+g41
 sg10
 VRENA
 p971
@@ -3578,7 +3578,7 @@ sg10
 VJOSH
 p983
 sg12
-g49
+g41
 sa(dp984
 g6
 VDon't be too rough, we just bled them dry for the State of the Union.
@@ -3595,12 +3595,12 @@ g6
 VLeo, if something's happening to my job, tell me now.  Don't leave me hanging out there again.
 p988
 sg8
-g49
+g41
 sg10
 VJOSH
 p989
 sg12
-g13
+g41
 sa(dp990
 g6
 VHanging out where?
@@ -3611,7 +3611,7 @@ sg10
 VLEO
 p992
 sg12
-g13
+g41
 sa(dp993
 g6
 VI know Toby's working on something important, I hear Social Security. If it affects my accordion like portfolio...
@@ -3655,7 +3655,7 @@ sg10
 VLEO
 p1004
 sg12
-g13
+g9
 sa(dp1005
 g6
 VAlright, thanks.
@@ -3666,7 +3666,7 @@ sg10
 VJOSH
 p1007
 sg12
-g13
+g9
 sa(dp1008
 g6
 VWhat are you looking for?
@@ -3848,12 +3848,12 @@ g6
 VIf they'd only let me wear leggings for my portrait, we'd be in business.
 p1057
 sg8
-g49
+g41
 sg10
 VBARTLET
 p1058
 sg12
-g13
+g41
 sa(dp1059
 g6
 VUntil it shows up on the Internet.
@@ -3886,13 +3886,13 @@ sg10
 VTOBY
 p1067
 sg12
-g49
+g41
 sa(dp1068
 g6
 VI've got five Democratic Senators on my call sheet, Leo's clamoring to know what this is all about.  What the hell have you gotten us into?
 p1069
 sg8
-g49
+g41
 sg10
 VBARTLET
 p1070
@@ -3903,18 +3903,18 @@ g6
 VI lost Gaines.  I lost Brainerd.  And the Wall Street Journal is running it tomorrow.
 p1072
 sg8
-g49
+g41
 sg10
 VTOBY
 p1073
 sg12
-g13
+g41
 sa(dp1074
 g6
 VRunning what?  That we grabbed the third rail with both hands?
 p1075
 sg8
-g49
+g41
 sg10
 VBARTLET
 p1076
@@ -3941,7 +3941,7 @@ sg10
 VTOBY
 p1082
 sg12
-g13
+g9
 sa(dp1083
 g6
 VSo you ran with it when I told you not to even walk.
@@ -3991,12 +3991,12 @@ g6
 VMaybe I should just call the Journal?  They can run it right next to my legislative obituary.
 p1096
 sg8
-g49
+g41
 sg10
 VBARTLET
 p1097
 sg12
-g13
+g41
 sa(dp1098
 g6
 VI can't contain this by myself!
@@ -4062,7 +4062,7 @@ sg10
 VBARTLET
 p1115
 sg12
-g13
+g9
 sa(dp1116
 g6
 VI tried!
@@ -4178,7 +4178,7 @@ g6
 VIt says here that before Social Security, half of all seniors died in poverty and now almost none do.
 p1147
 sg8
-g49
+g41
 sg10
 VRENA
 p1148
@@ -4238,7 +4238,7 @@ sg10
 VTOBY
 p1163
 sg12
-g13
+g9
 sa(dp1164
 g6
 VIs it... um... can I ask what did the President...
@@ -4277,7 +4277,7 @@ g6
 VBy taking the blame for everything that happened.
 p1174
 sg8
-g49
+g41
 sg10
 VTOBY
 p1175
@@ -4304,7 +4304,7 @@ sg10
 VTOBY
 p1181
 sg12
-g13
+g41
 sa(dp1182
 g6
 VTell me what you're up to.  Tell me why half the caucus thinks we're squeezing Gaines.  Or we have serious problems.
@@ -4326,7 +4326,7 @@ sg10
 VTOBY
 p1187
 sg12
-g13
+g41
 sa(dp1188
 g6
 VThere's a reason we have a chain of command.  So people don't take flyers and I don't hand you their resignations.
@@ -4359,7 +4359,7 @@ sg10
 VLEO
 p1196
 sg12
-g49
+g41
 sa(dp1197
 g6
 VYou would've stopped it.
@@ -4370,7 +4370,7 @@ sg10
 VBARTLET
 p1199
 sg12
-g13
+g41
 sa(dp1200
 g6
 VBecause it's my job.
@@ -4381,7 +4381,7 @@ sg10
 VLEO
 p1202
 sg12
-g13
+g9
 sa(dp1203
 g6
 VIt's my life, Leo.  I'm the one who's accountable. And not in the morning papers, not in the Democratic cloakroom, but in 50 or a 100 years when Tuesday's poll samples have crumbled into dust.
@@ -4436,7 +4436,7 @@ sg10
 VJOSH
 p1217
 sg12
-g13
+g41
 sa(dp1218
 g6
 V'Let thy discontents be thy secrets.'
@@ -4469,13 +4469,13 @@ sg10
 VTOBY
 p1226
 sg12
-g13
+g41
 sa(dp1227
 g6
 V'Cause it was a stupid thing to do, and you knew it.  Don't you want to try to take back Congress so we can legislate on a hundred of our issues?
 p1228
 sg8
-g49
+g41
 sg10
 VJOSH
 p1229
@@ -4491,7 +4491,7 @@ sg10
 VTOBY
 p1232
 sg12
-g13
+g9
 sa(dp1233
 g6
 VI'd like to swim the English Channel, too.  Takes more than jumping off a pier.
@@ -4530,7 +4530,7 @@ g6
 VWell, I came up on losing campaigns.  And every time I lost, at least I knew what I went down for.  Carney knew.
 p1243
 sg8
-g49
+g41
 sg10
 VTOBY
 p1244
@@ -4552,7 +4552,7 @@ g6
 VThe losers can kick up enough dirt to keep the debate going, maybe my letter will do that.
 p1249
 sg8
-g49
+g41
 sg10
 VTOBY
 p1250
@@ -4563,12 +4563,12 @@ g6
 VMake you a martyr.
 p1252
 sg8
-g49
+g41
 sg10
 VJOSH
 p1253
 sg12
-g13
+g41
 sa(dp1254
 g6
 VMake someone else pick up the ball. Inch by inch, we're moving the line of compromise.
@@ -4711,7 +4711,7 @@ sg10
 VTURNER
 p1292
 sg12
-g13
+g41
 sa(dp1293
 g6
 VNo, that's a deal-breaker for me. If it looks like a Democratic set- up...
@@ -4722,13 +4722,13 @@ sg10
 VGAINES
 p1295
 sg12
-g13
+g41
 sa(dp1296
 g6
 VI can't look like a fig leaf for some risky scheme to shred Social Security.
 p1297
 sg8
-g49
+g41
 sg10
 VTURNER
 p1298
@@ -4744,7 +4744,7 @@ sg10
 VGAINES
 p1301
 sg12
-g9
+g41
 sa(dp1302
 g6
 VSo you can drive a wedge into private accounts.
@@ -4761,7 +4761,7 @@ g6
 VSo you'd like to see it go into bankruptcy...
 p1306
 sg8
-g49
+g41
 sg10
 VGAINES
 p1307
@@ -4783,7 +4783,7 @@ g6
 VIf you approach the Republicans, he's a right-wing sell out, if you approach the Democrats, he's a fire-breathing partisan.
 p1312
 sg8
-g49
+g41
 sg10
 VJOSH
 p1313
@@ -4805,7 +4805,7 @@ g6
 VAnd, we have a little problem called the Wall Street Journal.
 p1318
 sg8
-g49
+g41
 sg10
 VJOSH
 p1319
@@ -4821,7 +4821,7 @@ sg10
 VBARTLET
 p1322
 sg12
-g9
+g41
 sa(dp1323
 g6
 VWhat?
@@ -4865,7 +4865,7 @@ sg10
 VLEO
 p1334
 sg12
-g13
+g9
 sa(dp1335
 g6
 VWe'll have practically saved The New Deal and no one will even know we were in the room.
@@ -4970,7 +4970,7 @@ g6
 VSo, what do we do when Republicans and Democrats no longer have Social Security to thrash each other with?
 p1363
 sg8
-g49
+g41
 sg10
 VCJ
 p1364

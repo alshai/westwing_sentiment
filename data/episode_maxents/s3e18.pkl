@@ -34,30 +34,30 @@ sg10
 VCAROL
 p15
 sg12
-g9
-sa(dp16
+S'negative'
+p16
+sa(dp17
 g6
 VYou want to make it clear that we're pushing for Slovenia and possibly the Baltic states. Estonia, Latvia, Lithuania.
-p17
+p18
 sg8
 g9
 sg10
 VSAM
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VNot Fredonia? We're going to leave Fredonia out there?
-p20
-sg8
-S'negative'
 p21
+sg8
+g16
 sg10
 VC.J.
 p22
 sg12
-g9
+g16
 sa(dp23
 g6
 VThe point is, the zero option's off the table.
@@ -124,7 +124,7 @@ sg10
 VC.J.
 p41
 sg12
-g9
+g16
 sa(dp42
 g6
 VWe like the bomber jackets.
@@ -135,18 +135,18 @@ sg10
 VTOBY
 p44
 sg12
-g9
+g16
 sa(dp45
 g6
 V[to Toby] See, when you make a joke...
 p46
 sg8
-g21
+g16
 sg10
 VC.J.
 p47
 sg12
-g25
+g9
 sa(dp48
 g6
 VMy jokes are funny.
@@ -157,7 +157,7 @@ sg10
 VTOBY
 p50
 sg12
-g9
+g25
 sa(dp51
 g6
 VFredonia was pretty good.
@@ -168,7 +168,7 @@ sg10
 VC.J.
 p53
 sg12
-g9
+g25
 sa(dp54
 g6
 VHeard it.
@@ -179,7 +179,7 @@ sg10
 VTOBY
 p56
 sg12
-g9
+g16
 sa(dp57
 g6
 V[to Toby] I'll give you $500 if you perform "Lydia the Tattooed Lady" at this year's Gridiron.
@@ -223,7 +223,7 @@ sg10
 VSAM
 p68
 sg12
-g9
+g25
 sa(dp69
 g6
 VAnd, you know, you of all people... the Russians finally elect a reformer, and you still...
@@ -234,7 +234,7 @@ sg10
 VTOBY
 p71
 sg12
-g9
+g25
 sa(dp72
 g6
 V20 years in the KGB, an election that will make Tammy Hall look like the League of Woman Voters... I'm not sure that qualifies as a... C.J.?
@@ -289,7 +289,7 @@ sg10
 VTOBY
 p86
 sg12
-g9
+g25
 sa(dp87
 g6
 VGood morning!
@@ -300,7 +300,7 @@ sg10
 VC.J.
 p89
 sg12
-g9
+g25
 sa(dp90
 g6
 VGood morning!
@@ -311,7 +311,7 @@ sg10
 VREPORTERS
 p92
 sg12
-g9
+g25
 sa(dp93
 g6
 VI have some scheduled details on the summit. Air Force One will depart Andrews at 7pm Friday, arriving at Helsinki 4am Eastern time, that's 11am Saturday local. Presidents Bartlet and Chigorin will have their first meeting at three o'clock at Mantyniemi - that's change, photo op, stills only, at the beginning of the meeting.
@@ -344,7 +344,7 @@ sg10
 VC.J.
 p101
 sg12
-g9
+g25
 sa(dp102
 g6
 VC.J., are you aware of the fire that happened at King Fatah Middle School?
@@ -361,7 +361,7 @@ g6
 VYeah, that's a tragedy. Chris?
 p106
 sg8
-g21
+g16
 sg10
 VC.J.
 p107
@@ -432,7 +432,7 @@ sg10
 VC.J.
 p125
 sg12
-g9
+g16
 sa(dp126
 g6
 VI'm sorry, C.J., but you're not outraged by this?
@@ -504,7 +504,7 @@ g6
 VI don't know. A kid wrote a letter to the President saying that when he was governor and campaigning, that he met his assistant Mr. Farley.
 p145
 sg8
-g21
+g16
 sg10
 VCHARLIE
 p146
@@ -553,7 +553,7 @@ sg10
 VCHARLIE
 p158
 sg12
-g9
+g25
 sa(dp159
 g6
 V[taking more papers from Ginger] We never did a budget speech in Pittsburgh.
@@ -570,23 +570,23 @@ g6
 VThis is a little weird.
 p163
 sg8
-g21
+g16
 sg10
 VCHARLIE
 p164
 sg12
-g21
+g16
 sa(dp165
 g6
 VWell, how many weird letters does the President get a day?
 p166
 sg8
-g21
+g16
 sg10
 VSAM
 p167
 sg12
-g9
+g16
 sa(dp168
 g6
 V[follows Sam around] Couple of thousand, but this one had the President private mail code on it, that's why I got it.
@@ -630,7 +630,7 @@ sg10
 VSAM
 p179
 sg12
-g9
+g16
 sa(dp180
 g6
 VGood morning, I'm Sam Seaborn.
@@ -663,7 +663,7 @@ sg10
 VSAM
 p188
 sg12
-g9
+g25
 sa(dp189
 g6
 VMr. Seaborn, uh, we understood that the protocol arrangements have been... have been finalized by the... by the advance teams in Helsinki.
@@ -696,7 +696,7 @@ sg10
 VKOZLOWSKI
 p197
 sg12
-g9
+g16
 sa(dp198
 g6
 VIt's coming up quickly. The summit, it's Saturday, and this is Monday.
@@ -718,7 +718,7 @@ sg10
 VKOZLOWSKI
 p203
 sg12
-g9
+g25
 sa(dp204
 g6
 VWe've agreed to a consecutive translation?
@@ -795,7 +795,7 @@ sg10
 VSAM
 p224
 sg12
-g9
+g16
 sa(dp225
 g6
 VYes.
@@ -839,7 +839,7 @@ sg10
 VSAM
 p236
 sg12
-g9
+g25
 sa(dp237
 g6
 VI'm sorry?
@@ -850,13 +850,13 @@ sg10
 VIVANOVICH
 p239
 sg12
-g9
+g16
 sa(dp240
 g6
 VIt's funny... [thinks about his choice of words] It's a coincidence that you should happen to mention the time of the meeting. See, President Chigorin only has to fly through one time zone. President Bartlet has to fly through seven. Don't get me wrong, this President can do three shows a night, but there's no one in the Western Hemisphere who has a worse reaction to jetlag than he does. Any trip 8 hours or longer and someone gets fired at the end of it, and it's already been me three times, so...
 p241
 sg8
-g21
+g16
 sg10
 VSAM
 p242
@@ -894,18 +894,18 @@ sg10
 VIVANOVICH
 p251
 sg12
-g9
+g16
 sa(dp252
 g6
 VOh, yeah, we're just getting started. You guys hungry?
 p253
 sg8
-g21
+g16
 sg10
 VSAM
 p254
 sg12
-g9
+g16
 sa(dp255
 g6
 VNo.
@@ -955,7 +955,7 @@ g6
 VThe yogurt place. Are those angry faxes?
 p268
 sg8
-g21
+g16
 sg10
 VDONNA
 p269
@@ -966,12 +966,12 @@ g6
 V[looking through papers] Yeah. They're very angry faxes.
 p271
 sg8
-g21
+g16
 sg10
 VC.J.
 p272
 sg12
-g21
+g16
 sa(dp273
 g6
 VFrom Saudis?
@@ -982,7 +982,7 @@ sg10
 VDONNA
 p275
 sg12
-g9
+g25
 sa(dp276
 g6
 VYeah.
@@ -1004,13 +1004,13 @@ sg10
 VDONNA
 p281
 sg12
-g9
+g25
 sa(dp282
 g6
 VVery angry faxes from Saudis and angry e-mails. Look at these.
 p283
 sg8
-g21
+g16
 sg10
 VC.J.
 p284
@@ -1059,18 +1059,18 @@ sg10
 VC.J.
 p296
 sg12
-g9
+g16
 sa(dp297
 g6
 VIt's a death threat.
 p298
 sg8
-g21
+g16
 sg10
 VDONNA
 p299
 sg12
-g9
+g16
 sa(dp300
 g6
 VIt's not a big deal.
@@ -1191,7 +1191,7 @@ sg10
 VDONNA
 p332
 sg12
-g9
+g16
 sa(dp333
 g6
 VYou take this seriously?
@@ -1202,18 +1202,18 @@ sg10
 VC.J.
 p335
 sg12
-g9
+g16
 sa(dp336
 g6
 VYeah, it's a death threat, C.J., I take it seriously. [stands up] I had some experience with this. [walks out]
 p337
 sg8
-g21
+g16
 sg10
 VJOSH
 p338
 sg12
-g9
+g16
 sa(dp339
 g6
 VThank you all so much. Bye-bye.
@@ -1224,7 +1224,7 @@ sg10
 VBARTLET
 p341
 sg12
-g9
+g16
 sa(dp342
 g6
 VBye-bye.
@@ -1263,12 +1263,12 @@ g6
 VI don't know. [beat] We've got a problem. Jake Kimball came to see me this morning.
 p352
 sg8
-g21
+g16
 sg10
 VLEO
 p353
 sg12
-g9
+g16
 sa(dp354
 g6
 VWhat's he doing here?
@@ -1329,7 +1329,7 @@ g6
 VThey discovered a problem with one of the...
 p370
 sg8
-g21
+g16
 sg10
 VLEO
 p371
@@ -1362,12 +1362,12 @@ g6
 VLeo, how the hell did...
 p379
 sg8
-g21
+g16
 sg10
 VBARTLET
 p380
 sg12
-g9
+g16
 sa(dp381
 g6
 VI know.
@@ -1378,7 +1378,7 @@ sg10
 VLEO
 p383
 sg12
-g9
+g16
 sa(dp384
 g6
 VThat's the end of Antares.
@@ -1406,7 +1406,7 @@ g6
 V98 thousand workers, I think 75 thousand in the US. Plus the kidney punch at NASDAQ...
 p391
 sg8
-g21
+g16
 sg10
 VBARTLET
 p392
@@ -1499,7 +1499,7 @@ sg10
 VFITZWALLACE
 p416
 sg12
-g9
+g25
 sa(dp417
 g6
 VThank you.
@@ -1549,7 +1549,7 @@ g6
 VWhat's the problem?
 p430
 sg8
-g21
+g16
 sg10
 VBARTLET
 p431
@@ -1675,7 +1675,7 @@ sg10
 VC.J.
 p464
 sg12
-g9
+g25
 sa(dp465
 g6
 V[to Janice] Excuse me. [follows C.J. inside] I'm gonna tell you something, you ready?
@@ -1752,7 +1752,7 @@ sg10
 VTOBY
 p485
 sg12
-g25
+g9
 sa(dp486
 g6
 VWell, I'm gonna change all that. I'd like you to meet with a Russian reporter named Ludmila Koss, she's the Washington correspondent for the Novaya Gazeta, she wants credentials and a seat on the press charter.
@@ -1807,7 +1807,7 @@ sg10
 VC.J.
 p500
 sg12
-g9
+g25
 sa(dp501
 g6
 VAha. Time to teach these Stoli-drinking Tchaikovskys a thing or two about free press American style! You don't ban those who supported you opponent, you make them wallow in their losedom by covering your victory. You sit them in the front row. You give them a hat! I will save Ludmila Koss, for I am Toby, and in doing so... Why am I going on like this?
@@ -1829,7 +1829,7 @@ sg10
 VC.J.
 p506
 sg12
-g25
+g16
 sa(dp507
 g6
 VSet up the meeting. Obviously, I have a little time.
@@ -1868,12 +1868,12 @@ g6
 VC.J., Frank Tenney spoke to me this morning.
 p517
 sg8
-g21
+g16
 sg10
 VRON
 p518
 sg12
-g9
+g16
 sa(dp519
 g6
 VYeah, Josh made me see him yesterday. He filed everything he was supposed to file.
@@ -1928,7 +1928,7 @@ sg10
 VC.J.
 p533
 sg12
-g21
+g16
 sa(dp534
 g6
 VOkay, he sent another one at 5:20 this morning. Have you had cyber-threats like this before?
@@ -1950,7 +1950,7 @@ sg10
 VC.J.
 p539
 sg12
-g9
+g16
 sa(dp540
 g6
 VAgent Tenney says that you don't recognize the sender's address.
@@ -1978,18 +1978,18 @@ g6
 VHave you had a bad breakup with a boyfriend lately?
 p547
 sg8
-g21
+g16
 sg10
 VRON
 p548
 sg12
-g25
+g16
 sa(dp549
 g6
 VCome on, Ron, I haven't had a boyfriend in a... I get a lot of hate mail. After the President, I'm the single most visible person in the Federal government, every day I'm on TV and every day exactly half the people are going to disagree with you and some of those people are going to hate you and some of those are gonna write letters.
 p550
 sg8
-g21
+g16
 sg10
 VC.J.
 p551
@@ -2000,7 +2000,7 @@ g6
 VYeah, this isn't hate mail, this is a death threat. Can I use your computer for a second?
 p553
 sg8
-g21
+g16
 sg10
 VRON
 p554
@@ -2016,7 +2016,7 @@ sg10
 VC.J.
 p557
 sg12
-g9
+g16
 sa(dp558
 g6
 VOkay. I'm gonna need to take your hard drive.
@@ -2071,7 +2071,7 @@ sg10
 VRON
 p572
 sg12
-g21
+g16
 sa(dp573
 g6
 VWhat do you mean?
@@ -2088,7 +2088,7 @@ g6
 VMulsim extremists don't get personal. They don't know your name, they don't care. They don't want one person, they want dozens or hundreds, that's why they don't use bullets. Killing one person is a waste of a bomb. He wants you, why doesn't he want me? Someone will be along in a few minutes to get your hard drive and we're intercepting all your e-mails from the address. Thank you. [leaves]
 p577
 sg8
-g21
+g16
 sg10
 VRON
 p578
@@ -2121,7 +2121,7 @@ g6
 VAnd... excuse me. [whispers with Kozlowski] Thank you. Venue, yes. [to Sam] And the venue can be moved to Hall of Mirrors.
 p586
 sg8
-g21
+g16
 sg10
 VIVANOVICH
 p587
@@ -2187,34 +2187,34 @@ g6
 VHe must wear coat. He must wear gloves. Scarves and earmuffs - permissible, but optional.
 p604
 sg8
-g21
+g16
 sg10
 VIVANOVICH
 p605
 sg12
-g9
+g25
 sa(dp606
 g6
 VHang on. 'Cause yes, 'cause President Chigorin wants to wear a coat and doesn't want to look like a wimp...
 p607
 sg8
-g21
+g16
 sg10
 VSAM
 p608
 sg12
-g9
+g16
 sa(dp609
 g6
 VSam, it is freezing too cold in Rheykjavik, it is freezing too cold in Helsinki, it is freezing too cold in Staad, why must every American president bound out of an automobile like he's at a yacht club, while in... excuse me, compare?
 p610
 sg8
-g21
+g16
 sg10
 VIVANOVICH
 p611
 sg12
-g9
+g16
 sa(dp612
 g6
 VComparison.
@@ -2313,7 +2313,7 @@ sg10
 VIVANOVICH
 p638
 sg12
-g21
+g16
 sa(dp639
 g6
 VWell, you were right.
@@ -2324,7 +2324,7 @@ sg10
 VCHARLIE
 p641
 sg12
-g25
+g9
 sa(dp642
 g6
 VAbout what?
@@ -2352,7 +2352,7 @@ g6
 VOr maybe, it's just a crazy letter.
 p649
 sg8
-g21
+g16
 sg10
 VSAM
 p650
@@ -2368,7 +2368,7 @@ sg10
 VCHARLIE
 p653
 sg12
-g9
+g16
 sa(dp654
 g6
 VHow do you know?
@@ -2379,18 +2379,18 @@ sg10
 VSAM
 p656
 sg12
-g25
+g9
 sa(dp657
 g6
 V'Cause I read a lot of crazy letters.
 p658
 sg8
-g21
+g16
 sg10
 VCHARLIE
 p659
 sg12
-g25
+g9
 sa(dp660
 g6
 VI got a letter last year asking me if I would donate my brain to a medical school in Granada. I'll tell you, there are days when I think, "Yeah, why not just get it over with?"
@@ -2445,7 +2445,7 @@ sg10
 VSAM
 p674
 sg12
-g21
+g9
 sa(dp675
 g6
 VWhat?
@@ -2467,7 +2467,7 @@ sg10
 VSAM
 p680
 sg12
-g9
+g25
 sa(dp681
 g6
 VCharlie. [hands him a piece of paper]
@@ -2610,7 +2610,7 @@ sg10
 VKOSS
 p719
 sg12
-g9
+g16
 sa(dp720
 g6
 VHave you met someone who does?
@@ -2632,7 +2632,7 @@ sg10
 VKOSS
 p725
 sg12
-g9
+g16
 sa(dp726
 g6
 VNo, I... I'm just talking. [They laugh.] Listen, you're already credentialed to cover our President, it's just a matter of putting you on a plane and, before I do that, I want to check with the State department to make sure it's not a grotesquely insulting thing to do to a new President from whom the US is hoping for quite a bit.
@@ -2676,7 +2676,7 @@ sg10
 VKOSS
 p737
 sg12
-g9
+g16
 sa(dp738
 g6
 VI've never done it. I've... never done anything, but I've seen pictures and it looks fun. I've seen pictures of people out there in the world, and they all look like they're glad they are. Now, granted, when I'm looking at these pictures, somebody's usually trying to sell me something, but tell you what: I'm 44 years old and I'm buying. I usually don't talk this much, but I'm having an odd day. Want to stay for a little and look at pictures of scuba-diving?
@@ -2698,7 +2698,7 @@ sg10
 VKOSS
 p743
 sg12
-g25
+g9
 sa(dp744
 g6
 V[stands up] Okay, then. We'll talk tomorrow.
@@ -2720,7 +2720,7 @@ sg10
 VKOSS
 p749
 sg12
-g9
+g16
 sa(dp750
 g6
 VThank you so much. Thank you.
@@ -2764,7 +2764,7 @@ sg10
 VLEO
 p761
 sg12
-g9
+g16
 sa(dp762
 g6
 VThere's nothing we can do.
@@ -2781,12 +2781,12 @@ g6
 VI'm not saying Commerce or Treasury calls the banks, but an emergency loan guarrantee if we can get Congress to...
 p766
 sg8
-g21
+g16
 sg10
 VLEO
 p767
 sg12
-g9
+g16
 sa(dp768
 g6
 V[comes up as they exit the room] Good morning, sir.
@@ -2797,7 +2797,7 @@ sg10
 VJOSH
 p770
 sg12
-g9
+g25
 sa(dp771
 g6
 VGood morning. [to Leo] Yeah, we can't do it.
@@ -2841,7 +2841,7 @@ sg10
 VLEO
 p782
 sg12
-g9
+g16
 sa(dp783
 g6
 VHe denies everything.
@@ -2852,7 +2852,7 @@ sg10
 VJOSH
 p785
 sg12
-g9
+g25
 sa(dp786
 g6
 VThat's good enough for me.
@@ -2863,7 +2863,7 @@ sg10
 VBARTLET
 p788
 sg12
-g9
+g25
 sa(dp789
 g6
 VHe doesn't deny that they're building a reactor; they've had contracts with Iran since '76 and he says that Deuterium-based reactors had been up and running in Canada for years.
@@ -2880,7 +2880,7 @@ g6
 VWell, Canada, Russia - roughly the same relationship with the US. Fitz, you old horse thief, you old muckety-muck!
 p793
 sg8
-g21
+g16
 sg10
 VBARTLET
 p794
@@ -2896,7 +2896,7 @@ sg10
 VFITZWALLACE
 p797
 sg12
-g9
+g25
 sa(dp798
 g6
 VJosh says the director of MinAtom says it's commercial power production.
@@ -2940,18 +2940,18 @@ sg10
 VJOSH
 p809
 sg12
-g9
+g16
 sa(dp810
 g6
 VIt lost some customers after Chernobyl.
 p811
 sg8
-g21
+g16
 sg10
 VLEO
 p812
 sg12
-g9
+g16
 sa(dp813
 g6
 V[sits] Yeah, that's 'welcome to free markets the hard way,' but my point is the light water reactor contracts are way behind schedule, there are all kinds of technical failures.
@@ -2984,7 +2984,7 @@ sg10
 VJOSH
 p821
 sg12
-g9
+g16
 sa(dp822
 g6
 VCrap. And even if that were the case, it doesn't make them Jean Valjean. They want to power broker in the Middle East. Just what the doctor ordered for the Middle East.
@@ -3039,7 +3039,7 @@ sg10
 VJOSH
 p836
 sg12
-g9
+g16
 sa(dp837
 g6
 VWhat?
@@ -3089,7 +3089,7 @@ g6
 VThis is insane!
 p850
 sg8
-g21
+g16
 sg10
 VJOSH
 p851
@@ -3127,7 +3127,7 @@ sg10
 VLEO
 p860
 sg12
-g9
+g16
 sa(dp861
 g6
 VThere are other issues on the table! There's NATO expansion, the Caspian pipeline...
@@ -3144,7 +3144,7 @@ g6
 V[shouting] You don't get to put it on in Iran! There are no other issues on the table right now. We're going to have to fly over there and blow this thing up and given what they're manufacturing there, I don't know if that's possible. [stands up and sits in another chair] We were all so smart. Russia's hobbled, the next conflict's going to be in the Middle East. Turns out it is in the Middle East. With the Russians.
 p865
 sg8
-g21
+g16
 sg10
 VLEO
 p866
@@ -3177,7 +3177,7 @@ g6
 VChigorin just took office four months ago. How can you be sure it's not a rogue thing?
 p874
 sg8
-g21
+g16
 sg10
 VJOSH
 p875
@@ -3188,12 +3188,12 @@ g6
 VI don't want a leak, Josh. Everyone's proceeding like we're going?
 p877
 sg8
-g21
+g16
 sg10
 VLEO
 p878
 sg12
-g9
+g16
 sa(dp879
 g6
 VYes. How can you be sure?
@@ -3215,7 +3215,7 @@ sg10
 VLEO
 p884
 sg12
-g9
+g16
 sa(dp885
 g6
 VToby!
@@ -3237,7 +3237,7 @@ sg10
 VTOBY
 p890
 sg12
-g9
+g16
 sa(dp891
 g6
 VIs there still a summit to go to?
@@ -3270,7 +3270,7 @@ sg10
 VMAN
 p899
 sg12
-g9
+g16
 sa(dp900
 g6
 VYeah. I mean, I wanted to talk to you because I'd been asked to put a reporter from the Novaya Gazeta on the press plane.
@@ -3287,7 +3287,7 @@ g6
 VThat's a mistake.
 p904
 sg8
-g21
+g16
 sg10
 VMAN
 p905
@@ -3309,18 +3309,18 @@ g6
 VYou understand there isn't a paper or any publication in Russia that is more critical of the Chigorin government.
 p910
 sg8
-g21
+g16
 sg10
 VMAN
 p911
 sg12
-g9
+g16
 sa(dp912
 g6
 VWell, the editorial judgement aside, what's the damage assessment?
 p913
 sg8
-g21
+g16
 sg10
 VTOBY
 p914
@@ -3347,7 +3347,7 @@ sg10
 VTOBY
 p920
 sg12
-g9
+g16
 sa(dp921
 g6
 VHow do you suggest we do that?
@@ -3369,7 +3369,7 @@ sg10
 VTOBY
 p926
 sg12
-g9
+g16
 sa(dp927
 g6
 VWe've got about half a dozen American reporters in Moscow whose credentials are pending. Toby, this is like if they credentialed the Enquirer to cover the summit!
@@ -3457,7 +3457,7 @@ sg10
 VC.J.
 p950
 sg12
-g9
+g16
 sa(dp951
 g6
 VBecause Ron says it is, and around here we do whatever Ron says.
@@ -3485,7 +3485,7 @@ g6
 VGood for you. With all your years of training and experience in sniffing out crime, your opinion really carries a lot of weight with me.
 p958
 sg8
-g21
+g16
 sg10
 VBARTLET
 p959
@@ -3496,12 +3496,12 @@ g6
 VI don't want to appear fragile.
 p961
 sg8
-g21
+g16
 sg10
 VC.J.
 p962
 sg12
-g9
+g16
 sa(dp963
 g6
 VAre you kidding?
@@ -3578,7 +3578,7 @@ sg10
 VBARTLET
 p983
 sg12
-g9
+g16
 sa(dp984
 g6
 VSir...
@@ -3617,7 +3617,7 @@ g6
 VLet me tell you something! The last time a member of my staff got a death threat, they missed him and hit me!
 p994
 sg8
-g21
+g16
 sg10
 VBARTLET
 p995
@@ -3688,7 +3688,7 @@ sg10
 VC.J.
 p1013
 sg12
-g25
+g9
 sa(dp1014
 g6
 VToby.
@@ -3721,7 +3721,7 @@ sg10
 VTOBY
 p1022
 sg12
-g9
+g25
 sa(dp1023
 g6
 VOh man, the greatest campaign speech ever about money - FDR promises to tighten our belts. What's he do when he gets here - spends more than we knew could be spent. And it's 'cause he discovered it's better for long-term growth. [sits down to read]
@@ -3738,7 +3738,7 @@ g6
 VThe journal probably wrote an editorial about his broken promises too.
 p1027
 sg8
-g21
+g16
 sg10
 VTOBY
 p1028
@@ -3787,7 +3787,7 @@ sg10
 VCHARLIE
 p1040
 sg12
-g9
+g16
 sa(dp1041
 g6
 VI said, FDR gave a budget speech in 1932...
@@ -3831,7 +3831,7 @@ sg10
 VTOBY
 p1052
 sg12
-g25
+g9
 sa(dp1053
 g6
 VMmm-hmmm.
@@ -3853,7 +3853,7 @@ sg10
 VLEO
 p1058
 sg12
-g9
+g25
 sa(dp1059
 g6
 VHow's it going?
@@ -3925,7 +3925,7 @@ g6
 V[sighs] Aaaah, was wilst du von mein Leben? What do you want from my life? The government can't be in the business of cosigning loans.
 p1078
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1079
@@ -3947,18 +3947,18 @@ g6
 V[stands up] It's a subsidy.
 p1084
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1085
 sg12
-g9
+g16
 sa(dp1086
 g6
 VIt's a small one!
 p1087
 sg8
-g21
+g16
 sg10
 VLEO
 p1088
@@ -3980,12 +3980,12 @@ g6
 VSir! This was not a failure of business, it was... I don't know, it was a mistake, it was human error, and Jake's been completely forth...
 p1093
 sg8
-g21
+g16
 sg10
 VLEO
 p1094
 sg12
-g9
+g16
 sa(dp1095
 g6
 VThe marketplace will take care of Antares.
@@ -4002,7 +4002,7 @@ g6
 VThe marketplace will kill Antares.
 p1099
 sg8
-g21
+g16
 sg10
 VLEO
 p1100
@@ -4035,7 +4035,7 @@ g6
 VThat was an industry that was hurt by unfair trade practices. Antares was hurt by their own carelessness.
 p1108
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1109
@@ -4079,7 +4079,7 @@ g6
 V[shouts] They were huge contributors! How the hell am I supposed... They were huge contributors!
 p1120
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1121
@@ -4090,7 +4090,7 @@ g6
 VCarelessness doesn't have to exist for a mistake to be made.
 p1123
 sg8
-g21
+g16
 sg10
 VLEO
 p1124
@@ -4150,7 +4150,7 @@ sg10
 VBARTLET
 p1139
 sg12
-g9
+g16
 sa(dp1140
 g6
 VYes, sir.
@@ -4172,7 +4172,7 @@ sg10
 VBARTLET
 p1145
 sg12
-g9
+g16
 sa(dp1146
 g6
 VThank you, Mr. President.
@@ -4183,7 +4183,7 @@ sg10
 VLEO
 p1148
 sg12
-g25
+g9
 sa(dp1149
 g6
 VThe Baltic herring industry was subject of recent trade agreement between Russians and Finns. However, we'll take off menu.
@@ -4216,13 +4216,13 @@ sg10
 VIVANOVICH
 p1157
 sg12
-g21
+g16
 sa(dp1158
 g6
 VThat is the most ridiculous thing I've ever heard. Put whatever you want on the menu.
 p1159
 sg8
-g21
+g16
 sg10
 VSAM
 p1160
@@ -4238,7 +4238,7 @@ sg10
 VIVANOVICH
 p1163
 sg12
-g9
+g25
 sa(dp1164
 g6
 VI would like to request that the press pool be allowed to take photographs in the Arctic People's exhibit.
@@ -4260,7 +4260,7 @@ sg10
 VIVANOVICH
 p1169
 sg12
-g9
+g25
 sa(dp1170
 g6
 VAnd that, my good friends, is that. It was a pleasure doing business with you.
@@ -4326,7 +4326,7 @@ sg10
 VIVANOVICH
 p1187
 sg12
-g9
+g16
 sa(dp1188
 g6
 VThe language has been worked out with the State, Commerce, and Defense, it's way...
@@ -4348,7 +4348,7 @@ sg10
 VIVANOVICH
 p1193
 sg12
-g25
+g9
 sa(dp1194
 g6
 VOkay.
@@ -4381,7 +4381,7 @@ sg10
 VSAM
 p1202
 sg12
-g21
+g16
 sa(dp1203
 g6
 VMine.
@@ -4436,7 +4436,7 @@ sg10
 VIVANOVICH
 p1217
 sg12
-g9
+g25
 sa(dp1218
 g6
 VYes. Thank you.
@@ -4491,7 +4491,7 @@ sg10
 VKOSS
 p1232
 sg12
-g9
+g16
 sa(dp1233
 g6
 VEither way, I found out why Chigorin and his people have such a problem with you.
@@ -4513,13 +4513,13 @@ sg10
 VKOSS
 p1238
 sg12
-g9
+g16
 sa(dp1239
 g6
 VNo, it's because you stink.
 p1240
 sg8
-g21
+g16
 sg10
 VTOBY
 p1241
@@ -4535,13 +4535,13 @@ sg10
 VKOSS
 p1244
 sg12
-g9
+g16
 sa(dp1245
 g6
 VYou can beg all you want, you're not gonna get it. Last month, you alleged that the Chigorin government bombed several apartment buildings based on an unattributed source. It was refuted; you never retracted!
 p1246
 sg8
-g21
+g16
 sg10
 VTOBY
 p1247
@@ -4552,7 +4552,7 @@ g6
 VThe government's case was all over the television!
 p1249
 sg8
-g21
+g16
 sg10
 VKOSS
 p1250
@@ -4585,7 +4585,7 @@ g6
 VYou reported the failing grades of the Defense Minister's twelve-year-old son! Does that even count as journalism? Does that do anything but bring ridicule on a defenseless kid? We've got people like you here, on cable and on the Internet, and there's no one anywhere on the ideological spectrum that doesn't roll their eyes when their names are spoken out loud. You know, we've always had free press here, we take it for granted... how can you [crumples the paper] treat it like this?! You should give up your space and put another naked woman in there! [beat] Anyway. Here are your credentials.
 p1258
 sg8
-g21
+g16
 sg10
 VTOBY
 p1259
@@ -4612,7 +4612,7 @@ sg10
 VBARTLET
 p1265
 sg12
-g9
+g25
 sa(dp1266
 g6
 VWe've talked to him. He's moved up HMO reform, there's nothing we can do about it, and the welfare of your people comes first.
@@ -4634,7 +4634,7 @@ sg10
 VWOMAN
 p1271
 sg12
-g9
+g25
 sa(dp1272
 g6
 VThis makes sense.
@@ -4645,7 +4645,7 @@ sg10
 VFITZWALLACE
 p1274
 sg12
-g9
+g25
 sa(dp1275
 g6
 VWe save face and send a strong message.
@@ -4656,7 +4656,7 @@ sg10
 VLEO
 p1277
 sg12
-g9
+g25
 sa(dp1278
 g6
 VAnybody? Can I use this to get out of weddings and stuff? [sits down] Sam, the Majority Leader's gonna move up HMO reform and my Duma's gonna vote on it, what do you think?
@@ -4794,7 +4794,7 @@ g6
 V[stands up] We've been trying to get non-proliferation on the agenda, we've been trying to put those exact words in Chigorin's mouth.
 p1315
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1316
@@ -4843,7 +4843,7 @@ sg10
 VFITZWALLACE
 p1328
 sg12
-g9
+g16
 sa(dp1329
 g6
 VIt's the old diplomatic corps, and he can't trust them yet, sir.
@@ -4898,7 +4898,7 @@ sg10
 VLEO
 p1343
 sg12
-g25
+g9
 sa(dp1344
 g6
 VThanks, everyone! Thank you. Thanks!
@@ -4909,7 +4909,7 @@ sg10
 VBARTLET
 p1346
 sg12
-g9
+g25
 sa(dp1347
 g6
 VI've got Jake Kimball in my office.
@@ -4953,7 +4953,7 @@ sg10
 VBARTLET
 p1358
 sg12
-g9
+g25
 sa(dp1359
 g6
 VThank you.
@@ -4970,12 +4970,12 @@ g6
 VTell me again why I can't wear whatever the hell I want?
 p1363
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1364
 sg12
-g9
+g16
 sa(dp1365
 g6
 VWell, that's not entirely true, sir: the earmuffs are optional.
@@ -4997,7 +4997,7 @@ sg10
 VBARTLET
 p1370
 sg12
-g9
+g16
 sa(dp1371
 g6
 VYes, sir. [leaves]
@@ -5030,7 +5030,7 @@ sg10
 VBARTLET
 p1379
 sg12
-g9
+g16
 sa(dp1380
 g6
 VNo. Leo wanted to see if we could guarantee a loan.
@@ -5052,7 +5052,7 @@ sg10
 VJAKE
 p1385
 sg12
-g9
+g16
 sa(dp1386
 g6
 VI appreciate that, and I can't give it to you, but I think I can do Leo one better.
@@ -5063,7 +5063,7 @@ sg10
 VBARTLET
 p1388
 sg12
-g25
+g9
 sa(dp1389
 g6
 VWhat?
@@ -5151,7 +5151,7 @@ sg10
 VBARTLET
 p1412
 sg12
-g9
+g16
 sa(dp1413
 g6
 VYes, sir.
@@ -5168,7 +5168,7 @@ g6
 VI knew I'd get screwed by a computer one day. [Leo smiles.] I have an important photo op, excuse me. [leaves abruptly]
 p1417
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1418
@@ -5245,7 +5245,7 @@ g6
 VWell, I'll be damned.
 p1438
 sg8
-g21
+g16
 sg10
 VTATUM
 p1439
@@ -5349,7 +5349,7 @@ sg10
 VTATUM
 p1466
 sg12
-g9
+g25
 sa(dp1467
 g6
 VThe White House owes you one picture.
@@ -5382,7 +5382,7 @@ sg10
 VTATUM
 p1475
 sg12
-g21
+g9
 sa(dp1476
 g6
 V[as they shake hands] Good to meet you!
@@ -5437,7 +5437,7 @@ sg10
 VBARTLET
 p1490
 sg12
-g25
+g9
 sa(dp1491
 g6
 VYes, sir, 53 years on the Spirit of St. Louis. New York to St. Louis.
@@ -5503,7 +5503,7 @@ sg10
 VTATUM
 p1508
 sg12
-g25
+g9
 sa(dp1509
 g6
 VWhere are you going? You got pictures, what do you I get?
@@ -5525,13 +5525,13 @@ sg10
 VTATUM
 p1514
 sg12
-g9
+g16
 sa(dp1515
 g6
 VYou were there, you were at his feet, you got to tell me everything! Sit, we're going to get some food. [to Dr. Tatum] You sit quietly over there and try to resist temptation to bill me for something.
 p1516
 sg8
-g21
+g16
 sg10
 VBARTLET
 p1517
@@ -5602,7 +5602,7 @@ sg10
 VC.J.
 p1535
 sg12
-g21
+g25
 sa(dp1536
 g6
 VWhat is it you'd like to know?
@@ -5646,7 +5646,7 @@ sg10
 VC.J.
 p1547
 sg12
-g9
+g16
 sa(dp1548
 g6
 VI don't need to see you naked or anything.
@@ -5657,7 +5657,7 @@ sg10
 VSIMON
 p1550
 sg12
-g9
+g16
 sa(dp1551
 g6
 VOkay.

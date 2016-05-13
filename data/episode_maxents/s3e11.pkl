@@ -90,7 +90,7 @@ sg10
 VSAM
 p31
 sg12
-g13
+g9
 sa(dp32
 g6
 VWhich one's Joey?
@@ -134,30 +134,30 @@ sg10
 VSAM
 p43
 sg12
-g13
-sa(dp44
+S'negative'
+p44
+sa(dp45
 g6
 VCould he go easy with the pictures?
-p45
+p46
 sg8
 g13
 sg10
 VSAM
-p46
+p47
 sg12
 g13
-sa(dp47
+sa(dp48
 g6
 VYou said it wouldn't be a problem.
-p48
-sg8
-S'negative'
 p49
+sg8
+g44
 sg10
 VLISA
 p50
 sg12
-g13
+g44
 sa(dp51
 g6
 VWhen did I say that?
@@ -174,12 +174,12 @@ g6
 VC.J. Cregg said it wouldn't be a problem.
 p55
 sg8
-g49
+g44
 sg10
 VLISA
 p56
 sg12
-g13
+g44
 sa(dp57
 g6
 VJoey, this is Lisa Sherborne. She's doing a piece for Vanity Fair.
@@ -207,7 +207,7 @@ g6
 V"Death is bad."
 p64
 sg8
-g49
+g44
 sg10
 VSAM
 p65
@@ -234,7 +234,7 @@ sg10
 VLISA
 p71
 sg12
-g13
+g44
 sa(dp72
 g6
 VWe don't really talk about that.
@@ -245,7 +245,7 @@ sg10
 VSAM
 p74
 sg12
-g13
+g44
 sa(dp75
 g6
 VYou think there's anything you're gonna talk about, or is this gonna be an extraction?
@@ -306,7 +306,7 @@ g6
 V[to a man in controls] Hey, crank that up.
 p91
 sg8
-g49
+g44
 sg10
 VSAM
 p92
@@ -317,7 +317,7 @@ g6
 VYou broke 65 in all the lines.
 p94
 sg8
-g49
+g44
 sg10
 VLISA
 p95
@@ -372,12 +372,12 @@ g6
 VWe almost cured cancer.
 p109
 sg8
-g49
+g44
 sg10
 VSAM
 p110
 sg12
-g9
+g44
 sa(dp111
 g6
 VReally?
@@ -465,7 +465,7 @@ sg10
 VAMY
 p134
 sg12
-g13
+g44
 sa(dp135
 g6
 VYes.
@@ -520,7 +520,7 @@ sg10
 VJOSH
 p149
 sg12
-g9
+g44
 sa(dp150
 g6
 VYou're doing it again.
@@ -586,7 +586,7 @@ sg10
 VJOSH
 p167
 sg12
-g13
+g9
 sa(dp168
 g6
 VSam Seaborn!
@@ -641,13 +641,13 @@ sg10
 VJOSH
 p182
 sg12
-g13
+g9
 sa(dp183
 g6
 VThe dials were what we thought. We'll wait for the overnights.
 p184
 sg8
-g49
+g44
 sg10
 VSAM
 p185
@@ -691,7 +691,7 @@ g6
 VStill a pompous jackass?
 p196
 sg8
-g49
+g44
 sg10
 VLISA
 p197
@@ -707,7 +707,7 @@ sg10
 VJOSH
 p200
 sg12
-g13
+g9
 sa(dp201
 g6
 VCongratulations, Sam.
@@ -718,13 +718,13 @@ sg10
 VMAN
 p203
 sg12
-g13
+g9
 sa(dp204
 g6
 VTell me about the cancer thing.
 p205
 sg8
-g49
+g44
 sg10
 VLISA
 p206
@@ -746,18 +746,18 @@ g6
 VYou were gonna cure cancer.
 p211
 sg8
-g49
+g44
 sg10
 VLISA
 p212
 sg12
-g13
+g44
 sa(dp213
 g6
 VWe were gonna say we were gonna cure cancer. Curing it is someone else's department.
 p214
 sg8
-g49
+g44
 sg10
 VSAM
 p215
@@ -773,7 +773,7 @@ sg10
 VLISA
 p218
 sg12
-g13
+g9
 sa(dp219
 g6
 VHow does what work?
@@ -784,7 +784,7 @@ sg10
 VSAM
 p221
 sg12
-g13
+g9
 sa(dp222
 g6
 VDeciding what you're gonna say.
@@ -828,7 +828,7 @@ sg10
 VSAM
 p233
 sg12
-g13
+g44
 sa(dp234
 g6
 VI'm writing along story.
@@ -839,7 +839,7 @@ sg10
 VLISA
 p236
 sg12
-g9
+g44
 sa(dp237
 g6
 VDo you do any kind of preparation before you come to report...
@@ -916,7 +916,7 @@ sg10
 VLISA
 p257
 sg12
-g13
+g44
 sa(dp258
 g6
 VHmm?
@@ -938,7 +938,7 @@ sg10
 VLISA
 p263
 sg12
-g13
+g44
 sa(dp264
 g6
 VIt's hard under the best circumstances. Obviously, it got a little harder two weeks ago.
@@ -993,7 +993,7 @@ sg10
 VLEO
 p278
 sg12
-g13
+g9
 sa(dp279
 g6
 VWhat's going on?
@@ -1015,7 +1015,7 @@ sg10
 VLEO
 p284
 sg12
-g13
+g9
 sa(dp285
 g6
 VHow's he feeling?
@@ -1087,7 +1087,7 @@ g6
 VWe should leak in the meantime, soften up the ground?
 p304
 sg8
-g49
+g44
 sg10
 VC.J.
 p305
@@ -1219,7 +1219,7 @@ g6
 VPostponing or canceling's an admission of defeat.
 p340
 sg8
-g49
+g44
 sg10
 VSAM
 p341
@@ -1230,18 +1230,18 @@ g6
 VHe's accepting a censure. That is defeat. And you don't ask the school bully out to lunch the day after he stole your lunch money.
 p343
 sg8
-g49
+g44
 sg10
 VC.J.
 p344
 sg12
-g13
+g44
 sa(dp345
 g6
 VYou don't go on a starvation diet, either. And we can spin the censure as a bipartisan...
 p346
 sg8
-g49
+g44
 sg10
 VSAM
 p347
@@ -1252,12 +1252,12 @@ g6
 VYou can't spin a formal denunciation from the legislative branch. It spins itself.
 p349
 sg8
-g49
+g44
 sg10
 VC.J.
 p350
 sg12
-g13
+g9
 sa(dp351
 g6
 VI don't...
@@ -1268,13 +1268,13 @@ sg10
 VSAM
 p353
 sg12
-g13
+g44
 sa(dp354
 g6
 VIt's our biggest press hit of the year, our biggest pre-convention campaign exposure. I don't know how you make a formal report to Congress when Congress just called you a liar.
 p355
 sg8
-g49
+g44
 sg10
 VC.J.
 p356
@@ -1367,7 +1367,7 @@ sg10
 VC.J.
 p380
 sg12
-g13
+g9
 sa(dp381
 g6
 VC.J....
@@ -1477,7 +1477,7 @@ sg10
 VC.J.
 p410
 sg12
-g13
+g44
 sa(dp411
 g6
 VI'm not doing it.
@@ -1488,7 +1488,7 @@ sg10
 VSAM
 p413
 sg12
-g13
+g44
 sa(dp414
 g6
 VI'd like you to.
@@ -1499,7 +1499,7 @@ sg10
 VC.J.
 p416
 sg12
-g9
+g44
 sa(dp417
 g6
 VWhat happened to rule number one on staff profiles being that we don't do staff profiles?
@@ -1582,7 +1582,7 @@ g6
 VDid it help or hurt?
 p439
 sg8
-g49
+g44
 sg10
 VC.J.
 p440
@@ -1664,7 +1664,7 @@ sg10
 VSAM
 p461
 sg12
-g13
+g9
 sa(dp462
 g6
 VI could do this for a living. [exits]
@@ -1675,7 +1675,7 @@ sg10
 VC.J.
 p464
 sg12
-g13
+g44
 sa(dp465
 g6
 VDo you have anything?
@@ -1708,7 +1708,7 @@ sg10
 VSAM
 p473
 sg12
-g9
+g44
 sa(dp474
 g6
 VIf you didn't have anything, you wouldn't be out here at the party.
@@ -1791,23 +1791,23 @@ g6
 VI can wait.
 p496
 sg8
-g49
+g44
 sg10
 VLISA
 p497
 sg12
-g13
+g44
 sa(dp498
 g6
 VI need you to wait over there.
 p499
 sg8
-g49
+g44
 sg10
 VSAM
 p500
 sg12
-g13
+g44
 sa(dp501
 g6
 VOkay.
@@ -1840,7 +1840,7 @@ sg10
 VSAM
 p509
 sg12
-g13
+g44
 sa(dp510
 g6
 VJust tell me.
@@ -1851,7 +1851,7 @@ sg10
 VSAM
 p512
 sg12
-g13
+g44
 sa(dp513
 g6
 VIndependents?
@@ -1873,7 +1873,7 @@ sg10
 VSAM
 p518
 sg12
-g13
+g44
 sa(dp519
 g6
 VSam...
@@ -1901,7 +1901,7 @@ g6
 VTen minutes. You said ten minutes and not this bad.
 p526
 sg8
-g49
+g44
 sg10
 VSAM
 p527
@@ -1923,7 +1923,7 @@ g6
 VTop line, cross-tabs, whatever you get, I got a bad feeling about tonight.
 p532
 sg8
-g49
+g44
 sg10
 VSAM
 p533
@@ -1972,7 +1972,7 @@ sg10
 VSAM
 p545
 sg12
-g13
+g44
 sa(dp546
 g6
 VHow's it look?
@@ -1983,7 +1983,7 @@ sg10
 VLISA
 p548
 sg12
-g13
+g9
 sa(dp549
 g6
 VIt's too early to tell.
@@ -2071,7 +2071,7 @@ sg10
 VLISA
 p572
 sg12
-g13
+g44
 sa(dp573
 g6
 VI like to let them know they're talking to a reporter.
@@ -2088,7 +2088,7 @@ g6
 VYou really are uncomfortable with me being here, right? You're not just, you know, being you.
 p577
 sg8
-g49
+g44
 sg10
 VLISA
 p578
@@ -2104,13 +2104,13 @@ sg10
 VSAM
 p581
 sg12
-g13
+g44
 sa(dp582
 g6
 VHow did curing cancer get cut from the State of the Union?
 p583
 sg8
-g49
+g44
 sg10
 VLISA
 p584
@@ -2132,18 +2132,18 @@ g6
 VCuring cancer?
 p589
 sg8
-g49
+g44
 sg10
 VLISA
 p590
 sg12
-g13
+g44
 sa(dp591
 g6
 VHey, we had to cut a section about making government manuals easier to read, so curing cancer can take a number.
 p592
 sg8
-g49
+g44
 sg10
 VSAM
 p593
@@ -2159,7 +2159,7 @@ sg10
 VLISA
 p596
 sg12
-g13
+g44
 sa(dp597
 g6
 VI'm not pissed at you. I'm working.
@@ -2170,7 +2170,7 @@ sg10
 VSAM
 p599
 sg12
-g13
+g44
 sa(dp600
 g6
 VYou're done working.
@@ -2198,12 +2198,12 @@ g6
 V[laughs softly] A section on government manuals.
 p607
 sg8
-g49
+g44
 sg10
 VLISA
 p608
 sg12
-g13
+g44
 sa(dp609
 g6
 VDonna?
@@ -2324,7 +2324,7 @@ sg10
 VJOSH
 p641
 sg12
-g13
+g44
 sa(dp642
 g6
 VWhat are you doing?
@@ -2341,12 +2341,12 @@ g6
 VA late drink.
 p646
 sg8
-g49
+g44
 sg10
 VJOSH
 p647
 sg12
-g13
+g44
 sa(dp648
 g6
 VWhere are you going?
@@ -2379,7 +2379,7 @@ sg10
 VDONNA
 p656
 sg12
-g9
+g44
 sa(dp657
 g6
 VI don't.
@@ -2390,7 +2390,7 @@ sg10
 VJOSH
 p659
 sg12
-g13
+g44
 sa(dp660
 g6
 VWhy?
@@ -2407,7 +2407,7 @@ g6
 VWell, for one thing, the piano player only seems to know one song.
 p664
 sg8
-g49
+g44
 sg10
 VJOSH
 p665
@@ -2500,7 +2500,7 @@ sg10
 VDONNA
 p689
 sg12
-g13
+g44
 sa(dp690
 g6
 VIt was official travel.
@@ -2522,7 +2522,7 @@ sg10
 VDONNA
 p695
 sg12
-g9
+g44
 sa(dp696
 g6
 VWhat does the rule say?
@@ -2550,7 +2550,7 @@ g6
 VWhat's the problem?
 p703
 sg8
-g49
+g44
 sg10
 VJOSH
 p704
@@ -2599,7 +2599,7 @@ sg10
 VJOSH
 p716
 sg12
-g13
+g44
 sa(dp717
 g6
 VWe're getting beat by the system.
@@ -2627,12 +2627,12 @@ g6
 VWe suck.
 p724
 sg8
-g49
+g44
 sg10
 VDONNA
 p725
 sg12
-g13
+g44
 sa(dp726
 g6
 VYes. I need the welfare-to-work memo.
@@ -2649,7 +2649,7 @@ g6
 VHow many words in the Gettysburg address?
 p730
 sg8
-g49
+g44
 sg10
 VDONNA
 p731
@@ -2698,7 +2698,7 @@ sg10
 VDONNA
 p743
 sg12
-g13
+g44
 sa(dp744
 g6
 VNo.
@@ -2764,7 +2764,7 @@ sg10
 VJOSH
 p761
 sg12
-g49
+g13
 sa(dp762
 g6
 VI was thinking about the speech.
@@ -2786,7 +2786,7 @@ sg10
 VJOSH
 p767
 sg12
-g13
+g44
 sa(dp768
 g6
 VDon't ask me how it's going.
@@ -2808,7 +2808,7 @@ sg10
 VJOSH
 p773
 sg12
-g13
+g44
 sa(dp774
 g6
 VIt's in the larva stage. You can't rush these things. It's not like putting a hammer to a nail. [pause] I need some pie.
@@ -2874,7 +2874,7 @@ sg10
 VJOSH
 p791
 sg12
-g13
+g44
 sa(dp792
 g6
 VHow'd it end up going last night?
@@ -2896,7 +2896,7 @@ sg10
 VJOSH
 p797
 sg12
-g49
+g13
 sa(dp798
 g6
 VYeah.
@@ -2918,7 +2918,7 @@ sg10
 VJOSH
 p803
 sg12
-g13
+g9
 sa(dp804
 g6
 VHere's the memo.
@@ -3072,7 +3072,7 @@ sg10
 VJOSH
 p845
 sg12
-g13
+g9
 sa(dp846
 g6
 VWhy?
@@ -3105,7 +3105,7 @@ sg10
 VTOBY
 p854
 sg12
-g9
+g44
 sa(dp855
 g6
 VWhy?
@@ -3182,7 +3182,7 @@ sg10
 VJOSH
 p875
 sg12
-g13
+g44
 sa(dp876
 g6
 VWhy?
@@ -3199,12 +3199,12 @@ g6
 V'Cause that's ridiculous.
 p880
 sg8
-g49
+g44
 sg10
 VJOSH
 p881
 sg12
-g13
+g44
 sa(dp882
 g6
 VReally?
@@ -3221,7 +3221,7 @@ g6
 VNo. It's not ridiculous. Of course, you're right.
 p886
 sg8
-g49
+g44
 sg10
 VJOSH
 p887
@@ -3237,7 +3237,7 @@ sg10
 VTOBY
 p890
 sg12
-g13
+g9
 sa(dp891
 g6
 VFriends of Abbey.
@@ -3281,7 +3281,7 @@ sg10
 VBARTLET
 p902
 sg12
-g13
+g44
 sa(dp903
 g6
 VAbbey just went to take a phone call.
@@ -3292,7 +3292,7 @@ sg10
 VBARTLET
 p905
 sg12
-g13
+g44
 sa(dp906
 g6
 VWe've tested it on 12 patients.
@@ -3303,7 +3303,7 @@ sg10
 VWOMAN
 p908
 sg12
-g13
+g44
 sa(dp909
 g6
 VIt is. Yeah. The first drug.
@@ -3325,7 +3325,7 @@ sg10
 VWOMAN
 p914
 sg12
-g49
+g13
 sa(dp915
 g6
 VI'm telling you, we're ten years, 25 billion dollars and a good luck charm away from curing human cancer.
@@ -3375,7 +3375,7 @@ g6
 VYeah. That destroys cancer cells without killing the healthy ones.
 p928
 sg8
-g49
+g44
 sg10
 VWOMAN
 p929
@@ -3386,7 +3386,7 @@ g6
 VRight. The part I understand was Bobby saying we could cure cancer in ten years.
 p931
 sg8
-g49
+g44
 sg10
 VBARTLET
 p932
@@ -3397,18 +3397,18 @@ g6
 VNot cure it, but make it chronic.
 p934
 sg8
-g49
+g44
 sg10
 VBOBBY
 p935
 sg12
-g9
+g44
 sa(dp936
 g6
 VIn other words, make it so that people could live with it?
 p937
 sg8
-g49
+g44
 sg10
 VBARTLET
 p938
@@ -3435,7 +3435,7 @@ sg10
 VBARTLET
 p944
 sg12
-g13
+g9
 sa(dp945
 g6
 VI don't know.
@@ -3446,7 +3446,7 @@ sg10
 VWOMAN
 p947
 sg12
-g13
+g44
 sa(dp948
 g6
 VWho at this table knows?
@@ -3490,7 +3490,7 @@ sg10
 VWOMAN
 p959
 sg12
-g13
+g44
 sa(dp960
 g6
 VHe just said...
@@ -3507,12 +3507,12 @@ g6
 VIt's cancer. Nobody knows anything.
 p964
 sg8
-g49
+g44
 sg10
 VWOMAN
 p965
 sg12
-g13
+g44
 sa(dp966
 g6
 VHe just said ten years. I want to hear about this from the beginning. Talk to me like I'm not an oncologist.
@@ -3534,7 +3534,7 @@ sg10
 VTOBY
 p971
 sg12
-g13
+g44
 sa(dp972
 g6
 VWe'll get some more.
@@ -3567,7 +3567,7 @@ sg10
 VSAM
 p980
 sg12
-g13
+g44
 sa(dp981
 g6
 VI can look at it when you're ready.
@@ -3611,7 +3611,7 @@ sg10
 VSAM
 p992
 sg12
-g13
+g44
 sa(dp993
 g6
 VI wouldn't think so.
@@ -3622,7 +3622,7 @@ sg10
 VTOBY
 p995
 sg12
-g13
+g44
 sa(dp996
 g6
 VC.J. asked me if the reason we didn't get married was because her name would've been Lisa Sherborne Seaborn.
@@ -3688,7 +3688,7 @@ sg10
 VTOBY
 p1013
 sg12
-g9
+g44
 sa(dp1014
 g6
 VShe didn't like me very much. [sits back down]
@@ -3699,7 +3699,7 @@ sg10
 VSAM
 p1016
 sg12
-g49
+g44
 sa(dp1017
 g6
 VAh.
@@ -3732,7 +3732,7 @@ sg10
 VSAM
 p1025
 sg12
-g13
+g9
 sa(dp1026
 g6
 VI want to call everybody in. I just had dinner with some of Abbey's friends. They're all oncologists. I think in the State of the Union, I can announce that I'm directing our researchers to have a cure for cancer in ten years. Call everybody in.
@@ -3749,7 +3749,7 @@ g6
 VThis is about the censure.
 p1030
 sg8
-g49
+g44
 sg10
 VTOBY
 p1031
@@ -3798,18 +3798,18 @@ sg10
 VJOSH
 p1043
 sg12
-g9
+g13
 sa(dp1044
 g6
 VI hate you.
 p1045
 sg8
-g49
+g44
 sg10
 VAMY
 p1046
 sg12
-g9
+g44
 sa(dp1047
 g6
 VLet's look at the facts.
@@ -3820,7 +3820,7 @@ sg10
 VJOSH
 p1049
 sg12
-g13
+g9
 sa(dp1050
 g6
 VOkay.
@@ -3859,7 +3859,7 @@ g6
 VAll right. He had a 69% favorability rating with women. You need 93% favorability among men to beat that, and Mahatma Gandhi doesn't get that in the Florida 20th.
 p1060
 sg8
-g49
+g44
 sg10
 VJOSH
 p1061
@@ -3892,12 +3892,12 @@ g6
 V'Cause you're an idiot?
 p1069
 sg8
-g49
+g44
 sg10
 VAMY
 p1070
 sg12
-g13
+g44
 sa(dp1071
 g6
 V'Cause women started going over to Lieberman.
@@ -3969,7 +3969,7 @@ g6
 VI know everything. And you are the door to women. The WLC put nine million dollars in the hands of pro-choice candidates. You narrowed the gap in the House from 14 to nine in one election. You bring home the bacon.
 p1090
 sg8
-g49
+g44
 sg10
 VJOSH
 p1091
@@ -3980,7 +3980,7 @@ g6
 VYou think John's worried about losing women? He runs and Emily's List practically makes a wire transfer. He crushed his last opponent in Lauderhill -- I don't even remember his name -- but he was a moderate pro-choice Republican, and there was 29% gender differential. You think he's going around with me 'cause he's afraid of Nan Lieberman?
 p1093
 sg8
-g49
+g44
 sg10
 VAMY
 p1094
@@ -3996,7 +3996,7 @@ sg10
 VJOSH
 p1097
 sg12
-g13
+g44
 sa(dp1098
 g6
 V[chuckles] Well, I've never been so flattered in my life.
@@ -4018,7 +4018,7 @@ sg10
 VJOSH
 p1103
 sg12
-g13
+g44
 sa(dp1104
 g6
 VDon't talk to me.
@@ -4106,7 +4106,7 @@ sg10
 VJOSH
 p1127
 sg12
-g49
+g44
 sa(dp1128
 g6
 VYes.
@@ -4128,7 +4128,7 @@ sg10
 VJOSH
 p1133
 sg12
-g13
+g44
 sa(dp1134
 g6
 VNot talk to me.
@@ -4172,7 +4172,7 @@ sg10
 VJOSH
 p1145
 sg12
-g13
+g44
 sa(dp1146
 g6
 VDon't talk to me.
@@ -4227,7 +4227,7 @@ sg10
 VTOBY
 p1160
 sg12
-g13
+g44
 sa(dp1161
 g6
 VWhy?
@@ -4244,7 +4244,7 @@ g6
 VThe President thinks he can cure cancer.
 p1165
 sg8
-g49
+g44
 sg10
 VTOBY
 p1166
@@ -4260,7 +4260,7 @@ sg10
 VJOSH
 p1169
 sg12
-g13
+g9
 sa(dp1170
 g6
 VYeah. I'll see you in a few minutes.
@@ -4409,7 +4409,7 @@ g6
 VCould be worse, you know.
 p1210
 sg8
-g49
+g44
 sg10
 VLARRY
 p1211
@@ -4431,12 +4431,12 @@ g6
 VHe could have cancer.
 p1216
 sg8
-g49
+g44
 sg10
 VLARRY
 p1217
 sg12
-g49
+g44
 sa(dp1218
 g6
 VDo the two of you ever go anywhere separately?
@@ -4453,23 +4453,23 @@ g6
 VIt's weird, isn't it?
 p1222
 sg8
-g49
+g44
 sg10
 VED
 p1223
 sg12
-g13
+g44
 sa(dp1224
 g6
 VA little weird. Yeah.
 p1225
 sg8
-g49
+g44
 sg10
 VJOSH
 p1226
 sg12
-g49
+g44
 sa(dp1227
 g6
 VWhat's going on? What was that phone call?
@@ -4497,7 +4497,7 @@ g6
 VNot at all well. You know whose fault that is?
 p1234
 sg8
-g49
+g44
 sg10
 VJOSH
 p1235
@@ -4585,12 +4585,12 @@ g6
 VTotally your fault.
 p1258
 sg8
-g49
+g44
 sg10
 VJOSH
 p1259
 sg12
-g13
+g44
 sa(dp1260
 g6
 VI'm just, you know... I'm just the guy who does the thing.
@@ -4623,18 +4623,18 @@ sg10
 VTOBY
 p1268
 sg12
-g13
+g44
 sa(dp1269
 g6
 VGood evening. Thanks for being here so late.
 p1270
 sg8
-g49
+g44
 sg10
 VBARTLET
 p1271
 sg12
-g13
+g44
 sa(dp1272
 g6
 VGood evening, Mr. President.
@@ -4755,13 +4755,13 @@ sg10
 VC.J.
 p1304
 sg12
-g13
+g9
 sa(dp1305
 g6
 VYou think people with cancer care what my motives are? You think their families do?
 p1306
 sg8
-g49
+g44
 sg10
 VBARTLET
 p1307
@@ -4777,7 +4777,7 @@ sg10
 VC.J.
 p1310
 sg12
-g13
+g44
 sa(dp1311
 g6
 VJoey?
@@ -4799,7 +4799,7 @@ sg10
 VBARTLET
 p1316
 sg12
-g13
+g44
 sa(dp1317
 g6
 VEverybody cares about motive, Mr. President.
@@ -4821,7 +4821,7 @@ sg10
 VBARTLET
 p1322
 sg12
-g13
+g44
 sa(dp1323
 g6
 VShe said, "Everybody cares about motive," sir.
@@ -4865,7 +4865,7 @@ sg10
 VBARTLET
 p1334
 sg12
-g13
+g44
 sa(dp1335
 g6
 VI think you should. I think ambition is good. I think overreaching is good. I think giving people a vision of government that's more than Social Security checks and debt reduction is good. I think government should be optimistic.
@@ -4920,7 +4920,7 @@ sg10
 VBARTLET
 p1349
 sg12
-g13
+g9
 sa(dp1350
 g6
 VI don't have an hour and a half to spend on this.
@@ -4931,7 +4931,7 @@ sg10
 VTOBY
 p1352
 sg12
-g13
+g44
 sa(dp1353
 g6
 VI can do it.
@@ -4942,7 +4942,7 @@ sg10
 VSAM
 p1355
 sg12
-g13
+g44
 sa(dp1356
 g6
 VYou don't have an hour and a half to spend on it either.
@@ -4953,13 +4953,13 @@ sg10
 VTOBY
 p1358
 sg12
-g13
+g44
 sa(dp1359
 g6
 VWhy are you opposed to this?
 p1360
 sg8
-g49
+g44
 sg10
 VSAM
 p1361
@@ -4970,7 +4970,7 @@ g6
 VStopping what we're doing to write about curing cancer?
 p1363
 sg8
-g49
+g44
 sg10
 VTOBY
 p1364
@@ -5008,7 +5008,7 @@ sg10
 VSAM
 p1373
 sg12
-g9
+g13
 sa(dp1374
 g6
 VI don't know.
@@ -5019,7 +5019,7 @@ sg10
 VSAM
 p1376
 sg12
-g13
+g44
 sa(dp1377
 g6
 VI don't know.
@@ -5030,7 +5030,7 @@ sg10
 VSAM
 p1379
 sg12
-g13
+g44
 sa(dp1380
 g6
 V[exits his office] That's how I know.
@@ -5052,7 +5052,7 @@ sg10
 VSAM
 p1385
 sg12
-g13
+g44
 sa(dp1386
 g6
 VI don't want you spending more than an hour and half. [goes to his office]
@@ -5151,7 +5151,7 @@ sg10
 VSAM
 p1412
 sg12
-g9
+g13
 sa(dp1413
 g6
 VI have to work now. The President asked me to try this.
@@ -5195,7 +5195,7 @@ sg10
 VJOEY
 p1424
 sg12
-g13
+g44
 sa(dp1425
 g6
 VSo many women, so little charm.
@@ -5223,7 +5223,7 @@ g6
 V[faces him] Let me tell you something. Making government manuals easier to read?
 p1432
 sg8
-g49
+g44
 sg10
 VDONNA
 p1433
@@ -5250,7 +5250,7 @@ sg10
 VDONNA
 p1439
 sg12
-g49
+g13
 sa(dp1440
 g6
 VCome with me.
@@ -5261,7 +5261,7 @@ sg10
 VAMY
 p1442
 sg12
-g13
+g44
 sa(dp1443
 g6
 V[to Donna] Excuse me.
@@ -5272,7 +5272,7 @@ sg10
 VJOSH
 p1445
 sg12
-g13
+g44
 sa(dp1446
 g6
 V[whispers] He happens to be more feminist than the White House.
@@ -5294,7 +5294,7 @@ sg10
 VJOSH
 p1451
 sg12
-g13
+g44
 sa(dp1452
 g6
 VI said he happens to be more feminist than the White House.
@@ -5322,7 +5322,7 @@ g6
 VFeminist. He wrote the amendment to the HHS Appropriations Bill that made violence near abortion clinics a federal crime while you guys were seeking legal commentary.
 p1459
 sg8
-g49
+g44
 sg10
 VAMY
 p1460
@@ -5344,7 +5344,7 @@ g6
 VHe almost single-handedly beat back three parental consent bills, and on two of them, he ran his own damn whip operation because they weren't Leadership priorities.
 p1465
 sg8
-g49
+g44
 sg10
 VAMY
 p1466
@@ -5366,7 +5366,7 @@ g6
 VAnd he ties the Violence Against Women Act to the last crime bill...
 p1471
 sg8
-g49
+g44
 sg10
 VAMY
 p1472
@@ -5388,7 +5388,7 @@ g6
 V...over White House objection.
 p1477
 sg8
-g49
+g44
 sg10
 VAMY
 p1478
@@ -5426,7 +5426,7 @@ sg10
 VJOSH
 p1487
 sg12
-g13
+g44
 sa(dp1488
 g6
 VThat he's using me.
@@ -5624,7 +5624,7 @@ sg10
 VBARTLET
 p1541
 sg12
-g13
+g9
 sa(dp1542
 g6
 VYeah.
@@ -5646,7 +5646,7 @@ sg10
 VBARTLET
 p1547
 sg12
-g13
+g9
 sa(dp1548
 g6
 VYou know we can't do it.
@@ -5701,7 +5701,7 @@ sg10
 VSAM
 p1562
 sg12
-g13
+g9
 sa(dp1563
 g6
 VWe'd want to include the Society of Clinical Oncology.
@@ -5745,7 +5745,7 @@ sg10
 VSAM
 p1574
 sg12
-g13
+g9
 sa(dp1575
 g6
 V[sighs] It was a good idea though.
@@ -5767,7 +5767,7 @@ sg10
 VSAM
 p1580
 sg12
-g49
+g13
 sa(dp1581
 g6
 VSo we don't get water from a rock. We just do our thing and take our chances.
@@ -5778,7 +5778,7 @@ sg10
 VBARTLET
 p1583
 sg12
-g13
+g44
 sa(dp1584
 g6
 VI think so.
@@ -5789,7 +5789,7 @@ sg10
 VSAM
 p1586
 sg12
-g13
+g44
 sa(dp1587
 g6
 V[stands] We're gonna have to do it awfully well this time.
@@ -5800,7 +5800,7 @@ sg10
 VBARTLET
 p1589
 sg12
-g13
+g44
 sa(dp1590
 g6
 VWe've done that before.
@@ -5811,7 +5811,7 @@ sg10
 VSAM
 p1592
 sg12
-g13
+g44
 sa(dp1593
 g6
 VAnything else?
@@ -5822,7 +5822,7 @@ sg10
 VBARTLET
 p1595
 sg12
-g13
+g44
 sa(dp1596
 g6
 V[shakes his head] Thank you, Mr. President.
@@ -5850,7 +5850,7 @@ g6
 V[to the men] Would you excuse me?
 p1603
 sg8
-g49
+g44
 sg10
 VC.J.
 p1604
@@ -5910,7 +5910,7 @@ sg10
 VC.J.
 p1619
 sg12
-g13
+g44
 sa(dp1620
 g6
 VI got one.
@@ -5987,7 +5987,7 @@ sg10
 VCAROL
 p1640
 sg12
-g13
+g9
 sa(dp1641
 g6
 VNice job. Take the rest of the night off.
@@ -6053,13 +6053,13 @@ sg10
 VC.J.
 p1658
 sg12
-g13
+g44
 sa(dp1659
 g6
 VWhat is wrong with you?
 p1660
 sg8
-g49
+g44
 sg10
 VSAM
 p1661
@@ -6086,7 +6086,7 @@ sg10
 VSAM
 p1667
 sg12
-g13
+g44
 sa(dp1668
 g6
 VWhy? It was a shining moment.
@@ -6130,7 +6130,7 @@ sg10
 VSAM
 p1679
 sg12
-g13
+g44
 sa(dp1680
 g6
 VIt wasn't a Vegas act. It was stirring. And I wouldn't hang your head when you say it got the job done. That job was impossible and it had to be done. There aren't ten guys in the country who could write that speech.
@@ -6152,7 +6152,7 @@ sg10
 VSAM
 p1685
 sg12
-g13
+g44
 sa(dp1686
 g6
 VHey, I'm just, you know. Anyway, congratulations. And if you're serious about that thing with Carol, I can just sit in the corner and not even say...
@@ -6174,7 +6174,7 @@ sg10
 VC.J.
 p1691
 sg12
-g13
+g44
 sa(dp1692
 g6
 VSorry. I was just getting some polling numbers.
@@ -6185,7 +6185,7 @@ sg10
 VSAM
 p1694
 sg12
-g13
+g44
 sa(dp1695
 g6
 VCan you tell me what they were?
@@ -6240,7 +6240,7 @@ sg10
 VLISA
 p1709
 sg12
-g13
+g44
 sa(dp1710
 g6
 V[pause] Anyway... [shows Lisa inside his office] This is my office.
@@ -6306,7 +6306,7 @@ sg10
 VLISA
 p1727
 sg12
-g9
+g13
 sa(dp1728
 g6
 V'Cause I don't know what the cool restaurant is, and I don't care. When I get hungry, I want to eat. And I don't know where the Tommy Hilfiger party is, and I don't know what to do once I get there.
@@ -6317,7 +6317,7 @@ sg10
 VSAM
 p1730
 sg12
-g13
+g44
 sa(dp1731
 g6
 VYou're full of crap.
@@ -6339,7 +6339,7 @@ sg10
 VSAM
 p1736
 sg12
-g13
+g44
 sa(dp1737
 g6
 VYou're full of crap, and you think too little of me, and I didn't leave you. You left me, and you did it to do this, and the reason you're pissy is 'cause I'm here looking at you and writing about you, and you're wondering if I'm gonna think you've been doing anything at all.
@@ -6361,7 +6361,7 @@ sg10
 VSAM
 p1742
 sg12
-g13
+g44
 sa(dp1743
 g6
 VYou have.
@@ -6383,7 +6383,7 @@ sg10
 VSAM
 p1748
 sg12
-g9
+g13
 sa(dp1749
 g6
 VI don't know.
@@ -6394,13 +6394,13 @@ sg10
 VLISA
 p1751
 sg12
-g13
+g44
 sa(dp1752
 g6
 V[pause] Here's something interesting. In 1940, our armed forces weren't among the 12 most formidable in the world, but obviously we were gonna fight a big war. And Roosevelt said the U.S. would produce 50,000 planes in the next four years. Everyone taught it was a joke, and it was. 'Cause it turned out we produced 100,000 planes. Gave the air force an armada that would block the sun.
 p1753
 sg8
-g49
+g44
 sg10
 VSAM
 p1754
@@ -6422,7 +6422,7 @@ g6
 VAbout curing cancer?
 p1759
 sg8
-g49
+g44
 sg10
 VSAM
 p1760
@@ -6449,7 +6449,7 @@ sg10
 VLISA
 p1766
 sg12
-g13
+g44
 sa(dp1767
 g6
 V[reads] "Over the past half-century, we've split the atom, we've spliced the gene, and we've roamed Tranquility Base. We've reached for the stars, and never have we been closer to having them in our grasp. New science, new technology is making the difference between life and death, and so we need a national commitment equal to this unparalleled moment of possibility. And so, I announce to you tonight, that I will bring the full resources of the federal government and the full reach of my office to this fundamental goal: we will cure cancer by the end of this decade."

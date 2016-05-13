@@ -80,7 +80,7 @@ sg10
 VSAM
 p29
 sg12
-g13
+g9
 sa(dp30
 g6
 VYes, I told him. He's pretty groggy after the anesthesia.
@@ -91,7 +91,7 @@ sg10
 VABBEY
 p32
 sg12
-g13
+g19
 sa(dp33
 g6
 VSam, Toby, you've got a phone call in the other room.
@@ -190,7 +190,7 @@ sg10
 VC.J.
 p59
 sg12
-g13
+g9
 sa(dp60
 g6
 VSam, I need you to come back to the White House and speak to Nancy McNally about a letter the President was supposed to sign. She'll know what you're talking about.
@@ -223,7 +223,7 @@ sg10
 VC.J.
 p68
 sg12
-g13
+g9
 sa(dp69
 g6
 VYeah?
@@ -311,7 +311,7 @@ sg10
 VTOBY
 p92
 sg12
-g13
+g9
 sa(dp93
 g6
 VNo.
@@ -377,7 +377,7 @@ sg10
 VASSOCIATE
 p110
 sg12
-g13
+g9
 sa(dp111
 g6
 VActually. I have a thing. I have a thing I was going to mention, just a proposal to throw out there. When I was a congressional aide, we had an expression, 'no idea was too stupid to say out loud,' so here it is, bear me out. [beat] Instead of buying these ships? Don't buy these ships. Buy other ships. Better ships. That's my idea.
@@ -465,7 +465,7 @@ sg10
 VSAM
 p134
 sg12
-g9
+g13
 sa(dp135
 g6
 VMaybe they want to buy safer boats, but we never gave them the option.
@@ -531,7 +531,7 @@ sg10
 VSAM
 p152
 sg12
-g13
+g19
 sa(dp153
 g6
 VMoney's going to be spent, Mr. Loch, you can spend it now, or you can spend it later, but it's cheaper to spend it now.
@@ -773,7 +773,7 @@ sg10
 VC.J.
 p218
 sg12
-g13
+g9
 sa(dp219
 g6
 VNo.
@@ -883,7 +883,7 @@ sg10
 VC.J.
 p248
 sg12
-g13
+g9
 sa(dp249
 g6
 VThey just wanted --
@@ -894,7 +894,7 @@ sg10
 VCAROL
 p251
 sg12
-g13
+g9
 sa(dp252
 g6
 VNo, I'm not doing any interviews just yet, I'm not doing it.
@@ -905,7 +905,7 @@ sg10
 VC.J.
 p254
 sg12
-g13
+g9
 sa(dp255
 g6
 VI'll take care of it.
@@ -971,7 +971,7 @@ sg10
 VDANNY
 p272
 sg12
-g13
+g9
 sa(dp273
 g6
 VSomebody around here thought I should do the morning shows.
@@ -982,7 +982,7 @@ sg10
 VC.J.
 p275
 sg12
-g13
+g9
 sa(dp276
 g6
 VI still don't have an answer.
@@ -1015,7 +1015,7 @@ sg10
 VDANNY
 p284
 sg12
-g13
+g9
 sa(dp285
 g6
 VDanny, it's a little complicated. There's something called the National Security Act of 1947. There's the 25th. Nancy McNally, the White House Counsel, Bill Hutchinson, they're all working on it right now.
@@ -1081,7 +1081,7 @@ sg10
 VC.J.
 p302
 sg12
-g13
+g19
 sa(dp303
 g6
 VI'm sorry.
@@ -1092,7 +1092,7 @@ sg10
 VC.J.
 p305
 sg12
-g13
+g9
 sa(dp306
 g6
 VI said, I asked her to be here 45 minutes ago.
@@ -1136,7 +1136,7 @@ sg10
 VROGER
 p317
 sg12
-g13
+g9
 sa(dp318
 g6
 VI wasn't. Am I up for something?
@@ -1180,7 +1180,7 @@ sg10
 VC.J.
 p329
 sg12
-g13
+g9
 sa(dp330
 g6
 VTwo nominations!
@@ -1422,7 +1422,7 @@ sg10
 VC.J.
 p395
 sg12
-g13
+g9
 sa(dp396
 g6
 VI'm sorry.
@@ -1433,7 +1433,7 @@ sg10
 VISOBEL
 p398
 sg12
-g13
+g9
 sa(dp399
 g6
 VOut here in the hallway!?
@@ -1477,7 +1477,7 @@ sg10
 VISOBEL
 p410
 sg12
-g13
+g9
 sa(dp411
 g6
 VI couldn't get my contacts in this morning, and I broke my glasses getting out of the car. I can't drive myself home. I need someone to call me a cab.
@@ -1488,7 +1488,7 @@ sg10
 VC.J.
 p413
 sg12
-g13
+g9
 sa(dp414
 g6
 V[to suit standing in lobby] Could you call a taxi for C.J., please? [to C.J.] I have to go back in.
@@ -1510,7 +1510,7 @@ sg10
 VC.J.
 p419
 sg12
-g13
+g9
 sa(dp420
 g6
 VHello?
@@ -1532,7 +1532,7 @@ sg10
 VTOBY
 p425
 sg12
-g13
+g19
 sa(dp426
 g6
 VWho is that?
@@ -1554,7 +1554,7 @@ sg10
 VTOBY
 p431
 sg12
-g13
+g9
 sa(dp432
 g6
 VToby?
@@ -1598,7 +1598,7 @@ sg10
 VTOBY
 p443
 sg12
-g13
+g19
 sa(dp444
 g6
 VI can't see!
@@ -1675,7 +1675,7 @@ sg10
 VTOBY
 p464
 sg12
-g13
+g9
 sa(dp465
 g6
 VAvert your eyes!
@@ -1752,7 +1752,7 @@ sg10
 VC.J.
 p485
 sg12
-g19
+g13
 sa(dp486
 g6
 VC.J., Jed Bartlet is very impressed with you.
@@ -1763,7 +1763,7 @@ sg10
 VTOBY
 p488
 sg12
-g13
+g19
 sa(dp489
 g6
 VHe likes the work that you did with that girl's group with the stupid name.
@@ -1785,7 +1785,7 @@ sg10
 VC.J.
 p494
 sg12
-g13
+g19
 sa(dp495
 g6
 VYes.
@@ -1884,7 +1884,7 @@ sg10
 VTOBY
 p521
 sg12
-g13
+g9
 sa(dp522
 g6
 VBartlet's impressed with me?
@@ -1895,7 +1895,7 @@ sg10
 VC.J.
 p524
 sg12
-g13
+g19
 sa(dp525
 g6
 VVery impressed. And one of the big keys to his game plan is bringing you on as Press Secretary.
@@ -1950,7 +1950,7 @@ sg10
 VTOBY
 p539
 sg12
-g13
+g9
 sa(dp540
 g6
 VMcGarry wants me.
@@ -1961,7 +1961,7 @@ sg10
 VC.J.
 p542
 sg12
-g13
+g9
 sa(dp543
 g6
 VYes. Come join the campaign.
@@ -1972,7 +1972,7 @@ sg10
 VTOBY
 p545
 sg12
-g13
+g19
 sa(dp546
 g6
 VHow much does it pay?
@@ -1994,7 +1994,7 @@ sg10
 VTOBY
 p551
 sg12
-g13
+g9
 sa(dp552
 g6
 V$550,000 a year.
@@ -2005,7 +2005,7 @@ sg10
 VC.J.
 p554
 sg12
-g13
+g19
 sa(dp555
 g6
 VThis pays $600 a week.
@@ -2071,7 +2071,7 @@ sg10
 VC.J.
 p572
 sg12
-g13
+g9
 sa(dp573
 g6
 VYeah.
@@ -2258,7 +2258,7 @@ sg10
 VCHARLIE
 p623
 sg12
-g13
+g9
 sa(dp624
 g6
 VNo.
@@ -2280,7 +2280,7 @@ sg10
 VCHARLIE
 p629
 sg12
-g13
+g9
 sa(dp630
 g6
 VCharlie. The President wasn't the target. According to the statement, the President wasn't the target.
@@ -2302,7 +2302,7 @@ sg10
 VCHARLIE
 p635
 sg12
-g13
+g19
 sa(dp636
 g6
 VDad, I'm going to --
@@ -2346,7 +2346,7 @@ sg10
 VMARGARET
 p647
 sg12
-g13
+g9
 sa(dp648
 g6
 VThe President is going under general anesthesia, he usually signs a letter handing over executive powers to the Vice President.
@@ -2368,7 +2368,7 @@ sg10
 VMARGARET
 p653
 sg12
-g13
+g9
 sa(dp654
 g6
 VNope. We blew that play.
@@ -2379,7 +2379,7 @@ sg10
 VLEO
 p656
 sg12
-g13
+g9
 sa(dp657
 g6
 VIs there going to be trouble?
@@ -2412,7 +2412,7 @@ sg10
 VMARGARET
 p665
 sg12
-g13
+g9
 sa(dp666
 g6
 VYeah.
@@ -2500,7 +2500,7 @@ sg10
 VMARGARET
 p689
 sg12
-g13
+g9
 sa(dp690
 g6
 VI would think.
@@ -2511,7 +2511,7 @@ sg10
 VLEO
 p692
 sg12
-g13
+g9
 sa(dp693
 g6
 VAnd what the hell were you doing practicing the President's signature?
@@ -2533,7 +2533,7 @@ sg10
 VMARGARET
 p698
 sg12
-g13
+g9
 sa(dp699
 g6
 VWe've got separation of powers, checks and balances, and Margaret vetoing things and sending them back to the Hill.
@@ -2599,7 +2599,7 @@ sg10
 VC.J.
 p716
 sg12
-g13
+g9
 sa(dp717
 g6
 VWhy?
@@ -2632,7 +2632,7 @@ sg10
 VLEO
 p725
 sg12
-g13
+g9
 sa(dp726
 g6
 VNothing.
@@ -2665,7 +2665,7 @@ sg10
 VC.J.
 p734
 sg12
-g19
+g9
 sa(dp735
 g6
 VHave Sam do it.
@@ -2687,7 +2687,7 @@ sg10
 VC.J.
 p740
 sg12
-g13
+g19
 sa(dp741
 g6
 VYeah.
@@ -2808,7 +2808,7 @@ sg10
 VLEO
 p773
 sg12
-g13
+g9
 sa(dp774
 g6
 VYeah, I should, though.
@@ -2819,7 +2819,7 @@ sg10
 VTOBY
 p776
 sg12
-g13
+g9
 sa(dp777
 g6
 VOkay, who can tell me what we did wrong there?
@@ -2841,7 +2841,7 @@ sg10
 VBARTLET
 p782
 sg12
-g13
+g9
 sa(dp783
 g6
 VWe didn't have the candidate. That's right. Anyone who answered "we didn't have the candidate" -
@@ -2896,7 +2896,7 @@ sg10
 VTOBY
 p797
 sg12
-g13
+g9
 sa(dp798
 g6
 V[to Josh] And which one are you?
@@ -2907,7 +2907,7 @@ sg10
 VBARTLET
 p800
 sg12
-g13
+g9
 sa(dp801
 g6
 VI'm Josh.
@@ -2918,7 +2918,7 @@ sg10
 VJOSH
 p803
 sg12
-g13
+g9
 sa(dp804
 g6
 V[to Toby] What was it you wanted to say?
@@ -2962,7 +2962,7 @@ sg10
 VTOBY
 p815
 sg12
-g13
+g19
 sa(dp816
 g6
 VHe's right.
@@ -3017,7 +3017,7 @@ sg10
 VTOBY
 p830
 sg12
-g13
+g9
 sa(dp831
 g6
 VYou're incredibly popular in this state.
@@ -3061,7 +3061,7 @@ sg10
 VBARTLET
 p842
 sg12
-g13
+g9
 sa(dp843
 g6
 VToby meant in the polls.
@@ -3116,7 +3116,7 @@ sg10
 VTOBY
 p857
 sg12
-g13
+g9
 sa(dp858
 g6
 VWe just have to beat Wiley.
@@ -3149,7 +3149,7 @@ sg10
 VLEO
 p866
 sg12
-g13
+g9
 sa(dp867
 g6
 VAre we going to get his endorsement?
@@ -3237,7 +3237,7 @@ sg10
 VTOBY
 p890
 sg12
-g13
+g19
 sa(dp891
 g6
 VWhere we come away with a split, maybe better, and now the prohibitive nominee for the democratic candidate has lost 3 out of seven contests...
@@ -3281,7 +3281,7 @@ sg10
 VJOSH
 p902
 sg12
-g13
+g19
 sa(dp903
 g6
 VThis race will be decided a week later in Illinois.
@@ -3391,7 +3391,7 @@ sg10
 VJOSH
 p932
 sg12
-g13
+g19
 sa(dp933
 g6
 VHe's very easy to like, once you get to know him.
@@ -3424,7 +3424,7 @@ sg10
 VLEO
 p941
 sg12
-g13
+g9
 sa(dp942
 g6
 VOkay.
@@ -3479,7 +3479,7 @@ sg10
 VJOSH
 p956
 sg12
-g19
+g13
 sa(dp957
 g6
 VI'm Donna Moss, who are you?
@@ -3501,7 +3501,7 @@ sg10
 VJOSH
 p962
 sg12
-g13
+g9
 sa(dp963
 g6
 VAh.
@@ -3534,7 +3534,7 @@ sg10
 VDONNA
 p971
 sg12
-g19
+g9
 sa(dp972
 g6
 VDid I have an old assistant?
@@ -3545,7 +3545,7 @@ sg10
 VJOSH
 p974
 sg12
-g9
+g13
 sa(dp975
 g6
 VMaybe not.
@@ -3556,7 +3556,7 @@ sg10
 VDONNA
 p977
 sg12
-g13
+g9
 sa(dp978
 g6
 VWho are you?
@@ -3567,7 +3567,7 @@ sg10
 VJOSH
 p980
 sg12
-g19
+g13
 sa(dp981
 g6
 VI'm Donna Moss, I came here to volunteer and the woman assigned me to you.
@@ -3633,7 +3633,7 @@ sg10
 VJOSH
 p998
 sg12
-g19
+g13
 sa(dp999
 g6
 VI'm Donna Moss, I'll be working as your assistant.
@@ -3644,7 +3644,7 @@ sg10
 VDONNA
 p1001
 sg12
-g13
+g9
 sa(dp1002
 g6
 VI'm going to talk to Margaret.
@@ -3721,7 +3721,7 @@ sg10
 VJOSH
 p1022
 sg12
-g19
+g13
 sa(dp1023
 g6
 VI'm Donna Moss, I drove up here from Madison, Wisconsin?
@@ -3732,7 +3732,7 @@ sg10
 VDONNA
 p1025
 sg12
-g13
+g9
 sa(dp1026
 g6
 VWhen did your boyfriend break up with you?
@@ -3754,7 +3754,7 @@ sg10
 VDONNA
 p1031
 sg12
-g13
+g9
 sa(dp1032
 g6
 VWell, you're too old for your parents to have kicked you out of the house.
@@ -3787,7 +3787,7 @@ sg10
 VJOSH
 p1040
 sg12
-g19
+g13
 sa(dp1041
 g6
 VHmm?
@@ -3809,7 +3809,7 @@ sg10
 VJOSH
 p1046
 sg12
-g19
+g13
 sa(dp1047
 g6
 VOkay, when I said I graduated, I may have been overstating a little?
@@ -3853,7 +3853,7 @@ sg10
 VJOSH
 p1058
 sg12
-g13
+g9
 sa(dp1059
 g6
 VUniversity of Wisconsin.
@@ -3908,7 +3908,7 @@ sg10
 VDONNA
 p1073
 sg12
-g13
+g19
 sa(dp1074
 g6
 VOkay.
@@ -3974,7 +3974,7 @@ sg10
 VDONNA
 p1091
 sg12
-g13
+g9
 sa(dp1092
 g6
 VYour boyfriend was older than you?
@@ -4029,7 +4029,7 @@ sg10
 VJOSH
 p1106
 sg12
-g13
+g9
 sa(dp1107
 g6
 VMedical student.
@@ -4040,7 +4040,7 @@ sg10
 VDONNA
 p1109
 sg12
-g13
+g9
 sa(dp1110
 g6
 VAnd the idea was that you'd drop out and pay the bills till he was done with his residency.
@@ -4073,7 +4073,7 @@ sg10
 VJOSH
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VWhat makes you think he broke up with me?
@@ -4084,7 +4084,7 @@ sg10
 VDONNA
 p1121
 sg12
-g13
+g9
 sa(dp1122
 g6
 VDonna, this is a campaign for the Presidency, and there's nothing I take more seriously than that. This can't be a place where people come to find their confidence and start over.
@@ -4106,7 +4106,7 @@ sg10
 VDONNA
 p1127
 sg12
-g13
+g9
 sa(dp1128
 g6
 VI'm sorry?
@@ -4117,7 +4117,7 @@ sg10
 VJOSH
 p1130
 sg12
-g13
+g9
 sa(dp1131
 g6
 VWhy can't it be those things?
@@ -4139,7 +4139,7 @@ sg10
 VJOSH
 p1136
 sg12
-g13
+g19
 sa(dp1137
 g6
 VWhat, is it going to interfere with my typing?
@@ -4194,7 +4194,7 @@ sg10
 VDONNA
 p1151
 sg12
-g13
+g19
 sa(dp1152
 g6
 VWith what?
@@ -4271,7 +4271,7 @@ sg10
 VDONNA
 p1172
 sg12
-g19
+g13
 sa(dp1173
 g6
 VHey, Spanky.
@@ -4282,7 +4282,7 @@ sg10
 VC.J.
 p1175
 sg12
-g13
+g19
 sa(dp1176
 g6
 VOh, God, what did I do?
@@ -4392,7 +4392,7 @@ sg10
 VSAM
 p1205
 sg12
-g13
+g19
 sa(dp1206
 g6
 VYeah.
@@ -4436,7 +4436,7 @@ sg10
 VSAM
 p1217
 sg12
-g13
+g19
 sa(dp1218
 g6
 V[to aide] Suzanne. [to Sam] The real reason I couldn't go on the morning shows and give a first-hand account of what happened is that I couldn't remember what happened. I remember walking out of the building, I remember somebody knocked me down, I know my necklace came off, and I know a police car window exploded over my head. All night long, I've been doing my press briefings using notes from other people's accounts. But it's morning now, and after listening to you on the morning shows, I know what happened.
@@ -4469,7 +4469,7 @@ sg10
 VC.J.
 p1226
 sg12
-g13
+g9
 sa(dp1227
 g6
 VI didn't want you to feel beholden to me. I didn't want it to be like an episode of "I Dream of Jeannie" where now you have to save my life...
@@ -4524,7 +4524,7 @@ sg10
 VSAM
 p1241
 sg12
-g13
+g9
 sa(dp1242
 g6
 VSam, I don't feel beholden to you.
@@ -4612,7 +4612,7 @@ sg10
 VC.J.
 p1265
 sg12
-g19
+g13
 sa(dp1266
 g6
 V[pauses and steadies himself] Yeah.
@@ -4733,7 +4733,7 @@ sg10
 VTOBY
 p1298
 sg12
-g13
+g9
 sa(dp1299
 g6
 VWhat's on your mind?
@@ -4744,7 +4744,7 @@ sg10
 VRON
 p1301
 sg12
-g13
+g19
 sa(dp1302
 g6
 VC.J.'s starting to get some questions about why the President's exit wasn't covered in Rosslyn.
@@ -4854,7 +4854,7 @@ sg10
 VRON
 p1331
 sg12
-g13
+g9
 sa(dp1332
 g6
 VRon, I don't think it's right that the Secret Service get blamed for what happened last night, I want the Treasury Department to hand over my memo to the Press.
@@ -4876,7 +4876,7 @@ sg10
 VRON
 p1337
 sg12
-g13
+g9
 sa(dp1338
 g6
 VThere are going to be a lot of questions.
@@ -4887,7 +4887,7 @@ sg10
 VTOBY
 p1340
 sg12
-g13
+g19
 sa(dp1341
 g6
 VThere are always a lot of questions.
@@ -4920,7 +4920,7 @@ sg10
 VRON
 p1349
 sg12
-g13
+g9
 sa(dp1350
 g6
 VIt's not right. You're the guys - look at your hand.
@@ -4975,7 +4975,7 @@ sg10
 VTOBY
 p1364
 sg12
-g13
+g9
 sa(dp1365
 g6
 VIt wasn't your fault.
@@ -4986,7 +4986,7 @@ sg10
 VRON
 p1367
 sg12
-g13
+g9
 sa(dp1368
 g6
 VRon.
@@ -5096,7 +5096,7 @@ sg10
 VDANNY
 p1397
 sg12
-g13
+g19
 sa(dp1398
 g6
 VYes, she is.
@@ -5151,7 +5151,7 @@ sg10
 VLEO
 p1412
 sg12
-g13
+g19
 sa(dp1413
 g6
 VWe're running at 53 to 58 with the undecideds, from 72 hours ago, at the 12th, 14th and 15th.
@@ -5184,7 +5184,7 @@ sg10
 VSAM
 p1421
 sg12
-g13
+g19
 sa(dp1422
 g6
 VYeah!
@@ -5217,7 +5217,7 @@ sg10
 VJOSH
 p1430
 sg12
-g13
+g9
 sa(dp1431
 g6
 VWhat's going on?
@@ -5283,7 +5283,7 @@ sg10
 VABBEY
 p1448
 sg12
-g13
+g9
 sa(dp1449
 g6
 VGood exits from Stark County and Rock Island.
@@ -5294,7 +5294,7 @@ sg10
 VLEO
 p1451
 sg12
-g13
+g19
 sa(dp1452
 g6
 VHow good?
@@ -5305,7 +5305,7 @@ sg10
 VABBEY
 p1454
 sg12
-g13
+g19
 sa(dp1455
 g6
 VThey're good.
@@ -5316,7 +5316,7 @@ sg10
 VLEO
 p1457
 sg12
-g13
+g19
 sa(dp1458
 g6
 VWhat the hell is this?
@@ -5327,7 +5327,7 @@ sg10
 VBARTLET
 p1460
 sg12
-g13
+g9
 sa(dp1461
 g6
 VThat's Sam's draft of your victory remarks.
@@ -5382,7 +5382,7 @@ sg10
 VJOSH
 p1475
 sg12
-g13
+g9
 sa(dp1476
 g6
 VLeo, I want to go over this whole thing with you.
@@ -5404,7 +5404,7 @@ sg10
 VLEO
 p1481
 sg12
-g13
+g9
 sa(dp1482
 g6
 V[to Josh] You can say it, you know. It's not like I haven't heard it before.
@@ -5701,7 +5701,7 @@ sg10
 VBARTLET
 p1562
 sg12
-g13
+g9
 sa(dp1563
 g6
 VYeah, a litigator.
@@ -5712,7 +5712,7 @@ sg10
 VJOSH
 p1565
 sg12
-g13
+g19
 sa(dp1566
 g6
 VDid he like that you were in politics?
@@ -5745,7 +5745,7 @@ sg10
 VBARTLET
 p1574
 sg12
-g13
+g9
 sa(dp1575
 g6
 VHe liked that I was working for you. He liked that we were starting to do well. He would've liked tonight. At least his friends and neighbors will be spared all the... you know...
@@ -5789,7 +5789,7 @@ sg10
 VBARTLET
 p1586
 sg12
-g13
+g9
 sa(dp1587
 g6
 VI appreciate that, Governor. You should really get back to the hotel.
@@ -5811,7 +5811,7 @@ sg10
 VBARTLET
 p1592
 sg12
-g13
+g9
 sa(dp1593
 g6
 VSir, not that I don't appreciate you coming down here, but there's a ballroom full of people waiting for a victory speech.
@@ -5833,7 +5833,7 @@ sg10
 VBARTLET
 p1598
 sg12
-g13
+g9
 sa(dp1599
 g6
 VYeah, they will, but the people watching television won't.
@@ -5899,7 +5899,7 @@ sg10
 VBARTLET
 p1616
 sg12
-g13
+g9
 sa(dp1617
 g6
 VThey're calling my flight.
@@ -5987,7 +5987,7 @@ sg10
 VJOSH
 p1640
 sg12
-g13
+g9
 sa(dp1641
 g6
 VThey're calling your flight.
@@ -6031,7 +6031,7 @@ sg10
 VLEO
 p1652
 sg12
-g13
+g19
 sa(dp1653
 g6
 VLeo?
@@ -6064,7 +6064,7 @@ sg10
 VBARTLET
 p1661
 sg12
-g13
+g9
 sa(dp1662
 g6
 VI couldn't hear you, Josh.
@@ -6075,7 +6075,7 @@ sg10
 VBARTLET
 p1664
 sg12
-g19
+g13
 sa(dp1665
 g6
 VWhat did he say?

@@ -57,14 +57,14 @@ sg10
 VKORB
 p22
 sg12
-g13
-sa(dp23
+S'positive'
+p23
+sa(dp24
 g6
 VYou know, after 50 years, one option might be to get over it.
-p24
-sg8
-S'positive'
 p25
+sg8
+g23
 sg10
 VFITZWALLACE
 p26
@@ -86,7 +86,7 @@ g6
 VYou enjoy your break?
 p31
 sg8
-g25
+g23
 sg10
 VANDY
 p32
@@ -102,7 +102,7 @@ sg10
 VDONNA
 p35
 sg12
-g13
+g9
 sa(dp36
 g6
 VLet's go folks, we're moving out.
@@ -119,7 +119,7 @@ g6
 VBlack cars? Good choice for this climate.
 p40
 sg8
-g25
+g23
 sg10
 VDONNA
 p41
@@ -141,7 +141,7 @@ g6
 VYeah, travel, learn about cultures, meet new friends. What do photographers say now that the old "Come up and see my darkroom" line has gone the way of the dodo?
 p46
 sg8
-g25
+g23
 sg10
 VFITZWALLACE
 p47
@@ -152,7 +152,7 @@ g6
 VThey offer their high-speed...
 p49
 sg8
-g25
+g23
 sg10
 VDONNA
 p50
@@ -174,7 +174,7 @@ g6
 VYeah, I get these daily, interminable e-mails that I have no time to read. Donna doesn't seem to have mastered pith.
 p55
 sg8
-g25
+g23
 sg10
 VJOSH
 p56
@@ -245,7 +245,7 @@ sg10
 VTOBY
 p74
 sg12
-g13
+g9
 sa(dp75
 g6
 VNo, we're pretending you're from there.
@@ -256,7 +256,7 @@ sg10
 VC.J.
 p77
 sg12
-g13
+g9
 sa(dp78
 g6
 VWe're not, actually.
@@ -289,18 +289,18 @@ sg10
 VTOBY
 p86
 sg12
-g13
+g9
 sa(dp87
 g6
 VNot important.
 p88
 sg8
-g25
+g23
 sg10
 VC.J.
 p89
 sg12
-g13
+g23
 sa(dp90
 g6
 VIt could be clouding my judgment.
@@ -311,13 +311,13 @@ sg10
 VTOBY
 p92
 sg12
-g13
+g9
 sa(dp93
 g6
 VYou're no fun anymore.
 p94
 sg8
-g25
+g23
 sg10
 VC.J.
 p95
@@ -328,12 +328,12 @@ g6
 VI'm having fun.
 p97
 sg8
-g25
+g23
 sg10
 VTOBY
 p98
 sg12
-g13
+g9
 sa(dp99
 g6
 VMinnesota just set up an official state web site linked to Canadian pharmacies for the importation of cheap drugs in violation of federal law.
@@ -355,7 +355,7 @@ sg10
 VTOBY
 p104
 sg12
-g13
+g9
 sa(dp105
 g6
 VI'm getting calls wondering why the administration's not interested in enforcing this ban. Curiosity as to what other federal statutes the White House is planning to simply ignore.
@@ -372,7 +372,7 @@ g6
 VShouldn't somebody be applauding our bold affirmation for states' rights?
 p109
 sg8
-g25
+g23
 sg10
 VTOBY
 p110
@@ -399,7 +399,7 @@ sg10
 VTOBY
 p116
 sg12
-g13
+g9
 sa(dp117
 g6
 VWe need a policy. Hoping no one would notice seems to have run its course.
@@ -487,7 +487,7 @@ sg10
 VLEO
 p140
 sg12
-g13
+g9
 sa(dp141
 g6
 VThe Vice President attended a fundraiser in  Manhattan last night.
@@ -526,12 +526,12 @@ g6
 VThink I was trying to pay you a compliment.
 p151
 sg8
-g25
+g23
 sg10
 VLEO
 p152
 sg12
-g13
+g9
 sa(dp153
 g6
 VHe got questioned about this Mideast trip.
@@ -559,7 +559,7 @@ g6
 VThey wanted to know whether the White House was contemplating active re-engagement in the peace process.
 p160
 sg8
-g25
+g23
 sg10
 VWILL
 p161
@@ -570,7 +570,7 @@ g6
 VIt's a tar baby. Sisyphus. Hijacks your entire agenda, lands everyone back where they started, only angrier, if that's possible.
 p163
 sg8
-g25
+g23
 sg10
 VLEO
 p164
@@ -581,7 +581,7 @@ g6
 VBut you'd agree that the Israeli army doesn't set out to target these innocents.
 p166
 sg8
-g25
+g23
 sg10
 VANDY
 p167
@@ -603,7 +603,7 @@ g6
 V"Same old story, same old song and dance," eh.
 p172
 sg8
-g25
+g23
 sg10
 VCOLIN
 p173
@@ -614,7 +614,7 @@ g6
 VDon't expect to meet many Aerosmith fans in  Gaza.
 p175
 sg8
-g25
+g23
 sg10
 VDONNA
 p176
@@ -674,13 +674,13 @@ sg10
 VDONNA
 p191
 sg12
-g25
+g9
 sa(dp192
 g6
 VFair enough. Hey, I'll let you listen in peace if you meet me in the bar when this ends.
 p193
 sg8
-g25
+g23
 sg10
 VCOLIN
 p194
@@ -696,7 +696,7 @@ sg10
 VDONNA
 p197
 sg12
-g13
+g9
 sa(dp198
 g6
 VI'll wait.
@@ -707,7 +707,7 @@ sg10
 VCOLIN
 p200
 sg12
-g13
+g9
 sa(dp201
 g6
 VHi.
@@ -751,7 +751,7 @@ sg10
 VDONNA
 p212
 sg12
-g13
+g23
 sa(dp213
 g6
 V(speaks Arabic)
@@ -801,7 +801,7 @@ g6
 VMy dad's drink. Still enchanted?
 p226
 sg8
-g25
+g23
 sg10
 VDONNA
 p227
@@ -823,12 +823,12 @@ g6
 VSo, is this your routine? Scout the new arrivals and make for the nearest blonde?
 p232
 sg8
-g25
+g23
 sg10
 VDONNA
 p233
 sg12
-g13
+g23
 sa(dp234
 g6
 VMm-hmm. Well, not always blonde.
@@ -839,7 +839,7 @@ sg10
 VCOLIN
 p236
 sg12
-g13
+g9
 sa(dp237
 g6
 VWhat's wrong with attending conferences?
@@ -856,7 +856,7 @@ g6
 VYou're fact-finding. Why is that? I mean, there's more to understand in Gaza than facts.
 p241
 sg8
-g25
+g23
 sg10
 VCOLIN
 p242
@@ -894,7 +894,7 @@ sg10
 VDONNA
 p251
 sg12
-g13
+g9
 sa(dp252
 g6
 VThanks very much.
@@ -933,12 +933,12 @@ g6
 VThe real Gaza.
 p262
 sg8
-g25
+g23
 sg10
 VDONNA
 p263
 sg12
-g13
+g23
 sa(dp264
 g6
 VSee what I was hoping...
@@ -1026,7 +1026,7 @@ sg10
 VJOSH
 p287
 sg12
-g13
+g9
 sa(dp288
 g6
 VMaybe since heroin traffic started spiking in Europe.
@@ -1048,13 +1048,13 @@ sg10
 VJOSH
 p293
 sg12
-g13
+g9
 sa(dp294
 g6
 VWhen Afghan farmers can't afford to grow cotton, when they can't compete in their own market with cheap U.S. textiles produced from subsidized crops, they plant something else.
 p295
 sg8
-g25
+g23
 sg10
 VHARPER
 p296
@@ -1081,7 +1081,7 @@ sg10
 VHARPER
 p302
 sg12
-g13
+g9
 sa(dp303
 g6
 VWell, maybe we should subsidize poppies.
@@ -1169,7 +1169,7 @@ sg10
 VC.J.
 p326
 sg12
-g13
+g9
 sa(dp327
 g6
 VI keep getting cut off.
@@ -1180,7 +1180,7 @@ sg10
 VCAROL
 p329
 sg12
-g13
+g9
 sa(dp330
 g6
 VTry his cell phone directly.
@@ -1202,7 +1202,7 @@ sg10
 VCAROL
 p335
 sg12
-g13
+g9
 sa(dp336
 g6
 VNot through the switchboard.
@@ -1290,7 +1290,7 @@ sg10
 VWILL
 p359
 sg12
-g13
+g23
 sa(dp360
 g6
 VWe don't know anything yet. Carol?
@@ -1301,7 +1301,7 @@ sg10
 VC.J.
 p362
 sg12
-g25
+g9
 sa(dp363
 g6
 VNo one's getting through.
@@ -1384,12 +1384,12 @@ g6
 VTwo Congressmen confirmed dead. Korb and DeSantos.
 p385
 sg8
-g25
+g23
 sg10
 VTOBY
 p386
 sg12
-g13
+g23
 sa(dp387
 g6
 VWhat about Donna?
@@ -1433,7 +1433,7 @@ sg10
 VHARPER
 p398
 sg12
-g13
+g23
 sa(dp399
 g6
 VOh, God...
@@ -1450,12 +1450,12 @@ g6
 VAnd we just got word... Admiral Fitzwallace.
 p403
 sg8
-g25
+g23
 sg10
 VLEO
 p404
 sg12
-g13
+g23
 sa(dp405
 g6
 VThere are others injured. They've been taken to area hospitals.
@@ -1466,13 +1466,13 @@ sg10
 VHARPER
 p407
 sg12
-g9
+g13
 sa(dp408
 g6
 VSir, I'll get the phone numbers of the Congressmen's families.
 p409
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p410
@@ -1505,7 +1505,7 @@ g6
 VOne half hour later, my wife would have been giving breakfast to our children.
 p418
 sg8
-g25
+g23
 sg10
 VMAN
 p419
@@ -1549,29 +1549,29 @@ g6
 VOur soldiers will find the mortar.
 p430
 sg8
-g25
+g23
 sg10
 VWOMAN
 p431
 sg12
-g13
+g23
 sa(dp432
 g6
 VYou replace the tile roof with concrete and pray.
 p433
 sg8
-g25
+g23
 sg10
 VMAN
 p434
 sg12
-g13
+g23
 sa(dp435
 g6
 VIn Israel there's talk of giving up these settlements.
 p436
 sg8
-g25
+g23
 sg10
 VDONNA
 p437
@@ -1582,7 +1582,7 @@ g6
 VGod wants us in this place. It is our divine, moral obligation to be here.
 p439
 sg8
-g25
+g23
 sg10
 VWOMAN
 p440
@@ -1609,7 +1609,7 @@ sg10
 VWOMAN
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VAll of this... it doesn't make you want to leave?
@@ -1620,13 +1620,13 @@ sg10
 VDONNA
 p449
 sg12
-g13
+g9
 sa(dp450
 g6
 VThis is the more safe environment.
 p451
 sg8
-g25
+g23
 sg10
 VMAN
 p452
@@ -1653,13 +1653,13 @@ sg10
 VMAN
 p458
 sg12
-g25
+g9
 sa(dp459
 g6
 VMoss, Moss. Donnatella Moss. Tall, blonde. Do you have any idea of her condition, where she was taken? I understand. Is there anyone there... Yeah, this is Josh Lyman calling from the White House. The White House. Yes, where the President lives. I'm looking for information on one of the U.S. bombing victims.
 p460
 sg8
-g25
+g23
 sg10
 VJOSH
 p461
@@ -1670,7 +1670,7 @@ g6
 VAre you kidding? Do you know the term "decent interval"? Go away.
 p463
 sg8
-g25
+g23
 sg10
 VTOBY
 p464
@@ -1681,7 +1681,7 @@ g6
 VMagley from the DNC, wants to talk about who to run for the two vacant House seats.
 p466
 sg8
-g25
+g23
 sg10
 VTOBY
 p467
@@ -1692,7 +1692,7 @@ g6
 VYou're joking.
 p469
 sg8
-g25
+g23
 sg10
 VWILL
 p470
@@ -1730,7 +1730,7 @@ sg10
 VTOBY
 p479
 sg12
-g13
+g9
 sa(dp480
 g6
 VWe're getting calls from AIPAC.
@@ -1741,13 +1741,13 @@ sg10
 VWILL
 p482
 sg12
-g13
+g9
 sa(dp483
 g6
 VEvery ten minutes. Them and every other pro-Israel lobby. Half of them trying not to sound happy it happened, the rest trying to avoid saying "I told you so."
 p484
 sg8
-g25
+g23
 sg10
 VTOBY
 p485
@@ -1758,12 +1758,12 @@ g6
 VPresident giving an address?
 p487
 sg8
-g25
+g23
 sg10
 VWILL
 p488
 sg12
-g13
+g23
 sa(dp489
 g6
 VTonight.
@@ -1791,7 +1791,7 @@ g6
 VTo check my spelling, correct errors in syntax? Noted grammarian that he is.
 p496
 sg8
-g25
+g23
 sg10
 VTOBY
 p497
@@ -1802,12 +1802,12 @@ g6
 VIt's an important speech.
 p499
 sg8
-g25
+g23
 sg10
 VWILL
 p500
 sg12
-g13
+g23
 sa(dp501
 g6
 VYou're worried about the politics. You're worse than that clown from the DNC.
@@ -1824,7 +1824,7 @@ g6
 VIt's a major address about a national tragedy. The Vice President has an understandable interest in the content. And yes, there's interest in the political ramifications. That's what we all do for a living.
 p505
 sg8
-g25
+g23
 sg10
 VWILL
 p506
@@ -1835,7 +1835,7 @@ g6
 VActually, some of us are trying to govern.
 p508
 sg8
-g25
+g23
 sg10
 VTOBY
 p509
@@ -1851,7 +1851,7 @@ sg10
 VWILL
 p512
 sg12
-g13
+g9
 sa(dp513
 g6
 VI'm polishing right up until air.
@@ -1868,7 +1868,7 @@ g6
 VI'm glad Andy's okay.
 p517
 sg8
-g25
+g23
 sg10
 VWILL
 p518
@@ -1934,7 +1934,7 @@ g6
 VUp till now, that's been advantageous.
 p535
 sg8
-g25
+g23
 sg10
 VSLIGER
 p536
@@ -1950,7 +1950,7 @@ sg10
 VBARROW
 p539
 sg12
-g9
+g13
 sa(dp540
 g6
 VThat seems to have changed.
@@ -1967,12 +1967,12 @@ g6
 VWhat's striking, sir, is no claim of responsibility.
 p544
 sg8
-g25
+g23
 sg10
 VHARPER
 p545
 sg12
-g13
+g23
 sa(dp546
 g6
 VIt's early yet.
@@ -1983,13 +1983,13 @@ sg10
 VLEO
 p548
 sg12
-g25
+g13
 sa(dp549
 g6
 VThey usually can't take credit fast enough. Hezbollah, Hamas, Islamic Jihad... they've all rushed to announce they had nothing to do with this.
 p550
 sg8
-g25
+g23
 sg10
 VHARPER
 p551
@@ -2000,12 +2000,12 @@ g6
 VThey don't want to wake up to a cruise missile for breakfast.
 p553
 sg8
-g25
+g23
 sg10
 VHUTCHINSON
 p554
 sg12
-g13
+g9
 sa(dp555
 g6
 VWhat are we doing?
@@ -2038,7 +2038,7 @@ sg10
 VLEO
 p563
 sg12
-g13
+g9
 sa(dp564
 g6
 VAn FBI Investigative Team is en route.
@@ -2055,12 +2055,12 @@ g6
 VLangley is coordinating with Mossad and Israeli military intelligence in gathering information.
 p568
 sg8
-g25
+g23
 sg10
 VSLIGER
 p569
 sg12
-g13
+g23
 sa(dp570
 g6
 VAnd then compiling a list of possible targets for retaliation.
@@ -2071,7 +2071,7 @@ sg10
 VALEXANDER
 p572
 sg12
-g13
+g9
 sa(dp573
 g6
 VAre there any? We can't just go and flatten some refugee camp.
@@ -2082,13 +2082,13 @@ sg10
 VBARTLET
 p575
 sg12
-g13
+g9
 sa(dp576
 g6
 VThat's what we're trying to determine, sir.
 p577
 sg8
-g25
+g23
 sg10
 VHUTCHINSON
 p578
@@ -2115,24 +2115,24 @@ sg10
 VBARTLET
 p584
 sg12
-g13
+g9
 sa(dp585
 g6
 VYes, sir.
 p586
 sg8
-g25
+g23
 sg10
 VAIDE
 p587
 sg12
-g25
+g23
 sa(dp588
 g6
 VYou're on with the Chairman, sir.
 p589
 sg8
-g25
+g23
 sg10
 VAIDE
 p590
@@ -2214,7 +2214,7 @@ sg10
 VFARAD
 p611
 sg12
-g13
+g9
 sa(dp612
 g6
 VDo you know who they are?
@@ -2231,7 +2231,7 @@ g6
 VCriminals. Traitors. Mr. President, you must believe, no organized group would do this. All understand that to target Americans would be catastrophic to the Palestinian cause.
 p616
 sg8
-g25
+g23
 sg10
 VFARAD
 p617
@@ -2319,7 +2319,7 @@ g6
 VThe Chairman's control over Gaza is not absolute. Hamas has a strong powerbase there.
 p640
 sg8
-g25
+g23
 sg10
 VHARPER
 p641
@@ -2341,7 +2341,7 @@ g6
 VI'd like to observe a moment of silence in commemoration of those dedicated individuals who gave their lives in the service of their country this day.
 p646
 sg8
-g25
+g23
 sg10
 VBARTLET
 p647
@@ -2352,7 +2352,7 @@ g6
 VGeneral, prepare contingency plans for retaliatory military action against Palestinian terror targets, including the Chairman's headquarters.
 p649
 sg8
-g25
+g23
 sg10
 VBARTLET
 p650
@@ -2396,7 +2396,7 @@ g6
 VGood, 'cause you're it. Which is a lot to throw at you weeks into the job. I want you to know you have my and the President's full support.
 p661
 sg8
-g25
+g23
 sg10
 VLEO
 p662
@@ -2407,18 +2407,18 @@ g6
 VI appreciate your confidence.
 p664
 sg8
-g25
+g23
 sg10
 VHARPER
 p665
 sg12
-g13
+g23
 sa(dp666
 g6
 VWe'll need you to coordinate all the intelligence agencies, including the CIA and CIA. You may have heard: they don't play nicely together.
 p667
 sg8
-g25
+g23
 sg10
 VLEO
 p668
@@ -2445,7 +2445,7 @@ sg10
 VLEO
 p674
 sg12
-g13
+g9
 sa(dp675
 g6
 VI'll keep on 'em.
@@ -2467,18 +2467,18 @@ sg10
 VLEO
 p680
 sg12
-g13
+g9
 sa(dp681
 g6
 VI hope that won't be necessary.
 p682
 sg8
-g25
+g23
 sg10
 VHARPER
 p683
 sg12
-g13
+g23
 sa(dp684
 g6
 VAnother thing: the President's not crazy about the DCI. It's chemical; just rubs him the wrong way.
@@ -2506,7 +2506,7 @@ g6
 VThis isn't gossip; it's guidance. If the CIA's got something, the Director's not always the most effective vessel for communicating it.
 p691
 sg8
-g25
+g23
 sg10
 VLEO
 p692
@@ -2517,7 +2517,7 @@ g6
 VI'll make sure to underline anything I think is significant.
 p694
 sg8
-g25
+g23
 sg10
 VHARPER
 p695
@@ -2539,7 +2539,7 @@ g6
 VI won't let you down. Oh, and on that whole language score: I was in the military. I "manned" battleships, was "one of the boys," occasionally was exhorted to "drop my ...," you know, and "grab my socks." I've made my peace with the colloquial.
 p700
 sg8
-g25
+g23
 sg10
 VHARPER
 p701
@@ -2572,7 +2572,7 @@ g6
 VStill just the three confirmed.
 p709
 sg8
-g25
+g23
 sg10
 VC.J.
 p710
@@ -2588,7 +2588,7 @@ sg10
 VREPORTER
 p713
 sg12
-g13
+g9
 sa(dp714
 g6
 VIt was not a suicide attack. I've already... no claims of... Hey! Is this working for you? Now if you'll ask your questions one at a time like - oh, I don't know - every other time we've done this the past five years maybe you'll come away from this with something to write and maybe I'll still be speaking to one or two of you when I climb down from here. Yes, Katie.
@@ -2616,7 +2616,7 @@ g6
 VThe immediate focus is on gathering information on who might have been responsible and bringing them to justice.
 p721
 sg8
-g25
+g23
 sg10
 VC.J.
 p722
@@ -2638,7 +2638,7 @@ g6
 VWe're strongly urging Israel and the Palestinian Authority to refrain from doing anything to further enflame tensions in the region. Steve.
 p727
 sg8
-g25
+g23
 sg10
 VC.J.
 p728
@@ -2660,7 +2660,7 @@ g6
 VIf you're asking if today's tragic events wil have an effect on U.S. policy in the region, I think it's safe to assume that question will generate serious and substantial discussion in the coming days, weeks and months. Gordon.
 p733
 sg8
-g25
+g23
 sg10
 VC.J.
 p734
@@ -2704,12 +2704,12 @@ g6
 VWell, the thoughts and prayers of a grateful nation are with you and your family at this time. Not at all, Mrs. Korb. Goodbye.
 p745
 sg8
-g25
+g23
 sg10
 VBARTLET
 p746
 sg12
-g13
+g23
 sa(dp747
 g6
 VCharlie, when your mother was killed, you got one of these calls.
@@ -2726,12 +2726,12 @@ g6
 VYes, sir. Her captain.
 p751
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p752
 sg12
-g25
+g23
 sa(dp753
 g6
 VIt make you feel any better?
@@ -2748,12 +2748,12 @@ g6
 VNot really, sir. Nothing makes you feel better. But it did make me feel proud.
 p757
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p758
 sg12
-g13
+g9
 sa(dp759
 g6
 VHow's Donna?
@@ -2792,7 +2792,7 @@ g6
 V"Significant" is the word they used, but "dire" is good.
 p769
 sg8
-g25
+g23
 sg10
 VJOSH
 p770
@@ -2962,7 +2962,7 @@ sg10
 VLEO
 p815
 sg12
-g13
+g9
 sa(dp816
 g6
 VRegime change.
@@ -2973,7 +2973,7 @@ sg10
 VWILL
 p818
 sg12
-g25
+g23
 sa(dp819
 g6
 VTake out the Chairman.
@@ -2995,13 +2995,13 @@ sg10
 VWILL
 p824
 sg12
-g13
+g23
 sa(dp825
 g6
 V"The Palestinians never miss an opportunity to miss an opportunity."
 p826
 sg8
-g25
+g23
 sg10
 VTOBY
 p827
@@ -3023,7 +3023,7 @@ g6
 VThe guy in Tel Aviv's no picnic either.
 p832
 sg8
-g25
+g23
 sg10
 VC.J.
 p833
@@ -3050,7 +3050,7 @@ sg10
 VWILL
 p839
 sg12
-g13
+g9
 sa(dp840
 g6
 VThe settlement, the wall...
@@ -3072,7 +3072,7 @@ sg10
 VCHARLIE
 p845
 sg12
-g13
+g9
 sa(dp846
 g6
 VI'm not saying there's equivalence.
@@ -3083,13 +3083,13 @@ sg10
 VC.J.
 p848
 sg12
-g13
+g9
 sa(dp849
 g6
 VIsraelis don't talk about driving the Palestinians into the sea.
 p850
 sg8
-g25
+g23
 sg10
 VWILL
 p851
@@ -3144,7 +3144,7 @@ g6
 VOne reason some people say nothing can happen till these guys are gone is the feeling they both may be stuck in old attitudes or assumptions. There was a time when Palestinians and all Arabs wanted to drive Jews into the sea, but some would argue that time's past.
 p865
 sg8
-g25
+g23
 sg10
 VHARPER
 p866
@@ -3160,7 +3160,7 @@ sg10
 VWILL
 p869
 sg12
-g13
+g23
 sa(dp870
 g6
 VRabble-rousing to distract their street.
@@ -3177,7 +3177,7 @@ g6
 VI'm not sure any credible Arab leader truly expects Israel's demise anymore, not even the Chairman.
 p874
 sg8
-g25
+g23
 sg10
 VHARPER
 p875
@@ -3237,7 +3237,7 @@ sg10
 VWILL
 p890
 sg12
-g13
+g9
 sa(dp891
 g6
 VIt's tribal. It can't be solved. It's Hatfield and McCoy and there is no end.
@@ -3254,12 +3254,12 @@ g6
 VShe's so young.
 p895
 sg8
-g25
+g23
 sg10
 VDONNA
 p896
 sg12
-g13
+g23
 sa(dp897
 g6
 VYeah. Suicide bombers often leave these videotapes behind.
@@ -3270,7 +3270,7 @@ sg10
 VCOLIN
 p899
 sg12
-g13
+g9
 sa(dp900
 g6
 VWhat's she saying?
@@ -3298,12 +3298,12 @@ g6
 VOr we use this as an opportunity.
 p907
 sg8
-g25
+g23
 sg10
 VHARPER
 p908
 sg12
-g13
+g23
 sa(dp909
 g6
 VWe need to kill them!
@@ -3358,7 +3358,7 @@ sg10
 VCOLIN
 p923
 sg12
-g13
+g23
 sa(dp924
 g6
 VUh, a few minutes.
@@ -3369,7 +3369,7 @@ sg10
 VDONNA
 p926
 sg12
-g13
+g23
 sa(dp927
 g6
 VAll right. Yossi!
@@ -3435,7 +3435,7 @@ sg10
 VCOLIN
 p944
 sg12
-g13
+g23
 sa(dp945
 g6
 VHe's a wicked man, you know.
@@ -3463,12 +3463,12 @@ g6
 VMy hero, actually.
 p952
 sg8
-g25
+g23
 sg10
 VYOSSI
 p953
 sg12
-g13
+g23
 sa(dp954
 g6
 VI'm sure.
@@ -3479,7 +3479,7 @@ sg10
 VDONNA
 p956
 sg12
-g9
+g13
 sa(dp957
 g6
 VYeah, yeah, yeah.
@@ -3490,7 +3490,7 @@ sg10
 VCOLIN
 p959
 sg12
-g13
+g23
 sa(dp960
 g6
 VHow old are you?
@@ -3501,7 +3501,7 @@ sg10
 VDONNA
 p962
 sg12
-g25
+g13
 sa(dp963
 g6
 VI'm 22.
@@ -3512,7 +3512,7 @@ sg10
 VYOSSI
 p965
 sg12
-g13
+g9
 sa(dp966
 g6
 VYou like the army?
@@ -3529,12 +3529,12 @@ g6
 VIt's an Israelis most sacred duty. Nothing I will ever do is more important.
 p970
 sg8
-g25
+g23
 sg10
 VYOSSI
 p971
 sg12
-g13
+g9
 sa(dp972
 g6
 VPlus girls like the uniform.
@@ -3573,7 +3573,7 @@ g6
 VIs no good, Gaza.
 p982
 sg8
-g25
+g23
 sg10
 VYOSSI
 p983
@@ -3584,7 +3584,7 @@ g6
 VNo good, how?
 p985
 sg8
-g25
+g23
 sg10
 VDONNA
 p986
@@ -3666,7 +3666,7 @@ sg10
 VDONNA
 p1007
 sg12
-g13
+g9
 sa(dp1008
 g6
 VTell her what happened then. Go on, man, you can tell her.
@@ -3727,12 +3727,12 @@ g6
 VEnjoy your visit.
 p1024
 sg8
-g25
+g23
 sg10
 VYOSSI
 p1025
 sg12
-g13
+g23
 sa(dp1026
 g6
 V(speaks Hebrew)
@@ -3749,7 +3749,7 @@ g6
 VI'd better not come and join your friends.
 p1030
 sg8
-g25
+g23
 sg10
 VCOLIN
 p1031
@@ -3771,7 +3771,7 @@ g6
 VYou know, after 50 years, one option might be to get over it.
 p1036
 sg8
-g25
+g23
 sg10
 VFITZWALLACE
 p1037
@@ -3809,7 +3809,7 @@ sg10
 VDONNA
 p1046
 sg12
-g13
+g9
 sa(dp1047
 g6
 VWhat's the latest?
@@ -3853,18 +3853,18 @@ sg10
 VHARPER
 p1058
 sg12
-g13
+g23
 sa(dp1059
 g6
 VTell her to be careful.
 p1060
 sg8
-g25
+g23
 sg10
 VLEO
 p1061
 sg12
-g13
+g23
 sa(dp1062
 g6
 VWhat's the situation on the ground?
@@ -3881,7 +3881,7 @@ g6
 VThe Chairman's not letting the grass grow. Palestinian Authority police made a night raid into the Jabaliya refugee camp.
 p1066
 sg8
-g25
+g23
 sg10
 VHUTCHINSON
 p1067
@@ -3936,18 +3936,18 @@ g6
 VHe did take action.
 p1081
 sg8
-g25
+g23
 sg10
 VHARPER
 p1082
 sg12
-g25
+g23
 sa(dp1083
 g6
 VAre we awarding A's for effort now?
 p1084
 sg8
-g25
+g23
 sg10
 VLEO
 p1085
@@ -4002,7 +4002,7 @@ g6
 VMaybe that's what this was intended for.
 p1099
 sg8
-g25
+g23
 sg10
 VHUTCHINSON
 p1100
@@ -4018,13 +4018,13 @@ sg10
 VBARTLET
 p1103
 sg12
-g13
+g23
 sa(dp1104
 g6
 VAs you noted earlier, sir, fixed targets are hard to come by. Half the time the Israelis aren't sure what to hit.
 p1105
 sg8
-g25
+g23
 sg10
 VHUTCHINSON
 p1106
@@ -4106,7 +4106,7 @@ sg10
 VLEAHY
 p1127
 sg12
-g13
+g23
 sa(dp1128
 g6
 VSorry, I...
@@ -4117,7 +4117,7 @@ sg10
 VJOSH
 p1130
 sg12
-g13
+g9
 sa(dp1131
 g6
 VUh, collapsed lung, broken thighbone.
@@ -4128,7 +4128,7 @@ sg10
 VLEAHY
 p1133
 sg12
-g13
+g9
 sa(dp1134
 g6
 VCollapsed lung? That's no biggie, right?
@@ -4227,7 +4227,7 @@ sg10
 VJOSH
 p1160
 sg12
-g25
+g23
 sa(dp1161
 g6
 VAre you all right?
@@ -4238,7 +4238,7 @@ sg10
 VLEAHY
 p1163
 sg12
-g13
+g23
 sa(dp1164
 g6
 VI get a little queasy. Plus, the... you know, jet lag.
@@ -4255,7 +4255,7 @@ g6
 VIn any event, the main fracture repairs went well. We inserted a metal rod through the bone.
 p1168
 sg8
-g25
+g23
 sg10
 VLEAHY
 p1169
@@ -4282,7 +4282,7 @@ sg10
 VLEAHY
 p1175
 sg12
-g13
+g9
 sa(dp1176
 g6
 VI'm fine.
@@ -4293,7 +4293,7 @@ sg10
 VJOSH
 p1178
 sg12
-g13
+g9
 sa(dp1179
 g6
 VAt the moment I'm more worried about you.
@@ -4310,12 +4310,12 @@ g6
 VI'm good. I'm good.
 p1183
 sg8
-g25
+g23
 sg10
 VJOSH
 p1184
 sg12
-g13
+g9
 sa(dp1185
 g6
 VWell, we'll want to perform some Doppler studies, ensure no clots have formed. Recovery from the pneumothorax may take several weeks. The fracture, months of physical therapy.
@@ -4337,7 +4337,7 @@ sg10
 VJOSH
 p1190
 sg12
-g13
+g23
 sa(dp1191
 g6
 VYou can see her. Uh, if you'd like.
@@ -4387,18 +4387,18 @@ g6
 VNo thanks necessary, sir.
 p1204
 sg8
-g25
+g23
 sg10
 VHARPER
 p1205
 sg12
-g25
+g23
 sa(dp1206
 g6
 VI understand you knew Admiral Fitzwallace. Today notwithstanding, reliable intelligence does occasionally come my way.
 p1207
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1208
@@ -4414,7 +4414,7 @@ sg10
 VHARPER
 p1211
 sg12
-g13
+g9
 sa(dp1212
 g6
 VWhich he helped you correct?
@@ -4447,7 +4447,7 @@ sg10
 VBARTLET
 p1220
 sg12
-g13
+g9
 sa(dp1221
 g6
 VI'll bear that in mind.
@@ -4458,7 +4458,7 @@ sg10
 VHARPER
 p1223
 sg12
-g13
+g9
 sa(dp1224
 g6
 VSir.
@@ -4486,12 +4486,12 @@ g6
 VI'll bear that in mind, sir.
 p1231
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1232
 sg12
-g13
+g23
 sa(dp1233
 g6
 VOh, no, I...
@@ -4502,7 +4502,7 @@ sg10
 VHARPER
 p1235
 sg12
-g13
+g9
 sa(dp1236
 g6
 VI'm just jerking your chain. Charlie?
@@ -4524,7 +4524,7 @@ sg10
 VCHARLIE
 p1241
 sg12
-g25
+g23
 sa(dp1242
 g6
 VSecret Service have the car?
@@ -4535,18 +4535,18 @@ sg10
 VBARTLET
 p1244
 sg12
-g13
+g9
 sa(dp1245
 g6
 VYes, sir.
 p1246
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p1247
 sg12
-g25
+g23
 sa(dp1248
 g6
 VThank you. [to Kate] Walk with me.
@@ -4557,7 +4557,7 @@ sg10
 VBARTLET
 p1250
 sg12
-g13
+g23
 sa(dp1251
 g6
 VThe Mideast reminds me of that joke about the optimist and the pessimist. The pessimist says "Everything is terrible. It can't get any worse." The optimist says "Oh, yes it can."
@@ -4596,7 +4596,7 @@ g6
 VIsn't it our ultimate moral responsibility to them?
 p1261
 sg8
-g25
+g23
 sg10
 VHARPER
 p1262
@@ -4656,7 +4656,7 @@ sg10
 VBARTLET
 p1277
 sg12
-g25
+g23
 sa(dp1278
 g6
 VGail.
@@ -4678,7 +4678,7 @@ sg10
 VBARTLET
 p1283
 sg12
-g13
+g9
 sa(dp1284
 g6
 VI'm so sorry, Mrs. Fitzwallace.
@@ -4689,13 +4689,13 @@ sg10
 VHARPER
 p1286
 sg12
-g13
+g9
 sa(dp1287
 g6
 VA sailor's wife doesn't live with fear the way a soldier's does. An Admiral's wife that much less. You don't spend a career preparing for this. It seemed like a blessing, until today.
 p1288
 sg8
-g25
+g23
 sg10
 VGAIL
 p1289
@@ -4706,18 +4706,18 @@ g6
 VThe people responsible will be found and brought to justice.
 p1291
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1292
 sg12
-g13
+g23
 sa(dp1293
 g6
 VDon't promise that. I know the world.
 p1294
 sg8
-g25
+g23
 sg10
 VGAIL
 p1295
@@ -4755,7 +4755,7 @@ sg10
 VLEO
 p1304
 sg12
-g13
+g9
 sa(dp1305
 g6
 VThe FBI's gonna need some time with the remains.
@@ -4805,7 +4805,7 @@ g6
 VIsraeli gunships just fired missiles into an apartment house in Gaza City. They were targeting a Hamas leader. 12 killed, including 4 children. No word whether the Hamas leader is among the dead.
 p1318
 sg8
-g25
+g23
 sg10
 VLEO
 p1319

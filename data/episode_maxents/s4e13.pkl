@@ -46,151 +46,151 @@ sg10
 VC.J.
 p19
 sg12
-g13
-sa(dp20
+S'negative'
+p20
+sa(dp21
 g6
 VYep. If that's all...
-p21
+p22
 sg8
 g13
 sg10
 VC.J.
-p22
+p23
 sg12
 g13
-sa(dp23
+sa(dp24
 g6
 VHow did you know that?
-p24
+p25
 sg8
 g13
 sg10
 VC.J.
-p25
+p26
 sg12
 g13
-sa(dp26
+sa(dp27
 g6
 VRight.
-p27
+p28
 sg8
 g13
 sg10
 VC.J.
-p28
+p29
 sg12
 g13
-sa(dp29
+sa(dp30
 g6
 VCould you at least tell us what you think the promise of generation is, since you're chickening out?
-p30
+p31
 sg8
 g9
 sg10
 VREPORTER
-p31
+p32
 sg12
 g13
-sa(dp32
+sa(dp33
 g6
 VI'm not really sure, but like pornography, I know it when I see it. They came up with the title and because it's high school, I felt it was an assignment and I couldn't say no. Unfortunately, my job prevents me from certain pleasures and I'm not chickening out.
-p33
+p34
 sg8
 g9
 sg10
 VC.J.
-p34
+p35
 sg12
-g13
-sa(dp35
+g20
+sa(dp36
 g6
 VWe don't get Josh is what you're saying.
-p36
+p37
 sg8
 g13
 sg10
 VREPORTER
-p37
+p38
 sg12
-g13
-sa(dp38
+g20
+sa(dp39
 g6
 VNo fresh meat for the lions.
-p39
+p40
 sg8
 g13
 sg10
 VC.J.
-p40
+p41
 sg12
 g13
-sa(dp41
+sa(dp42
 g6
 VThat's a full lid.
-p42
+p43
 sg8
 g9
 sg10
 VC.J.
-p43
+p44
 sg12
-g13
-sa(dp44
+g9
+sa(dp45
 g6
 VThank you, C.J.
-p45
+p46
 sg8
 g13
 sg10
 VREPORTERS
-p46
+p47
 sg12
 g9
-sa(dp47
+sa(dp48
 g6
 VThank you. I couldn't go out there. Like they had this sadistic, anticipatory glee.
-p48
+p49
 sg8
 g9
 sg10
 VJOSH
-p49
+p50
 sg12
-g13
-sa(dp50
+g20
+sa(dp51
 g6
 VI agree. I have to stay.
-p51
+p52
 sg8
 g9
 sg10
 VC.J.
-p52
+p53
 sg12
-g13
-sa(dp53
+g20
+sa(dp54
 g6
 VWhat are you still doing here?
-p54
+p55
 sg8
 g13
 sg10
 VTOBY
-p55
+p56
 sg12
 g13
-sa(dp56
+sa(dp57
 g6
 VJosh can't do the briefings. Anyway, I missed the last flight to Dayton, so it's moot.
-p57
-sg8
-S'negative'
 p58
+sg8
+g20
 sg10
 VC.J.
 p59
 sg12
-g13
+g20
 sa(dp60
 g6
 VNo, there's one at 7:50. You're booked on it.
@@ -212,7 +212,7 @@ sg10
 VCAROL
 p65
 sg12
-g13
+g20
 sa(dp66
 g6
 VGo. I'll do the briefings.
@@ -234,7 +234,7 @@ sg10
 VJOSH
 p71
 sg12
-g13
+g9
 sa(dp72
 g6
 VYou can't. It's not your schtick. You don't know who to call on, where to look, when to smile and interrupt...
@@ -278,13 +278,13 @@ sg10
 VTOBY
 p83
 sg12
-g13
+g20
 sa(dp84
 g6
 VYou're not allowed to use the words "Alzheimer's" or "doctors".
 p85
 sg8
-g58
+g20
 sg10
 VC.J.
 p86
@@ -300,7 +300,7 @@ sg10
 VTOBY
 p89
 sg12
-g13
+g9
 sa(dp90
 g6
 VHis wife scares me. The woman who takes care of him scares me. Molly, she was my English teacher. Believe me, she was a very tough grader.
@@ -328,7 +328,7 @@ g6
 VWell, she's also now my stepmother, so it's just a little bit fraught.
 p97
 sg8
-g58
+g20
 sg10
 VC.J.
 p98
@@ -377,7 +377,7 @@ sg10
 VC.J.
 p110
 sg12
-g13
+g9
 sa(dp111
 g6
 VNo, I didn't mean that you had no social skills Toby. I'm sorry if you think I was being insensitive to your... I-I think your very... you're a very pretty girl, Toby. Oh, um, by the way, I have... I have notes about the SEC appointment speech.
@@ -394,12 +394,12 @@ g6
 VI can't do this. I'll call you later. I'm going to have a heart attack.
 p115
 sg8
-g58
+g20
 sg10
 VC.J.
 p116
 sg12
-g13
+g20
 sa(dp117
 g6
 VToby, if you get this, there's also a errant draft of a briefing paper on the agricultural training exchange with the South African students and it has to pass through the... Um, I think I have been maybe cut off. I'll e-mail you.
@@ -421,7 +421,7 @@ sg10
 VC.J.
 p122
 sg12
-g13
+g20
 sa(dp123
 g6
 VYeah, you do. I didn't think you'd be coming. I feel slightly so much better now.
@@ -432,13 +432,13 @@ sg10
 VMARCO
 p125
 sg12
-g13
+g20
 sa(dp126
 g6
 VI'm hearing Violent Femmes and thinking Quaaludes and detentions and... tacos?
 p127
 sg8
-g58
+g20
 sg10
 VC.J.
 p128
@@ -482,12 +482,12 @@ g6
 VAh, alas. The Mollusk of Lust. I'm afraid we didn't make it.
 p139
 sg8
-g58
+g20
 sg10
 VMARCO
 p140
 sg12
-g13
+g20
 sa(dp141
 g6
 VNor did your purple-and-magenta mohawk.
@@ -619,7 +619,7 @@ sg10
 VMARCO
 p176
 sg12
-g13
+g9
 sa(dp177
 g6
 VWelcome home.
@@ -641,13 +641,13 @@ sg10
 VMARCO
 p182
 sg12
-g13
+g20
 sa(dp183
 g6
 VHey... listen... at the risk of being... anything... you wouldn't want to go to this thing together, would you? I mean, we could get a vodka first, which helps with the fear, and a cracker, which helps with the bad food.
 p184
 sg8
-g58
+g20
 sg10
 VMARCO
 p185
@@ -707,7 +707,7 @@ sg10
 VC.J.
 p200
 sg12
-g13
+g9
 sa(dp201
 g6
 VTell me everything. I want to know everything. Let's sit up all night and catch up. I don't seem to do much of that anymore. Ticking clocks, you know, and so much to do.
@@ -806,7 +806,7 @@ sg10
 VTAL
 p227
 sg12
-g13
+g20
 sa(dp228
 g6
 VOnce or twice.
@@ -839,7 +839,7 @@ sg10
 VC.J.
 p236
 sg12
-g13
+g20
 sa(dp237
 g6
 VYes, just like.
@@ -850,7 +850,7 @@ sg10
 VC.J.
 p239
 sg12
-g13
+g20
 sa(dp240
 g6
 VYou know, when you get to a certain age the little things you use to do matter more and more. Old Mr., um... Moyers, from two doors down, after his Beth died, all he wanted to do was to be taken to the Astro dinette for tuna melts, which is what they'd done together every Thursday. And now... [turns music up louder] it's me taking him.
@@ -878,12 +878,12 @@ g6
 VYou could blast Elgar in here with 25 speakers. You wouldn't wake up Molly.
 p247
 sg8
-g58
+g20
 sg10
 VTAL
 p248
 sg12
-g13
+g20
 sa(dp249
 g6
 VHow is Molly?
@@ -900,12 +900,12 @@ g6
 VMarvelous. Funny. Fun. Lots of rules. Ex vice-principals can't give up there principles, can they? You hungry?
 p253
 sg8
-g58
+g20
 sg10
 VTAL
 p254
 sg12
-g13
+g20
 sa(dp255
 g6
 VI'll be right there. I'm just going to put my bags down and wash my face.
@@ -949,29 +949,29 @@ sg10
 VTAL
 p266
 sg12
-g13
+g20
 sa(dp267
 g6
 VUm, why is this kitchen such a mess?
 p268
 sg8
-g58
+g20
 sg10
 VC.J.
 p269
 sg12
-g58
+g20
 sa(dp270
 g6
 VWell, we have a nice lady that comes in, but... who knows when? [puts down his cigarette] In fact, I don't know where anything is in here.
 p271
 sg8
-g58
+g20
 sg10
 VTAL
 p272
 sg12
-g13
+g20
 sa(dp273
 g6
 VDaddy, um, what do you...?
@@ -1076,12 +1076,12 @@ g6
 VNo more campaigning. Got it.
 p301
 sg8
-g58
+g20
 sg10
 VC.J.
 p302
 sg12
-g13
+g20
 sa(dp303
 g6
 VOh, good. You know, I-I like your man. His economic theories-- so generous, so good, but he-he hides his light under a bushel. Why is that?
@@ -1131,7 +1131,7 @@ g6
 VYeah. A handbook for the teaching of mathematics to a generation of mathematically illiterate teachers.
 p316
 sg8
-g58
+g20
 sg10
 VTAL
 p317
@@ -1147,7 +1147,7 @@ sg10
 VC.J.
 p320
 sg12
-g13
+g9
 sa(dp321
 g6
 VI was thinking of asking you to write a forward, but I suppose that's unethical, no?
@@ -1158,7 +1158,7 @@ sg10
 VTAL
 p323
 sg12
-g13
+g20
 sa(dp324
 g6
 VNot at all. I'd be happy to.
@@ -1169,7 +1169,7 @@ sg10
 VC.J.
 p326
 sg12
-g13
+g20
 sa(dp327
 g6
 VWell, it seems to me that everything is intrinsically unethical these days.
@@ -1191,7 +1191,7 @@ sg10
 VC.J.
 p332
 sg12
-g13
+g9
 sa(dp333
 g6
 VYeah, well, go to the supermarket. They can't make change. They can't tell you that if you drive at 40 miles an hour for three hours you've gone 260 miles.
@@ -1213,7 +1213,7 @@ sg10
 VC.J.
 p338
 sg12
-g13
+g9
 sa(dp339
 g6
 VI have found that this pot is the very most efficient way of making a custard and I can only surmise that it's because it doesn't allow the eggs to stay in one place long enough for them to get overcooked. [stops whipping the eggs]
@@ -1290,7 +1290,7 @@ sg10
 VC.J.
 p359
 sg12
-g9
+g20
 sa(dp360
 g6
 VI have to finish my book. Kids aren't being taught any of the important things: Inductive reasoning. Estimation. It's gone, it's all disappearing! Oh, stop staring at me, darling. You know you were brought up better than that.
@@ -1356,7 +1356,7 @@ sg10
 VC.J.
 p377
 sg12
-g13
+g9
 sa(dp378
 g6
 VThis obviously isn't much fun. Not what she signed on for.
@@ -1389,7 +1389,7 @@ sg10
 VTAL
 p386
 sg12
-g13
+g20
 sa(dp387
 g6
 VYeah, so everything's going well here.
@@ -1417,7 +1417,7 @@ g6
 VI, uh, where's the, uh...? I lost the, uh, uh, that NEA thing you wanted.
 p394
 sg8
-g58
+g20
 sg10
 VTOBY
 p395
@@ -1455,7 +1455,7 @@ sg10
 VC.J.
 p404
 sg12
-g13
+g20
 sa(dp405
 g6
 VI'm sure I can find it.
@@ -1466,13 +1466,13 @@ sg10
 VTOBY
 p407
 sg12
-g13
+g20
 sa(dp408
 g6
 VI want to be clear about the briefing, Toby. What I meant when I said that you need to know who to look at and when to ask certain questions is avoid the calm ones. Get the anxious ones out of the way first, sweetie, to give the pros room to figure out what it is they really want. And avoid the ones who don't blink. They're power devils.
 p409
 sg8
-g58
+g20
 sg10
 VC.J.
 p410
@@ -1488,7 +1488,7 @@ sg10
 VTOBY
 p413
 sg12
-g13
+g20
 sa(dp414
 g6
 VYes you do. Is anything happening?
@@ -1499,7 +1499,7 @@ sg10
 VC.J.
 p416
 sg12
-g9
+g13
 sa(dp417
 g6
 VThe usual chaos, but minus ten percent. How are things?
@@ -1549,12 +1549,12 @@ g6
 VAnd the wicked stepmother?
 p430
 sg8
-g58
+g20
 sg10
 VTOBY
 p431
 sg12
-g13
+g20
 sa(dp432
 g6
 VEven finer.
@@ -1565,7 +1565,7 @@ sg10
 VC.J.
 p434
 sg12
-g58
+g20
 sa(dp435
 g6
 VThe weather?
@@ -1609,7 +1609,7 @@ sg10
 VC.J.
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VYou come for the reunion but are staying for the comfort and ease of home?
@@ -1620,7 +1620,7 @@ sg10
 VLIBBY
 p449
 sg12
-g13
+g9
 sa(dp450
 g6
 VYep, 'fraid so.
@@ -1631,7 +1631,7 @@ sg10
 VC.J.
 p452
 sg12
-g13
+g20
 sa(dp453
 g6
 VYou have to stop being beautiful sometime, sweetheart.
@@ -1642,7 +1642,7 @@ sg10
 VLIBBY
 p455
 sg12
-g58
+g9
 sa(dp456
 g6
 VThat would be today.
@@ -1785,7 +1785,7 @@ sg10
 VLIBBY
 p494
 sg12
-g13
+g9
 sa(dp495
 g6
 VI made a mistake. It was years of him being charming. You both know how... how charming the man can be.
@@ -1813,7 +1813,7 @@ g6
 VI'm in the English department, he's in the math. There were lunches. There were quiet lunches for years. And we wait, both of us, waiting for years. After your mom dies and I had married what's-his name, we were still two missed connections. Two withered, married, ancient people waiting...
 p502
 sg8
-g58
+g20
 sg10
 VMOLLY
 p503
@@ -1829,7 +1829,7 @@ sg10
 VC.J.
 p506
 sg12
-g9
+g20
 sa(dp507
 g6
 VI didn't get to spend time with your father. We never had an affair. I'm sorry, but I don't want to diaper...
@@ -1840,7 +1840,7 @@ sg10
 VMOLLY
 p509
 sg12
-g13
+g20
 sa(dp510
 g6
 VShut up! Shut up. You were a wonderful teacher, Molly. You should be ashamed of yourself.
@@ -1857,7 +1857,7 @@ g6
 VWell, I am. And did you know what the nickname for the disease is? "The long goodbye."
 p514
 sg8
-g58
+g20
 sg10
 VMOLLY
 p515
@@ -1868,7 +1868,7 @@ g6
 VWell, not in your case, though, is it? In your case, more accurately it's the short "see you later goodbye" isn't it?
 p517
 sg8
-g58
+g20
 sg10
 VC.J.
 p518
@@ -1939,7 +1939,7 @@ sg10
 VC.J.
 p536
 sg12
-g13
+g20
 sa(dp537
 g6
 VOh, sweetie, I know when young people lie. Did she say how long she's been gone? It seems like weeks. Has it been weeks or just a few days?
@@ -2049,13 +2049,13 @@ sg10
 VTAL
 p566
 sg12
-g13
+g9
 sa(dp567
 g6
 VThank you. You could hurt yourself.
 p568
 sg8
-g58
+g20
 sg10
 VC.J.
 p569
@@ -2066,7 +2066,7 @@ g6
 VYou could hurt yourself. Look at that hook. Practically a nipple piercing.
 p571
 sg8
-g58
+g20
 sg10
 VTAL
 p572
@@ -2082,13 +2082,13 @@ sg10
 VC.J.
 p575
 sg12
-g13
+g20
 sa(dp576
 g6
 VMolly never liked to go fishing. She considered it devilish. I explained to her, "Well, we throw them back usually." Mostly I just like to stand and work the odds.
 p577
 sg8
-g58
+g20
 sg10
 VTAL
 p578
@@ -2148,7 +2148,7 @@ sg10
 VC.J.
 p593
 sg12
-g13
+g20
 sa(dp594
 g6
 VMolly, please, please! This nagging-- can't we just enjoy it here?
@@ -2159,7 +2159,7 @@ sg10
 VTAL
 p596
 sg12
-g13
+g20
 sa(dp597
 g6
 VDad, I'm not Molly.
@@ -2170,7 +2170,7 @@ sg10
 VC.J.
 p599
 sg12
-g13
+g20
 sa(dp600
 g6
 VYou're not Molly. You're not Molly.
@@ -2187,7 +2187,7 @@ g6
 V[screaming] Who... Who the hell are you? Who the hell are you? Who the hell are you? Who are you? All these damn women hounding me! My mother, my mother calls this morning to remind me to fold the socks when I get back in. And my daughter just abandoned me! Mothers, wives, daughters, and none of them stay! All these damn women!
 p604
 sg8
-g58
+g20
 sg10
 VTAL
 p605
@@ -2225,7 +2225,7 @@ sg10
 VC.J.
 p614
 sg12
-g13
+g20
 sa(dp615
 g6
 VCoward. That world, the expertise, the solicitude, no. No, thanks. I want to go down with some silence, with my music, with some grace.
@@ -2242,12 +2242,12 @@ g6
 VI'll quit and take care of you.
 p619
 sg8
-g58
+g20
 sg10
 VC.J.
 p620
 sg12
-g13
+g9
 sa(dp621
 g6
 V"We sail," said Pascal, "in a vast sphere," Claudia Jean, "ever drifting in uncertainty, driven from end to end." [caresses her cheek] I'd much rather see you on TV, darling, than sitting opposite me, watching a demolition derby going on in my brain.
@@ -2264,12 +2264,12 @@ g6
 VI'm here under duress, Lee.
 p625
 sg8
-g58
+g20
 sg10
 VTAL
 p626
 sg12
-g13
+g20
 sa(dp627
 g6
 VStop it, both of you. I'm very upset and I don't want to laugh.
@@ -2280,7 +2280,7 @@ sg10
 VC.J.
 p629
 sg12
-g13
+g20
 sa(dp630
 g6
 VWhy on earth would a statistic like that comfort me?
@@ -2291,7 +2291,7 @@ sg10
 VTAL
 p632
 sg12
-g13
+g20
 sa(dp633
 g6
 VI what? I used to play golf... and I stopped?
@@ -2335,7 +2335,7 @@ sg10
 VC.J.
 p644
 sg12
-g9
+g13
 sa(dp645
 g6
 VOh... good. He can slow it down. What a concept.
@@ -2346,7 +2346,7 @@ sg10
 VTAL
 p647
 sg12
-g13
+g20
 sa(dp648
 g6
 VI'm not alone. I have my book and a cat, right? So, we have a little while, unfortunately, before I begin not to recognize you, Lee.
@@ -2357,7 +2357,7 @@ sg10
 VTAL
 p650
 sg12
-g13
+g20
 sa(dp651
 g6
 VIt's, "quote" hard on the spouse, isn't it? I read that.
@@ -2379,7 +2379,7 @@ sg10
 VC.J.
 p656
 sg12
-g13
+g20
 sa(dp657
 g6
 V[chuckling] If only that were true, kids. [gets up and leaves]
@@ -2401,7 +2401,7 @@ sg10
 VC.J.
 p662
 sg12
-g13
+g20
 sa(dp663
 g6
 VYes.
@@ -2434,7 +2434,7 @@ sg10
 VC.J.
 p671
 sg12
-g13
+g20
 sa(dp672
 g6
 VYou damn well are. Your speech: "The Promise of a Generation". Awfully grand title, no?
@@ -2467,7 +2467,7 @@ sg10
 VTAL
 p680
 sg12
-g9
+g13
 sa(dp681
 g6
 VYou could come and live in Washington with me. I have room.
@@ -2495,7 +2495,7 @@ g6
 VOkay, let's see. Is this uh... Lakeside or Grandview? [lights a cigarette]
 p688
 sg8
-g58
+g20
 sg10
 VTAL
 p689
@@ -2533,7 +2533,7 @@ sg10
 VC.J.
 p698
 sg12
-g13
+g9
 sa(dp699
 g6
 VSee, I know exactly what I'm doing.
@@ -2544,7 +2544,7 @@ sg10
 VTAL
 p701
 sg12
-g13
+g20
 sa(dp702
 g6
 VDad! Dad! [into cellphone] Hello?
@@ -2621,7 +2621,7 @@ sg10
 VC.J.
 p722
 sg12
-g13
+g20
 sa(dp723
 g6
 VWell, let's go, if we're going.
@@ -2682,7 +2682,7 @@ g6
 V...can't be willed away by sheer force of personality, dad.
 p739
 sg8
-g58
+g20
 sg10
 VC.J.
 p740
@@ -2720,7 +2720,7 @@ sg10
 VTAL
 p749
 sg12
-g13
+g9
 sa(dp750
 g6
 VDo you think?
@@ -2731,7 +2731,7 @@ sg10
 VC.J.
 p752
 sg12
-g9
+g13
 sa(dp753
 g6
 VThey really need you.
@@ -2742,7 +2742,7 @@ sg10
 VTAL
 p755
 sg12
-g9
+g13
 sa(dp756
 g6
 VYeah, they kind of do.
@@ -2753,7 +2753,7 @@ sg10
 VC.J.
 p758
 sg12
-g13
+g9
 sa(dp759
 g6
 VDad! Dad, can you get the door?
@@ -2775,7 +2775,7 @@ sg10
 VTAL
 p764
 sg12
-g13
+g9
 sa(dp765
 g6
 VMr. Arlen. I heard you were back in town.
@@ -2803,7 +2803,7 @@ g6
 VAbysmal mess, I hear. But, fortunately, as the waitresses like to say, "Not my table." Come on in.
 p772
 sg8
-g58
+g20
 sg10
 VTAL
 p773
@@ -2825,12 +2825,12 @@ g6
 VYou're no longer a rabid punk rocker, I see.
 p778
 sg8
-g58
+g20
 sg10
 VTAL
 p779
 sg12
-g13
+g20
 sa(dp780
 g6
 VHow could you possibly remember that? I was your student for one semester.
@@ -2841,7 +2841,7 @@ sg10
 VMARCO
 p782
 sg12
-g13
+g20
 sa(dp783
 g6
 VOh, I remember the detentions and the ditching and the low test scores and your imperviousness to algorithms. Let's get you a drink.
@@ -2852,7 +2852,7 @@ sg10
 VTAL
 p785
 sg12
-g13
+g9
 sa(dp786
 g6
 VScotch.
@@ -2885,7 +2885,7 @@ sg10
 VMARCO
 p794
 sg12
-g13
+g9
 sa(dp795
 g6
 VSo, what're you up to now?
@@ -2907,7 +2907,7 @@ sg10
 VMARCO
 p800
 sg12
-g13
+g20
 sa(dp801
 g6
 VYou fix watches. You were in trouble.
@@ -2924,7 +2924,7 @@ g6
 VYeah, Yeah, I, uh, I spent a lot of time in detention.
 p805
 sg8
-g58
+g20
 sg10
 VMARCO
 p806
@@ -2935,23 +2935,23 @@ g6
 VNo, no, After. You were in prison.
 p808
 sg8
-g58
+g20
 sg10
 VTAL
 p809
 sg12
-g13
+g20
 sa(dp810
 g6
 VNo, Dad, no. [to Marco] He gets confused. Dad, no, wasn't... Marco... wasn't in prison.
 p811
 sg8
-g58
+g20
 sg10
 VC.J.
 p812
 sg12
-g13
+g20
 sa(dp813
 g6
 VYes, I was. I did a year. It wasn't hard; I was younger. Stock tips. Anyway... I-I lost most of what I had and moved on.
@@ -2962,7 +2962,7 @@ sg10
 VMARCO
 p815
 sg12
-g13
+g20
 sa(dp816
 g6
 VC'est la guerre, eh, son?
@@ -2973,7 +2973,7 @@ sg10
 VTAL
 p818
 sg12
-g13
+g9
 sa(dp819
 g6
 VC'est la guerre.
@@ -2995,7 +2995,7 @@ sg10
 VTAL
 p824
 sg12
-g13
+g9
 sa(dp825
 g6
 VUh... yes, sir.
@@ -3006,7 +3006,7 @@ sg10
 VMARCO
 p827
 sg12
-g13
+g9
 sa(dp828
 g6
 VWow! 1931 Hamilton. One of the few thoroughly American watches. Each piece, each part, handmade in the U.S. of A. Not many American watch-makers.
@@ -3034,7 +3034,7 @@ g6
 VHuh. You're losing time, Mr. Cregg.
 p835
 sg8
-g58
+g20
 sg10
 VMARCO
 p836
@@ -3083,7 +3083,7 @@ sg10
 VMARCO
 p848
 sg12
-g13
+g9
 sa(dp849
 g6
 VYeah, isochronism is out of beat.
@@ -3116,7 +3116,7 @@ sg10
 VMARCO
 p857
 sg12
-g13
+g9
 sa(dp858
 g6
 VThat's me.
@@ -3127,7 +3127,7 @@ sg10
 VC.J.
 p860
 sg12
-g13
+g20
 sa(dp861
 g6
 VHmm. Oh, what am I thinking? You kids should get going.
@@ -3160,7 +3160,7 @@ sg10
 VTAL
 p869
 sg12
-g13
+g9
 sa(dp870
 g6
 VWell, I could retool it. It wants a timing machine. Send it to you in a few weeks from Paris.
@@ -3177,12 +3177,12 @@ g6
 VFrance? You're a convicted felon. How do I know you won't steal it?
 p874
 sg8
-g58
+g20
 sg10
 VTAL
 p875
 sg12
-g13
+g20
 sa(dp876
 g6
 VI'm not a recidivist. It would be a pleasure, Mr. Cregg. After all, you taught me how to calculate the number of stones in the Great Pyramid.
@@ -3204,7 +3204,7 @@ sg10
 VTAL
 p881
 sg12
-g13
+g20
 sa(dp882
 g6
 VMm-hmm.
@@ -3237,7 +3237,7 @@ sg10
 VTAL
 p890
 sg12
-g13
+g20
 sa(dp891
 g6
 VWe should be going, Mr. Cregg.
@@ -3259,7 +3259,7 @@ sg10
 VTAL
 p896
 sg12
-g13
+g20
 sa(dp897
 g6
 VAre we that old?
@@ -3281,7 +3281,7 @@ sg10
 VMARCO
 p902
 sg12
-g9
+g13
 sa(dp903
 g6
 VOh... Bill Morton form debate. Julia Keller from Cheerleading. Liz Varney from tennis.
@@ -3292,7 +3292,7 @@ sg10
 VC.J.
 p905
 sg12
-g13
+g9
 sa(dp906
 g6
 VBen Ehrenreich... he was sweet.
@@ -3314,7 +3314,7 @@ sg10
 VMARCO
 p911
 sg12
-g9
+g20
 sa(dp912
 g6
 VI don't think I can... face it right now.
@@ -3358,7 +3358,7 @@ sg10
 VMARCO
 p923
 sg12
-g13
+g9
 sa(dp924
 g6
 VMmm! I'm like, I'm like on in a few minutes.
@@ -3380,7 +3380,7 @@ sg10
 VMARCO
 p929
 sg12
-g13
+g20
 sa(dp930
 g6
 VOh.
@@ -3446,7 +3446,7 @@ sg10
 VMARCO
 p947
 sg12
-g13
+g9
 sa(dp948
 g6
 VAre you saying you're one of those people who think like, in F. Scott Fitzgerald, their best years were 20 years prior?
@@ -3567,7 +3567,7 @@ sg10
 VC.J.
 p980
 sg12
-g13
+g20
 sa(dp981
 g6
 VWhat happened?
@@ -3589,7 +3589,7 @@ sg10
 VC.J.
 p986
 sg12
-g13
+g20
 sa(dp987
 g6
 VI'll get the car.
@@ -3611,7 +3611,7 @@ sg10
 VTAL
 p992
 sg12
-g13
+g9
 sa(dp993
 g6
 VI have to go. Tal, I-I don't know what to do about this situation.
@@ -3661,12 +3661,12 @@ g6
 VC.J. Before I forget. Tell Marco, send it back to me soon. Please.
 p1006
 sg8
-g58
+g20
 sg10
 VTAL
 p1007
 sg12
-g9
+g13
 sa(dp1008
 g6
 VAnd working. Time matters.
@@ -3688,7 +3688,7 @@ sg10
 VC.J.
 p1013
 sg12
-g9
+g13
 sa(dp1014
 g6
 VYou can't keep flying back and forth.

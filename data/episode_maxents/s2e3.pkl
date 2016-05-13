@@ -47,7 +47,7 @@ sg10
 VC.J.
 p20
 sg12
-g9
+g19
 sa(dp21
 g6
 VCarol, I'm missing the OMB stats.
@@ -58,7 +58,7 @@ sg10
 VC.J.
 p23
 sg12
-g9
+g19
 sa(dp24
 g6
 VThey're coming.
@@ -69,7 +69,7 @@ sg10
 VCAROL
 p26
 sg12
-g9
+g19
 sa(dp27
 g6
 VI'm not gonna lead with it.
@@ -91,7 +91,7 @@ sg10
 VJOSH
 p32
 sg12
-g9
+g15
 sa(dp33
 g6
 VSo, you got it?
@@ -113,7 +113,7 @@ sg10
 VC.J.
 p38
 sg12
-g9
+g19
 sa(dp39
 g6
 VI mean, you got what you're suppose to say.
@@ -135,7 +135,7 @@ sg10
 VCAROL
 p44
 sg12
-g9
+g19
 sa(dp45
 g6
 VHe's making me crazy.
@@ -157,7 +157,7 @@ sg10
 VJOSH
 p50
 sg12
-g15
+g9
 sa(dp51
 g6
 VJoshua, I really have to get to the briefing room.
@@ -168,7 +168,7 @@ sg10
 VC.J.
 p53
 sg12
-g9
+g19
 sa(dp54
 g6
 VSay it please.
@@ -212,7 +212,7 @@ sg10
 VC.J.
 p65
 sg12
-g9
+g19
 sa(dp66
 g6
 VI should jot that down.
@@ -223,7 +223,7 @@ sg10
 VC.J.
 p68
 sg12
-g9
+g19
 sa(dp69
 g6
 VPlease.
@@ -245,7 +245,7 @@ sg10
 VC.J.
 p74
 sg12
-g9
+g19
 sa(dp75
 g6
 VTalk to you later mi amor.
@@ -289,7 +289,7 @@ sg10
 VCAROL
 p86
 sg12
-g9
+g19
 sa(dp87
 g6
 VC.J.
@@ -377,7 +377,7 @@ sg10
 VC.J.
 p110
 sg12
-g9
+g19
 sa(dp111
 g6
 VYes.
@@ -399,7 +399,7 @@ sg10
 VC.J.
 p116
 sg12
-g9
+g19
 sa(dp117
 g6
 VThe prices are always dropping...
@@ -608,7 +608,7 @@ sg10
 VC.J.
 p173
 sg12
-g9
+g19
 sa(dp174
 g6
 VYeah.
@@ -663,7 +663,7 @@ sg10
 VSAM
 p188
 sg12
-g9
+g15
 sa(dp189
 g6
 VWell, okay, then I shouldn't have made a joke.
@@ -674,7 +674,7 @@ sg10
 VC.J.
 p191
 sg12
-g9
+g19
 sa(dp192
 g6
 VI'm almost certain he's dead.
@@ -718,7 +718,7 @@ sg10
 VC.J.
 p203
 sg12
-g9
+g19
 sa(dp204
 g6
 VHe's survived by his wife, Eileen, his son, Robert, his two daughters, Priscilla and Patty, and eight grandchildren.
@@ -751,7 +751,7 @@ sg10
 VSAM
 p212
 sg12
-g9
+g15
 sa(dp213
 g6
 VEileen, Robert, Priscilla, Patty, and eight grandchildren. And I'm assuming it was complications due to...
@@ -850,7 +850,7 @@ sg10
 VC.J.
 p239
 sg12
-g9
+g15
 sa(dp240
 g6
 V81%
@@ -894,7 +894,7 @@ sg10
 VSAM
 p251
 sg12
-g9
+g19
 sa(dp252
 g6
 VA week ago the job approval's at 51. We get shot at and it's at 81. Yeah, I think the numbers are soft.
@@ -971,7 +971,7 @@ sg10
 VSAM
 p272
 sg12
-g9
+g15
 sa(dp273
 g6
 VShut up.
@@ -1026,7 +1026,7 @@ sg10
 VLEO
 p287
 sg12
-g9
+g19
 sa(dp288
 g6
 VThose aren't internals. It's CNN, USA Today.
@@ -1158,7 +1158,7 @@ sg10
 VED
 p323
 sg12
-g9
+g15
 sa(dp324
 g6
 VFlorida 4, 5, and 9...
@@ -1191,7 +1191,7 @@ sg10
 VLARRY
 p332
 sg12
-g9
+g19
 sa(dp333
 g6
 VThey're not going to elect a democrat there, either. But let's put some time into it. What else?
@@ -1213,7 +1213,7 @@ sg10
 VCHARLIE
 p338
 sg12
-g9
+g19
 sa(dp339
 g6
 VAn inability to form arithmetic functions.
@@ -1224,7 +1224,7 @@ sg10
 VMARGARET
 p341
 sg12
-g9
+g19
 sa(dp342
 g6
 V(into phone) Sure.
@@ -1290,7 +1290,7 @@ sg10
 VMARGARET
 p359
 sg12
-g9
+g15
 sa(dp360
 g6
 V[enters] Hey, Margaret. Where's Mrs. Landingham?
@@ -1433,7 +1433,7 @@ sg10
 VCHARLIE
 p398
 sg12
-g9
+g19
 sa(dp399
 g6
 VThank you.
@@ -1466,7 +1466,7 @@ sg10
 VCHARLIE
 p407
 sg12
-g9
+g19
 sa(dp408
 g6
 VWhere were you?
@@ -1477,7 +1477,7 @@ sg10
 VZOEY
 p410
 sg12
-g15
+g9
 sa(dp411
 g6
 VI was here.
@@ -1521,7 +1521,7 @@ sg10
 VZOEY
 p422
 sg12
-g9
+g19
 sa(dp423
 g6
 VI was here, I didn't get the message. I was home, I got the message. I didn't return your call 'cause it was late.
@@ -1532,7 +1532,7 @@ sg10
 VCHARLIE
 p425
 sg12
-g9
+g19
 sa(dp426
 g6
 VI don't mind being woken up.
@@ -1543,7 +1543,7 @@ sg10
 VZOEY
 p428
 sg12
-g9
+g19
 sa(dp429
 g6
 VWell, now I know that.
@@ -1609,7 +1609,7 @@ sg10
 VED
 p446
 sg12
-g9
+g15
 sa(dp447
 g6
 VSince you brought up Cumberland and Monroe, can I say a word about the shooting? (beat) It's been a week and the honeymoon's about to be over.
@@ -1653,7 +1653,7 @@ sg10
 VTOBY
 p458
 sg12
-g9
+g19
 sa(dp459
 g6
 VWhy not, what?
@@ -1697,7 +1697,7 @@ sg10
 VTOBY
 p470
 sg12
-g9
+g19
 sa(dp471
 g6
 VWell, you work for the White House, Toby. I think we were counting on your support, either way.
@@ -1752,7 +1752,7 @@ sg10
 VTOBY
 p485
 sg12
-g9
+g15
 sa(dp486
 g6
 VI'll let you know. Thank you very much, everyone.
@@ -1774,7 +1774,7 @@ sg10
 VEVERYONE
 p491
 sg12
-g15
+g9
 sa(dp492
 g6
 VMr. President.
@@ -1818,7 +1818,7 @@ sg10
 VBARTLET
 p503
 sg12
-g9
+g19
 sa(dp504
 g6
 VYes, sir.
@@ -1851,7 +1851,7 @@ sg10
 VCHARLIE
 p512
 sg12
-g9
+g19
 sa(dp513
 g6
 VOkay. [starts to gather his files] Leo.
@@ -1895,7 +1895,7 @@ sg10
 VLEO
 p524
 sg12
-g9
+g19
 sa(dp525
 g6
 VElliot Roush.
@@ -1939,7 +1939,7 @@ sg10
 VLEO
 p536
 sg12
-g15
+g19
 sa(dp537
 g6
 VI beat him in my first Congressional campaign.
@@ -1961,7 +1961,7 @@ sg10
 VLEO
 p542
 sg12
-g9
+g19
 sa(dp543
 g6
 VI want some polling numbers on that race.
@@ -2038,7 +2038,7 @@ sg10
 VBARTLET
 p563
 sg12
-g9
+g19
 sa(dp564
 g6
 VNo.
@@ -2060,7 +2060,7 @@ sg10
 VBARTLET
 p569
 sg12
-g9
+g19
 sa(dp570
 g6
 VSir, let's play a game of "Who do you think I'm going to agree with?" Fourteen doctors say you should wait another week before you assume a campaign schedule. Who do you think I'm going to agree with?
@@ -2082,7 +2082,7 @@ sg10
 VBARTLET
 p575
 sg12
-g9
+g19
 sa(dp576
 g6
 VYes, sir.
@@ -2159,7 +2159,7 @@ sg10
 VSAM
 p596
 sg12
-g15
+g19
 sa(dp597
 g6
 VNo. I mean, I don't mind. Sam, this is my wife, Sarah.
@@ -2170,7 +2170,7 @@ sg10
 VTOM
 p599
 sg12
-g15
+g19
 sa(dp600
 g6
 VHi.
@@ -2192,7 +2192,7 @@ sg10
 VSAM
 p605
 sg12
-g9
+g15
 sa(dp606
 g6
 VTwo years, with a baby on the way.
@@ -2203,7 +2203,7 @@ sg10
 VTOM
 p608
 sg12
-g9
+g15
 sa(dp609
 g6
 V(to Sarah) Is it his?
@@ -2236,7 +2236,7 @@ sg10
 VSAM
 p617
 sg12
-g9
+g19
 sa(dp618
 g6
 VTom and I had a contracts professor at Duke who couldn't stand me.
@@ -2247,7 +2247,7 @@ sg10
 VSAM
 p620
 sg12
-g9
+g19
 sa(dp621
 g6
 VThose may be your thoughts, Mr. Seaborn, but that's not the law.
@@ -2313,7 +2313,7 @@ sg10
 VSAM
 p638
 sg12
-g9
+g15
 sa(dp639
 g6
 VHmm...can you tell us anything about it?
@@ -2346,7 +2346,7 @@ sg10
 VTOM
 p647
 sg12
-g9
+g19
 sa(dp648
 g6
 V'Cause the Democratic Congressional Campaign Committee asked me to. (beat) Grant Samuels died a few days ago.
@@ -2412,7 +2412,7 @@ sg10
 VTOM
 p665
 sg12
-g9
+g19
 sa(dp666
 g6
 VTom, you are a phenomenally attractive Democratic candidate for that district. There are 162 games in major league baseball season and the players have a saying "Every team's going to win 54 games, every team's going to lose 54, it's what you do with the other 54 games that counts." In your district, you got democrats, you got republicans, and the other 54 games are women. Specifically young mothers, among who the number one issue is crime. You are a graduate of Oberlin and Duke Law School. You passed up many lucrative opportunities to work in the D.A's office. You are a prosecutor with an exceptional conviction record and certainly nobody can hang "soft on crime" around your neck. You're active in local politics. You're personable. You are articulate and energetic. You are married and you're having a baby.
@@ -2445,7 +2445,7 @@ sg10
 VSAM
 p674
 sg12
-g9
+g19
 sa(dp675
 g6
 VWhen you were out in the lobby, it seemed as if you didn't know that Tom was married and that there was a baby on the way. And now it sounded like you already had that information.
@@ -2467,7 +2467,7 @@ sg10
 VSAM
 p680
 sg12
-g9
+g19
 sa(dp681
 g6
 VSam.
@@ -2533,7 +2533,7 @@ sg10
 VTOBY
 p698
 sg12
-g9
+g19
 sa(dp699
 g6
 VYou get my support the same way I get yours. When I agree with what you're saying or when I don't care about what you're saying. This time I disagree.
@@ -2654,7 +2654,7 @@ sg10
 VC.J.
 p731
 sg12
-g9
+g19
 sa(dp732
 g6
 VWe're not the story.
@@ -2665,7 +2665,7 @@ sg10
 VTOBY
 p734
 sg12
-g9
+g19
 sa(dp735
 g6
 VThat's what I'm saying.
@@ -2687,7 +2687,7 @@ sg10
 VTOBY
 p740
 sg12
-g9
+g19
 sa(dp741
 g6
 V(to himself) I got it. I got it. I got it. (beat) I got it. Bonnie, Ginger, I got it.
@@ -2797,7 +2797,7 @@ sg10
 VSAM
 p770
 sg12
-g9
+g19
 sa(dp771
 g6
 VI got it.
@@ -2841,7 +2841,7 @@ sg10
 VSAM
 p782
 sg12
-g19
+g9
 sa(dp783
 g6
 VYes, or with this. The shooting was the action of not one, but at least three card carrying members of West Virginia White Pride.
@@ -2896,7 +2896,7 @@ sg10
 VTOBY
 p797
 sg12
-g9
+g19
 sa(dp798
 g6
 VOkay.
@@ -2929,7 +2929,7 @@ sg10
 VSAM
 p806
 sg12
-g9
+g15
 sa(dp807
 g6
 VYes, to investigate or curtail the activities of all extremist organizations....
@@ -2940,7 +2940,7 @@ sg10
 VTOBY
 p809
 sg12
-g9
+g15
 sa(dp810
 g6
 V...under a cover of investigating this one particular crime.
@@ -3006,7 +3006,7 @@ sg10
 VTOBY
 p827
 sg12
-g9
+g19
 sa(dp828
 g6
 VKnock yourself out. (walks off)
@@ -3072,7 +3072,7 @@ sg10
 VTOBY
 p845
 sg12
-g9
+g19
 sa(dp846
 g6
 VNo.
@@ -3138,7 +3138,7 @@ sg10
 VTOBY
 p863
 sg12
-g9
+g19
 sa(dp864
 g6
 VThe rules are not dumb.
@@ -3149,7 +3149,7 @@ sg10
 VDONNA
 p866
 sg12
-g9
+g19
 sa(dp867
 g6
 VDonna, seriously.
@@ -3160,7 +3160,7 @@ sg10
 VTOBY
 p869
 sg12
-g9
+g19
 sa(dp870
 g6
 VI'm perfectly serious, Toby. He's recovering from an attempted murder. He's supposed to be resting and I don't want people going over there getting him fuhtushed.
@@ -3237,7 +3237,7 @@ sg10
 VDONNA
 p890
 sg12
-g9
+g15
 sa(dp891
 g6
 VI need to talk to him about...
@@ -3325,7 +3325,7 @@ sg10
 VZOEY
 p914
 sg12
-g9
+g15
 sa(dp915
 g6
 VHey, kid.
@@ -3347,7 +3347,7 @@ sg10
 VZOEY
 p920
 sg12
-g9
+g19
 sa(dp921
 g6
 VHe's making campaign calls.
@@ -3358,7 +3358,7 @@ sg10
 VLEO
 p923
 sg12
-g9
+g19
 sa(dp924
 g6
 VHe's not in the Office.
@@ -3435,7 +3435,7 @@ sg10
 VZOEY
 p944
 sg12
-g9
+g19
 sa(dp945
 g6
 VYes.
@@ -3457,7 +3457,7 @@ sg10
 VZOEY
 p950
 sg12
-g9
+g19
 sa(dp951
 g6
 VBecause your father is a demented, demented man. I'm going over there.
@@ -3611,7 +3611,7 @@ sg10
 VC.J.
 p992
 sg12
-g19
+g9
 sa(dp993
 g6
 VI'm on hold with a guy whose name I've got on an index card. How much governing do you think is going on around here today? And can you believe I'm on hold?
@@ -3644,7 +3644,7 @@ sg10
 VBARTLET
 p1001
 sg12
-g9
+g19
 sa(dp1002
 g6
 VYes, sir.
@@ -3666,7 +3666,7 @@ sg10
 VBARTLET
 p1007
 sg12
-g9
+g19
 sa(dp1008
 g6
 VVery well.
@@ -3677,7 +3677,7 @@ sg10
 VC.J.
 p1010
 sg12
-g9
+g15
 sa(dp1011
 g6
 VGood morning, Mr. President.
@@ -3710,7 +3710,7 @@ sg10
 VLEO
 p1019
 sg12
-g15
+g9
 sa(dp1020
 g6
 VI had our people...
@@ -3776,7 +3776,7 @@ sg10
 VLEO
 p1037
 sg12
-g9
+g19
 sa(dp1038
 g6
 VThey're going fine.
@@ -3798,7 +3798,7 @@ sg10
 VLEO
 p1043
 sg12
-g9
+g19
 sa(dp1044
 g6
 VCan't tell you how much I'm going to miss you. (to Zoey) You wanted to talk to me?
@@ -3908,7 +3908,7 @@ sg10
 VLEO
 p1073
 sg12
-g9
+g15
 sa(dp1074
 g6
 VListen, Leo, we're still asked to participate in aftermath stories.
@@ -3930,7 +3930,7 @@ sg10
 VLEO
 p1079
 sg12
-g9
+g19
 sa(dp1080
 g6
 VYeah and I was wondering....
@@ -3941,7 +3941,7 @@ sg10
 VC.J.
 p1082
 sg12
-g9
+g19
 sa(dp1083
 g6
 VDon't do it.
@@ -3952,7 +3952,7 @@ sg10
 VLEO
 p1085
 sg12
-g9
+g19
 sa(dp1086
 g6
 VNo, I know that. But I was wondering...
@@ -3963,7 +3963,7 @@ sg10
 VC.J.
 p1088
 sg12
-g9
+g19
 sa(dp1089
 g6
 VYou're wondering what?
@@ -4007,7 +4007,7 @@ sg10
 VC.J.
 p1100
 sg12
-g9
+g19
 sa(dp1101
 g6
 VOkay. (leaves)
@@ -4216,7 +4216,7 @@ sg10
 VSAM
 p1157
 sg12
-g9
+g15
 sa(dp1158
 g6
 VTom Jordan, the guy you got running.
@@ -4304,7 +4304,7 @@ sg10
 VSAM
 p1181
 sg12
-g9
+g15
 sa(dp1182
 g6
 VNot anymore. Now he's a politician and this needs a save. So, get into it, would you?
@@ -4568,7 +4568,7 @@ sg10
 VCHARLIE
 p1253
 sg12
-g9
+g19
 sa(dp1254
 g6
 VSorry.
@@ -4645,7 +4645,7 @@ sg10
 VCHARLIE
 p1274
 sg12
-g9
+g19
 sa(dp1275
 g6
 V(to Jeffrey) Let's go big man.
@@ -4667,7 +4667,7 @@ sg10
 VCHARLIE
 p1280
 sg12
-g9
+g15
 sa(dp1281
 g6
 VTake it easy.
@@ -4777,7 +4777,7 @@ sg10
 VSAM
 p1310
 sg12
-g9
+g19
 sa(dp1311
 g6
 VYeah, but you put this together with the preemptive challenges in voir dire and serious leaders in the African-American community have a problem.
@@ -4854,7 +4854,7 @@ sg10
 VLEO
 p1331
 sg12
-g9
+g19
 sa(dp1332
 g6
 VNo!
@@ -4876,7 +4876,7 @@ sg10
 VLEO
 p1337
 sg12
-g9
+g15
 sa(dp1338
 g6
 VYou can't cut and run, Leo.
@@ -4931,7 +4931,7 @@ sg10
 VLEO
 p1352
 sg12
-g9
+g19
 sa(dp1353
 g6
 VYou're going to hand it to him
@@ -4975,7 +4975,7 @@ sg10
 VJOSH
 p1364
 sg12
-g9
+g19
 sa(dp1365
 g6
 VI told him....
@@ -5019,7 +5019,7 @@ sg10
 VLEO
 p1376
 sg12
-g9
+g19
 sa(dp1377
 g6
 VWe walk away now, that's it. He's a racist! The White House just said so!
@@ -5052,7 +5052,7 @@ sg10
 VLEO
 p1385
 sg12
-g15
+g19
 sa(dp1386
 g6
 VJust lucky, I guess.
@@ -5063,7 +5063,7 @@ sg10
 VJOSH
 p1388
 sg12
-g9
+g19
 sa(dp1389
 g6
 VYeah.
@@ -5118,7 +5118,7 @@ sg10
 VTOBY
 p1403
 sg12
-g9
+g15
 sa(dp1404
 g6
 VAsia Pacific.
@@ -5140,7 +5140,7 @@ sg10
 VTOBY
 p1409
 sg12
-g9
+g19
 sa(dp1410
 g6
 VI thought I was going to have it by the end of the day.
@@ -5195,7 +5195,7 @@ sg10
 VC.J.
 p1424
 sg12
-g9
+g19
 sa(dp1425
 g6
 VYou think my problem is psychological?
@@ -5206,7 +5206,7 @@ sg10
 VTOBY
 p1427
 sg12
-g9
+g19
 sa(dp1428
 g6
 VI think you're Director of Communications and you've been ignoring operational responsibilities...
@@ -5228,7 +5228,7 @@ sg10
 VTOBY
 p1433
 sg12
-g9
+g19
 sa(dp1434
 g6
 V...So you can behave like the Director of the FBI.
@@ -5250,7 +5250,7 @@ sg10
 VTOBY
 p1439
 sg12
-g9
+g19
 sa(dp1440
 g6
 VToby.
@@ -5272,7 +5272,7 @@ sg10
 VTOBY
 p1445
 sg12
-g9
+g19
 sa(dp1446
 g6
 VI'm waiting for the White House to behave that way!
@@ -5294,7 +5294,7 @@ sg10
 VC.J.
 p1451
 sg12
-g9
+g15
 sa(dp1452
 g6
 VYes, I do. Yes, I do. Who has a problem with that? Bring 'em to me, right now. YES I DO!
@@ -5316,7 +5316,7 @@ sg10
 VC.J.
 p1457
 sg12
-g9
+g19
 sa(dp1458
 g6
 VIn the Residence.
@@ -5349,7 +5349,7 @@ sg10
 VC.J.
 p1466
 sg12
-g9
+g19
 sa(dp1467
 g6
 VGive me an hour.
@@ -5360,7 +5360,7 @@ sg10
 VTOBY
 p1469
 sg12
-g9
+g19
 sa(dp1470
 g6
 VCome in.
@@ -5393,7 +5393,7 @@ sg10
 VBARTLET
 p1478
 sg12
-g9
+g15
 sa(dp1479
 g6
 VCharlie said you wanted to see me.
@@ -5415,7 +5415,7 @@ sg10
 VBARTLET
 p1484
 sg12
-g9
+g19
 sa(dp1485
 g6
 VElliot Roush is the man....?
@@ -5481,7 +5481,7 @@ sg10
 VBARTLET
 p1502
 sg12
-g9
+g15
 sa(dp1503
 g6
 VNot a very interesting one.
@@ -5525,7 +5525,7 @@ sg10
 VBARTLET
 p1514
 sg12
-g9
+g19
 sa(dp1515
 g6
 VBecause it's not done, and it's not fair. It's personal and it's irresponsible. It will galvanize the Republicans and the Democrats in Congress will think you've abandoned them, that you don't care about winning back the House.
@@ -5580,7 +5580,7 @@ sg10
 VC.J.
 p1529
 sg12
-g9
+g19
 sa(dp1530
 g6
 VC.J., I've known men of faith in my life. Towering men. Men of wisdom and compassion. Men of all faiths, of healing and peace. Pro choices, pro-life, Republican, Democrat, men and women of God. Elliot Roush... (long beat) ...is polling at 53%. He's polling at 53%. He's the front runner.
@@ -5646,7 +5646,7 @@ sg10
 VC.J.
 p1547
 sg12
-g15
+g9
 sa(dp1548
 g6
 VGinger!
@@ -5712,7 +5712,7 @@ sg10
 VSAM
 p1565
 sg12
-g9
+g19
 sa(dp1566
 g6
 VGod...Tom, Sarah... I'm sorry. I forgot, I was... I'm sorry, I'm late. I'm glad you could make it.
@@ -5723,7 +5723,7 @@ sg10
 VSAM
 p1568
 sg12
-g9
+g19
 sa(dp1569
 g6
 VIt was no problem coming, Sam. Turns out there was really no reason for us to stay in our district on Election day.
@@ -5789,7 +5789,7 @@ sg10
 VSAM
 p1586
 sg12
-g9
+g15
 sa(dp1587
 g6
 VThe district's 49% Democrat, Sam.
@@ -5877,7 +5877,7 @@ sg10
 VSAM
 p1610
 sg12
-g9
+g15
 sa(dp1611
 g6
 V(waking up a bit) Stern.
@@ -6119,7 +6119,7 @@ sg10
 VBARTLET
 p1676
 sg12
-g9
+g15
 sa(dp1677
 g6
 VMr. President, I was thinking... I was thinking it might...
@@ -6141,7 +6141,7 @@ sg10
 VBARTLET
 p1682
 sg12
-g9
+g19
 sa(dp1683
 g6
 VI was thinking I might need some time off, yes sir.
@@ -6152,7 +6152,7 @@ sg10
 VTOBY
 p1685
 sg12
-g9
+g19
 sa(dp1686
 g6
 VThat's no problem, Toby.
@@ -6163,7 +6163,7 @@ sg10
 VBARTLET
 p1688
 sg12
-g9
+g19
 sa(dp1689
 g6
 VOkay.
@@ -6196,7 +6196,7 @@ sg10
 VTOBY
 p1697
 sg12
-g9
+g19
 sa(dp1698
 g6
 V15 minutes.
@@ -6328,7 +6328,7 @@ sg10
 VBARTLET
 p1733
 sg12
-g9
+g15
 sa(dp1734
 g6
 VWhen you ran against him, how'd you beat him?
@@ -6372,7 +6372,7 @@ sg10
 VBARTLET
 p1745
 sg12
-g9
+g15
 sa(dp1746
 g6
 VI wasn't sure whether you'd be stopping by the Talk Radio reception. I scratched out a few remarks for you.
@@ -6383,7 +6383,7 @@ sg10
 VSAM
 p1748
 sg12
-g9
+g19
 sa(dp1749
 g6
 VLet me look at them while we walk. Toby, go with us, to this radio thing.
@@ -6405,7 +6405,7 @@ sg10
 VTOBY
 p1754
 sg12
-g9
+g15
 sa(dp1755
 g6
 VThere'll be crab puffs. New England crab puffs, by the way, made in New England.
@@ -6427,7 +6427,7 @@ sg10
 VSAM
 p1760
 sg12
-g9
+g15
 sa(dp1761
 g6
 VSam.
@@ -6460,7 +6460,7 @@ sg10
 VTOBY
 p1769
 sg12
-g9
+g19
 sa(dp1770
 g6
 VHave you tried them?
@@ -6482,7 +6482,7 @@ sg10
 VSAM
 p1775
 sg12
-g9
+g19
 sa(dp1776
 g6
 VWere they good?
@@ -6493,7 +6493,7 @@ sg10
 VBARTLET
 p1778
 sg12
-g19
+g15
 sa(dp1779
 g6
 VExtraordinarily good and going very fast.
@@ -6504,7 +6504,7 @@ sg10
 VSAM
 p1781
 sg12
-g9
+g15
 sa(dp1782
 g6
 VLet's get there.
@@ -6581,7 +6581,7 @@ sg10
 VC.J.
 p1802
 sg12
-g15
+g19
 sa(dp1803
 g6
 VExcuse me, ladies and gentlemen. Ladies and gentlemen. The President of the United States.
@@ -6647,7 +6647,7 @@ sg10
 VBARTLET
 p1820
 sg12
-g9
+g15
 sa(dp1821
 g6
 VThe awesome impact of the airwaves and how that translates into the furthering of our national discussions but obviously also how it can... how it can...
@@ -6669,7 +6669,7 @@ sg10
 VBARTLET
 p1826
 sg12
-g15
+g19
 sa(dp1827
 g6
 VA Ph.D.?
@@ -6713,7 +6713,7 @@ sg10
 VBARTLET
 p1838
 sg12
-g9
+g15
 sa(dp1839
 g6
 VI'm asking, 'cause on your show, people call in for advice and you go by the name of Dr. Jacobs on your show. And I didn't know if maybe your listeners were confused by that, and assumed you had advanced training in Psychology, Theology, or health care.
@@ -6735,7 +6735,7 @@ sg10
 VBARTLET
 p1844
 sg12
-g9
+g19
 sa(dp1845
 g6
 VYes, it does. Leviticus.
@@ -6812,7 +6812,7 @@ sg10
 VSAM
 p1865
 sg12
-g15
+g19
 sa(dp1866
 g6
 VI have elephants and I have lions.
@@ -6900,7 +6900,7 @@ sg10
 VANDREW
 p1889
 sg12
-g19
+g9
 sa(dp1890
 g6
 VMy mother used to work nights, too.
@@ -6922,7 +6922,7 @@ sg10
 VANDREW
 p1895
 sg12
-g9
+g19
 sa(dp1896
 g6
 VMy mother used to work nights, too.
@@ -6944,7 +6944,7 @@ sg10
 VANDREW
 p1901
 sg12
-g9
+g15
 sa(dp1902
 g6
 VA police officer.
@@ -6955,7 +6955,7 @@ sg10
 VCHARLIE
 p1904
 sg12
-g9
+g15
 sa(dp1905
 g6
 VIs she gone?
@@ -7032,7 +7032,7 @@ sg10
 VCHARLIE
 p1925
 sg12
-g9
+g19
 sa(dp1926
 g6
 VIt's too much to happen to someone your age. Your father and your mother and then this... I don't know, Charlie. I mean... what do you do?
@@ -7065,7 +7065,7 @@ sg10
 VZOEY
 p1934
 sg12
-g9
+g19
 sa(dp1935
 g6
 VYeah.
@@ -7098,7 +7098,7 @@ sg10
 VZOEY
 p1943
 sg12
-g9
+g15
 sa(dp1944
 g6
 VCharlie, I'm looking for the President.
@@ -7142,7 +7142,7 @@ sg10
 VCHARLIE
 p1955
 sg12
-g9
+g19
 sa(dp1956
 g6
 VYou're going out?
@@ -7186,7 +7186,7 @@ sg10
 VCHARLIE
 p1967
 sg12
-g9
+g15
 sa(dp1968
 g6
 VSecret Service protection, Charlie. But thanks for loading me up with that image.
@@ -7197,7 +7197,7 @@ sg10
 VLEO
 p1970
 sg12
-g9
+g19
 sa(dp1971
 g6
 VYeah, we'll have extra protection.
@@ -7208,7 +7208,7 @@ sg10
 VCHARLIE
 p1973
 sg12
-g9
+g15
 sa(dp1974
 g6
 VOkay. Something about a dead pig's skin. I need to find him.
@@ -7307,7 +7307,7 @@ sg10
 VJOSH
 p2000
 sg12
-g15
+g19
 sa(dp2001
 g6
 VTake your coat off, let's see.
@@ -7494,7 +7494,7 @@ sg10
 VTOBY
 p2051
 sg12
-g9
+g15
 sa(dp2052
 g6
 V(beat) God bless America.
@@ -7516,7 +7516,7 @@ sg10
 VC.J.
 p2057
 sg12
-g9
+g15
 sa(dp2058
 g6
 VGod bless America.
@@ -7527,7 +7527,7 @@ sg10
 VDONNA
 p2060
 sg12
-g9
+g15
 sa(dp2061
 g6
 VGod bless America.
@@ -7538,5 +7538,5 @@ sg10
 VJOSH
 p2063
 sg12
-g9
+g15
 sas.

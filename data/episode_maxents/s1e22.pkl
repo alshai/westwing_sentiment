@@ -102,7 +102,7 @@ sg10
 VSAM
 p35
 sg12
-g13
+g19
 sa(dp36
 g6
 VPeter Jobson.
@@ -124,7 +124,7 @@ sg10
 VSAM
 p41
 sg12
-g13
+g9
 sa(dp42
 g6
 VToby?
@@ -234,7 +234,7 @@ sg10
 VLEO
 p71
 sg12
-g13
+g9
 sa(dp72
 g6
 VGo tell the President.
@@ -256,7 +256,7 @@ sg10
 VC.J.
 p77
 sg12
-g13
+g9
 sa(dp78
 g6
 VWhy?
@@ -355,7 +355,7 @@ sg10
 VDANNY
 p104
 sg12
-g13
+g9
 sa(dp105
 g6
 VI have news.
@@ -410,7 +410,7 @@ sg10
 VC.J.
 p119
 sg12
-g13
+g19
 sa(dp120
 g6
 VYes.
@@ -432,7 +432,7 @@ sg10
 VC.J.
 p125
 sg12
-g13
+g19
 sa(dp126
 g6
 VWhat's the damn news?
@@ -553,7 +553,7 @@ sg10
 VRON
 p158
 sg12
-g13
+g19
 sa(dp159
 g6
 VAnd the president watches it?
@@ -564,7 +564,7 @@ sg10
 VGINA
 p161
 sg12
-g13
+g19
 sa(dp162
 g6
 VHe likes to unwind by watching sports on TV.
@@ -619,7 +619,7 @@ sg10
 VCHARLIE
 p176
 sg12
-g19
+g13
 sa(dp177
 g6
 VYeah.
@@ -707,7 +707,7 @@ sg10
 VCHARLIE
 p200
 sg12
-g13
+g9
 sa(dp201
 g6
 VHere we go.
@@ -751,7 +751,7 @@ sg10
 VGINA
 p212
 sg12
-g13
+g9
 sa(dp213
 g6
 VBy the way, Charlie apologized to me. He made a full apology.
@@ -806,7 +806,7 @@ sg10
 VLEO
 p227
 sg12
-g13
+g9
 sa(dp228
 g6
 VA three-hour patrol in the No-fly with the Five and Dime.
@@ -817,7 +817,7 @@ sg10
 VFITZWALLACE
 p230
 sg12
-g13
+g19
 sa(dp231
 g6
 VIraq.
@@ -861,7 +861,7 @@ sg10
 VFITZWALLACE
 p242
 sg12
-g13
+g19
 sa(dp243
 g6
 VHow much of this is confirmed?
@@ -982,7 +982,7 @@ sg10
 VBARTLET
 p275
 sg12
-g19
+g13
 sa(dp276
 g6
 VThanks, Lou. [to Charlie] When you said Girls Softball Game, you snickered.
@@ -1026,7 +1026,7 @@ sg10
 VCHARLIE
 p287
 sg12
-g13
+g19
 sa(dp288
 g6
 VThanks, Phil. [to Charlie, whom he leads down the hall] I am excited about it! You come to the end of a long day, you sit back, you open a beer, you watch a sporting event. That's what men do.
@@ -1147,7 +1147,7 @@ sg10
 VAIDES
 p320
 sg12
-g13
+g19
 sa(dp321
 g6
 VHey, Steve. Hey, Mikey. [to Charlie] Listen, have I got any of the names right so far?
@@ -1191,7 +1191,7 @@ sg10
 VBARTLET
 p332
 sg12
-g13
+g19
 sa(dp333
 g6
 V[pointing out the stage setup to Bartlet] I hope you don't mind if we get right to it.
@@ -1213,7 +1213,7 @@ sg10
 VBARTLET
 p338
 sg12
-g13
+g9
 sa(dp339
 g6
 VIt's a town hall meeting broadcast live on MSNBC. For the purposes of this rehearsal, Carol will be the moderator, she'll be seated at your right, which is camera left. You'll have a pitcher and a drinking glass.
@@ -1290,7 +1290,7 @@ sg10
 VSAM
 p359
 sg12
-g13
+g9
 sa(dp360
 g6
 VThe Space Shuttle was supposed to land last night, someone told me that it didn't.
@@ -1312,7 +1312,7 @@ sg10
 VSAM
 p365
 sg12
-g13
+g9
 sa(dp366
 g6
 VWhy don't you go ask Toby?
@@ -1323,7 +1323,7 @@ sg10
 VBARTLET
 p368
 sg12
-g13
+g9
 sa(dp369
 g6
 VWhy would Toby know?
@@ -1345,7 +1345,7 @@ sg10
 VBARTLET
 p374
 sg12
-g13
+g19
 sa(dp375
 g6
 VReally?
@@ -1378,7 +1378,7 @@ sg10
 VSAM
 p383
 sg12
-g13
+g9
 sa(dp384
 g6
 VHe's up there with four red-bellied Japanese newts. He wants to see how a newt's inner ears, which are remarkably similar to humans, are influenced by the absence of gravity. [to C.J.] Do you know what he calls them, C.J.?
@@ -1422,7 +1422,7 @@ sg10
 VSAM
 p395
 sg12
-g13
+g19
 sa(dp396
 g6
 VOkay, Mr. President.
@@ -1576,7 +1576,7 @@ sg10
 VTOBY
 p437
 sg12
-g13
+g19
 sa(dp438
 g6
 VYou know, not only did I not know that you had a brother on the Space Shuttle right now, I didn't know you had a brother.
@@ -1609,7 +1609,7 @@ sg10
 VSAM
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VI do.
@@ -1620,7 +1620,7 @@ sg10
 VTOBY
 p449
 sg12
-g13
+g9
 sa(dp450
 g6
 VDo you know why the Space Shuttle didn't land last night?
@@ -1774,7 +1774,7 @@ sg10
 VJOSH
 p491
 sg12
-g13
+g9
 sa(dp492
 g6
 VHe's jogging at 2; it's the only time he could fit you in.
@@ -1950,7 +1950,7 @@ sg10
 VDONNA
 p539
 sg12
-g13
+g19
 sa(dp540
 g6
 VI didn't even know there was a shop.
@@ -1961,7 +1961,7 @@ sg10
 VJOSH
 p542
 sg12
-g13
+g9
 sa(dp543
 g6
 VIt's not so much a shop as it is
@@ -1994,7 +1994,7 @@ sg10
 VDONNA
 p551
 sg12
-g13
+g19
 sa(dp552
 g6
 VYour friend Curtis.
@@ -2115,7 +2115,7 @@ sg10
 VBARTLET
 p584
 sg12
-g13
+g9
 sa(dp585
 g6
 V...comprehensive solution to the crisis. Can we expect real action in the future, or will your administration continue to nibble around the edges?
@@ -2137,7 +2137,7 @@ sg10
 VBARTLET
 p590
 sg12
-g13
+g9
 sa(dp591
 g6
 VDon't repeat the phrase, sir, that will be the soundbite. If we don't have a solution, the least we can do is acknowledge that there is a problem.
@@ -2225,7 +2225,7 @@ sg10
 VBARTLET
 p614
 sg12
-g13
+g19
 sa(dp615
 g6
 VHe had an ACES II 0/0 ejector seat abroad.
@@ -2291,7 +2291,7 @@ sg10
 VLEO
 p632
 sg12
-g13
+g19
 sa(dp633
 g6
 VYeah, the 16th special operations group out of Hubert Field.
@@ -2357,7 +2357,7 @@ sg10
 VLEO
 p650
 sg12
-g13
+g19
 sa(dp651
 g6
 VThat a phone call to the Iraqi ambassador
@@ -2390,7 +2390,7 @@ sg10
 VPHIL
 p659
 sg12
-g13
+g9
 sa(dp660
 g6
 VI'll tell you what, Phil. How about I drop you and your 47 million-dollar warplane that's already been picked up by Iraqi radar in the middle of the desert. Then you tell me if we've got three hours to find a diplomatic solution before we come and get you!
@@ -2423,7 +2423,7 @@ sg10
 VFITZWALLACE
 p668
 sg12
-g13
+g9
 sa(dp669
 g6
 VThe pilot. What's his name?
@@ -2445,7 +2445,7 @@ sg10
 VFITZWALLACE
 p674
 sg12
-g13
+g19
 sa(dp675
 g6
 VWhere's he from?
@@ -2588,7 +2588,7 @@ sg10
 VC.J.
 p713
 sg12
-g13
+g19
 sa(dp714
 g6
 VYeah, but he's caught between a couple of divisions of the Republican Guard.
@@ -2599,7 +2599,7 @@ sg10
 VLEO
 p716
 sg12
-g13
+g19
 sa(dp717
 g6
 VIs there a Pentagon...?
@@ -2720,7 +2720,7 @@ sg10
 VC.J.
 p749
 sg12
-g13
+g9
 sa(dp750
 g6
 VThere was a problem a few months ago with India/Pakistan, you were uncomfortable -
@@ -2753,7 +2753,7 @@ sg10
 VLEO
 p758
 sg12
-g13
+g9
 sa(dp759
 g6
 VI wasn't lying to the press about India/Pakistan, I was lied to by you, which made me look like an idiot.
@@ -2764,7 +2764,7 @@ sg10
 VC.J.
 p761
 sg12
-g13
+g9
 sa(dp762
 g6
 VWell, I'm not lying to you now. Four Mh-53 J Pay-lows carrying 80 guys from the 16th special ops are out flying under radar.
@@ -2797,7 +2797,7 @@ sg10
 VLEO
 p770
 sg12
-g13
+g9
 sa(dp771
 g6
 VI understand.
@@ -2808,7 +2808,7 @@ sg10
 VC.J.
 p773
 sg12
-g13
+g9
 sa(dp774
 g6
 V[enters] Leo, an F-117?
@@ -2819,7 +2819,7 @@ sg10
 VJOSH
 p776
 sg12
-g13
+g9
 sa(dp777
 g6
 V[to C.J.] You should go to your briefing.
@@ -2852,7 +2852,7 @@ sg10
 VJOSH
 p785
 sg12
-g13
+g19
 sa(dp786
 g6
 VYeah.
@@ -2896,7 +2896,7 @@ sg10
 VJOSH
 p797
 sg12
-g13
+g19
 sa(dp798
 g6
 VWhen?
@@ -2918,7 +2918,7 @@ sg10
 VJOSH
 p803
 sg12
-g13
+g19
 sa(dp804
 g6
 VWhere?
@@ -2940,7 +2940,7 @@ sg10
 VJOSH
 p809
 sg12
-g13
+g9
 sa(dp810
 g6
 VListen to me. Don't tell him why it's bad for us. Tell him why it's bad for him.
@@ -2973,7 +2973,7 @@ sg10
 VLEO
 p818
 sg12
-g13
+g9
 sa(dp819
 g6
 VAn F-117?
@@ -3017,7 +3017,7 @@ sg10
 VJOSH
 p830
 sg12
-g13
+g9
 sa(dp831
 g6
 VI would think so.
@@ -3028,7 +3028,7 @@ sg10
 VTOBY
 p833
 sg12
-g13
+g9
 sa(dp834
 g6
 VIn it's defense, the stealth fighter is a generation of technology behind the B-2 Spirit Bomber.
@@ -3050,7 +3050,7 @@ sg10
 VTOBY
 p839
 sg12
-g13
+g19
 sa(dp840
 g6
 VYeah.
@@ -3072,7 +3072,7 @@ sg10
 VTOBY
 p845
 sg12
-g13
+g9
 sa(dp846
 g6
 VHello.
@@ -3116,7 +3116,7 @@ sg10
 VTOBY
 p857
 sg12
-g13
+g9
 sa(dp858
 g6
 VSpecifically the starboard payload bay door.
@@ -3127,7 +3127,7 @@ sg10
 VSAM
 p860
 sg12
-g13
+g9
 sa(dp861
 g6
 VSam, if your ass isn't off my desk, and I mean stat...
@@ -3138,7 +3138,7 @@ sg10
 VTOBY
 p863
 sg12
-g13
+g9
 sa(dp864
 g6
 V[getting up] This is not his first shuttle mission. It is his fourth shuttle mission, Dr. David Ziegler, holding postgraduate degrees in both physiology and biology. Now I know more about your brother than I do about you, since I didn't know you had a brother.
@@ -3160,7 +3160,7 @@ sg10
 VTOBY
 p869
 sg12
-g13
+g9
 sa(dp870
 g6
 VI talked to the mission commander, guy name of Peter Jobson, he said the power drive unit on the starboard pay load door is jammed, they were going to need an EVA to fix it, and they didn't want to land till the morning.
@@ -3369,7 +3369,7 @@ sg10
 VHOYNES
 p926
 sg12
-g13
+g9
 sa(dp927
 g6
 VThree-quarters of all soft money coming to the Democratic party isn't coming from labor unions, it's coming from corporations.
@@ -3391,7 +3391,7 @@ sg10
 VHOYNES
 p932
 sg12
-g19
+g9
 sa(dp933
 g6
 VOver a hundred businesses gave both parties in excess of $125,000 in the last election.
@@ -3413,7 +3413,7 @@ sg10
 VHOYNES
 p938
 sg12
-g13
+g9
 sa(dp939
 g6
 VThey gave it to both parties! This isn't free speech or political values, Mr. Vice President. I don't know how we've done it, but we've legalized bribery.
@@ -3479,7 +3479,7 @@ sg10
 VHOYNES
 p956
 sg12
-g13
+g19
 sa(dp957
 g6
 VCan we stop running for a second? [They stop running] You're backing the wrong horse. You read the same polls I do. President's gone up nine points in three weeks. 51% job approval - big deal. But he's going on national television tonight, that's going to be another 5 that's 56%, a 14-point bump in a month.
@@ -3589,7 +3589,7 @@ sg10
 VC.J.
 p986
 sg12
-g13
+g9
 sa(dp987
 g6
 VWe have been in touch with the Iraqi government, and the President is looking for a diplomatic solution.
@@ -3721,7 +3721,7 @@ sg10
 VBARTLET
 p1022
 sg12
-g13
+g9
 sa(dp1023
 g6
 VYeah.
@@ -3776,7 +3776,7 @@ sg10
 VSAM
 p1037
 sg12
-g13
+g19
 sa(dp1038
 g6
 VNot if he does it at the right moment.
@@ -3831,7 +3831,7 @@ sg10
 VBARTLET
 p1052
 sg12
-g13
+g19
 sa(dp1053
 g6
 VHey.
@@ -3853,7 +3853,7 @@ sg10
 VBARTLET
 p1058
 sg12
-g13
+g19
 sa(dp1059
 g6
 VAre you working?
@@ -3875,7 +3875,7 @@ sg10
 VBARTLET
 p1064
 sg12
-g13
+g9
 sa(dp1065
 g6
 VDo you want to know what I think?
@@ -3908,7 +3908,7 @@ sg10
 VZOEY
 p1073
 sg12
-g13
+g9
 sa(dp1074
 g6
 VI'm fine.
@@ -3919,7 +3919,7 @@ sg10
 VBARTLET
 p1076
 sg12
-g13
+g9
 sa(dp1077
 g6
 VAre you sure?
@@ -3974,7 +3974,7 @@ sg10
 VZOEY
 p1091
 sg12
-g13
+g19
 sa(dp1092
 g6
 VAre you channeling Mom, now?
@@ -4029,7 +4029,7 @@ sg10
 VBARTLET
 p1106
 sg12
-g13
+g9
 sa(dp1107
 g6
 VYou're going to talk about me, and the camera's going to go on me, and my face is going to turn red, and it's just going to be awful for me.
@@ -4161,7 +4161,7 @@ sg10
 VCHARLIE
 p1142
 sg12
-g13
+g9
 sa(dp1143
 g6
 VZoey said you had something you wanted to mention.
@@ -4205,7 +4205,7 @@ sg10
 VCHARLIE
 p1154
 sg12
-g19
+g9
 sa(dp1155
 g6
 VOkay.
@@ -4249,7 +4249,7 @@ sg10
 VSAM
 p1166
 sg12
-g13
+g9
 sa(dp1167
 g6
 VA signal for what?
@@ -4304,7 +4304,7 @@ sg10
 VSAM
 p1181
 sg12
-g13
+g19
 sa(dp1182
 g6
 VWhat is that?
@@ -4315,7 +4315,7 @@ sg10
 VBARTLET
 p1184
 sg12
-g13
+g19
 sa(dp1185
 g6
 VIt's departure. It's a safe departure. Would you like a different signal?
@@ -4348,7 +4348,7 @@ sg10
 VSAM
 p1193
 sg12
-g13
+g9
 sa(dp1194
 g6
 VWell, I think it's going to get around all by itself, but if you want to help it along a little, there's nothing wrong with that.
@@ -4370,7 +4370,7 @@ sg10
 VSAM
 p1199
 sg12
-g19
+g13
 sa(dp1200
 g6
 VHey, Josh.
@@ -4381,7 +4381,7 @@ sg10
 VLEO
 p1202
 sg12
-g13
+g19
 sa(dp1203
 g6
 VWhat's going on?
@@ -4403,7 +4403,7 @@ sg10
 VLEO
 p1208
 sg12
-g13
+g9
 sa(dp1209
 g6
 VIs he in?
@@ -4436,7 +4436,7 @@ sg10
 VJOSH
 p1217
 sg12
-g13
+g19
 sa(dp1218
 g6
 VJosh?
@@ -4524,7 +4524,7 @@ sg10
 VJOSH
 p1241
 sg12
-g13
+g9
 sa(dp1242
 g6
 VThe guy's been blown out of the sky! He might be seriously injured. For sure he's in an Iraqi desert with no water. He's got to keep radio silence because we're for sure not the only ones looking for him, and if they get to him first, all he gives them is his name, rank, and serial number, they're going to beat him.
@@ -4623,7 +4623,7 @@ sg10
 VJOSH
 p1268
 sg12
-g13
+g19
 sa(dp1269
 g6
 VYour apology's accepted.
@@ -4722,7 +4722,7 @@ sg10
 VJOSH
 p1295
 sg12
-g13
+g9
 sa(dp1296
 g6
 VWhat is the signal?
@@ -4755,7 +4755,7 @@ sg10
 VLEO
 p1304
 sg12
-g13
+g19
 sa(dp1305
 g6
 VIt's the signal.
@@ -4832,7 +4832,7 @@ sg10
 VJOSH
 p1325
 sg12
-g13
+g9
 sa(dp1326
 g6
 VI said I've got it.
@@ -4854,7 +4854,7 @@ sg10
 VJOSH
 p1331
 sg12
-g13
+g9
 sa(dp1332
 g6
 VThank you.
@@ -4898,7 +4898,7 @@ sg10
 VCHARLIE
 p1343
 sg12
-g19
+g13
 sa(dp1344
 g6
 VYou needed prompting. I can't believe you chickened out.
@@ -4909,7 +4909,7 @@ sg10
 VZOEY
 p1346
 sg12
-g13
+g9
 sa(dp1347
 g6
 VI didn't chicken out. And I didn't need prompting. It just wasn't appropriate.
@@ -4920,7 +4920,7 @@ sg10
 VCHARLIE
 p1349
 sg12
-g13
+g9
 sa(dp1350
 g6
 VI don't have the same relationship with your father that you have, I don't have the same relationship that the staff has.
@@ -4931,7 +4931,7 @@ sg10
 VCHARLIE
 p1352
 sg12
-g13
+g9
 sa(dp1353
 g6
 VI don't think it's out of line for you to put your two cents in.
@@ -4975,7 +4975,7 @@ sg10
 VJOSH
 p1364
 sg12
-g13
+g9
 sa(dp1365
 g6
 VI also don't think it was out of line for me to stick up for you, since you were clearly chicken.
@@ -4986,7 +4986,7 @@ sg10
 VZOEY
 p1367
 sg12
-g13
+g9
 sa(dp1368
 g6
 VZoey, I work in a building with the smartest people in the world...
@@ -5030,7 +5030,7 @@ sg10
 VJOSH
 p1379
 sg12
-g19
+g13
 sa(dp1380
 g6
 VWe should get something temporary so that doesn't happen.
@@ -5041,7 +5041,7 @@ sg10
 VDONNA
 p1382
 sg12
-g13
+g9
 sa(dp1383
 g6
 VYeah.
@@ -5063,7 +5063,7 @@ sg10
 VCHARLIE
 p1388
 sg12
-g19
+g9
 sa(dp1389
 g6
 VOkay. But you're wrong. I'll see you later.
@@ -5074,7 +5074,7 @@ sg10
 VZOEY
 p1391
 sg12
-g13
+g9
 sa(dp1392
 g6
 VCome in. What do you know?
@@ -5239,7 +5239,7 @@ sg10
 VTOBY
 p1436
 sg12
-g13
+g19
 sa(dp1437
 g6
 VMr. President?
@@ -5294,7 +5294,7 @@ sg10
 VCHARLIE
 p1451
 sg12
-g19
+g9
 sa(dp1452
 g6
 VNo. Hey, what was it that Zoey was talking about before?
@@ -5316,7 +5316,7 @@ sg10
 VCHARLIE
 p1457
 sg12
-g13
+g19
 sa(dp1458
 g6
 VWhat was it?
@@ -5349,7 +5349,7 @@ sg10
 VBARTLET
 p1466
 sg12
-g13
+g19
 sa(dp1467
 g6
 VWell, my desk, really. And so, I was reading it, and so I was reading it, and during prep this week, you've been having discussions with the senior staff about youth participation in the political process. You were saying...
@@ -5514,7 +5514,7 @@ sg10
 VFITZWALLACE
 p1511
 sg12
-g13
+g9
 sa(dp1512
 g6
 VNo.
@@ -5547,7 +5547,7 @@ sg10
 VBARTLET
 p1520
 sg12
-g13
+g9
 sa(dp1521
 g6
 VYeah?
@@ -5569,7 +5569,7 @@ sg10
 VBARTLET
 p1526
 sg12
-g13
+g9
 sa(dp1527
 g6
 VThe eagle on the seal in the carpet. In one talon he's holding arrows, and in the other an olive branch. Most of the time, the eagle's facing the olive branch, but when Congress declares war, the eagle faces the talons. How do they do that? You think they've got a second carpet sitting around in the basement someplace?
@@ -5591,7 +5591,7 @@ sg10
 VBARTLET
 p1532
 sg12
-g13
+g9
 sa(dp1533
 g6
 VMaybe this piece in the middle cuts out and they do it like a basketball court.
@@ -5613,7 +5613,7 @@ sg10
 VBARTLET
 p1538
 sg12
-g13
+g9
 sa(dp1539
 g6
 VThank you. I'll stop bugging you in just a minute Mr. President. [into phone] Yeah? Thanks. [to Bartlet] Mr. President, I have Captain Scott Hutchins on the phone, he's cleared Iraqi airspace, and he's on his way to Tel Aviv.
@@ -5646,7 +5646,7 @@ sg10
 VFITZWALLACE
 p1547
 sg12
-g13
+g19
 sa(dp1548
 g6
 VThe kid's all right?
@@ -5679,7 +5679,7 @@ sg10
 VBARTLET
 p1556
 sg12
-g13
+g19
 sa(dp1557
 g6
 VThank you, Mr. President.
@@ -5690,7 +5690,7 @@ sg10
 VFITZWALLACE
 p1559
 sg12
-g19
+g13
 sa(dp1560
 g6
 VI owe you one.
@@ -5701,7 +5701,7 @@ sg10
 VBARTLET
 p1562
 sg12
-g19
+g9
 sa(dp1563
 g6
 VNo, that's not how it works.
@@ -5712,7 +5712,7 @@ sg10
 VFITZWALLACE
 p1565
 sg12
-g13
+g9
 sa(dp1566
 g6
 VAll the same, I'm going to check out that thing with the carpet.
@@ -5734,7 +5734,7 @@ sg10
 VFITZWALLACE
 p1571
 sg12
-g13
+g9
 sa(dp1572
 g6
 VSeriously, I'm going to get an answer for you on that.
@@ -5943,7 +5943,7 @@ sg10
 VC.J.
 p1628
 sg12
-g13
+g9
 sa(dp1629
 g6
 VYou looked at me point-blank and told me you were looking at a diplomatic...
@@ -5998,7 +5998,7 @@ sg10
 VDANNY
 p1643
 sg12
-g13
+g9
 sa(dp1644
 g6
 VI did!
@@ -6064,7 +6064,7 @@ sg10
 VDANNY
 p1661
 sg12
-g13
+g9
 sa(dp1662
 g6
 VNo, I chose you.
@@ -6075,7 +6075,7 @@ sg10
 VC.J.
 p1664
 sg12
-g19
+g13
 sa(dp1665
 g6
 VC.J., I'm not staying in the penalty box forever. I've covered the White House for eight years, and I've done it for the New York Times, the Washington Post, Time Magazine, and the Dallas Morning News! And I'm telling you, you can't mess me around like this.
@@ -6097,7 +6097,7 @@ sg10
 VC.J.
 p1670
 sg12
-g13
+g9
 sa(dp1671
 g6
 VC.J..
@@ -6130,7 +6130,7 @@ sg10
 VC.J.
 p1679
 sg12
-g13
+g19
 sa(dp1680
 g6
 VGirls' softball?
@@ -6196,7 +6196,7 @@ sg10
 VBARTLET
 p1697
 sg12
-g19
+g9
 sa(dp1698
 g6
 VSam's got some notes for you on Cuba, and some notes on farm loans that I'd like you to look over in the car.
@@ -6394,7 +6394,7 @@ sg10
 VBARTLET
 p1751
 sg12
-g13
+g19
 sa(dp1752
 g6
 VNo, it doesn't, Mr. President.
@@ -6416,7 +6416,7 @@ sg10
 VBARTLET
 p1757
 sg12
-g13
+g9
 sa(dp1758
 g6
 VThank you, thank you very much. That was a joke about politicians. [audience laughter] Two politicians are having an argument. The first one yells, 'but you're lying!' and the other one answers, 'yes, I know, but hear me out!"
@@ -6482,7 +6482,7 @@ sg10
 VC.J.
 p1775
 sg12
-g13
+g9
 sa(dp1776
 g6
 VWhy? [follows her]
@@ -6537,7 +6537,7 @@ sg10
 VSAM
 p1790
 sg12
-g13
+g19
 sa(dp1791
 g6
 VPeter Jobson.
@@ -6559,7 +6559,7 @@ sg10
 VSAM
 p1796
 sg12
-g13
+g9
 sa(dp1797
 g6
 VToby?
@@ -6625,7 +6625,7 @@ sg10
 VRON
 p1814
 sg12
-g13
+g19
 sa(dp1815
 g6
 VAnd the president watches it?
@@ -6636,7 +6636,7 @@ sg10
 VGINA
 p1817
 sg12
-g13
+g19
 sa(dp1818
 g6
 VThey're telling me that we're out of time. I just want to mention that at several points during the evening, I was referred to as both a liberal and a populist, and a fellow fourth from the back called me a socialist, which is nice, I haven't heard that for a while.
@@ -6713,7 +6713,7 @@ sg10
 VZOEY
 p1838
 sg12
-g13
+g19
 sa(dp1839
 g6
 VToby! Walk with me.
@@ -6768,7 +6768,7 @@ sg10
 VTOBY
 p1853
 sg12
-g13
+g19
 sa(dp1854
 g6
 VCharlie!
@@ -6790,7 +6790,7 @@ sg10
 VGINA
 p1859
 sg12
-g13
+g9
 sa(dp1860
 g6
 VCharlie apologized to me. A full apology.
@@ -6801,7 +6801,7 @@ sg10
 VZOEY
 p1862
 sg12
-g13
+g19
 sa(dp1863
 g6
 VI saw something!

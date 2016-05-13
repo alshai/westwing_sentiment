@@ -34,36 +34,36 @@ sg10
 VLEO
 p15
 sg12
-g9
-sa(dp16
+S'negative'
+p16
+sa(dp17
 g6
 VYeah.
-p17
+p18
 sg8
 g9
 sg10
 VTOBY
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VWhat's going on?
-p20
+p21
 sg8
 g9
 sg10
 VLEO
-p21
+p22
 sg12
 g9
-sa(dp22
+sa(dp23
 g6
 VI've been thinking... about why Hoynes volunteered to slap down big oil.
-p23
-sg8
-S'negative'
 p24
+sg8
+g16
 sg10
 VTOBY
 p25
@@ -113,7 +113,7 @@ sg10
 VTOBY
 p38
 sg12
-g9
+g28
 sa(dp39
 g6
 VYeah.
@@ -218,7 +218,7 @@ g6
 V[raises his head, terrified] You scared the hell out of me.
 p67
 sg8
-g24
+g16
 sg10
 VLEO
 p68
@@ -267,7 +267,7 @@ sg10
 VLEO
 p80
 sg12
-g9
+g16
 sa(dp81
 g6
 VOkay.
@@ -311,7 +311,7 @@ sg10
 VLEO
 p92
 sg12
-g9
+g16
 sa(dp93
 g6
 VYou see his itinerary for the weekend?
@@ -410,7 +410,7 @@ sg10
 VTOBY
 p119
 sg12
-g9
+g16
 sa(dp120
 g6
 VSo why are you concerned about the speech?
@@ -476,7 +476,7 @@ sg10
 VBARTLET
 p137
 sg12
-g9
+g16
 sa(dp138
 g6
 VHow much time do you have?
@@ -487,7 +487,7 @@ sg10
 VLEO
 p140
 sg12
-g9
+g16
 sa(dp141
 g6
 VAbout an hour.
@@ -570,7 +570,7 @@ g6
 VYou know how he's camping in Killington, Vermont, with a quick stop in New Hampshire... and Toby's not an idiot.
 p163
 sg8
-g24
+g16
 sg10
 VLEO
 p164
@@ -586,7 +586,7 @@ sg10
 VBARTLET
 p167
 sg12
-g9
+g28
 sa(dp168
 g6
 VNone of them are.
@@ -630,7 +630,7 @@ sg10
 VBARTLET
 p179
 sg12
-g9
+g28
 sa(dp180
 g6
 VThat doesn't matter right now.
@@ -652,7 +652,7 @@ sg10
 VLEO
 p185
 sg12
-g9
+g28
 sa(dp186
 g6
 VTo do what?
@@ -707,7 +707,7 @@ sg10
 VBARTLET
 p200
 sg12
-g9
+g28
 sa(dp201
 g6
 VI'm sorry, sir?
@@ -718,7 +718,7 @@ sg10
 VLEO
 p203
 sg12
-g9
+g16
 sa(dp204
 g6
 V[rising] The staff's reaction will be what?
@@ -735,7 +735,7 @@ g6
 VI don't know! Shock, betrayal, confusion, concern about our future?
 p208
 sg8
-g24
+g16
 sg10
 VLEO
 p209
@@ -751,7 +751,7 @@ sg10
 VLEO
 p212
 sg12
-g9
+g16
 sa(dp213
 g6
 VWhat do I tell him?
@@ -806,7 +806,7 @@ sg10
 VBARTLET
 p227
 sg12
-g9
+g16
 sa(dp228
 g6
 VHmm...
@@ -845,7 +845,7 @@ g6
 VYou know what the problem with this is?
 p238
 sg8
-g24
+g16
 sg10
 VJOSH
 p239
@@ -894,7 +894,7 @@ sg10
 VJOSH
 p251
 sg12
-g9
+g16
 sa(dp252
 g6
 VNo.
@@ -927,7 +927,7 @@ sg10
 VSAM
 p260
 sg12
-g24
+g28
 sa(dp261
 g6
 VYou know what they did?
@@ -1136,7 +1136,7 @@ sg10
 VJOSH
 p317
 sg12
-g28
+g9
 sa(dp318
 g6
 VI'm doing fine.
@@ -1147,7 +1147,7 @@ sg10
 VDONNA
 p320
 sg12
-g9
+g16
 sa(dp321
 g6
 VDid you get the flowers?
@@ -1169,7 +1169,7 @@ sg10
 VDONNA
 p326
 sg12
-g28
+g9
 sa(dp327
 g6
 VDid you like 'em?
@@ -1180,7 +1180,7 @@ sg10
 VJOSH
 p329
 sg12
-g28
+g9
 sa(dp330
 g6
 VThey were very pretty.
@@ -1191,7 +1191,7 @@ sg10
 VDONNA
 p332
 sg12
-g9
+g28
 sa(dp333
 g6
 VDo you know why I sent them to you?
@@ -1213,7 +1213,7 @@ sg10
 VDONNA
 p338
 sg12
-g9
+g16
 sa(dp339
 g6
 VIt's our anniversary!
@@ -1235,7 +1235,7 @@ sg10
 VDONNA
 p344
 sg12
-g9
+g16
 sa(dp345
 g6
 VI'm the kind of guy who remembers these things!
@@ -1268,7 +1268,7 @@ sg10
 VJOSH
 p353
 sg12
-g9
+g16
 sa(dp354
 g6
 VYes.
@@ -1290,7 +1290,7 @@ sg10
 VJOSH
 p359
 sg12
-g9
+g28
 sa(dp360
 g6
 VAre we really going to do this every year?
@@ -1362,7 +1362,7 @@ g6
 VOh, shut up! Honest to God, don't you ever get tired of the sound of your own voice?
 p379
 sg8
-g24
+g16
 sg10
 VDONNA
 p380
@@ -1378,7 +1378,7 @@ sg10
 VJOSH
 p383
 sg12
-g9
+g16
 sa(dp384
 g6
 VHey, where are you going now?
@@ -1428,7 +1428,7 @@ g6
 VSee, that! That right there! It's the oldest joke in the book...
 p397
 sg8
-g24
+g16
 sg10
 VJOSH
 p398
@@ -1444,7 +1444,7 @@ sg10
 VDONNA
 p401
 sg12
-g9
+g16
 sa(dp402
 g6
 VHey, Ado Annie, I sent you flowers! I think what you're trying to say is, 'Why, thank you, Josh! They're beautiful! Not many bosses would have been that thoughtful...'
@@ -1477,7 +1477,7 @@ sg10
 VJOSH
 p410
 sg12
-g9
+g16
 sa(dp411
 g6
 VDo you want help with the thing?
@@ -1510,18 +1510,18 @@ sg10
 VDONNA
 p419
 sg12
-g28
+g9
 sa(dp420
 g6
 VYou crack me up...
 p421
 sg8
-g24
+g16
 sg10
 VJOSH
 p422
 sg12
-g9
+g16
 sa(dp423
 g6
 VYou know, Josh, there are times when, to put it quite frankly, I hate your breathing guts.
@@ -1532,13 +1532,13 @@ sg10
 VDONNA
 p425
 sg12
-g9
+g16
 sa(dp426
 g6
 VSo the flowers really did the trick?
 p427
 sg8
-g24
+g16
 sg10
 VJOSH
 p428
@@ -1554,7 +1554,7 @@ sg10
 VDONNA
 p431
 sg12
-g9
+g28
 sa(dp432
 g6
 VHello, Sam.
@@ -1565,7 +1565,7 @@ sg10
 VAINSLEY
 p434
 sg12
-g9
+g28
 sa(dp435
 g6
 VDidn't you hear me shouting?
@@ -1576,7 +1576,7 @@ sg10
 VSAM
 p437
 sg12
-g28
+g9
 sa(dp438
 g6
 VYes.
@@ -1598,18 +1598,18 @@ sg10
 VSAM
 p443
 sg12
-g9
+g16
 sa(dp444
 g6
 VI chose to ignore it.
 p445
 sg8
-g24
+g16
 sg10
 VAINSLEY
 p446
 sg12
-g9
+g16
 sa(dp447
 g6
 VBecause...?
@@ -1620,7 +1620,7 @@ sg10
 VSAM
 p449
 sg12
-g9
+g28
 sa(dp450
 g6
 VYou were shouting.
@@ -1664,7 +1664,7 @@ sg10
 VSAM
 p461
 sg12
-g24
+g9
 sa(dp462
 g6
 VYeah.
@@ -1697,7 +1697,7 @@ sg10
 VAINSLEY
 p470
 sg12
-g9
+g16
 sa(dp471
 g6
 VWhy?
@@ -1719,7 +1719,7 @@ sg10
 VAINSLEY
 p476
 sg12
-g9
+g16
 sa(dp477
 g6
 VReunion?
@@ -1769,7 +1769,7 @@ g6
 VYou know, something like 40% of all women oppose the ERA, and in my entire lifetime, I've yet to meet one of them.
 p490
 sg8
-g24
+g16
 sg10
 VSAM
 p491
@@ -1785,7 +1785,7 @@ sg10
 VAINSLEY
 p494
 sg12
-g9
+g28
 sa(dp495
 g6
 VYou're not...
@@ -1857,7 +1857,7 @@ g6
 VYou're going back to Smith College, the cradle of feminism, to argue in opposition of the Equal Rights Amendment?
 p514
 sg8
-g24
+g16
 sg10
 VSAM
 p515
@@ -1873,18 +1873,18 @@ sg10
 VAINSLEY
 p518
 sg12
-g9
+g28
 sa(dp519
 g6
 VThey're gonna hate you.
 p520
 sg8
-g24
+g16
 sg10
 VSAM
 p521
 sg12
-g28
+g9
 sa(dp522
 g6
 VI'm a straight Republican from North Carolina, and you don't think they hated me the first time around?
@@ -1939,13 +1939,13 @@ sg10
 VAINSLEY
 p536
 sg12
-g9
+g16
 sa(dp537
 g6
 VDo you wanna help me or not?
 p538
 sg8
-g24
+g16
 sg10
 VSAM
 p539
@@ -2016,7 +2016,7 @@ sg10
 VLEO
 p557
 sg12
-g9
+g16
 sa(dp558
 g6
 VSam's going to work on it.
@@ -2132,7 +2132,7 @@ g6
 VYou know what I found out recently? To be called bourbon, it has to come from Kentucky. Otherwise it's called sour mash. [pause] An Algerian-born terrorist named Redin Hassan was recently arrested at the Canadian border in a U-Haul carrying ten 2-ounce jars of nitroglycerin.
 p589
 sg8
-g24
+g16
 sg10
 VBARTLET
 p590
@@ -2214,7 +2214,7 @@ sg10
 VTOBY
 p611
 sg12
-g24
+g9
 sa(dp612
 g6
 VI don't know...
@@ -2225,7 +2225,7 @@ sg10
 VBARTLET
 p614
 sg12
-g9
+g16
 sa(dp615
 g6
 VIs there a time frame?
@@ -2242,7 +2242,7 @@ g6
 VAbout an hour. Toby, about 10 years ago, for a period of a few months, I was feeling run down and had a pain in my leg. They both subsided, but 8 years ago, the pain came back, as well as numbness. My vision would become blurry and I'd feel dizzy. During an eye exam, the doctor detected abnormal pupil responses and ordered an MRI. The radiologist found plaque on my brain and spine. I have a relapsing-remitting course of MS.
 p619
 sg8
-g24
+g16
 sg10
 VBARTLET
 p620
@@ -2258,7 +2258,7 @@ sg10
 VTOBY
 p623
 sg12
-g9
+g16
 sa(dp624
 g6
 VI have Multiple Sclerosis.
@@ -2269,7 +2269,7 @@ sg10
 VBARTLET
 p626
 sg12
-g24
+g16
 sa(dp627
 g6
 VWhat does relapsing-remitting mean?
@@ -2280,7 +2280,7 @@ sg10
 VTOBY
 p629
 sg12
-g9
+g16
 sa(dp630
 g6
 VI'm sorry?
@@ -2291,7 +2291,7 @@ sg10
 VBARTLET
 p632
 sg12
-g9
+g16
 sa(dp633
 g6
 VWhat does relapsing-remitting mean?
@@ -2302,7 +2302,7 @@ sg10
 VTOBY
 p635
 sg12
-g9
+g16
 sa(dp636
 g6
 VIt's... I don't know... it's the good kind of MS.
@@ -2324,7 +2324,7 @@ sg10
 VTOBY
 p641
 sg12
-g9
+g28
 sa(dp642
 g6
 VYeah, as opposed to secondary progressive.
@@ -2346,18 +2346,18 @@ sg10
 VTOBY
 p647
 sg12
-g9
+g28
 sa(dp648
 g6
 VYeah. MS is a chronic disease of the central nervous system. Symptoms can be as mild as numbness or as severe as paralysis.
 p649
 sg8
-g24
+g16
 sg10
 VBARTLET
 p650
 sg12
-g9
+g16
 sa(dp651
 g6
 VAnd loss of vision?
@@ -2390,7 +2390,7 @@ sg10
 VTOBY
 p659
 sg12
-g9
+g28
 sa(dp660
 g6
 VYup.
@@ -2407,7 +2407,7 @@ g6
 VIs it... I'm sorry, is it fatal?
 p664
 sg8
-g24
+g16
 sg10
 VTOBY
 p665
@@ -2434,7 +2434,7 @@ sg10
 VTOBY
 p671
 sg12
-g9
+g16
 sa(dp672
 g6
 VEver turn into secondary progressive?
@@ -2445,7 +2445,7 @@ sg10
 VBARTLET
 p674
 sg12
-g9
+g28
 sa(dp675
 g6
 VYeah.
@@ -2467,7 +2467,7 @@ sg10
 VBARTLET
 p680
 sg12
-g9
+g16
 sa(dp681
 g6
 VIs there any way of telling if it's going to?
@@ -2599,7 +2599,7 @@ sg10
 VJOSH
 p716
 sg12
-g9
+g28
 sa(dp717
 g6
 VYeah.
@@ -2638,12 +2638,12 @@ g6
 VSee the problem?
 p727
 sg8
-g24
+g16
 sg10
 VJOSH
 p728
 sg12
-g9
+g28
 sa(dp729
 g6
 VWell, they didn't bring the funny, Josh.
@@ -2654,7 +2654,7 @@ sg10
 VED
 p731
 sg12
-g9
+g16
 sa(dp732
 g6
 VYeah, they didn't. [to Donna] What are you doing?
@@ -2665,13 +2665,13 @@ sg10
 VJOSH
 p734
 sg12
-g9
+g16
 sa(dp735
 g6
 VI'm jotting down some go-tos in case a joke doesn't work. "I haven't seen an audience this dead since..." That kind of thing.
 p736
 sg8
-g24
+g16
 sg10
 VDONNA
 p737
@@ -2753,7 +2753,7 @@ sg10
 VJOSH
 p758
 sg12
-g9
+g16
 sa(dp759
 g6
 VI know, it's like he's playing Grossinger's.
@@ -2781,7 +2781,7 @@ g6
 VThe joke there is that it's in Spanish.
 p766
 sg8
-g24
+g16
 sg10
 VLARRY
 p767
@@ -2803,23 +2803,23 @@ g6
 VAnd that's probably where you'll want your first dead audience joke.
 p772
 sg8
-g24
+g16
 sg10
 VDONNA
 p773
 sg12
-g9
+g16
 sa(dp774
 g6
 VWe're not gonna need a dead audience joke.
 p775
 sg8
-g24
+g16
 sg10
 VJOSH
 p776
 sg12
-g9
+g16
 sa(dp777
 g6
 VDonna, who gave you those beautiful flowers on your desk?
@@ -2885,7 +2885,7 @@ sg10
 VDONNA
 p794
 sg12
-g9
+g16
 sa(dp795
 g6
 VDonna doesn't like to talk about it.
@@ -2907,7 +2907,7 @@ sg10
 VDONNA
 p800
 sg12
-g9
+g16
 sa(dp801
 g6
 VOkay.
@@ -2924,7 +2924,7 @@ g6
 V[helpfully] A few years ago, Donna's boyfriend broke up with her so she started working for Josh. But then, the boyfriend told her to come back, and she did. And then they broke up, and she came back to work.
 p805
 sg8
-g24
+g16
 sg10
 VSAM
 p806
@@ -2951,7 +2951,7 @@ sg10
 VAINSLEY
 p812
 sg12
-g24
+g9
 sa(dp813
 g6
 V"And I'd also like to thank our host, Bill Maher..."
@@ -2990,7 +2990,7 @@ g6
 VI only wish the Speaker were here tonight, but he's held up in negotiations on the Hill. He's demanding his latest pre-nup include a line item veto?
 p823
 sg8
-g24
+g16
 sg10
 VSAM
 p824
@@ -3083,7 +3083,7 @@ sg10
 VTOBY
 p848
 sg12
-g9
+g16
 sa(dp849
 g6
 VWhen he passed out in the Oval Office.
@@ -3100,12 +3100,12 @@ g6
 VThat was an attack?
 p853
 sg8
-g24
+g16
 sg10
 VTOBY
 p854
 sg12
-g9
+g16
 sa(dp855
 g6
 VYeah.
@@ -3122,12 +3122,12 @@ g6
 VI thought it was the flu.
 p859
 sg8
-g24
+g16
 sg10
 VTOBY
 p860
 sg12
-g9
+g16
 sa(dp861
 g6
 VIt wasn't.
@@ -3138,7 +3138,7 @@ sg10
 VLEO
 p863
 sg12
-g9
+g16
 sa(dp864
 g6
 VHow is it possible? How is it possible that this was kept a secret? First of all, who else knows?
@@ -3193,7 +3193,7 @@ sg10
 VTOBY
 p878
 sg12
-g9
+g16
 sa(dp879
 g6
 VBecause it's not entirely my business. I'm not sure of my footing here. The President will be off the phone in a minute, and in the meantime you'll take what I give you.
@@ -3292,7 +3292,7 @@ sg10
 VLEO
 p905
 sg12
-g9
+g28
 sa(dp906
 g6
 VNobody lied?
@@ -3342,12 +3342,12 @@ g6
 V... For a year, Leo? A deception of massive proportion? I can't even... He gets a physical twice a year at Bethesda. His doctors are Naval officers. Are you telling me that officers are involved in this?
 p919
 sg8
-g24
+g16
 sg10
 VTOBY
 p920
 sg12
-g9
+g16
 sa(dp921
 g6
 VToby...
@@ -3375,12 +3375,12 @@ g6
 VNobody... Listen to me. Nobody lied. Nobody was asked to lie.
 p928
 sg8
-g24
+g16
 sg10
 VLEO
 p929
 sg12
-g9
+g16
 sa(dp930
 g6
 VCoercion.
@@ -3397,7 +3397,7 @@ g6
 VNobody was asked to lie!
 p934
 sg8
-g24
+g16
 sg10
 VLEO
 p935
@@ -3435,7 +3435,7 @@ sg10
 VTOBY
 p944
 sg12
-g9
+g16
 sa(dp945
 g6
 VI said, we're going to decide if there's a credible threat. Why? What are you guys talking about?
@@ -3468,7 +3468,7 @@ sg10
 VCHARLIE
 p953
 sg12
-g28
+g9
 sa(dp954
 g6
 VYou have any idea how much longer Toby's gonna be?
@@ -3490,13 +3490,13 @@ sg10
 VCHARLIE
 p959
 sg12
-g9
+g16
 sa(dp960
 g6
 VLet me ask you... you think this joke's funny? [perches on a desk] I'm sorry the Speaker isn't here. He's up on the Hill in last minute negotiations. He's going over his prenup and he wants a line-item veto.
 p961
 sg8
-g24
+g16
 sg10
 VJOSH
 p962
@@ -3512,7 +3512,7 @@ sg10
 VCHARLIE
 p965
 sg12
-g9
+g28
 sa(dp966
 g6
 VWhat?
@@ -3534,7 +3534,7 @@ sg10
 VCHARLIE
 p971
 sg12
-g9
+g16
 sa(dp972
 g6
 VWhy?
@@ -3567,7 +3567,7 @@ sg10
 VJOSH
 p980
 sg12
-g9
+g28
 sa(dp981
 g6
 VShe went back up to Manchester.
@@ -3600,7 +3600,7 @@ sg10
 VCHARLIE
 p989
 sg12
-g9
+g16
 sa(dp990
 g6
 V[confused] Charlie, what's going on?
@@ -3672,7 +3672,7 @@ g6
 V[confused] What's the joke?
 p1009
 sg8
-g24
+g16
 sg10
 VJOSH
 p1010
@@ -3683,12 +3683,12 @@ g6
 VIt's not a joke. [sits]
 p1012
 sg8
-g24
+g16
 sg10
 VSAM
 p1013
 sg12
-g9
+g16
 sa(dp1014
 g6
 VIt's the Equal Rights Amendment.
@@ -3727,7 +3727,7 @@ g6
 VShall not be abridged or denied on account of sex. VERY dangerous language. This must be stopped. What could possible be your problem with the ERA?
 p1024
 sg8
-g24
+g16
 sg10
 VSAM
 p1025
@@ -3749,7 +3749,7 @@ g6
 V[smiles] It's redundant.
 p1030
 sg8
-g24
+g16
 sg10
 VAINSLEY
 p1031
@@ -3804,12 +3804,12 @@ g6
 VIt's redundant?
 p1045
 sg8
-g24
+g16
 sg10
 VSAM
 p1046
 sg12
-g9
+g16
 sa(dp1047
 g6
 VLook, I'm a low maintenance lady. I've got the 14th Amendment. I'm fine! [walks to the head of the table and grabs a beer]
@@ -3842,13 +3842,13 @@ sg10
 VAINSLEY
 p1055
 sg12
-g9
+g16
 sa(dp1056
 g6
 VAll right here's a joke based on the premise is that the party afterwards is hard to get into and the President is the Commander-In-Chief. "I hear the Bloomberg party is gonna be hard to get into this year but I'm not worried. I'm going the party with the 82nd Airborne."
 p1057
 sg8
-g24
+g16
 sg10
 VJOSH
 p1058
@@ -3903,7 +3903,7 @@ g6
 V[condescending] When you yell you make it harder for people to find the funny.
 p1072
 sg8
-g24
+g16
 sg10
 VDONNA
 p1073
@@ -3958,7 +3958,7 @@ g6
 VYeah, cut the Speaker joke, okay? Mrs. Bartlet night not be there.
 p1087
 sg8
-g24
+g16
 sg10
 VJOSH
 p1088
@@ -4002,7 +4002,7 @@ g6
 VSam, we've got one here but it involves a John Wayne impersonation and a sock puppet.
 p1099
 sg8
-g24
+g16
 sg10
 VLARRY
 p1100
@@ -4024,7 +4024,7 @@ g6
 VLeo said you had an attack last year?
 p1105
 sg8
-g24
+g16
 sg10
 VTOBY
 p1106
@@ -4040,13 +4040,13 @@ sg10
 VBARTLET
 p1109
 sg12
-g24
+g16
 sa(dp1110
 g6
 VLeo said you had an attack last year.
 p1111
 sg8
-g24
+g16
 sg10
 VTOBY
 p1112
@@ -4112,7 +4112,7 @@ g6
 VIndia and Pakistan were staring each other down. Control of some nuclear weapons had been put in the field.
 p1129
 sg8
-g24
+g16
 sg10
 VTOBY
 p1130
@@ -4172,7 +4172,7 @@ sg10
 VBARTLET
 p1145
 sg12
-g9
+g16
 sa(dp1146
 g6
 VMr....
@@ -4205,7 +4205,7 @@ sg10
 VTOBY
 p1154
 sg12
-g28
+g9
 sa(dp1155
 g6
 VI'm sorry?
@@ -4216,7 +4216,7 @@ sg10
 VBARTLET
 p1157
 sg12
-g9
+g16
 sa(dp1158
 g6
 VDo you receive medication?
@@ -4227,7 +4227,7 @@ sg10
 VTOBY
 p1160
 sg12
-g28
+g9
 sa(dp1161
 g6
 VI get injections of Betaseron.
@@ -4238,7 +4238,7 @@ sg10
 VBARTLET
 p1163
 sg12
-g9
+g16
 sa(dp1164
 g6
 VFrom whom?
@@ -4249,7 +4249,7 @@ sg10
 VTOBY
 p1166
 sg12
-g9
+g28
 sa(dp1167
 g6
 VFrom a doctor.
@@ -4260,7 +4260,7 @@ sg10
 VBARTLET
 p1169
 sg12
-g9
+g28
 sa(dp1170
 g6
 VNone of your current doctors are aware of your condition... Mr. President, is your wife medicating you?
@@ -4304,7 +4304,7 @@ sg10
 VBARTLET
 p1181
 sg12
-g9
+g28
 sa(dp1182
 g6
 VThey'd like a few more minutes.
@@ -4348,7 +4348,7 @@ sg10
 VBARTLET
 p1193
 sg12
-g9
+g16
 sa(dp1194
 g6
 VWell, they deploy more uniformed police and the dogs. They hand search luggage.
@@ -4365,12 +4365,12 @@ g6
 VThey discontinue...
 p1198
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1199
 sg12
-g9
+g16
 sa(dp1200
 g6
 VCurbside checking. Eliminate the first two rows of short term parking.
@@ -4436,7 +4436,7 @@ sg10
 VTOBY
 p1217
 sg12
-g9
+g28
 sa(dp1218
 g6
 VToby!
@@ -4486,18 +4486,18 @@ g6
 VThat's because I never signed the letter and I don't think I got shot because I got MS.
 p1231
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1232
 sg12
-g9
+g16
 sa(dp1233
 g6
 VI don't think you did either, sir. I meant that during a night of extreme chaos and fear, when we didn't yet know if we'd been the victims of domestic or-or foreign terrorism or even an act of war there was uncertainty as to who was giving the National Security orders and that was because you never signed a letter!
 p1234
 sg8
-g24
+g16
 sg10
 VTOBY
 p1235
@@ -4508,7 +4508,7 @@ g6
 VI don't like to wonder, given your condition and it's lack of predictability why there isn't simply a signed letter sitting in a file someplace? And the answer is... [laughs] of course, if there was a-a signed letter sitting in a file someplace, somebody would ask why.
 p1237
 sg8
-g24
+g16
 sg10
 VTOBY
 p1238
@@ -4519,7 +4519,7 @@ g6
 V[angry] The Commander-In-Chief had just been attacked. He was under a general anesthetic. A fugitive was at large, the manhunt included every federal, state and local law enforcement agency. The Virginia, Maryland, New Jersey, Pennsylvania, and Delaware National Guard was federalized! The KH-10 showed Republican Guard movement in southern Iraq. [yelling] And twelve hours earlier an F-117 was shot down in the no fly, and the Vice President's authority was murky at best!
 p1240
 sg8
-g24
+g16
 sg10
 VTOBY
 p1241
@@ -4563,7 +4563,7 @@ g6
 V[angry] No, Toby's concern for my health is moving me in ways...
 p1252
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1253
@@ -4596,12 +4596,12 @@ g6
 V[condescending] You know your indignation would be a lot more interesting to me if it wasn't quite so covered in crap!
 p1261
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1262
 sg12
-g9
+g16
 sa(dp1263
 g6
 VSir...
@@ -4618,12 +4618,12 @@ g6
 V[while glaring at Toby] Yeah.
 p1267
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1268
 sg12
-g9
+g16
 sa(dp1269
 g6
 VMr. Garreth.
@@ -4651,7 +4651,7 @@ g6
 V[angry] Are you pissed because I didn't say anything or are you pissed because there were 15 people who knew before you did? I feel fine by the way. Thanks for asking.
 p1276
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1277
@@ -4744,7 +4744,7 @@ sg10
 VSAM
 p1301
 sg12
-g9
+g28
 sa(dp1302
 g6
 VWe need jokes about the staff.
@@ -4788,7 +4788,7 @@ sg10
 VSAM
 p1313
 sg12
-g9
+g16
 sa(dp1314
 g6
 VHow about this. Um, "Knock knock." "Who's there?" "Sam and his prostitute friend."
@@ -4805,12 +4805,12 @@ g6
 VSee, I think that was a bit of misdirected anger there.
 p1318
 sg8
-g24
+g16
 sg10
 VSAM
 p1319
 sg12
-g9
+g16
 sa(dp1320
 g6
 VI'm okay with that.
@@ -4821,13 +4821,13 @@ sg10
 VDONNA
 p1322
 sg12
-g9
+g16
 sa(dp1323
 g6
 VWell, in that case, Ainsley, you know why I got you flowers in April instead of February? 'Cause you ditched me the first time around to go back to the guy who ditched you the first time around only to have him ditch you the second time around.
 p1324
 sg8
-g24
+g16
 sg10
 VSAM
 p1325
@@ -4838,7 +4838,7 @@ g6
 VOw! What the hell? That was him!
 p1327
 sg8
-g24
+g16
 sg10
 VJOSH
 p1328
@@ -4865,7 +4865,7 @@ sg10
 VJOSH
 p1334
 sg12
-g9
+g28
 sa(dp1335
 g6
 VYeah, pull something I wrote from October called "Government-wide Accountability for Merit System Principles."
@@ -4893,7 +4893,7 @@ g6
 V[to Sam] Do you have any idea how much grief I took from him when I came back?
 p1342
 sg8
-g24
+g16
 sg10
 VDONNA
 p1343
@@ -4909,7 +4909,7 @@ sg10
 VSAM
 p1346
 sg12
-g24
+g16
 sa(dp1347
 g6
 VNone. I walked in the door. He said, "Thank God. There's a pile of stuff on the desk." This is his way. He's just going to snark me every April. Prince of passive-aggressive behavior.
@@ -4942,7 +4942,7 @@ sg10
 VDONNA
 p1355
 sg12
-g9
+g16
 sa(dp1356
 g6
 VThere any coffee left?
@@ -4959,7 +4959,7 @@ g6
 VIn the mess.
 p1360
 sg8
-g24
+g16
 sg10
 VED
 p1361
@@ -4975,13 +4975,13 @@ sg10
 VSAM
 p1364
 sg12
-g9
+g16
 sa(dp1365
 g6
 VDo you think they have cheesecake down there?
 p1366
 sg8
-g24
+g16
 sg10
 VAINSLEY
 p1367
@@ -5069,7 +5069,7 @@ g6
 VNo, there are still some problems. But I'm not worried 'cause the federal government's coming to the rescue.
 p1390
 sg8
-g24
+g16
 sg10
 VAINSLEY
 p1391
@@ -5140,7 +5140,7 @@ sg10
 VAINSLEY
 p1409
 sg12
-g9
+g28
 sa(dp1410
 g6
 VWell, not necessarily if you guys have your way, but that's a different can of tuna. [beat] I flat-out guarantee you that if men were biologically responsible for procreation, there'd be paid family leave in every Fortune 500.
@@ -5157,7 +5157,7 @@ g6
 VSam, if men were biologically responsible for procreation, they'd fall down and die at the first sonogram.
 p1414
 sg8
-g24
+g16
 sg10
 VAINSLEY
 p1415
@@ -5168,7 +5168,7 @@ g6
 VIf the Amendment's redundant, what's your problem if it's passed or not?
 p1417
 sg8
-g24
+g16
 sg10
 VSAM
 p1418
@@ -5179,7 +5179,7 @@ g6
 VBecause I'm a Republican! Have we met? I believe that every time the federal government hands down a new law, it leaves for the rest of us a little less freedom. So I say, let's just stick to the ones we absolutely need to have water come out of the faucet and our cars not stolen. That is my problem with passing a redundant law. [stands next to Sam with a full tray] Sam?
 p1420
 sg8
-g24
+g16
 sg10
 VAINSLEY
 p1421
@@ -5283,7 +5283,7 @@ sg10
 VTOBY
 p1448
 sg12
-g9
+g16
 sa(dp1449
 g6
 VHe thinks there's a chance.
@@ -5404,7 +5404,7 @@ sg10
 VLEO
 p1481
 sg12
-g9
+g28
 sa(dp1482
 g6
 VYeah, yeah 'cause we stood in that office a couple of months ago, you and I, and you said, "Take my hand," and we just...
@@ -5426,7 +5426,7 @@ sg10
 VTOBY
 p1487
 sg12
-g28
+g9
 sa(dp1488
 g6
 VHe'll run.
@@ -5437,7 +5437,7 @@ sg10
 VLEO
 p1490
 sg12
-g9
+g28
 sa(dp1491
 g6
 VHoynes was fourteen. Who was fifteen?
@@ -5498,12 +5498,12 @@ g6
 VHe's not gonna leak it.
 p1507
 sg8
-g24
+g16
 sg10
 VLEO
 p1508
 sg12
-g9
+g16
 sa(dp1509
 g6
 VSomeone will.
@@ -5536,7 +5536,7 @@ sg10
 VTOBY
 p1517
 sg12
-g9
+g28
 sa(dp1518
 g6
 VThat was a jackass move.
@@ -5608,7 +5608,7 @@ g6
 VWhen this story breaks, it'll be because we broke it, and we'll control it. And the public will accept it. It's not like it's unprecedented that a President conceal health issues. [beat] What do you think is gonna happen? I mean it. What do you think is gonna happen?
 p1537
 sg8
-g24
+g16
 sg10
 VLEO
 p1538
@@ -5652,7 +5652,7 @@ g6
 VYou think he's gonna need to resign?
 p1549
 sg8
-g24
+g16
 sg10
 VLEO
 p1550
@@ -5663,7 +5663,7 @@ g6
 VThere's gonna be hearing upon hearing upon hearing.
 p1552
 sg8
-g24
+g16
 sg10
 VTOBY
 p1553
@@ -5674,12 +5674,12 @@ g6
 VHe hasn't broken a law.
 p1555
 sg8
-g24
+g16
 sg10
 VLEO
 p1556
 sg12
-g9
+g16
 sa(dp1557
 g6
 VThe President's on his way back.
@@ -5707,7 +5707,7 @@ g6
 VSays you. [beat] You don't have to break the law to get served with articles of impeachment.
 p1564
 sg8
-g24
+g16
 sg10
 VTOBY
 p1565
@@ -5723,7 +5723,7 @@ sg10
 VLEO
 p1568
 sg12
-g9
+g16
 sa(dp1569
 g6
 V[chuckles softly] Write down the exact date and time you said that.
@@ -5773,12 +5773,12 @@ g6
 V[to Sam] What the hell took so long?
 p1582
 sg8
-g24
+g16
 sg10
 VED
 p1583
 sg12
-g9
+g16
 sa(dp1584
 g6
 VWe got the coffee but I spilled it coming up the stairs, you know, the first couple of times. Where's Josh?
@@ -5866,7 +5866,7 @@ sg10
 VAINSLEY
 p1607
 sg12
-g9
+g16
 sa(dp1608
 g6
 VYou know, you insist government is depraved for not legislating against what we can see on the newsstands, or what we can see in an art exhibit, or what we can burn in protest, or which sex we're allowed to have sex with, or a woman's right to choose, but don't you dare try to regulate this deadly weapon I have concealed on me, for that would encroach against my freedom.
@@ -5916,7 +5916,7 @@ g6
 VHow can you have an objection to something that says...?
 p1621
 sg8
-g24
+g16
 sg10
 VSAM
 p1622
@@ -5976,7 +5976,7 @@ sg10
 VJOSH
 p1637
 sg12
-g9
+g16
 sa(dp1638
 g6
 VYes.
@@ -6020,7 +6020,7 @@ sg10
 VJOSH
 p1649
 sg12
-g24
+g16
 sa(dp1650
 g6
 VExcept you don't know how to use a computer.
@@ -6075,13 +6075,13 @@ sg10
 VDONNA
 p1664
 sg12
-g9
+g28
 sa(dp1665
 g6
 VWhat the hell is happening now?
 p1666
 sg8
-g24
+g16
 sg10
 VJOSH
 p1667
@@ -6125,7 +6125,7 @@ g6
 VDonna, if you've got your old Catholic-school uniform on under there, don't get me wrong, I applaud the thought, but...
 p1678
 sg8
-g24
+g16
 sg10
 VJOSH
 p1679
@@ -6191,29 +6191,29 @@ g6
 VYeah. You know why? 'Cause you didn't put down the kitty litter.
 p1696
 sg8
-g24
+g16
 sg10
 VJOSH
 p1697
 sg12
-g9
+g16
 sa(dp1698
 g6
 VI was actually in a car accident.
 p1699
 sg8
-g24
+g16
 sg10
 VDONNA
 p1700
 sg12
-g9
+g16
 sa(dp1701
 g6
 VYou were in a car accident?
 p1702
 sg8
-g24
+g16
 sg10
 VJOSH
 p1703
@@ -6224,7 +6224,7 @@ g6
 VIt was... JOSH Seriously, you were in an accident?
 p1705
 sg8
-g24
+g16
 sg10
 VDONNA
 p1706
@@ -6246,12 +6246,12 @@ g6
 VYou told me it was a late thaw.
 p1711
 sg8
-g24
+g16
 sg10
 VJOSH
 p1712
 sg12
-g9
+g16
 sa(dp1713
 g6
 V[smiles] Yes. I did. Anyway, they took me to the hospital and I called him and he came to get me and on the way he stopped and met some friends of his for a beer.
@@ -6350,7 +6350,7 @@ sg10
 VDONNA
 p1739
 sg12
-g9
+g28
 sa(dp1740
 g6
 VBut just what kind of a dumbkes were you...
@@ -6383,7 +6383,7 @@ sg10
 VJOSH
 p1748
 sg12
-g9
+g16
 sa(dp1749
 g6
 VDoes this make you feel superior?
@@ -6394,7 +6394,7 @@ sg10
 VDONNA
 p1751
 sg12
-g9
+g28
 sa(dp1752
 g6
 VYes, you are better than my old boyfriend.
@@ -6416,7 +6416,7 @@ sg10
 VJOSH
 p1757
 sg12
-g9
+g16
 sa(dp1758
 g6
 V[stands up] If you were in an accident, I wouldn't stop for red lights. Thanks for taking me back. [walks out of his office] Oh, and the flowers are beautiful.
@@ -6438,7 +6438,7 @@ sg10
 VTOBY
 p1763
 sg12
-g9
+g16
 sa(dp1764
 g6
 VHmm?
@@ -6515,7 +6515,7 @@ sg10
 VBARTLET
 p1784
 sg12
-g9
+g16
 sa(dp1785
 g6
 VToby was just asking what the downside of going to a security condition was.
@@ -6603,13 +6603,13 @@ sg10
 VTOBY
 p1808
 sg12
-g9
+g16
 sa(dp1809
 g6
 V'Cause you're not the one with MS, a wife, three kids and airports to close. Not every part of me belongs to you. This was personal. I'm not willing to relinquish that right.
 p1810
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1811
@@ -6620,7 +6620,7 @@ g6
 VIt will appear to many, if not most, as fraud. It will appear as if you denied the voters an opportunity to decide for themselves. They're generally not willing to relinquish that right, either.
 p1813
 sg8
-g24
+g16
 sg10
 VTOBY
 p1814
@@ -6669,7 +6669,7 @@ sg10
 VTOBY
 p1826
 sg12
-g9
+g28
 sa(dp1827
 g6
 VI'm sorry?
@@ -6680,7 +6680,7 @@ sg10
 VBARTLET
 p1829
 sg12
-g9
+g16
 sa(dp1830
 g6
 VYou knew. We weren't counting you. It's 17 people.
@@ -6697,12 +6697,12 @@ g6
 VI don't know. [shakes his head slowly] It may have been unbelievably stupid. It may have been unthinkably stupid. I don't know.
 p1834
 sg8
-g24
+g16
 sg10
 VBARTLET
 p1835
 sg12
-g9
+g16
 sa(dp1836
 g6
 VI'm sorry. I really am.
@@ -6713,7 +6713,7 @@ sg10
 VBARTLET
 p1838
 sg12
-g9
+g16
 sa(dp1839
 g6
 VI've gotta go in the other room and uh...
@@ -6735,7 +6735,7 @@ sg10
 VBARTLET
 p1844
 sg12
-g28
+g16
 sa(dp1845
 g6
 VThank you, Mr. President.
@@ -6746,16 +6746,16 @@ sg10
 VTOBY
 p1847
 sg12
-g28
+g9
 sa(dp1848
 g6
 V[weakly] Okay.
 p1849
 sg8
-g24
+g16
 sg10
 VTOBY
 p1850
 sg12
-g9
+g16
 sas.

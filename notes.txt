@@ -73,3 +73,37 @@ accuracies with neutral=0:
 120000 max_ent vs gold: 0.392338177015
 120000 bow vs gold: 0.391017173052
 
+
+select lines:
+
+ # josh was joking around wiht Donna here
+  {'bow_score': 'neutral',
+   'character': 'JOSH',
+   'gold_score': 'positive',
+   'maxent_score': 'negative',
+   'text': 'You should be nice to me. I could be dead you know.'},
+
+# Mandy is pretty mad at Josh
+  {'bow_score': 'neutral',
+   'character': 'MANDY',
+   'gold_score': 'negative',
+   'maxent_score': 'negative',
+   'text': "This isn't funny, Josh."},
+
+# sarcasm
+  {'bow_score': 'positive',
+   'character': 'C.J.',
+   'gold_score': 'negative',
+   'maxent_score': 'negative',
+   'text': "Yeah. I can't believe my psychic didn't tell me, Toby. Rest
+    assured, I'm gonna get my twenty bucks back."},
+
+# another case of sarcasm
+  {'bow_score': 'negative',
+   'character': 'JOSH',
+   'gold_score': 'positive',
+   'maxent_score': 'negative',
+   'text': "[laughs] I was interrogating this intern from the Legislative
+    Liaison's Office, and she broke down crying while telling me about the bong
+    she had made out of an eggplant."},
+

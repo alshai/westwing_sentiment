@@ -91,7 +91,7 @@ sg10
 VBARTLET
 p32
 sg12
-g22
+g9
 sa(dp33
 g6
 VI'm-- Terry, I'm sorry.
@@ -113,7 +113,7 @@ sg10
 VBARTLET
 p38
 sg12
-g9
+g18
 sa(dp39
 g6
 VWell, I guess we'll be ready to run against whoever we have to run against.
@@ -135,7 +135,7 @@ sg10
 VBARTLET
 p44
 sg12
-g9
+g18
 sa(dp45
 g6
 VThank you.
@@ -179,7 +179,7 @@ sg10
 VTOBY
 p56
 sg12
-g9
+g22
 sa(dp57
 g6
 VYeah.
@@ -245,7 +245,7 @@ sg10
 VTOBY
 p74
 sg12
-g9
+g18
 sa(dp75
 g6
 VGot it.
@@ -256,7 +256,7 @@ sg10
 VBARTLET
 p77
 sg12
-g9
+g18
 sa(dp78
 g6
 VHow's it going?
@@ -278,7 +278,7 @@ sg10
 VTOBY
 p83
 sg12
-g9
+g22
 sa(dp84
 g6
 VDo you have a minute?
@@ -322,7 +322,7 @@ sg10
 VTOBY
 p95
 sg12
-g9
+g18
 sa(dp96
 g6
 VI thought Sam 'cause he's more familiar with land mines.
@@ -421,7 +421,7 @@ sg10
 VTOBY
 p122
 sg12
-g9
+g22
 sa(dp123
 g6
 VKnock 'em dead, de Bergerac.
@@ -465,7 +465,7 @@ sg10
 VTOBY
 p134
 sg12
-g22
+g9
 sa(dp135
 g6
 VThey're back from commercial in 20 seconds.
@@ -509,7 +509,7 @@ sg10
 VBARTLET
 p146
 sg12
-g9
+g18
 sa(dp147
 g6
 VSaudi Arabia very bad.
@@ -520,7 +520,7 @@ sg10
 VTOBY
 p149
 sg12
-g9
+g18
 sa(dp150
 g6
 VOkay.
@@ -564,7 +564,7 @@ sg10
 VTOBY
 p161
 sg12
-g9
+g18
 sa(dp162
 g6
 VOkay.
@@ -663,7 +663,7 @@ sg10
 VBARTLET
 p188
 sg12
-g9
+g22
 sa(dp189
 g6
 VThanks a lot.
@@ -685,7 +685,7 @@ sg10
 VBARTLET
 p194
 sg12
-g9
+g22
 sa(dp195
 g6
 VI'll read it when he does.
@@ -817,7 +817,7 @@ sg10
 VJOSH
 p230
 sg12
-g9
+g18
 sa(dp231
 g6
 VWell, first of all, I wasn't there.
@@ -828,7 +828,7 @@ sg10
 VSAM
 p233
 sg12
-g9
+g18
 sa(dp234
 g6
 VWho was there?
@@ -982,7 +982,7 @@ sg10
 VSAM
 p275
 sg12
-g9
+g18
 sa(dp276
 g6
 VNo, we're focusing on this this week. I can try a non-apology apology.
@@ -993,7 +993,7 @@ sg10
 VC.J.
 p278
 sg12
-g9
+g18
 sa(dp279
 g6
 VTry it.
@@ -1004,7 +1004,7 @@ sg10
 VJOSH
 p281
 sg12
-g9
+g18
 sa(dp282
 g6
 V"The President didn't realize that the camera was hot and he said something he shouldn't have, as we all do from time to time."
@@ -1081,7 +1081,7 @@ sg10
 VC.J.
 p302
 sg12
-g9
+g22
 sa(dp303
 g6
 VAll right. Lets try not to do that that much.
@@ -1114,7 +1114,7 @@ sg10
 VGINGER
 p311
 sg12
-g9
+g22
 sa(dp312
 g6
 VI'm sorry?
@@ -1125,7 +1125,7 @@ sg10
 VJOSH
 p314
 sg12
-g9
+g18
 sa(dp315
 g6
 VDonna struck gold.
@@ -1213,7 +1213,7 @@ sg10
 VJOSH
 p338
 sg12
-g9
+g18
 sa(dp339
 g6
 VNo.
@@ -1367,7 +1367,7 @@ sg10
 VDONNA
 p380
 sg12
-g9
+g22
 sa(dp381
 g6
 VAll right, you've got Senior Senior Staff at C.O.S., then Senior staff in the Roosevelt Room. There's a meeting with the economic team to pre-brief for Fed Chair, and that's followed immediately by Advance, State, and NSC to go over the next six months of foreign travel.
@@ -1422,7 +1422,7 @@ sg10
 VBARTLET
 p395
 sg12
-g9
+g18
 sa(dp396
 g6
 VGood morning, Mr. President.
@@ -1609,7 +1609,7 @@ sg10
 VBARTLET
 p446
 sg12
-g9
+g18
 sa(dp447
 g6
 VI guess.
@@ -1620,7 +1620,7 @@ sg10
 VLEO
 p449
 sg12
-g9
+g18
 sa(dp450
 g6
 VHe's here. You can send her in.
@@ -1653,7 +1653,7 @@ sg10
 VBARTLET
 p458
 sg12
-g9
+g18
 sa(dp459
 g6
 VKnow what we'd do if we were smart? We wouldn't send anybody. We'd look so good by not showing up. Let them whine by themselves.
@@ -1675,7 +1675,7 @@ sg10
 VC.J.
 p464
 sg12
-g9
+g22
 sa(dp465
 g6
 VThe President didn't realize the camera was hot, and he said something he shouldn't have. Something we all do from time to time.
@@ -1708,7 +1708,7 @@ sg10
 VC.J.
 p473
 sg12
-g9
+g18
 sa(dp474
 g6
 VThere's a reason they call it private, Stuart.
@@ -1818,7 +1818,7 @@ sg10
 VKATIE
 p503
 sg12
-g9
+g22
 sa(dp504
 g6
 VWell, for one thing, while the Governor is the presumptive Republican nominee, it's presumptive. For that matter, so is the President's renomination. But more important than that, the President has been a candidate in seven statewide and national elections and every one of them has been a substantive, issued-based campaign, which is one of several reasons why the voters have elected him each and every time his name has appeared on a ballot. Phil?
@@ -1873,7 +1873,7 @@ sg10
 VC.J.
 p518
 sg12
-g9
+g18
 sa(dp519
 g6
 VI guess my question is does the President feel college transcripts are an accurate barometer of a person's fitness to hold a high public office?
@@ -1917,7 +1917,7 @@ sg10
 VSAM
 p530
 sg12
-g9
+g22
 sa(dp531
 g6
 VWhat's next?
@@ -1972,7 +1972,7 @@ sg10
 VC.J.
 p545
 sg12
-g9
+g18
 sa(dp546
 g6
 VWe're used to that, aren't we?
@@ -2071,7 +2071,7 @@ sg10
 VSAM
 p572
 sg12
-g9
+g18
 sa(dp573
 g6
 VHe's in your office.
@@ -2126,7 +2126,7 @@ sg10
 VWACHTELL
 p587
 sg12
-g9
+g18
 sa(dp588
 g6
 VWell, first of all, it wasn't Toby's fault, it was mine. And it happened quickly and we regret it.
@@ -2236,7 +2236,7 @@ sg10
 VWACHTELL
 p617
 sg12
-g9
+g22
 sa(dp618
 g6
 VI can bring it up but it'll get laughed out of the room.
@@ -2269,7 +2269,7 @@ sg10
 VSAM
 p626
 sg12
-g9
+g18
 sa(dp627
 g6
 VWell, I've got to be able to go back and tell my moderate friends something. What about a Republican appointment, or promotion?
@@ -2291,7 +2291,7 @@ sg10
 VSAM
 p632
 sg12
-g9
+g18
 sa(dp633
 g6
 VThat name sounds familiar.
@@ -2335,7 +2335,7 @@ sg10
 VSAM
 p644
 sg12
-g9
+g22
 sa(dp645
 g6
 VAnd learn to tell the difference between red and green.
@@ -2368,7 +2368,7 @@ sg10
 VWACHTELL
 p653
 sg12
-g9
+g18
 sa(dp654
 g6
 VGinger... I need to see Ainsley.
@@ -2390,7 +2390,7 @@ sg10
 VGINGER
 p659
 sg12
-g9
+g22
 sa(dp660
 g6
 VWhen's she coming back?
@@ -2511,7 +2511,7 @@ sg10
 VDONNA
 p692
 sg12
-g9
+g18
 sa(dp693
 g6
 VWhy?
@@ -2544,7 +2544,7 @@ sg10
 VJOSH
 p701
 sg12
-g22
+g9
 sa(dp702
 g6
 VOh, yes, I do.
@@ -2555,7 +2555,7 @@ sg10
 VDONNA
 p704
 sg12
-g9
+g22
 sa(dp705
 g6
 VWhat's wrong with them?
@@ -2588,7 +2588,7 @@ sg10
 VJOSH
 p713
 sg12
-g9
+g18
 sa(dp714
 g6
 VThen applaud them, but stay off the site.
@@ -2621,7 +2621,7 @@ sg10
 VDONNA
 p722
 sg12
-g9
+g22
 sa(dp723
 g6
 VI am an elitist, but I have respect for people who don't measure up.
@@ -2654,7 +2654,7 @@ sg10
 VJOSH
 p731
 sg12
-g9
+g18
 sa(dp732
 g6
 VWhat?
@@ -2698,7 +2698,7 @@ sg10
 VJOSH
 p743
 sg12
-g9
+g18
 sa(dp744
 g6
 VPlease don't do this.
@@ -2742,7 +2742,7 @@ sg10
 VJOSH
 p755
 sg12
-g9
+g22
 sa(dp756
 g6
 VOkay.
@@ -2808,7 +2808,7 @@ sg10
 VTOBY
 p773
 sg12
-g9
+g18
 sa(dp774
 g6
 VHey! You're done.
@@ -2841,7 +2841,7 @@ sg10
 VJOSH
 p782
 sg12
-g9
+g18
 sa(dp783
 g6
 VThis necktie, does it go with the jacket?
@@ -2885,7 +2885,7 @@ sg10
 VJOSH
 p794
 sg12
-g9
+g18
 sa(dp795
 g6
 VI'm meeting someone.
@@ -2896,7 +2896,7 @@ sg10
 VTOBY
 p797
 sg12
-g9
+g18
 sa(dp798
 g6
 VWhen?
@@ -2918,7 +2918,7 @@ sg10
 VTOBY
 p803
 sg12
-g9
+g18
 sa(dp804
 g6
 VMs. Fortis?
@@ -2940,7 +2940,7 @@ sg10
 VTOBY
 p809
 sg12
-g9
+g18
 sa(dp810
 g6
 VI've been thinking a lot about it since you called.
@@ -2973,7 +2973,7 @@ sg10
 VTABITHA
 p818
 sg12
-g9
+g22
 sa(dp819
 g6
 VThat's why no one writes poetry about me.
@@ -2984,7 +2984,7 @@ sg10
 VTOBY
 p821
 sg12
-g9
+g18
 sa(dp822
 g6
 VThey could do it in blank verse. Dylan could do it.
@@ -2995,7 +2995,7 @@ sg10
 VTABITHA
 p824
 sg12
-g9
+g18
 sa(dp825
 g6
 VYeah, but he hasn't yet.
@@ -3061,7 +3061,7 @@ sg10
 VTABITHA
 p842
 sg12
-g9
+g18
 sa(dp843
 g6
 VI think if you ask around, you'll discover that's unlikely. Do you want to come back to my office?
@@ -3116,7 +3116,7 @@ sg10
 VTABITHA
 p857
 sg12
-g9
+g18
 sa(dp858
 g6
 VToby...?
@@ -3193,7 +3193,7 @@ sg10
 VSAM
 p878
 sg12
-g9
+g22
 sa(dp879
 g6
 VYou guys poetry fans around here?
@@ -3226,7 +3226,7 @@ sg10
 VTABITHA
 p887
 sg12
-g9
+g22
 sa(dp888
 g6
 VYou.
@@ -3292,7 +3292,7 @@ sg10
 VTABITHA
 p905
 sg12
-g22
+g9
 sa(dp906
 g6
 VWe have a problem?
@@ -3358,7 +3358,7 @@ sg10
 VTABITHA
 p923
 sg12
-g9
+g22
 sa(dp924
 g6
 VNo we-we're there now, you-you can't go back.
@@ -3446,7 +3446,7 @@ sg10
 VTABITHA
 p947
 sg12
-g9
+g18
 sa(dp948
 g6
 VWe bolted.
@@ -3457,7 +3457,7 @@ sg10
 VTOBY
 p950
 sg12
-g9
+g18
 sa(dp951
 g6
 VRight.
@@ -3490,7 +3490,7 @@ sg10
 VTABITHA
 p959
 sg12
-g9
+g22
 sa(dp960
 g6
 VIt's Korea. Tabitha. There are 900,000 North Korean soldiers in the DMZ, and the only thing stopping them from walking into South Korea are 37,000 US troops, and about a million land mines along the border. We have said over and over that we would be thrilled to sign this treaty if we could have an exemption for South Korea and we have been rebuffed. Rebuffed... I say.
@@ -3523,7 +3523,7 @@ sg10
 VTOBY
 p968
 sg12
-g9
+g22
 sa(dp969
 g6
 VExcept?
@@ -3611,7 +3611,7 @@ sg10
 VC.J.
 p992
 sg12
-g9
+g18
 sa(dp993
 g6
 VThe Governor is kicking off a ten-state tour and his campaign has indicated they'll be trying to rally the nation around his clean campaign pledge. I'm quoting a senior campaign official now. "A different kind of politics is sweeping the nation, and once the President understands the hearts and minds of the American people, he'll have no choice but to sign the pledge.
@@ -3710,7 +3710,7 @@ sg10
 VC.J.
 p1019
 sg12
-g9
+g18
 sa(dp1020
 g6
 VFull-blown run-through.
@@ -3853,7 +3853,7 @@ sg10
 VCHARLIE
 p1058
 sg12
-g9
+g18
 sa(dp1059
 g6
 V"A Promise to Lead", Ritchie's book.
@@ -3875,7 +3875,7 @@ sg10
 VCHARLIE
 p1064
 sg12
-g22
+g18
 sa(dp1065
 g6
 VCarol, would you put together a page on the environmental impact of drilling the Artic National Wildlife Reserve?
@@ -3952,7 +3952,7 @@ sg10
 VSAM
 p1085
 sg12
-g9
+g18
 sa(dp1086
 g6
 VWhat?!
@@ -3985,7 +3985,7 @@ sg10
 VAINSLEY
 p1094
 sg12
-g9
+g18
 sa(dp1095
 g6
 VWhere'd you go?
@@ -3996,7 +3996,7 @@ sg10
 VSAM
 p1097
 sg12
-g9
+g18
 sa(dp1098
 g6
 VHilton Head.
@@ -4029,7 +4029,7 @@ sg10
 VAINSLEY
 p1106
 sg12
-g9
+g18
 sa(dp1107
 g6
 VBy the way, congratulations. Babish is promoting you to deputy.
@@ -4128,7 +4128,7 @@ sg10
 VSAM
 p1133
 sg12
-g9
+g18
 sa(dp1134
 g6
 VWhat do you need?
@@ -4150,7 +4150,7 @@ sg10
 VSAM
 p1139
 sg12
-g9
+g22
 sa(dp1140
 g6
 VTo say what?
@@ -4172,7 +4172,7 @@ sg10
 VSAM
 p1145
 sg12
-g9
+g22
 sa(dp1146
 g6
 VAnd that's why he made a Southern Republican who disagrees with him a deputy counsel.
@@ -4205,7 +4205,7 @@ sg10
 VAINSLEY
 p1154
 sg12
-g9
+g22
 sa(dp1155
 g6
 VUh-oh.
@@ -4282,7 +4282,7 @@ sg10
 VSAM
 p1175
 sg12
-g9
+g22
 sa(dp1176
 g6
 VBut what happens when Ivy League Presidents surround themselves with intellectual snobs?
@@ -4337,7 +4337,7 @@ sg10
 VAINSLEY
 p1190
 sg12
-g9
+g18
 sa(dp1191
 g6
 VLife's tough in the aluminum siding business. Check the press office on your TV schedule.
@@ -4634,7 +4634,7 @@ sg10
 VJOSH
 p1271
 sg12
-g18
+g9
 sa(dp1272
 g6
 VWhere?
@@ -4920,7 +4920,7 @@ sg10
 VDONNA
 p1349
 sg12
-g9
+g18
 sa(dp1350
 g6
 VWhat are you doing?
@@ -4942,7 +4942,7 @@ sg10
 VTABITHA
 p1355
 sg12
-g9
+g18
 sa(dp1356
 g6
 VYes.
@@ -4964,7 +4964,7 @@ sg10
 VTABITHA
 p1361
 sg12
-g9
+g18
 sa(dp1362
 g6
 VI'll let you know if it happens.
@@ -5041,7 +5041,7 @@ sg10
 VTOBY
 p1382
 sg12
-g9
+g18
 sa(dp1383
 g6
 VAha.
@@ -5151,7 +5151,7 @@ sg10
 VTOBY
 p1412
 sg12
-g9
+g22
 sa(dp1413
 g6
 VAnd land mines would actually slow a counter-invasion. You have an answer to any of this?
@@ -5184,7 +5184,7 @@ sg10
 VTABITHA
 p1421
 sg12
-g22
+g9
 sa(dp1422
 g6
 VNot every minute of the damn day, Tabitha.
@@ -5327,7 +5327,7 @@ sg10
 VBARTLET
 p1460
 sg12
-g9
+g18
 sa(dp1461
 g6
 VAbout what?
@@ -5448,7 +5448,7 @@ sg10
 VSAM
 p1493
 sg12
-g9
+g18
 sa(dp1494
 g6
 VJohn Quincy Adams was so full of himself, he could hardly build a coalition around having eggs for breakfast. How many grand theories of international relations did Wilson come up with that were dead on the arrival in Congress?
@@ -5470,7 +5470,7 @@ sg10
 VSAM
 p1499
 sg12
-g9
+g18
 sa(dp1500
 g6
 VWhy?
@@ -5525,7 +5525,7 @@ sg10
 VAINSLEY
 p1514
 sg12
-g9
+g22
 sa(dp1515
 g6
 VYou don't, but we know it when we see it, and Republicans tend to mock it when they do. You think I'm wrong?
@@ -5547,7 +5547,7 @@ sg10
 VAINSLEY
 p1520
 sg12
-g9
+g18
 sa(dp1521
 g6
 VNo you don't, and the way I know you don't is I saw you say so on television.
@@ -5569,7 +5569,7 @@ sg10
 VSAM
 p1526
 sg12
-g9
+g22
 sa(dp1527
 g6
 VWhy are you here?
@@ -5679,7 +5679,7 @@ sg10
 VTOBY
 p1556
 sg12
-g9
+g18
 sa(dp1557
 g6
 V[turns to her] Yeah.
@@ -5745,7 +5745,7 @@ sg10
 VDONNA
 p1574
 sg12
-g9
+g18
 sa(dp1575
 g6
 VI thought you meant they were funny.
@@ -5756,7 +5756,7 @@ sg10
 VJOSH
 p1577
 sg12
-g9
+g18
 sa(dp1578
 g6
 VThey're not.
@@ -5767,7 +5767,7 @@ sg10
 VDONNA
 p1580
 sg12
-g9
+g18
 sa(dp1581
 g6
 VI know they're not! It's "Lord of the Flies" in there.
@@ -5987,7 +5987,7 @@ sg10
 VJOSH
 p1640
 sg12
-g9
+g22
 sa(dp1641
 g6
 V[shouting] So far up your ass!
@@ -6031,7 +6031,7 @@ sg10
 VJOSH
 p1652
 sg12
-g22
+g9
 sa(dp1653
 g6
 VAre we ready?
@@ -6086,7 +6086,7 @@ sg10
 VTOBY
 p1667
 sg12
-g9
+g18
 sa(dp1668
 g6
 VAre you Mr. Ziegler?
@@ -6097,7 +6097,7 @@ sg10
 VMAN
 p1670
 sg12
-g22
+g9
 sa(dp1671
 g6
 VWhat happened?
@@ -6174,7 +6174,7 @@ sg10
 VTOBY
 p1691
 sg12
-g9
+g18
 sa(dp1692
 g6
 VFor a poetry lecture?
@@ -6262,7 +6262,7 @@ sg10
 VTOBY
 p1715
 sg12
-g9
+g18
 sa(dp1716
 g6
 VWhat's that say?
@@ -6295,7 +6295,7 @@ sg10
 VTOBY
 p1724
 sg12
-g9
+g18
 sa(dp1725
 g6
 VRight.
@@ -6372,7 +6372,7 @@ sg10
 VCHARLIE
 p1745
 sg12
-g9
+g22
 sa(dp1746
 g6
 VAll right, here we go. What time is it?
@@ -6394,7 +6394,7 @@ sg10
 VCHARLIE
 p1751
 sg12
-g9
+g22
 sa(dp1752
 g6
 V[to Bartlet] We'll see you inside.
@@ -6416,7 +6416,7 @@ sg10
 VBARTLET
 p1757
 sg12
-g9
+g22
 sa(dp1758
 g6
 VC.J.?
@@ -6471,7 +6471,7 @@ sg10
 VBARTLET
 p1772
 sg12
-g9
+g18
 sa(dp1773
 g6
 VNo sir, it didn't turn out too bad at all. In fact, the whole country's talking about whether Ritchie's smart enough to be President. And you didn't take hit, 'cause it was an accident. You know, it occurs to me that even your choice of language was interesting. "A .22 caliber mind, in a .357 magnum world." That's unusual for you, a gun metaphor.
@@ -6493,7 +6493,7 @@ sg10
 VC.J.
 p1778
 sg12
-g9
+g18
 sa(dp1779
 g6
 VGo knock 'em dead.

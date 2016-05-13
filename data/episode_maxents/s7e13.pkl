@@ -56,108 +56,108 @@ sg10
 VANNABETH
 p21
 sg12
-S'negative'
-p22
-sa(dp23
+g9
+sa(dp22
 g6
 VWho's that?
-p24
+p23
 sg8
 g9
 sg10
 VDONNA
-p25
+p24
 sg12
 g9
-sa(dp26
+sa(dp25
 g6
 VGallup.
-p27
+p26
 sg8
 g9
 sg10
 VANNABETH
-p28
+p27
 sg12
 g9
-sa(dp29
+sa(dp28
 g6
 VReally?
-p30
+p29
 sg8
 g9
 sg10
 VDONNA
-p31
+p30
 sg12
 g9
-sa(dp32
+sa(dp31
 g6
 VI'm reading it right off the paper.
-p33
+p32
 sg8
 S'positive'
-p34
+p33
 sg10
 VANNABETH
-p35
+p34
 sg12
 g9
-sa(dp36
+sa(dp35
 g6
 VOh, my God.
-p37
+p36
 sg8
 g9
 sg10
 VDONNA
-p38
+p37
 sg12
 g9
-sa(dp39
+sa(dp38
 g6
 VIs it up?
-p40
+p39
 sg8
 g9
 sg10
 VRONNA
-p41
+p40
 sg12
 g9
-sa(dp42
+sa(dp41
 g6
 VNope.
-p43
+p42
 sg8
 g9
 sg10
 VOTTO
-p44
+p43
 sg12
 g9
-sa(dp45
+sa(dp44
 g6
 VCheck again.
-p46
+p45
 sg8
 g9
 sg10
 VANNABETH
-p47
+p46
 sg12
-g9
-sa(dp48
+g33
+sa(dp47
 g6
 VI'm hitting refresh once every 12 seconds.
-p49
+p48
 sg8
 g9
 sg10
 VOTTO
-p50
+p49
 sg12
-g34
+S'negative'
+p50
 sa(dp51
 g6
 VSometimes when you keep pressing the button it won't load.
@@ -201,7 +201,7 @@ sg10
 VBRAM
 p62
 sg12
-g9
+g50
 sa(dp63
 g6
 VI've got three women trying to tell me how to use the New York Time's website.
@@ -218,7 +218,7 @@ g6
 VIt's pretty straight-forward. You need some help?
 p67
 sg8
-g34
+g33
 sg10
 VBRAM
 p68
@@ -234,7 +234,7 @@ sg10
 VOTTO
 p71
 sg12
-g9
+g50
 sa(dp72
 g6
 VUp four in Louisiana, tied in Arkansas.
@@ -256,7 +256,7 @@ sg10
 VANNABETH
 p77
 sg12
-g9
+g33
 sa(dp78
 g6
 VSouth Carolina?!
@@ -273,7 +273,7 @@ g6
 VIt's up, it's up, it's up. The New York Times tracking poll... first national sample since the accident at the San Andreo nuclear facility in Southern California, blah, blah, blah... in this three-day spread, polling 1400 likely voters, Senator Vinick dropped...
 p82
 sg8
-g22
+g50
 sg10
 VOTTO
 p83
@@ -322,7 +322,7 @@ sg10
 VJOSH
 p95
 sg12
-g9
+g33
 sa(dp96
 g6
 VState-by-states are out. We're tied in South Carolina, Arkansas, and California.
@@ -350,7 +350,7 @@ g6
 VWe've pulled ahead in Arizona, Nevada, Virginia. We got the new national tracking polls...
 p103
 sg8
-g34
+g33
 sg10
 VDONNA
 p104
@@ -388,7 +388,7 @@ sg10
 VJOSH
 p113
 sg12
-g9
+g50
 sa(dp114
 g6
 VNationally.
@@ -421,7 +421,7 @@ sg10
 VDONNA
 p122
 sg12
-g34
+g33
 sa(dp123
 g6
 VJosh?! Where's Josh?
@@ -449,7 +449,7 @@ g6
 VOur lead narrowed Tennessee, Louisiana, Georgia; we're neck-and-neck in the Carolinas and they pulled ahead of us in Arizona and Virginia.
 p130
 sg8
-g34
+g33
 sg10
 VBRUNO
 p131
@@ -493,7 +493,7 @@ g6
 VNine points ahead in California a week ago. Now we're tied. Now we're tied.
 p142
 sg8
-g34
+g33
 sg10
 VVINICK
 p143
@@ -504,7 +504,7 @@ g6
 VThe good news is most of the votes we lost are showing up undecided. They are not going for Santos yet.
 p145
 sg8
-g22
+g50
 sg10
 VBRUNO
 p146
@@ -515,12 +515,12 @@ g6
 V12% undecided this late in the campaign.
 p148
 sg8
-g22
+g50
 sg10
 VVINICK
 p149
 sg12
-g9
+g50
 sa(dp150
 g6
 VYou have local press downstairs.
@@ -537,7 +537,7 @@ g6
 VNo comments on the nuclear accident in California.
 p154
 sg8
-g22
+g50
 sg10
 VBRUNO
 p155
@@ -581,12 +581,12 @@ g6
 VMainly tax cuts and more tax cuts.
 p166
 sg8
-g22
+g50
 sg10
 VBRUNO
 p167
 sg12
-g9
+g50
 sa(dp168
 g6
 VAre you okay?
@@ -597,7 +597,7 @@ sg10
 VSHEILA
 p170
 sg12
-g34
+g33
 sa(dp171
 g6
 VYeah, I'm fine.
@@ -608,13 +608,13 @@ sg10
 VVINICK
 p173
 sg12
-g9
+g50
 sa(dp174
 g6
 VThe Kazakhstan situation is heating up. You can always pivot to that if you need to...
 p175
 sg8
-g34
+g33
 sg10
 VSHEILA
 p176
@@ -641,7 +641,7 @@ sg10
 VC.J.
 p182
 sg12
-g9
+g33
 sa(dp183
 g6
 VWho'd have thunk it?
@@ -652,13 +652,13 @@ sg10
 VKATE
 p185
 sg12
-g22
+g50
 sa(dp186
 g6
 VVinick must be weeping in his beer.
 p187
 sg8
-g34
+g33
 sg10
 VBARROW
 p188
@@ -713,7 +713,7 @@ g6
 VEveryone likes the idea of a peacekeeping force, but nobody wants to be in one.
 p202
 sg8
-g22
+g50
 sg10
 VBARROW
 p203
@@ -729,13 +729,13 @@ sg10
 VBARTLET
 p206
 sg12
-g9
+g50
 sa(dp207
 g6
 VThe UN's not going to get involved. China and Russia can both veto in the Security Council.
 p208
 sg8
-g22
+g50
 sg10
 VC.J.
 p209
@@ -768,7 +768,7 @@ g6
 VRussia's moving in from the northwest, China from the east. We need to send enough troops to create a human buffer zone between the two advancing armies.
 p217
 sg8
-g34
+g33
 sg10
 VHUTCHINSON
 p218
@@ -784,7 +784,7 @@ sg10
 VBARTLET
 p221
 sg12
-g22
+g33
 sa(dp222
 g6
 VAbout 600 miles, but not for long.
@@ -801,7 +801,7 @@ g6
 VI want to see invasion plans as soon as possible.
 p226
 sg8
-g22
+g50
 sg10
 VBARTLET
 p227
@@ -817,13 +817,13 @@ sg10
 VHUTCHINSON
 p230
 sg12
-g9
+g50
 sa(dp231
 g6
 VShow me a plan that doesn't look like an invasion, I'll call it whatever your want.
 p232
 sg8
-g22
+g50
 sg10
 VBARTLET
 p233
@@ -834,7 +834,7 @@ g6
 VKeep the NATO ball in the air. I don't want anyone getting the impression we're writing them off.
 p235
 sg8
-g34
+g33
 sg10
 VC.J.
 p236
@@ -872,7 +872,7 @@ sg10
 VKATE
 p245
 sg12
-g9
+g50
 sa(dp246
 g6
 VHopefully we'll know next week.
@@ -922,7 +922,7 @@ g6
 VMy Pyongyang book, good. I tore up my whole office looking for it.
 p259
 sg8
-g34
+g33
 sg10
 VKATE
 p260
@@ -938,7 +938,7 @@ sg10
 VWILL
 p263
 sg12
-g9
+g50
 sa(dp264
 g6
 VReally?
@@ -993,7 +993,7 @@ sg10
 VKATE
 p278
 sg12
-g9
+g50
 sa(dp279
 g6
 VIt's a bra.
@@ -1015,7 +1015,7 @@ sg10
 VKATE
 p284
 sg12
-g9
+g33
 sa(dp285
 g6
 VI put it in a padded envelope, which seemed appropriate.
@@ -1070,7 +1070,7 @@ sg10
 VWILL
 p299
 sg12
-g22
+g50
 sa(dp300
 g6
 VYou keep it.
@@ -1081,7 +1081,7 @@ sg10
 VKATE
 p302
 sg12
-g9
+g33
 sa(dp303
 g6
 VPermanently?
@@ -1109,12 +1109,12 @@ g6
 VYou don't think that's a little complicated?
 p310
 sg8
-g22
+g50
 sg10
 VWILL
 p311
 sg12
-g9
+g50
 sa(dp312
 g6
 VIt is, isn't it?
@@ -1125,7 +1125,7 @@ sg10
 VKATE
 p314
 sg12
-g9
+g50
 sa(dp315
 g6
 VI'll hang on to it until we...
@@ -1136,7 +1136,7 @@ sg10
 VWILL
 p317
 sg12
-g9
+g50
 sa(dp318
 g6
 VOkay.
@@ -1164,12 +1164,12 @@ g6
 VOne can only hope.
 p325
 sg8
-g34
+g33
 sg10
 VKATE
 p326
 sg12
-g9
+g33
 sa(dp327
 g6
 VCancel everything here after the morning rally. We've got to get on the ground in the battle states. Vinick's going to have to head south to get his lead back in Louisiana, Arkansas, and the Carolinas.
@@ -1246,7 +1246,7 @@ sg10
 VSANTOS
 p347
 sg12
-g9
+g33
 sa(dp348
 g6
 VSan Andreo created a lot of undecideds. We've got to get them off the fence.
@@ -1263,7 +1263,7 @@ g6
 VYeah, a lot of them were Dems who didn't know you and were satisfied voting for a moderate Republican.
 p352
 sg8
-g34
+g33
 sg10
 VJOSH
 p353
@@ -1285,7 +1285,7 @@ g6
 VThey want to hear about deficit reduction, they want to hear you're gonna put more cops on the streets.
 p358
 sg8
-g22
+g50
 sg10
 VLEO
 p359
@@ -1296,7 +1296,7 @@ g6
 VWe need to focus on the fact that you were fighting nuclear power 15 years ago. You're the forward-thinking candidate with a nuance vision.
 p361
 sg8
-g34
+g33
 sg10
 VANNABETH
 p362
@@ -1312,18 +1312,18 @@ sg10
 VLEO
 p365
 sg12
-g9
+g50
 sa(dp366
 g6
 VHe had the vision to predict problems with nuclear power, he has the vision to find solutions for our future.
 p367
 sg8
-g34
+g33
 sg10
 VJOSH
 p368
 sg12
-g9
+g33
 sa(dp369
 g6
 VYeah.
@@ -1373,12 +1373,12 @@ g6
 VLet's not forget energy.
 p382
 sg8
-g22
+g50
 sg10
 VSANTOS
 p383
 sg12
-g9
+g50
 sa(dp384
 g6
 VThe 21st Century Energy Plan. He's about the future, Vinick's about the past.
@@ -1400,7 +1400,7 @@ sg10
 VRONNA
 p389
 sg12
-g9
+g33
 sa(dp390
 g6
 VI'll have Joey test some language, but that's the direction.
@@ -1411,13 +1411,13 @@ sg10
 VJOSH
 p392
 sg12
-g9
+g33
 sa(dp393
 g6
 VI'm coordinating with Advance. Which state should we hit first?
 p394
 sg8
-g22
+g50
 sg10
 VBRAM
 p395
@@ -1433,7 +1433,7 @@ sg10
 VJOSH
 p398
 sg12
-g9
+g33
 sa(dp399
 g6
 VCalifornia.
@@ -1488,7 +1488,7 @@ sg10
 VSHEILA
 p413
 sg12
-g22
+g50
 sa(dp414
 g6
 VI don't want it.
@@ -1499,7 +1499,7 @@ sg10
 VVINICK
 p416
 sg12
-g9
+g50
 sa(dp417
 g6
 VI didn't ask you if you wanted it.
@@ -1510,24 +1510,24 @@ sg10
 VSHEILA
 p419
 sg12
-g9
+g50
 sa(dp420
 g6
 VIt looks like Hawaiian Punch, it smells disgusting, and I'm not getting sick. Bob?
 p421
 sg8
-g22
+g50
 sg10
 VVINICK
 p422
 sg12
-g9
+g50
 sa(dp423
 g6
 VWe lost these people because of the nuclear accident. Give them time to realize you didn't meltdown the thing by yourself, they'll come back on their own.
 p424
 sg8
-g22
+g50
 sg10
 VBOB
 p425
@@ -1543,7 +1543,7 @@ sg10
 VBRUNO
 p428
 sg12
-g9
+g50
 sa(dp429
 g6
 VThe base.
@@ -1571,7 +1571,7 @@ g6
 VWe have had a good time always running to the center, but the party's over. You're a Republican. You need to start talking to the Republican conservative base.
 p436
 sg8
-g34
+g33
 sg10
 VSULLIVAN
 p437
@@ -1582,7 +1582,7 @@ g6
 VNail him to a cross; he can stump for votes on the Via Dolorosa.
 p439
 sg8
-g22
+g50
 sg10
 VBRUNO
 p440
@@ -1604,7 +1604,7 @@ g6
 VAnd you are doing a fantastic job.
 p445
 sg8
-g34
+g33
 sg10
 VBRUNO
 p446
@@ -1615,7 +1615,7 @@ g6
 VThey're not voting for me, and they know it. He needs to spend more time in the southern states to make sure we don't lose them.
 p448
 sg8
-g22
+g50
 sg10
 VSULLIVAN
 p449
@@ -1637,7 +1637,7 @@ g6
 VWhat's he going to do? Suddenly pull the Arnold Vinick Health Plan out of his tailpipe?
 p454
 sg8
-g34
+g33
 sg10
 VSULLIVAN
 p455
@@ -1648,7 +1648,7 @@ g6
 VWould that qualify as a miracle? They like the miracles.
 p457
 sg8
-g34
+g33
 sg10
 VVINICK
 p458
@@ -1670,23 +1670,23 @@ g6
 VWe need an ad blitz - negative.
 p463
 sg8
-g22
+g50
 sg10
 VBOB
 p464
 sg12
-g9
+g50
 sa(dp465
 g6
 VThat's not a bad idea.
 p466
 sg8
-g22
+g50
 sg10
 VSULLIVAN
 p467
 sg12
-g9
+g50
 sa(dp468
 g6
 VIt is, actually.
@@ -1703,7 +1703,7 @@ g6
 VWhat we need to do is curb Santos' momentum - keep these folks undecided long enough for this nuclear mess to fade.
 p472
 sg8
-g22
+g50
 sg10
 VSULLIVAN
 p473
@@ -1725,7 +1725,7 @@ g6
 VWhich is why we need something to hit back with; I'm not talking a smear campaign, just some focus on the thousands of times Santos has voted to increase spending.
 p478
 sg8
-g34
+g33
 sg10
 VBOB
 p479
@@ -1736,7 +1736,7 @@ g6
 VIt'll drive up our negatives just as much as it does his. He'll look like a mudslinging desperate hatchet.
 p481
 sg8
-g22
+g50
 sg10
 VBRUNO
 p482
@@ -1758,7 +1758,7 @@ g6
 VIs that an existential question?
 p487
 sg8
-g34
+g33
 sg10
 VBRUNO
 p488
@@ -1769,18 +1769,18 @@ g6
 VLast week Vinick was the voice of experience. Now suddenly, Santos is a wise, pressing visionary and the Senator looks like...
 p490
 sg8
-g34
+g33
 sg10
 VBOB
 p491
 sg12
-g9
+g33
 sa(dp492
 g6
 VA foolish old man?
 p493
 sg8
-g22
+g50
 sg10
 VVINICK
 p494
@@ -1791,18 +1791,18 @@ g6
 VI'm sorry, sir. I just...
 p496
 sg8
-g34
+g33
 sg10
 VBOB
 p497
 sg12
-g9
+g50
 sa(dp498
 g6
 VNo, go ahead. I love it.
 p499
 sg8
-g34
+g33
 sg10
 VVINICK
 p500
@@ -1813,18 +1813,18 @@ g6
 VWe're assuming it can't get worse. Let me tell you something: it can.
 p502
 sg8
-g22
+g50
 sg10
 VBRUNO
 p503
 sg12
-g9
+g50
 sa(dp504
 g6
 VWe go negative, they're going to trot out every bad call I ever made. They're going to plaster them all over the air waves.
 p505
 sg8
-g22
+g50
 sg10
 VVINICK
 p506
@@ -1846,7 +1846,7 @@ g6
 VIt's going to come back and bite us in the ass.
 p511
 sg8
-g22
+g50
 sg10
 VVINICK
 p512
@@ -1857,12 +1857,12 @@ g6
 VYeah. I'm agreeing with you.
 p514
 sg8
-g34
+g33
 sg10
 VBRUNO
 p515
 sg12
-g34
+g9
 sa(dp516
 g6
 VYou are? All right.
@@ -1879,7 +1879,7 @@ g6
 VWe need to stay the course. The Senator speaks to the center, we pep around a little more on health care and education; Sullivan speaks locally to the right flank.
 p520
 sg8
-g34
+g33
 sg10
 VSHEILA
 p521
@@ -1890,7 +1890,7 @@ g6
 VHe's going to talk about health care too?
 p523
 sg8
-g34
+g33
 sg10
 VVINICK
 p524
@@ -1939,7 +1939,7 @@ sg10
 VSULLIVAN
 p536
 sg12
-g22
+g9
 sa(dp537
 g6
 VI'm aware of that. It's still the best strategy we have. We'll do a swing through the South, shore up our numbers there. But he's not appending his message this late in the campaign.
@@ -1961,13 +1961,13 @@ sg10
 VSHEILA
 p542
 sg12
-g9
+g33
 sa(dp543
 g6
 VIf I start going after the base now I'll look like an idiot.
 p544
 sg8
-g22
+g50
 sg10
 VVINICK
 p545
@@ -1989,7 +1989,7 @@ g6
 VYou want me to shape this?
 p550
 sg8
-g34
+g33
 sg10
 VSULLIVAN
 p551
@@ -2038,7 +2038,7 @@ sg10
 VBARTLET
 p563
 sg12
-g9
+g33
 sa(dp564
 g6
 VCertainly.
@@ -2049,7 +2049,7 @@ sg10
 VWENDELL
 p566
 sg12
-g9
+g33
 sa(dp567
 g6
 VHow many?
@@ -2077,7 +2077,7 @@ g6
 VWe'd come up from the south, creating a zone of neutrality separating the Russian-controlled northwest and the Chinese-controlled east. The mountains here on the edge of Lake Balkash create a natural barrier. Our hope is that the Chinese won't push past them.
 p574
 sg8
-g34
+g33
 sg10
 VWENDELL
 p575
@@ -2110,18 +2110,18 @@ g6
 VWe don't have that kind of time.
 p583
 sg8
-g34
+g33
 sg10
 VC.J.
 p584
 sg12
-g9
+g50
 sa(dp585
 g6
 VWe'll start an early deployment of 12,000 troops. The rest will follow as ready.
 p586
 sg8
-g34
+g33
 sg10
 VWENDELL
 p587
@@ -2143,7 +2143,7 @@ g6
 VWe'd pull the first armored division from Vispaden.
 p592
 sg8
-g34
+g33
 sg10
 VWENDELL
 p593
@@ -2198,34 +2198,34 @@ g6
 VWhat will they wear?
 p607
 sg8
-g22
+g50
 sg10
 VBARTLET
 p608
 sg12
-g9
+g50
 sa(dp609
 g6
 VI think green and brown are still the favorites.
 p610
 sg8
-g34
+g33
 sg10
 VHUTCHINSON
 p611
 sg12
-g9
+g33
 sa(dp612
 g6
 VWhat kind of outerwear?
 p613
 sg8
-g34
+g33
 sg10
 VBARTLET
 p614
 sg12
-g9
+g33
 sa(dp615
 g6
 VI haven't seen any type of prototype recently...
@@ -2242,7 +2242,7 @@ g6
 VWe're talking about sending 150,000 Americans to the 50th Parallel in November. It starts snowing in Astana in August, and doesn't stop until June. As opposed to the Russians who do this a lot. Americans haven't fought a war in the cold in quite some time. I would like to know what kind of coats you plan to put on our troops.
 p619
 sg8
-g22
+g50
 sg10
 VBARTLET
 p620
@@ -2253,12 +2253,12 @@ g6
 VWe'll look into it, sir.
 p622
 sg8
-g34
+g33
 sg10
 VWENDELL
 p623
 sg12
-g34
+g33
 sa(dp624
 g6
 VDo that and come back.
@@ -2269,13 +2269,13 @@ sg10
 VBARTLET
 p626
 sg12
-g9
+g50
 sa(dp627
 g6
 VSanCom's suggesting a no-fly in Kazakhstan - symbolic buffer between the two armies until we can get rapid deployment under way.
 p628
 sg8
-g34
+g33
 sg10
 VC.J.
 p629
@@ -2308,7 +2308,7 @@ g6
 VI need to talk to the candidates.
 p637
 sg8
-g34
+g33
 sg10
 VBARTLET
 p638
@@ -2330,7 +2330,7 @@ g6
 VIs he talking about the accident?
 p643
 sg8
-g22
+g50
 sg10
 VDONNA
 p644
@@ -2341,7 +2341,7 @@ g6
 VNothing about the accident, nothing about nuclear power; he's just sharing some ideas about health care and education with a couple of cooling towers in the background.
 p646
 sg8
-g22
+g50
 sg10
 VJOSH
 p647
@@ -2379,7 +2379,7 @@ sg10
 VBRAM
 p656
 sg12
-g9
+g33
 sa(dp657
 g6
 VHow many times did I call Stockwell and Pallor?
@@ -2390,7 +2390,7 @@ sg10
 VJOSH
 p659
 sg12
-g9
+g50
 sa(dp660
 g6
 VA lot.
@@ -2418,12 +2418,12 @@ g6
 VWell, better late than never. Put them on the schedule. Why are you looking at me like that?
 p667
 sg8
-g22
+g50
 sg10
 VJOSH
 p668
 sg12
-g9
+g50
 sa(dp669
 g6
 VBono called.
@@ -2462,7 +2462,7 @@ g6
 VYeah. He's in New York this weekend. He wants to have dinner with the Congressman.
 p679
 sg8
-g34
+g33
 sg10
 VBRAM
 p680
@@ -2533,24 +2533,24 @@ sg10
 VBRAM
 p698
 sg12
-g9
+g50
 sa(dp699
 g6
 VHe doesn't have to sing. He could just talk about debt relief.
 p700
 sg8
-g34
+g33
 sg10
 VDONNA
 p701
 sg12
-g9
+g50
 sa(dp702
 g6
 VOh, my God! Did you talk to him?
 p703
 sg8
-g34
+g33
 sg10
 VRONNA
 p704
@@ -2566,18 +2566,18 @@ sg10
 VBRAM
 p707
 sg12
-g9
+g50
 sa(dp708
 g6
 VOkay, invite him to San Diego.
 p709
 sg8
-g34
+g33
 sg10
 VJOSH
 p710
 sg12
-g9
+g33
 sa(dp711
 g6
 VPhil?
@@ -2599,7 +2599,7 @@ sg10
 VJOSH
 p716
 sg12
-g9
+g50
 sa(dp717
 g6
 VPress avail on the tarmac in San Diego. You need to be available all day for phone interviews.
@@ -2638,7 +2638,7 @@ g6
 VTell them Congressman Santos applauds the President's efforts and is glad the U.S. can share its wisdom with emerging democracies. Then call the White House and find out what the hell's going on.
 p727
 sg8
-g34
+g33
 sg10
 VJOSH
 p728
@@ -2654,7 +2654,7 @@ sg10
 VDONNA
 p731
 sg12
-g9
+g50
 sa(dp732
 g6
 VYou'll meet him.
@@ -2676,13 +2676,13 @@ sg10
 VJOSH
 p737
 sg12
-g9
+g33
 sa(dp738
 g6
 VI want to, um... I'm sorry. About this morning... it was... inappropriate.
 p739
 sg8
-g22
+g50
 sg10
 VJOSH
 p740
@@ -2693,23 +2693,23 @@ g6
 VDon't worry about it.
 p742
 sg8
-g22
+g50
 sg10
 VDONNA
 p743
 sg12
-g9
+g50
 sa(dp744
 g6
 VTotally inappropriate; I feel terrible.
 p745
 sg8
-g22
+g50
 sg10
 VJOSH
 p746
 sg12
-g9
+g50
 sa(dp747
 g6
 VDon't.
@@ -2720,7 +2720,7 @@ sg10
 VDONNA
 p749
 sg12
-g9
+g50
 sa(dp750
 g6
 VSeriously.
@@ -2748,7 +2748,7 @@ g6
 VI want an evacuation report from FEMA before the San Andreo budget call.
 p757
 sg8
-g22
+g50
 sg10
 VBARTLET
 p758
@@ -2781,7 +2781,7 @@ g6
 VI still want to talk to him now.
 p766
 sg8
-g34
+g33
 sg10
 VBARTLET
 p767
@@ -2797,7 +2797,7 @@ sg10
 VDEBBIE
 p770
 sg12
-g9
+g33
 sa(dp771
 g6
 VI'll get to them.
@@ -2825,18 +2825,18 @@ g6
 VA nuclear disaster and a war abroad - I thought they could wait.
 p778
 sg8
-g22
+g50
 sg10
 VBARTLET
 p779
 sg12
-g9
+g50
 sa(dp780
 g6
 VThey've been sitting there for days. It makes it look like I don't pick up after you.
 p781
 sg8
-g34
+g33
 sg10
 VDEBBIE
 p782
@@ -2902,12 +2902,12 @@ g6
 VDecent likeness, commanding, thoughtful; there's no cane, which is a choice.
 p799
 sg8
-g34
+g33
 sg10
 VDEBBIE
 p800
 sg12
-g9
+g33
 sa(dp801
 g6
 VYou think it's a bad choice?
@@ -2929,7 +2929,7 @@ sg10
 VDEBBIE
 p806
 sg12
-g9
+g50
 sa(dp807
 g6
 VHe did.
@@ -2951,7 +2951,7 @@ sg10
 VDEBBIE
 p812
 sg12
-g9
+g50
 sa(dp813
 g6
 VI'm not going to be standing next to the thing with a running commentary. You think it's a problem?
@@ -2973,7 +2973,7 @@ sg10
 VDEBBIE
 p818
 sg12
-g34
+g9
 sa(dp819
 g6
 VOften as not, I don't even use it.
@@ -2984,7 +2984,7 @@ sg10
 VBARTLET
 p821
 sg12
-g9
+g50
 sa(dp822
 g6
 VBut you exist in the Zeightgeist with a cane.
@@ -3006,7 +3006,7 @@ sg10
 VBARTLET
 p827
 sg12
-g22
+g50
 sa(dp828
 g6
 VWhat?
@@ -3034,12 +3034,12 @@ g6
 VYes, sir.
 p835
 sg8
-g34
+g33
 sg10
 VDEBBIE
 p836
 sg12
-g34
+g33
 sa(dp837
 g6
 VHey, sailor.
@@ -3050,7 +3050,7 @@ sg10
 VC.J.
 p839
 sg12
-g9
+g33
 sa(dp840
 g6
 VAm I calling you or are you calling me?
@@ -3078,7 +3078,7 @@ g6
 VOh, this must be what your first smack high feels like.
 p847
 sg8
-g22
+g50
 sg10
 VJOSH
 p848
@@ -3116,7 +3116,7 @@ sg10
 VJOSH
 p857
 sg12
-g34
+g9
 sa(dp858
 g6
 VFunny you should mention it - how about the President?
@@ -3133,12 +3133,12 @@ g6
 VBelow his pay grade, but we'd love to see him.
 p862
 sg8
-g34
+g33
 sg10
 VJOSH
 p863
 sg12
-g9
+g33
 sa(dp864
 g6
 VHe'd like to meet with the Candidates at the White House tonight.
@@ -3155,7 +3155,7 @@ g6
 VAre you kidding? For the first time in the history of this race we're not trailing; we're tied. We pull ahead if we play this thing right. Taking the guy of the campaign trail so he can have some drinks in the Oval Office is...
 p868
 sg8
-g34
+g33
 sg10
 VJOSH
 p869
@@ -3166,12 +3166,12 @@ g6
 VI know and I'm sorry. And if I had a choice...
 p871
 sg8
-g34
+g33
 sg10
 VC.J.
 p872
 sg12
-g9
+g50
 sa(dp873
 g6
 VWe're about to go to California. We may win Vinick's home state. He is not...
@@ -3188,23 +3188,23 @@ g6
 VWould I be asking if it wasn't important?
 p877
 sg8
-g34
+g33
 sg10
 VC.J.
 p878
 sg12
-g9
+g50
 sa(dp879
 g6
 VDiplomatic foray into an entrenched conflict; yes, you have my word: should Santos win he will continue the President's efforts to negotiate a peaceable solution.
 p880
 sg8
-g34
+g33
 sg10
 VJOSH
 p881
 sg12
-g9
+g33
 sa(dp882
 g6
 VOkay, let's do it this way: Vinick's coming. I'm sure you don't want the entire White House Press Corps covering Vinick in the Oval with the President without Santos.
@@ -3226,7 +3226,7 @@ sg10
 VJOSH
 p887
 sg12
-g34
+g50
 sa(dp888
 g6
 VWill's going to coordinate the talking points with your press people, the President will brief the candidates. See you tonight.
@@ -3292,7 +3292,7 @@ sg10
 VSHEILA
 p905
 sg12
-g9
+g50
 sa(dp906
 g6
 VWhy not? Buy some time to sort out the schedule.
@@ -3320,7 +3320,7 @@ g6
 VYou're asking me to boost his public appearances while limiting press access, send him groveling for votes to states he's never had to campaign in before when all he wants to do is go to California. Yeah, I'm still stuck.
 p913
 sg8
-g34
+g33
 sg10
 VBRUNO
 p914
@@ -3347,7 +3347,7 @@ sg10
 VBRUNO
 p920
 sg12
-g9
+g33
 sa(dp921
 g6
 VWhat do you think about a media buy?
@@ -3380,13 +3380,13 @@ sg10
 VBOB
 p929
 sg12
-g9
+g50
 sa(dp930
 g6
 VI need the bulk of our money for a media blitz on November 5th; you could blow the entire budget buying ads in California.
 p931
 sg8
-g34
+g33
 sg10
 VBRUNO
 p932
@@ -3413,7 +3413,7 @@ sg10
 VBRUNO
 p938
 sg12
-g9
+g50
 sa(dp939
 g6
 VTwo or three days... see how it goes.
@@ -3430,7 +3430,7 @@ g6
 VThat's great. A Republican stumping in Georgia - I'm so glad we've got Ray Sullivan planning the schedule.
 p943
 sg8
-g34
+g33
 sg10
 VBRUNO
 p944
@@ -3468,13 +3468,13 @@ sg10
 VSHEILA
 p953
 sg12
-g34
+g33
 sa(dp954
 g6
 VI am happy to change tact in light of current developments, but I would be more comfortable if strategy meetings took place with you, me and the Senator - not you and Ray Sullivan.
 p955
 sg8
-g34
+g33
 sg10
 VBRUNO
 p956
@@ -3490,7 +3490,7 @@ sg10
 VSHEILA
 p959
 sg12
-g9
+g50
 sa(dp960
 g6
 VI don't care if I'm being blamed; I care if I'm being shoved out.
@@ -3501,7 +3501,7 @@ sg10
 VBRUNO
 p962
 sg12
-g9
+g50
 sa(dp963
 g6
 VYou're not.
@@ -3556,7 +3556,7 @@ sg10
 VKATE
 p977
 sg12
-g34
+g33
 sa(dp978
 g6
 VShould I come back?
@@ -3567,7 +3567,7 @@ sg10
 VWILL
 p980
 sg12
-g9
+g50
 sa(dp981
 g6
 VNo. This was the point. I've asked for guys from both campaigns to come in so we can get everyone on the same page with Kazakhstan. You two should work that out?
@@ -3584,12 +3584,12 @@ g6
 VI'll put together a backgrounder and he can adapt that into whatever...
 p985
 sg8
-g34
+g33
 sg10
 VKATE
 p986
 sg12
-g9
+g33
 sa(dp987
 g6
 VTalking points.
@@ -3617,7 +3617,7 @@ g6
 VSomething they can share with the press.
 p994
 sg8
-g34
+g33
 sg10
 VWILL
 p995
@@ -3633,7 +3633,7 @@ sg10
 VC.J.
 p998
 sg12
-g9
+g50
 sa(dp999
 g6
 VSure.
@@ -3644,7 +3644,7 @@ sg10
 VWILL
 p1001
 sg12
-g9
+g50
 sa(dp1002
 g6
 VGreat.
@@ -3655,7 +3655,7 @@ sg10
 VKATE
 p1004
 sg12
-g9
+g33
 sa(dp1005
 g6
 VWhat?
@@ -3683,12 +3683,12 @@ g6
 VIs something weird happening?
 p1012
 sg8
-g22
+g50
 sg10
 VC.J.
 p1013
 sg12
-g9
+g50
 sa(dp1014
 g6
 VNope.
@@ -3705,7 +3705,7 @@ g6
 VI feel like I'm the heroine in the movie who doesn't know there's a guy behind the refrigerator with an axe.
 p1018
 sg8
-g34
+g33
 sg10
 VC.J.
 p1019
@@ -3732,29 +3732,29 @@ sg10
 VC.J.
 p1025
 sg12
-g34
+g9
 sa(dp1026
 g6
 VWe're really bad at this.
 p1027
 sg8
-g22
+g50
 sg10
 VWILL
 p1028
 sg12
-g9
+g50
 sa(dp1029
 g6
 VReally bad.
 p1030
 sg8
-g22
+g50
 sg10
 VKATE
 p1031
 sg12
-g9
+g50
 sa(dp1032
 g6
 VYou know, in a minute, Dave Matthews is going to come up on this stage...
@@ -3771,7 +3771,7 @@ g6
 VLou's working with Joey Lucas on the whole, "Voice for a New Generation" thing. She's going to catch up with us in California.
 p1036
 sg8
-g34
+g33
 sg10
 VRONNA
 p1037
@@ -3804,12 +3804,12 @@ g6
 VThat's good. See if we can get Helen there too.
 p1045
 sg8
-g34
+g33
 sg10
 VJOSH
 p1046
 sg12
-g9
+g33
 sa(dp1047
 g6
 VHey, you've got to get on a plane. Liaise with White House Communications on the...
@@ -3826,7 +3826,7 @@ g6
 VKazakhstan thing. Lou told me. I'm on my way. I just wanted to tell you a rumor I heard from a guy at the Sacramento B.
 p1051
 sg8
-g22
+g50
 sg10
 VDONNA
 p1052
@@ -3837,7 +3837,7 @@ g6
 VYou feel bad for the guys at the B, don't you?
 p1054
 sg8
-g22
+g50
 sg10
 VJOSH
 p1055
@@ -3853,18 +3853,18 @@ sg10
 VDONNA
 p1058
 sg12
-g9
+g50
 sa(dp1059
 g6
 VIt lacks dignity.
 p1060
 sg8
-g34
+g33
 sg10
 VJOSH
 p1061
 sg12
-g9
+g33
 sa(dp1062
 g6
 VThey're wondering.
@@ -3881,7 +3881,7 @@ g6
 VYou heard a rumor?
 p1066
 sg8
-g22
+g50
 sg10
 VJOSH
 p1067
@@ -3914,12 +3914,12 @@ g6
 VI'm sorry. They think he has a cold.
 p1075
 sg8
-g22
+g50
 sg10
 VDONNA
 p1076
 sg12
-g9
+g50
 sa(dp1077
 g6
 VVinick?
@@ -3941,13 +3941,13 @@ sg10
 VDONNA
 p1082
 sg12
-g34
+g33
 sa(dp1083
 g6
 VOh, my Lord! A cold?!
 p1084
 sg8
-g22
+g50
 sg10
 VJOSH
 p1085
@@ -3969,12 +3969,12 @@ g6
 VHe has a cold?!
 p1090
 sg8
-g22
+g50
 sg10
 VJOSH
 p1091
 sg12
-g9
+g50
 sa(dp1092
 g6
 VYes!
@@ -3991,7 +3991,7 @@ g6
 VThe gods were listening to me, and they love me!
 p1096
 sg8
-g34
+g33
 sg10
 VJOSH
 p1097
@@ -4007,35 +4007,35 @@ sg10
 VANNABETH
 p1100
 sg12
-g9
+g50
 sa(dp1101
 g6
 VVinick has a cold.
 p1102
 sg8
-g22
+g50
 sg10
 VDONNA
 p1103
 sg12
-g9
+g50
 sa(dp1104
 g6
 VOh, that's precious.
 p1105
 sg8
-g34
+g33
 sg10
 VANNABETH
 p1106
 sg12
-g9
+g33
 sa(dp1107
 g6
 VI want to send him some Vick's vapo-rub and a German nurse.
 p1108
 sg8
-g34
+g33
 sg10
 VJOSH
 p1109
@@ -4062,13 +4062,13 @@ sg10
 VJOSH
 p1115
 sg12
-g9
+g50
 sa(dp1116
 g6
 VHi, this is Josh Lyman. Who is this? ... Hi, Roberta. Mr. McGarry can't make it to the White House tonight. He's campaigning for high government office. ... Nah, I'm sure it was a mistake. ... Thank you.
 p1117
 sg8
-g22
+g50
 sg10
 VJOSH
 p1118
@@ -4106,7 +4106,7 @@ sg10
 VJOSH
 p1127
 sg12
-g9
+g50
 sa(dp1128
 g6
 VThey will be.
@@ -4117,7 +4117,7 @@ sg10
 VDONNA
 p1130
 sg12
-g9
+g33
 sa(dp1131
 g6
 VAre they writing about the fact that the Senator's health can't stand up to the rigors of the campaign, never mind the challenges of the Oval Office.
@@ -4167,12 +4167,12 @@ g6
 VFine, sir. How are you?
 p1144
 sg8
-g34
+g33
 sg10
 VJOSH
 p1145
 sg12
-g34
+g33
 sa(dp1146
 g6
 VSir...
@@ -4222,18 +4222,18 @@ g6
 VCough drops, cough drops.
 p1159
 sg8
-g22
+g50
 sg10
 VBRUNO
 p1160
 sg12
-g9
+g50
 sa(dp1161
 g6
 VAnd cough drops - something industrial strength; none of that herbal business.
 p1162
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1163
@@ -4277,12 +4277,12 @@ g6
 VHe's running a 101 fever. He needs to rest.
 p1174
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1175
 sg12
-g9
+g50
 sa(dp1176
 g6
 VNot 21 days out, he doesn't.
@@ -4293,7 +4293,7 @@ sg10
 VBRUNO
 p1178
 sg12
-g9
+g50
 sa(dp1179
 g6
 VYou want 21 days of the Walking Wound?
@@ -4321,7 +4321,7 @@ g6
 VNot up to the job.
 p1186
 sg8
-g34
+g33
 sg10
 VBOB
 p1187
@@ -4392,13 +4392,13 @@ sg10
 VANNIE
 p1205
 sg12
-g9
+g33
 sa(dp1206
 g6
 VWhich event are we killing so he can sleep in?
 p1207
 sg8
-g22
+g50
 sg10
 VBOB
 p1208
@@ -4475,12 +4475,12 @@ g6
 VHey, look at you: back in the building. Congratulations on your forward surge.
 p1228
 sg8
-g34
+g33
 sg10
 VWILL
 p1229
 sg12
-g9
+g33
 sa(dp1230
 g6
 VCan you believe it? We're all walking ten feet off the ground.
@@ -4497,7 +4497,7 @@ g6
 VYou gonna go visit your old desk?
 p1234
 sg8
-g34
+g33
 sg10
 VWILL
 p1235
@@ -4513,13 +4513,13 @@ sg10
 VDONNA
 p1238
 sg12
-g34
+g50
 sa(dp1239
 g6
 VI've got the talking points on the Kazakhstan negotiations, but Vinick's press guy is running a little late so we should give it a minute.
 p1240
 sg8
-g22
+g50
 sg10
 VWILL
 p1241
@@ -4535,7 +4535,7 @@ sg10
 VDONNA
 p1244
 sg12
-g9
+g50
 sa(dp1245
 g6
 VYou want a soda?
@@ -4557,7 +4557,7 @@ sg10
 VDONNA
 p1250
 sg12
-g9
+g50
 sa(dp1251
 g6
 VI'm going to have a ginger ale.
@@ -4579,13 +4579,13 @@ sg10
 VDONNA
 p1256
 sg12
-g9
+g33
 sa(dp1257
 g6
 VCan I ask you a question?
 p1258
 sg8
-g34
+g33
 sg10
 VDONNA
 p1259
@@ -4601,7 +4601,7 @@ sg10
 VWILL
 p1262
 sg12
-g9
+g50
 sa(dp1263
 g6
 VIt's going to sound a little wacky.
@@ -4656,13 +4656,13 @@ sg10
 VDONNA
 p1277
 sg12
-g9
+g50
 sa(dp1278
 g6
 VI'm actually seeing someone in a very nonpublic and poorly defined way.
 p1279
 sg8
-g22
+g50
 sg10
 VWILL
 p1280
@@ -4673,7 +4673,7 @@ g6
 VNo, not you. I was talking about someone like you with your job in relation to me.
 p1282
 sg8
-g34
+g33
 sg10
 VDONNA
 p1283
@@ -4766,7 +4766,7 @@ sg10
 VDONNA
 p1307
 sg12
-g9
+g33
 sa(dp1308
 g6
 VClassified.
@@ -4788,18 +4788,18 @@ sg10
 VDONNA
 p1313
 sg12
-g9
+g50
 sa(dp1314
 g6
 VGood idea. [pause] It's not inappropriate. Seeing someone, that is. It's a little weird, maybe. But you'll figure it out.
 p1315
 sg8
-g22
+g50
 sg10
 VWILL
 p1316
 sg12
-g9
+g50
 sa(dp1317
 g6
 VDid they start?
@@ -4810,7 +4810,7 @@ sg10
 VSULLIVAN
 p1319
 sg12
-g22
+g9
 sa(dp1320
 g6
 VWho?
@@ -4843,7 +4843,7 @@ sg10
 VSHEILA
 p1328
 sg12
-g9
+g50
 sa(dp1329
 g6
 VThe Chairman asked me to sit in. Ah, here he is.
@@ -4876,7 +4876,7 @@ sg10
 VHODDER
 p1337
 sg12
-g9
+g33
 sa(dp1338
 g6
 VMr. Chairman.
@@ -4909,7 +4909,7 @@ sg10
 VSHEILA
 p1346
 sg12
-g9
+g50
 sa(dp1347
 g6
 VBruno Gianelli, Jane Braun from the RNC, and Chairman Hodder you know.
@@ -4986,7 +4986,7 @@ sg10
 VJANE
 p1367
 sg12
-g9
+g33
 sa(dp1368
 g6
 VHe's fine.
@@ -5003,12 +5003,12 @@ g6
 VOh, good.
 p1372
 sg8
-g34
+g33
 sg10
 VJANE
 p1373
 sg12
-g9
+g33
 sa(dp1374
 g6
 VI hear you're going to spend a couple days below the Mason-Dixon Line. That'll help.
@@ -5030,7 +5030,7 @@ sg10
 VSHEILA
 p1379
 sg12
-g9
+g33
 sa(dp1380
 g6
 VMessage-wise?
@@ -5047,7 +5047,7 @@ g6
 VMessage-wise, we're holding center.
 p1384
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1385
@@ -5102,7 +5102,7 @@ g6
 VYou can't count on it. What you can count on is getting out the vote. And the foot soldiers of the Republican base will do that for you if the candidate starts speaking their language.
 p1399
 sg8
-g34
+g33
 sg10
 VJANE
 p1400
@@ -5135,7 +5135,7 @@ g6
 VBy which you mean what? Gay marriage?
 p1408
 sg8
-g34
+g33
 sg10
 VBRUNO
 p1409
@@ -5157,7 +5157,7 @@ g6
 VWe play the gay marriage card, Santos will have to respond. Conservatives will flock to Vinick.
 p1414
 sg8
-g34
+g33
 sg10
 VHODDER
 p1415
@@ -5168,7 +5168,7 @@ g6
 VThe Senator doesn't think that marriage is a federal issue.
 p1417
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1418
@@ -5201,7 +5201,7 @@ g6
 VGuys, you're up against the wall. You had some maverick ideas early on and they played beautifully. But now it's time to run a safe, sober campaign that speaks to the concerns of the Republican base.
 p1426
 sg8
-g34
+g33
 sg10
 VJANE
 p1427
@@ -5228,13 +5228,13 @@ sg10
 VSHEILA
 p1433
 sg12
-g9
+g50
 sa(dp1434
 g6
 VI'm interested.
 p1435
 sg8
-g34
+g33
 sg10
 VBRUNO
 p1436
@@ -5245,7 +5245,7 @@ g6
 VYou make it clear to the base that Vinick is their candidate. They can count on him.
 p1438
 sg8
-g34
+g33
 sg10
 VJANE
 p1439
@@ -5256,7 +5256,7 @@ g6
 VYou didn't pull these policies out of a hat. They're Senator Vinick's positions.
 p1441
 sg8
-g34
+g33
 sg10
 VBRUNO
 p1442
@@ -5272,7 +5272,7 @@ sg10
 VJANE
 p1445
 sg12
-g9
+g50
 sa(dp1446
 g6
 VMeaning what?
@@ -5289,7 +5289,7 @@ g6
 VHe's sending the message that he got bad advice early on. He was listening to strategists who steered him off course...
 p1450
 sg8
-g22
+g50
 sg10
 VJANE
 p1451
@@ -5305,7 +5305,7 @@ sg10
 VSHEILA
 p1454
 sg12
-g9
+g50
 sa(dp1455
 g6
 VIt's something you should think about.
@@ -5327,13 +5327,13 @@ sg10
 VSHEILA
 p1460
 sg12
-g9
+g50
 sa(dp1461
 g6
 VDon't be flip about this. There are down-ticket races to consider. We could lose the House and the Senate. Now Arnie's alienated a lot of our people...
 p1462
 sg8
-g22
+g50
 sg10
 VHODDER
 p1463
@@ -5360,7 +5360,7 @@ sg10
 VHODDER
 p1469
 sg12
-g9
+g33
 sa(dp1470
 g6
 VRight this way.
@@ -5382,7 +5382,7 @@ sg10
 VJANE
 p1475
 sg12
-g9
+g50
 sa(dp1476
 g6
 VGood to see you.
@@ -5393,7 +5393,7 @@ sg10
 VHODDER
 p1478
 sg12
-g9
+g33
 sa(dp1479
 g6
 VPleasure.
@@ -5415,7 +5415,7 @@ sg10
 VBRUNO
 p1484
 sg12
-g9
+g50
 sa(dp1485
 g6
 VOh, they're definitely trying to replace you - with her, apparently.
@@ -5432,12 +5432,12 @@ g6
 VHey, stranger.
 p1489
 sg8
-g22
+g50
 sg10
 VC.J.
 p1490
 sg12
-g9
+g50
 sa(dp1491
 g6
 VHi.
@@ -5465,23 +5465,23 @@ g6
 VYes. I'm just hanging here until the Congressman and everyone gets in.
 p1498
 sg8
-g22
+g50
 sg10
 VDONNA
 p1499
 sg12
-g9
+g50
 sa(dp1500
 g6
 VIt's so good to see you.
 p1501
 sg8
-g34
+g33
 sg10
 VC.J.
 p1502
 sg12
-g9
+g33
 sa(dp1503
 g6
 VYou too.
@@ -5492,13 +5492,13 @@ sg10
 VDONNA
 p1505
 sg12
-g9
+g33
 sa(dp1506
 g6
 VYou must be having a good day.
 p1507
 sg8
-g34
+g33
 sg10
 VC.J.
 p1508
@@ -5624,7 +5624,7 @@ sg10
 VDONNA
 p1541
 sg12
-g9
+g50
 sa(dp1542
 g6
 VSomething happened.
@@ -5652,7 +5652,7 @@ g6
 VOh, come on. You've got a useless poker face. I spend my whole day talking about election monitors in Central Asia. Throw me a bone.
 p1549
 sg8
-g22
+g50
 sg10
 VC.J.
 p1550
@@ -5663,7 +5663,7 @@ g6
 VIt's nothing. We just... we had an odd moment today. Just another in a long series of odd moments meant to be ignored. You should focus on your election monitors.
 p1552
 sg8
-g34
+g33
 sg10
 VDONNA
 p1553
@@ -5674,23 +5674,23 @@ g6
 VThat was a complete and utter failure.
 p1555
 sg8
-g22
+g50
 sg10
 VC.J.
 p1556
 sg12
-g9
+g50
 sa(dp1557
 g6
 VThat's too bad.
 p1558
 sg8
-g22
+g50
 sg10
 VDONNA
 p1559
 sg12
-g9
+g50
 sa(dp1560
 g6
 VIt is.
@@ -5701,7 +5701,7 @@ sg10
 VC.J.
 p1562
 sg12
-g22
+g50
 sa(dp1563
 g6
 VWould you come with me, please?
@@ -5745,7 +5745,7 @@ sg10
 VDONNA
 p1574
 sg12
-g9
+g50
 sa(dp1575
 g6
 VYeah.
@@ -5767,7 +5767,7 @@ sg10
 VDEBBIE
 p1580
 sg12
-g9
+g33
 sa(dp1581
 g6
 VThank you.
@@ -5778,7 +5778,7 @@ sg10
 VVINICK
 p1583
 sg12
-g34
+g33
 sa(dp1584
 g6
 VNot too comfortable.
@@ -5789,7 +5789,7 @@ sg10
 VDEBBIE
 p1586
 sg12
-g9
+g33
 sa(dp1587
 g6
 VExcuse me?
@@ -5800,7 +5800,7 @@ sg10
 VVINICK
 p1589
 sg12
-g9
+g50
 sa(dp1590
 g6
 VHmm?
@@ -5822,7 +5822,7 @@ sg10
 VVINICK
 p1595
 sg12
-g34
+g33
 sa(dp1596
 g6
 VWhat?
@@ -5855,7 +5855,7 @@ sg10
 VDEBBIE
 p1604
 sg12
-g9
+g50
 sa(dp1605
 g6
 VVinick just came through. I think they put him in the Mural Room.
@@ -5899,7 +5899,7 @@ sg10
 VJOSH
 p1616
 sg12
-g9
+g33
 sa(dp1617
 g6
 VCan I get anybody anything to drink?
@@ -5910,7 +5910,7 @@ sg10
 VDEBBIE
 p1619
 sg12
-g9
+g50
 sa(dp1620
 g6
 VOh, we're fine. Thank you.
@@ -5943,13 +5943,13 @@ sg10
 VJOSH
 p1628
 sg12
-g22
+g50
 sa(dp1629
 g6
 VWhy are we sitting out here while the Democratic VP candidate is being ushered into the Oval Office?
 p1630
 sg8
-g34
+g33
 sg10
 VVINICK
 p1631
@@ -5960,7 +5960,7 @@ g6
 VThey wanted to show me. I thought it was my job to keep them away from the Congressman.
 p1633
 sg8
-g34
+g33
 sg10
 VBRAM
 p1634
@@ -5976,13 +5976,13 @@ sg10
 VSANTOS
 p1637
 sg12
-g9
+g50
 sa(dp1638
 g6
 VAnytime, sir. We're at the Marriot tonight. Take-out phone lists are in the packet, but the restaurant in the hotel should be open when we get back.
 p1639
 sg8
-g34
+g33
 sg10
 VBRAM
 p1640
@@ -6053,7 +6053,7 @@ sg10
 VJOSH
 p1658
 sg12
-g9
+g50
 sa(dp1659
 g6
 VHow about "A New Plan for a New America"?
@@ -6092,12 +6092,12 @@ g6
 VI love it.
 p1669
 sg8
-g34
+g33
 sg10
 VSANTOS
 p1670
 sg12
-g9
+g33
 sa(dp1671
 g6
 V"A Brave and Bold Visionary" ought to work.
@@ -6141,13 +6141,13 @@ sg10
 VSANTOS
 p1682
 sg12
-g9
+g50
 sa(dp1683
 g6
 VWe're just looking to capitalize on our country's new vision of you, sir - post-nuclear debacle.
 p1684
 sg8
-g34
+g33
 sg10
 VANNABETH
 p1685
@@ -6169,7 +6169,7 @@ g6
 VAs opposed to Vinick, who's...
 p1690
 sg8
-g22
+g50
 sg10
 VJOSH
 p1691
@@ -6196,7 +6196,7 @@ sg10
 VSANTOS
 p1697
 sg12
-g9
+g50
 sa(dp1698
 g6
 VIt polled well.
@@ -6207,13 +6207,13 @@ sg10
 VANNABETH
 p1700
 sg12
-g9
+g33
 sa(dp1701
 g6
 VYou can't poll people three days after a crisis. They're speaking from a place of anxiety and confusion. They're answers are going to be all over the map.
 p1702
 sg8
-g22
+g50
 sg10
 VSANTOS
 p1703
@@ -6235,7 +6235,7 @@ g6
 VWe have their attention now. They're finally listening. We stick with it, maybe they'll get the sense that we've been on the right track all along.
 p1708
 sg8
-g34
+g33
 sg10
 VSANTOS
 p1709
@@ -6284,13 +6284,13 @@ sg10
 VANNABETH
 p1721
 sg12
-g22
+g50
 sa(dp1722
 g6
 VI'm going to have a doctor come by in the morning and make sure it's not strep or something.
 p1723
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1724
@@ -6306,13 +6306,13 @@ sg10
 VVINICK
 p1727
 sg12
-g9
+g50
 sa(dp1728
 g6
 VUntil the "allergies" clear up, I think a cough suppressant might make the day go a little faster.
 p1729
 sg8
-g22
+g50
 sg10
 VBRUNO
 p1730
@@ -6323,7 +6323,7 @@ g6
 VYou want to talk about what happened in your meeting with Hodder?
 p1732
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1733
@@ -6334,7 +6334,7 @@ g6
 VI don't. You want to talk about why we're admiring the China while McGarry's in there with the President?
 p1735
 sg8
-g34
+g33
 sg10
 VVINICK
 p1736
@@ -6345,7 +6345,7 @@ g6
 VWe're setting up a no-fly zone over Kazakhstan. Step one of a two-month ramp up with probably a five-year commitment on the ground. NATO's waving us into the fray with absolutely no intention of following.
 p1738
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1739
@@ -6356,7 +6356,7 @@ g6
 VIt figures. Did you evacuate the embassy?
 p1741
 sg8
-g22
+g50
 sg10
 VLEO
 p1742
@@ -6372,7 +6372,7 @@ sg10
 VBARTLET
 p1745
 sg12
-g34
+g33
 sa(dp1746
 g6
 VSo, it's rapid deployment of what, 10,000?
@@ -6389,7 +6389,7 @@ g6
 V12. The dream scenario is we put them in the middle of the buffer zone which scares everyone enough to drive the Russians and the Chinese back on their own soil. Otherwise, we follow with another 100,000.
 p1750
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1751
@@ -6411,7 +6411,7 @@ g6
 VI'm willing to threaten air strikes, but I don't want to tear up the Kazakh countryside just to make a point.
 p1756
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1757
@@ -6422,7 +6422,7 @@ g6
 VSo you send in 100,000 men, push the lines back. Then you're security guard until they get a new government up and running. It's a reasonable move. You put a massive force on the ground for deterrent purposes, you nip the conflict in the bud. I'd be surprised if either China or Russia actually wanted a real battle.
 p1759
 sg8
-g22
+g50
 sg10
 VLEO
 p1760
@@ -6433,7 +6433,7 @@ g6
 VMaybe. That, or we're stuck between two 1,000,000-man armies spoiling for a fight.
 p1762
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1763
@@ -6460,13 +6460,13 @@ sg10
 VBARTLET
 p1769
 sg12
-g9
+g50
 sa(dp1770
 g6
 VArmies are already on the ground. Nobody's going to agree to a cease-fire until they know you're serious about getting involved.
 p1771
 sg8
-g34
+g33
 sg10
 VLEO
 p1772
@@ -6510,7 +6510,7 @@ g6
 VOh, come on. They'll remember eight years of strong leadership, growth... a Commander in Chief they could trust.
 p1783
 sg8
-g34
+g33
 sg10
 VLEO
 p1784
@@ -6521,7 +6521,7 @@ g6
 VYou know what'll probably happen? It goes badly, I get the blame. It goes well, the next guy gets the credit.
 p1786
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1787
@@ -6537,7 +6537,7 @@ sg10
 VLEO
 p1790
 sg12
-g9
+g33
 sa(dp1791
 g6
 VThe President's ready for you.
@@ -6554,12 +6554,12 @@ g6
 VSorry for the wait.
 p1795
 sg8
-g22
+g50
 sg10
 VDEBBIE
 p1796
 sg12
-g9
+g50
 sa(dp1797
 g6
 VGentlemen.
@@ -6570,7 +6570,7 @@ sg10
 VDEBBIE
 p1799
 sg12
-g9
+g50
 sa(dp1800
 g6
 VEverything okay?
@@ -6598,18 +6598,18 @@ g6
 VThe initial incursion would be small: 2,000 troops there to defend the embassy.
 p1807
 sg8
-g22
+g50
 sg10
 VWENDELL
 p1808
 sg12
-g9
+g50
 sa(dp1809
 g6
 VDoes the embassy require that much defense?
 p1810
 sg8
-g34
+g33
 sg10
 VSANTOS
 p1811
@@ -6625,7 +6625,7 @@ sg10
 VHUTCHINSON
 p1814
 sg12
-g9
+g50
 sa(dp1815
 g6
 VHopefully, Tarimov takes it as an indication of our commitment and resumes negotiations.
@@ -6636,7 +6636,7 @@ sg10
 VC.J.
 p1817
 sg12
-g9
+g33
 sa(dp1818
 g6
 VIf he doesn't?
@@ -6647,13 +6647,13 @@ sg10
 VSANTOS
 p1820
 sg12
-g9
+g50
 sa(dp1821
 g6
 VTwo rapid deployment divisions are dropped in within 24 hours. The rest of the ground troops follow over the next eight weeks.
 p1822
 sg8
-g34
+g33
 sg10
 VWENDELL
 p1823
@@ -6675,7 +6675,7 @@ g6
 VChigorin's been unwilling to engage, as you might expect. The foreign minister is communicating, but we get the sense he's been pushed out of the decision-making process.
 p1828
 sg8
-g34
+g33
 sg10
 VKATE
 p1829
@@ -6708,7 +6708,7 @@ g6
 VI was under the impression that diplomatic options hadn't been exhausted.
 p1837
 sg8
-g34
+g33
 sg10
 VVINICK
 p1838
@@ -6719,7 +6719,7 @@ g6
 VThat's what we've been saying. I wish it were true.
 p1840
 sg8
-g34
+g33
 sg10
 VBARTLET
 p1841
@@ -6730,7 +6730,7 @@ g6
 VWhat about an international force.
 p1843
 sg8
-g22
+g50
 sg10
 VSANTOS
 p1844
@@ -6741,7 +6741,7 @@ g6
 VWe've asked, but NATO's participation would be nominal at best.
 p1846
 sg8
-g34
+g33
 sg10
 VBARTLET
 p1847
@@ -6768,7 +6768,7 @@ sg10
 VBARTLET
 p1853
 sg12
-g34
+g33
 sa(dp1854
 g6
 VI don't see our presence as doing anything more than exacerbating the conflict. Once we're involved, India will have to diplomatically with the Russians.
@@ -6807,7 +6807,7 @@ g6
 VGentlemen, let's talk about what we're talking about. You're worried that I'm going to announce I'm deploying 150,000 American soldiers three weeks before the election and suddenly your race is about my war.
 p1864
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1865
@@ -6823,13 +6823,13 @@ sg10
 VBARTLET
 p1868
 sg12
-g9
+g50
 sa(dp1869
 g6
 VIt does change the nature of the election. But more importantly, a new President would have an easier time brokering a diplomatic solution.
 p1870
 sg8
-g34
+g33
 sg10
 VSANTOS
 p1871
@@ -6840,12 +6840,12 @@ g6
 VIf I thought we could wait until after election, we would wait.
 p1873
 sg8
-g22
+g50
 sg10
 VBARTLET
 p1874
 sg12
-g9
+g50
 sa(dp1875
 g6
 VWhat's this going to cost?
@@ -6873,7 +6873,7 @@ g6
 VIt doesn't matter. The first 100 days in office are the most productive of the whole term and there's no way we can extricate ourselves from from something like this in three months. It's not about the money. You're blowing any political capital we might have by forcing us to fight a war.
 p1882
 sg8
-g34
+g33
 sg10
 VSANTOS
 p1883
@@ -6961,7 +6961,7 @@ g6
 VGeneral Schultz will tell you there is. He'd tell you we stabilize Astana, hold new elections in ten months, and pull out in 18. But I'm not sure I'd buy that anymore than you do.
 p1906
 sg8
-g34
+g33
 sg10
 VBARTLET
 p1907
@@ -6983,7 +6983,7 @@ g6
 VI don't have one. I suggest you both start giving it some thought.
 p1912
 sg8
-g34
+g33
 sg10
 VBARTLET
 p1913
@@ -7005,7 +7005,7 @@ g6
 VThank you for coming in. Good luck to you both.
 p1918
 sg8
-g34
+g33
 sg10
 VBARTLET
 p1919
@@ -7027,7 +7027,7 @@ g6
 VLozenge? [pause] We have to talk about the Chairman.
 p1924
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1925
@@ -7049,7 +7049,7 @@ g6
 VHe's a weasel and I don't like that woman, but they're right. A little campaign shake up might create enough of a diversion to get us past San Andreo.
 p1930
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1931
@@ -7093,7 +7093,7 @@ g6
 VThat's the dumbest thing I've ever heard. No really, from a smart woman, that's an incredibly stupid idea.
 p1942
 sg8
-g22
+g50
 sg10
 VVINICK
 p1943
@@ -7120,13 +7120,13 @@ sg10
 VVINICK
 p1949
 sg12
-g9
+g50
 sa(dp1950
 g6
 VDon't interrupt me. I can still be on the phone with you 24/7. Hire Jane Braun. And once we get a 51% strategy in place, Bob and Bruno can execute it.
 p1951
 sg8
-g22
+g50
 sg10
 VSHEILA
 p1952
@@ -7137,7 +7137,7 @@ g6
 VWe're not losing. We're just in a real horse race now. I'll hop myself up on Sudafed tomorrow. Santos will be back in the dust by Friday.
 p1954
 sg8
-g22
+g50
 sg10
 VVINICK
 p1955
@@ -7148,7 +7148,7 @@ g6
 VJane is rainmaker at the RNC. She is the darling of the evangelical right. They will respond to her. She'll whip them up into a door-knocking, pavement-pounding frenzy.
 p1957
 sg8
-g22
+g50
 sg10
 VSHEILA
 p1958
@@ -7170,7 +7170,7 @@ g6
 VI made a promise to put you in office, and that's what we're going to do.
 p1963
 sg8
-g34
+g33
 sg10
 VSHEILA
 p1964
@@ -7181,12 +7181,12 @@ g6
 VSo, that's it? Tomorrow morning I get a letter of resignation?
 p1966
 sg8
-g22
+g50
 sg10
 VVINICK
 p1967
 sg12
-g9
+g50
 sa(dp1968
 g6
 VIt's already in your briefcase.
@@ -7236,12 +7236,12 @@ g6
 VWould you like your overcoat, sir? It's pretty cold.
 p1981
 sg8
-g34
+g33
 sg10
 VSTAFFER
 p1982
 sg12
-g9
+g50
 sa(dp1983
 g6
 VNo.
@@ -7258,12 +7258,12 @@ g6
 VWe dealt with the relevant information.
 p1987
 sg8
-g34
+g33
 sg10
 VBRAM
 p1988
 sg12
-g9
+g33
 sa(dp1989
 g6
 VOh, my God. You got her phone number, didn't you?
@@ -7280,7 +7280,7 @@ g6
 VI'm not at liberty to share that information.
 p1993
 sg8
-g34
+g33
 sg10
 VBRAM
 p1994
@@ -7307,7 +7307,7 @@ sg10
 VEDIE
 p2000
 sg12
-g9
+g50
 sa(dp2001
 g6
 VFine.
@@ -7324,7 +7324,7 @@ g6
 VWhat'd they talk about?
 p2005
 sg8
-g34
+g33
 sg10
 VBRAM
 p2006
@@ -7368,12 +7368,12 @@ g6
 VThat's impressive, really. It brings honor to the family.
 p2017
 sg8
-g34
+g33
 sg10
 VJOSH
 p2018
 sg12
-g9
+g33
 sa(dp2019
 g6
 VIf Bono comes, we are locking him in the Secret Service room.
@@ -7395,7 +7395,7 @@ sg10
 VDONNA
 p2024
 sg12
-g9
+g50
 sa(dp2025
 g6
 VOh, she forgot her key. Donna!

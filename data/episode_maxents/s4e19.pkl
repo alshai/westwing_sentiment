@@ -112,36 +112,36 @@ sg10
 VBARTLET
 p37
 sg12
-g9
-sa(dp38
+S'negative'
+p38
+sa(dp39
 g6
 VYes, sir, but the statue requires that you have an in-person briefing on the current drug situation. So, we'll get you someone to do it in the car on the way in.
-p39
+p40
 sg8
 g33
 sg10
 VLEO
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VJust to check, they're going to tell me that the narco-trafficantes are running the Parliament, but that we should recertify them as an ally in the drug war.
-p42
+p43
 sg8
 g9
 sg10
 VBARTLET
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VYou mean calling them an enemy.
-p45
-sg8
-S'negative'
 p46
+sg8
+g38
 sg10
 VBARTLET
 p47
@@ -168,7 +168,7 @@ sg10
 VCHARLIE
 p53
 sg12
-g9
+g33
 sa(dp54
 g6
 VAnd the deadline for that is today, right?
@@ -190,13 +190,13 @@ sg10
 VBARTLET
 p59
 sg12
-g9
+g33
 sa(dp60
 g6
 VLeo, hang on a second. [to Weiskopf] What's the problem on the ground?
 p61
 sg8
-g46
+g38
 sg10
 VBARTLET
 p62
@@ -256,7 +256,7 @@ sg10
 VWEISKOPF
 p77
 sg12
-g9
+g38
 sa(dp78
 g6
 VYeah.
@@ -278,7 +278,7 @@ sg10
 VWEISKOPF
 p83
 sg12
-g9
+g33
 sa(dp84
 g6
 VYou'll keep me briefed?
@@ -289,7 +289,7 @@ sg10
 VBARTLET
 p86
 sg12
-g9
+g33
 sa(dp87
 g6
 VYes, sir.
@@ -322,13 +322,13 @@ sg10
 VWEISKOPF
 p95
 sg12
-g33
+g9
 sa(dp96
 g6
 VListen to me, are you listening? This is one of those things that sounds worse than it is. I can'y tell you how many times this happens, it's a 30-cent piece of plastic.
 p97
 sg8
-g46
+g38
 sg10
 VLEO
 p98
@@ -344,7 +344,7 @@ sg10
 VBARTLET
 p101
 sg12
-g9
+g38
 sa(dp102
 g6
 VA friend of mine landing a Beechcraft at Teteboro, puts down the gear, the wheels fall right off the plane, he ditched it near the Throgs Neck Bridge.
@@ -355,7 +355,7 @@ sg10
 VLEO
 p104
 sg12
-g9
+g33
 sa(dp105
 g6
 VYou got a lot more of these stories?
@@ -372,7 +372,7 @@ g6
 VOh, yeah, a thousand of them. Seriously, man, if they dug a grave for me everytime I lost an indicator light.
 p109
 sg8
-g46
+g38
 sg10
 VLEO
 p110
@@ -388,7 +388,7 @@ sg10
 VBARTLET
 p113
 sg12
-g9
+g33
 sa(dp114
 g6
 VC.J. will know what to do.
@@ -471,7 +471,7 @@ g6
 VThe co-pilot told us it was a problem on the ground; we'll stay with that.
 p136
 sg8
-g46
+g38
 sg10
 VC.J.
 p137
@@ -537,7 +537,7 @@ g6
 VWe shouldn't give them too many details. Let's say, you know, a runway incursion. A maintenance truck caused a fuel spill on the runway they want us to use.
 p154
 sg8
-g46
+g38
 sg10
 VWILL
 p155
@@ -553,7 +553,7 @@ sg10
 VC.J.
 p158
 sg12
-g9
+g33
 sa(dp159
 g6
 VYeah.
@@ -597,7 +597,7 @@ sg10
 VC.J.
 p170
 sg12
-g9
+g33
 sa(dp171
 g6
 VA maintenance truck caused a fuel spill on our runway a few minutes ago, and they're cleaning it up.
@@ -696,7 +696,7 @@ sg10
 VJOSH
 p197
 sg12
-g9
+g38
 sa(dp198
 g6
 VI am a Republican.
@@ -707,7 +707,7 @@ sg10
 VLANDIS
 p200
 sg12
-g9
+g38
 sa(dp201
 g6
 VAnd that's fine, I have nothing with that; I really don't. I'm just saying stop thinking like that.
@@ -718,13 +718,13 @@ sg10
 VJOSH
 p203
 sg12
-g9
+g38
 sa(dp204
 g6
 VIt's thinking like one that's going to get this bill passed, and I'm tell you, if it feels like, in the toxic provision, that there's too much regulation...
 p205
 sg8
-g46
+g38
 sg10
 VLANDIS
 p206
@@ -757,7 +757,7 @@ g6
 VWell, when the Chesapeake starts turning flourescent colors, local business is gonna have a bigger problem.
 p214
 sg8
-g46
+g38
 sg10
 VJOSH
 p215
@@ -773,7 +773,7 @@ sg10
 VLANDIS
 p218
 sg12
-g9
+g38
 sa(dp219
 g6
 VAnd that's why the President's signing it.
@@ -784,7 +784,7 @@ sg10
 VJOSH
 p221
 sg12
-g9
+g38
 sa(dp222
 g6
 VGood, but you skipped the part where the majority of Congress votes for it. So, I'm asking you again; does it feel too...?
@@ -806,7 +806,7 @@ sg10
 VJOSH
 p227
 sg12
-g9
+g38
 sa(dp228
 g6
 VShut up.
@@ -817,13 +817,13 @@ sg10
 VLANDIS
 p230
 sg12
-g46
+g38
 sa(dp231
 g6
 V...of big government.
 p232
 sg8
-g46
+g38
 sg10
 VJOSH
 p233
@@ -850,7 +850,7 @@ sg10
 VJOSH
 p239
 sg12
-g9
+g38
 sa(dp240
 g6
 VBig Shellfish Bay. You never spend any time there?
@@ -883,7 +883,7 @@ sg10
 VLANDIS
 p248
 sg12
-g9
+g33
 sa(dp249
 g6
 VJosh.
@@ -905,7 +905,7 @@ sg10
 VLANDIS
 p254
 sg12
-g9
+g38
 sa(dp255
 g6
 VChesapeake Bay?
@@ -966,7 +966,7 @@ g6
 VYeah, I'm gonna head back to my office. Why don't you guys move on to point/nonpoint source pollution and the storm runoff; I'll be back in a few minutes.
 p271
 sg8
-g46
+g38
 sg10
 VJOSH
 p272
@@ -993,13 +993,13 @@ sg10
 VDONNA
 p278
 sg12
-g9
+g38
 sa(dp279
 g6
 VNo, you wrote they're having a problem with their landing geek.
 p280
 sg8
-g46
+g38
 sg10
 VJOSH
 p281
@@ -1081,7 +1081,7 @@ sg10
 VSEGAL
 p302
 sg12
-g9
+g38
 sa(dp303
 g6
 VYeah, they spilled something on the runway; I just got part of the story.
@@ -1114,7 +1114,7 @@ sg10
 VJOSH
 p311
 sg12
-g9
+g38
 sa(dp312
 g6
 VYou were working with Tom Landis?
@@ -1230,7 +1230,7 @@ g6
 VIt's a bipartisan bill. It's a victory for us. It's an environmental bill; the Republicans hate it. It's incredibly regulatory.
 p343
 sg8
-g46
+g38
 sg10
 VJOSH
 p344
@@ -1263,7 +1263,7 @@ g6
 VJosh, you know what some Hill Democrats call the Bartlet reelect? They call it the lonely lanslide. There's a sentiment that the President wanted a Republican Congress...
 p352
 sg8
-g46
+g38
 sg10
 VSEGAL
 p353
@@ -1274,18 +1274,18 @@ g6
 VAnd that's absurd.
 p355
 sg8
-g46
+g38
 sg10
 VJOSH
 p356
 sg12
-g9
+g38
 sa(dp357
 g6
 VThen why are you helping one of the most vulnerable Republicans rack up...
 p358
 sg8
-g46
+g38
 sg10
 VSIMMEL
 p359
@@ -1296,18 +1296,18 @@ g6
 VYou're making an argument for divided government.
 p361
 sg8
-g46
+g38
 sg10
 VSEGAL
 p362
 sg12
-g9
+g38
 sa(dp363
 g6
 VDivided governemnt's what we got. We should go on a hunger strike?
 p364
 sg8
-g46
+g38
 sg10
 VJOSH
 p365
@@ -1378,7 +1378,7 @@ sg10
 VTOBY
 p383
 sg12
-g9
+g38
 sa(dp384
 g6
 VDonna's getting C.J. on the phone.
@@ -1406,12 +1406,12 @@ g6
 VIt's not like they're not going to fix it. You don't have to feel guilty about it.
 p391
 sg8
-g46
+g38
 sg10
 VJOSH
 p392
 sg12
-g9
+g38
 sa(dp393
 g6
 VNo, I mean, thank God, I sent Will in my place.
@@ -1433,7 +1433,7 @@ sg10
 VJOSH
 p398
 sg12
-g46
+g38
 sa(dp399
 g6
 VThey're about five minutes away.
@@ -1549,7 +1549,7 @@ g6
 VThey called in an air raid and the computer hit them as a target. How'd you like to have to be the guy that explains that?
 p430
 sg8
-g46
+g38
 sg10
 VJOSH
 p431
@@ -1582,7 +1582,7 @@ g6
 VI meant 'cause of the nuisance of having to circle around up there. When I said, "Thank God, I sent Will instead of me," not 'cause of the other thing.
 p439
 sg8
-g46
+g38
 sg10
 VTOBY
 p440
@@ -1620,7 +1620,7 @@ sg10
 VC.J.
 p449
 sg12
-g9
+g33
 sa(dp450
 g6
 VAt night?
@@ -1642,7 +1642,7 @@ sg10
 VC.J.
 p455
 sg12
-g9
+g38
 sa(dp456
 g6
 V[reading from computer screen] It's Wildfire Week at Shenandoah National Park. Lilacs, ochre, crimson.
@@ -1664,7 +1664,7 @@ sg10
 VC.J.
 p461
 sg12
-g46
+g9
 sa(dp462
 g6
 VWe're nowhere near Shenandoah National park; it's a whole different state.
@@ -1686,7 +1686,7 @@ sg10
 VED
 p467
 sg12
-g9
+g38
 sa(dp468
 g6
 VAny kind of Festival of Lights or astronomy? Is there a comet?
@@ -1752,7 +1752,7 @@ sg10
 VWILL
 p485
 sg12
-g9
+g38
 sa(dp486
 g6
 VThat statue says it's got to be in person.
@@ -1774,7 +1774,7 @@ sg10
 VWILL
 p491
 sg12
-g9
+g38
 sa(dp492
 g6
 VThat Columbia is an ally in the drug war. So what's the plan?
@@ -1840,7 +1840,7 @@ sg10
 VWILL
 p509
 sg12
-g9
+g38
 sa(dp510
 g6
 VAll right, let's get this over with and land.
@@ -1972,7 +1972,7 @@ sg10
 VWILL
 p545
 sg12
-g9
+g38
 sa(dp546
 g6
 VHey, uh, listen everybody, the Colonel just told us that we're about to go by something incredible. And you hardly ever get to see this. It's going to be out the left side of the plane.
@@ -2093,7 +2093,7 @@ sg10
 VWEISKOPF
 p578
 sg12
-g33
+g38
 sa(dp579
 g6
 VWhy not?
@@ -2104,13 +2104,13 @@ sg10
 VBARTLET
 p581
 sg12
-g9
+g38
 sa(dp582
 g6
 VWell, there's no moon tonight. It's tough for them to see under the plane, but they're still trying.
 p583
 sg8
-g46
+g38
 sg10
 VWEISKOPF
 p584
@@ -2137,7 +2137,7 @@ sg10
 VWEISKOPF
 p590
 sg12
-g9
+g33
 sa(dp591
 g6
 VHow close do we fly to the tower?
@@ -2187,7 +2187,7 @@ g6
 VAnd we just can't stay up here for a couple of days and wait till there's a moon?
 p604
 sg8
-g46
+g38
 sg10
 VBARTLET
 p605
@@ -2198,7 +2198,7 @@ g6
 VWe'll let the boys next door in the Falcon poke around a little bit first, but I want to tell you.
 p607
 sg8
-g46
+g38
 sg10
 VWEISKOPF
 p608
@@ -2357,7 +2357,7 @@ sg10
 VC.J.
 p650
 sg12
-g46
+g9
 sa(dp651
 g6
 VWell, instead of an F-16 coming up next to us, a KC-10 is going to, well, land on top of us. They know how to do it.
@@ -2401,7 +2401,7 @@ sg10
 VMARGARET
 p662
 sg12
-g9
+g38
 sa(dp663
 g6
 VTheoretically, they can keep getting refueled for months.
@@ -2423,7 +2423,7 @@ sg10
 VMARGARET
 p668
 sg12
-g9
+g38
 sa(dp669
 g6
 VMe, neither. The Falcon's going to give them a thumb's up, or thumb's down.
@@ -2445,7 +2445,7 @@ sg10
 VMARGARET
 p674
 sg12
-g9
+g38
 sa(dp675
 g6
 VYou guys shouldn't be talking about it out there, all right?
@@ -2467,7 +2467,7 @@ sg10
 VJOSH
 p680
 sg12
-g9
+g38
 sa(dp681
 g6
 VYou had a conversation with Simmel and Segal a little while ago?
@@ -2478,7 +2478,7 @@ sg10
 VLEO
 p683
 sg12
-g46
+g9
 sa(dp684
 g6
 VAbout the Chesapeake cleanup.
@@ -2500,18 +2500,18 @@ sg10
 VLEO
 p689
 sg12
-g9
+g38
 sa(dp690
 g6
 VHe didn't storm the gate.
 p691
 sg8
-g46
+g38
 sg10
 VJOSH
 p692
 sg12
-g9
+g38
 sa(dp693
 g6
 VWell, they would have preferred he had, to your opening it for him.
@@ -2528,7 +2528,7 @@ g6
 VI get the House is angry we didn't take back the House, and setting aside the fact it was their damn fault and not ours-- stopping all bipartisan legislation is like saying, "Let's blow up the place. Maybe voters will hire us to rebuild it."
 p697
 sg8
-g46
+g38
 sg10
 VJOSH
 p698
@@ -2539,7 +2539,7 @@ g6
 VI'm with you, but I need you guys to make a small change to Chesapeake.
 p700
 sg8
-g46
+g38
 sg10
 VLEO
 p701
@@ -2561,7 +2561,7 @@ g6
 VThe caucus chair and the D-triple-C want to add revenue enhancement-- a dedicated levy from local businesses-- and they want binding targets on all the nonpoint source stuff.
 p706
 sg8
-g46
+g38
 sg10
 VLEO
 p707
@@ -2572,7 +2572,7 @@ g6
 VOkay. That's about three different ways of saying a brand-new tax on local business.
 p709
 sg8
-g46
+g38
 sg10
 VJOSH
 p710
@@ -2665,7 +2665,7 @@ sg10
 VTOBY
 p734
 sg12
-g9
+g38
 sa(dp735
 g6
 VThank you.
@@ -2682,7 +2682,7 @@ g6
 VCongressman, I'm afraid I have some bad news. One of your constituents died today. Gunnery Sergeant Harold Dokes from Bedford Stuyvesant. It was a friendly fire accident. Five guys reported fire, and a computer popped their coordinates. And their bodies are being flown here now.
 p739
 sg8
-g46
+g38
 sg10
 VTOBY
 p740
@@ -2693,7 +2693,7 @@ g6
 VYour speech at the Brookings Institution tomorrow. Congressman, are you opposing intervention in Kuhndu because so far, it's the black kids who are doing the dying?
 p742
 sg8
-g46
+g38
 sg10
 VTOBY
 p743
@@ -2715,7 +2715,7 @@ g6
 VYeah, but the fact that this is immediate. I mean to say, the mass slaughter of tens of thousands of Africans-- mostly young men-- which calls for...
 p748
 sg8
-g46
+g38
 sg10
 VTOBY
 p749
@@ -2726,7 +2726,7 @@ g6
 VI understand what it... You ever been to a maximum-security prison?
 p751
 sg8
-g46
+g38
 sg10
 VRICHARDSON
 p752
@@ -2748,7 +2748,7 @@ g6
 VIt's the black kids who are doing the dying there, too.
 p757
 sg8
-g46
+g38
 sg10
 VRICHARDSON
 p758
@@ -2775,7 +2775,7 @@ sg10
 VRICHARDSON
 p764
 sg12
-g9
+g38
 sa(dp765
 g6
 VBut you agree there ar moral imperatives?
@@ -2786,7 +2786,7 @@ sg10
 VTOBY
 p767
 sg12
-g9
+g33
 sa(dp768
 g6
 VWell, if there are moral imperatives, then you've got to tell me we are going to get everybody. Beginning with the Saudis.
@@ -2869,7 +2869,7 @@ g6
 VYou want to draft a million middle-class kids out of spite?
 p790
 sg8
-g46
+g38
 sg10
 VTOBY
 p791
@@ -2885,7 +2885,7 @@ sg10
 VRICHARDSON
 p794
 sg12
-g9
+g38
 sa(dp795
 g6
 VYes, sir?
@@ -2929,7 +2929,7 @@ sg10
 VRICHARDSON
 p806
 sg12
-g9
+g33
 sa(dp807
 g6
 VThank you.
@@ -2946,7 +2946,7 @@ g6
 VYou know what gripes my ass?
 p811
 sg8
-g46
+g38
 sg10
 VDONNA
 p812
@@ -2962,7 +2962,7 @@ sg10
 VDONNA
 p815
 sg12
-g33
+g9
 sa(dp816
 g6
 VGood.
@@ -2973,13 +2973,13 @@ sg10
 VJOSH
 p818
 sg12
-g9
+g33
 sa(dp819
 g6
 VIf anything ever happened to me, chances are going to be when I'm sitting next to you, and I'm going to be an also-dead. "Senoir Bartlet advisor Joshua Lyman killed by a pack of wild dogs. Also dead, Diane Moss."
 p820
 sg8
-g46
+g38
 sg10
 VDONNA
 p821
@@ -3050,7 +3050,7 @@ sg10
 VDONNA
 p839
 sg12
-g46
+g38
 sa(dp840
 g6
 VHow come you go out with so many Republicans?
@@ -3072,7 +3072,7 @@ sg10
 VDONNA
 p845
 sg12
-g9
+g38
 sa(dp846
 g6
 VYou do. Cliff, Commander Wonderful, Dr. Freeride.
@@ -3182,7 +3182,7 @@ sg10
 VMARGARET
 p875
 sg12
-g9
+g38
 sa(dp876
 g6
 VOn the runway?
@@ -3210,7 +3210,7 @@ g6
 VIt's flame retardant. They're worried about fire.
 p883
 sg8
-g46
+g38
 sg10
 VLEO
 p884
@@ -3248,7 +3248,7 @@ sg10
 VLEO
 p893
 sg12
-g9
+g38
 sa(dp894
 g6
 VNo.
@@ -3325,7 +3325,7 @@ sg10
 VTOBY
 p914
 sg12
-g9
+g33
 sa(dp915
 g6
 VPlus that.
@@ -3336,7 +3336,7 @@ sg10
 VLEO
 p917
 sg12
-g9
+g33
 sa(dp918
 g6
 VWhat if we said we'd allow debate?
@@ -3457,7 +3457,7 @@ sg10
 VBARTLET
 p950
 sg12
-g9
+g33
 sa(dp951
 g6
 VUsually, they don't report it.
@@ -3468,7 +3468,7 @@ sg10
 VWILL
 p953
 sg12
-g46
+g9
 sa(dp954
 g6
 VWhat they spend it on? If you tell me coccaine...
@@ -3490,7 +3490,7 @@ sg10
 VWILL
 p959
 sg12
-g9
+g33
 sa(dp960
 g6
 VSo, I recertify them in recognition of the fact that they took our anti-drug money and went to Seaworld.
@@ -3512,13 +3512,13 @@ sg10
 VWILL
 p965
 sg12
-g9
+g38
 sa(dp966
 g6
 VAll right, leave that stuff with me.
 p967
 sg8
-g46
+g38
 sg10
 VBARTLET
 p968
@@ -3534,7 +3534,7 @@ sg10
 VWILL
 p971
 sg12
-g33
+g9
 sa(dp972
 g6
 VYou want one?
@@ -3567,7 +3567,7 @@ sg10
 VCHARLIE
 p980
 sg12
-g9
+g33
 sa(dp981
 g6
 VNo, thanks. [sits down]
@@ -3578,7 +3578,7 @@ sg10
 VWILL
 p983
 sg12
-g9
+g38
 sa(dp984
 g6
 VIt's going to be fine.
@@ -3622,7 +3622,7 @@ sg10
 VWILL
 p995
 sg12
-g9
+g38
 sa(dp996
 g6
 VI can tell.
@@ -3633,7 +3633,7 @@ sg10
 VCHARLIE
 p998
 sg12
-g9
+g38
 sa(dp999
 g6
 VFour hours of fuel they took on. Did you even know it was up there?
@@ -3644,7 +3644,7 @@ sg10
 VC.J.
 p1001
 sg12
-g9
+g38
 sa(dp1002
 g6
 VWill's afraid of flying.
@@ -3666,7 +3666,7 @@ sg10
 VWILL
 p1007
 sg12
-g9
+g38
 sa(dp1008
 g6
 VIt's okay. You're afraid of flying.
@@ -3743,7 +3743,7 @@ sg10
 VJOSH
 p1028
 sg12
-g9
+g38
 sa(dp1029
 g6
 VCan't use another runway?
@@ -3765,7 +3765,7 @@ sg10
 VJOSH
 p1034
 sg12
-g9
+g38
 sa(dp1035
 g6
 VWhat about landing at Dulles?
@@ -3815,7 +3815,7 @@ g6
 VA tax on local business.
 p1048
 sg8
-g46
+g38
 sg10
 VLANDIS
 p1049
@@ -3826,18 +3826,18 @@ g6
 VA dedicated levy.
 p1051
 sg8
-g46
+g38
 sg10
 VJOSH
 p1052
 sg12
-g9
+g38
 sa(dp1053
 g6
 VThat's a tax.
 p1054
 sg8
-g46
+g38
 sg10
 VLANDIS
 p1055
@@ -3881,12 +3881,12 @@ g6
 VThe Democratic Congressional Campaign Committee wants a dedicated levy?
 p1066
 sg8
-g46
+g38
 sg10
 VLANDIS
 p1067
 sg12
-g9
+g38
 sa(dp1068
 g6
 VWe can find more offsets. There's a way to do this.
@@ -3914,7 +3914,7 @@ g6
 VOf course we want to... Whatever Republican votes we may lose, we're going to make up on the other side.
 p1075
 sg8
-g46
+g38
 sg10
 VJOSH
 p1076
@@ -3941,7 +3941,7 @@ sg10
 VDONNA
 p1082
 sg12
-g9
+g38
 sa(dp1083
 g6
 VYes, it will. Now you got to stay here. You got to find more offsets and more ways to bury them.
@@ -4040,7 +4040,7 @@ sg10
 VJOSH
 p1109
 sg12
-g9
+g38
 sa(dp1110
 g6
 VAnyway, C.J.'s going to be answering questions about maintenance procedures, and she's going to need to be briefed.
@@ -4057,7 +4057,7 @@ g6
 VWhy didn't I know that Airlift Ops calls the plane "Angel"?
 p1114
 sg8
-g46
+g38
 sg10
 VJOSH
 p1115
@@ -4095,7 +4095,7 @@ sg10
 VDONNA
 p1124
 sg12
-g9
+g38
 sa(dp1125
 g6
 VYeah.
@@ -4156,7 +4156,7 @@ g6
 VMake these phone calls for Josh, please.
 p1141
 sg8
-g46
+g38
 sg10
 VDONNA
 p1142
@@ -4194,7 +4194,7 @@ sg10
 VBARTLET
 p1151
 sg12
-g9
+g33
 sa(dp1152
 g6
 VNo, sir, they're unable to get a visual read. We're going to go ahead with the fly-by at Andrews.
@@ -4414,7 +4414,7 @@ sg10
 VBARTLET
 p1211
 sg12
-g9
+g38
 sa(dp1212
 g6
 VReally?
@@ -4436,7 +4436,7 @@ sg10
 VBARTLET
 p1217
 sg12
-g9
+g38
 sa(dp1218
 g6
 VYes, sir.
@@ -4502,7 +4502,7 @@ sg10
 VC.J.
 p1235
 sg12
-g46
+g38
 sa(dp1236
 g6
 VIsn't it also a national issue for everyone down there?
@@ -4519,7 +4519,7 @@ g6
 VSomebody ask Steve what time it is. It's going to crack you up.
 p1240
 sg8
-g46
+g38
 sg10
 VC.J.
 p1241
@@ -4541,7 +4541,7 @@ g6
 VHow is it a threat to anyone on the ground?
 p1246
 sg8
-g46
+g38
 sg10
 VC.J.
 p1247
@@ -4557,7 +4557,7 @@ sg10
 VSTEVE
 p1250
 sg12
-g9
+g38
 sa(dp1251
 g6
 VSteve...
@@ -4590,13 +4590,13 @@ sg10
 VC.J.
 p1259
 sg12
-g9
+g33
 sa(dp1260
 g6
 VIf the malfunction's because of a leak in the hydraulics and they try to recycle the wheel, the front end of the plane's going to blow up.
 p1261
 sg8
-g46
+g38
 sg10
 VMARK
 p1262
@@ -4667,7 +4667,7 @@ sg10
 VLEO
 p1280
 sg12
-g46
+g38
 sa(dp1281
 g6
 VBudget didn't have anything Mark wants. He can call OMB himself. Leo, let's say we study...
@@ -4706,23 +4706,23 @@ g6
 VWe'll look ridiculous.
 p1291
 sg8
-g46
+g38
 sg10
 VLEO
 p1292
 sg12
-g9
+g38
 sa(dp1293
 g6
 VIt's not ridiculous.
 p1294
 sg8
-g46
+g38
 sg10
 VTOBY
 p1295
 sg12
-g9
+g38
 sa(dp1296
 g6
 VIt's a stunt.
@@ -4838,7 +4838,7 @@ g6
 VIt was a computer error, Toby.
 p1327
 sg8
-g46
+g38
 sg10
 VLEO
 p1328
@@ -4854,7 +4854,7 @@ sg10
 VTOBY
 p1331
 sg12
-g9
+g38
 sa(dp1332
 g6
 VFind out what "considering the amendment" has to look like in order for the Black Caucus to stay onboard.
@@ -4898,7 +4898,7 @@ sg10
 VBARTLET
 p1343
 sg12
-g9
+g38
 sa(dp1344
 g6
 VYes. Now, the State Department feels that the President's credibility with his own legislature is based on his close ties with the U.S., and that would obviously be significantly damaged.
@@ -4926,7 +4926,7 @@ g6
 VAnd they also ask that I remind you that his opponent in the last election, Garcia Larco, took campaign cash from the cartels, and if we weaken the President, we could get a reactionary in the next election.
 p1351
 sg8
-g46
+g38
 sg10
 VWILL
 p1352
@@ -4964,7 +4964,7 @@ sg10
 VBARTLET
 p1361
 sg12
-g9
+g38
 sa(dp1362
 g6
 VCan't not recertify them. They're going to be automatically recertified.
@@ -5030,7 +5030,7 @@ sg10
 VBARTLET
 p1379
 sg12
-g9
+g38
 sa(dp1380
 g6
 VWell, it's how recertification works, I'm afraid, sir, so...
@@ -5041,7 +5041,7 @@ sg10
 VWILL
 p1382
 sg12
-g9
+g38
 sa(dp1383
 g6
 VI want this plane to land!
@@ -5063,7 +5063,7 @@ sg10
 VWILL
 p1388
 sg12
-g9
+g33
 sa(dp1389
 g6
 VAll right, thanks.
@@ -5085,7 +5085,7 @@ sg10
 VWILL
 p1394
 sg12
-g33
+g9
 sa(dp1395
 g6
 VYou wanted to see me?
@@ -5168,7 +5168,7 @@ g6
 VWell, look, they weren't wild about it in the first place.
 p1417
 sg8
-g46
+g38
 sg10
 VLEO
 p1418
@@ -5195,7 +5195,7 @@ sg10
 VLEO
 p1424
 sg12
-g33
+g9
 sa(dp1425
 g6
 VDid those two idiots let the Republicans on the Committee know? They were already pissed at him.
@@ -5234,7 +5234,7 @@ g6
 VWe got the peacekeeping appropriation next week. I don't want to get in to it over $18 million for Chesapeake Bay.
 p1435
 sg8
-g46
+g38
 sg10
 VLEO
 p1436
@@ -5256,7 +5256,7 @@ g6
 VWell, one way or another, I think we're going to lose Landis.
 p1441
 sg8
-g46
+g38
 sg10
 VLEO
 p1442
@@ -5305,7 +5305,7 @@ sg10
 VDONNA
 p1454
 sg12
-g46
+g38
 sa(dp1455
 g6
 VI just needed Leo for a second.
@@ -5349,7 +5349,7 @@ sg10
 VDONNA
 p1466
 sg12
-g9
+g33
 sa(dp1467
 g6
 VWhy?
@@ -5393,7 +5393,7 @@ sg10
 VDONNA
 p1478
 sg12
-g9
+g38
 sa(dp1479
 g6
 VOkay.
@@ -5454,7 +5454,7 @@ g6
 VWhat? The Democrats want a tax on clams?
 p1495
 sg8
-g46
+g38
 sg10
 VLANDIS
 p1496
@@ -5580,7 +5580,7 @@ sg10
 VJOSH
 p1529
 sg12
-g9
+g38
 sa(dp1530
 g6
 VYou know, a friend of mine's a comedian, and he was doing a standup here in town. A bunch of people from the German consulate came down to see him, and they came backstage afterwards, and they said to him, "How come we don't have anyone as funny as you back home?" And my friend said, "Because you killed them all."
@@ -5602,7 +5602,7 @@ sg10
 VJOSH
 p1535
 sg12
-g9
+g38
 sa(dp1536
 g6
 VMaybe.
@@ -5624,7 +5624,7 @@ sg10
 VJOSH
 p1541
 sg12
-g9
+g33
 sa(dp1542
 g6
 VYou should really come to Chesapeake Bay. It's incredibly beautiful.
@@ -5734,7 +5734,7 @@ sg10
 VRICHARDSON
 p1571
 sg12
-g9
+g38
 sa(dp1572
 g6
 VActually, the money ended up coming in handier than the soldiers.
@@ -5778,7 +5778,7 @@ sg10
 VRICHARDSON
 p1583
 sg12
-g9
+g38
 sa(dp1584
 g6
 V125. It was the last six months of the draft. It went up to 90 that year... but I didn't have the 300 bucks.
@@ -5855,7 +5855,7 @@ sg10
 VLARRY
 p1604
 sg12
-g9
+g38
 sa(dp1605
 g6
 VWhat?
@@ -5877,7 +5877,7 @@ sg10
 VLARRY
 p1610
 sg12
-g9
+g33
 sa(dp1611
 g6
 VThey recycled the gear, and the light went on this time. We're landing.
@@ -5921,7 +5921,7 @@ sg10
 VC.J.
 p1622
 sg12
-g9
+g38
 sa(dp1623
 g6
 VThank you, C.J.
@@ -6020,7 +6020,7 @@ sg10
 VC.J.
 p1649
 sg12
-g9
+g38
 sa(dp1650
 g6
 VI was meaning to ask you. Why did you ask about the front wheel before? You asked the Colonel if it was the front wheel.
@@ -6037,7 +6037,7 @@ g6
 VWell, if you have the rear wheels, you can try a hard landing where you come down hard on the back wheels in an effort whack the front into place.
 p1654
 sg8
-g46
+g38
 sg10
 VWILL
 p1655
@@ -6048,7 +6048,7 @@ g6
 VTo whack it into place?
 p1657
 sg8
-g46
+g38
 sg10
 VC.J.
 p1658
@@ -6075,13 +6075,13 @@ sg10
 VC.J.
 p1664
 sg12
-g46
+g38
 sa(dp1665
 g6
 VIf you hit it wrong, the plane breaks in half.
 p1666
 sg8
-g46
+g38
 sg10
 VWILL
 p1667
@@ -6097,7 +6097,7 @@ sg10
 VC.J.
 p1670
 sg12
-g9
+g38
 sa(dp1671
 g6
 VThe gear?
@@ -6108,7 +6108,7 @@ sg10
 VWILL
 p1673
 sg12
-g9
+g33
 sa(dp1674
 g6
 VYeah.
@@ -6158,12 +6158,12 @@ g6
 VI imagine myself destitute, I imagine myself unlucky in love. But I never imagine my life would be in danger with really uncommon frequency. It feels a little bit good, doesn't it?
 p1687
 sg8
-g46
+g38
 sg10
 VC.J.
 p1688
 sg12
-g9
+g38
 sa(dp1689
 g6
 VNo.
@@ -6196,5 +6196,5 @@ sg10
 VWILL
 p1697
 sg12
-g46
+g9
 sas.

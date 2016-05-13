@@ -34,141 +34,141 @@ sg10
 VRUSSO
 p15
 sg12
-g9
-sa(dp16
+S'positive'
+p16
+sa(dp17
 g6
 VIt's a container ship, Horizon. We're holding them a mile out. They started from the Fujian Province.
-p17
+p18
 sg8
 g9
 sg10
 VCALE
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VHow many?
-p20
+p21
 sg8
 g9
 sg10
 VRUSSO
-p21
+p22
 sg12
 g9
-sa(dp22
+sa(dp23
 g6
 VAbout a hundred.
-p23
+p24
 sg8
 g9
 sg10
 VCALE
-p24
+p25
 sg12
 g9
-sa(dp25
+sa(dp26
 g6
 VDid you call the State Department?
-p26
+p27
 sg8
 g9
 sg10
 VRUSSO
-p27
+p28
 sg12
 g9
-sa(dp28
+sa(dp29
 g6
 VYeah. We're gonna need some translators who speak Mandarin.
-p29
+p30
 sg8
 g9
 sg10
 VCALE
-p30
+p31
 sg12
 g9
-sa(dp31
+sa(dp32
 g6
 VWe got 'em.
-p32
+p33
 sg8
 g9
 sg10
 VRUSSO
-p33
+p34
 sg12
 g9
-sa(dp34
+sa(dp35
 g6
 VAre we talking about expedited removal, or...?
-p35
+p36
 sg8
 S'negative'
-p36
+p37
 sg10
 VCALE
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VI'm sorry?
-p39
+p40
 sg8
 g9
 sg10
 VRUSSO
-p40
+p41
 sg12
-g9
-sa(dp41
+g37
+sa(dp42
 g6
 VAre we talking about expedited removal?
-p42
+p43
 sg8
-g36
+g37
 sg10
 VCALE
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VThat's not up to me.
-p45
+p46
 sg8
 g9
 sg10
 VRUSSO
-p46
+p47
 sg12
-g9
-sa(dp47
+g37
+sa(dp48
 g6
 VSam...
-p48
+p49
 sg8
 g9
 sg10
 VTOBY
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VIt'd be good.
-p51
-sg8
-S'positive'
 p52
+sg8
+g16
 sg10
 VSAM
 p53
 sg12
-g9
+g37
 sa(dp54
 g6
 VRead the thing.
@@ -185,7 +185,7 @@ g6
 VBy day, they churn butter and worship according to their own beliefs and by night, they solve crimes.
 p58
 sg8
-g52
+g16
 sg10
 VSAM
 p59
@@ -218,18 +218,18 @@ g6
 VDo you see me laughing?
 p67
 sg8
-g52
+g16
 sg10
 VTOBY
 p68
 sg12
-g52
+g9
 sa(dp69
 g6
 VI think you're laughing on the inside.
 p70
 sg8
-g52
+g16
 sg10
 VSAM
 p71
@@ -262,7 +262,7 @@ g6
 VGive me the speech.
 p79
 sg8
-g52
+g16
 sg10
 VTOBY
 p80
@@ -295,7 +295,7 @@ g6
 VI may have gotten the name wrong. They're inviting the White House to participate in some kind of... I don't know, Thanksgiving Revolutionary War re-enactment.
 p88
 sg8
-g52
+g16
 sg10
 VC.J.
 p89
@@ -306,7 +306,7 @@ g6
 VC.J., let's not torture American History completely to death.
 p91
 sg8
-g36
+g37
 sg10
 VTOBY
 p92
@@ -317,7 +317,7 @@ g6
 VWho the hell are...?
 p94
 sg8
-g36
+g37
 sg10
 VC.J.
 p95
@@ -328,7 +328,7 @@ g6
 VJamestown was the 16th century. The Mayflower landed at Plymouth in the 17th century. The Fathers of the Daughters of the American Revolution fought in...?
 p97
 sg8
-g52
+g16
 sg10
 VTOBY
 p98
@@ -350,7 +350,7 @@ g6
 VIt's a festival feast of some kind! Who cares?
 p103
 sg8
-g52
+g16
 sg10
 VC.J.
 p104
@@ -361,7 +361,7 @@ g6
 V[to Toby] Somebody needs to learn the true meaning of Thanksgiving.
 p106
 sg8
-g52
+g16
 sg10
 VSAM
 p107
@@ -372,29 +372,29 @@ g6
 VRe-enactments and proclamations and Native American cornhusks hanging contests with native...
 p109
 sg8
-g36
+g37
 sg10
 VC.J.
 p110
 sg12
-g9
+g16
 sa(dp111
 g6
 VCornhusks hanging?
 p112
 sg8
-g36
+g37
 sg10
 VTOBY
 p113
 sg12
-g9
+g37
 sa(dp114
 g6
 VWhatever. I'm the Thanksgiving cruise director around here.
 p115
 sg8
-g52
+g16
 sg10
 VC.J.
 p116
@@ -410,7 +410,7 @@ sg10
 VSAM
 p119
 sg12
-g9
+g37
 sa(dp120
 g6
 VI wasn't here last year.
@@ -421,7 +421,7 @@ sg10
 VC.J.
 p122
 sg12
-g9
+g37
 sa(dp123
 g6
 VWhere were you last year?
@@ -460,7 +460,7 @@ g6
 VThat's 'cause every time we come up on a holiday, you guys check out like seniors who are done with finals.
 p133
 sg8
-g52
+g16
 sg10
 VC.J.
 p134
@@ -471,12 +471,12 @@ g6
 VWe are writing a very important Thanksgiving proclamation.
 p136
 sg8
-g52
+g16
 sg10
 VTOBY
 p137
 sg12
-g9
+g37
 sa(dp138
 g6
 VAnd possibly a new action-adventure series.
@@ -487,7 +487,7 @@ sg10
 VSAM
 p140
 sg12
-g52
+g16
 sa(dp141
 g6
 VNobody here has checked out.
@@ -498,13 +498,13 @@ sg10
 VTOBY
 p143
 sg12
-g9
+g37
 sa(dp144
 g6
 V[walks up] Hey, I was just flipping a nickel in my office. Sixteen times in a row, it came out tails.
 p145
 sg8
-g36
+g37
 sg10
 VJOSH
 p146
@@ -520,13 +520,13 @@ sg10
 VC.J.
 p149
 sg12
-g9
+g37
 sa(dp150
 g6
 VHave a good night.
 p151
 sg8
-g52
+g16
 sg10
 VTOBY
 p152
@@ -548,7 +548,7 @@ g6
 VSixteen times in a row. [flips his nickel again] Yeah.
 p157
 sg8
-g36
+g37
 sg10
 VJOSH
 p158
@@ -608,7 +608,7 @@ sg10
 VDONNA
 p173
 sg12
-g9
+g37
 sa(dp174
 g6
 VI'm dropping off the turkeys.
@@ -619,7 +619,7 @@ sg10
 VMORTON
 p176
 sg12
-g9
+g37
 sa(dp177
 g6
 VYeah.
@@ -685,7 +685,7 @@ sg10
 VTOBY
 p194
 sg12
-g9
+g37
 sa(dp195
 g6
 VC.J. Cregg's office.
@@ -740,7 +740,7 @@ sg10
 VTOBY
 p209
 sg12
-g9
+g16
 sa(dp210
 g6
 V...birds.
@@ -916,7 +916,7 @@ sg10
 VBONNIE
 p257
 sg12
-g9
+g37
 sa(dp258
 g6
 V[into phone] Josh Lyman.
@@ -977,7 +977,7 @@ g6
 VThey came over with the 83 lives ones. INS has them in a temporary detention facility by the water.
 p274
 sg8
-g36
+g37
 sg10
 VJOSH
 p275
@@ -999,12 +999,12 @@ g6
 V[gets up to leave] You doing anything for Thanksgiving?
 p280
 sg8
-g36
+g37
 sg10
 VJOSH
 p281
 sg12
-g9
+g37
 sa(dp282
 g6
 VThe First Family. What about you?
@@ -1021,12 +1021,12 @@ g6
 VToby and Sam and I are gonna watch football.
 p286
 sg8
-g52
+g16
 sg10
 VJOSH
 p287
 sg12
-g9
+g16
 sa(dp288
 g6
 VBrief C.J. on the Chinese.
@@ -1043,7 +1043,7 @@ g6
 VYeah. Leo, do me a favor, would you? Don't tell the President we're just watching football. He'll want to invite us for dinner.
 p292
 sg8
-g52
+g16
 sg10
 VJOSH
 p293
@@ -1054,7 +1054,7 @@ g6
 VWell yes, I'm sure upon hearing the news that you're free the President of the United States will insist that you join him for dinner.
 p295
 sg8
-g52
+g16
 sg10
 VLEO
 p296
@@ -1065,7 +1065,7 @@ g6
 VI'm just saying, we've been working hard and we'd prefer to watch football rather than listen to a history of the yam in Latin.
 p298
 sg8
-g52
+g16
 sg10
 VJOSH
 p299
@@ -1158,13 +1158,13 @@ sg10
 VC.J.
 p323
 sg12
-g36
+g9
 sa(dp324
 g6
 VI don't have more than that, but I will in a few minutes, so stay out of the pressroom until you talk to me.
 p325
 sg8
-g52
+g16
 sg10
 VJOSH
 p326
@@ -1186,7 +1186,7 @@ g6
 VToby wants to talk to you about adding a name.
 p331
 sg8
-g52
+g16
 sg10
 VJOSH
 p332
@@ -1246,13 +1246,13 @@ sg10
 VC.J.
 p347
 sg12
-g36
+g9
 sa(dp348
 g6
 VThis is Toby sniffing around for a fight on school prayer.
 p349
 sg8
-g36
+g37
 sg10
 VJOSH
 p350
@@ -1268,13 +1268,13 @@ sg10
 VC.J.
 p353
 sg12
-g52
+g16
 sa(dp354
 g6
 VWell, I'm gonna see what's next for me in this week of unendurable Thanksgiving nonsense.
 p355
 sg8
-g36
+g37
 sg10
 VC.J.
 p356
@@ -1323,18 +1323,18 @@ sg10
 VCAROL
 p368
 sg12
-g9
+g16
 sa(dp369
 g6
 VWait, wait, wait, wait, wait... I'm coming! [enters] I didn't know you were here yet.
 p370
 sg8
-g36
+g37
 sg10
 VDONNA
 p371
 sg12
-g9
+g37
 sa(dp372
 g6
 VI am.
@@ -1345,7 +1345,7 @@ sg10
 VC.J.
 p374
 sg12
-g9
+g37
 sa(dp375
 g6
 VThe turkeys came.
@@ -1378,7 +1378,7 @@ sg10
 VCAROL
 p383
 sg12
-g9
+g37
 sa(dp384
 g6
 VJosh and Toby and Sam said they should go in your office.
@@ -1400,7 +1400,7 @@ sg10
 VC.J.
 p389
 sg12
-g52
+g16
 sa(dp390
 g6
 VThese are the turkeys.
@@ -1411,7 +1411,7 @@ sg10
 VDONNA
 p392
 sg12
-g9
+g16
 sa(dp393
 g6
 VThe turkeys for what?
@@ -1450,12 +1450,12 @@ g6
 VOver Thanksgiving. You were sick.
 p403
 sg8
-g36
+g37
 sg10
 VDONNA
 p404
 sg12
-g9
+g37
 sa(dp405
 g6
 VYes.
@@ -1466,7 +1466,7 @@ sg10
 VC.J.
 p407
 sg12
-g52
+g16
 sa(dp408
 g6
 VEver year on Thanksgiving, the President pardons a turkey.
@@ -1477,7 +1477,7 @@ sg10
 VDONNA
 p410
 sg12
-g9
+g16
 sa(dp411
 g6
 VHe pardons a turkey.
@@ -1488,7 +1488,7 @@ sg10
 VC.J.
 p413
 sg12
-g9
+g16
 sa(dp414
 g6
 VYeah, and it's your event, so...
@@ -1499,7 +1499,7 @@ sg10
 VDONNA
 p416
 sg12
-g9
+g16
 sa(dp417
 g6
 VWhat, are there two?
@@ -1521,7 +1521,7 @@ sg10
 VDONNA
 p422
 sg12
-g9
+g37
 sa(dp423
 g6
 VWhy are there two turkeys?
@@ -1543,7 +1543,7 @@ sg10
 VDONNA
 p428
 sg12
-g9
+g16
 sa(dp429
 g6
 VNo.
@@ -1598,7 +1598,7 @@ sg10
 VC.J.
 p443
 sg12
-g9
+g16
 sa(dp444
 g6
 VYeah.
@@ -1615,7 +1615,7 @@ g6
 VAnd I'm to choose the more photogenic of the two to receive a Presidential pardon.
 p448
 sg8
-g52
+g16
 sg10
 VC.J.
 p449
@@ -1637,7 +1637,7 @@ g6
 VOkay, I have actually a Masters degree from the University of California at Berkeley.
 p454
 sg8
-g52
+g16
 sg10
 VC.J.
 p455
@@ -1648,12 +1648,12 @@ g6
 VThat's a good school.
 p457
 sg8
-g52
+g16
 sg10
 VDONNA
 p458
 sg12
-g9
+g16
 sa(dp459
 g6
 VYeah.
@@ -1670,7 +1670,7 @@ g6
 VThey eat grain or really whatever's lying around, and Troy doesn't like to be touched.
 p463
 sg8
-g36
+g37
 sg10
 VDONNA
 p464
@@ -1697,7 +1697,7 @@ sg10
 VDONNA
 p470
 sg12
-g9
+g37
 sa(dp471
 g6
 VHey!
@@ -1736,7 +1736,7 @@ g6
 VI'm shopping for a new carving knife for the President.
 p481
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p482
@@ -1752,7 +1752,7 @@ sg10
 VSAM
 p485
 sg12
-g9
+g16
 sa(dp486
 g6
 VYes, I've discovered.
@@ -1763,13 +1763,13 @@ sg10
 VCHARLIE
 p488
 sg12
-g52
+g16
 sa(dp489
 g6
 VWould you mind telling him I'm gonna need a few minutes to talk about the Chinese in San Diego? Something's going on.
 p490
 sg8
-g52
+g16
 sg10
 VSAM
 p491
@@ -1813,18 +1813,18 @@ g6
 VNope, this is a very good knife.
 p502
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p503
 sg12
-g36
+g16
 sa(dp504
 g6
 VThat's one word for it.
 p505
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p506
@@ -1857,7 +1857,7 @@ g6
 VI think you'll find this to your liking, Mr. President.
 p514
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p515
@@ -1873,7 +1873,7 @@ sg10
 VBARTLET
 p518
 sg12
-g9
+g16
 sa(dp519
 g6
 VExcellent.
@@ -1884,13 +1884,13 @@ sg10
 VCHARLIE
 p521
 sg12
-g9
+g16
 sa(dp522
 g6
 VChef's choice. Twice the amount of carbon, which means it'll hold a sharp edge up to ten times longer and you can see the handle which texturized molded polymer has no rivets or air pockets.
 p523
 sg8
-g52
+g16
 sg10
 VBARTLET
 p524
@@ -1901,7 +1901,7 @@ g6
 VWell, I'm glad you're happy, Mr. President.
 p526
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p527
@@ -1917,7 +1917,7 @@ sg10
 VBARTLET
 p530
 sg12
-g9
+g16
 sa(dp531
 g6
 VYes.
@@ -1928,7 +1928,7 @@ sg10
 VCHARLIE
 p533
 sg12
-g52
+g16
 sa(dp534
 g6
 VNo German knives for us.
@@ -1945,7 +1945,7 @@ g6
 VNo, sir.
 p538
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p539
@@ -1956,12 +1956,12 @@ g6
 VGood job.
 p541
 sg8
-g52
+g16
 sg10
 VBARTLET
 p542
 sg12
-g9
+g16
 sa(dp543
 g6
 VThank you, sir. [turns to leave]
@@ -1972,7 +1972,7 @@ sg10
 VCHARLIE
 p545
 sg12
-g9
+g37
 sa(dp546
 g6
 VHold on.
@@ -2000,23 +2000,23 @@ g6
 VNah... Nah. No, the balance isn't right.
 p553
 sg8
-g52
+g16
 sg10
 VBARTLET
 p554
 sg12
-g9
+g16
 sa(dp555
 g6
 V[sighs] I'll take it back, sir.
 p556
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p557
 sg12
-g52
+g9
 sa(dp558
 g6
 VYeah. You know what we need?
@@ -2055,7 +2055,7 @@ g6
 VI'll get on it. And Mr. President, Sam asked me to give you a heads up. He'll need a few minutes to talk about San Diego.
 p568
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p569
@@ -2104,7 +2104,7 @@ sg10
 VCHARLIE
 p581
 sg12
-g52
+g9
 sa(dp582
 g6
 VSir.
@@ -2132,12 +2132,12 @@ g6
 VYes sir.
 p589
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p590
 sg12
-g52
+g16
 sa(dp591
 g6
 V[to Toby] Josephine McGarry?
@@ -2154,7 +2154,7 @@ g6
 VShe's been put on a lot of short lists. Why not pull the trigger?
 p595
 sg8
-g52
+g16
 sg10
 VTOBY
 p596
@@ -2165,7 +2165,7 @@ g6
 VShe's a controversial woman.
 p598
 sg8
-g36
+g37
 sg10
 VBARTLET
 p599
@@ -2176,18 +2176,18 @@ g6
 VThat's not a flaw.
 p601
 sg8
-g36
+g37
 sg10
 VTOBY
 p602
 sg12
-g9
+g37
 sa(dp603
 g6
 VIt is when it's a recess appointment. A recess appointment assumes the Senate's gonna have no problem with the nominee. The Senate is going to have a considerable problem with this nominee.
 p604
 sg8
-g36
+g37
 sg10
 VBARTLET
 p605
@@ -2198,7 +2198,7 @@ g6
 VThat's the Senate's problem.
 p607
 sg8
-g36
+g37
 sg10
 VTOBY
 p608
@@ -2220,7 +2220,7 @@ g6
 VMr. President, you want to have a debate on school prayer?
 p613
 sg8
-g52
+g16
 sg10
 VTOBY
 p614
@@ -2236,7 +2236,7 @@ sg10
 VBARTLET
 p617
 sg12
-g52
+g16
 sa(dp618
 g6
 VThis'll do it.
@@ -2253,7 +2253,7 @@ g6
 VI got to say... look, I'm just... Toby, I'm not wild about the woman. I've known her for 25 years and I think she's all about Eve.
 p622
 sg8
-g36
+g37
 sg10
 VBARTLET
 p623
@@ -2280,13 +2280,13 @@ sg10
 VLEO
 p629
 sg12
-g9
+g16
 sa(dp630
 g6
 V[to Bartlet] You want to have a debate on school prayer?
 p631
 sg8
-g52
+g16
 sg10
 VTOBY
 p632
@@ -2363,7 +2363,7 @@ g6
 V[reading from his list] "James Alkins, Assistant Secretary of Transportation for Aviation; Leslie Krier, Assistant Secretary of Commerce for Ecological Development; Humberto CPO Department Administrator for the EPA..."
 p652
 sg8
-g52
+g16
 sg10
 VLEO
 p653
@@ -2423,7 +2423,7 @@ sg10
 VBARTLET
 p668
 sg12
-g9
+g16
 sa(dp669
 g6
 VDid my sister...?
@@ -2434,13 +2434,13 @@ sg10
 VLEO
 p671
 sg12
-g9
+g37
 sa(dp672
 g6
 VWe want the debate.
 p673
 sg8
-g52
+g16
 sg10
 VBARTLET
 p674
@@ -2506,12 +2506,12 @@ g6
 VNot patronate, yet she's qualified.
 p691
 sg8
-g52
+g16
 sg10
 VBARTLET
 p692
 sg12
-g52
+g16
 sa(dp693
 g6
 VSir...
@@ -2528,7 +2528,7 @@ g6
 VWhich she is. Ph.D. in education, six years as a principal, four years as superintendent and a significant Democrat!
 p697
 sg8
-g52
+g16
 sg10
 VTOBY
 p698
@@ -2544,7 +2544,7 @@ sg10
 VLEO
 p701
 sg12
-g36
+g16
 sa(dp702
 g6
 VNo kidding.
@@ -2561,7 +2561,7 @@ g6
 VMr. President, please don't hop on the back of Toby's horse, it'll take you to a fight we're not geared up for.
 p706
 sg8
-g36
+g37
 sg10
 VLEO
 p707
@@ -2599,13 +2599,13 @@ sg10
 VTOBY
 p716
 sg12
-g9
+g16
 sa(dp717
 g6
 VYou're damn right, you'll take the meetings and you'll start with aides to the Republican leadership and you'll gauge exactly the volume of dumbness with no reward we can expect!
 p718
 sg8
-g52
+g16
 sg10
 VLEO
 p719
@@ -2638,12 +2638,12 @@ g6
 VI'm very happy to.
 p727
 sg8
-g52
+g16
 sg10
 VTOBY
 p728
 sg12
-g52
+g37
 sa(dp729
 g6
 V[to Josh and Sam] Yeah?
@@ -2654,7 +2654,7 @@ sg10
 VBARTLET
 p731
 sg12
-g9
+g16
 sa(dp732
 g6
 VMr. President, there's a wrinkle in the situation in San Diego.
@@ -2704,12 +2704,12 @@ g6
 VThey're claiming they're Christian Evangelicals fleeing persecution.
 p745
 sg8
-g36
+g37
 sg10
 VSAM
 p746
 sg12
-g36
+g9
 sa(dp747
 g6
 VYou're kidding me.
@@ -2720,13 +2720,13 @@ sg10
 VBARTLET
 p749
 sg12
-g9
+g37
 sa(dp750
 g6
 VThey're seeking religious asylum.
 p751
 sg8
-g36
+g37
 sg10
 VJOSH
 p752
@@ -2781,7 +2781,7 @@ g6
 VWell, the INS conducts something called a 'credible fear interview.' This is not a hearing on whether or not to grant asylum, just a hearing to determine if the detainee has a credible fear that they'll be harmed if returned to their country.
 p766
 sg8
-g36
+g37
 sg10
 VC.J.
 p767
@@ -2803,7 +2803,7 @@ g6
 VWill the White House be meeting with leaders of the Christian community to hear their input?
 p772
 sg8
-g52
+g16
 sg10
 VSTEVE
 p773
@@ -2814,7 +2814,7 @@ g6
 VYes, we will. On the following days, we will be meeting with Reverend Al Caldwell, members of Beijing's Embassy and INS agents. The president has asked Josh Lyman and Sam Seaborn to run these meetings so it's entirely possible that by week's end we'll have alienated Christians, China and our own government.
 p775
 sg8
-g36
+g37
 sg10
 VC.J.
 p776
@@ -2825,7 +2825,7 @@ g6
 VThat's all I have on the refugees. I was going to release the list of recess appointments, but I'm going to wait a day.  I can tell you the list has been sent to appropriate committee chairs and I imagine one of them will leak it to you some time this afternoon.
 p778
 sg8
-g36
+g37
 sg10
 VC.J.
 p779
@@ -2836,7 +2836,7 @@ g6
 VI'll also remind you that it's Thanksgiving week, which means the traditional presidential pardon...you know...of the chosen turkey. That will be Wednesday afternoon. Thursday morning, the president will make his Thanksgiving proclamation in the Rose Garden. Among the guests will be members of the Boys and Girls Clubs of America and members of the Big Brothers and Big Sisters of America.
 p781
 sg8
-g52
+g16
 sg10
 VC.J.
 p782
@@ -2863,7 +2863,7 @@ sg10
 VC.J.
 p788
 sg12
-g9
+g37
 sa(dp789
 g6
 VThe press secretary usually leads the kids in song.
@@ -2896,18 +2896,18 @@ sg10
 VC.J.
 p797
 sg12
-g52
+g16
 sa(dp798
 g6
 VI've got to learn some songs.
 p799
 sg8
-g52
+g16
 sg10
 VC.J.
 p800
 sg12
-g9
+g16
 sa(dp801
 g6
 VDon't bring it up at the meeting.
@@ -2962,7 +2962,7 @@ sg10
 VJOSH
 p815
 sg12
-g52
+g16
 sa(dp816
 g6
 VA theatre with people in it.
@@ -2984,18 +2984,18 @@ sg10
 VJOSH
 p821
 sg12
-g52
+g16
 sa(dp822
 g6
 VBut sending illegal Chinese immigrants back to China is objectionable.
 p823
 sg8
-g36
+g37
 sg10
 VSAM
 p824
 sg12
-g36
+g9
 sa(dp825
 g6
 VDon't bring it up at the meeting.
@@ -3012,12 +3012,12 @@ g6
 VIt might slip out.
 p829
 sg8
-g36
+g37
 sg10
 VSAM
 p830
 sg12
-g9
+g37
 sa(dp831
 g6
 VShove it back in.
@@ -3050,7 +3050,7 @@ sg10
 VJOSH
 p839
 sg12
-g9
+g16
 sa(dp840
 g6
 VGood morning, Josh, Sam.
@@ -3061,18 +3061,18 @@ sg10
 VCALDWELL
 p842
 sg12
-g9
+g16
 sa(dp843
 g6
 VGood morning, reverend.
 p844
 sg8
-g52
+g16
 sg10
 VSAM
 p845
 sg12
-g9
+g16
 sa(dp846
 g6
 VGood morning everyone. Welcome. Good morning, Mary.
@@ -3083,35 +3083,35 @@ sg10
 VJOSH
 p848
 sg12
-g9
+g16
 sa(dp849
 g6
 VOkay, we're done with good morning.
 p850
 sg8
-g52
+g16
 sg10
 VJOSH
 p851
 sg12
-g9
+g16
 sa(dp852
 g6
 VThe president doesn't grant asylum requests. The INS judge does.
 p853
 sg8
-g52
+g16
 sg10
 VJOSH
 p854
 sg12
-g9
+g37
 sa(dp855
 g6
 VMary, I swear to God, you are not going to get anywhere in this building threatening me.
 p856
 sg8
-g52
+g16
 sg10
 VJOSH
 p857
@@ -3138,7 +3138,7 @@ sg10
 VCALDWELL
 p863
 sg12
-g9
+g37
 sa(dp864
 g6
 VDo we know they were persecuted?
@@ -3171,13 +3171,13 @@ sg10
 VJOSH
 p872
 sg12
-g52
+g9
 sa(dp873
 g6
 VThe leaders of the Funjchek church were thrown into labor camps. Last August, three Taiwanese-born evangelicals were arrested in Henan province...
 p874
 sg8
-g52
+g16
 sg10
 VCALDWELL
 p875
@@ -3188,7 +3188,7 @@ g6
 VIn other words, for spreading the gospel, 100 of their followers were detained and one woman was beaten by the police.
 p877
 sg8
-g52
+g16
 sg10
 VCALDWELL
 p878
@@ -3199,7 +3199,7 @@ g6
 VAn 82-year-old bishop was released after 30 years in prison and then arrested again. An 84-year-old bishop was tortured until he passed out.
 p880
 sg8
-g36
+g37
 sg10
 VCALDWELL
 p881
@@ -3215,7 +3215,7 @@ sg10
 VCALDWELL
 p884
 sg12
-g9
+g37
 sa(dp885
 g6
 VSure you will.
@@ -3237,13 +3237,13 @@ sg10
 VJOSH
 p890
 sg12
-g52
+g16
 sa(dp891
 g6
 VNo. They will stand blithely by while religious freedom is threatened. They're just not doing it this time.
 p892
 sg8
-g52
+g16
 sg10
 VSAM
 p893
@@ -3276,7 +3276,7 @@ g6
 VSo you're committed to religious freedom for all people unless you don't like what they have to say?
 p901
 sg8
-g52
+g16
 sg10
 VSAM
 p902
@@ -3331,7 +3331,7 @@ g6
 VNo, Sam's right and it's a point well taken.  I just don't want to get bogged down in a Mary Marsh mud fight.
 p916
 sg8
-g36
+g37
 sg10
 VCALDWELL
 p917
@@ -3353,12 +3353,12 @@ g6
 VThis is too important.
 p922
 sg8
-g52
+g16
 sg10
 VCALDWELL
 p923
 sg12
-g9
+g16
 sa(dp924
 g6
 VYes it is.
@@ -3369,13 +3369,13 @@ sg10
 VJOSH
 p926
 sg12
-g52
+g16
 sa(dp927
 g6
 VI want you to know and I want the president to know. My church will pay out the bond for each of the refugees.
 p928
 sg8
-g52
+g16
 sg10
 VCALDWELL
 p929
@@ -3386,7 +3386,7 @@ g6
 VWell, we may be talking about more money...
 p931
 sg8
-g52
+g16
 sg10
 VJOSH
 p932
@@ -3397,7 +3397,7 @@ g6
 VI know how much we're talking about. My church will pay it. If they won't, I will.
 p934
 sg8
-g52
+g16
 sg10
 VCALDWELL
 p935
@@ -3413,7 +3413,7 @@ sg10
 VJOSH
 p938
 sg12
-g52
+g37
 sa(dp939
 g6
 VThank you.
@@ -3424,7 +3424,7 @@ sg10
 VCALDWELL
 p941
 sg12
-g52
+g16
 sa(dp942
 g6
 VGood morning, Toby.
@@ -3435,7 +3435,7 @@ sg10
 VCALDWELL
 p944
 sg12
-g9
+g16
 sa(dp945
 g6
 VGood morning, Reverend.
@@ -3446,35 +3446,35 @@ sg10
 VTOBY
 p947
 sg12
-g9
+g16
 sa(dp948
 g6
 VYou look determined.
 p949
 sg8
-g52
+g16
 sg10
 VCALDWELL
 p950
 sg12
-g9
+g16
 sa(dp951
 g6
 VI am, sir.
 p952
 sg8
-g52
+g16
 sg10
 VTOBY
 p953
 sg12
-g9
+g16
 sa(dp954
 g6
 VGood boy.
 p955
 sg8
-g36
+g37
 sg10
 VCALDWELL
 p956
@@ -3523,13 +3523,13 @@ sg10
 VTOBY
 p968
 sg12
-g9
+g37
 sa(dp969
 g6
 VIt's Mr. McGarry. And her name is Dr. Josephine McGarry. She has a Ph.D. in education from Cornell. She's published many scholarly essays on public education. She was superintendent of the Atlanta School District servicing 58,000 students with some of the highest test scores in the country. What in particular troubles the senators you  work for about her resume?
 p970
 sg8
-g52
+g16
 sg10
 VTOBY
 p971
@@ -3562,7 +3562,7 @@ g6
 VHmm. She's on the board of visitors at her church. She teaches Sunday mornings at the Immaculate Heart of Mary School.
 p979
 sg8
-g52
+g16
 sg10
 VTOBY
 p980
@@ -3595,7 +3595,7 @@ g6
 VYou wanna know who else is against it? The 11th U.S. Circuit Court of Appeals. Organized prayer in public schools is prohibited and your problem with her is that while superintendent, she enforced the law.
 p988
 sg8
-g36
+g37
 sg10
 VTOBY
 p989
@@ -3611,13 +3611,13 @@ sg10
 VTOBY
 p992
 sg12
-g9
+g37
 sa(dp993
 g6
 VNo, I don't. Can you explain it to me slowly using small words and visual aides?
 p994
 sg8
-g36
+g37
 sg10
 VTOBY
 p995
@@ -3639,18 +3639,18 @@ g6
 VNeither is the filibuster. I'll put down my gun when you put down yours.
 p1000
 sg8
-g36
+g37
 sg10
 VTOBY
 p1001
 sg12
-g9
+g37
 sa(dp1002
 g6
 V[getting angry] No. What's outrageous is that this would never come to a vote if we did it in session. There's no way the Senate couldn't confirm her; she's too qualified. [yells] This would never come to a vote! [pause] So... hold up all the appointments you want. Shut down the government because a teacher did as she was told. You'll have given us a second term and we won't even have to leave the building. But not because I'm right and you're wrong. Although I am and you are. But because I am better at this than you are.
 p1003
 sg8
-g36
+g37
 sg10
 VTOBY
 p1004
@@ -3666,7 +3666,7 @@ sg10
 VTOBY
 p1007
 sg12
-g9
+g37
 sa(dp1008
 g6
 VDoing what?
@@ -3683,7 +3683,7 @@ g6
 VIt was a home game, there was an organized prayer and she's breaking it up.
 p1012
 sg8
-g52
+g16
 sg10
 VTOBY
 p1013
@@ -3699,13 +3699,13 @@ sg10
 VLEO
 p1016
 sg12
-g52
+g16
 sa(dp1017
 g6
 VIt's not good, but it's not, you know--
 p1018
 sg8
-g52
+g16
 sg10
 VTOBY
 p1019
@@ -3716,7 +3716,7 @@ g6
 VThese are high school students. Two of them are on their knees praying while being handcuffed, with my sister standing next to the cop whose hand is on his nightstick.
 p1021
 sg8
-g52
+g16
 sg10
 VLEO
 p1022
@@ -3760,7 +3760,7 @@ g6
 VOne of the students is wearing his marching band uniform, one of the students is black...
 p1033
 sg8
-g36
+g37
 sg10
 VLEO
 p1034
@@ -3782,7 +3782,7 @@ g6
 VAnd you say it's "not good."
 p1039
 sg8
-g52
+g16
 sg10
 VLEO
 p1040
@@ -3798,13 +3798,13 @@ sg10
 VTOBY
 p1043
 sg12
-g9
+g16
 sa(dp1044
 g6
 VThat's a penetrating diagnosis from the White House Communications Director.
 p1045
 sg8
-g36
+g37
 sg10
 VLEO
 p1046
@@ -3820,18 +3820,18 @@ sg10
 VTOBY
 p1049
 sg12
-g9
+g37
 sa(dp1050
 g6
 VWe didn't know there was art.
 p1051
 sg8
-g52
+g16
 sg10
 VLEO
 p1052
 sg12
-g9
+g37
 sa(dp1053
 g6
 VIt's a local paper.
@@ -3859,18 +3859,18 @@ g6
 VWell I can save it.
 p1060
 sg8
-g52
+g16
 sg10
 VTOBY
 p1061
 sg12
-g9
+g37
 sa(dp1062
 g6
 V[leaning forward] Does she know she was submitted?
 p1063
 sg8
-g52
+g16
 sg10
 VLEO
 p1064
@@ -3886,7 +3886,7 @@ sg10
 VTOBY
 p1067
 sg12
-g52
+g16
 sa(dp1068
 g6
 VHow?
@@ -3925,12 +3925,12 @@ g6
 VI can save this!
 p1078
 sg8
-g52
+g16
 sg10
 VTOBY
 p1079
 sg12
-g9
+g16
 sa(dp1080
 g6
 VMargaret!
@@ -3958,7 +3958,7 @@ g6
 VAt a football game, a high school, marching band, on their knees. Don't we think breaking up Norman Rockwell had the cops, the handcuffs, the nightstick, and my sister.
 p1087
 sg8
-g52
+g16
 sg10
 VLEO
 p1088
@@ -3974,7 +3974,7 @@ sg10
 VMARGARET
 p1091
 sg12
-g9
+g37
 sa(dp1092
 g6
 V[motioning] Get Josephine on the phone.
@@ -4002,7 +4002,7 @@ g6
 VI begged you to go slow with this nomination.
 p1099
 sg8
-g52
+g16
 sg10
 VLEO
 p1100
@@ -4040,7 +4040,7 @@ sg10
 VTOBY
 p1109
 sg12
-g9
+g16
 sa(dp1110
 g6
 VGreat. And what prize do we get for that?
@@ -4068,7 +4068,7 @@ g6
 VWhat prize do we get for bringing it front and center?
 p1117
 sg8
-g52
+g16
 sg10
 VLEO
 p1118
@@ -4084,7 +4084,7 @@ sg10
 VMARGARET
 p1121
 sg12
-g9
+g37
 sa(dp1122
 g6
 VWhat?
@@ -4128,7 +4128,7 @@ sg10
 VLEO
 p1133
 sg12
-g9
+g16
 sa(dp1134
 g6
 VLeave the newspaper.
@@ -4172,7 +4172,7 @@ sg10
 VDONNA
 p1145
 sg12
-g9
+g16
 sa(dp1146
 g6
 VCan I borrow you for just a minute?
@@ -4200,7 +4200,7 @@ g6
 VHey I'd love to stay around and talk with you but I have a turkey pardoning in 5 minutes.
 p1153
 sg8
-g52
+g16
 sg10
 VC.J.
 p1154
@@ -4216,7 +4216,7 @@ sg10
 VJOSH
 p1157
 sg12
-g9
+g37
 sa(dp1158
 g6
 VNo tomorrow's the singing.
@@ -4260,7 +4260,7 @@ sg10
 VJOSH
 p1169
 sg12
-g9
+g16
 sa(dp1170
 g6
 VYes. I need Donna for a moment.
@@ -4343,7 +4343,7 @@ g6
 VIs it the usual song?
 p1192
 sg8
-g52
+g16
 sg10
 VDONNA
 p1193
@@ -4354,7 +4354,7 @@ g6
 VThere's a usual song?
 p1195
 sg8
-g52
+g16
 sg10
 VC.J.
 p1196
@@ -4387,7 +4387,7 @@ g6
 VThat's the usual song.
 p1204
 sg8
-g52
+g16
 sg10
 VDONNA
 p1205
@@ -4414,7 +4414,7 @@ sg10
 VDONNA
 p1211
 sg12
-g9
+g37
 sa(dp1212
 g6
 VI don't know it.
@@ -4425,7 +4425,7 @@ sg10
 VC.J.
 p1214
 sg12
-g9
+g37
 sa(dp1215
 g6
 V[sighs] Didn't you go to elementary school?
@@ -4436,7 +4436,7 @@ sg10
 VDONNA
 p1217
 sg12
-g9
+g37
 sa(dp1218
 g6
 VYes, right before being a National Merit Scholar.
@@ -4475,7 +4475,7 @@ g6
 VA couple of guys wearing costumes and playing the lute, it's no problem.
 p1228
 sg8
-g36
+g37
 sg10
 VDONNA
 p1229
@@ -4486,7 +4486,7 @@ g6
 VYou're not the one conducting a musical on CNN.
 p1231
 sg8
-g52
+g16
 sg10
 VC.J.
 p1232
@@ -4497,7 +4497,7 @@ g6
 VDo you want me to teach you the song?
 p1234
 sg8
-g52
+g16
 sg10
 VDONNA
 p1235
@@ -4513,7 +4513,7 @@ sg10
 VC.J.
 p1238
 sg12
-g52
+g16
 sa(dp1239
 g6
 VNow?
@@ -4530,7 +4530,7 @@ g6
 VNot now, right now I have, you know, actual serious work to do. [while waving a camera flash]
 p1243
 sg8
-g52
+g16
 sg10
 VC.J.
 p1244
@@ -4552,7 +4552,7 @@ g6
 VYou both did fine. Troy, I want you know it was neck-and-neck but I'm giving it to Eric. You were in it right to the end but it's the flapping thing you've got going on. I tell you what's of some concern to me, had I been talking out loud this whole time, that's very unsettling.
 p1249
 sg8
-g52
+g16
 sg10
 VC.J.
 p1250
@@ -4601,7 +4601,7 @@ sg10
 VC.J.
 p1262
 sg12
-g9
+g37
 sa(dp1263
 g6
 VTroy...
@@ -4634,7 +4634,7 @@ sg10
 VJOSH
 p1271
 sg12
-g9
+g16
 sa(dp1272
 g6
 VYeah.
@@ -4667,13 +4667,13 @@ sg10
 VJOSH
 p1280
 sg12
-g9
+g37
 sa(dp1281
 g6
 VThat's the problem.
 p1282
 sg8
-g36
+g37
 sg10
 VGARDNER
 p1283
@@ -4684,7 +4684,7 @@ g6
 VThey have to pay off the smugglers when they get here so they become indentured servants.
 p1285
 sg8
-g52
+g16
 sg10
 VJOSH
 p1286
@@ -4706,12 +4706,12 @@ g6
 VDrugs, prostitution...
 p1291
 sg8
-g36
+g37
 sg10
 VBETRAM
 p1292
 sg12
-g9
+g37
 sa(dp1293
 g6
 VYou should know that Al Caldwell and the Christian League have offered to pay their bonds.
@@ -4739,7 +4739,7 @@ g6
 VOn religious persecution?
 p1300
 sg8
-g36
+g37
 sg10
 VSAM
 p1301
@@ -4750,18 +4750,18 @@ g6
 VIt's a good alibi.
 p1303
 sg8
-g52
+g16
 sg10
 VJOSH
 p1304
 sg12
-g9
+g16
 sa(dp1305
 g6
 VListen it's not for me to say, but you got to be serious about illegal immigration, and you got to do these things within existing laws.
 p1306
 sg8
-g36
+g37
 sg10
 VBETRAM
 p1307
@@ -4788,7 +4788,7 @@ sg10
 VBETRAM
 p1313
 sg12
-g52
+g16
 sa(dp1314
 g6
 VTake it easy.
@@ -4810,7 +4810,7 @@ sg10
 VJOSH
 p1319
 sg12
-g9
+g16
 sa(dp1320
 g6
 VA lot of them left their families, two months on the water, in a container, dead bodies in there... They had to want it.
@@ -4865,7 +4865,7 @@ sg10
 VBARTLET
 p1334
 sg12
-g9
+g37
 sa(dp1335
 g6
 VPardoning a turkey.
@@ -4876,7 +4876,7 @@ sg10
 VC.J.
 p1337
 sg12
-g9
+g16
 sa(dp1338
 g6
 VOkay.
@@ -4920,7 +4920,7 @@ sg10
 VCHARLIE
 p1349
 sg12
-g9
+g37
 sa(dp1350
 g6
 V[takes the knife] The Missermeister. Meridian 3000 series. One-piece forged blade, riveted palm handle.
@@ -4953,7 +4953,7 @@ sg10
 VBARTLET
 p1358
 sg12
-g9
+g37
 sa(dp1359
 g6
 VOkay.
@@ -5025,7 +5025,7 @@ g6
 VChristians aren't persecuted in China. Since they aren't oppressed, they don't qualify for refugee status.
 p1378
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1379
@@ -5041,13 +5041,13 @@ sg10
 VJOSH
 p1382
 sg12
-g36
+g9
 sa(dp1383
 g6
 VThey also make the point that they broke Chinese law when the left the country illegally, and should be sent back to the country of origin.
 p1384
 sg8
-g36
+g37
 sg10
 VSAM
 p1385
@@ -5058,7 +5058,7 @@ g6
 VIt's a fair point.
 p1387
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1388
@@ -5069,7 +5069,7 @@ g6
 VThe INS agents also feel it's not uncommon in this situation for refugees to... How do I put it... Feign faith.
 p1390
 sg8
-g52
+g16
 sg10
 VJOSH
 p1391
@@ -5085,7 +5085,7 @@ sg10
 VBARTLET
 p1394
 sg12
-g9
+g16
 sa(dp1395
 g6
 VSo how do you tell the difference between...?
@@ -5118,7 +5118,7 @@ sg10
 VSAM
 p1403
 sg12
-g9
+g37
 sa(dp1404
 g6
 VA clichE.
@@ -5267,12 +5267,12 @@ g6
 VI don't think I need to tell you that I'm not going to shrink from a fight.
 p1444
 sg8
-g36
+g37
 sg10
 VJOSEY
 p1445
 sg12
-g9
+g37
 sa(dp1446
 g6
 VNo, you don't. In fact you look for them.
@@ -5289,12 +5289,12 @@ g6
 VJust like my brother.
 p1450
 sg8
-g52
+g16
 sg10
 VJOSEY
 p1451
 sg12
-g9
+g37
 sa(dp1452
 g6
 VI don't look for fights, Josey. There are enough of them to look for me.
@@ -5322,7 +5322,7 @@ g6
 VAnd I am trying to stage manage an undisciplined White House through what I would say was a difficult time except I haven't experienced an easy one yet.
 p1459
 sg8
-g52
+g16
 sg10
 VLEO
 p1460
@@ -5333,7 +5333,7 @@ g6
 VThis is going to be a big victory for us, Leo. I will have support lined up from the AFT, NEA... I will have support...
 p1462
 sg8
-g52
+g16
 sg10
 VJOSEY
 p1463
@@ -5344,7 +5344,7 @@ g6
 VJo, I want you to withdraw your name from consideration.
 p1465
 sg8
-g36
+g37
 sg10
 VLEO
 p1466
@@ -5382,18 +5382,18 @@ sg10
 VJOSEY
 p1475
 sg12
-g9
+g37
 sa(dp1476
 g6
 V'Cause the President won't. And even if he would it'd look bad.
 p1477
 sg8
-g36
+g37
 sg10
 VLEO
 p1478
 sg12
-g9
+g37
 sa(dp1479
 g6
 VNo, I'm asking you why you...?
@@ -5404,7 +5404,7 @@ sg10
 VJOSEY
 p1481
 sg12
-g52
+g37
 sa(dp1482
 g6
 VThey got a hold of the picture.
@@ -5448,13 +5448,13 @@ sg10
 VJOSEY
 p1493
 sg12
-g52
+g16
 sa(dp1494
 g6
 VThis one is special. This one is "game's over."
 p1495
 sg8
-g52
+g16
 sg10
 VLEO
 p1496
@@ -5492,13 +5492,13 @@ sg10
 VJOSEY
 p1505
 sg12
-g9
+g37
 sa(dp1506
 g6
 VA few years ago on a campaign swing through the south, I met a stringer photographer named Odabee Jones. Was an unusual name and so I've remembered it. He told me he had you to thank for starting his career in photojournalism 'cause you'd given him a head's up when there was going to be something worth shooting.
 p1507
 sg8
-g52
+g16
 sg10
 VLEO
 p1508
@@ -5520,7 +5520,7 @@ g6
 VLook at the photo credit on the picture.
 p1513
 sg8
-g52
+g16
 sg10
 VLEO
 p1514
@@ -5558,13 +5558,13 @@ sg10
 VJOSEY
 p1523
 sg12
-g9
+g37
 sa(dp1524
 g6
 V[standing up] Kiss your kids hello for me.
 p1525
 sg8
-g52
+g16
 sg10
 VLEO
 p1526
@@ -5586,7 +5586,7 @@ g6
 VShe hasn't gotten over my making her return the stolen milk duds.
 p1531
 sg8
-g36
+g37
 sg10
 VLEO
 p1532
@@ -5613,18 +5613,18 @@ sg10
 VLEO
 p1538
 sg12
-g9
+g37
 sa(dp1539
 g6
 VJosey was the wrong face to put on this.
 p1540
 sg8
-g36
+g37
 sg10
 VTOBY
 p1541
 sg12
-g9
+g37
 sa(dp1542
 g6
 VYes.
@@ -5635,13 +5635,13 @@ sg10
 VLEO
 p1544
 sg12
-g52
+g16
 sa(dp1545
 g6
 VBut I'll tell you why it should be front and center. It's not the first amendment, it's not religious freedom, it's not church and state, it's not... abstract...
 p1546
 sg8
-g52
+g16
 sg10
 VTOBY
 p1547
@@ -5723,7 +5723,7 @@ sg10
 VTOBY
 p1568
 sg12
-g9
+g37
 sa(dp1569
 g6
 VOkay.
@@ -5740,7 +5740,7 @@ g6
 VWhat are you doing for dinner tomorrow? 'Cause Josh and Sam and I are watching the game.
 p1573
 sg8
-g52
+g16
 sg10
 VTOBY
 p1574
@@ -5773,7 +5773,7 @@ g6
 VOh the President could honestly give a damn what you guys are doing tomorrow Toby.
 p1582
 sg8
-g36
+g37
 sg10
 VLEO
 p1583
@@ -5811,7 +5811,7 @@ sg10
 VBARTLET
 p1592
 sg12
-g9
+g16
 sa(dp1593
 g6
 VDid we get an interpreter?
@@ -5828,12 +5828,12 @@ g6
 VHe speaks English. He's a chemistry professor.
 p1597
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1598
 sg12
-g9
+g16
 sa(dp1599
 g6
 VYeah?
@@ -5850,7 +5850,7 @@ g6
 V[puts on his jacket] There was a while there I wanted to be a chemistry professor.
 p1603
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1604
@@ -5877,18 +5877,18 @@ sg10
 VBARTLET
 p1610
 sg12
-g9
+g37
 sa(dp1611
 g6
 VWell, if these college chemistry departments are really demanding that way...
 p1612
 sg8
-g36
+g37
 sg10
 VLEO
 p1613
 sg12
-g9
+g37
 sa(dp1614
 g6
 VYeah.
@@ -5921,7 +5921,7 @@ sg10
 VBARTLET
 p1622
 sg12
-g9
+g37
 sa(dp1623
 g6
 VHow do you do?
@@ -5987,7 +5987,7 @@ sg10
 VBARTLET
 p1640
 sg12
-g9
+g16
 sa(dp1641
 g6
 VHow did you become a Christian?
@@ -6004,18 +6004,18 @@ g6
 VHow do you practice?
 p1645
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1646
 sg12
-g52
+g16
 sa(dp1647
 g6
 VWho's the head of your church?
 p1648
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1649
@@ -6037,18 +6037,18 @@ g6
 V[beat] Yes, it is. And you sir, just said the magic word in more ways than one. Thank you. [They stand.] It was a pleasure to meet you.
 p1654
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1655
 sg12
-g9
+g16
 sa(dp1656
 g6
 VWe're trying to sell more 747s to China, already a big customer. We want China to crack down on violators of American copyrights. We're trying to get China to negotiate a settlement with Tibet...
 p1657
 sg8
-g52
+g16
 sg10
 VLEO
 p1658
@@ -6086,7 +6086,7 @@ sg10
 VBARTLET
 p1667
 sg12
-g36
+g37
 sa(dp1668
 g6
 VIf you're suggesting what I think you are, you should know it happened before.
@@ -6108,13 +6108,13 @@ sg10
 VBARTLET
 p1673
 sg12
-g36
+g9
 sa(dp1674
 g6
 VAn I.N.S. detention facility in Otay-Mesa. They're being guarded by I.N.S. agents aided by the 22nd Division of the California National Guard.
 p1675
 sg8
-g36
+g37
 sg10
 VLEO
 p1676
@@ -6158,7 +6158,7 @@ g6
 VWell, you don't want to piss off China, and you want to send them back... You got to ask yourself, how secure is the I.N.S. detention facility?
 p1687
 sg8
-g36
+g37
 sg10
 VLEO
 p1688
@@ -6180,7 +6180,7 @@ g6
 VI need to talk to the Governor of California.
 p1693
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1694
@@ -6251,13 +6251,13 @@ sg10
 VC.J.
 p1712
 sg12
-g9
+g37
 sa(dp1713
 g6
 VYou're learning the song?
 p1714
 sg8
-g52
+g16
 sg10
 VTOBY
 p1715
@@ -6290,12 +6290,12 @@ g6
 V'We gather together to ask the Lord's blessing. He chastens and hastens his will to make known.'
 p1723
 sg8
-g52
+g16
 sg10
 VC.J.
 p1724
 sg12
-g9
+g16
 sa(dp1725
 g6
 VYou know what it means?
@@ -6317,13 +6317,13 @@ sg10
 VC.J.
 p1730
 sg12
-g9
+g37
 sa(dp1731
 g6
 VListen. I don't know what you're doing for dinner tonight, but Josh and Sam and I...
 p1732
 sg8
-g52
+g16
 sg10
 VTOBY
 p1733
@@ -6334,7 +6334,7 @@ g6
 VIt's about damn time you asked me! I have been sitting here for two weeks turning down all kinds of very, frankly, glamorous invitations from people I like more than you. You can't ask a girl at the last minute...
 p1735
 sg8
-g36
+g37
 sg10
 VC.J.
 p1736
@@ -6361,7 +6361,7 @@ sg10
 VC.J.
 p1742
 sg12
-g9
+g37
 sa(dp1743
 g6
 VGood.
@@ -6372,7 +6372,7 @@ sg10
 VTOBY
 p1745
 sg12
-g9
+g16
 sa(dp1746
 g6
 VShould I bring anything?
@@ -6383,13 +6383,13 @@ sg10
 VC.J.
 p1748
 sg12
-g9
+g37
 sa(dp1749
 g6
 VYeah. Do you know how to, you know, cook food?
 p1750
 sg8
-g52
+g16
 sg10
 VTOBY
 p1751
@@ -6526,7 +6526,7 @@ sg10
 VMORTON
 p1787
 sg12
-g9
+g16
 sa(dp1788
 g6
 VFor a turkey!?
@@ -6570,18 +6570,18 @@ sg10
 VMORTON
 p1799
 sg12
-g9
+g37
 sa(dp1800
 g6
 VI'll pay it.
 p1801
 sg8
-g52
+g16
 sg10
 VC.J.
 p1802
 sg12
-g9
+g16
 sa(dp1803
 g6
 VIt's already been sold.
@@ -6625,13 +6625,13 @@ sg10
 VDONNA
 p1814
 sg12
-g9
+g37
 sa(dp1815
 g6
 VMa'am, it was my understanding that one of these turkeys has to be pardoned, the other one sent back to Jasper Farms.
 p1816
 sg8
-g52
+g16
 sg10
 VMORTON
 p1817
@@ -6642,7 +6642,7 @@ g6
 VYeah, and I chose Eric because Troy doesn't like to be touched, which, surely we're not gonna execute him for.
 p1819
 sg8
-g36
+g37
 sg10
 VC.J.
 p1820
@@ -6653,12 +6653,12 @@ g6
 VMa'am, I have a job and I need...
 p1822
 sg8
-g52
+g16
 sg10
 VMORTON
 p1823
 sg12
-g36
+g16
 sa(dp1824
 g6
 VCome with me, please.
@@ -6669,7 +6669,7 @@ sg10
 VC.J.
 p1826
 sg12
-g9
+g37
 sa(dp1827
 g6
 VMa'am!
@@ -6708,7 +6708,7 @@ g6
 VMrs. Landingham, can I look at a copy of the Thanksgiving proclamation?
 p1837
 sg8
-g36
+g37
 sg10
 VBARTLET
 p1838
@@ -6730,18 +6730,18 @@ g6
 VI was standing at the door.
 p1843
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1844
 sg12
-g9
+g37
 sa(dp1845
 g6
 V[starts to approach] Can I look at a copy...?
 p1846
 sg8
-g36
+g37
 sg10
 VBARTLET
 p1847
@@ -6774,12 +6774,12 @@ g6
 VA winner, Mr. President.
 p1855
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p1856
 sg12
-g9
+g16
 sa(dp1857
 g6
 VThe 1985 Kimono Yomada made in Japan with the best materials available.
@@ -6807,7 +6807,7 @@ g6
 VWhich facilitates cutting and reduces user fatigue.
 p1864
 sg8
-g36
+g37
 sg10
 VCHARLIE
 p1865
@@ -6823,7 +6823,7 @@ sg10
 VBARTLET
 p1868
 sg12
-g52
+g9
 sa(dp1869
 g6
 VAnd?
@@ -6834,24 +6834,24 @@ sg10
 VCHARLIE
 p1871
 sg12
-g9
+g37
 sa(dp1872
 g6
 VNot wild about it--How about this?
 p1873
 sg8
-g36
+g37
 sg10
 VBARTLET
 p1874
 sg12
-g9
+g37
 sa(dp1875
 g6
 VOkay, Mr. President. I say this with all possible respect, but each of these knives cut, you know, meat. Why is it important?
 p1876
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p1877
@@ -6862,7 +6862,7 @@ g6
 VBecause it's something we pass on. Something with a history so we can say, 'My father gave this to me. His father gave it to him, and now I'm giving it to you.'
 p1879
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1880
@@ -6873,7 +6873,7 @@ g6
 VWell, okay sir, but if that's true, then why don't you already have one?
 p1882
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p1883
@@ -6889,7 +6889,7 @@ sg10
 VBARTLET
 p1886
 sg12
-g9
+g37
 sa(dp1887
 g6
 VWhy do you need a new one?
@@ -6900,13 +6900,13 @@ sg10
 VCHARLIE
 p1889
 sg12
-g52
+g9
 sa(dp1890
 g6
 VI'm giving mine away.
 p1891
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1892
@@ -6955,13 +6955,13 @@ sg10
 VBARTLET
 p1904
 sg12
-g52
+g37
 sa(dp1905
 g6
 VCharlie, my father gave this to me, and his father gave it to him, and now I'm giving it to you.
 p1906
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1907
@@ -6977,13 +6977,13 @@ sg10
 VBARTLET
 p1910
 sg12
-g9
+g16
 sa(dp1911
 g6
 VThe fully tapered bolster allows for sharpening the entire edge of the blade.
 p1912
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1913
@@ -6994,7 +6994,7 @@ g6
 VIt says, 'P.R.' I thought I knew all, but I don't recognize the manufacturer.
 p1915
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p1916
@@ -7027,7 +7027,7 @@ g6
 VI'm proud of you, Charlie.
 p1924
 sg8
-g52
+g16
 sg10
 VBARTLET
 p1925
@@ -7038,12 +7038,12 @@ g6
 VThank you, sir. [beat] Five minutes in the Rose Garden.
 p1927
 sg8
-g52
+g16
 sg10
 VCHARLIE
 p1928
 sg12
-g9
+g16
 sa(dp1929
 g6
 VYeah.
@@ -7104,7 +7104,7 @@ g6
 VI'm sorry to ask you this, sir.
 p1945
 sg8
-g52
+g16
 sg10
 VC.J.
 p1946
@@ -7115,23 +7115,23 @@ g6
 VNot too late to stop yourself.
 p1948
 sg8
-g36
+g37
 sg10
 VBARTLET
 p1949
 sg12
-g9
+g16
 sa(dp1950
 g6
 VI need you to pardon a turkey.
 p1951
 sg8
-g52
+g16
 sg10
 VC.J.
 p1952
 sg12
-g9
+g16
 sa(dp1953
 g6
 VI already pardoned a turkey.
@@ -7142,13 +7142,13 @@ sg10
 VBARTLET
 p1955
 sg12
-g9
+g37
 sa(dp1956
 g6
 VI need you to pardon another one.
 p1957
 sg8
-g52
+g16
 sg10
 VC.J.
 p1958
@@ -7164,13 +7164,13 @@ sg10
 VBARTLET
 p1961
 sg12
-g9
+g37
 sa(dp1962
 g6
 VYou did it great, but I need you to come out here and pardon another one.
 p1963
 sg8
-g52
+g16
 sg10
 VC.J.
 p1964
@@ -7186,7 +7186,7 @@ sg10
 VBARTLET
 p1967
 sg12
-g9
+g37
 sa(dp1968
 g6
 VSir, could you come out here and just get this over with?
@@ -7203,18 +7203,18 @@ g6
 VNo, I'm not just gonna get this--What the hell is going on?
 p1972
 sg8
-g36
+g37
 sg10
 VBARTLET
 p1973
 sg12
-g9
+g37
 sa(dp1974
 g6
 V[approaches] They sent me two turkeys. The most photo-friendly of the two gets a Presidential pardon and a full life at a children's zoo. The runner-up gets eaten.
 p1975
 sg8
-g52
+g16
 sg10
 VC.J.
 p1976
@@ -7252,7 +7252,7 @@ sg10
 VBARTLET
 p1985
 sg12
-g9
+g37
 sa(dp1986
 g6
 VThey already sold it.
@@ -7263,7 +7263,7 @@ sg10
 VC.J.
 p1988
 sg12
-g9
+g37
 sa(dp1989
 g6
 VThere's not much I can do.
@@ -7274,18 +7274,18 @@ sg10
 VBARTLET
 p1991
 sg12
-g9
+g37
 sa(dp1992
 g6
 VYou can pardon the turkey.
 p1993
 sg8
-g52
+g16
 sg10
 VC.J.
 p1994
 sg12
-g9
+g16
 sa(dp1995
 g6
 VThe turkey hasn't committed a crime.
@@ -7313,12 +7313,12 @@ g6
 VC.J., I have really no judicial jurisdiction over birds.
 p2002
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2003
 sg12
-g36
+g37
 sa(dp2004
 g6
 VYes, I know that, and you know that, but Morton Horn doesn't know that.
@@ -7357,7 +7357,7 @@ g6
 VHe's in high school and he doesn't know I can't pardon his turkey?
 p2014
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2015
@@ -7379,7 +7379,7 @@ g6
 VC.J., if we don't and I mean completely overhaul public education in this country...
 p2020
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2021
@@ -7390,7 +7390,7 @@ g6
 VYes sir, but maybe this is not the best time to...
 p2023
 sg8
-g52
+g16
 sg10
 VC.J.
 p2024
@@ -7401,12 +7401,12 @@ g6
 VWhere the hell is he?
 p2026
 sg8
-g36
+g37
 sg10
 VBARTLET
 p2027
 sg12
-g9
+g37
 sa(dp2028
 g6
 VRight out there.
@@ -7417,7 +7417,7 @@ sg10
 VC.J.
 p2030
 sg12
-g9
+g37
 sa(dp2031
 g6
 VMorton, this is President Bartlet.
@@ -7428,7 +7428,7 @@ sg10
 VC.J.
 p2033
 sg12
-g36
+g16
 sa(dp2034
 g6
 VHey, Morton.
@@ -7439,7 +7439,7 @@ sg10
 VBARTLET
 p2036
 sg12
-g9
+g16
 sa(dp2037
 g6
 VWow.
@@ -7472,7 +7472,7 @@ sg10
 VDONNA
 p2045
 sg12
-g52
+g16
 sa(dp2046
 g6
 V[to the turkey] You're pardoned.
@@ -7522,7 +7522,7 @@ g6
 V[to the turkey again] By the power vested in me by the Constitution of the United States, I hereby pardon you.
 p2059
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2060
@@ -7533,12 +7533,12 @@ g6
 V[pleased] Okay.
 p2062
 sg8
-g52
+g16
 sg10
 VMORTON
 p2063
 sg12
-g9
+g16
 sa(dp2064
 g6
 VNo, it's not okay.
@@ -7549,7 +7549,7 @@ sg10
 VBARTLET
 p2066
 sg12
-g9
+g37
 sa(dp2067
 g6
 VSir...
@@ -7566,7 +7566,7 @@ g6
 VMorton, I can't pardon a turkey. If you think I can pardon a turkey, then you have got to go back to your school and insist that you be better prepared to go out in the world.
 p2071
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2072
@@ -7577,12 +7577,12 @@ g6
 VYou can't pardon a turkey?
 p2074
 sg8
-g52
+g16
 sg10
 VDONNA
 p2075
 sg12
-g9
+g16
 sa(dp2076
 g6
 V[beat] No. I tell you what I can do. I'm drafting this turkey into military service. In the meantime, somebody will be drafting a check, which will have my signature on it, so the folks can buy themselves a Butterball.
@@ -7621,7 +7621,7 @@ g6
 V[quietly to C.J.] What's wrong with him?
 p2086
 sg8
-g36
+g37
 sg10
 VBARTLET
 p2087
@@ -7648,7 +7648,7 @@ sg10
 VBARTLET
 p2093
 sg12
-g9
+g37
 sa(dp2094
 g6
 V[holds up a folder] Right here.
@@ -7659,7 +7659,7 @@ sg10
 VSAM
 p2096
 sg12
-g9
+g37
 sa(dp2097
 g6
 VLet's go in.
@@ -7720,7 +7720,7 @@ g6
 VBy the way, the Latin word for 'yam' is 'dioscorea.'
 p2113
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2114
@@ -7775,7 +7775,7 @@ g6
 VNo, as a matter of fact, neither one of us can believe it, sir.
 p2128
 sg8
-g52
+g16
 sg10
 VJOSH
 p2129
@@ -7786,7 +7786,7 @@ g6
 VThat detention center was being guarded by the 22nd Division of the California National Guard. Now, what does it say about our reserve army?
 p2131
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2132
@@ -7797,7 +7797,7 @@ g6
 VThat 83 men, women and children who haven't eaten in two months staged a prison break.
 p2134
 sg8
-g36
+g37
 sg10
 VSAM
 p2135
@@ -7813,13 +7813,13 @@ sg10
 VBARTLET
 p2138
 sg12
-g36
+g9
 sa(dp2139
 g6
 V'Well over three and a half centuries ago, strengthened by faith and bound by a common desire for liberty, a small band of pilgrims sought out a place in the New World where they could worship according to their own beliefs. Now therefore I, Josiah Bartlet, President of the United States, by virtue of authority and laws vested in me, do hereby proclaim this to be a National Day of Thanksgiving.'
 p2140
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2141
@@ -7830,7 +7830,7 @@ g6
 VI'll see you out there, sir. [walks out to the portico]
 p2143
 sg8
-g52
+g16
 sg10
 VSAM
 p2144
@@ -7885,7 +7885,7 @@ g6
 VYou think I would've sent him back if he'd failed catechism? Let me tell you something. We can be the world's policeman. We can be the world's bank, the world's factory, the world's farm. What does it mean if we're not also...
 p2158
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2159
@@ -7907,10 +7907,10 @@ g6
 V[to Josh] This is a great job.
 p2164
 sg8
-g52
+g16
 sg10
 VBARTLET
 p2165
 sg12
-g9
+g16
 sas.

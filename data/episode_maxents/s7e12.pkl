@@ -46,41 +46,41 @@ sg10
 VBARTLET
 p19
 sg12
-g9
-sa(dp20
+S'negative'
+p20
+sa(dp21
 g6
 VBut now a valve is malfunctioning and coolant has stopped flowing into the reactor's core.
-p21
+p22
 sg8
 g15
 sg10
 VC.J.
-p22
+p23
 sg12
-g9
-sa(dp23
+g15
+sa(dp24
 g6
 VIf they can't get coolant into the core...
-p24
+p25
 sg8
 g15
 sg10
 VBARTLET
-p25
+p26
 sg12
 g9
-sa(dp26
+sa(dp27
 g6
 VThe uranium fuel rods become exposed, which makes them highly combustible. We could be looking at a full-scale nuclear meltdown.
-p27
-sg8
-S'negative'
 p28
+sg8
+g20
 sg10
 VC.J.
 p29
 sg12
-g9
+g20
 sa(dp30
 g6
 VFull-scale as in...?
@@ -119,12 +119,12 @@ g6
 VCould be human error, a design flaw...
 p40
 sg8
-g28
+g20
 sg10
 VC.J.
 p41
 sg12
-g9
+g20
 sa(dp42
 g6
 VIt's not likely a terrorist would sneak in there and jam a valve. We're rechecking all the relevant intel.
@@ -152,7 +152,7 @@ g6
 VNo. But when they shut down the reactor there was a steam release that sounded something like a Concorde landing and CNN's already running rumors of an explosion.
 p49
 sg8
-g28
+g20
 sg10
 VC.J.
 p50
@@ -212,7 +212,7 @@ sg10
 VKATE
 p65
 sg12
-g15
+g9
 sa(dp66
 g6
 VYes, we worry about what's happening in the culture: we have two young children. But censorship is like saying I can't have a steak because a baby can't chew it. Let's be careful. Yeah?
@@ -234,7 +234,7 @@ sg10
 VDONNA
 p71
 sg12
-g9
+g15
 sa(dp72
 g6
 VAs long as he keeps pivoting to the issues, I'm fine.
@@ -256,7 +256,7 @@ sg10
 VSANTOS
 p77
 sg12
-g9
+g20
 sa(dp78
 g6
 VBelieve me, there's no policy implications to that.
@@ -267,7 +267,7 @@ sg10
 VSANTOS
 p80
 sg12
-g9
+g20
 sa(dp81
 g6
 VDid he just imply...
@@ -278,7 +278,7 @@ sg10
 VDONNA
 p83
 sg12
-g9
+g20
 sa(dp84
 g6
 VJay Leno's going to have field day.
@@ -311,7 +311,7 @@ sg10
 VJOSH
 p92
 sg12
-g9
+g20
 sa(dp93
 g6
 VWhat?
@@ -328,7 +328,7 @@ g6
 VThere was a nuclear accident in California. Get to a television, laptop. Get any details you can.
 p97
 sg8
-g28
+g20
 sg10
 VJOSH
 p98
@@ -339,7 +339,7 @@ g6
 VSantos is doing that "Rock the Vote" event in Tampa. Probably pandering like mad to a bunch of preteens.
 p100
 sg8
-g28
+g20
 sg10
 VBRUNO
 p101
@@ -355,7 +355,7 @@ sg10
 VVINICK
 p104
 sg12
-g9
+g20
 sa(dp105
 g6
 VI'm sending you because you talk like a President, not some latter day, Mick Jagger-in-Chief.
@@ -394,7 +394,7 @@ g6
 VA problem with a nuclear plant in California. San Andreo. There might be an explosion.
 p115
 sg8
-g28
+g20
 sg10
 VBRUNO
 p116
@@ -421,7 +421,7 @@ sg10
 VBRUNO
 p122
 sg12
-g9
+g15
 sa(dp123
 g6
 VYeah, I know where it is.
@@ -432,7 +432,7 @@ sg10
 VVINICK
 p125
 sg12
-g28
+g20
 sa(dp126
 g6
 VWhat?
@@ -476,7 +476,7 @@ sg10
 VVINICK
 p137
 sg12
-g9
+g20
 sa(dp138
 g6
 VWe've received numerous reports of a loud explosion as well as Arab tourists seen near the facility in the last two days.
@@ -493,7 +493,7 @@ g6
 VHow can they run these crazy rumors?
 p142
 sg8
-g28
+g20
 sg10
 VKATE
 p143
@@ -504,7 +504,7 @@ g6
 VThe only thing certain in cases like this: first reports are always wrong.
 p145
 sg8
-g28
+g20
 sg10
 VC.J.
 p146
@@ -537,7 +537,7 @@ g6
 VThey're running a temporary feed line to bypass the broken valve while they try to figure out what's wrong.
 p154
 sg8
-g28
+g20
 sg10
 VHARRY
 p155
@@ -559,12 +559,12 @@ g6
 VThey're activating an emergency heat removal pump. The hope is that it will lower temperatures enough to prevent a meltdown.
 p160
 sg8
-g28
+g20
 sg10
 VHARRY
 p161
 sg12
-g9
+g15
 sa(dp162
 g6
 VYes. Another valve is stuck open. With the temperatures rising in the reactor, an awful lot of radioactive steam is being generated and it's pouring into the containment building.
@@ -581,18 +581,18 @@ g6
 VAre we worried about a radiation leak?
 p166
 sg8
-g28
+g20
 sg10
 VC.J.
 p167
 sg12
-g9
+g20
 sa(dp168
 g6
 VWe're worried they may have to pump radioactive gases into an auxiliary building which is not built to hold them. One poorly welded seam...
 p169
 sg8
-g28
+g20
 sg10
 VHARRY
 p170
@@ -603,7 +603,7 @@ g6
 VHow much radiation are we talking about?
 p172
 sg8
-g28
+g20
 sg10
 VBARTLET
 p173
@@ -636,7 +636,7 @@ g6
 VYes. They believe any leak would pose little or no threat to the public health.
 p181
 sg8
-g28
+g20
 sg10
 VHARRY
 p182
@@ -658,18 +658,18 @@ g6
 VIt's chaos over there. I couldn't even get them on the phone.
 p187
 sg8
-g28
+g20
 sg10
 VC.J.
 p188
 sg12
-g9
+g20
 sa(dp189
 g6
 VI want the Nuclear Regulatory Commission to take command of that plant and I want to evacuate the area.
 p190
 sg8
-g28
+g20
 sg10
 VBARTLET
 p191
@@ -713,12 +713,12 @@ g6
 VHe'll argue that rash, messy, night-time evacuation could be worse...
 p202
 sg8
-g28
+g20
 sg10
 VKATE
 p203
 sg12
-g9
+g20
 sa(dp204
 g6
 VThe Governor's on the line.
@@ -746,7 +746,7 @@ g6
 VGabe, you have to evacuate San Andreo. ... We're all working off sketchy information. ... 'Cause, trust me on this, we would rather have a few fender-benders on the I-5 than a generation of babies with thyroid cancer. ... My FEMA Director is right here. He'll coordinate with your state emergency services and I'm going to declare a major federal disaster. You're going to have every federal resource you need. ... We're going to get through this.
 p211
 sg8
-g28
+g20
 sg10
 VBARTLET
 p212
@@ -823,7 +823,7 @@ g6
 VWe should couple it with a call for an investigation. This has to have been a regulatory failure.
 p232
 sg8
-g28
+g20
 sg10
 VBOB
 p233
@@ -856,7 +856,7 @@ g6
 VDefensive, but not destructive. What do you want?
 p241
 sg8
-g28
+g20
 sg10
 VBRUNO
 p242
@@ -949,7 +949,7 @@ sg10
 VC.J.
 p266
 sg12
-g9
+g20
 sa(dp267
 g6
 VThat we're shutting down every nuclear plant with the same design.
@@ -982,7 +982,7 @@ sg10
 VWILL
 p275
 sg12
-g28
+g9
 sa(dp276
 g6
 VWelcome to the club. Let's start with that statement.
@@ -999,7 +999,7 @@ g6
 VWhat are the odds this leads to a meltdown?
 p280
 sg8
-g28
+g20
 sg10
 VBARTLET
 p281
@@ -1010,7 +1010,7 @@ g6
 VA meltdown isn't when one thing goes wrong, it's when 12 things go wrong.
 p283
 sg8
-g28
+g20
 sg10
 VHARRY
 p284
@@ -1081,7 +1081,7 @@ sg10
 VC.J.
 p302
 sg12
-g9
+g20
 sa(dp303
 g6
 VGood evening.
@@ -1092,13 +1092,13 @@ sg10
 VBARTLET
 p305
 sg12
-g9
+g15
 sa(dp306
 g6
 V32 minutes ago, there was a mechanical problem at the nuclear generating plant in San Andreo, California which is causing the reactor's core to overheat. There's been no explosion. There's no indication of terrorism or foul play. Engineers are working to address the problem right now. Governor Tillman has begun an evacuation and I'm declaring a major federal disaster and dispatching every possible resource. We don't have all the facts. You will have them as soon as we do but every level of government is working on this. No matter what happens, we're going to handle it.
 p307
 sg8
-g28
+g20
 sg10
 VBARTLET
 p308
@@ -1109,12 +1109,12 @@ g6
 VSo what they're doing is bypassing the broken valve and running a new pipeline to get cool water into that reactor so it doesn't meltdown. Federal officials believe they can avoid the worst, but I can tell you...
 p310
 sg8
-g28
+g20
 sg10
 VANCHOR
 p311
 sg12
-g9
+g20
 sa(dp312
 g6
 VI don't understand why they put a nuclear plant so close to a population center.
@@ -1208,7 +1208,7 @@ g6
 VSkip Oregon, campaign along the evacuation route, give out bottled water.
 p337
 sg8
-g28
+g20
 sg10
 VBRAM
 p338
@@ -1274,12 +1274,12 @@ g6
 VYeah. I'm going to cancel our events tomorrow. We can't be exploiting this.
 p355
 sg8
-g28
+g20
 sg10
 VJOSH
 p356
 sg12
-g9
+g20
 sa(dp357
 g6
 VYeah.
@@ -1312,7 +1312,7 @@ sg10
 VSANTOS
 p365
 sg12
-g9
+g20
 sa(dp366
 g6
 VI mean nothing on any issue: no speeches, no press releases. We stay right here.
@@ -1323,7 +1323,7 @@ sg10
 VJOSH
 p368
 sg12
-g9
+g20
 sa(dp369
 g6
 VSee which way the wind blows.
@@ -1362,7 +1362,7 @@ g6
 VThe heat removal pump hasn't had much impact: a 20-degree drop but we're talking 700 degrees in there.
 p379
 sg8
-g28
+g20
 sg10
 VC.J.
 p380
@@ -1384,12 +1384,12 @@ g6
 VI don't see anyone popping champagne corks. I thought if we got a line in there we'd avoid a meltdown.
 p385
 sg8
-g28
+g20
 sg10
 VBARTLET
 p386
 sg12
-g9
+g20
 sa(dp387
 g6
 VIt wasn't designed to hold it.
@@ -1400,7 +1400,7 @@ sg10
 VBARTLET
 p389
 sg12
-g9
+g20
 sa(dp390
 g6
 VNo. IT can accommodate up to 50 pounds of pressure per square inch. It's now at 34psi and rising. The coolant won't be enough to stop it. The fuel rods give off hydrogen gas.
@@ -1439,7 +1439,7 @@ g6
 VUnless we fix the valve soon, we have to vent radioactive gas into the atmosphere to relieve the pressure.
 p400
 sg8
-g28
+g20
 sg10
 VHARRY
 p401
@@ -1455,13 +1455,13 @@ sg10
 VBARTLET
 p404
 sg12
-g9
+g15
 sa(dp405
 g6
 VI don't want to release any radiation until everyone's been evacuated. What's the alternative? HARRY An explosion that spreads radiation all over Southern California; maybe parts of Arizona and Nevada, sir.
 p406
 sg8
-g28
+g20
 sg10
 VBARTLET
 p407
@@ -1477,7 +1477,7 @@ sg10
 VBARTLET
 p410
 sg12
-g9
+g20
 sa(dp411
 g6
 VWe think it will be within EPA's standard parameters for an acceptable dosage.
@@ -1488,7 +1488,7 @@ sg10
 VHARRY
 p413
 sg12
-g9
+g15
 sa(dp414
 g6
 VWhich could be good if the winds stay consistent; the radiation could drift out over the ocean.
@@ -1505,7 +1505,7 @@ g6
 VHow do we speed up the evacuation?
 p418
 sg8
-g28
+g20
 sg10
 VBARTLET
 p419
@@ -1582,7 +1582,7 @@ g6
 VRadioactive steam has been spilling into the containment building, so much that they've had to pump it into another building. The other building can only hold 50 pounds of pressure per inch. It's now at 38. We may have to vent radiation into the atmosphere to avoid a big bang.
 p439
 sg8
-g28
+g20
 sg10
 VWILL
 p440
@@ -1609,7 +1609,7 @@ sg10
 VWILL
 p446
 sg12
-g9
+g20
 sa(dp447
 g6
 VWhat if this turns out to be the administration's fault? We can't withhold information from the public.
@@ -1703,7 +1703,7 @@ g6
 VThey cross the borders, so does Russia, and we have a war on our hands.
 p472
 sg8
-g28
+g20
 sg10
 VBARTLET
 p473
@@ -1730,7 +1730,7 @@ sg10
 VBARTLET
 p479
 sg12
-g9
+g20
 sa(dp480
 g6
 VWe don't have much time to relieve the pressure in that auxiliary building.
@@ -1741,13 +1741,13 @@ sg10
 VC.J.
 p482
 sg12
-g9
+g20
 sa(dp483
 g6
 VWhere are we on the evacuation?
 p484
 sg8
-g28
+g20
 sg10
 VBARTLET
 p485
@@ -1758,7 +1758,7 @@ g6
 VMaybe a third of the people in the evacuation zone are out. At least 700,000 in the region are pouring onto the freeway.
 p487
 sg8
-g28
+g20
 sg10
 VC.J.
 p488
@@ -1835,7 +1835,7 @@ g6
 VIs there any way to wait for support from Camp Pendleton? I don't like the idea of the elderly and the disabled taking the brunt of this.
 p508
 sg8
-g28
+g20
 sg10
 VBARTLET
 p509
@@ -1846,7 +1846,7 @@ g6
 VThe longer we wait, the more chance of an explosion and God knows how much radiation shooting into the atmosphere.
 p511
 sg8
-g28
+g20
 sg10
 VHARRY
 p512
@@ -1950,13 +1950,13 @@ sg10
 VBARTLET
 p539
 sg12
-g9
+g20
 sa(dp540
 g6
 VIt'll make the evacuation 50 times harder.
 p541
 sg8
-g28
+g20
 sg10
 VHARRY
 p542
@@ -2049,13 +2049,13 @@ sg10
 VWILL
 p566
 sg12
-g9
+g20
 sa(dp567
 g6
 VHe's worried about public safety. He's urging those outside the evacuation zone to stay home so those in the zone can get out.
 p568
 sg8
-g28
+g20
 sg10
 VWILL
 p569
@@ -2143,12 +2143,12 @@ g6
 VThe Congressman doesn't want to politicize a tragedy.
 p592
 sg8
-g28
+g20
 sg10
 VJOSH
 p593
 sg12
-g9
+g20
 sa(dp594
 g6
 VWe don't want to do a press statement in the morning; a few interviews?
@@ -2170,7 +2170,7 @@ sg10
 VJOSH
 p599
 sg12
-g9
+g20
 sa(dp600
 g6
 VWe could make a lot of hay out of this. Vinick's the pro-nuke poster child.
@@ -2192,7 +2192,7 @@ sg10
 VJOSH
 p605
 sg12
-g9
+g20
 sa(dp606
 g6
 VYou may want to hang on to your pitchfork.
@@ -2242,12 +2242,12 @@ g6
 VI don't see why. Any angry constituents will just be vaporized anyway, right?
 p619
 sg8
-g28
+g20
 sg10
 VHELEN
 p620
 sg12
-g9
+g20
 sa(dp621
 g6
 VOh, am I the only one left in the family with a sense of humor?
@@ -2324,7 +2324,7 @@ sg10
 VJOSH
 p641
 sg12
-g9
+g20
 sa(dp642
 g6
 VWe don't want to nudge them along?
@@ -2335,13 +2335,13 @@ sg10
 VHELEN
 p644
 sg12
-g9
+g20
 sa(dp645
 g6
 VWe could put it out, yeah. But then he could hit us back for playing politics with a mushroom cloud. If the press finds it on its own, it'll be 900 times bigger.
 p646
 sg8
-g28
+g20
 sg10
 VJOSH
 p647
@@ -2374,7 +2374,7 @@ g6
 VThis isn't politics, this is policy. Those places are unsafe. It's a legitimate point.
 p655
 sg8
-g28
+g20
 sg10
 VHELEN
 p656
@@ -2385,7 +2385,7 @@ g6
 VIn New Mexico, in Arizona, in Colorado, people are getting in their cars and driving east. And while higher than acceptable levels of radiation drift into the air, the White House won't say if we're past risk of a meltdown or explosion.
 p658
 sg8
-g28
+g20
 sg10
 VANCHOR
 p659
@@ -2407,7 +2407,7 @@ g6
 VI don't like hearing the word "meltdown" on cable news. 12 things have not gone wrong yet. By my count, we're barely at 6 or 7.
 p664
 sg8
-g28
+g20
 sg10
 VBARTLET
 p665
@@ -2467,13 +2467,13 @@ sg10
 VHARRY
 p680
 sg12
-g9
+g15
 sa(dp681
 g6
 VThe more immediate concern is panic. The freeways are like parking lots. FOX is running a story about a family in Michigan that's leaving the country.
 p682
 sg8
-g28
+g20
 sg10
 VWILL
 p683
@@ -2616,7 +2616,7 @@ g6
 VWe support the governor's evacuation. We'll say it in Japanese.
 p721
 sg8
-g28
+g20
 sg10
 VBRUNO
 p722
@@ -2660,7 +2660,7 @@ g6
 VWe're in a great big, glass house. We do not throw the first stone.
 p733
 sg8
-g28
+g20
 sg10
 VBRUNO
 p734
@@ -2693,7 +2693,7 @@ g6
 VThey're killing us out there. And they still don't know our guy helped get that plant approved in the first place.
 p742
 sg8
-g28
+g20
 sg10
 VBOB
 p743
@@ -2704,7 +2704,7 @@ g6
 VBob. Bob, I know Josh Lyman. There is a reason he's camped out in Florida, the swinging-est of swing states. Santos is gonna whack us. Then we hit him back for politicizing a national disaster.
 p745
 sg8
-g28
+g20
 sg10
 VBRUNO
 p746
@@ -2819,7 +2819,7 @@ sg10
 VBARTLET
 p776
 sg12
-g9
+g20
 sa(dp777
 g6
 VYes, sir.
@@ -2874,7 +2874,7 @@ sg10
 VBRUNO
 p791
 sg12
-g9
+g15
 sa(dp792
 g6
 VNow we're banking on a Democrat helping us.
@@ -2929,7 +2929,7 @@ sg10
 VBRUNO
 p806
 sg12
-g9
+g15
 sa(dp807
 g6
 VNot if the story breaks while we're right there.
@@ -2946,7 +2946,7 @@ g6
 VYou don't get it; Santos is shut out of this trip. Josh has to attack us now.
 p811
 sg8
-g28
+g20
 sg10
 VBRUNO
 p812
@@ -3023,7 +3023,7 @@ g6
 VThe pipe's cracking.
 p832
 sg8
-g28
+g20
 sg10
 VBARTLET
 p833
@@ -3061,7 +3061,7 @@ sg10
 VC.J.
 p842
 sg12
-g9
+g15
 sa(dp843
 g6
 VWho would we be sending in?
@@ -3105,13 +3105,13 @@ sg10
 VC.J.
 p854
 sg12
-g9
+g15
 sa(dp855
 g6
 VYou think when they started engineering school, they imagined the President would ask them to risk their lives by prying open a piece of pipe? Send them in.
 p856
 sg8
-g28
+g20
 sg10
 VBARTLET
 p857
@@ -3133,7 +3133,7 @@ g6
 VIt's a very dangerous work environment, but they're trained for it.
 p862
 sg8
-g28
+g20
 sg10
 VWILL
 p863
@@ -3155,7 +3155,7 @@ g6
 VWe're hoping we can fix the underlying problem before that's an issue.
 p868
 sg8
-g28
+g20
 sg10
 VWILL
 p869
@@ -3166,7 +3166,7 @@ g6
 VYou'd tell us if we were on the verge of an explosion?
 p871
 sg8
-g28
+g20
 sg10
 VWALTER
 p872
@@ -3210,7 +3210,7 @@ g6
 VThe immediate danger is inside the zone.
 p883
 sg8
-g28
+g20
 sg10
 VWILL
 p884
@@ -3265,7 +3265,7 @@ g6
 VYou told Time we were worried about wind shifts?
 p898
 sg8
-g28
+g20
 sg10
 VWILL
 p899
@@ -3309,12 +3309,12 @@ g6
 VNot anymore. You're being transferred. You no longer speak for this government.
 p910
 sg8
-g28
+g20
 sg10
 VWILL
 p911
 sg12
-g9
+g20
 sa(dp912
 g6
 VFor telling people the truth?
@@ -3391,7 +3391,7 @@ sg10
 VJOSH
 p932
 sg12
-g9
+g15
 sa(dp933
 g6
 VIt could hurt Vinick. He's flying into the fog.
@@ -3424,7 +3424,7 @@ sg10
 VDONNA
 p941
 sg12
-g9
+g15
 sa(dp942
 g6
 VMore press requests, plus...
@@ -3435,7 +3435,7 @@ sg10
 VBRAM
 p944
 sg12
-g9
+g15
 sa(dp945
 g6
 VDenver, Colorado, DNC... these are all for me?
@@ -3452,7 +3452,7 @@ g6
 VYeah. They're wondering why we're holed up in Florida instead of mobilizing the whole party to slam Vinick.
 p949
 sg8
-g28
+g20
 sg10
 VBRAM
 p950
@@ -3474,7 +3474,7 @@ g6
 VEven the Advance guys are begging us to get off the dime.
 p955
 sg8
-g28
+g20
 sg10
 VBRAM
 p956
@@ -3485,12 +3485,12 @@ g6
 VTell Advance to stick to losing my luggage.
 p958
 sg8
-g28
+g20
 sg10
 VJOSH
 p959
 sg12
-g9
+g20
 sa(dp960
 g6
 VVinick's coasting toward his bipartisan buddy weekend with the President. The Advance guys are right: if we don't take him on...
@@ -3556,7 +3556,7 @@ sg10
 VSANTOS
 p977
 sg12
-g9
+g20
 sa(dp978
 g6
 VI'm not talking radio for yonkers. Every morning show wants you for their lead segment. Every cable...
@@ -3595,7 +3595,7 @@ g6
 VOne day with the President does not erase three decades of pushing plutonium.
 p988
 sg8
-g28
+g20
 sg10
 VSANTOS
 p989
@@ -3617,7 +3617,7 @@ g6
 VIf the press finds out he lobbied for San Andreo before he gets on that plane, there goes his get out of jail free card.
 p994
 sg8
-g28
+g20
 sg10
 VJOSH
 p995
@@ -3655,7 +3655,7 @@ sg10
 VHELEN
 p1004
 sg12
-g9
+g20
 sa(dp1005
 g6
 VBecause they just sent two engineers into the containment building; the press are clogging the freeways to.
@@ -3732,7 +3732,7 @@ sg10
 VBRUNO
 p1025
 sg12
-g9
+g20
 sa(dp1026
 g6
 VSympathy for the region, sympathy for the Red Skins; I don't care what he says. You want that debate clip to air another 6,000 times?
@@ -3749,7 +3749,7 @@ g6
 VJosh hits us, we call it bare-knuckled exploitation of a tragedy and we let the President do the heavy lifting.
 p1030
 sg8
-g28
+g20
 sg10
 VBRUNO
 p1031
@@ -3787,7 +3787,7 @@ sg10
 VBOB
 p1040
 sg12
-g9
+g15
 sa(dp1041
 g6
 VA nuclear disaster on his watch? He'll jump at the chance. He'll be defending himself too.
@@ -3798,7 +3798,7 @@ sg10
 VBRUNO
 p1043
 sg12
-g9
+g15
 sa(dp1044
 g6
 VDid you talk to the head of the Red Cross?
@@ -3881,12 +3881,12 @@ g6
 VIt'll take too long. This is an extremely toxic environment.
 p1066
 sg8
-g28
+g20
 sg10
 VHARRY
 p1067
 sg12
-g15
+g20
 sa(dp1068
 g6
 VIf more gas spills out of that structure, so is most of Southern California.
@@ -3908,7 +3908,7 @@ sg10
 VBARTLET
 p1073
 sg12
-g9
+g15
 sa(dp1074
 g6
 VFive, maybe ten minutes.
@@ -3919,7 +3919,7 @@ sg10
 VHARRY
 p1076
 sg12
-g9
+g20
 sa(dp1077
 g6
 VAsk them to try and shut down the other valve.
@@ -3952,7 +3952,7 @@ sg10
 VKATE
 p1085
 sg12
-g9
+g20
 sa(dp1086
 g6
 VTarimov.
@@ -3996,7 +3996,7 @@ sg10
 VKATE
 p1097
 sg12
-g9
+g20
 sa(dp1098
 g6
 VWe barely got China to hold their troops by scheduling this election.
@@ -4013,7 +4013,7 @@ g6
 VWe've already got them: a pro-democracy riot's broken out in the Kazakh capitol.
 p1102
 sg8
-g28
+g20
 sg10
 VC.J.
 p1103
@@ -4029,7 +4029,7 @@ sg10
 VVINICK
 p1106
 sg12
-g9
+g20
 sa(dp1107
 g6
 VDid you see my memo about your press availability with the President tomorrow?
@@ -4090,18 +4090,18 @@ g6
 VThis wasn't a failure of nuclear technology. This was a regulatory screw up.
 p1123
 sg8
-g28
+g20
 sg10
 VVINICK
 p1124
 sg12
-g9
+g20
 sa(dp1125
 g6
 VYou point fingers now and it will look like you are trying to avoid taking any responsibility for this.
 p1126
 sg8
-g28
+g20
 sg10
 VBRUNO
 p1127
@@ -4112,12 +4112,12 @@ g6
 VYou know why Europe's greenhouse emissions are so much lower than ours? Nuclear power: it's totally emissions-free.
 p1129
 sg8
-g28
+g20
 sg10
 VVINICK
 p1130
 sg12
-g9
+g20
 sa(dp1131
 g6
 VSure, but...
@@ -4134,7 +4134,7 @@ g6
 VYou know how many from oil refinery explosions? From coal soot in the air? Tens of thousands. And not one from a nuclear power anything in thirty years.
 p1135
 sg8
-g28
+g20
 sg10
 VVINICK
 p1136
@@ -4167,7 +4167,7 @@ g6
 VSantos is going to hit us. You have to wait. That is how we change the story.
 p1144
 sg8
-g28
+g20
 sg10
 VBRUNO
 p1145
@@ -4211,7 +4211,7 @@ g6
 VBoth the engineers who were in the containment building, they've been hospitalized for radiation sickness. One has slipped into a coma. Sir, they knew the danger better than us. You weren't wrong to...
 p1156
 sg8
-g28
+g20
 sg10
 VC.J.
 p1157
@@ -4255,12 +4255,12 @@ g6
 VIf they don't solve the problem...
 p1168
 sg8
-g28
+g20
 sg10
 VC.J.
 p1169
 sg12
-g9
+g20
 sa(dp1170
 g6
 V15 minutes and out.
@@ -4277,7 +4277,7 @@ g6
 VOf course, but if they can't solve the problem, we may be looking at another venting of radiation and the Santa Anas don't stay consistent for long. If the sea winds push them north...
 p1174
 sg8
-g28
+g20
 sg10
 VC.J.
 p1175
@@ -4288,7 +4288,7 @@ g6
 VCall the governor. Make a contingency plan to widen the evacuation. And I want updated weather models every half hour.
 p1177
 sg8
-g28
+g20
 sg10
 VBARTLET
 p1178
@@ -4299,7 +4299,7 @@ g6
 VYou weren't wrong to keep them in there, Mr. President.
 p1180
 sg8
-g28
+g20
 sg10
 VC.J.
 p1181
@@ -4332,7 +4332,7 @@ g6
 VJosh must be strapped to a gurney with a gag in his mouth. This is a mistake.
 p1189
 sg8
-g28
+g20
 sg10
 VBRUNO
 p1190
@@ -4370,7 +4370,7 @@ sg10
 VVINICK
 p1199
 sg12
-g9
+g15
 sa(dp1200
 g6
 VYour family is in the region. Don't you question what you said in the debate?
@@ -4398,7 +4398,7 @@ g6
 VNuclear power didn't break those valves. To blame nuclear technology itself for whatever mess happened... Federal Regulators are the ones who fell down on the job. You can start a fire with a match, too, you know.
 p1207
 sg8
-g28
+g20
 sg10
 VVINICK
 p1208
@@ -4447,7 +4447,7 @@ sg10
 VDONNA
 p1220
 sg12
-g9
+g15
 sa(dp1221
 g6
 VI want you to lead a couple of reporters to those documents about Vinick and San Andreo.
@@ -4458,7 +4458,7 @@ sg10
 VJOSH
 p1223
 sg12
-g9
+g15
 sa(dp1224
 g6
 VI thought you didn't want our fingerprints on it.
@@ -4524,7 +4524,7 @@ sg10
 VJOSH
 p1241
 sg12
-g9
+g20
 sa(dp1242
 g6
 VLeading questions?
@@ -4535,7 +4535,7 @@ sg10
 VDONNA
 p1244
 sg12
-g9
+g15
 sa(dp1245
 g6
 VYeah, or we'll blow the biggest chance we have at winning this thing we're ever going to get.
@@ -4552,7 +4552,7 @@ g6
 VIsn't Vinick right? How can this not be a failure of Bartlet's regulators?
 p1249
 sg8
-g28
+g20
 sg10
 VWALTER
 p1250
@@ -4563,7 +4563,7 @@ g6
 VWe don't even know the cause of the accident. I'm not going to speculate.
 p1252
 sg8
-g28
+g20
 sg10
 VWILL
 p1253
@@ -4645,7 +4645,7 @@ sg10
 VDONNA
 p1274
 sg12
-g9
+g20
 sa(dp1275
 g6
 VBiggest political story in six months - I don't care if you start humming off-key.
@@ -4678,7 +4678,7 @@ sg10
 VREPORTER
 p1283
 sg12
-g9
+g15
 sa(dp1284
 g6
 VYeah, sorry. Not talking to the press today.
@@ -4711,7 +4711,7 @@ sg10
 VBARTLET
 p1292
 sg12
-g9
+g20
 sa(dp1293
 g6
 VMr. President.
@@ -4744,7 +4744,7 @@ sg10
 VVINICK
 p1301
 sg12
-g9
+g15
 sa(dp1302
 g6
 VStandard protocol.
@@ -4766,7 +4766,7 @@ sg10
 VVINICK
 p1307
 sg12
-g9
+g20
 sa(dp1308
 g6
 VYou're expecting me to bash myself, too?
@@ -4805,7 +4805,7 @@ g6
 VDue respect, two broken valves and a radiation leak say some of them should look for other work.
 p1318
 sg8
-g28
+g20
 sg10
 VVINICK
 p1319
@@ -4904,18 +4904,18 @@ g6
 VIt is not and alternative. I know the Regulation's a mess. No regulation could make it safe. We could barely evacuate a town...
 p1345
 sg8
-g28
+g20
 sg10
 VBARTLET
 p1346
 sg12
-g9
+g20
 sa(dp1347
 g6
 VForgive me, Mr. President. The second team has closed the relief valve. The crisis is over for now. But the engineer who had fallen into the coma, he died 20 minutes ago from acute radiation poisoning. We'll get you another call sheet.
 p1348
 sg8
-g28
+g20
 sg10
 VC.J.
 p1349
@@ -5003,7 +5003,7 @@ g6
 VWe'd hide under our little wooden desks at school. At some point they stopped the drills. The threat was still there - they just stopped having the drills. I guess the realized a piece of plywood wasn't going to protect us against an atomic blast.
 p1372
 sg8
-g28
+g20
 sg10
 VBARTLET
 p1373
@@ -5036,7 +5036,7 @@ g6
 VWe can't have China and Russia blowing each other to bits over election fraud.
 p1381
 sg8
-g28
+g20
 sg10
 VBARTLET
 p1382
@@ -5052,7 +5052,7 @@ sg10
 VC.J.
 p1385
 sg12
-g9
+g20
 sa(dp1386
 g6
 VThe governor's waiting in the motorcade.
@@ -5085,7 +5085,7 @@ sg10
 VBARTLET
 p1394
 sg12
-g9
+g20
 sa(dp1395
 g6
 VSeems the estimate is 90,000, for starters.
@@ -5146,7 +5146,7 @@ g6
 VMore than a dozen states that had been squarely in the Vinick column, including Florida, Ohio, South Carolina, his own state California - all the states with nuclear power plants are now within the margin of error. It's a political meltdown, for sure. The Santos campaign is declining comment, but they've been flooded with volunteers and donations since the news that Senator Vinick lobbied for the San Andreo nuclear generating station.
 p1411
 sg8
-g28
+g20
 sg10
 VANCHOR
 p1412
@@ -5179,12 +5179,12 @@ g6
 VAll that campaigning didn't do a thing.
 p1420
 sg8
-g28
+g20
 sg10
 VHELEN
 p1421
 sg12
-g9
+g20
 sa(dp1422
 g6
 VAt this rate, maybe we should take the whole month off.

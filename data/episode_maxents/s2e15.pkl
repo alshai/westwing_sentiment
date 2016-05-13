@@ -68,7 +68,7 @@ sg10
 VJOSH
 p25
 sg12
-g13
+g9
 sa(dp26
 g6
 VYeah.
@@ -90,69 +90,69 @@ sg10
 VJOSH
 p31
 sg12
-g13
-sa(dp32
+S'positive'
+p32
+sa(dp33
 g6
 VYeah.
-p33
+p34
 sg8
 g13
 sg10
 VDONNA
-p34
+p35
 sg12
 g13
-sa(dp35
+sa(dp36
 g6
 VEfficiency and professionalism, and we're out of here at nine o'clock on a Wednesday night.
-p36
+p37
 sg8
 g13
 sg10
 VJOSH
-p37
+p38
 sg12
 g13
-sa(dp38
+sa(dp39
 g6
 VDoesn't hurt the President's in Tokyo.
-p39
+p40
 sg8
 g9
 sg10
 VDONNA
-p40
+p41
 sg12
 g13
-sa(dp41
+sa(dp42
 g6
 VYeah, well, there does seem to be a little less work to do when he's in a different hemisphere, but nonetheless...
-p42
+p43
 sg8
 g13
 sg10
 VJOSH
-p43
+p44
 sg12
 g13
-sa(dp44
+sa(dp45
 g6
 VEfficiency and professionalism.
-p45
+p46
 sg8
 g13
 sg10
 VDONNA
-p46
+p47
 sg12
-g13
-sa(dp47
+g32
+sa(dp48
 g6
 VWith a healthly dollop of leadership skills... the well-placed, well-worded memo. Nobody goes off the reservation, everybody does their job. Turn off your computer. Let's go.
-p48
-sg8
-S'positive'
 p49
+sg8
+g32
 sg10
 VJOSH
 p50
@@ -168,7 +168,7 @@ sg10
 VDONNA
 p53
 sg12
-g13
+g9
 sa(dp54
 g6
 VWhat is it?
@@ -223,7 +223,7 @@ sg10
 VJOSH
 p68
 sg12
-g49
+g32
 sa(dp69
 g6
 VWhat's she talking about?
@@ -240,7 +240,7 @@ g6
 V[reading] "Do you favor the decriminalization of marijuana?"
 p73
 sg8
-g49
+g32
 sg10
 VDONNA
 p74
@@ -251,7 +251,7 @@ g6
 V[reading] "That's not for me to say. I can tell you that marijuana poses no greater public health risk than nicotine or alcohol..."
 p76
 sg8
-g49
+g32
 sg10
 VJOSH
 p77
@@ -262,7 +262,7 @@ g6
 V[reading] "...and doesn't share the same addictive properties of heroin and LSD."
 p79
 sg8
-g49
+g32
 sg10
 VDONNA
 p80
@@ -273,7 +273,7 @@ g6
 V[reading] "Yet, bizarrely, to many of us in the health care profession, the law categorizes it as a Schedule I narcotic while putting a government seal on a pack of cigarettes."
 p82
 sg8
-g49
+g32
 sg10
 VJOSH
 p83
@@ -289,7 +289,7 @@ sg10
 VDONNA
 p86
 sg12
-g13
+g9
 sa(dp87
 g6
 VYeah.
@@ -311,7 +311,7 @@ sg10
 VJOSH
 p92
 sg12
-g13
+g32
 sa(dp93
 g6
 VWhat is it?
@@ -350,7 +350,7 @@ g6
 VI can't talk to him right now.
 p103
 sg8
-g49
+g32
 sg10
 VJOSH
 p104
@@ -361,12 +361,12 @@ g6
 VHe says it's important.
 p106
 sg8
-g49
+g32
 sg10
 VDONNA
 p107
 sg12
-g13
+g32
 sa(dp108
 g6
 VI'm gonna be there in a minute. [Donna exits.]
@@ -383,7 +383,7 @@ g6
 V[reading] "The Allman brothers?
 p112
 sg8
-g49
+g32
 sg10
 VC.J.
 p113
@@ -471,7 +471,7 @@ g6
 VThese people got a story. I guarantee you they called AP already... Carol, get me the wires!
 p136
 sg8
-g49
+g32
 sg10
 VC.J.
 p137
@@ -498,7 +498,7 @@ sg10
 VC.J.
 p143
 sg12
-g13
+g32
 sa(dp144
 g6
 VToby!
@@ -515,7 +515,7 @@ g6
 VGuys, I'm in the Blue Ribbon meeting, I got labor yelling at me, I got a real situation developing over there.
 p148
 sg8
-g49
+g32
 sg10
 VTOBY
 p149
@@ -553,7 +553,7 @@ sg10
 VJOSH
 p158
 sg12
-g13
+g32
 sa(dp159
 g6
 VPage 8. [to Josh] Why didn't you call me?
@@ -564,7 +564,7 @@ sg10
 VC.J.
 p161
 sg12
-g13
+g9
 sa(dp162
 g6
 VWhile it was happening?
@@ -575,7 +575,7 @@ sg10
 VJOSH
 p164
 sg12
-g49
+g9
 sa(dp165
 g6
 VYes!
@@ -597,7 +597,7 @@ sg10
 VJOSH
 p170
 sg12
-g13
+g9
 sa(dp171
 g6
 VWhen did it happen?
@@ -652,7 +652,7 @@ sg10
 VTOBY
 p185
 sg12
-g13
+g9
 sa(dp186
 g6
 VWhat were you going to do?
@@ -729,13 +729,13 @@ sg10
 VSAM
 p206
 sg12
-g49
+g13
 sa(dp207
 g6
 VJosh was watching in real time.
 p208
 sg8
-g49
+g32
 sg10
 VTOBY
 p209
@@ -784,7 +784,7 @@ sg10
 VSAM
 p221
 sg12
-g13
+g9
 sa(dp222
 g6
 VShe reversed our position on marijuana.
@@ -795,7 +795,7 @@ sg10
 VTOBY
 p224
 sg12
-g13
+g32
 sa(dp225
 g6
 VAll right. First things first what time is it in Tokyo?
@@ -812,7 +812,7 @@ g6
 VThey're fourteen hours ahead.
 p229
 sg8
-g49
+g32
 sg10
 VTOBY
 p230
@@ -828,7 +828,7 @@ sg10
 VJOSH
 p233
 sg12
-g13
+g9
 sa(dp234
 g6
 VEastern daylight.
@@ -845,7 +845,7 @@ g6
 VSo it's fourteen hours ahead.
 p238
 sg8
-g49
+g32
 sg10
 VJOSH
 p239
@@ -861,13 +861,13 @@ sg10
 VTOBY
 p242
 sg12
-g49
+g32
 sa(dp243
 g6
 VAre we sure it's ahead, and not beind?
 p244
 sg8
-g49
+g32
 sg10
 VJOSH
 p245
@@ -894,7 +894,7 @@ sg10
 VJOSH
 p251
 sg12
-g13
+g32
 sa(dp252
 g6
 VYeah.
@@ -927,7 +927,7 @@ sg10
 VTOBY
 p260
 sg12
-g13
+g9
 sa(dp261
 g6
 VAnd anybody else in my office.
@@ -988,12 +988,12 @@ g6
 VKeep reading.
 p277
 sg8
-g49
+g32
 sg10
 VTOBY
 p278
 sg12
-g13
+g32
 sa(dp279
 g6
 VSo if it's not a story until tomorrow morning then they're not gonna have it until tomorrow night. We bought it!
@@ -1048,7 +1048,7 @@ sg10
 VJOSH
 p293
 sg12
-g13
+g9
 sa(dp294
 g6
 VSeven P.M. Thursday.
@@ -1081,7 +1081,7 @@ sg10
 VC.J.
 p302
 sg12
-g49
+g32
 sa(dp303
 g6
 VLocal time?
@@ -1197,7 +1197,7 @@ g6
 VHe's gonna land in Washington an hour before he took off?
 p334
 sg8
-g49
+g32
 sg10
 VJOSH
 p335
@@ -1224,7 +1224,7 @@ sg10
 VJOSH
 p341
 sg12
-g13
+g9
 sa(dp342
 g6
 VToby, they're calling for you over there.
@@ -1301,7 +1301,7 @@ sg10
 VSAM
 p362
 sg12
-g13
+g9
 sa(dp363
 g6
 VThe man's gone a hundred and fifty hours. How can it be Thursday the whole time?
@@ -1318,7 +1318,7 @@ g6
 VListen. Japan is nine hours ahead of Greenwich Mean Time...
 p367
 sg8
-g49
+g32
 sg10
 VSAM
 p368
@@ -1334,7 +1334,7 @@ sg10
 VJOSH
 p371
 sg12
-g13
+g9
 sa(dp372
 g6
 V[on the phone in the back] Sophie, this is Donna Moss. Could you locate the Chief of Staff for me please?
@@ -1422,7 +1422,7 @@ sg10
 VJOSH
 p395
 sg12
-g13
+g9
 sa(dp396
 g6
 VI have no idea. But I don't like who we're being congratulated by.
@@ -1433,7 +1433,7 @@ sg10
 VSAM
 p398
 sg12
-g13
+g9
 sa(dp399
 g6
 V[hands Josh the handset] Josh.
@@ -1455,7 +1455,7 @@ sg10
 VJOSH
 p404
 sg12
-g13
+g32
 sa(dp405
 g6
 VI'm here.
@@ -1499,7 +1499,7 @@ sg10
 VTOBY
 p416
 sg12
-g13
+g32
 sa(dp417
 g6
 V'Cause I just got you off that little bellman's thing.
@@ -1510,7 +1510,7 @@ sg10
 VSAM
 p419
 sg12
-g13
+g9
 sa(dp420
 g6
 V[takes the cap off] Here's my problem.
@@ -1521,13 +1521,13 @@ sg10
 VTOBY
 p422
 sg12
-g13
+g9
 sa(dp423
 g6
 VThe AARP wants the President to put Seth Gillette on the Commission, so does the AFL-CO, it's important to them and for that reason I think it's got to be important to us.
 p424
 sg8
-g49
+g32
 sg10
 VTOBY
 p425
@@ -1538,12 +1538,12 @@ g6
 VThere's another good reason.
 p427
 sg8
-g49
+g32
 sg10
 VSAM
 p428
 sg12
-g13
+g32
 sa(dp429
 g6
 VIt neutralizes him.
@@ -1576,7 +1576,7 @@ sg10
 VTOBY
 p437
 sg12
-g13
+g9
 sa(dp438
 g6
 VMaybe, maybe not.
@@ -1587,7 +1587,7 @@ sg10
 VSAM
 p440
 sg12
-g13
+g9
 sa(dp441
 g6
 VYeah, but we can't risk that. First of all, we need him on the Commission, or else labor and seniors will be suspicious from the getgo; second, if he's not going to be on the Commission, it can't be because he turned us down.
@@ -1686,7 +1686,7 @@ sg10
 VCHARLIE
 p467
 sg12
-g13
+g32
 sa(dp468
 g6
 VYeah, last week.
@@ -1719,7 +1719,7 @@ sg10
 VCHARLIE
 p476
 sg12
-g13
+g9
 sa(dp477
 g6
 V"Prince of New York."
@@ -1763,7 +1763,7 @@ sg10
 VSAM
 p488
 sg12
-g49
+g9
 sa(dp489
 g6
 VYeah.
@@ -1824,7 +1824,7 @@ g6
 VWell, there'd be fallout from women voters and, I'm pretty sure, the AMA, to say nothing of the First Lady.
 p505
 sg8
-g49
+g32
 sg10
 VJOSH
 p506
@@ -1868,7 +1868,7 @@ g6
 VCan you show support for the Surgeon General without supporting her policy?
 p517
 sg8
-g49
+g32
 sg10
 VJOSH
 p518
@@ -1895,7 +1895,7 @@ sg10
 VJOSH
 p524
 sg12
-g13
+g9
 sa(dp525
 g6
 VTry me.
@@ -1906,7 +1906,7 @@ sg10
 VC.J.
 p527
 sg12
-g13
+g9
 sa(dp528
 g6
 V[in a mock-reporter voice] C.J., did you know that Dr Griffith was going to criticize the administration's drug policy last night?
@@ -1934,18 +1934,18 @@ g6
 VWell, she basically called for legalization of marijuana. Does the President agree with it?
 p535
 sg8
-g49
+g32
 sg10
 VJOSH
 p536
 sg12
-g13
+g32
 sa(dp537
 g6
 VWrong again, and I will refer you to the Surgeon General's comments. When asked if marijuana should be legalized, she said and I'm quoting, "It's not for me to say." And she's right, and it's important that people understand this the Surgeon General's not a law-maker, she doesn't set drug policy, the President does, and the President is 100% against legalizing drugs including marijuana.
 p538
 sg8
-g49
+g32
 sg10
 VC.J.
 p539
@@ -2027,7 +2027,7 @@ sg10
 VJOSH
 p560
 sg12
-g13
+g9
 sa(dp561
 g6
 VDr. Griffith.
@@ -2060,7 +2060,7 @@ sg10
 VJOSH
 p569
 sg12
-g13
+g9
 sa(dp570
 g6
 VYeah, 130 over 87.
@@ -2082,7 +2082,7 @@ sg10
 VJOSH
 p575
 sg12
-g13
+g9
 sa(dp576
 g6
 V[surprised] When did you see my scar?
@@ -2104,7 +2104,7 @@ sg10
 VJOSH
 p581
 sg12
-g13
+g9
 sa(dp582
 g6
 VThere's some pain.
@@ -2126,24 +2126,24 @@ sg10
 VJOSH
 p587
 sg12
-g13
+g32
 sa(dp588
 g6
 VI eat fine.
 p589
 sg8
-g49
+g32
 sg10
 VJOSH
 p590
 sg12
-g13
+g32
 sa(dp591
 g6
 VI was in great shape in college.
 p592
 sg8
-g49
+g32
 sg10
 VJOSH
 p593
@@ -2181,13 +2181,13 @@ sg10
 VJOSH
 p602
 sg12
-g49
+g32
 sa(dp603
 g6
 VThe truth is different if you're a GP or a member of the Stanford Faculty Club than if you're the country's chief medical practitioner.
 p604
 sg8
-g49
+g32
 sg10
 VJOSH
 p605
@@ -2264,7 +2264,7 @@ g6
 VI've had three conversations with Leo McGarry in the last 12 hours. The reason I've come here...
 p625
 sg8
-g49
+g32
 sg10
 VJOSH
 p626
@@ -2302,7 +2302,7 @@ sg10
 VJOSH
 p635
 sg12
-g49
+g32
 sa(dp636
 g6
 V[under his breath] Excellent.
@@ -2324,7 +2324,7 @@ sg10
 VC.J.
 p641
 sg12
-g49
+g32
 sa(dp642
 g6
 VNo, I don't know what the hell's going on there.
@@ -2341,7 +2341,7 @@ g6
 VNot unless he did it in the shower. But he hasn't denounced it to me and he certainly hasn't to the public. [The reporters chuckle.] That's all. See you this afternoon.
 p646
 sg8
-g49
+g32
 sg10
 VC.J.
 p647
@@ -2368,18 +2368,18 @@ sg10
 VC.J.
 p653
 sg12
-g49
+g32
 sa(dp654
 g6
 VGood job.
 p655
 sg8
-g49
+g32
 sg10
 VSAM
 p656
 sg12
-g13
+g32
 sa(dp657
 g6
 VPlease tell me what's going on with this movie.
@@ -2434,7 +2434,7 @@ sg10
 VC.J.
 p671
 sg12
-g13
+g9
 sa(dp672
 g6
 VAnd religious imagery. Family and religious groups are organizing boycotts.
@@ -2484,7 +2484,7 @@ g6
 VBecause he did. The producer goes on Imus and says Bartlet's a coward who's siding with Puritanical censors and that Hollywood should know he's no friend of the First Amendment.
 p685
 sg8
-g49
+g32
 sg10
 VSAM
 p686
@@ -2522,7 +2522,7 @@ sg10
 VC.J.
 p695
 sg12
-g13
+g9
 sa(dp696
 g6
 VHere's the thing.
@@ -2643,7 +2643,7 @@ sg10
 VSAM
 p728
 sg12
-g13
+g9
 sa(dp729
 g6
 VWhat?
@@ -2698,7 +2698,7 @@ sg10
 VC.J.
 p743
 sg12
-g13
+g9
 sa(dp744
 g6
 VC.J..
@@ -2808,7 +2808,7 @@ sg10
 VC.J.
 p773
 sg12
-g13
+g9
 sa(dp774
 g6
 VC.J.?
@@ -2830,7 +2830,7 @@ sg10
 VSAM
 p779
 sg12
-g13
+g32
 sa(dp780
 g6
 VDanny Concannon's on the phone, and I think you should take it.
@@ -2907,7 +2907,7 @@ sg10
 VCAROL
 p800
 sg12
-g13
+g9
 sa(dp801
 g6
 VEleanor who?
@@ -2929,7 +2929,7 @@ sg10
 VCAROL
 p806
 sg12
-g13
+g9
 sa(dp807
 g6
 V[into phone] Hey, it's C.J.
@@ -2946,23 +2946,23 @@ g6
 VAnd a friend of seniors.
 p811
 sg8
-g49
+g32
 sg10
 VLENNY
 p812
 sg12
-g13
+g32
 sa(dp813
 g6
 VThe President's a friend of labour, a friend of seniors, a friend of small animals...
 p814
 sg8
-g49
+g32
 sg10
 VTOBY
 p815
 sg12
-g13
+g32
 sa(dp816
 g6
 VToby!
@@ -3006,7 +3006,7 @@ sg10
 VTOBY
 p827
 sg12
-g49
+g32
 sa(dp828
 g6
 VReally.
@@ -3050,7 +3050,7 @@ sg10
 VTOBY
 p839
 sg12
-g13
+g9
 sa(dp840
 g6
 VC.J..
@@ -3094,13 +3094,13 @@ sg10
 VC.J.
 p851
 sg12
-g13
+g9
 sa(dp852
 g6
 VNo. Leo's gonna need to talk to her. In the meantime, you should start to walk back some of what you said in the press room, all right?
 p853
 sg8
-g49
+g32
 sg10
 VJOSH
 p854
@@ -3199,12 +3199,12 @@ g6
 VYes, sir.
 p880
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p881
 sg12
-g49
+g32
 sa(dp882
 g6
 VAnd by dumping low priced steel on the U.S., you know what they're asking for?
@@ -3248,7 +3248,7 @@ sg10
 VCHARLIE
 p893
 sg12
-g13
+g32
 sa(dp894
 g6
 VA return to Smoot-Hawley and the Great Depression.
@@ -3259,13 +3259,13 @@ sg10
 VBARTLET
 p896
 sg12
-g13
+g32
 sa(dp897
 g6
 VWell, you should go to Japan and tell them that, sir.
 p898
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p899
@@ -3380,7 +3380,7 @@ sg10
 VLEO
 p929
 sg12
-g13
+g9
 sa(dp930
 g6
 VWhen did this happen?
@@ -3413,7 +3413,7 @@ sg10
 VBARTLET
 p938
 sg12
-g49
+g9
 sa(dp939
 g6
 V[quietly] Because I didn't want you crash-landing the plane. Let's get in the car.
@@ -3474,7 +3474,7 @@ g6
 VThat's not a reason to make it legal.
 p955
 sg8
-g49
+g32
 sg10
 VJOSH
 p956
@@ -3485,7 +3485,7 @@ g6
 VIn a free society, you don't need a reason to make something legal... you need a reason to make something illegal.
 p958
 sg8
-g49
+g32
 sg10
 VDONNA
 p959
@@ -3512,7 +3512,7 @@ sg10
 VDONNA
 p965
 sg12
-g49
+g13
 sa(dp966
 g6
 VNo, that's Okay, it's just me, talking...
@@ -3523,7 +3523,7 @@ sg10
 VJOSH
 p968
 sg12
-g13
+g9
 sa(dp969
 g6
 V[hangs up] President's back.
@@ -3534,7 +3534,7 @@ sg10
 VDONNA
 p971
 sg12
-g13
+g9
 sa(dp972
 g6
 VDoes he want to see me?
@@ -3545,7 +3545,7 @@ sg10
 VJOSH
 p974
 sg12
-g13
+g9
 sa(dp975
 g6
 VYeah?
@@ -3633,7 +3633,7 @@ sg10
 VC.J.
 p998
 sg12
-g13
+g9
 sa(dp999
 g6
 VC.J., you're going to suspend his credentials for six months, and I don't give a damn. His paper wants to cover the President, they can send someone else.
@@ -3644,7 +3644,7 @@ sg10
 VBARTLET
 p1001
 sg12
-g13
+g9
 sa(dp1002
 g6
 VMr. President, Danny didn't call her.
@@ -3666,18 +3666,18 @@ sg10
 VBARTLET
 p1007
 sg12
-g13
+g9
 sa(dp1008
 g6
 VYes, sir. She called him.
 p1009
 sg8
-g49
+g32
 sg10
 VC.J.
 p1010
 sg12
-g13
+g32
 sa(dp1011
 g6
 V[pause] She called him?
@@ -3716,23 +3716,23 @@ g6
 VHow was the flight, sir?
 p1021
 sg8
-g49
+g32
 sg10
 VJOSH
 p1022
 sg12
-g13
+g32
 sa(dp1023
 g6
 VTokyo is willing to show economic restraint, in exchange for a good fielding shortstop and a left-handed reliever... Who's against us so far?
 p1024
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1025
 sg12
-g13
+g32
 sa(dp1026
 g6
 VThe Judiciary Committee, Government Reform and Oversight, Appropriations...
@@ -3743,7 +3743,7 @@ sg10
 VJOSH
 p1028
 sg12
-g13
+g32
 sa(dp1029
 g6
 VAppropriations?
@@ -3771,7 +3771,7 @@ g6
 VWho's coming to her defense?
 p1036
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1037
@@ -3837,12 +3837,12 @@ g6
 VYes sir.
 p1054
 sg8
-g49
+g32
 sg10
 VC.J.
 p1055
 sg12
-g49
+g32
 sa(dp1056
 g6
 VI've got to hand it to you guys you've pulled off a political first. You've managed to win me the support of the Christian Right and the Cheech and Chong Fan Club in the same day.
@@ -3875,13 +3875,13 @@ sg10
 VBARTLET
 p1064
 sg12
-g13
+g9
 sa(dp1065
 g6
 VNo sir.
 p1066
 sg8
-g49
+g32
 sg10
 VJOSH
 p1067
@@ -3897,7 +3897,7 @@ sg10
 VBARTLET
 p1070
 sg12
-g49
+g32
 sa(dp1071
 g6
 VThank you, Mr. President.
@@ -3908,7 +3908,7 @@ sg10
 VC.J.
 p1073
 sg12
-g49
+g13
 sa(dp1074
 g6
 VThank you, Mr. President.
@@ -3919,13 +3919,13 @@ sg10
 VJOSH
 p1076
 sg12
-g49
+g13
 sa(dp1077
 g6
 VCharlie? Would you arrange for my middle daughter to come see me at her earliest possible convenience?
 p1078
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1079
@@ -3936,12 +3936,12 @@ g6
 VYes sir.
 p1081
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p1082
 sg12
-g49
+g32
 sa(dp1083
 g6
 VAh, screw her convenience. Get her ass down here.
@@ -4029,7 +4029,7 @@ sg10
 VSAM
 p1106
 sg12
-g13
+g9
 sa(dp1107
 g6
 VYeah.
@@ -4051,13 +4051,13 @@ sg10
 VSAM
 p1112
 sg12
-g13
+g9
 sa(dp1113
 g6
 VWell, I think we should stand by her too. I just wanted to make sure we were agreed that smoked white fish was pretty much on its own.
 p1114
 sg8
-g49
+g32
 sg10
 VTOBY
 p1115
@@ -4123,12 +4123,12 @@ g6
 VSoon. What's the food for?
 p1132
 sg8
-g49
+g32
 sg10
 VSAM
 p1133
 sg12
-g13
+g32
 sa(dp1134
 g6
 VToday's attempt at ensuring out future.
@@ -4139,7 +4139,7 @@ sg10
 VTOBY
 p1136
 sg12
-g13
+g9
 sa(dp1137
 g6
 VWhat's your plan?
@@ -4172,7 +4172,7 @@ sg10
 VSAM
 p1145
 sg12
-g13
+g9
 sa(dp1146
 g6
 VWell, it was when I was married to her.
@@ -4194,7 +4194,7 @@ sg10
 VTOBY
 p1151
 sg12
-g13
+g32
 sa(dp1152
 g6
 VThank you. How've you been, Sam?
@@ -4205,7 +4205,7 @@ sg10
 VANDY
 p1154
 sg12
-g49
+g13
 sa(dp1155
 g6
 VSam's great.
@@ -4222,12 +4222,12 @@ g6
 VFit as a fiddle, Andy. Although, to tell you the truth, I found...
 p1159
 sg8
-g49
+g32
 sg10
 VSAM
 p1160
 sg12
-g13
+g32
 sa(dp1161
 g6
 VNobody cares.
@@ -4271,7 +4271,7 @@ sg10
 VANDY
 p1172
 sg12
-g49
+g13
 sa(dp1173
 g6
 VCongresswoman Wyatt.
@@ -4293,13 +4293,13 @@ sg10
 VANDY
 p1178
 sg12
-g13
+g32
 sa(dp1179
 g6
 VYou're growing into that title very nicely.
 p1180
 sg8
-g49
+g32
 sg10
 VTOBY
 p1181
@@ -4337,7 +4337,7 @@ sg10
 VANDY
 p1190
 sg12
-g49
+g32
 sa(dp1191
 g6
 VSo does the AARP.
@@ -4348,7 +4348,7 @@ sg10
 VTOBY
 p1193
 sg12
-g13
+g9
 sa(dp1194
 g6
 VYes.
@@ -4359,13 +4359,13 @@ sg10
 VANDY
 p1196
 sg12
-g49
+g32
 sa(dp1197
 g6
 VIt's very important to them.
 p1198
 sg8
-g49
+g32
 sg10
 VTOBY
 p1199
@@ -4381,7 +4381,7 @@ sg10
 VANDY
 p1202
 sg12
-g49
+g32
 sa(dp1203
 g6
 VDo you know why?
@@ -4392,7 +4392,7 @@ sg10
 VTOBY
 p1205
 sg12
-g49
+g13
 sa(dp1206
 g6
 V'Cause they've been very suspicious of the Commission since you announced it, and want one of their people protecting their interests?
@@ -4431,7 +4431,7 @@ g6
 VNo. But I bring you here, and we sit, and we have coffee, and we have Danish, in the hope that calmer and, dare I say, prettier heads prevail.
 p1216
 sg8
-g49
+g32
 sg10
 VTOBY
 p1217
@@ -4447,7 +4447,7 @@ sg10
 VANDY
 p1220
 sg12
-g13
+g9
 sa(dp1221
 g6
 VI was referring to myself.
@@ -4458,7 +4458,7 @@ sg10
 VTOBY
 p1223
 sg12
-g13
+g9
 sa(dp1224
 g6
 VYou don't want to ask Gillette?
@@ -4497,7 +4497,7 @@ g6
 VRight. This is really important, Andy. Can you help us?
 p1234
 sg8
-g49
+g32
 sg10
 VTOBY
 p1235
@@ -4535,7 +4535,7 @@ sg10
 VTOBY
 p1244
 sg12
-g13
+g9
 sa(dp1245
 g6
 VPut the Danish down.
@@ -4596,7 +4596,7 @@ g6
 V[reading off a sheet of paper] It's an updated version of Dostoyevsky's "The Idiot" which tells the story of a Christ-like epileptic young man who embodies goodness, but encounters sex, crime, and family dysfunction.
 p1261
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p1262
@@ -4607,7 +4607,7 @@ g6
 VWell he would have especially enjoyed the scene where the Prince Myshkin character has a seizure while engaging in an erotic fantasy in a Long Island church.
 p1264
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p1265
@@ -4634,13 +4634,13 @@ sg10
 VCHARLIE
 p1271
 sg12
-g13
+g32
 sa(dp1272
 g6
 VRed meat has been found to cause cancer in white rats. Maraschino cherries have been found to cause cancer in white rats. Cellular phones have been found to cause cancer in white rats. Has anyone examined the possibility that cancer might be hereditary in white rats?
 p1273
 sg8
-g49
+g32
 sg10
 VMARGARET
 p1274
@@ -4733,7 +4733,7 @@ sg10
 VELLIE
 p1298
 sg12
-g13
+g9
 sa(dp1299
 g6
 VZoey said you were thinking about oncology.
@@ -4777,7 +4777,7 @@ sg10
 VELLIE
 p1310
 sg12
-g13
+g9
 sa(dp1311
 g6
 VThey said he should be back any minute.
@@ -4794,18 +4794,18 @@ g6
 VI'm... good. Yeah.
 p1315
 sg8
-g49
+g32
 sg10
 VELLIE
 p1316
 sg12
-g13
+g9
 sa(dp1317
 g6
 VYou like medical school?
 p1318
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p1319
@@ -4816,12 +4816,12 @@ g6
 VI do. I like my professors. I have a pathophysiology professor who teaches clinical skills by...
 p1321
 sg8
-g49
+g32
 sg10
 VELLIE
 p1322
 sg12
-g13
+g9
 sa(dp1323
 g6
 VEagle's moving.
@@ -4876,7 +4876,7 @@ sg10
 VBARTLET
 p1337
 sg12
-g13
+g32
 sa(dp1338
 g6
 VEllie, thanks for coming.
@@ -4887,7 +4887,7 @@ sg10
 VBARTLET
 p1340
 sg12
-g13
+g9
 sa(dp1341
 g6
 VHi, dad.
@@ -4898,7 +4898,7 @@ sg10
 VELLIE
 p1343
 sg12
-g13
+g32
 sa(dp1344
 g6
 VCome on in.
@@ -4942,7 +4942,7 @@ sg10
 VBARTLET
 p1355
 sg12
-g49
+g32
 sa(dp1356
 g6
 VAn airplane? No.
@@ -4975,7 +4975,7 @@ sg10
 VELLIE
 p1364
 sg12
-g13
+g9
 sa(dp1365
 g6
 VThat's because you go to school at Johns Hopkins, right?
@@ -5003,7 +5003,7 @@ g6
 VAnd Johns Hopkins is in Baltimore. I'm asking 'cause Baltimore is a 45-minute car ride from Washington, D.C. and we hardly see you anymore. So, I thought either you transfered to a different medical school, they moved Johns Hopkins, or they moved Baltimore. Are any of those things true?
 p1372
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1373
@@ -5025,7 +5025,7 @@ g6
 VOkay. And this is accurate, right? This quote "My father won't fire the Surgeon General. He would never do that."
 p1378
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1379
@@ -5041,13 +5041,13 @@ sg10
 VELLIE
 p1382
 sg12
-g49
+g32
 sa(dp1383
 g6
 VElanor, when you put your head down, your hair falls in your face, and I can't see your face, and I can't hear what you're saying. Now look at me, and talk to me.
 p1384
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1385
@@ -5058,12 +5058,12 @@ g6
 VYes, the quote is accurate.
 p1387
 sg8
-g49
+g32
 sg10
 VELLIE
 p1388
 sg12
-g13
+g32
 sa(dp1389
 g6
 VWhat the hell are you doing talking to a reporter?
@@ -5085,13 +5085,13 @@ sg10
 VELLIE
 p1394
 sg12
-g13
+g9
 sa(dp1395
 g6
 V[getting angry] I have set up monumental, unprecedented, unbreakable rules about my children and the press. I have gotten White House reporters transferred to Yemen for approaching Zoey and Elizabeth. It is the law! [walks away to calm down] Well, I'm sure before you gave the quote you cleared it with the Communications Office. I'm sure you went over the exact wording with C.J. Cregg and coordinated with White House strategy so that the timing was right in the news cycle. I'm certain you consulted the appropriate party leadership because you're a pretty knowledgeable operative having spent so much time with me. Ellie?
 p1396
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1397
@@ -5168,7 +5168,7 @@ g6
 VShe was doing exactly what she is supposed to do! She... I'm sorry. She was asked a question, and she said what she knew to be true. And when you start firing doctors for that, you've crossed the line somewhere.
 p1417
 sg8
-g49
+g32
 sg10
 VELLIE
 p1418
@@ -5195,13 +5195,13 @@ sg10
 VELLIE
 p1424
 sg12
-g13
+g9
 sa(dp1425
 g6
 VWell, you sure didn't do it to make me happy!
 p1426
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1427
@@ -5212,7 +5212,7 @@ g6
 VI don't know HOW to make you happy, Dad! For that, you've got to talk to Zoey or Liz.
 p1429
 sg8
-g49
+g32
 sg10
 VELLIE
 p1430
@@ -5228,7 +5228,7 @@ sg10
 VBARTLET
 p1433
 sg12
-g13
+g9
 sa(dp1434
 g6
 VMom gets back first thing in the morning and we're running a movie tonight if you want to stay over.
@@ -5261,7 +5261,7 @@ sg10
 VBARTLET
 p1442
 sg12
-g13
+g32
 sa(dp1443
 g6
 VI go out...?
@@ -5333,12 +5333,12 @@ g6
 VYes sir.
 p1462
 sg8
-g49
+g32
 sg10
 VCHARLIE
 p1463
 sg12
-g49
+g32
 sa(dp1464
 g6
 VHang on.
@@ -5382,13 +5382,13 @@ sg10
 VTOBY
 p1475
 sg12
-g13
+g9
 sa(dp1476
 g6
 VYes, you will, you will summon your strength and you will listen to me for a moment. [beat] You guys made a hairpin turn at the State of the Union and you did it without consulting a whole lot of members of the liberal wing of the Democratic Party.
 p1477
 sg8
-g49
+g32
 sg10
 VANDY
 p1478
@@ -5410,7 +5410,7 @@ g6
 VSo you'll forgive some people if they're concerned that one of the options you're going to explore is raising the retirement age.
 p1483
 sg8
-g49
+g32
 sg10
 VANDY
 p1484
@@ -5426,7 +5426,7 @@ sg10
 VTOBY
 p1487
 sg12
-g13
+g32
 sa(dp1488
 g6
 VSo you are considering it!
@@ -5448,7 +5448,7 @@ sg10
 VTOBY
 p1493
 sg12
-g13
+g9
 sa(dp1494
 g6
 VWhy does this have to happen in secret?
@@ -5465,7 +5465,7 @@ g6
 VBecause it's the only way it's gonna happen! Because you can't solve Social Security and ask people to run for election at the same time! So why not give politicians some cloud cover and let them be lawmakers for a while? Fifteen people in a room with the door closed; seven democrats, seven republicans, and the President of the United States, who will not have a vote, and they walk out of that room, and with one voice they make a recommendation to Congress and the American people! And nobody knows who was where! [sighs] The only way this is going to happen is in secret. And they only way it's going to happen is if all the sides are confident in their representation. Otherwise it's dead, and so I need Seth Gillette on the commission, but I can't ask him, 'cause if he says no, there'll be no commission! [beat] Anyway... I appreciate you coming down and talking to me. [heads to open the door for her]
 p1498
 sg8
-g49
+g32
 sg10
 VTOBY
 p1499
@@ -5487,7 +5487,7 @@ g6
 VListen, I read in the paper that I'm on the benefit committee for the Child Leukemia Foundation.
 p1504
 sg8
-g49
+g32
 sg10
 VTOBY
 p1505
@@ -5498,12 +5498,12 @@ g6
 V[putting her coat on, smiling] Yeah, I saw that, too.
 p1507
 sg8
-g49
+g32
 sg10
 VANDY
 p1508
 sg12
-g13
+g32
 sa(dp1509
 g6
 VWhy do you suppose the paper wrote that?
@@ -5525,7 +5525,7 @@ sg10
 VANDY
 p1514
 sg12
-g13
+g9
 sa(dp1515
 g6
 VI guess they must have. You don't think it'd be a better idea if you asked me first?
@@ -5536,7 +5536,7 @@ sg10
 VTOBY
 p1517
 sg12
-g13
+g9
 sa(dp1518
 g6
 VI really didn't.
@@ -5547,7 +5547,7 @@ sg10
 VANDY
 p1520
 sg12
-g13
+g9
 sa(dp1521
 g6
 VInteresting.
@@ -5575,7 +5575,7 @@ g6
 VListen, you'll have fun, you'll look nice in your tuxedo, you don't have to stay, you don't have... [turns to him] Toby?
 p1528
 sg8
-g49
+g32
 sg10
 VANDY
 p1529
@@ -5613,7 +5613,7 @@ sg10
 VANDY
 p1538
 sg12
-g13
+g32
 sa(dp1539
 g6
 V[to Toby] Toby, when you have a minute, can you stop by the office, I need...
@@ -5641,7 +5641,7 @@ g6
 VC.J., tomorrow morning I want you to announce that Seth Gillette's joined the Blue Ribbon Commission on Social Security.
 p1546
 sg8
-g49
+g32
 sg10
 VTOBY
 p1547
@@ -5701,7 +5701,7 @@ sg10
 VC.J.
 p1562
 sg12
-g13
+g9
 sa(dp1563
 g6
 V[as she walks away] Okay.
@@ -5712,13 +5712,13 @@ sg10
 VTOBY
 p1565
 sg12
-g13
+g9
 sa(dp1566
 g6
 VIt's like checking the sugar and fat content on a box of cereal.
 p1567
 sg8
-g49
+g32
 sg10
 VED
 p1568
@@ -5729,7 +5729,7 @@ g6
 VThe only reason we have to come to you every ten years is that the situation isn't getting any better.
 p1570
 sg8
-g49
+g32
 sg10
 VED
 p1571
@@ -5740,7 +5740,7 @@ g6
 VCan I talk to you?
 p1573
 sg8
-g49
+g32
 sg10
 VSAM
 p1574
@@ -5778,7 +5778,7 @@ sg10
 VSAM
 p1583
 sg12
-g13
+g9
 sa(dp1584
 g6
 VWhy?
@@ -5822,7 +5822,7 @@ sg10
 VSAM
 p1595
 sg12
-g13
+g9
 sa(dp1596
 g6
 VWhat is he seeing tonight?
@@ -5866,7 +5866,7 @@ sg10
 VROSS
 p1607
 sg12
-g13
+g9
 sa(dp1608
 g6
 VGloriosky, Morgan, the Family Values Leadership Council distorted the truth. Stop the presses.
@@ -5905,7 +5905,7 @@ g6
 VYou're an industry expert now.
 p1618
 sg8
-g49
+g32
 sg10
 VROSS
 p1619
@@ -5932,13 +5932,13 @@ sg10
 VROSS
 p1625
 sg12
-g13
+g9
 sa(dp1626
 g6
 VYeah. Because it makes me crazy, Morgan, this is exactly the kind of thing that should be celebrated by First Amendment advocates. Charlie was offered a choice and he made one. Why aren't you standing up, saying, "See, it works! You don't need to ban movies like "Prince of New York", you just have to choose not to watch them!" And Morgan you ever call the President a coward again for your own PR purposes, it's not going to be C.J. Cregg you gotta deal with, it's going to be me. You understand what I'm saying, right?
 p1627
 sg8
-g49
+g32
 sg10
 VSAM
 p1628
@@ -5954,7 +5954,7 @@ sg10
 VROSS
 p1631
 sg12
-g49
+g32
 sa(dp1632
 g6
 VNow why don't you go back to your meeting and show me how much you want to make it up to us.
@@ -5971,18 +5971,18 @@ g6
 VGood job.
 p1636
 sg8
-g49
+g32
 sg10
 VTOBY
 p1637
 sg12
-g13
+g32
 sa(dp1638
 g6
 V[in the back, to Donna] This isn't good.
 p1639
 sg8
-g49
+g32
 sg10
 VJOSH
 p1640
@@ -6020,7 +6020,7 @@ sg10
 VDONNA
 p1649
 sg12
-g13
+g9
 sa(dp1650
 g6
 VHe usually talks during the movie.
@@ -6042,7 +6042,7 @@ sg10
 VBARTLET
 p1655
 sg12
-g13
+g32
 sa(dp1656
 g6
 VI'm sorry about this.
@@ -6053,7 +6053,7 @@ sg10
 VBARTLET
 p1658
 sg12
-g13
+g9
 sa(dp1659
 g6
 VIs that your resignation?
@@ -6075,7 +6075,7 @@ sg10
 VBARTLET
 p1664
 sg12
-g49
+g32
 sa(dp1665
 g6
 VDid you not think that playing down the dangers of drug use sent a dangerous signal as well?
@@ -6114,7 +6114,7 @@ g6
 VYou didn't pick up the phone after Josh came to see you and say, "Ellie, it's your godmother, let's stick it to your old man, and paint him into a corner?"
 p1675
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1676
@@ -6141,7 +6141,7 @@ sg10
 VBARTLET
 p1682
 sg12
-g49
+g13
 sa(dp1683
 g6
 VI'm not.
@@ -6152,7 +6152,7 @@ sg10
 VBARTLET
 p1685
 sg12
-g13
+g9
 sa(dp1686
 g6
 VShe's mad at me.
@@ -6185,7 +6185,7 @@ sg10
 VBARTLET
 p1694
 sg12
-g13
+g9
 sa(dp1695
 g6
 VNot like Zoey and Liz.
@@ -6196,7 +6196,7 @@ sg10
 VBARTLET
 p1697
 sg12
-g13
+g9
 sa(dp1698
 g6
 VShe's always belonged to Abbey.
@@ -6251,13 +6251,13 @@ sg10
 VBARTLET
 p1712
 sg12
-g13
+g9
 sa(dp1713
 g6
 VThat's not true.
 p1714
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1715
@@ -6268,7 +6268,7 @@ g6
 VThat's not true.
 p1717
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1718
@@ -6290,7 +6290,7 @@ g6
 VI wanted to be so mad at her. I heard the news and my first thought was.. My god, "King Lear" is a good play. [sighs] "My father won't fire the Surgeon General, he would never do that." I wanted to be so mad at her. But the truth is, it's the nicest thing she's ever said about me.
 p1723
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1724
@@ -6328,7 +6328,7 @@ sg10
 VBARTLET
 p1733
 sg12
-g13
+g9
 sa(dp1734
 g6
 VI don't accept your resignation.
@@ -6339,7 +6339,7 @@ sg10
 VBARTLET
 p1736
 sg12
-g13
+g9
 sa(dp1737
 g6
 VThese are the bigger things. I don't accept your resignation. [hands her the paper] You work for me. You go when I tell you to.
@@ -6400,7 +6400,7 @@ g6
 V[stands up] You know, it's going to seem to some people like you did it 'case your daughter asked you to.
 p1753
 sg8
-g49
+g32
 sg10
 VJOSH
 p1754
@@ -6411,7 +6411,7 @@ g6
 VYou know, Josh, I think if you ever have a daughter, you're going to discover there are worse reasons in the world to do something. Sit down, we're coming to the good part.
 p1756
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1757
@@ -6466,7 +6466,7 @@ g6
 VYou know, we're coming up to the good part.
 p1771
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1772
@@ -6521,7 +6521,7 @@ g6
 V[not looking at her either] Why would you want to study people's feet?
 p1786
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1787
@@ -6570,7 +6570,7 @@ sg10
 VBARTLET
 p1799
 sg12
-g13
+g9
 sa(dp1800
 g6
 VThat's pregnant women.
@@ -6587,7 +6587,7 @@ g6
 VAnd what's the study of feet?
 p1804
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1805
@@ -6598,7 +6598,7 @@ g6
 V[looking at him] Dad, you're not going to make me laugh.
 p1807
 sg8
-g49
+g32
 sg10
 VELLIE
 p1808
@@ -6609,7 +6609,7 @@ g6
 VHmmm? [beat, while he looks at her gently] The only thing you ever had to do to make me happy was come home at the end of the day.
 p1810
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1811
@@ -6631,12 +6631,12 @@ g6
 V[chokes the word] Thyroid.
 p1816
 sg8
-g49
+g32
 sg10
 VELLIE
 p1817
 sg12
-g13
+g32
 sa(dp1818
 g6
 VI'm pretty sure you're wrong about that, I think endocrinology is your sub-specialty of internal medicine, devoted to the digestive system.
@@ -6658,7 +6658,7 @@ sg10
 VELLIE
 p1823
 sg12
-g13
+g9
 sa(dp1824
 g6
 VAre you sure it's not nephrology, immunology, cardiology, or dermatology?
@@ -6669,24 +6669,24 @@ sg10
 VBARTLET
 p1826
 sg12
-g13
+g9
 sa(dp1827
 g6
 V[smiling] Would you stop it? I'm trying to watch the movie.
 p1828
 sg8
-g49
+g32
 sg10
 VELLIE
 p1829
 sg12
-g13
+g9
 sa(dp1830
 g6
 VOkay. Here comes the good part.
 p1831
 sg8
-g49
+g32
 sg10
 VBARTLET
 p1832

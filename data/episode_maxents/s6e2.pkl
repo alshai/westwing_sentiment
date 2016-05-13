@@ -80,7 +80,7 @@ sg10
 VBARTLET
 p29
 sg12
-g13
+g19
 sa(dp30
 g6
 VThey're not getting Jerusalem.
@@ -91,7 +91,7 @@ sg10
 VWILL
 p32
 sg12
-g13
+g19
 sa(dp33
 g6
 VWe say that in our opening, Farad's not going to be here long enough to unpack his toothbrush.
@@ -124,7 +124,7 @@ sg10
 VWILL
 p41
 sg12
-g13
+g9
 sa(dp42
 g6
 VEnough with Jerusalem! Kate.
@@ -212,7 +212,7 @@ sg10
 VBARTLET
 p65
 sg12
-g13
+g9
 sa(dp66
 g6
 VNo.
@@ -256,7 +256,7 @@ sg10
 VKATE
 p77
 sg12
-g13
+g9
 sa(dp78
 g6
 VWe're back where we were last night?
@@ -333,7 +333,7 @@ sg10
 VC.J.
 p98
 sg12
-g13
+g9
 sa(dp99
 g6
 VCNN's got the Speaker on an endless loop like a... Pink Floyd concert. It's their way of punishing us for cutting off access to Camp David.
@@ -388,7 +388,7 @@ sg10
 VC.J.
 p113
 sg12
-g13
+g19
 sa(dp114
 g6
 VWe're losing the media war. I want us on the morning shows, Crossfire, Dateline, book This Old House if we can figure out an angle.
@@ -421,7 +421,7 @@ sg10
 VLEO
 p122
 sg12
-g13
+g19
 sa(dp123
 g6
 VAnd what is our message?
@@ -542,7 +542,7 @@ sg10
 VBARTLET
 p155
 sg12
-g13
+g9
 sa(dp156
 g6
 VThough it is not "right" of return, it's a "claim" of return.
@@ -586,7 +586,7 @@ sg10
 VBARTLET
 p167
 sg12
-g13
+g19
 sa(dp168
 g6
 VWe will not give up control of Jerusalem.
@@ -597,7 +597,7 @@ sg10
 VZAHAVY
 p170
 sg12
-g13
+g19
 sa(dp171
 g6
 VJerusalem is central to our topics here.
@@ -663,7 +663,7 @@ sg10
 VZAHAVY
 p188
 sg12
-g13
+g19
 sa(dp189
 g6
 VThen why are we here? Why are any of us here?
@@ -740,7 +740,7 @@ sg10
 VFARAD
 p209
 sg12
-g13
+g19
 sa(dp210
 g6
 VThat went well, don't you think?
@@ -751,7 +751,7 @@ sg10
 VBARTLET
 p212
 sg12
-g13
+g19
 sa(dp213
 g6
 VC.J.? I've got you booked on Meet the Press, Crossfire, and Taylor Reid.
@@ -762,7 +762,7 @@ sg10
 VCAROL
 p215
 sg12
-g13
+g9
 sa(dp216
 g6
 VTaylor Reid?
@@ -784,7 +784,7 @@ sg10
 VCAROL
 p221
 sg12
-g13
+g19
 sa(dp222
 g6
 VNow that's good staff work. Hey.
@@ -795,7 +795,7 @@ sg10
 VJOSH
 p224
 sg12
-g13
+g9
 sa(dp225
 g6
 VHey.
@@ -839,7 +839,7 @@ sg10
 VC.J.
 p236
 sg12
-g13
+g9
 sa(dp237
 g6
 VYeah. I think the professional term is "wanker."
@@ -861,7 +861,7 @@ sg10
 VC.J.
 p242
 sg12
-g19
+g13
 sa(dp243
 g6
 VToo much sauerbraten... Leo's still down here?
@@ -872,7 +872,7 @@ sg10
 VJOSH
 p245
 sg12
-g13
+g19
 sa(dp246
 g6
 VYeah, he's in his office.
@@ -894,7 +894,7 @@ sg10
 VJOSH
 p251
 sg12
-g13
+g19
 sa(dp252
 g6
 VSo, where do you want me?
@@ -982,7 +982,7 @@ sg10
 VLEO
 p275
 sg12
-g13
+g9
 sa(dp276
 g6
 VI'll stop by my apartment, I'll pick up some clothes, I'll drive straight up.
@@ -993,7 +993,7 @@ sg10
 VJOSH
 p278
 sg12
-g13
+g9
 sa(dp279
 g6
 VMargaret!
@@ -1125,7 +1125,7 @@ sg10
 VZAHAVY
 p314
 sg12
-g13
+g9
 sa(dp315
 g6
 VHow about Hamas? How are we expected to argue there is no longer a reason to fight when your army is still there, exactly as before?
@@ -1136,7 +1136,7 @@ sg10
 VMUKARAT
 p317
 sg12
-g13
+g19
 sa(dp318
 g6
 VWe cannot support a withdrawal from the territories without assurances of our security, and that, gentlemen, means our troops.
@@ -1147,7 +1147,7 @@ sg10
 VMASSAR
 p320
 sg12
-g13
+g19
 sa(dp321
 g6
 VA million Palestinians were being forced from their homes, their...
@@ -1169,7 +1169,7 @@ sg10
 VGALIT
 p326
 sg12
-g13
+g19
 sa(dp327
 g6
 VWe were being terrorized by Zionist troops who were threatening to torch every Arab village in the...
@@ -1202,7 +1202,7 @@ sg10
 VKATE
 p335
 sg12
-g13
+g19
 sa(dp336
 g6
 VThe Palestinians were being massacred. Even Israeli historians admit this.
@@ -1367,7 +1367,7 @@ sg10
 VBARTLET
 p380
 sg12
-g13
+g9
 sa(dp381
 g6
 VYeah. Only, Mukarat wants twice as much area as the Israelis say the settlements actually sit on.
@@ -1444,7 +1444,7 @@ sg10
 VTOBY
 p401
 sg12
-g13
+g19
 sa(dp402
 g6
 VIs that why he keeps calling for the "blood of a million martyrs," in all his speeches?
@@ -1477,7 +1477,7 @@ sg10
 VBARTLET
 p410
 sg12
-g13
+g9
 sa(dp411
 g6
 VFarad wants the right of return to apply to all Palestinians. The Israelis are understandably concerned about 3 million Palestinians moving back in.
@@ -1565,7 +1565,7 @@ sg10
 VTOBY
 p434
 sg12
-g9
+g13
 sa(dp435
 g6
 VSir, is there anything else I can do to help?
@@ -1576,7 +1576,7 @@ sg10
 VJOSH
 p437
 sg12
-g13
+g19
 sa(dp438
 g6
 VGo with Toby and Will; I think they need some positive reinforcement.
@@ -1653,7 +1653,7 @@ sg10
 VKATE
 p458
 sg12
-g13
+g9
 sa(dp459
 g6
 VWe are not asking for money. We want the right of return.
@@ -1697,7 +1697,7 @@ sg10
 VGALIT
 p470
 sg12
-g13
+g19
 sa(dp471
 g6
 VPerhaps we should take a break.
@@ -1741,7 +1741,7 @@ sg10
 VFARAD
 p482
 sg12
-g13
+g9
 sa(dp483
 g6
 VAnd the removal of our forces from the territories would create a power vacuum. How are we to prevent rocket attacks from Palestinian-controlled areas.
@@ -1774,7 +1774,7 @@ sg10
 VMASSAR
 p491
 sg12
-g13
+g19
 sa(dp492
 g6
 VYou've never given us enough time to assert ourselves before you come rushing back in with your tanks.
@@ -1807,7 +1807,7 @@ sg10
 VTOBY
 p500
 sg12
-g13
+g19
 sa(dp501
 g6
 VExcuse me. Thank you.
@@ -1818,7 +1818,7 @@ sg10
 VZAHAVY
 p503
 sg12
-g9
+g13
 sa(dp504
 g6
 VThey've done everything in their power to undermine moderate leadership. Don't they understand when the blow up leaders of Hamas with bombs, all those Palestinian homes, they only make them stronger? Boys and girls, they no longer want to be doctors, teachers, engineers. Now, they all want to be martyrs.
@@ -1873,7 +1873,7 @@ sg10
 VTOBY
 p518
 sg12
-g13
+g19
 sa(dp519
 g6
 VAnd we're still far apart on any kind of land swap for the settlements.
@@ -1928,7 +1928,7 @@ sg10
 VJOSH
 p533
 sg12
-g13
+g19
 sa(dp534
 g6
 VMr. President, you should get ready for dinner.
@@ -1961,7 +1961,7 @@ sg10
 VTOBY
 p542
 sg12
-g13
+g9
 sa(dp543
 g6
 VHow's it going?
@@ -2148,7 +2148,7 @@ sg10
 VCHARLIE
 p593
 sg12
-g13
+g9
 sa(dp594
 g6
 VAll through history no one's wanted either of them.
@@ -2181,7 +2181,7 @@ sg10
 VTOBY
 p602
 sg12
-g13
+g19
 sa(dp603
 g6
 VHow long will they be there?
@@ -2203,7 +2203,7 @@ sg10
 VKATE
 p608
 sg12
-g13
+g19
 sa(dp609
 g6
 VFarad's going to hate it, Zahavy's going to hate it even more.
@@ -2236,7 +2236,7 @@ sg10
 VJOSH
 p617
 sg12
-g13
+g19
 sa(dp618
 g6
 VTwo old paleo-nationalists who have been clawing each other's eyes out for 50 years; they don't want to deal. What are they going to do for fun? Swap recipes for Matzapri?
@@ -2280,7 +2280,7 @@ sg10
 VLEO
 p629
 sg12
-g13
+g19
 sa(dp630
 g6
 VAre you alright? You're looking a little bit...
@@ -2335,7 +2335,7 @@ sg10
 VJOSH
 p644
 sg12
-g13
+g19
 sa(dp645
 g6
 VIsraelis pull out of the West Bank but get to keep troops in fixed positions for three or four years. After that, they fall back to Israel but get to keep some sort of early warning post for monitoring.
@@ -2368,7 +2368,7 @@ sg10
 VKATE
 p653
 sg12
-g13
+g19
 sa(dp654
 g6
 VI said okay.
@@ -2467,7 +2467,7 @@ sg10
 VLEO
 p680
 sg12
-g13
+g19
 sa(dp681
 g6
 VI've always wanted to try skeet shooting. Do you shoot often.
@@ -2544,7 +2544,7 @@ sg10
 VTOBY
 p701
 sg12
-g13
+g19
 sa(dp702
 g6
 VReady, Mr. Minister?
@@ -2742,7 +2742,7 @@ sg10
 VBARTLET
 p755
 sg12
-g13
+g19
 sa(dp756
 g6
 VFarad'll be the last to sign on.
@@ -2786,7 +2786,7 @@ sg10
 VWILL
 p767
 sg12
-g13
+g9
 sa(dp768
 g6
 VI can work on him. I think he likes me.
@@ -2830,7 +2830,7 @@ sg10
 VBARTLET
 p779
 sg12
-g13
+g19
 sa(dp780
 g6
 VWe haven't got to the tough part.
@@ -2863,7 +2863,7 @@ sg10
 VLEO
 p788
 sg12
-g13
+g9
 sa(dp789
 g6
 VLaudable? You make it sound like an honorarium from some two-bit chiropractic college in Arizona.
@@ -2918,7 +2918,7 @@ sg10
 VBARTLET
 p803
 sg12
-g13
+g19
 sa(dp804
 g6
 VI'll go see if I can get Galit to give us a number on compensation.
@@ -2984,7 +2984,7 @@ sg10
 VKATE
 p821
 sg12
-g13
+g19
 sa(dp822
 g6
 VI'm taking her with me the next time I buy a car.
@@ -3006,7 +3006,7 @@ sg10
 VTOBY
 p827
 sg12
-g13
+g9
 sa(dp828
 g6
 VAny chance we can just give Jerusalem to the Swiss?
@@ -3028,7 +3028,7 @@ sg10
 VJOSH
 p833
 sg12
-g13
+g9
 sa(dp834
 g6
 VI do.
@@ -3039,7 +3039,7 @@ sg10
 VBARTLET
 p836
 sg12
-g13
+g19
 sa(dp837
 g6
 VShared sovereignty of Jerusalem is the only realistic approach.
@@ -3160,7 +3160,7 @@ sg10
 VTOBY
 p869
 sg12
-g19
+g13
 sa(dp870
 g6
 VPlease.
@@ -3248,7 +3248,7 @@ sg10
 VTOBY
 p893
 sg12
-g19
+g13
 sa(dp894
 g6
 VHome of the KKK.
@@ -3281,7 +3281,7 @@ sg10
 VWILL
 p902
 sg12
-g13
+g9
 sa(dp903
 g6
 VThe general principle would be that Arab areas are Palestinian and Jewish areas are Israeli; Israeli sovereignty over the Western Wall, Palestinian sovereignty over the Haram. There would have to be a firm commitment from both parties not to excavate under the Haram or behind the wall, of course.
@@ -3314,7 +3314,7 @@ sg10
 VBARTLET
 p911
 sg12
-g9
+g13
 sa(dp912
 g6
 VNo, there have been enough thoughts, Mr. President. We are going home. Thank you.
@@ -3336,7 +3336,7 @@ sg10
 VWILL
 p917
 sg12
-g13
+g19
 sa(dp918
 g6
 VWe go to Mukarat, convince him to take something less than sovereignty over the Arab sections of the city.
@@ -3369,7 +3369,7 @@ sg10
 VTOBY
 p926
 sg12
-g13
+g19
 sa(dp927
 g6
 VHow about a floral arrangement? "Best wishes for the 93rd Interfadah."
@@ -3468,7 +3468,7 @@ sg10
 VABBEY
 p953
 sg12
-g13
+g19
 sa(dp954
 g6
 VAll right, everyone, let's get a good night's sleep.
@@ -3490,7 +3490,7 @@ sg10
 VTOBY
 p959
 sg12
-g9
+g13
 sa(dp960
 g6
 VI'll have C.J. work on some post-mortems, get our side of the story out; maybe a one-on-one with Times or Newsweek. [pause] They weren't ready. Goodnight, Mr. President.
@@ -3732,7 +3732,7 @@ sg10
 VKATE
 p1025
 sg12
-g13
+g19
 sa(dp1026
 g6
 V18,000 American troops patrolling the PLO's backyard. [pause] Where the hell is Leo?
@@ -3798,7 +3798,7 @@ sg10
 VJOSH
 p1043
 sg12
-g19
+g13
 sa(dp1044
 g6
 VWhat are we talking about?
@@ -3831,7 +3831,7 @@ sg10
 VLEO
 p1052
 sg12
-g13
+g19
 sa(dp1053
 g6
 VSome of us do.
@@ -3897,7 +3897,7 @@ sg10
 VBARTLET
 p1070
 sg12
-g13
+g19
 sa(dp1071
 g6
 VCan I speak to you privately for a moment?
@@ -3963,7 +3963,7 @@ sg10
 VLEO
 p1088
 sg12
-g13
+g19
 sa(dp1089
 g6
 VMy counsel is no longer of use to you. Perhaps it's time...
@@ -3985,7 +3985,7 @@ sg10
 VBARTLET
 p1094
 sg12
-g13
+g19
 sa(dp1095
 g6
 VThis is your own League of Nations. And it'll ruin you like it ruined Wilson.
@@ -4018,7 +4018,7 @@ sg10
 VLEO
 p1103
 sg12
-g13
+g9
 sa(dp1104
 g6
 VYeah.
@@ -4095,7 +4095,7 @@ sg10
 VLEO
 p1124
 sg12
-g9
+g13
 sa(dp1125
 g6
 VGo.
@@ -4227,7 +4227,7 @@ sg10
 VWILL
 p1160
 sg12
-g13
+g19
 sa(dp1161
 g6
 VThey don't have to approve it; we're not declaring war. We're not even trying to build one of those aquatic history museums.
@@ -4249,7 +4249,7 @@ sg10
 VWILL
 p1166
 sg12
-g19
+g9
 sa(dp1167
 g6
 VIt'll never get that far. Farad'll find some way to trip over his own shoes before we even get a chance to re-sew them.
@@ -4282,7 +4282,7 @@ sg10
 VKATE
 p1175
 sg12
-g13
+g19
 sa(dp1176
 g6
 VYou talk to Leo this morning?
@@ -4304,7 +4304,7 @@ sg10
 VJOSH
 p1181
 sg12
-g13
+g19
 sa(dp1182
 g6
 VAny idea how he wants us to handle this?
@@ -4315,7 +4315,7 @@ sg10
 VTOBY
 p1184
 sg12
-g13
+g19
 sa(dp1185
 g6
 VNo. I'll try calling him.

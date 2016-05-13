@@ -35,91 +35,91 @@ sg10
 VMAN
 p16
 sg12
-g9
-sa(dp17
+S'negative'
+p17
+sa(dp18
 g6
 VYeah.
-p18
+p19
 sg8
 g9
 sg10
 VJOSH
-p19
+p20
 sg12
 g9
-sa(dp20
+sa(dp21
 g6
 VYeah. I've seen you're picture a lot. Can I ask you something?
-p21
+p22
 sg8
 g9
 sg10
 VMAN
-p22
+p23
 sg12
 g9
-sa(dp23
+sa(dp24
 g6
 VSure.
-p24
+p25
 sg8
 g9
 sg10
 VJOSH
-p25
+p26
 sg12
-g9
-sa(dp26
+g17
+sa(dp27
 g6
 VBartlet's on the ballot for the Democratic Party and for the Statehood Party. It's okay that I voted for him in both columns, right?
-p27
+p28
 sg8
 g13
 sg10
 VMAN
-p28
+p29
 sg12
-g9
-sa(dp29
+g13
+sa(dp30
 g6
 VNo, you can't vote for him in two columns.
-p30
+p31
 sg8
 g9
 sg10
 VJOSH
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 VI already did.
-p33
+p34
 sg8
 g9
 sg10
 VMAN
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 VYou're ballots going to be invalidated.
-p36
+p37
 sg8
 g9
 sg10
 VJOSH
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VWhat the hell for?
-p39
-sg8
-S'negative'
 p40
+sg8
+g17
 sg10
 VMAN
 p41
@@ -168,7 +168,7 @@ sg10
 VMAN
 p53
 sg12
-g9
+g17
 sa(dp54
 g6
 VMe, too, and I'm saying yours is a vote we didn't get.
@@ -201,7 +201,7 @@ sg10
 VJOSH
 p62
 sg12
-g13
+g17
 sa(dp63
 g6
 VYes. No. It doesn't... You can't vote for a party. You have to vote for a person.
@@ -223,7 +223,7 @@ sg10
 VJOSH
 p68
 sg12
-g9
+g17
 sa(dp69
 g6
 VWell, then you voted for none but one candidate.
@@ -267,18 +267,18 @@ sg10
 VJOSH
 p80
 sg12
-g9
+g17
 sa(dp81
 g6
 V[frustrated] Yes. What?
 p82
 sg8
-g40
+g17
 sg10
 VJOSH
 p83
 sg12
-g9
+g17
 sa(dp84
 g6
 VYes, hello.
@@ -328,7 +328,7 @@ g6
 VWell, I'm just worried 'cause they all tried to vote for Bartlet, and if this keeps up, we're headed towards biggest electoral upset in history and nobody's going to be able to figure out why.
 p97
 sg8
-g40
+g17
 sg10
 VJOSH
 p98
@@ -443,13 +443,13 @@ sg10
 VJOSH
 p128
 sg12
-g9
+g17
 sa(dp129
 g6
 VNo problem. Do you happen to know if I need to be... I don't know, pre-registered or something?
 p130
 sg8
-g40
+g17
 sg10
 VMAN
 p131
@@ -498,7 +498,7 @@ sg10
 VLARRY
 p143
 sg12
-g9
+g17
 sa(dp144
 g6
 VNo.
@@ -553,7 +553,7 @@ sg10
 VSAM
 p158
 sg12
-g9
+g17
 sa(dp159
 g6
 VWhy?
@@ -575,7 +575,7 @@ sg10
 VSAM
 p164
 sg12
-g9
+g17
 sa(dp165
 g6
 VIt is a party.
@@ -586,7 +586,7 @@ sg10
 VC.J.
 p167
 sg12
-g9
+g17
 sa(dp168
 g6
 VYeah, but we won. We don't have to pander.
@@ -597,7 +597,7 @@ sg10
 VSAM
 p170
 sg12
-g9
+g17
 sa(dp171
 g6
 VPlease don't say that.
@@ -608,7 +608,7 @@ sg10
 VTOBY
 p173
 sg12
-g9
+g17
 sa(dp174
 g6
 VOn your birthday, don't we pander to you?
@@ -630,7 +630,7 @@ sg10
 VSAM
 p179
 sg12
-g9
+g17
 sa(dp180
 g6
 VI'm not kidding.
@@ -641,13 +641,13 @@ sg10
 VTOBY
 p182
 sg12
-g9
+g17
 sa(dp183
 g6
 VWhat are you babbling about?
 p184
 sg8
-g40
+g17
 sg10
 VC.J.
 p185
@@ -663,7 +663,7 @@ sg10
 VTOBY
 p188
 sg12
-g9
+g17
 sa(dp189
 g6
 VThe speech is done.
@@ -674,7 +674,7 @@ sg10
 VC.J.
 p191
 sg12
-g9
+g13
 sa(dp192
 g6
 VTwo speeches are done.
@@ -685,7 +685,7 @@ sg10
 VTOBY
 p194
 sg12
-g9
+g13
 sa(dp195
 g6
 VWhat's the second?
@@ -724,7 +724,7 @@ g6
 VOf course I wrote a concession. You want to tempt the wrath of the whatever from high atop the thing?
 p205
 sg8
-g40
+g17
 sg10
 VTOBY
 p206
@@ -746,7 +746,7 @@ g6
 VThen go outside, turn around three times and spit. What the hell's the matter with you?
 p211
 sg8
-g40
+g17
 sg10
 VTOBY
 p212
@@ -834,7 +834,7 @@ g6
 VThe wrath from high atop the thing.
 p235
 sg8
-g40
+g17
 sg10
 VSAM
 p236
@@ -856,7 +856,7 @@ g6
 VNo, you got to go outside, turn around three times and curse.
 p241
 sg8
-g40
+g17
 sg10
 VJOSH
 p242
@@ -878,7 +878,7 @@ g6
 VSpit and curse.
 p247
 sg8
-g40
+g17
 sg10
 VJOSH
 p248
@@ -949,7 +949,7 @@ sg10
 VJOSH
 p266
 sg12
-g9
+g17
 sa(dp267
 g6
 VAll right, we're meeting again, when?
@@ -960,7 +960,7 @@ sg10
 VTOBY
 p269
 sg12
-g9
+g17
 sa(dp270
 g6
 VFirst round of exits at 11:00.
@@ -1037,7 +1037,7 @@ sg10
 VC.J.
 p290
 sg12
-g40
+g17
 sa(dp291
 g6
 VFor the President?
@@ -1059,7 +1059,7 @@ sg10
 VC.J.
 p296
 sg12
-g9
+g13
 sa(dp297
 g6
 VListen, I know better then to stick my face in your personal life except, you know, for sport.
@@ -1098,7 +1098,7 @@ g6
 VWhen did they start doing more than flu vaccinations?
 p307
 sg8
-g40
+g17
 sg10
 VTOBY
 p308
@@ -1131,7 +1131,7 @@ g6
 VThey're going to connect the dots. It's going to be bad for her and bad for you.
 p316
 sg8
-g40
+g17
 sg10
 VC.J.
 p317
@@ -1142,7 +1142,7 @@ g6
 VYou mean bad for us.
 p319
 sg8
-g40
+g17
 sg10
 VTOBY
 p320
@@ -1169,7 +1169,7 @@ sg10
 VTOBY
 p326
 sg12
-g9
+g17
 sa(dp327
 g6
 VToby...
@@ -1191,7 +1191,7 @@ sg10
 VTOBY
 p332
 sg12
-g9
+g17
 sa(dp333
 g6
 VShe's got to be proactive.
@@ -1202,7 +1202,7 @@ sg10
 VC.J.
 p335
 sg12
-g9
+g13
 sa(dp336
 g6
 VYeah.
@@ -1224,7 +1224,7 @@ sg10
 VC.J.
 p341
 sg12
-g9
+g17
 sa(dp342
 g6
 VI'm working on that. Thanks.
@@ -1285,12 +1285,12 @@ g6
 VYes, I turned, I cursed, I spat, it froze.
 p358
 sg8
-g40
+g17
 sg10
 VSAM
 p359
 sg12
-g13
+g17
 sa(dp360
 g6
 VCan't be too careful.
@@ -1312,7 +1312,7 @@ sg10
 VSAM
 p365
 sg12
-g13
+g17
 sa(dp366
 g6
 VSam, you got Will Bailey calling from California.
@@ -1400,7 +1400,7 @@ sg10
 VWILL
 p389
 sg12
-g9
+g17
 sa(dp390
 g6
 VAnd?
@@ -1411,13 +1411,13 @@ sg10
 VSAM
 p392
 sg12
-g9
+g17
 sa(dp393
 g6
 VSomething weird's going on.
 p394
 sg8
-g40
+g17
 sg10
 VWILL
 p395
@@ -1499,7 +1499,7 @@ sg10
 VSAM
 p416
 sg12
-g40
+g17
 sa(dp417
 g6
 VOkay, you want me to call in every couple of hours?
@@ -1543,7 +1543,7 @@ sg10
 VSAM
 p428
 sg12
-g9
+g13
 sa(dp429
 g6
 VYeah.
@@ -1565,7 +1565,7 @@ sg10
 VSAM
 p434
 sg12
-g9
+g13
 sa(dp435
 g6
 VYeah.
@@ -1609,7 +1609,7 @@ sg10
 VABBEY
 p446
 sg12
-g9
+g17
 sa(dp447
 g6
 VHow are you spending the rest of the day?
@@ -1659,7 +1659,7 @@ g6
 VMr. President, polls show a dog fight here in New Hampshire. How would you feel if you won the election but lost your home state?
 p460
 sg8
-g40
+g17
 sg10
 VREPORTER
 p461
@@ -1670,7 +1670,7 @@ g6
 VBetter than if I won my home state but lost my home country. The only poll that matters closes in 17 hours.
 p463
 sg8
-g40
+g17
 sg10
 VBARTLET
 p464
@@ -1741,7 +1741,7 @@ sg10
 VKATIE
 p482
 sg12
-g13
+g9
 sa(dp483
 g6
 VThese are for your signature.
@@ -1763,7 +1763,7 @@ sg10
 VBARTLET
 p488
 sg12
-g9
+g13
 sa(dp489
 g6
 VYes, sir. You got a headache?
@@ -1774,7 +1774,7 @@ sg10
 VCHARLIE
 p491
 sg12
-g9
+g13
 sa(dp492
 g6
 VI'm fine.
@@ -1785,7 +1785,7 @@ sg10
 VBARTLET
 p494
 sg12
-g9
+g17
 sa(dp495
 g6
 VShould I ask the doctor...?
@@ -1796,18 +1796,18 @@ sg10
 VCHARLIE
 p497
 sg12
-g9
+g13
 sa(dp498
 g6
 VNo, it's just a headache. Just me and you today, okay. I'm fine.
 p499
 sg8
-g40
+g17
 sg10
 VBARTLET
 p500
 sg12
-g9
+g17
 sa(dp501
 g6
 VYes, sir.
@@ -1857,12 +1857,12 @@ g6
 VOkay, this can wait. Let's go.
 p514
 sg8
-g40
+g17
 sg10
 VBARTLET
 p515
 sg12
-g9
+g17
 sa(dp516
 g6
 VNothing's happening right bow. By the end of the night, 100 million votes will be cast. Polls have been open in the East for six and a half hours. You know how many votes have been cast? One percent. Everybody votes after work. Not me, I vote first thing. The VNS exit polls are down in Michigan for a little while. And it's raining Oregon. This is like the ionization blackout period.
@@ -1928,7 +1928,7 @@ sg10
 VDONNA
 p533
 sg12
-g9
+g17
 sa(dp534
 g6
 VYeah.
@@ -1956,12 +1956,12 @@ g6
 VIs this a joke?
 p541
 sg8
-g40
+g17
 sg10
 VJOSH
 p542
 sg12
-g40
+g9
 sa(dp543
 g6
 VIt's not hard to believe that...
@@ -1972,7 +1972,7 @@ sg10
 VDONNA
 p545
 sg12
-g9
+g17
 sa(dp546
 g6
 VNo, I mean this.
@@ -1983,7 +1983,7 @@ sg10
 VJOSH
 p548
 sg12
-g40
+g17
 sa(dp549
 g6
 VWhat are you talking about?
@@ -2016,18 +2016,18 @@ sg10
 VDONNA
 p557
 sg12
-g9
+g13
 sa(dp558
 g6
 VThis isn't a joke?
 p559
 sg8
-g40
+g17
 sg10
 VJOSH
 p560
 sg12
-g9
+g17
 sa(dp561
 g6
 VIt's invalid?
@@ -2104,13 +2104,13 @@ sg10
 VDONNA
 p581
 sg12
-g9
+g17
 sa(dp582
 g6
 VAlmost. That's almost what you did. What you did was draw a line through the Republican ticket. You didn't ticket split, you voted for every Republican in Wisconsin. I would check, you may have voted for McCarthy.
 p583
 sg8
-g40
+g17
 sg10
 VJOSH
 p584
@@ -2170,7 +2170,7 @@ sg10
 VDONNA
 p599
 sg12
-g9
+g17
 sa(dp600
 g6
 VI'm going in. You still want me to have him...?
@@ -2192,7 +2192,7 @@ sg10
 VDONNA
 p605
 sg12
-g9
+g17
 sa(dp606
 g6
 VHey, I'm going in, okay?
@@ -2203,7 +2203,7 @@ sg10
 VJOSH
 p608
 sg12
-g9
+g17
 sa(dp609
 g6
 VHey, Josh. No.
@@ -2225,7 +2225,7 @@ sg10
 VJOSH
 p614
 sg12
-g9
+g17
 sa(dp615
 g6
 VIt's a Senior Staff meeting.
@@ -2247,7 +2247,7 @@ sg10
 VJOSH
 p620
 sg12
-g9
+g17
 sa(dp621
 g6
 VYou don't have your briefing memo.
@@ -2258,7 +2258,7 @@ sg10
 VDEBBIE
 p623
 sg12
-g9
+g17
 sa(dp624
 g6
 VHow do you know I don't have it?
@@ -2319,7 +2319,7 @@ g6
 VRule Number Two- you don't attend daily Senior Staff without the briefing memo. The agenda's outlined and there are up-to-the-minute details on priority items and still half the meeting is spent regurgitating the memo for those staff members who have difficulty holding on to salient details.
 p640
 sg8
-g40
+g17
 sg10
 VDEBBIE
 p641
@@ -2368,7 +2368,7 @@ sg10
 VDEBBIE
 p653
 sg12
-g9
+g17
 sa(dp654
 g6
 VOkay. All right. I'm going to humor the new girl.
@@ -2390,7 +2390,7 @@ sg10
 VDEBBIE
 p659
 sg12
-g9
+g17
 sa(dp660
 g6
 VGoing to get your briefing memo?
@@ -2451,7 +2451,7 @@ g6
 VWhat the hell? Anthony. Michelle, he's with me.
 p676
 sg8
-g40
+g17
 sg10
 VCHARLIE
 p677
@@ -2544,7 +2544,7 @@ sg10
 VANTHONY
 p701
 sg12
-g9
+g17
 sa(dp702
 g6
 VWhat is he doing here, Anthony?
@@ -2588,13 +2588,13 @@ sg10
 VORLANDO
 p713
 sg12
-g13
+g9
 sa(dp714
 g6
 VHe passed the breathalyzer. It was the open can of Pabst. Saturday, St. Erasmus Academy that's a big game for a senior. You want to to put a hurt on some blue blazers...
 p715
 sg8
-g40
+g17
 sg10
 VANTHONY
 p716
@@ -2698,7 +2698,7 @@ sg10
 VCHARLIE
 p743
 sg12
-g40
+g17
 sa(dp744
 g6
 VHey, could you try to think back to the days before you were Secretary of State or something? There are good guys and there are bad guys, and when good guys stop letting you play with them, the bad guys have a recruiting field day.
@@ -2731,7 +2731,7 @@ sg10
 VANTHONY
 p752
 sg12
-g9
+g17
 sa(dp753
 g6
 VOkay, you're seeing a musical.
@@ -2742,7 +2742,7 @@ sg10
 VCHARLIE
 p755
 sg12
-g9
+g13
 sa(dp756
 g6
 VMan, look at the size of him, Charlie. And he's not done growing yet, either. Who do you want him playing for?
@@ -2852,7 +2852,7 @@ sg10
 VCHARLIE
 p785
 sg12
-g9
+g13
 sa(dp786
 g6
 VOh, yeah.
@@ -2863,7 +2863,7 @@ sg10
 VORLANDO
 p788
 sg12
-g9
+g13
 sa(dp789
 g6
 VYou're not going. It's Election Day. You're going to spend it with me.
@@ -2896,7 +2896,7 @@ sg10
 VCHARLIE
 p797
 sg12
-g9
+g17
 sa(dp798
 g6
 VHey Charlie, not for nothing, but just so you know, some of your higher end places provide a jacket for you.
@@ -2935,7 +2935,7 @@ g6
 VAll right, we're going to have to wait until the Secret Service...
 p808
 sg8
-g40
+g17
 sg10
 VCHARLIE
 p809
@@ -2962,7 +2962,7 @@ sg10
 VJOSH
 p815
 sg12
-g13
+g9
 sa(dp816
 g6
 VYou all right?
@@ -3028,7 +3028,7 @@ sg10
 VJOSH
 p833
 sg12
-g9
+g17
 sa(dp834
 g6
 VYeah, no.
@@ -3039,7 +3039,7 @@ sg10
 VDEBBIE
 p836
 sg12
-g9
+g17
 sa(dp837
 g6
 VNo?
@@ -3089,7 +3089,7 @@ g6
 VThat's insanity.
 p850
 sg8
-g40
+g17
 sg10
 VJOSH
 p851
@@ -3100,12 +3100,12 @@ g6
 VWell, I'm quite mad.
 p853
 sg8
-g40
+g17
 sg10
 VDEBBIE
 p854
 sg12
-g9
+g17
 sa(dp855
 g6
 VThere has to be a natural fluidity to these things. It's how we work best. You can't say that every meeting has to...
@@ -3133,7 +3133,7 @@ g6
 VWell, I think that's a random cracking of the whip.
 p862
 sg8
-g40
+g17
 sg10
 VJOSH
 p863
@@ -3144,7 +3144,7 @@ g6
 VAccording to the last 300 daily dairies, the President is typically 70 to 90 minutes over-scheduled by the end of the day. The median time a day ends, the over/under 10:20 p.m. As many days have ended after that time as have ended before it. The result being the Commander in Chief of the U.S. Armed Forces hasn't had a night's sleep in four years. That's both bad and easy to fix.
 p865
 sg8
-g40
+g17
 sg10
 VDEBBIE
 p866
@@ -3188,7 +3188,7 @@ g6
 VSweet of you to tell me a joke, Josh. You're the funny one, I can tell.
 p877
 sg8
-g40
+g17
 sg10
 VDEBBIE
 p878
@@ -3270,7 +3270,7 @@ sg10
 VJOSH
 p899
 sg12
-g9
+g17
 sa(dp900
 g6
 VI'm going to find a Ritchie supporter who'll vote for the President to offset my absentee ballot.
@@ -3325,7 +3325,7 @@ sg10
 VDONNA
 p914
 sg12
-g9
+g17
 sa(dp915
 g6
 VYou bet. Toby...
@@ -3364,7 +3364,7 @@ g6
 VWe're late for the first sonogram.
 p925
 sg8
-g40
+g17
 sg10
 VANDY
 p926
@@ -3391,7 +3391,7 @@ sg10
 VANDY
 p932
 sg12
-g9
+g13
 sa(dp933
 g6
 VHurts like heartbreak.
@@ -3402,7 +3402,7 @@ sg10
 VJOSH
 p935
 sg12
-g9
+g17
 sa(dp936
 g6
 VYou've had that procedure?
@@ -3435,7 +3435,7 @@ sg10
 VANDY
 p944
 sg12
-g9
+g13
 sa(dp945
 g6
 VHe's kidding. Give me one second, would you? I'll catch right up.
@@ -3457,7 +3457,7 @@ sg10
 VANDY
 p950
 sg12
-g40
+g9
 sa(dp951
 g6
 V[to Josh] Yes. So what do you think, like 50 bucks?
@@ -3479,7 +3479,7 @@ sg10
 VJOSH
 p956
 sg12
-g9
+g17
 sa(dp957
 g6
 VYeah, okay.
@@ -3490,7 +3490,7 @@ sg10
 VTOBY
 p959
 sg12
-g9
+g13
 sa(dp960
 g6
 VIn your life you have never been on time to this meeting.
@@ -3507,23 +3507,23 @@ g6
 VYeah, I wasn't, actually. I was just incredibly late to the meeting right before it.
 p964
 sg8
-g40
+g17
 sg10
 VSAM
 p965
 sg12
-g9
+g17
 sa(dp966
 g6
 VWell, that's the trick, then.
 p967
 sg8
-g40
+g17
 sg10
 VJOSH
 p968
 sg12
-g9
+g17
 sa(dp969
 g6
 VYeah.
@@ -3600,7 +3600,7 @@ sg10
 VJOSH
 p989
 sg12
-g9
+g13
 sa(dp990
 g6
 VYeah.
@@ -3639,7 +3639,7 @@ g6
 VYeah, they're going to lose that by 20 points.
 p1000
 sg8
-g40
+g17
 sg10
 VJOSH
 p1001
@@ -3699,7 +3699,7 @@ sg10
 VSAM
 p1016
 sg12
-g9
+g13
 sa(dp1017
 g6
 VGreat?
@@ -3710,13 +3710,13 @@ sg10
 VJOSH
 p1019
 sg12
-g9
+g13
 sa(dp1020
 g6
 VNo, I mean, it's a tough beat, what with dying and all.
 p1021
 sg8
-g40
+g17
 sg10
 VSAM
 p1022
@@ -3776,7 +3776,7 @@ sg10
 VWILL
 p1037
 sg12
-g9
+g17
 sa(dp1038
 g6
 VJosh says the exits have you down 20.
@@ -3886,7 +3886,7 @@ sg10
 VWILL
 p1067
 sg12
-g9
+g17
 sa(dp1068
 g6
 VAre they?
@@ -3897,7 +3897,7 @@ sg10
 VELSIE
 p1070
 sg12
-g40
+g17
 sa(dp1071
 g6
 VNo. Everybody on the street! But we're going to make history.
@@ -3914,7 +3914,7 @@ g6
 VRoll Call has the pregnancy.
 p1075
 sg8
-g40
+g17
 sg10
 VTOBY
 p1076
@@ -3936,7 +3936,7 @@ g6
 VRoll Call has the pregnancy. C.J. just told me.
 p1081
 sg8
-g40
+g17
 sg10
 VTOBY
 p1082
@@ -3963,7 +3963,7 @@ sg10
 VTOBY
 p1088
 sg12
-g40
+g9
 sa(dp1089
 g6
 VWhy are you telling me now?
@@ -3980,12 +3980,12 @@ g6
 VI didn't want to ruin the day for you.
 p1093
 sg8
-g40
+g17
 sg10
 VTOBY
 p1094
 sg12
-g9
+g17
 sa(dp1095
 g6
 VWell, okay, but then why are you telling me now?
@@ -3996,7 +3996,7 @@ sg10
 VANDY
 p1097
 sg12
-g9
+g17
 sa(dp1098
 g6
 VI couldn't help it.
@@ -4007,7 +4007,7 @@ sg10
 VTOBY
 p1100
 sg12
-g9
+g17
 sa(dp1101
 g6
 VRoll Call has it from where?
@@ -4051,7 +4051,7 @@ sg10
 VANDY
 p1112
 sg12
-g9
+g17
 sa(dp1113
 g6
 VJust out of curiosity, how long did you think this was going to be covert? These are twins, Andy. You think you're going to go on Meet the Press and Russerts not going to notice you're the size of a school? Why not just come out and say "I'm expecting twins. I couldn't be happier. The father's my ex-husband, Toby Ziegler, to whom I'll be remarried on a date to be decided upon. I'm thinking Christmas."
@@ -4073,7 +4073,7 @@ sg10
 VANDY
 p1118
 sg12
-g13
+g17
 sa(dp1119
 g6
 VThen say the first part at least.
@@ -4090,7 +4090,7 @@ g6
 VI hadn't annouced it because you don't in the first 12 weeks because... that's when most of the things go wrong.
 p1123
 sg8
-g40
+g17
 sg10
 VANDY
 p1124
@@ -4128,7 +4128,7 @@ sg10
 VTOBY
 p1133
 sg12
-g9
+g17
 sa(dp1134
 g6
 VHello Andrea. Toby.
@@ -4161,7 +4161,7 @@ sg10
 VTOBY
 p1142
 sg12
-g9
+g13
 sa(dp1143
 g6
 VHow have you been feeling?
@@ -4172,7 +4172,7 @@ sg10
 VDOCTOR
 p1145
 sg12
-g9
+g17
 sa(dp1146
 g6
 VI feel great.
@@ -4194,7 +4194,7 @@ sg10
 VDOCTOR
 p1151
 sg12
-g9
+g17
 sa(dp1152
 g6
 VI don't know, what does that feel like?
@@ -4205,7 +4205,7 @@ sg10
 VANDY
 p1154
 sg12
-g9
+g17
 sa(dp1155
 g6
 VI don't know either. It's just something we ask. We don't even care about the answer.
@@ -4216,7 +4216,7 @@ sg10
 VDOCTOR
 p1157
 sg12
-g9
+g17
 sa(dp1158
 g6
 VYou should draft a release. In fact, let that be my first act of fatherhood-- drafting your release. Go back to my roots as we all must go. And now you're on offense and not defense.
@@ -4288,7 +4288,7 @@ g6
 VDo I need to tell you the first rule of damage control?
 p1177
 sg8
-g40
+g17
 sg10
 VTOBY
 p1178
@@ -4299,7 +4299,7 @@ g6
 VNo, you don't, but the next time you refer to this pregnancy as damage control...
 p1180
 sg8
-g40
+g17
 sg10
 VANDY
 p1181
@@ -4337,7 +4337,7 @@ sg10
 VTOBY
 p1190
 sg12
-g9
+g17
 sa(dp1191
 g6
 VWhat was it?
@@ -4359,7 +4359,7 @@ sg10
 VANDY
 p1196
 sg12
-g9
+g17
 sa(dp1197
 g6
 VDid you hear that?
@@ -4370,7 +4370,7 @@ sg10
 VTOBY
 p1199
 sg12
-g13
+g9
 sa(dp1200
 g6
 VYeah, that was...
@@ -4381,7 +4381,7 @@ sg10
 VANDY
 p1202
 sg12
-g9
+g17
 sa(dp1203
 g6
 VShh.
@@ -4436,7 +4436,7 @@ sg10
 VDONNA
 p1217
 sg12
-g9
+g13
 sa(dp1218
 g6
 VOf course it's a photocopy. The real one's in Wisconsin.
@@ -4535,7 +4535,7 @@ sg10
 VSAM
 p1244
 sg12
-g9
+g13
 sa(dp1245
 g6
 VSo, what's going on?
@@ -4574,7 +4574,7 @@ g6
 VIf you guys are going to win big, you don't want it to rain. There's less motivation anyway 'cause of the blowout and... you have no idea how fast these things can become a race.
 p1255
 sg8
-g40
+g17
 sg10
 VSAM
 p1256
@@ -4601,7 +4601,7 @@ sg10
 VDONNA
 p1262
 sg12
-g9
+g13
 sa(dp1263
 g6
 VI did something last week. I went to see a guy named Will Bailey. He ran Horton Wilde's campaign in Orange County and Wilde died a couple of weeks ago and his widow wanted to know what Democrat was going to stand in for her husband should he win and I said...
@@ -4629,7 +4629,7 @@ g6
 VYou have to understand. This wasn't something that cost me anything. They weren't going to annouve unless Wilde won and that was never going to happen in Orange County. It's like the Secretary of Agriculture saying, "Sure, I'm ready to assume the Presidency should the 18 who come before me die. Why not?"
 p1270
 sg8
-g40
+g17
 sg10
 VSAM
 p1271
@@ -4645,7 +4645,7 @@ sg10
 VDONNA
 p1274
 sg12
-g9
+g17
 sa(dp1275
 g6
 VBecase it's a two-point race right now.
@@ -4667,7 +4667,7 @@ sg10
 VDONNA
 p1280
 sg12
-g9
+g13
 sa(dp1281
 g6
 VNo. It's not. The prospect of going back on my word to a recent widow...
@@ -4711,7 +4711,7 @@ sg10
 VDONNA
 p1292
 sg12
-g9
+g13
 sa(dp1293
 g6
 VThat's exactly what I'm thinking.
@@ -4810,7 +4810,7 @@ sg10
 VSAM
 p1319
 sg12
-g9
+g17
 sa(dp1320
 g6
 VYeah.
@@ -4832,7 +4832,7 @@ sg10
 VCHARLIE
 p1325
 sg12
-g9
+g17
 sa(dp1326
 g6
 V[to Orlando] There are chairs up there that are over 200 years old. Before you sit in one, I want to see written confirmation from the Army Corp of Engineers that it can support your girth. You stole a goat? I'm assuming this was a mascot?
@@ -4860,12 +4860,12 @@ g6
 VYeah, it had that international jewel thief feel to it.
 p1333
 sg8
-g40
+g17
 sg10
 VCHARLIE
 p1334
 sg12
-g9
+g17
 sa(dp1335
 g6
 VHey, so what do you think we're doing for the rest of the day?
@@ -4882,7 +4882,7 @@ g6
 VYou know. Video games, hanging out.
 p1339
 sg8
-g40
+g17
 sg10
 VCHARLIE
 p1340
@@ -4942,7 +4942,7 @@ sg10
 VORLANDO
 p1355
 sg12
-g9
+g17
 sa(dp1356
 g6
 VYou're 18?
@@ -4986,7 +4986,7 @@ sg10
 VORLANDO
 p1367
 sg12
-g9
+g17
 sa(dp1368
 g6
 VWhere?
@@ -5008,7 +5008,7 @@ sg10
 VANTHONY
 p1373
 sg12
-g9
+g17
 sa(dp1374
 g6
 VI don't know where.
@@ -5019,7 +5019,7 @@ sg10
 VORLANDO
 p1376
 sg12
-g9
+g17
 sa(dp1377
 g6
 VWell, let's find out.
@@ -5052,7 +5052,7 @@ sg10
 VTECHNICIAN
 p1385
 sg12
-g9
+g13
 sa(dp1386
 g6
 VHello. Hi. What's going on?
@@ -5080,7 +5080,7 @@ g6
 VWhat was wrong with the old way?
 p1393
 sg8
-g40
+g17
 sg10
 VBARTLET
 p1394
@@ -5129,13 +5129,13 @@ sg10
 VDEBBIE
 p1406
 sg12
-g9
+g17
 sa(dp1407
 g6
 VWhat was wrong with the old way?
 p1408
 sg8
-g40
+g17
 sg10
 VBARTLET
 p1409
@@ -5151,7 +5151,7 @@ sg10
 VDEBBIE
 p1412
 sg12
-g9
+g13
 sa(dp1413
 g6
 VHow?
@@ -5173,7 +5173,7 @@ sg10
 VDEBBIE
 p1418
 sg12
-g9
+g17
 sa(dp1419
 g6
 VI hear you've got rules for meetings.
@@ -5195,7 +5195,7 @@ sg10
 VDEBBIE
 p1424
 sg12
-g9
+g13
 sa(dp1425
 g6
 VYou don't think that's apt to create a resentment among the people who were here before with...? It's not like the thing wasn't working with... Whatever you may assume, that wasn't a rube sitting out there, Debbie. She ran the Oval Office for two years and a state house before that.
@@ -5256,7 +5256,7 @@ g6
 VI'm going to place your outgoing calls.
 p1441
 sg8
-g40
+g17
 sg10
 VDEBBIE
 p1442
@@ -5267,7 +5267,7 @@ g6
 VYou're going to place a lot of my outgoing calls...
 p1444
 sg8
-g40
+g17
 sg10
 VBARTLET
 p1445
@@ -5294,7 +5294,7 @@ sg10
 VBARTLET
 p1451
 sg12
-g9
+g17
 sa(dp1452
 g6
 VSir...
@@ -5311,18 +5311,18 @@ g6
 VI can make my own phone calls.
 p1456
 sg8
-g40
+g17
 sg10
 VBARTLET
 p1457
 sg12
-g9
+g17
 sa(dp1458
 g6
 VYes, but soon you might not neccesarily remember that you did. When I place the call, there's a record and that's how you'll know and then you won't be worried about it.
 p1459
 sg8
-g40
+g17
 sg10
 VDEBBIE
 p1460
@@ -5371,7 +5371,7 @@ sg10
 VDEBBIE
 p1472
 sg12
-g13
+g9
 sa(dp1473
 g6
 VYou and I haven't met. In my life, I never would have thought she was a rube.
@@ -5393,7 +5393,7 @@ sg10
 VBARTLET
 p1478
 sg12
-g9
+g17
 sa(dp1479
 g6
 VDebbie... I have to ask you. Are we talking about...? Did you bring it up 'cause you... noticed...? Is there some particular thing today you noticed?
@@ -5465,7 +5465,7 @@ g6
 VSheryl, it's Will Bailey. How you doing? Fine, thank you. There are scattered power outages in the Casa Verde precinct in Santa Ana and the street lights are going on and off in the only legitimatley Democratic precinct I've got, so if I lose by a hundred 'cause people couldn't cross the street, who in your office would I talk to about election tampering? Thanks a lot Sheryl. I appreciate it. [hangs up] Pull the sound trucks from Laguna Hills. There isn't enough foot traffic.
 p1498
 sg8
-g40
+g17
 sg10
 VWILL
 p1499
@@ -5509,7 +5509,7 @@ g6
 VWhen the hell's it going to rain?!
 p1510
 sg8
-g40
+g17
 sg10
 VWILL
 p1511
@@ -5536,13 +5536,13 @@ sg10
 VWILL
 p1517
 sg12
-g9
+g17
 sa(dp1518
 g6
 VThe die has been cast, big brother. You're making everyone crazy.
 p1519
 sg8
-g40
+g17
 sg10
 VELSIE
 p1520
@@ -5553,7 +5553,7 @@ g6
 VThere's a moment after you cast the die but before it hits the table. Breathe wrong and you'll change the way it lands. Can I get a new weather report?!
 p1522
 sg8
-g40
+g17
 sg10
 VWILL
 p1523
@@ -5569,7 +5569,7 @@ sg10
 VDONNA
 p1526
 sg12
-g9
+g13
 sa(dp1527
 g6
 VOr maybe it says that even with the President's supporters accidentally voting for the wrong candidate you're still going to get creamed, you little fascist! This is an honor thing!
@@ -5597,12 +5597,12 @@ g6
 VDid somebody steal your purse?
 p1534
 sg8
-g40
+g17
 sg10
 VJACK
 p1535
 sg12
-g9
+g17
 sa(dp1536
 g6
 VMe? No.
@@ -5646,7 +5646,7 @@ sg10
 VJACK
 p1547
 sg12
-g9
+g17
 sa(dp1548
 g6
 VLittle guy. Bow tie.
@@ -5718,7 +5718,7 @@ g6
 VLieutenant, I'm not a crazy person and I'm not asking you for the bomb sequence on the USS Essex. Now, be a man and tell me who you're voting for.
 p1567
 sg8
-g40
+g17
 sg10
 VDONNA
 p1568
@@ -5745,7 +5745,7 @@ sg10
 VDONNA
 p1574
 sg12
-g9
+g17
 sa(dp1575
 g6
 VReese.
@@ -5828,12 +5828,12 @@ g6
 VDon't try to trump me here. It's not a battle. We're in this together.
 p1597
 sg8
-g40
+g17
 sg10
 VDONNA
 p1598
 sg12
-g9
+g17
 sa(dp1599
 g6
 VNo, we're not.
@@ -5844,13 +5844,13 @@ sg10
 VJACK
 p1601
 sg12
-g9
+g17
 sa(dp1602
 g6
 VI voted absentee in Wisconsin, and I voted for Ritchie and I meant to vote for the President. Now, I think you should go in there and vote the other way to make it a wash.
 p1603
 sg8
-g40
+g17
 sg10
 VDONNA
 p1604
@@ -5866,7 +5866,7 @@ sg10
 VJACK
 p1607
 sg12
-g9
+g13
 sa(dp1608
 g6
 VLook... Really?
@@ -5888,7 +5888,7 @@ sg10
 VJACK
 p1613
 sg12
-g9
+g13
 sa(dp1614
 g6
 VI'm Donna.
@@ -5899,7 +5899,7 @@ sg10
 VDONNA
 p1616
 sg12
-g9
+g17
 sa(dp1617
 g6
 VJack.
@@ -5954,7 +5954,7 @@ sg10
 VJACK
 p1631
 sg12
-g9
+g17
 sa(dp1632
 g6
 VWhat's your billet?
@@ -6020,7 +6020,7 @@ sg10
 VJACK
 p1649
 sg12
-g9
+g13
 sa(dp1650
 g6
 VYeah, sure. Oh, listen, I've got a photocopy of my absentee ballot if you want to verify that I really...
@@ -6031,7 +6031,7 @@ sg10
 VDONNA
 p1652
 sg12
-g9
+g17
 sa(dp1653
 g6
 VNo, no. It's an honor thing, right?
@@ -6081,7 +6081,7 @@ g6
 VI stare at this and I stare at this and I don't know which is the boy and which is the girl. I suppose that problem will take care of itself. You know, if you stare at them for awhile, well, it's pretty gross, but still...
 p1666
 sg8
-g40
+g17
 sg10
 VTOBY
 p1667
@@ -6097,7 +6097,7 @@ sg10
 VJOSH
 p1670
 sg12
-g13
+g9
 sa(dp1671
 g6
 VHey. I see one victory ballon before this thing is called and...!
@@ -6163,7 +6163,7 @@ sg10
 VCHARLIE
 p1688
 sg12
-g9
+g17
 sa(dp1689
 g6
 VYeah.
@@ -6191,7 +6191,7 @@ g6
 VHey, Mr. Young-- I'm not being disrespectful or nothing but I'm just trying to concentrate.
 p1696
 sg8
-g40
+g17
 sg10
 VORLANDO
 p1697
@@ -6202,7 +6202,7 @@ g6
 VListen, this is easy. You can do it, no problem, but if you need to, you can ask for help. You're allowed.
 p1699
 sg8
-g40
+g17
 sg10
 VCHARLIE
 p1700
@@ -6251,7 +6251,7 @@ sg10
 VCHARLIE
 p1712
 sg12
-g9
+g17
 sa(dp1713
 g6
 VHe's a good guy, you know. He knows his business. He just doesn't like looking like a fool.
@@ -6273,7 +6273,7 @@ sg10
 VCHARLIE
 p1718
 sg12
-g9
+g17
 sa(dp1719
 g6
 VThree days.
@@ -6361,7 +6361,7 @@ sg10
 VORLANDO
 p1742
 sg12
-g9
+g17
 sa(dp1743
 g6
 VAll right.
@@ -6383,7 +6383,7 @@ sg10
 VORLANDO
 p1748
 sg12
-g9
+g17
 sa(dp1749
 g6
 VNo, no, no, no.
@@ -6394,7 +6394,7 @@ sg10
 VCHARLIE
 p1751
 sg12
-g9
+g17
 sa(dp1752
 g6
 VWill!
@@ -6416,7 +6416,7 @@ sg10
 VWILL
 p1757
 sg12
-g9
+g13
 sa(dp1758
 g6
 VCome inside and have something to eat with us. Will.
@@ -6482,13 +6482,13 @@ sg10
 VJOSH
 p1775
 sg12
-g9
+g17
 sa(dp1776
 g6
 VI'm not spitting. I'm not turning around. Union households are beating non-unions in some of these districts..
 p1777
 sg8
-g40
+g17
 sg10
 VTOBY
 p1778
@@ -6537,7 +6537,7 @@ sg10
 VC.J.
 p1790
 sg12
-g40
+g17
 sa(dp1791
 g6
 VWhat was that?
@@ -6548,7 +6548,7 @@ sg10
 VJOSH
 p1793
 sg12
-g9
+g17
 sa(dp1794
 g6
 VYou'll see in a minute. [leaves]
@@ -6592,7 +6592,7 @@ sg10
 VBARTLET
 p1805
 sg12
-g9
+g17
 sa(dp1806
 g6
 VWhat are you doing?
@@ -6614,7 +6614,7 @@ sg10
 VC.J.
 p1811
 sg12
-g9
+g17
 sa(dp1812
 g6
 VWhat?
@@ -6658,7 +6658,7 @@ sg10
 VBARTLET
 p1823
 sg12
-g9
+g13
 sa(dp1824
 g6
 VSam, what's going on?
@@ -6708,7 +6708,7 @@ g6
 VWe're going to skip the parties for a while and head back to the office. There are nine House races too close to call. Tell him about California.
 p1837
 sg8
-g40
+g17
 sg10
 VJOSH
 p1838
@@ -6730,7 +6730,7 @@ g6
 VIn the 47th-- You don't tell it well. In the 47th, Horton Wilde, who's dead, is losing by 88 votes. It was a perfect storm.
 p1843
 sg8
-g40
+g17
 sg10
 VJOSH
 p1844
@@ -6746,7 +6746,7 @@ sg10
 VTOBY
 p1847
 sg12
-g9
+g17
 sa(dp1848
 g6
 VLow Republican turnout, 'cause the President won he Midwest. Low supporter turnout 'cause Webb didn't have an opponent and the DNC gave up on it a week ago so the RNC left town and they never saw the exits your guy Will Bailey was seeing.
@@ -6856,7 +6856,7 @@ sg10
 VBARTLET
 p1877
 sg12
-g9
+g17
 sa(dp1878
 g6
 VYou seem a little dry. Sure you don't want a glass of water?
@@ -6884,7 +6884,7 @@ g6
 VMaybe I should get you a glass of water, just in case. You could hold it in your hand.
 p1885
 sg8
-g40
+g17
 sg10
 VABBEY
 p1886
@@ -6900,7 +6900,7 @@ sg10
 VBARTLET
 p1889
 sg12
-g13
+g9
 sa(dp1890
 g6
 VYou were off the prompter.
@@ -6911,7 +6911,7 @@ sg10
 VABBEY
 p1892
 sg12
-g9
+g17
 sa(dp1893
 g6
 VJust for a minute at the end. I couldn't see it.
@@ -6977,7 +6977,7 @@ sg10
 VC.J.
 p1910
 sg12
-g9
+g17
 sa(dp1911
 g6
 VSure.
@@ -6988,5 +6988,5 @@ sg10
 VABBEY
 p1913
 sg12
-g9
+g17
 sas.

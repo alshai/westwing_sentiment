@@ -47,7 +47,7 @@ sg10
 VBARTLET
 p20
 sg12
-g13
+g19
 sa(dp21
 g6
 VYour nominee for Attorney General did. Can you tell us why you nominated him?
@@ -91,7 +91,7 @@ sg10
 VBARTLET
 p32
 sg12
-g13
+g19
 sa(dp33
 g6
 VWhoa...
@@ -146,7 +146,7 @@ sg10
 VBARTLET
 p47
 sg12
-g13
+g19
 sa(dp48
 g6
 VI think we'd lose.
@@ -157,7 +157,7 @@ sg10
 VJOSH
 p50
 sg12
-g13
+g19
 sa(dp51
 g6
 VNot in New Jersey.
@@ -190,7 +190,7 @@ sg10
 VJOSH
 p59
 sg12
-g13
+g19
 sa(dp60
 g6
 VWe can make it more complicated.
@@ -234,7 +234,7 @@ sg10
 VBARTLET
 p71
 sg12
-g13
+g19
 sa(dp72
 g6
 VA lot of people in law enforcement believe profiling helps them do their job better. Not everyone's against it.
@@ -256,7 +256,7 @@ sg10
 VBARTLET
 p77
 sg12
-g13
+g19
 sa(dp78
 g6
 VHow you doing there Joey? Kippy?
@@ -267,7 +267,7 @@ sg10
 VBARTLET
 p80
 sg12
-g9
+g13
 sa(dp81
 g6
 VKenny.
@@ -333,7 +333,7 @@ sg10
 VBARTLET
 p98
 sg12
-g13
+g19
 sa(dp99
 g6
 VWe're losing the question. Fundamentally, it's "What was the story with Rooker?"
@@ -377,7 +377,7 @@ sg10
 VJOSH
 p110
 sg12
-g13
+g9
 sa(dp111
 g6
 VBlow past the nomination fight?
@@ -388,7 +388,7 @@ sg10
 VC.J.
 p113
 sg12
-g13
+g9
 sa(dp114
 g6
 V...and give a strong, unambiguous statement in support of law enforcement?
@@ -454,7 +454,7 @@ sg10
 VBARTLET
 p131
 sg12
-g13
+g19
 sa(dp132
 g6
 V...Yes sir?
@@ -476,7 +476,7 @@ sg10
 VBARTLET
 p137
 sg12
-g9
+g19
 sa(dp138
 g6
 VI was offering an answer...
@@ -487,7 +487,7 @@ sg10
 VSAM
 p140
 sg12
-g13
+g19
 sa(dp141
 g6
 VYou were doing me.
@@ -498,7 +498,7 @@ sg10
 VBARTLET
 p143
 sg12
-g13
+g19
 sa(dp144
 g6
 VI may have slipped into it, yes.
@@ -509,7 +509,7 @@ sg10
 VSAM
 p146
 sg12
-g13
+g9
 sa(dp147
 g6
 VAnybody else do a pretty good Bartlet? It's talent night here at Debate Camp, anybody want to do a little skit?
@@ -586,7 +586,7 @@ sg10
 VLEO
 p167
 sg12
-g13
+g19
 sa(dp168
 g6
 VHutchinson and Berryhill are hooked in along with Nancy and Fitzwallace and we're still getting Peter from State.
@@ -663,7 +663,7 @@ sg10
 VBARTLET
 p188
 sg12
-g13
+g19
 sa(dp189
 g6
 VThey're not there yet.
@@ -674,7 +674,7 @@ sg10
 VLEO
 p191
 sg12
-g9
+g19
 sa(dp192
 g6
 VWe're getting MILSAT confirmation.
@@ -685,7 +685,7 @@ sg10
 VMIKE
 p194
 sg12
-g13
+g19
 sa(dp195
 g6
 VTen hut.
@@ -696,7 +696,7 @@ sg10
 VOFFICER
 p197
 sg12
-g13
+g9
 sa(dp198
 g6
 VAlright. Well, we've got ourselves a Marx Brothers' movie.
@@ -740,7 +740,7 @@ sg10
 VBARTLET
 p209
 sg12
-g9
+g13
 sa(dp210
 g6
 VFine. Thank you, sir. And you?
@@ -817,7 +817,7 @@ sg10
 VFITZWALLACE
 p230
 sg12
-g13
+g9
 sa(dp231
 g6
 VWell, for the moment, they haven't stood up, but in the meantime, let's think of something we can give them when they do.
@@ -960,7 +960,7 @@ sg10
 VANDY
 p269
 sg12
-g13
+g9
 sa(dp270
 g6
 VSee, by my count, you said under no circumstances to the IRC post spin and sure....
@@ -993,7 +993,7 @@ sg10
 VTOBY
 p278
 sg12
-g9
+g19
 sa(dp279
 g6
 VI've had the unique experience of having done it once before.
@@ -1004,7 +1004,7 @@ sg10
 VANDY
 p281
 sg12
-g9
+g13
 sa(dp282
 g6
 VYes, well...
@@ -1103,7 +1103,7 @@ sg10
 VSAM
 p308
 sg12
-g13
+g19
 sa(dp309
 g6
 VI'm not.
@@ -1114,7 +1114,7 @@ sg10
 VTOBY
 p311
 sg12
-g13
+g19
 sa(dp312
 g6
 VI think you're getting back together.
@@ -1136,7 +1136,7 @@ sg10
 VTOBY
 p317
 sg12
-g13
+g19
 sa(dp318
 g6
 VBut you want to.
@@ -1169,7 +1169,7 @@ sg10
 VSAM
 p326
 sg12
-g13
+g19
 sa(dp327
 g6
 VSee, sometimes if I slam on the brakes, you run right past.
@@ -1180,7 +1180,7 @@ sg10
 VTOBY
 p329
 sg12
-g13
+g9
 sa(dp330
 g6
 VOkay, fill us in on everything you've got so far between the two of you.
@@ -1235,7 +1235,7 @@ sg10
 VSAM
 p344
 sg12
-g9
+g13
 sa(dp345
 g6
 VNo, actually.
@@ -1257,7 +1257,7 @@ sg10
 VSAM
 p350
 sg12
-g13
+g19
 sa(dp351
 g6
 VWho said it was?
@@ -1312,7 +1312,7 @@ sg10
 VTOBY
 p365
 sg12
-g13
+g19
 sa(dp366
 g6
 VI think Cornell Rooker's going to be the AG. How about that?
@@ -1400,7 +1400,7 @@ sg10
 VLEO
 p389
 sg12
-g13
+g19
 sa(dp390
 g6
 VYeah.
@@ -1433,7 +1433,7 @@ sg10
 VMARGARET
 p398
 sg12
-g13
+g19
 sa(dp399
 g6
 VDonna is at the White House, as a matter of fact.
@@ -1477,7 +1477,7 @@ sg10
 VC.J.
 p410
 sg12
-g13
+g9
 sa(dp411
 g6
 VShe's being taken out to lunch by her predecessor, a guy who's the assistant to Mac McConnell, the assistant to the Deputy C.O.S.
@@ -1532,7 +1532,7 @@ sg10
 VSAM
 p425
 sg12
-g13
+g19
 sa(dp426
 g6
 V(knocks on door frame) Excuse me. Mr. Ziegler?
@@ -1565,7 +1565,7 @@ sg10
 VASSISTANT
 p434
 sg12
-g13
+g9
 sa(dp435
 g6
 VYeah. (irritated) Congresswoman Wyatt is also Mrs. Ziegler. Just... uh, I'll be right out.
@@ -1587,7 +1587,7 @@ sg10
 VASSISTANT
 p440
 sg12
-g13
+g9
 sa(dp441
 g6
 VYou think we're going to get hit from the left?
@@ -1609,7 +1609,7 @@ sg10
 VSAM
 p446
 sg12
-g13
+g19
 sa(dp447
 g6
 VI don't.
@@ -1620,7 +1620,7 @@ sg10
 VJOSH
 p449
 sg12
-g13
+g19
 sa(dp450
 g6
 VLook...
@@ -1642,7 +1642,7 @@ sg10
 VJOSH
 p455
 sg12
-g13
+g9
 sa(dp456
 g6
 VYou're missing the point.
@@ -1730,7 +1730,7 @@ sg10
 VJEFF
 p479
 sg12
-g13
+g19
 sa(dp480
 g6
 VThis is incredibly nice of you.
@@ -1741,7 +1741,7 @@ sg10
 VDONNA
 p482
 sg12
-g13
+g9
 sa(dp483
 g6
 VWell, the guy before did it for me, so who knows? Maybe you'll do it for someone else in four years.
@@ -1785,7 +1785,7 @@ sg10
 VDONNA
 p494
 sg12
-g19
+g13
 sa(dp495
 g6
 VWho knows? The White House reinvents itself with every administration. It's never the same. There are some things I can tell you that won't be in the briefing. You want to hear them?
@@ -1807,7 +1807,7 @@ sg10
 VDONNA
 p500
 sg12
-g13
+g19
 sa(dp501
 g6
 VNever wear your badge off campus. It's like wearing a bull's eye. Don't let your kids get the mail out of your mailbox. You don't know what separatist just sent you a chain mail.
@@ -1829,7 +1829,7 @@ sg10
 VDONNA
 p506
 sg12
-g13
+g19
 sa(dp507
 g6
 VGood, because there are days when you're gonna need to get here at eight, maybe even earlier, and not go home till six or seven. What else? The iodine tablet. Some people take 'em; some people don't. I did, but you can ask your doctor.
@@ -1873,7 +1873,7 @@ sg10
 VDONNA
 p518
 sg12
-g13
+g19
 sa(dp519
 g6
 VThere's an XW-9 warhead in a silo 93 feet below the Eisenhower putting green. They say it's not enough radiation to hurt you, but do you really want to take chances with something like that?
@@ -1895,7 +1895,7 @@ sg10
 VDONNA
 p524
 sg12
-g13
+g19
 sa(dp525
 g6
 VListen, before I forget, I've gotten hit up for a favor. My girlfriend's a stringer for a teen magazine. It's called 21.
@@ -1917,7 +1917,7 @@ sg10
 VDONNA
 p530
 sg12
-g13
+g19
 sa(dp531
 g6
 VWith all the people coming in, they want to do a story and you've been visible and with the way you look... Any chance she could get a ten-minute phoner?
@@ -1983,7 +1983,7 @@ sg10
 VDONNA
 p548
 sg12
-g13
+g19
 sa(dp549
 g6
 VOkay.
@@ -2082,7 +2082,7 @@ sg10
 VTOBY
 p575
 sg12
-g13
+g19
 sa(dp576
 g6
 V(amused) It's gruesome?
@@ -2126,7 +2126,7 @@ sg10
 VTOBY
 p587
 sg12
-g9
+g13
 sa(dp588
 g6
 VWhy?
@@ -2170,7 +2170,7 @@ sg10
 VTOBY
 p599
 sg12
-g13
+g19
 sa(dp600
 g6
 V(overlapping him) I thought maybe today I could...
@@ -2258,7 +2258,7 @@ sg10
 VTOBY
 p623
 sg12
-g13
+g19
 sa(dp624
 g6
 VElectoral math.
@@ -2489,7 +2489,7 @@ sg10
 VALL
 p686
 sg12
-g13
+g9
 sa(dp687
 g6
 VThat's... not good, sir.
@@ -2500,7 +2500,7 @@ sg10
 VLARRY
 p689
 sg12
-g13
+g9
 sa(dp690
 g6
 VWe just lost the vote of every stay-at-home mom and their husbands who are henpecked.
@@ -2544,7 +2544,7 @@ sg10
 VTOBY
 p701
 sg12
-g13
+g19
 sa(dp702
 g6
 VWe're letting Ritchie put him on the oppisite side of values. Lead with "I'm the proud father of..."
@@ -2665,7 +2665,7 @@ sg10
 VCAROL
 p734
 sg12
-g13
+g9
 sa(dp735
 g6
 VYeah?
@@ -2720,7 +2720,7 @@ sg10
 VC.J.
 p749
 sg12
-g13
+g19
 sa(dp750
 g6
 VNo.
@@ -2753,7 +2753,7 @@ sg10
 VCAROL
 p758
 sg12
-g13
+g19
 sa(dp759
 g6
 VI'm going to stay here and practice.
@@ -2797,7 +2797,7 @@ sg10
 VC.J.
 p770
 sg12
-g13
+g19
 sa(dp771
 g6
 VI wanted to tell you that on December 10th, all 600,000 will be praying for you.
@@ -2841,7 +2841,7 @@ sg10
 VC.J.
 p782
 sg12
-g13
+g19
 sa(dp783
 g6
 VWell, once a year, we identify the 365 most influential people in media and we assign each of them a calendar day and we pray for them.
@@ -2918,7 +2918,7 @@ sg10
 VBILL
 p803
 sg12
-g13
+g9
 sa(dp804
 g6
 VYes, but we got as many as we needed for now, so...
@@ -2962,7 +2962,7 @@ sg10
 VBILL
 p815
 sg12
-g13
+g19
 sa(dp816
 g6
 VReally?
@@ -3017,7 +3017,7 @@ sg10
 VBARTLET
 p830
 sg12
-g13
+g9
 sa(dp831
 g6
 VReally?
@@ -3050,7 +3050,7 @@ sg10
 VBARTLET
 p839
 sg12
-g13
+g19
 sa(dp840
 g6
 VI'm meeting with the leadership, I'm signing six Executive Orders I don't yet understand...
@@ -3061,7 +3061,7 @@ sg10
 VBARTLET
 p842
 sg12
-g13
+g19
 sa(dp843
 g6
 VMr. President.
@@ -3083,7 +3083,7 @@ sg10
 VBARTLET
 p848
 sg12
-g13
+g19
 sa(dp849
 g6
 VIt's my office!
@@ -3105,7 +3105,7 @@ sg10
 VBARTLET
 p854
 sg12
-g13
+g9
 sa(dp855
 g6
 VI want to run through these Executive Orders.
@@ -3138,7 +3138,7 @@ sg10
 VLEO
 p863
 sg12
-g9
+g19
 sa(dp864
 g6
 VC.J., what are you doing?
@@ -3160,7 +3160,7 @@ sg10
 VC.J.
 p869
 sg12
-g13
+g19
 sa(dp870
 g6
 V[points to Leo] He's standing right there.
@@ -3259,7 +3259,7 @@ sg10
 VC.J.
 p896
 sg12
-g13
+g19
 sa(dp897
 g6
 VLaw enforcement?
@@ -3369,7 +3369,7 @@ sg10
 VJOSH
 p926
 sg12
-g13
+g19
 sa(dp927
 g6
 VI'm riding.
@@ -3380,7 +3380,7 @@ sg10
 VAMY
 p929
 sg12
-g13
+g19
 sa(dp930
 g6
 VThen what are you doing?
@@ -3424,7 +3424,7 @@ sg10
 VAMY
 p941
 sg12
-g19
+g13
 sa(dp942
 g6
 VHow's Peter's wife?
@@ -3457,7 +3457,7 @@ sg10
 VJOSH
 p950
 sg12
-g9
+g19
 sa(dp951
 g6
 VWhat do you need?
@@ -3567,7 +3567,7 @@ sg10
 VSAM
 p980
 sg12
-g13
+g19
 sa(dp981
 g6
 VI'm looking on this side again.
@@ -3622,7 +3622,7 @@ sg10
 VJOSH
 p995
 sg12
-g13
+g19
 sa(dp996
 g6
 VNo, I think they do, but they also stand for the ones who get pulled over for having too nice a car.
@@ -3754,7 +3754,7 @@ sg10
 VJOSH
 p1031
 sg12
-g13
+g19
 sa(dp1032
 g6
 VYeah, but he's not going to be. So let's take it from there.
@@ -3853,7 +3853,7 @@ sg10
 VJOSH
 p1058
 sg12
-g13
+g9
 sa(dp1059
 g6
 VI don't want to be able to turn my head tomorrow without reading that quote.
@@ -3864,7 +3864,7 @@ sg10
 VTOBY
 p1061
 sg12
-g13
+g19
 sa(dp1062
 g6
 VAnything else?
@@ -3875,7 +3875,7 @@ sg10
 VJOSH
 p1064
 sg12
-g13
+g19
 sa(dp1065
 g6
 VNo.
@@ -3908,7 +3908,7 @@ sg10
 VDONNA
 p1073
 sg12
-g13
+g19
 sa(dp1074
 g6
 VYeah, hey. How do you do?
@@ -4018,7 +4018,7 @@ sg10
 VDONNA
 p1103
 sg12
-g13
+g19
 sa(dp1104
 g6
 VThere's not!
@@ -4051,7 +4051,7 @@ sg10
 VJOSH
 p1112
 sg12
-g9
+g13
 sa(dp1113
 g6
 VJeff, when I met him for lunch.
@@ -4073,7 +4073,7 @@ sg10
 VJOSH
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VHis girlfriend.
@@ -4150,7 +4150,7 @@ sg10
 VDONNA
 p1139
 sg12
-g13
+g19
 sa(dp1140
 g6
 VThis is just like when I played the lead in "Li'l Abner" in eighth grade and rehearsals are going fine. All of a sudden there's sets and lights and costumes, and everyone's tripping all over themselves except me. You guys all walked into the building and got freaked by the lights. I walked in and, you know, something else happened.
@@ -4205,7 +4205,7 @@ sg10
 VJOSH
 p1154
 sg12
-g13
+g19
 sa(dp1155
 g6
 VNo.
@@ -4282,7 +4282,7 @@ sg10
 VCHARLIE
 p1175
 sg12
-g13
+g19
 sa(dp1176
 g6
 VOkay, but I-I don't know what you're talking about.
@@ -4304,7 +4304,7 @@ sg10
 VCHARLIE
 p1181
 sg12
-g13
+g19
 sa(dp1182
 g6
 VWith what?
@@ -4337,7 +4337,7 @@ sg10
 VTOBY
 p1190
 sg12
-g13
+g19
 sa(dp1191
 g6
 VIf you want to marry Andy, then, damn it, so do I...
@@ -4436,7 +4436,7 @@ sg10
 VCHARLIE
 p1217
 sg12
-g13
+g9
 sa(dp1218
 g6
 VYes.
@@ -4458,7 +4458,7 @@ sg10
 VCHARLIE
 p1223
 sg12
-g19
+g13
 sa(dp1224
 g6
 VYes.
@@ -4491,7 +4491,7 @@ sg10
 VTOBY
 p1232
 sg12
-g13
+g19
 sa(dp1233
 g6
 VYou're going to give me your white blood cells... not all of them, but as many as I want.
@@ -4590,7 +4590,7 @@ sg10
 VANDY
 p1259
 sg12
-g13
+g9
 sa(dp1260
 g6
 VI meant adopting. I meant surrogacy. And yes, I love kids and I want them and I don't have to have them. And I don't have to have them...
@@ -4601,7 +4601,7 @@ sg10
 VTOBY
 p1262
 sg12
-g13
+g19
 sa(dp1263
 g6
 VI want them.
@@ -4623,7 +4623,7 @@ sg10
 VTOBY
 p1268
 sg12
-g13
+g19
 sa(dp1269
 g6
 VOkay. You're getting killed on Rooker.
@@ -4656,7 +4656,7 @@ sg10
 VANDY
 p1277
 sg12
-g13
+g9
 sa(dp1278
 g6
 VIs he in there?
@@ -4711,7 +4711,7 @@ sg10
 VTOBY
 p1292
 sg12
-g13
+g19
 sa(dp1293
 g6
 VWell, I did a one-on-one with Danny Concannon a few days ago on Rooker.
@@ -4744,7 +4744,7 @@ sg10
 VC.J.
 p1301
 sg12
-g9
+g13
 sa(dp1302
 g6
 VAnd?
@@ -4755,7 +4755,7 @@ sg10
 VTOBY
 p1304
 sg12
-g13
+g19
 sa(dp1305
 g6
 VHe did.
@@ -4931,7 +4931,7 @@ sg10
 VAMY
 p1352
 sg12
-g13
+g19
 sa(dp1353
 g6
 VI think that's your cell phone that's been ringing.
@@ -4975,7 +4975,7 @@ sg10
 VAMY
 p1364
 sg12
-g13
+g19
 sa(dp1365
 g6
 VListen, you probably don't want to let him know it's me on the phone. It's too intimidating. It's like going out with Cher and Sonny calls.
@@ -4997,7 +4997,7 @@ sg10
 VAMY
 p1370
 sg12
-g9
+g13
 sa(dp1371
 g6
 VAny thoughts?
@@ -5063,7 +5063,7 @@ sg10
 VAMY
 p1388
 sg12
-g13
+g19
 sa(dp1389
 g6
 VWe need to defend our accomplishments on work and family, many of which you pushed for and show that we get what working parents are going through. Can you help us?
@@ -5096,7 +5096,7 @@ sg10
 VJOSH
 p1397
 sg12
-g13
+g19
 sa(dp1398
 g6
 VOh, really anytime.
@@ -5107,7 +5107,7 @@ sg10
 VAMY
 p1400
 sg12
-g13
+g19
 sa(dp1401
 g6
 VOutstanding.
@@ -5316,7 +5316,7 @@ sg10
 VMICHAEL
 p1457
 sg12
-g9
+g19
 sa(dp1458
 g6
 V"She hit a little close to home"?
@@ -5349,7 +5349,7 @@ sg10
 VJOSH
 p1466
 sg12
-g13
+g19
 sa(dp1467
 g6
 VMr. Lyman, you don't have code-word clearance. We need to stay professional.
@@ -5393,7 +5393,7 @@ sg10
 VJOSH
 p1478
 sg12
-g13
+g19
 sa(dp1479
 g6
 VHow long has she been working for you?
@@ -5470,7 +5470,7 @@ sg10
 VMICHAEL
 p1499
 sg12
-g13
+g19
 sa(dp1500
 g6
 VYeah.
@@ -5514,7 +5514,7 @@ sg10
 VMICHAEL
 p1511
 sg12
-g13
+g19
 sa(dp1512
 g6
 VAll right.
@@ -5558,7 +5558,7 @@ sg10
 VDONNA
 p1523
 sg12
-g13
+g19
 sa(dp1524
 g6
 VYou got to go home.
@@ -5602,7 +5602,7 @@ sg10
 VDONNA
 p1535
 sg12
-g13
+g19
 sa(dp1536
 g6
 VI'm talking to someone in Cochran's office.
@@ -5657,7 +5657,7 @@ sg10
 VJOSH
 p1550
 sg12
-g13
+g19
 sa(dp1551
 g6
 VYou've got a meeting in Leo's office.
@@ -5679,7 +5679,7 @@ sg10
 VJOSH
 p1556
 sg12
-g13
+g19
 sa(dp1557
 g6
 VThe President's not going to be available for a little bit.
@@ -5756,7 +5756,7 @@ sg10
 VTOBY
 p1577
 sg12
-g13
+g9
 sa(dp1578
 g6
 VBreak's over.
@@ -5778,7 +5778,7 @@ sg10
 VBARTLET
 p1583
 sg12
-g13
+g19
 sa(dp1584
 g6
 VWhat's going on?
@@ -5822,7 +5822,7 @@ sg10
 VFITZWALLACE
 p1595
 sg12
-g13
+g9
 sa(dp1596
 g6
 VThis fires twelve warheads with 644 M-77 munitions. It does it in 60 seconds.
@@ -5943,7 +5943,7 @@ sg10
 VFITZWALLACE
 p1628
 sg12
-g13
+g19
 sa(dp1629
 g6
 VWhat about Nancy?
@@ -5998,7 +5998,7 @@ sg10
 VBARTLET
 p1643
 sg12
-g13
+g19
 sa(dp1644
 g6
 VYes, sir.
@@ -6020,7 +6020,7 @@ sg10
 VC.J.
 p1649
 sg12
-g13
+g9
 sa(dp1650
 g6
 VC.J....
@@ -6163,7 +6163,7 @@ sg10
 VSAM
 p1688
 sg12
-g13
+g19
 sa(dp1689
 g6
 VYou're on the list too, pal.
@@ -6185,7 +6185,7 @@ sg10
 VSAM
 p1694
 sg12
-g13
+g19
 sa(dp1695
 g6
 VYou can all leave.
@@ -6196,7 +6196,7 @@ sg10
 VLEO
 p1697
 sg12
-g13
+g19
 sa(dp1698
 g6
 VWe're going to do better for you, boss.
@@ -6295,7 +6295,7 @@ sg10
 VJOSH
 p1724
 sg12
-g9
+g19
 sa(dp1725
 g6
 VMore often then not, it's going to be the other way around, so...
@@ -6317,7 +6317,7 @@ sg10
 VJOSH
 p1730
 sg12
-g13
+g19
 sa(dp1731
 g6
 VWhat?
@@ -6416,7 +6416,7 @@ sg10
 VJOSH
 p1757
 sg12
-g13
+g19
 sa(dp1758
 g6
 VYeah?
@@ -6438,7 +6438,7 @@ sg10
 VJOSH
 p1763
 sg12
-g9
+g13
 sa(dp1764
 g6
 VI'm freezing.
@@ -6449,7 +6449,7 @@ sg10
 VAMY
 p1766
 sg12
-g13
+g19
 sa(dp1767
 g6
 VWhere are you?
@@ -6460,7 +6460,7 @@ sg10
 VJOSH
 p1769
 sg12
-g9
+g13
 sa(dp1770
 g6
 VI'm at my front door.
@@ -6471,7 +6471,7 @@ sg10
 VAMY
 p1772
 sg12
-g13
+g19
 sa(dp1773
 g6
 VWell, go inside.
@@ -6493,7 +6493,7 @@ sg10
 VAMY
 p1778
 sg12
-g9
+g19
 sa(dp1779
 g6
 VYou'll never lose me, Amy.
@@ -6515,7 +6515,7 @@ sg10
 VAMY
 p1784
 sg12
-g13
+g19
 sa(dp1785
 g6
 VWhat do you have?
@@ -6548,7 +6548,7 @@ sg10
 VJOSH
 p1793
 sg12
-g9
+g19
 sa(dp1794
 g6
 VI don't know what you want me to say. I want women to have help from the government. I want women to earn what men earn. I want everyone to earn enough so that everyone can make the right choice for their family, and after that, it's none of your business who stays home and who goes to work. You don't know more about raising a family than I do.
@@ -6603,7 +6603,7 @@ sg10
 VAMY
 p1808
 sg12
-g13
+g9
 sa(dp1809
 g6
 VLet's get that in the form of an answer.
@@ -6636,7 +6636,7 @@ sg10
 VTOBY
 p1817
 sg12
-g13
+g9
 sa(dp1818
 g6
 VHe was wondering, the Team Toby meeting. Toby doesn't need to be there, right?
@@ -6658,7 +6658,7 @@ sg10
 VTOBY
 p1823
 sg12
-g13
+g19
 sa(dp1824
 g6
 VWhy don't you just do your job as a man and get that nice girl pregnant.
@@ -6691,7 +6691,7 @@ sg10
 VJOSH
 p1832
 sg12
-g13
+g9
 sa(dp1833
 g6
 VWhat?
@@ -6724,7 +6724,7 @@ sg10
 VJOSH
 p1841
 sg12
-g13
+g9
 sa(dp1842
 g6
 VWith twins.
@@ -6746,7 +6746,7 @@ sg10
 VSAM
 p1847
 sg12
-g13
+g9
 sa(dp1848
 g6
 VAnd they're yours?
@@ -6790,7 +6790,7 @@ sg10
 VTOBY
 p1859
 sg12
-g13
+g19
 sa(dp1860
 g6
 VWell, we're going to have to step this up now.
@@ -6911,7 +6911,7 @@ sg10
 VSAM
 p1892
 sg12
-g13
+g19
 sa(dp1893
 g6
 VWe made a mistake... I corrected it. I'll make more.
@@ -6922,7 +6922,7 @@ sg10
 VBARTLET
 p1895
 sg12
-g13
+g19
 sa(dp1896
 g6
 VYes. Humans can't rebut that. It's prevent defense and has the added merit of being true.
@@ -6933,7 +6933,7 @@ sg10
 VSAM
 p1898
 sg12
-g13
+g9
 sa(dp1899
 g6
 VAm I going to lose New Hampshire?
@@ -6999,7 +6999,7 @@ sg10
 VSAM
 p1916
 sg12
-g13
+g9
 sa(dp1917
 g6
 VNot anymore. He's dead.
@@ -7010,7 +7010,7 @@ sg10
 VBARTLET
 p1919
 sg12
-g13
+g19
 sa(dp1920
 g6
 VOkay.

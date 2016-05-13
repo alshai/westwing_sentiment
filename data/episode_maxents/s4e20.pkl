@@ -34,702 +34,702 @@ sg10
 VJOSH
 p15
 sg12
-g9
-sa(dp16
+S'negative'
+p16
+sa(dp17
 g6
 VIt does work. It has to be the exact moment of the equinox.
-p17
+p18
 sg8
 g9
 sg10
 VC.J.
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VIt doesn't work.
-p20
+p21
 sg8
 g9
 sg10
 VJOSH
-p21
+p22
 sg12
-g9
-sa(dp22
+g16
+sa(dp23
 g6
 VI've seen it.
-p23
+p24
 sg8
 g9
 sg10
 VC.J.
-p24
+p25
 sg12
 g9
-sa(dp25
+sa(dp26
 g6
 VI've tried it.
-p26
+p27
 sg8
 g9
 sg10
 VJOSH
-p27
+p28
 sg12
-g9
-sa(dp28
+g16
+sa(dp29
 g6
 VAnd?
-p29
+p30
 sg8
 g9
 sg10
 VC.J.
-p30
+p31
 sg12
-g9
-sa(dp31
+g16
+sa(dp32
 g6
 VIt doesn't work.
-p32
+p33
 sg8
 g9
 sg10
 VJOSH
-p33
+p34
 sg12
-g9
-sa(dp34
+g16
+sa(dp35
 g6
 VI don't think you did it at the exact moment.
-p35
+p36
 sg8
 g9
 sg10
 VC.J.
-p36
+p37
 sg12
 g9
-sa(dp37
+sa(dp38
 g6
 VI did.
-p38
+p39
 sg8
 g9
 sg10
 VJOSH
-p39
+p40
 sg12
 g9
-sa(dp40
+sa(dp41
 g6
 VWhen?
-p41
+p42
 sg8
 g9
 sg10
 VC.J.
-p42
+p43
 sg12
 g9
-sa(dp43
+sa(dp44
 g6
 VLast September.
-p44
+p45
 sg8
 g9
 sg10
 VJOSH
-p45
+p46
 sg12
 g9
-sa(dp46
+sa(dp47
 g6
 VThat was the Autumnal equinox.
-p47
+p48
 sg8
 g9
 sg10
 VC.J.
-p48
+p49
 sg12
 g9
-sa(dp49
+sa(dp50
 g6
 VIt only works for the Vernal equinox?
-p50
+p51
 sg8
 g9
 sg10
 VJOSH
-p51
+p52
 sg12
 g9
-sa(dp52
+sa(dp53
 g6
 VYeah.
-p53
+p54
 sg8
 g9
 sg10
 VC.J.
-p54
+p55
 sg12
 g9
-sa(dp55
+sa(dp56
 g6
 VYou know what's more likely?
-p56
+p57
 sg8
 g9
 sg10
 VJOSH
-p57
+p58
 sg12
 g9
-sa(dp58
+sa(dp59
 g6
 VThat it doesn't work at all?
-p59
+p60
 sg8
 g9
 sg10
 VC.J.
-p60
+p61
 sg12
-g9
-sa(dp61
+g16
+sa(dp62
 g6
 VThat's right.
-p62
+p63
 sg8
 g9
 sg10
 VJOSH
-p63
+p64
 sg12
 g9
-sa(dp64
+sa(dp65
 g6
 VIt does, I've seen it.
-p65
+p66
 sg8
 g9
 sg10
 VC.J.
-p66
+p67
 sg12
-g9
-sa(dp67
+g16
+sa(dp68
 g6
 VWe've got pastrami from Krupin's. It's tissue paper thin. Roast beef, corned beef, turkey, Russian dressing, coleslaw, and seedless rye, and winning the heard earned money of your coworkers. This is what I call a night off. Squeeze this piece of rye bread.
-p68
+p69
 sg8
 S'positive'
-p69
+p70
 sg10
 VLEO
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VNow what do I do?
-p72
+p73
 sg8
 g9
 sg10
 VC.J.
-p73
+p74
 sg12
-g9
-sa(dp74
+g16
+sa(dp75
 g6
 V[entering] Excuse me, Leo.
-p75
+p76
 sg8
 g9
 sg10
 VMARGARET
-p76
+p77
 sg12
-g9
-sa(dp77
+g16
+sa(dp78
 g6
 VYeah.
-p78
+p79
 sg8
 g9
 sg10
 VLEO
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VSomething that's true at the vernal equinox would also have to be true at the autumnal equinox.
-p81
+p82
 sg8
-g69
+g70
 sg10
 VJOSH
-p82
+p83
 sg12
-g9
-sa(dp83
+g70
+sa(dp84
 g6
 VWhy?
-p84
+p85
 sg8
 g9
 sg10
 VC.J.
-p85
+p86
 sg12
 g9
-sa(dp86
+sa(dp87
 g6
 VEquinox means equal night. Night and day are both 12 hours long.
-p87
+p88
 sg8
 g9
 sg10
 VJOSH
-p88
+p89
 sg12
 g9
-sa(dp89
+sa(dp90
 g6
 VWhat does that have to do with it?
-p90
+p91
 sg8
 g9
 sg10
 VC.J.
-p91
+p92
 sg12
 g9
-sa(dp92
+sa(dp93
 g6
 VIt doesn't work. I've tried it.
-p93
+p94
 sg8
 g9
 sg10
 VJOSH
-p94
+p95
 sg12
-g9
-sa(dp95
+g16
+sa(dp96
 g6
 VListen, there's...
-p96
+p97
 sg8
 g9
 sg10
 VTOBY
-p97
+p98
 sg12
 g9
-sa(dp98
+sa(dp99
 g6
 VHang on. C.J. believes that at the exact moment of the vernal equinox...
-p99
+p100
 sg8
-g69
+g70
 sg10
 VJOSH
-p100
+p101
 sg12
 g9
-sa(dp101
+sa(dp102
 g6
 VAnd only at that moment.
-p102
+p103
 sg8
 g9
 sg10
 VC.J.
-p103
+p104
 sg12
 g9
-sa(dp104
+sa(dp105
 g6
 VYou can stand an egg vertically.
-p105
+p106
 sg8
 g9
 sg10
 VJOSH
-p106
+p107
 sg12
-g9
-sa(dp107
+g16
+sa(dp108
 g6
 VHuh?
-p108
+p109
 sg8
 g9
 sg10
 VTOBY
-p109
+p110
 sg12
 g9
-sa(dp110
+sa(dp111
 g6
 VAt the equinox you can stand an egg on its end.
-p111
+p112
 sg8
 g9
 sg10
 VJOSH
-p112
+p113
 sg12
 g9
-sa(dp113
+sa(dp114
 g6
 VYeah, that doesn't work.
-p114
+p115
 sg8
 g9
 sg10
 VTOBY
-p115
+p116
 sg12
-g9
-sa(dp116
+g16
+sa(dp117
 g6
 VYou've tried it?
-p117
+p118
 sg8
 g9
 sg10
 VJOSH
-p118
+p119
 sg12
 g9
-sa(dp119
+sa(dp120
 g6
 VI don't need to try it, you can't stand an egg on its end. The elements involved with creating an equinox have no connection to the center of gravity of an egg.
-p120
+p121
 sg8
-g69
+g70
 sg10
 VTOBY
-p121
+p122
 sg12
 g9
-sa(dp122
+sa(dp123
 g6
 VI've seen it.
-p123
+p124
 sg8
 g9
 sg10
 VC.J.
-p124
+p125
 sg12
 g9
-sa(dp125
+sa(dp126
 g6
 VI've seen guys make ace of spades jump out of their shoes, I don't think it was the equinox.
-p126
+p127
 sg8
-g69
+g70
 sg10
 VTOBY
-p127
+p128
 sg12
 g9
-sa(dp128
+sa(dp129
 g6
 VJosh?
-p129
+p130
 sg8
 g9
 sg10
 VDONNA
-p130
+p131
 sg12
 g9
-sa(dp131
+sa(dp132
 g6
 VYeah?
-p132
+p133
 sg8
 g9
 sg10
 VJOSH
-p133
+p134
 sg12
 g9
-sa(dp134
+sa(dp135
 g6
 VCounsel's Office wants to know if you can meet with a candidate for the associate's position tonight.
-p135
+p136
 sg8
-g69
+g70
 sg10
 VDONNA
-p136
+p137
 sg12
 g9
-sa(dp137
+sa(dp138
 g6
 VTonight?
-p138
+p139
 sg8
 g9
 sg10
 VJOSH
-p139
+p140
 sg12
 g9
-sa(dp140
+sa(dp141
 g6
 VI explained it was your night off, but they said he's in town just the one night and...
-p141
+p142
 sg8
 g9
 sg10
 VDONNA
-p142
+p143
 sg12
 g9
-sa(dp143
+sa(dp144
 g6
 VYeah.
-p144
+p145
 sg8
 g9
 sg10
 VJOSH
-p145
+p146
 sg12
 g9
-sa(dp146
+sa(dp147
 g6
 VSo can I take your seat when you're not playing?
-p147
+p148
 sg8
 g9
 sg10
 VDONNA
-p148
+p149
 sg12
 g9
-sa(dp149
+sa(dp150
 g6
 VI miss Ainsley. That's who the Counsel's office should get to fill that position, another Ainsley. A sexy conservative with first-rate law credentials and a strange name.
-p150
+p151
 sg8
 g9
 sg10
 VJOSH
-p151
+p152
 sg12
 g9
-sa(dp152
+sa(dp153
 g6
 VSo can I take your seat?
-p153
+p154
 sg8
 g9
 sg10
 VDONNA
-p154
+p155
 sg12
-g9
-sa(dp155
+g16
+sa(dp156
 g6
 VWho else is playing in this game?
-p156
+p157
 sg8
 g9
 sg10
 VJOSH
-p157
+p158
 sg12
 g9
-sa(dp158
+sa(dp159
 g6
 VAnyone with currency.
-p159
+p160
 sg8
 g9
 sg10
 VTOBY
-p160
+p161
 sg12
-g9
-sa(dp161
+g16
+sa(dp162
 g6
 VLet me in the game sir, I beg of you.
-p162
+p163
 sg8
 g9
 sg10
 VDEBBIE
-p163
+p164
 sg12
 g9
-sa(dp164
+sa(dp165
 g6
 VWhy are you so eager to get in this game?
-p165
+p166
 sg8
-g69
+g70
 sg10
 VBARTLET
-p166
+p167
 sg12
 g9
-sa(dp167
+sa(dp168
 g6
 VI enjoy poker, Mr. President, and your card skills are well known around the building, and... frankly, I wanted to learn.
-p168
+p169
 sg8
-g69
+g70
 sg10
 VDEBBIE
-p169
+p170
 sg12
 g9
-sa(dp170
+sa(dp171
 g6
 VSeriously.
-p171
+p172
 sg8
 g9
 sg10
 VBARTLET
-p172
+p173
 sg12
 g9
-sa(dp173
+sa(dp174
 g6
 VI enjoy poker.
-p174
+p175
 sg8
-g69
+g70
 sg10
 VDEBBIE
-p175
+p176
 sg12
-g9
-sa(dp176
+g70
+sa(dp177
 g6
 VThis is a cash game, Debbie. These are hard working people blowing off some steam and taking each other off their coin. We don't play for matchsticks and we don't play...
-p177
+p178
 sg8
-g69
+g70
 sg10
 VBARTLET
-p178
+p179
 sg12
 g9
-sa(dp179
+sa(dp180
 g6
 V...Okay, can I ask you something? I forgot to have Charlie to draw cash for me, can you float me a little?
-p180
+p181
 sg8
-g69
+g70
 sg10
 VBARTLET
-p181
+p182
 sg12
 g9
-sa(dp182
+sa(dp183
 g6
 VI can play?
-p183
+p184
 sg8
 g9
 sg10
 VDEBBIE
-p184
+p185
 sg12
-g9
-sa(dp185
+g16
+sa(dp186
 g6
 VSir.
-p186
+p187
 sg8
 g9
 sg10
 VLEO
-p187
+p188
 sg12
 g9
-sa(dp188
+sa(dp189
 g6
 VLeo, C.J. swears that on the equinox, which is today, you can stand an egg on end.
-p189
+p190
 sg8
 g9
 sg10
 VBARTLET
-p190
+p191
 sg12
-g9
-sa(dp191
+g70
+sa(dp192
 g6
 VDebbie?
-p192
+p193
 sg8
 g9
 sg10
 VLEO
-p193
+p194
 sg12
 g9
-sa(dp194
+sa(dp195
 g6
 VThank you, Mr. President.
-p195
+p196
 sg8
 g9
 sg10
 VDEBBIE
-p196
+p197
 sg12
-g69
-sa(dp197
+g9
+sa(dp198
 g6
 VYeah, you can play.
-p198
+p199
 sg8
 g9
 sg10
 VBARTLET
-p199
+p200
 sg12
-g9
-sa(dp200
+g70
+sa(dp201
 g6
 VThank you, sir.
-p201
+p202
 sg8
-g69
+g70
 sg10
 VDEBBIE
-p202
+p203
 sg12
-g69
-sa(dp203
+g70
+sa(dp204
 g6
 VWe just lost an unmanned spy plane.
-p204
-sg8
-S'negative'
 p205
+sg8
+g16
 sg10
 VLEO
 p206
 sg12
-g205
+g16
 sa(dp207
 g6
 VWhere?
@@ -757,7 +757,7 @@ g6
 VWell that's why these are unmanned right? All we lost was money? Aren't they saying detonate the plane?
 p214
 sg8
-g205
+g16
 sg10
 VBARTLET
 p215
@@ -790,7 +790,7 @@ g6
 VYes sir. Except you can't say spy plane.
 p223
 sg8
-g69
+g70
 sg10
 VLEO
 p224
@@ -817,7 +817,7 @@ sg10
 VLEO
 p230
 sg12
-g69
+g70
 sa(dp231
 g6
 VAnd ask him for the plane back without telling him we were spying?
@@ -850,13 +850,13 @@ sg10
 VBARTLET
 p239
 sg12
-g205
+g16
 sa(dp240
 g6
 VIn the mean time, sir, want to play some cards?
 p241
 sg8
-g69
+g70
 sg10
 VLEO
 p242
@@ -927,7 +927,7 @@ sg10
 VDEBBIE
 p260
 sg12
-g9
+g16
 sa(dp261
 g6
 VYou're fine?
@@ -949,7 +949,7 @@ sg10
 VDEBBIE
 p266
 sg12
-g9
+g16
 sa(dp267
 g6
 V[knocks on the table] Check.
@@ -1048,7 +1048,7 @@ sg10
 VTOBY
 p293
 sg12
-g9
+g16
 sa(dp294
 g6
 VOut.
@@ -1142,7 +1142,7 @@ g6
 VHang on. Will, why are you dressed like an officer in the Air Force?
 p319
 sg8
-g69
+g70
 sg10
 VBARTLET
 p320
@@ -1153,7 +1153,7 @@ g6
 VI'm an officer in the Air Force.
 p322
 sg8
-g69
+g70
 sg10
 VWILL
 p323
@@ -1175,12 +1175,12 @@ g6
 VYes, sir.
 p328
 sg8
-g69
+g70
 sg10
 VWILL
 p329
 sg12
-g69
+g70
 sa(dp330
 g6
 VI didn't know that. [to C.J.] Did you know that?
@@ -1213,7 +1213,7 @@ sg10
 VBARTLET
 p338
 sg12
-g9
+g16
 sa(dp339
 g6
 VI work with the JAG Corps.
@@ -1224,7 +1224,7 @@ sg10
 VWILL
 p341
 sg12
-g9
+g70
 sa(dp342
 g6
 VAnd this is your weekend up?
@@ -1241,23 +1241,23 @@ g6
 VYes, sir.
 p346
 sg8
-g69
+g70
 sg10
 VWILL
 p347
 sg12
-g69
+g70
 sa(dp348
 g6
 VWell good for you. Where are you stationed?
 p349
 sg8
-g69
+g70
 sg10
 VBARTLET
 p350
 sg12
-g9
+g70
 sa(dp351
 g6
 VSince I moved here I'm stationed at the Air Force Legal Services Agency in Bolling Air Force base, but tonight I'm going to Cheyenne.
@@ -1296,7 +1296,7 @@ g6
 VNo, sir. Leo wanted you a minute.
 p361
 sg8
-g69
+g70
 sg10
 VCHARLIE
 p362
@@ -1329,7 +1329,7 @@ g6
 VOh yeah. You know, there was a thought that since Kaliningrad is the only non-contiguous Russian state you could make like you were just informing Chigorin of a rescue mission that barely concerns him.
 p370
 sg8
-g69
+g70
 sg10
 VLEO
 p371
@@ -1362,12 +1362,12 @@ g6
 V[sighs] What the hell.
 p379
 sg8
-g205
+g16
 sg10
 VBARTLET
 p380
 sg12
-g9
+g16
 sa(dp381
 g6
 VWould you, please? I'm not going to have you tell Chigorin that Kaliningrad's not part of Russia.
@@ -1411,7 +1411,7 @@ sg10
 VBARTLET
 p392
 sg12
-g69
+g70
 sa(dp393
 g6
 VWe weren't spying on Russia, we were spying for Russia.
@@ -1422,7 +1422,7 @@ sg10
 VLEO
 p395
 sg12
-g9
+g16
 sa(dp396
 g6
 VWe were spying for him?
@@ -1439,12 +1439,12 @@ g6
 VYes, sir.
 p400
 sg8
-g69
+g70
 sg10
 VLEO
 p401
 sg12
-g69
+g70
 sa(dp402
 g6
 VOkay, this phone call you're going to set up with Chigorin...it's like for a White House bloopers reel or something?
@@ -1466,7 +1466,7 @@ sg10
 VLEO
 p407
 sg12
-g9
+g70
 sa(dp408
 g6
 VAll right.
@@ -1505,7 +1505,7 @@ g6
 VThere was a bombing at a nightclub in Kuala Lumpur and they've got a suspect in Berlin who was trying to explode a device at the Brandenberg gate.
 p418
 sg8
-g205
+g16
 sg10
 VLEO
 p419
@@ -1631,13 +1631,13 @@ sg10
 VC.J.
 p452
 sg12
-g9
+g16
 sa(dp453
 g6
 VMake her prove it Toby. Show her there are no free lunches at the Friday night game.
 p454
 sg8
-g69
+g70
 sg10
 VWILL
 p455
@@ -1659,12 +1659,12 @@ g6
 VStraight to the king.
 p460
 sg8
-g69
+g70
 sg10
 VDEBBIE
 p461
 sg12
-g9
+g70
 sa(dp462
 g6
 VAll right, sorry about that. I'll get her for you.
@@ -1681,7 +1681,7 @@ g6
 VHere's an extra card.
 p466
 sg8
-g69
+g70
 sg10
 VC.J.
 p467
@@ -1692,12 +1692,12 @@ g6
 VThat's the joker.
 p469
 sg8
-g69
+g70
 sg10
 VWILL
 p470
 sg12
-g9
+g70
 sa(dp471
 g6
 VOh!
@@ -1736,7 +1736,7 @@ g6
 VStanding at the podium in the press room I could hit a seat in the fifth row.
 p481
 sg8
-g205
+g16
 sg10
 VWILL
 p482
@@ -1747,12 +1747,12 @@ g6
 VNo, I don't believe that's true.
 p484
 sg8
-g69
+g70
 sg10
 VTOBY
 p485
 sg12
-g9
+g16
 sa(dp486
 g6
 VReally?
@@ -1785,7 +1785,7 @@ sg10
 VWILL
 p494
 sg12
-g9
+g70
 sa(dp495
 g6
 V51, the three of clubs.
@@ -1807,7 +1807,7 @@ sg10
 VTOBY
 p500
 sg12
-g9
+g70
 sa(dp501
 g6
 VYes.
@@ -1818,7 +1818,7 @@ sg10
 VWILL
 p503
 sg12
-g69
+g70
 sa(dp504
 g6
 VSit down and play poker, I'm dealing.
@@ -1840,7 +1840,7 @@ sg10
 VDONNA
 p509
 sg12
-g9
+g16
 sa(dp510
 g6
 VYeah.
@@ -1873,18 +1873,18 @@ sg10
 VJOSH
 p518
 sg12
-g205
+g16
 sa(dp519
 g6
 VFor the associate counsel's job.
 p520
 sg8
-g69
+g70
 sg10
 VDONNA
 p521
 sg12
-g9
+g70
 sa(dp522
 g6
 V[sighs] Deal me out for three hands.
@@ -1928,7 +1928,7 @@ sg10
 VDONNA
 p533
 sg12
-g9
+g70
 sa(dp534
 g6
 VYeah.
@@ -1967,7 +1967,7 @@ g6
 VBut for the sake of appearances, here, around the offices, so that other people wouldn't suspect, I'd pretended I thought this guy was handsome if you hired him. Of course, all along it would be a lie, because of how handsome you are... and powerful.
 p544
 sg8
-g205
+g16
 sg10
 VDONNA
 p545
@@ -1978,7 +1978,7 @@ g6
 VYour sense of humor's a bit of a high wire act isn't it? You're really trying to thread the needle.
 p547
 sg8
-g69
+g70
 sg10
 VJOSH
 p548
@@ -1994,7 +1994,7 @@ sg10
 VDONNA
 p551
 sg12
-g9
+g16
 sa(dp552
 g6
 VGive me that.
@@ -2005,7 +2005,7 @@ sg10
 VJOSH
 p554
 sg12
-g9
+g16
 sa(dp555
 g6
 VHector?
@@ -2027,7 +2027,7 @@ sg10
 VJOSH
 p560
 sg12
-g69
+g70
 sa(dp561
 g6
 VNo, I'm Joe Quincy.
@@ -2038,7 +2038,7 @@ sg10
 VJOE
 p563
 sg12
-g9
+g16
 sa(dp564
 g6
 V[quietly] Sorry.
@@ -2060,7 +2060,7 @@ sg10
 VJOSH
 p569
 sg12
-g9
+g16
 sa(dp570
 g6
 VYeah.
@@ -2077,7 +2077,7 @@ g6
 VAre you saying it's Hector you're saying is good looking or is it...?
 p574
 sg8
-g69
+g70
 sg10
 VJOSH
 p575
@@ -2115,7 +2115,7 @@ sg10
 VDONNA
 p584
 sg12
-g9
+g16
 sa(dp585
 g6
 VYeah, yeah, yeah.
@@ -2126,7 +2126,7 @@ sg10
 VJOSH
 p587
 sg12
-g9
+g70
 sa(dp588
 g6
 VExcuse me, Joseph?
@@ -2137,7 +2137,7 @@ sg10
 VJOSH
 p590
 sg12
-g9
+g16
 sa(dp591
 g6
 VYes.
@@ -2148,7 +2148,7 @@ sg10
 VJOE
 p593
 sg12
-g69
+g70
 sa(dp594
 g6
 VJosh Lyman.
@@ -2192,7 +2192,7 @@ sg10
 VJOE
 p605
 sg12
-g69
+g70
 sa(dp606
 g6
 VNo, I was asking, do you like to be called Joe?
@@ -2214,7 +2214,7 @@ sg10
 VJOE
 p611
 sg12
-g69
+g70
 sa(dp612
 g6
 VWere you saying yes to that the first time?
@@ -2242,7 +2242,7 @@ g6
 VIt's funny, it's what I was just saying, the person who created the job opening, her name was Ainsley Hayes, and she was, uh, a very attractive woman, and I was saying that we needed to find another attractive woman with an unusual name, and, here, you're a man and your name is Joe.
 p619
 sg8
-g69
+g70
 sg10
 VJOSH
 p620
@@ -2275,7 +2275,7 @@ g6
 VWhat does a staff attorney do at the New York City Department of Transportation?
 p628
 sg8
-g69
+g70
 sg10
 VJOSH
 p629
@@ -2286,7 +2286,7 @@ g6
 VDefend the City against people with civil claims.
 p631
 sg8
-g69
+g70
 sg10
 VJOE
 p632
@@ -2335,7 +2335,7 @@ sg10
 VJOE
 p644
 sg12
-g69
+g70
 sa(dp645
 g6
 VAfter a JD-MBA from Cal?
@@ -2363,7 +2363,7 @@ g6
 VThen Associate Council at Treasury, then the Solicitor General's office... Why did you leave the Solicitor General's office?
 p652
 sg8
-g205
+g16
 sg10
 VJOSH
 p653
@@ -2379,7 +2379,7 @@ sg10
 VJOE
 p656
 sg12
-g69
+g9
 sa(dp657
 g6
 VYou weren't a political appointee?
@@ -2412,7 +2412,7 @@ sg10
 VJOSH
 p665
 sg12
-g9
+g16
 sa(dp666
 g6
 VExcuse me.
@@ -2423,13 +2423,13 @@ sg10
 VLEO
 p668
 sg12
-g9
+g16
 sa(dp669
 g6
 VI'll be back in a second. You forgot to sign the bottom of the questionnaire, the SF-86. You've got to sign your name.
 p670
 sg8
-g205
+g16
 sg10
 VJOSH
 p671
@@ -2462,7 +2462,7 @@ g6
 VAll right. Best case scenario, is that he lets our guys get it untouched by Russian hands.
 p679
 sg8
-g205
+g16
 sg10
 VLEO
 p680
@@ -2484,7 +2484,7 @@ g6
 V[countering] President Chigorin, I very much appreciate the offer, but our UAV's have self-detonating capabilities, and only our folks know how to make it de-operational.
 p685
 sg8
-g69
+g70
 sg10
 VLEO
 p686
@@ -2495,7 +2495,7 @@ g6
 V"Our folks"? You really think I'd use those words with the Russian President?
 p688
 sg8
-g205
+g16
 sg10
 VBARTLET
 p689
@@ -2506,7 +2506,7 @@ g6
 VYou say, "Sir, this UAV has proprietary American technology on it made by one of our leading aerospace companies and we have to protect that".
 p691
 sg8
-g69
+g70
 sg10
 VJOSH
 p692
@@ -2517,7 +2517,7 @@ g6
 V"Much as I have to protect Kaliningrad, sir, which brings us to the question of what the hell were you doing flying over it?"
 p694
 sg8
-g69
+g70
 sg10
 VBARTLET
 p695
@@ -2544,7 +2544,7 @@ sg10
 VBARTLET
 p701
 sg12
-g9
+g16
 sa(dp702
 g6
 VExactly for this purpose.
@@ -2555,7 +2555,7 @@ sg10
 VLEO
 p704
 sg12
-g9
+g16
 sa(dp705
 g6
 VWhat was the other mission?
@@ -2572,7 +2572,7 @@ g6
 VTaking satellite pictures of coastal erosion in the Baltic Sea?
 p709
 sg8
-g205
+g16
 sg10
 VLEO
 p710
@@ -2605,7 +2605,7 @@ g6
 VOkay, and he's not going to want to take pictures of coastal erosion at Coney Island?
 p718
 sg8
-g205
+g16
 sg10
 VBARTLET
 p719
@@ -2638,12 +2638,12 @@ g6
 VYes, sir.
 p727
 sg8
-g69
+g70
 sg10
 VLEO
 p728
 sg12
-g69
+g70
 sa(dp729
 g6
 VThat's what we've come up with?
@@ -2704,12 +2704,12 @@ g6
 VYeah. [points to the form] Don't forget to sign this thing. They just have a whole...
 p745
 sg8
-g205
+g16
 sg10
 VJOSH
 p746
 sg12
-g9
+g16
 sa(dp747
 g6
 VYeah.
@@ -2742,7 +2742,7 @@ sg10
 VJOE
 p755
 sg12
-g9
+g70
 sa(dp756
 g6
 VHe brought in a new staff. Um, you've already talked with Judy Wells?
@@ -2753,7 +2753,7 @@ sg10
 VJOSH
 p758
 sg12
-g69
+g70
 sa(dp759
 g6
 VYes.
@@ -2764,7 +2764,7 @@ sg10
 VJOE
 p761
 sg12
-g69
+g70
 sa(dp762
 g6
 VAnd Oliver Babish?
@@ -2775,7 +2775,7 @@ sg10
 VJOSH
 p764
 sg12
-g9
+g70
 sa(dp765
 g6
 VWe met for a few hours the day before yesterday and again for 45 minutes this morning.
@@ -2808,13 +2808,13 @@ sg10
 VJOE
 p773
 sg12
-g69
+g70
 sa(dp774
 g6
 VQuestion 1: A] I do not feel sad, B] I feel sad, C] I am sad all the time and I can't snap out of it, D] I am so sad or unhappy that I want to kill myself. You chose A] I do not feel sad.
 p775
 sg8
-g205
+g16
 sg10
 VJOSH
 p776
@@ -2830,7 +2830,7 @@ sg10
 VJOE
 p779
 sg12
-g69
+g70
 sa(dp780
 g6
 VGood. Ever?
@@ -2841,7 +2841,7 @@ sg10
 VJOSH
 p782
 sg12
-g9
+g70
 sa(dp783
 g6
 VNo.
@@ -2863,7 +2863,7 @@ sg10
 VJOSH
 p788
 sg12
-g9
+g16
 sa(dp789
 g6
 VNo, there are times when I feel sad.
@@ -2874,7 +2874,7 @@ sg10
 VJOE
 p791
 sg12
-g9
+g16
 sa(dp792
 g6
 VYet you checked the first box, why is that?
@@ -2907,13 +2907,13 @@ sg10
 VJOSH
 p800
 sg12
-g69
+g9
 sa(dp801
 g6
 VDollar for every card that hits the fifth row?
 p802
 sg8
-g205
+g16
 sg10
 VWILL
 p803
@@ -2935,7 +2935,7 @@ g6
 VFive dollars if you hit the sixth.
 p808
 sg8
-g205
+g16
 sg10
 VTOBY
 p809
@@ -2968,7 +2968,7 @@ g6
 VYes, there is, and it's called the antipode. And if that's true, then why can't it be that you could stand an egg on end at the equinox?
 p817
 sg8
-g69
+g70
 sg10
 VC.J.
 p818
@@ -2984,13 +2984,13 @@ sg10
 VTOBY
 p821
 sg12
-g9
+g16
 sa(dp822
 g6
 VAnd I say that neither of you can hit the fifth row.
 p823
 sg8
-g205
+g16
 sg10
 VC.J.
 p824
@@ -3028,7 +3028,7 @@ sg10
 VWILL
 p833
 sg12
-g9
+g16
 sa(dp834
 g6
 VGet down.
@@ -3039,13 +3039,13 @@ sg10
 VTOBY
 p836
 sg12
-g9
+g16
 sa(dp837
 g6
 V[lifting her head] Somebody's shooting!
 p838
 sg8
-g205
+g16
 sg10
 VC.J.
 p839
@@ -3061,7 +3061,7 @@ sg10
 VWILL
 p842
 sg12
-g9
+g16
 sa(dp843
 g6
 VStay still.
@@ -3072,7 +3072,7 @@ sg10
 VTOBY
 p845
 sg12
-g9
+g70
 sa(dp846
 g6
 VWe're alright.
@@ -3083,7 +3083,7 @@ sg10
 VTOBY
 p848
 sg12
-g9
+g16
 sa(dp849
 g6
 VWe're alright.
@@ -3094,13 +3094,13 @@ sg10
 VC.J.
 p851
 sg12
-g9
+g16
 sa(dp852
 g6
 VThree shots, one hit, straight from the sidewalk, straight shot.
 p853
 sg8
-g205
+g16
 sg10
 VWILL
 p854
@@ -3133,12 +3133,12 @@ g6
 VYes sir.
 p862
 sg8
-g69
+g70
 sg10
 VTRANSLATOR
 p863
 sg12
-g69
+g70
 sa(dp864
 g6
 VLet's go. [picks up the phone] Mr. President, this is President Bartlet.
@@ -3155,12 +3155,12 @@ g6
 VWhat the hell?
 p868
 sg8
-g205
+g16
 sg10
 VBARTLET
 p869
 sg12
-g9
+g16
 sa(dp870
 g6
 VOkay, you know what, I'm going to have to call you back.
@@ -3210,12 +3210,12 @@ g6
 VYou all right, sir?
 p883
 sg8
-g69
+g70
 sg10
 VRON
 p884
 sg12
-g9
+g70
 sa(dp885
 g6
 VI'm all right.
@@ -3232,12 +3232,12 @@ g6
 VThese people are all code word and higher.
 p889
 sg8
-g69
+g70
 sg10
 VLEO
 p890
 sg12
-g9
+g70
 sa(dp891
 g6
 VI was on the phone with Chigorin.
@@ -3265,18 +3265,18 @@ g6
 VHe's got code word clearance.
 p898
 sg8
-g69
+g70
 sg10
 VBARTLET
 p899
 sg12
-g9
+g70
 sa(dp900
 g6
 VThree shots were fired from the street, at least one of them hitting the press briefing room. We've got the suspect in custody, as well as a high-powered rifle.
 p901
 sg8
-g205
+g16
 sg10
 VRON
 p902
@@ -3303,7 +3303,7 @@ sg10
 VRON
 p908
 sg12
-g9
+g70
 sa(dp909
 g6
 VWhere are they?
@@ -3314,7 +3314,7 @@ sg10
 VLEO
 p911
 sg12
-g205
+g9
 sa(dp912
 g6
 VThey're fine. Sir, you've got to stay here.
@@ -3331,12 +3331,12 @@ g6
 VNobody was hurt?
 p916
 sg8
-g205
+g16
 sg10
 VBARTLET
 p917
 sg12
-g9
+g16
 sa(dp918
 g6
 VThey're fine.
@@ -3402,7 +3402,7 @@ sg10
 VC.J.
 p935
 sg12
-g9
+g16
 sa(dp936
 g6
 V[holding up two fingers] Will, how many fingers am I holding up?
@@ -3419,7 +3419,7 @@ g6
 VWho's Will, sir?
 p940
 sg8
-g69
+g70
 sg10
 VWILL
 p941
@@ -3446,13 +3446,13 @@ sg10
 VWILL
 p947
 sg12
-g9
+g16
 sa(dp948
 g6
 VLieutenant Bailey, I'm glad to see you alive, but it's code word clearance in here, and I need you out of earshot, okay?
 p949
 sg8
-g69
+g70
 sg10
 VLEO
 p950
@@ -3463,12 +3463,12 @@ g6
 VYes, sir.
 p952
 sg8
-g69
+g70
 sg10
 VWILL
 p953
 sg12
-g69
+g70
 sa(dp954
 g6
 VWhere's Charlie?
@@ -3485,7 +3485,7 @@ g6
 VHe's somewhere in the building.
 p958
 sg8
-g69
+g70
 sg10
 VLEO
 p959
@@ -3529,7 +3529,7 @@ g6
 VNo, I'm telling you that if Charlie heard there were bullets, he's going to overpower whoever's trying to...
 p970
 sg8
-g205
+g16
 sg10
 VBARTLET
 p971
@@ -3556,13 +3556,13 @@ sg10
 VBARTLET
 p977
 sg12
-g205
+g16
 sa(dp978
 g6
 VIt's bulletproof glass in the windows, okay. You want to kill me, you're going to have to do it from inside the building.
 p979
 sg8
-g69
+g70
 sg10
 VBARTLET
 p980
@@ -3578,7 +3578,7 @@ sg10
 VCHARLIE
 p983
 sg12
-g69
+g9
 sa(dp984
 g6
 VYou guys all right?
@@ -3617,7 +3617,7 @@ g6
 VNo one was hurt, someone shot at the press briefing room from the sidewalk.
 p994
 sg8
-g205
+g16
 sg10
 VBARTLET
 p995
@@ -3639,7 +3639,7 @@ g6
 VWill's sitting right outside, and Toby and C.J. are standing right there.
 p1000
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1001
@@ -3650,7 +3650,7 @@ g6
 VRon, someone's going to report this I hope.
 p1003
 sg8
-g69
+g70
 sg10
 VDEBBIE
 p1004
@@ -3666,13 +3666,13 @@ sg10
 VRON
 p1007
 sg12
-g69
+g70
 sa(dp1008
 g6
 VUm, thank you, Mr. President. [in Bartlet's ear] We're going to need to take your blood pressure in a few minutes.
 p1009
 sg8
-g205
+g16
 sg10
 VDEBBIE
 p1010
@@ -3699,13 +3699,13 @@ sg10
 VDEBBIE
 p1016
 sg12
-g69
+g70
 sa(dp1017
 g6
 VRon, there were two incidents of terrorist activity earlier today. A bomb in Malaysia and another in Berlin.
 p1018
 sg8
-g205
+g16
 sg10
 VLEO
 p1019
@@ -3716,12 +3716,12 @@ g6
 VThis was just a crazy guy, Leo.
 p1021
 sg8
-g205
+g16
 sg10
 VBARTLET
 p1022
 sg12
-g9
+g16
 sa(dp1023
 g6
 VThat was just a third on the phone in Guam. The head of the Office of Insular Affairs was picked off.
@@ -3804,7 +3804,7 @@ g6
 VWe haven't confirmed any ballistics. Tell your friends to stop saying it was an M-16.
 p1045
 sg8
-g69
+g70
 sg10
 VC.J.
 p1046
@@ -3815,7 +3815,7 @@ g6
 VAll right. The President was in the Oval Office. We've initiated a standard lockdown procedure and are back to conducting the business of the nation... I'll ask him. [hangs up the phone, to Carol] He wants to know if the President wants to say something funny.
 p1048
 sg8
-g69
+g70
 sg10
 VC.J.
 p1049
@@ -3826,7 +3826,7 @@ g6
 VThat's twice in four years, some of you guys must really be mad at me?
 p1051
 sg8
-g205
+g16
 sg10
 VCAROL
 p1052
@@ -3842,7 +3842,7 @@ sg10
 VC.J.
 p1055
 sg12
-g9
+g70
 sa(dp1056
 g6
 VYou're getting to see a show tonight.
@@ -3892,18 +3892,18 @@ g6
 VA guy shot at the building a couple of times with a rifle.
 p1069
 sg8
-g205
+g16
 sg10
 VJOSH
 p1070
 sg12
-g9
+g70
 sa(dp1071
 g6
 VSomebody shot at the White House?
 p1072
 sg8
-g205
+g16
 sg10
 VJOE
 p1073
@@ -3930,7 +3930,7 @@ sg10
 VJOE
 p1079
 sg12
-g9
+g16
 sa(dp1080
 g6
 VThe street. Pennsylvania Avenue.
@@ -3947,12 +3947,12 @@ g6
 VWas anyone hurt?
 p1084
 sg8
-g205
+g16
 sg10
 VJOE
 p1085
 sg12
-g9
+g16
 sa(dp1086
 g6
 VHmm?
@@ -3969,18 +3969,18 @@ g6
 VWas anyone hurt?
 p1090
 sg8
-g205
+g16
 sg10
 VJOE
 p1091
 sg12
-g9
+g16
 sa(dp1092
 g6
 VNo, but we're in a crash. A lockdown. They're not going to let you leave the West Wing.
 p1093
 sg8
-g205
+g16
 sg10
 VJOSH
 p1094
@@ -4013,7 +4013,7 @@ g6
 VYou know, not for nothing, but the people that I talk to don't believe that story, and the people that you'd like don't care.
 p1102
 sg8
-g69
+g70
 sg10
 VJOE
 p1103
@@ -4051,7 +4051,7 @@ sg10
 VJOE
 p1112
 sg12
-g205
+g16
 sa(dp1113
 g6
 VWell, we don't know what this is yet.
@@ -4062,7 +4062,7 @@ sg10
 VJOSH
 p1115
 sg12
-g9
+g16
 sa(dp1116
 g6
 VWe know that somebody shot at the building right?
@@ -4090,12 +4090,12 @@ g6
 VThey have a suspect?
 p1123
 sg8
-g205
+g16
 sg10
 VJOE
 p1124
 sg12
-g205
+g16
 sa(dp1125
 g6
 VYeah.
@@ -4112,7 +4112,7 @@ g6
 VIs he white?
 p1129
 sg8
-g69
+g70
 sg10
 VJOE
 p1130
@@ -4128,51 +4128,51 @@ sg10
 VJOSH
 p1133
 sg12
-g9
+g16
 sa(dp1134
 g6
 VThey suspect terrorism?
 p1135
 sg8
-g205
+g16
 sg10
 VJOE
 p1136
 sg12
-g9
+g16
 sa(dp1137
 g6
 VWell, he was shooting a modified M-16. It was terrorism.
 p1138
 sg8
-g205
+g16
 sg10
 VJOSH
 p1139
 sg12
-g9
+g16
 sa(dp1140
 g6
 VI meant terrorism directed at... National terrorism.
 p1141
 sg8
-g205
+g16
 sg10
 VJOE
 p1142
 sg12
-g9
+g16
 sa(dp1143
 g6
 V[with a small smile] He shot at the White House.
 p1144
 sg8
-g205
+g16
 sg10
 VJOSH
 p1145
 sg12
-g9
+g70
 sa(dp1146
 g6
 VI think you know what I mean.
@@ -4216,7 +4216,7 @@ sg10
 VJOE
 p1157
 sg12
-g9
+g16
 sa(dp1158
 g6
 VExcuse me a sec.
@@ -4244,7 +4244,7 @@ g6
 VYou were in the mess?
 p1165
 sg8
-g205
+g16
 sg10
 VJOSH
 p1166
@@ -4260,7 +4260,7 @@ sg10
 VDONNA
 p1169
 sg12
-g9
+g16
 sa(dp1170
 g6
 VYeah.
@@ -4282,7 +4282,7 @@ sg10
 VDONNA
 p1175
 sg12
-g69
+g9
 sa(dp1176
 g6
 VI was in here.
@@ -4293,7 +4293,7 @@ sg10
 VJOSH
 p1178
 sg12
-g9
+g16
 sa(dp1179
 g6
 VDo you want anything?
@@ -4321,7 +4321,7 @@ g6
 VYou know, I'm going to get you some water or something. [starts to leave]
 p1186
 sg8
-g205
+g16
 sg10
 VDONNA
 p1187
@@ -4359,7 +4359,7 @@ sg10
 VJOSH
 p1196
 sg12
-g9
+g16
 sa(dp1197
 g6
 VOkay. I'm going to... I'll be around here.
@@ -4370,18 +4370,18 @@ sg10
 VDONNA
 p1199
 sg12
-g9
+g16
 sa(dp1200
 g6
 VHe-he's well qualified, that's for sure... He's personable, and he's confident...
 p1201
 sg8
-g69
+g70
 sg10
 VJOSH
 p1202
 sg12
-g9
+g70
 sa(dp1203
 g6
 VBut?
@@ -4392,13 +4392,13 @@ sg10
 VDONNA
 p1205
 sg12
-g205
+g16
 sa(dp1206
 g6
 VIt's the strangest feeling. It's like a... really good baseball player is standing in the other teams locker room for the first time.
 p1207
 sg8
-g69
+g70
 sg10
 VJOSH
 p1208
@@ -4409,7 +4409,7 @@ g6
 VYou're the baseball player?
 p1210
 sg8
-g205
+g16
 sg10
 VDONNA
 p1211
@@ -4420,7 +4420,7 @@ g6
 VHe's the baseball player.
 p1213
 sg8
-g205
+g16
 sg10
 VJOSH
 p1214
@@ -4458,7 +4458,7 @@ sg10
 VDONNA
 p1223
 sg12
-g9
+g16
 sa(dp1224
 g6
 VYou asked me what I thought of him so far.
@@ -4491,7 +4491,7 @@ sg10
 VJOSH
 p1232
 sg12
-g9
+g16
 sa(dp1233
 g6
 VAll right. I'm not going anywhere.
@@ -4530,7 +4530,7 @@ g6
 VRight. [with a small chuckle] I got a letter today that said, uh... "You're a lying liar. You lie almost as well as Bartlet." You know, black-white, rich-poor, north-south, odd-even. There may not be anything anymore that outpaces the hatred the right feels for the left or the tonnage of disrespect the left feels for the right. Donna got a letter yesterday that said, "I'm collecting all the guns you've banned, and there's a bullet with your name on it in each one." Donna. The guy's decided to focus his wrath on Donna. He's never met Donna or spoken to her, and he's never met anyone who's met Donna or spoken to her. How's it possible? How's it possible that he hates her so much? How can you not like Donna? She's from Wisconsin! Anyway, 20,000 specific threats made against U.S. targets every year, and with all that, it's still the ones who don't give you advance notice that you're worried about.
 p1243
 sg8
-g205
+g16
 sg10
 VJOSH
 p1244
@@ -4574,7 +4574,7 @@ g6
 VYou can stand the egg on the equinox because that's when the sun's gravity is lined up directly with the earth's.
 p1255
 sg8
-g69
+g70
 sg10
 VC.J.
 p1256
@@ -4585,7 +4585,7 @@ g6
 V[sighs and draws a circle with his fingers] Draw a line from the center of the earth to the sun, and at anytime, someplace on earth is on that line..
 p1258
 sg8
-g69
+g70
 sg10
 VTOBY
 p1259
@@ -4612,7 +4612,7 @@ sg10
 VTOBY
 p1265
 sg12
-g9
+g70
 sa(dp1266
 g6
 VThat's 'cause it's not...
@@ -4634,7 +4634,7 @@ sg10
 VC.J.
 p1271
 sg12
-g69
+g70
 sa(dp1272
 g6
 VWhat is the exact moment of the equinox?
@@ -4656,7 +4656,7 @@ sg10
 VC.J.
 p1277
 sg12
-g9
+g16
 sa(dp1278
 g6
 VMidnight where?
@@ -4667,7 +4667,7 @@ sg10
 VWILL
 p1280
 sg12
-g9
+g16
 sa(dp1281
 g6
 VAll right, maybe it's not at the exact moment of the equinox. Maybe it's at some point during the equinox and you just have to keep trying, but I've seen it.
@@ -4700,7 +4700,7 @@ sg10
 VWILL
 p1289
 sg12
-g9
+g70
 sa(dp1290
 g6
 V[entering from the Oval Office] Donna, would you tell Josh we're back on?
@@ -4717,12 +4717,12 @@ g6
 VYes sir.
 p1294
 sg8
-g69
+g70
 sg10
 VDONNA
 p1295
 sg12
-g69
+g70
 sa(dp1296
 g6
 VDid you know that a day on the moon and a year on the moon are the same thing?
@@ -4805,7 +4805,7 @@ g6
 VYeah, there you go. It's not a big deal, but they shut us down for a little bit.
 p1318
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1319
@@ -4816,7 +4816,7 @@ g6
 VBy the way when they crash the building they don't crash all of it. The Situation Room still works.
 p1321
 sg8
-g205
+g16
 sg10
 VBARTLET
 p1322
@@ -4827,7 +4827,7 @@ g6
 VMr. President, a little while ago an unmanned B-UAV drone crashed, we think somewhere inside Kaliningrad, as a matter of fact. Apparently they don't respond, you know, quite the way you'd like when there's a sudden shift in the weather.
 p1324
 sg8
-g205
+g16
 sg10
 VBARTLET
 p1325
@@ -4849,12 +4849,12 @@ g6
 VI'm sorry, sir?
 p1330
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1331
 sg12
-g9
+g16
 sa(dp1332
 g6
 VAre you getting that translation right?
@@ -4865,24 +4865,24 @@ sg10
 VBARTLET
 p1334
 sg12
-g69
+g70
 sa(dp1335
 g6
 VYes, sir.
 p1336
 sg8
-g69
+g70
 sg10
 VTRANSLATOR
 p1337
 sg12
-g69
+g70
 sa(dp1338
 g6
 VYou campaigned on the environment, Mr. President. Coastal erosion in the Baltic Sea.
 p1339
 sg8
-g205
+g16
 sg10
 VBARTLET
 p1340
@@ -4893,7 +4893,7 @@ g6
 VWell, the problem is our UAV's have a self-detonating capability and our people know how to disarm it, and I wouldn't want to put your guys at risk.
 p1342
 sg8
-g205
+g16
 sg10
 VBARTLET
 p1343
@@ -4904,7 +4904,7 @@ g6
 VIt's proprietary technology, Peter.
 p1345
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1346
@@ -4920,7 +4920,7 @@ sg10
 VBARTLET
 p1349
 sg12
-g9
+g16
 sa(dp1350
 g6
 VYes, Mr. President.
@@ -4931,35 +4931,35 @@ sg10
 VBARTLET
 p1352
 sg12
-g69
+g70
 sa(dp1353
 g6
 VThis isn't working anymore.
 p1354
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1355
 sg12
-g9
+g16
 sa(dp1356
 g6
 VAnything wild?
 p1357
 sg8
-g205
+g16
 sg10
 VED
 p1358
 sg12
-g9
+g16
 sa(dp1359
 g6
 VJust the dealer. Four, no help. Six, possible straight. Heart, possible flush. Jack, no help. And the Dave of Love for a pair of tens. Tens bet.
 p1360
 sg8
-g69
+g70
 sg10
 VC.J.
 p1361
@@ -4970,7 +4970,7 @@ g6
 VYou know, you're particularly upbeat for someone who's been shot at twice in four years.
 p1363
 sg8
-g205
+g16
 sg10
 VLARRY
 p1364
@@ -4997,13 +4997,13 @@ sg10
 VTOBY
 p1370
 sg12
-g69
+g70
 sa(dp1371
 g6
 VThat's 'cause I've got faith there, mi compadre.
 p1372
 sg8
-g69
+g70
 sg10
 VC.J.
 p1373
@@ -5025,7 +5025,7 @@ g6
 VThe substance of things hoped for and the evidence of things not seen.
 p1378
 sg8
-g69
+g70
 sg10
 VC.J.
 p1379
@@ -5036,7 +5036,7 @@ g6
 VYeah, but I think what he's asking... Bump ten... I think what he's asking is why most other nights do you think the world's going to hell in a hula hoop, but tonight...?
 p1381
 sg8
-g205
+g16
 sg10
 VTOBY
 p1382
@@ -5047,7 +5047,7 @@ g6
 VWe dipped twice and eat gefilte fish?
 p1384
 sg8
-g69
+g70
 sg10
 VC.J.
 p1385
@@ -5063,18 +5063,18 @@ sg10
 VTOBY
 p1388
 sg12
-g9
+g16
 sa(dp1389
 g6
 VI know how to bless the soup too. I'll raise your raise.
 p1390
 sg8
-g69
+g70
 sg10
 VC.J.
 p1391
 sg12
-g9
+g70
 sa(dp1392
 g6
 VOut.
@@ -5146,7 +5146,7 @@ g6
 VWill, are you missing your plane?
 p1411
 sg8
-g205
+g16
 sg10
 VLARRY
 p1412
@@ -5157,12 +5157,12 @@ g6
 VNot yet, it's a military flight. It doesn't leave until about 12:30.
 p1414
 sg8
-g205
+g16
 sg10
 VWILL
 p1415
 sg12
-g9
+g16
 sa(dp1416
 g6
 VWhat's in Cheyenne?
@@ -5179,7 +5179,7 @@ g6
 VA number of us are being sent out there to investigate something that happened a few days ago.
 p1420
 sg8
-g69
+g70
 sg10
 VWILL
 p1421
@@ -5201,7 +5201,7 @@ g6
 VYou know, it's one of those things that sounds worse when you say it out loud because it makes people kind of nervous.
 p1426
 sg8
-g205
+g16
 sg10
 VWILL
 p1427
@@ -5223,7 +5223,7 @@ g6
 VUh, two guys failed to follow through on an order to fire their rockets at what was thought to be an incoming ballistic missile from North Korea. Turns out it was a good thing they didn't, 'cause the missile was a meteor, and rather than being from North Korea, it was from, you know...
 p1432
 sg8
-g69
+g70
 sg10
 VWILL
 p1433
@@ -5256,7 +5256,7 @@ g6
 VWhat the hell happened?
 p1441
 sg8
-g205
+g16
 sg10
 VTOBY
 p1442
@@ -5267,7 +5267,7 @@ g6
 VTwo launch crew officers in Minuteman Three silos picked up a signal of an incoming projectile. The speed, arc, and trajectory of which suggested it was headed to New London, Connecticut.
 p1444
 sg8
-g69
+g70
 sg10
 VWILL
 p1445
@@ -5283,7 +5283,7 @@ sg10
 VTOBY
 p1448
 sg12
-g9
+g70
 sa(dp1449
 g6
 VYes.
@@ -5294,13 +5294,13 @@ sg10
 VWILL
 p1451
 sg12
-g69
+g70
 sa(dp1452
 g6
 VWhy do we think at this point that North Korea is attacking the East Coast of the United States?
 p1453
 sg8
-g205
+g16
 sg10
 VTOBY
 p1454
@@ -5311,12 +5311,12 @@ g6
 VThere are transcripts from the silo that show that surprise was expressed at that.
 p1456
 sg8
-g69
+g70
 sg10
 VWILL
 p1457
 sg12
-g9
+g70
 sa(dp1458
 g6
 VI would think.
@@ -5327,7 +5327,7 @@ sg10
 VTOBY
 p1460
 sg12
-g9
+g16
 sa(dp1461
 g6
 VThe base was already at DEFCON Delta, so the launch crew initiated Response Code Orion, which calls for the first in a series of steps to arm their 50 Minutemen.
@@ -5388,18 +5388,18 @@ g6
 VFifty Minutemen they're arming, and is anyone saying this doesn't make sense?
 p1477
 sg8
-g69
+g70
 sg10
 VTOBY
 p1478
 sg12
-g205
+g16
 sa(dp1479
 g6
 VTwo guys in the silo. The launch sequence went on for two minutes before they had confirmation it was a meteor. But the two guys were debating with Airborne Launch Control and the Cheyenne Mountain Operations Centre and that gets sticky. This is missile defence. This stuff has to work.
 p1480
 sg8
-g69
+g70
 sg10
 VWILL
 p1481
@@ -5415,7 +5415,7 @@ sg10
 VTOBY
 p1484
 sg12
-g9
+g70
 sa(dp1485
 g6
 VYeah, but we're scrappy.
@@ -5432,7 +5432,7 @@ g6
 V[laughs] A meteor fell from the sky the result being two guys are going to get court- marshalled. The only two guys who apparently thought it was strange that North Korea would attack submarines in Connecticut instead of say, San Diego or Hawaii. And if it had been a real attack? Would they still have been doing point/counterpoint with NORAD?
 p1489
 sg8
-g205
+g16
 sg10
 VTOBY
 p1490
@@ -5443,7 +5443,7 @@ g6
 VWe failed both on a mechanical and human level. So tell me again what you have faith in.
 p1492
 sg8
-g69
+g70
 sg10
 VTOBY
 p1493
@@ -5476,7 +5476,7 @@ g6
 VBecause with what little free time he has, Will is going to Wyoming to defend one of these guys and I don't think it is failing on a human level.
 p1501
 sg8
-g69
+g70
 sg10
 VC.J.
 p1502
@@ -5487,7 +5487,7 @@ g6
 V[pauses and then snickers at his cards] I've got ace high flush. Give me your money.
 p1504
 sg8
-g69
+g70
 sg10
 VTOBY
 p1505
@@ -5498,12 +5498,12 @@ g6
 VI've got tens full of queens. Give me yours.
 p1507
 sg8
-g69
+g70
 sg10
 VC.J.
 p1508
 sg12
-g9
+g70
 sa(dp1509
 g6
 VHey.
@@ -5613,7 +5613,7 @@ sg10
 VCHARLIE
 p1538
 sg12
-g69
+g70
 sa(dp1539
 g6
 VYeah.
@@ -5641,7 +5641,7 @@ g6
 VTo make sure you were alive.
 p1546
 sg8
-g69
+g70
 sg10
 VZOEY
 p1547
@@ -5663,7 +5663,7 @@ g6
 VAh, I have to get back and study. One of my finals is tomorrow.
 p1552
 sg8
-g69
+g70
 sg10
 VZOEY
 p1553
@@ -5690,7 +5690,7 @@ sg10
 VZOEY
 p1559
 sg12
-g9
+g16
 sa(dp1560
 g6
 VThat went fast.
@@ -5734,7 +5734,7 @@ sg10
 VZOEY
 p1571
 sg12
-g9
+g16
 sa(dp1572
 g6
 VI was asking after him.
@@ -5745,7 +5745,7 @@ sg10
 VCHARLIE
 p1574
 sg12
-g9
+g16
 sa(dp1575
 g6
 VWe were having a perfectly nice...
@@ -5756,7 +5756,7 @@ sg10
 VZOEY
 p1577
 sg12
-g9
+g16
 sa(dp1578
 g6
 VSorry.
@@ -5789,13 +5789,13 @@ sg10
 VCHARLIE
 p1586
 sg12
-g9
+g16
 sa(dp1587
 g6
 VYou were shot at!
 p1588
 sg8
-g205
+g16
 sg10
 VZOEY
 p1589
@@ -5806,7 +5806,7 @@ g6
 VWell, not me personally, but I say all the more reason to...
 p1591
 sg8
-g69
+g70
 sg10
 VCHARLIE
 p1592
@@ -5839,12 +5839,12 @@ g6
 VAfter graduation.
 p1600
 sg8
-g69
+g70
 sg10
 VZOEY
 p1601
 sg12
-g9
+g70
 sa(dp1602
 g6
 VFor three months?
@@ -5927,7 +5927,7 @@ g6
 VWell, I don't know why you have to... you've been out with plenty of women since we broke up and each time...
 p1624
 sg8
-g205
+g16
 sg10
 VZOEY
 p1625
@@ -5943,7 +5943,7 @@ sg10
 VCHARLIE
 p1628
 sg12
-g205
+g16
 sa(dp1629
 g6
 VYou don't think I know when you go out? Every college student in this city wants to tell me something I don't know. And every time you've gone out, I've been supportive.
@@ -5954,7 +5954,7 @@ sg10
 VZOEY
 p1631
 sg12
-g9
+g16
 sa(dp1632
 g6
 VSupportive how? I didn't even know you knew?
@@ -5965,24 +5965,24 @@ sg10
 VCHARLIE
 p1634
 sg12
-g9
+g16
 sa(dp1635
 g6
 V[getting frustrated] That's how.
 p1636
 sg8
-g205
+g16
 sg10
 VZOEY
 p1637
 sg12
-g9
+g16
 sa(dp1638
 g6
 VHey, you just told me. I'm not the one using the student bodies of GW, Georgetown, AU and Catholic University as intelligence gathering sources.
 p1639
 sg8
-g69
+g70
 sg10
 VCHARLIE
 p1640
@@ -5998,7 +5998,7 @@ sg10
 VZOEY
 p1643
 sg12
-g9
+g70
 sa(dp1644
 g6
 VLook...
@@ -6015,7 +6015,7 @@ g6
 VPeople like giving me information. What do you want me to do?
 p1648
 sg8
-g69
+g70
 sg10
 VZOEY
 p1649
@@ -6042,7 +6042,7 @@ sg10
 VZOEY
 p1655
 sg12
-g9
+g16
 sa(dp1656
 g6
 VBecause...
@@ -6053,13 +6053,13 @@ sg10
 VCHARLIE
 p1658
 sg12
-g9
+g70
 sa(dp1659
 g6
 VIt's been four years in the White House, another being the daughter of a candidate. Eight years as Governor. My grades get printed in the paper. My boyfriends are in the paper. I live and die by my parents' successes and failures. And so do you. Sometimes even more than me. And Jean-Paul doesn't. He's happy. He's... just... happy.
 p1660
 sg8
-g69
+g70
 sg10
 VZOEY
 p1661
@@ -6070,7 +6070,7 @@ g6
 VThat's cause he's got five hundred million dollars and no conscience.
 p1663
 sg8
-g69
+g70
 sg10
 VCHARLIE
 p1664
@@ -6097,7 +6097,7 @@ sg10
 VCHARLIE
 p1670
 sg12
-g9
+g16
 sa(dp1671
 g6
 VI've got to go study. Sorry you got shot at again.
@@ -6108,7 +6108,7 @@ sg10
 VZOEY
 p1673
 sg12
-g9
+g70
 sa(dp1674
 g6
 VThanks.
@@ -6136,7 +6136,7 @@ g6
 VI understand. I meant... [covering the mouthpiece] He's yelling at me pretty loud now. [into the phone] I wasn't referring to the change in weather, sir.
 p1681
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1682
@@ -6158,7 +6158,7 @@ g6
 VCoastal erosion in the Baltic...
 p1687
 sg8
-g205
+g16
 sg10
 VLEO
 p1688
@@ -6191,7 +6191,7 @@ g6
 VYou shouldn't do that, sir. We weren't flying in your airspace.
 p1696
 sg8
-g69
+g70
 sg10
 VLEO
 p1697
@@ -6224,7 +6224,7 @@ g6
 VWe were taking pictures of Kaliningrad. We take pictures of black market nuclear materials being moved out the back doors of suppositories and into trucks. The materials are being sold to non-governmental elements and, well, that's what we were doing. Rogue engineers, military scientists, and ex-KGB. It's just as big of a problem for you as it is for us, but you're not dealing with it, so we were taking pictures of Kaliningrad. We're going to have to trust each other a little Peter. So we're going to share the pictures we got. Not the technology we used to get them. Otherwise I'm detonating it and neither of us see the pictures. We're going to have to trust each other. Our two countries have stopped the world from annihilating itself for 60 years because of conversations like this one. Why don't you talk it over?
 p1705
 sg8
-g69
+g70
 sg10
 VBARTLET
 p1706
@@ -6262,7 +6262,7 @@ sg10
 VJOSH
 p1715
 sg12
-g9
+g16
 sa(dp1716
 g6
 VHi.
@@ -6290,7 +6290,7 @@ g6
 VI just wanted you to know that Stanley's on his cell phone if you want to talk to him.
 p1723
 sg8
-g69
+g70
 sg10
 VDONNA
 p1724
@@ -6372,18 +6372,18 @@ sg10
 VJOE
 p1745
 sg12
-g69
+g70
 sa(dp1746
 g6
 VHow are you enjoying your lockdown?
 p1747
 sg8
-g69
+g70
 sg10
 VDONNA
 p1748
 sg12
-g9
+g70
 sa(dp1749
 g6
 VIt's been a very thorough interview.
@@ -6449,7 +6449,7 @@ sg10
 VJOSH
 p1766
 sg12
-g69
+g70
 sa(dp1767
 g6
 VYes.
@@ -6460,7 +6460,7 @@ sg10
 VJOE
 p1769
 sg12
-g69
+g70
 sa(dp1770
 g6
 VYou're a Republican.
@@ -6515,7 +6515,7 @@ sg10
 VJOSH
 p1784
 sg12
-g9
+g16
 sa(dp1785
 g6
 VWhy not?
@@ -6526,13 +6526,13 @@ sg10
 VDONNA
 p1787
 sg12
-g9
+g16
 sa(dp1788
 g6
 V'Cause if you're a Republican, then you damned well better look like Ainsley Hayes.
 p1789
 sg8
-g205
+g16
 sg10
 VJOSH
 p1790
@@ -6548,13 +6548,13 @@ sg10
 VDONNA
 p1793
 sg12
-g9
+g70
 sa(dp1794
 g6
 VYou don't want to get a job with your own party?
 p1795
 sg8
-g69
+g70
 sg10
 VJOSH
 p1796
@@ -6570,7 +6570,7 @@ sg10
 VJOE
 p1799
 sg12
-g9
+g16
 sa(dp1800
 g6
 VWhy?
@@ -6609,7 +6609,7 @@ g6
 VA memo that I wrote for the Solicitor General arguing that the Supreme Court should uphold regulations that limit soft money donations to political campaigns.
 p1810
 sg8
-g69
+g70
 sg10
 VJOE
 p1811
@@ -6631,7 +6631,7 @@ g6
 VAs a Democrat who speaks out against abortion?
 p1816
 sg8
-g205
+g16
 sg10
 VJOE
 p1817
@@ -6686,7 +6686,7 @@ g6
 VThat's my father's firm. He was a partner there.
 p1831
 sg8
-g69
+g70
 sg10
 VJOSH
 p1832
@@ -6702,13 +6702,13 @@ sg10
 VJOE
 p1835
 sg12
-g9
+g16
 sa(dp1836
 g6
 VThey're going to offer you $225 000 a year. Is this your fallback?
 p1837
 sg8
-g69
+g70
 sg10
 VJOSH
 p1838
@@ -6724,7 +6724,7 @@ sg10
 VJOE
 p1841
 sg12
-g9
+g16
 sa(dp1842
 g6
 VWhy do you want to work here?
@@ -6768,7 +6768,7 @@ sg10
 VJOE
 p1853
 sg12
-g9
+g16
 sa(dp1854
 g6
 V[realizing] You lied on it?
@@ -6796,7 +6796,7 @@ g6
 VWhich question?
 p1861
 sg8
-g69
+g70
 sg10
 VJOSH
 p1862
@@ -6807,7 +6807,7 @@ g6
 VNumber 75, "Have you ever done anything that would reflect poorly on the President?"
 p1864
 sg8
-g205
+g16
 sg10
 VJOE
 p1865
@@ -6834,18 +6834,18 @@ sg10
 VJOE
 p1871
 sg12
-g9
+g16
 sa(dp1872
 g6
 VThat's really very sweet.
 p1873
 sg8
-g69
+g70
 sg10
 VDONNA
 p1874
 sg12
-g9
+g16
 sa(dp1875
 g6
 VNot to me.
@@ -6856,7 +6856,7 @@ sg10
 VDONNA
 p1877
 sg12
-g9
+g16
 sa(dp1878
 g6
 VYou really want to work with us.
@@ -6878,13 +6878,13 @@ sg10
 VJOE
 p1883
 sg12
-g69
+g70
 sa(dp1884
 g6
 VYou know we got shot at tonight. On a Friday.
 p1885
 sg8
-g205
+g16
 sg10
 VJOSH
 p1886
@@ -6955,7 +6955,7 @@ sg10
 VLARRY
 p1904
 sg12
-g9
+g16
 sa(dp1905
 g6
 VFold.
@@ -6988,7 +6988,7 @@ sg10
 VLEO
 p1913
 sg12
-g69
+g70
 sa(dp1914
 g6
 VTissue paper thin?
@@ -6999,7 +6999,7 @@ sg10
 VBARTLET
 p1916
 sg12
-g9
+g16
 sa(dp1917
 g6
 VYes.
@@ -7010,7 +7010,7 @@ sg10
 VLEO
 p1919
 sg12
-g69
+g70
 sa(dp1920
 g6
 VMr. President.
@@ -7049,29 +7049,29 @@ g6
 VYes sir. They're ready for you.
 p1930
 sg8
-g69
+g70
 sg10
 VNANCY
 p1931
 sg12
-g69
+g70
 sa(dp1932
 g6
 V[to Bartlet] Nice job.
 p1933
 sg8
-g69
+g70
 sg10
 VLEO
 p1934
 sg12
-g9
+g70
 sa(dp1935
 g6
 V[from Leo's computer] Okay, I've searched "equinox" and "egg," and the news isn't good for the believers.
 p1936
 sg8
-g69
+g70
 sg10
 VWILL
 p1937
@@ -7109,7 +7109,7 @@ sg10
 VC.J.
 p1946
 sg12
-g9
+g16
 sa(dp1947
 g6
 VRead it!
@@ -7126,7 +7126,7 @@ g6
 V"This has to be one of the silliest misconceptions around and it never seems to die."
 p1951
 sg8
-g205
+g16
 sg10
 VC.J.
 p1952
@@ -7142,18 +7142,18 @@ sg10
 VWILL
 p1955
 sg12
-g9
+g70
 sa(dp1956
 g6
 VThere are no web sites supporting it?
 p1957
 sg8
-g69
+g70
 sg10
 VC.J.
 p1958
 sg12
-g9
+g70
 sa(dp1959
 g6
 VNo.
@@ -7186,7 +7186,7 @@ sg10
 VC.J.
 p1967
 sg12
-g205
+g16
 sa(dp1968
 g6
 VAh!
@@ -7219,7 +7219,7 @@ sg10
 VC.J.
 p1976
 sg12
-g205
+g16
 sa(dp1977
 g6
 VWe're back up everybody. Thank you.
@@ -7236,7 +7236,7 @@ g6
 VWhat's the deal with the guy?
 p1981
 sg8
-g69
+g70
 sg10
 VTOBY
 p1982
@@ -7263,13 +7263,13 @@ sg10
 VTOBY
 p1988
 sg12
-g9
+g16
 sa(dp1989
 g6
 VNo. Just a very troubled guy who was attempting what's called "suicide by cop." He wanted the first agents at the scene to shoot him. Anyway, thank you for your cooperation. [exits]
 p1990
 sg8
-g205
+g16
 sg10
 VRON
 p1991
@@ -7285,13 +7285,13 @@ sg10
 VWILL
 p1994
 sg12
-g9
+g16
 sa(dp1995
 g6
 VHave a safe flight.
 p1996
 sg8
-g69
+g70
 sg10
 VTOBY
 p1997
@@ -7318,7 +7318,7 @@ sg10
 VLARRY
 p2003
 sg12
-g9
+g16
 sa(dp2004
 g6
 V[to C.J.] You headed home?
@@ -7335,7 +7335,7 @@ g6
 VIn just a minute. [begins straightening the cards] I'm going to let them know outside that they lifted the crash.
 p2008
 sg8
-g205
+g16
 sg10
 VC.J.
 p2009
@@ -7351,7 +7351,7 @@ sg10
 VTOBY
 p2012
 sg12
-g9
+g70
 sa(dp2013
 g6
 V[whispering] Guys. Hey, you guys?
@@ -7362,5 +7362,5 @@ sg10
 VC.J.
 p2015
 sg12
-g69
+g9
 sas.

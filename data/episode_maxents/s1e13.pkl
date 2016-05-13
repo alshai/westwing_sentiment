@@ -46,245 +46,245 @@ sg10
 VC.J.
 p19
 sg12
-g13
-sa(dp20
+S'negative'
+p20
+sa(dp21
 g6
 VI know.
-p21
+p22
 sg8
 g13
 sg10
 VC.J.
-p22
+p23
 sg12
-g13
-sa(dp23
+g20
+sa(dp24
 g6
 VThis President is from New England and I think it's time we all started getting used to that. At least, that's what he told me this morning. What else do we have here? There will be 15 pen recipients. The President will sign the bill with 15 pens, and I guess someone on my staff wanted you to know that.
-p24
+p25
 sg8
 g13
 sg10
 VC.J.
-p25
+p26
 sg12
 g13
-sa(dp26
+sa(dp27
 g6
 VC.J.?
-p27
+p28
 sg8
 g13
 sg10
 VDANNY
-p28
+p29
 sg12
 g13
-sa(dp29
+sa(dp30
 g6
 VTell me you don't have a question about the pens.
-p30
+p31
 sg8
 g9
 sg10
 VC.J.
-p31
+p32
 sg12
 g13
-sa(dp32
+sa(dp33
 g6
 VC.J., I have a question about the pens.
-p33
+p34
 sg8
 g9
 sg10
 VDANNY
-p34
+p35
 sg12
 g13
-sa(dp35
+sa(dp36
 g6
 VYes, Danny?
-p36
+p37
 sg8
 g13
 sg10
 VC.J.
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VJosiah Bartlet has 13 letters in it, how's the President gonna use 15 pens?
-p39
+p40
 sg8
 g13
 sg10
 VDANNY
-p40
+p41
 sg12
 g13
-sa(dp41
+sa(dp42
 g6
 VDanny...
-p42
+p43
 sg8
 g13
 sg10
 VC.J.
-p43
+p44
 sg12
 g13
-sa(dp44
+sa(dp45
 g6
 VI just....
-p45
+p46
 sg8
 g13
 sg10
 VDANNY
-p46
+p47
 sg12
-g13
-sa(dp47
+g20
+sa(dp48
 g6
 VYou know you were the only one in the room doing the math on that, right?
-p48
+p49
 sg8
 g13
 sg10
 VC.J.
-p49
+p50
 sg12
 g13
-sa(dp50
+sa(dp51
 g6
 VI, I just...
-p51
+p52
 sg8
 g13
 sg10
 VDANNY
-p52
+p53
 sg12
-g13
-sa(dp53
+g20
+sa(dp54
 g6
 VOnly one in the room.
-p54
+p55
 sg8
 g13
 sg10
 VC.J.
-p55
+p56
 sg12
 g13
-sa(dp56
+sa(dp57
 g6
 VMy readers expect a little bit more. [laughter]
-p57
+p58
 sg8
 g9
 sg10
 VDANNY
-p58
+p59
 sg12
 g13
-sa(dp59
+sa(dp60
 g6
 V[leafing through notes] 15 pens, 13 letters, they must have stuck something in here about... Yes... he's gonna... interesting... he's gonna literally dot the I" and cross the "T"s.
-p60
+p61
 sg8
 g13
 sg10
 VC.J.
-p61
+p62
 sg12
 g13
-sa(dp62
+sa(dp63
 g6
 VThank you.
-p63
+p64
 sg8
 g13
 sg10
 VDANNY
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VFreakboy.
-p66
+p67
 sg8
 g13
 sg10
 VC.J.
-p67
+p68
 sg12
 g13
-sa(dp68
+sa(dp69
 g6
 VThank you again.
-p69
+p70
 sg8
 g13
 sg10
 VDANNY
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VJonathon and Jennifer Lydell, the parents of Lowell Lydell, have been added to the guest list; also added to the guest list are senators...
-p72
+p73
 sg8
 g13
 sg10
 VC.J.
-p73
+p74
 sg12
 g13
-sa(dp74
+sa(dp75
 g6
 VYeah?
-p75
+p76
 sg8
 g13
 sg10
 VC.J.
-p76
+p77
 sg12
 g13
-sa(dp77
+sa(dp78
 g6
 VWhat still on?
-p78
+p79
 sg8
 g13
 sg10
 VC.J.
-p79
+p80
 sg12
 g13
-sa(dp80
+sa(dp81
 g6
 VYeah.
-p81
+p82
 sg8
 g13
 sg10
 VC.J.
-p82
+p83
 sg12
 g13
-sa(dp83
+sa(dp84
 g6
 VI've heard that too, and I don't know where it got started; it's ridiculous. The President's signing hate crimes legislation, Jonathan and Jennifer Lydell's son was killed for being gay. They're obviously going to...
-p84
-sg8
-S'negative'
 p85
+sg8
+g20
 sg10
 VC.J.
 p86
@@ -311,7 +311,7 @@ sg10
 VC.J.
 p92
 sg12
-g13
+g20
 sa(dp93
 g6
 VBreach and Larkin. Senators Breach and Larkin will be attending as well.
@@ -322,13 +322,13 @@ sg10
 VC.J.
 p95
 sg12
-g13
+g9
 sa(dp96
 g6
 VListen, you've been a great audience, don't forget to tip your waitresses. That's all the news today, you're outta here.
 p97
 sg8
-g85
+g20
 sg10
 VC.J.
 p98
@@ -344,7 +344,7 @@ sg10
 VMANDY
 p101
 sg12
-g9
+g20
 sa(dp102
 g6
 VDone what?
@@ -377,7 +377,7 @@ sg10
 VC.J.
 p110
 sg12
-g13
+g20
 sa(dp111
 g6
 VThey are coming, I'm just not sure we're gonna want them there.
@@ -388,7 +388,7 @@ sg10
 VMANDY
 p113
 sg12
-g13
+g20
 sa(dp114
 g6
 VMandy!
@@ -416,7 +416,7 @@ g6
 VI spoke the mother on the phone. I spoke to her twice!
 p121
 sg8
-g85
+g20
 sg10
 VC.J.
 p122
@@ -438,7 +438,7 @@ g6
 VWhat's wrong with the father?
 p127
 sg8
-g85
+g20
 sg10
 VC.J.
 p128
@@ -454,7 +454,7 @@ sg10
 VMANDY
 p131
 sg12
-g85
+g20
 sa(dp132
 g6
 VThat's it?
@@ -487,7 +487,7 @@ sg10
 VC.J.
 p140
 sg12
-g85
+g20
 sa(dp141
 g6
 VC.J....
@@ -504,7 +504,7 @@ g6
 VTheir son was just murdered Mandy! Did you want him to wear a campaign button?
 p145
 sg8
-g85
+g20
 sg10
 VC.J.
 p146
@@ -531,7 +531,7 @@ sg10
 VC.J.
 p152
 sg12
-g13
+g9
 sa(dp153
 g6
 VThey're flying in in the morning. Sit and meet with them and tell me what you think.
@@ -559,12 +559,12 @@ g6
 VYes. And I'd also like you to cut me some slack.
 p160
 sg8
-g85
+g20
 sg10
 VMANDY
 p161
 sg12
-g9
+g13
 sa(dp162
 g6
 VFine.
@@ -597,7 +597,7 @@ sg10
 VCAROL
 p170
 sg12
-g13
+g20
 sa(dp171
 g6
 VYou misspelled senator.
@@ -641,7 +641,7 @@ sg10
 VC.J.
 p182
 sg12
-g85
+g20
 sa(dp183
 g6
 VI need you to read a report.
@@ -669,7 +669,7 @@ g6
 VThere's no doubt about it, but I need you to read this anyway.
 p190
 sg8
-g85
+g20
 sg10
 VJOSH
 p191
@@ -795,7 +795,7 @@ sg10
 VC.J.
 p224
 sg12
-g13
+g9
 sa(dp225
 g6
 VSomething called "abstinence plus".
@@ -850,7 +850,7 @@ sg10
 VJOSH
 p239
 sg12
-g13
+g9
 sa(dp240
 g6
 VEverything but?
@@ -927,7 +927,7 @@ sg10
 VC.J.
 p260
 sg12
-g13
+g20
 sa(dp261
 g6
 VA regrettable pun. Should I order you some food?
@@ -971,7 +971,7 @@ sg10
 VC.J.
 p272
 sg12
-g13
+g20
 sa(dp273
 g6
 VHey.
@@ -993,7 +993,7 @@ sg10
 VDANNY
 p278
 sg12
-g13
+g9
 sa(dp279
 g6
 VWith you?
@@ -1043,12 +1043,12 @@ g6
 VI'm anticipating any joke you could possibly make right now, and I'm not finding any of them funny.
 p292
 sg8
-g85
+g20
 sg10
 VC.J.
 p293
 sg12
-g13
+g20
 sa(dp294
 g6
 VYou know, eventually you're gonna have to go on a date with me; you can't just keep grabbing me and kissing me.
@@ -1065,12 +1065,12 @@ g6
 VI didn't grab you...
 p298
 sg8
-g85
+g20
 sg10
 VC.J.
 p299
 sg12
-g9
+g20
 sa(dp300
 g6
 VWell, you can, like I'll mind or anything...
@@ -1081,18 +1081,18 @@ sg10
 VDANNY
 p302
 sg12
-g13
+g20
 sa(dp303
 g6
 VI didn't grab you. You grabbed me!
 p304
 sg8
-g85
+g20
 sg10
 VC.J.
 p305
 sg12
-g13
+g20
 sa(dp306
 g6
 VFirst time. Second, third and fourth times you grabbed me.
@@ -1158,7 +1158,7 @@ sg10
 VC.J.
 p323
 sg12
-g9
+g20
 sa(dp324
 g6
 VNo.
@@ -1257,7 +1257,7 @@ sg10
 VDANNY
 p350
 sg12
-g13
+g9
 sa(dp351
 g6
 VWait. [grabs and kisses Danny] Okay, you can go now.
@@ -1274,12 +1274,12 @@ g6
 VNo problem. [leaves]
 p355
 sg8
-g85
+g20
 sg10
 VDANNY
 p356
 sg12
-g13
+g20
 sa(dp357
 g6
 VJosh? [to Carol] Did they burn the hamburger?
@@ -1307,12 +1307,12 @@ g6
 VHe likes it beyond well-done. He likes it burnt.
 p364
 sg8
-g85
+g20
 sg10
 VDONNA
 p365
 sg12
-g85
+g20
 sa(dp366
 g6
 V[comes out of his office] Yeah?
@@ -1450,7 +1450,7 @@ g6
 VAny stories we have to give the press that we're not wild about we give all in a lump on Friday.
 p403
 sg8
-g85
+g20
 sg10
 VJOSH
 p404
@@ -1461,7 +1461,7 @@ g6
 VWhy do you do it in a lump?
 p406
 sg8
-g85
+g20
 sg10
 VDONNA
 p407
@@ -1488,7 +1488,7 @@ sg10
 VDONNA
 p413
 sg12
-g13
+g20
 sa(dp414
 g6
 VThey've got X column inches to fill, right? They're gonna fill them no matter what.
@@ -1604,12 +1604,12 @@ g6
 VThere is a town in Alabama that wants to abolish all laws except the Ten Commandments.
 p445
 sg8
-g85
+g20
 sg10
 VSAM
 p446
 sg12
-g13
+g20
 sa(dp447
 g6
 VI saw it.
@@ -1620,18 +1620,18 @@ sg10
 VTOBY
 p449
 sg12
-g13
+g20
 sa(dp450
 g6
 VWell, they're gonna have a problem.
 p451
 sg8
-g85
+g20
 sg10
 VSAM
 p452
 sg12
-g85
+g13
 sa(dp453
 g6
 VBecause the Constitution prohibits religious activity in any form connected to Government?
@@ -1675,7 +1675,7 @@ sg10
 VSAM
 p464
 sg12
-g13
+g20
 sa(dp465
 g6
 VWhat is it?
@@ -1708,7 +1708,7 @@ sg10
 VTOBY
 p473
 sg12
-g13
+g20
 sa(dp474
 g6
 VA sociology professor has been teaching what the paper, at any rate, feels is racist stuff. Too much funding for Head Start, welfare mothers, and...
@@ -1730,7 +1730,7 @@ sg10
 VTOBY
 p479
 sg12
-g13
+g20
 sa(dp480
 g6
 VZoey's in the class.
@@ -1752,7 +1752,7 @@ sg10
 VTOBY
 p485
 sg12
-g85
+g13
 sa(dp486
 g6
 VThis minute? The Georgetown Hoya. Tomorrow...?
@@ -1774,7 +1774,7 @@ sg10
 VTOBY
 p491
 sg12
-g13
+g9
 sa(dp492
 g6
 VI'll talk to Zoey.
@@ -1829,7 +1829,7 @@ sg10
 VSAM
 p506
 sg12
-g85
+g20
 sa(dp507
 g6
 VWhat chats?
@@ -1846,7 +1846,7 @@ g6
 VOur late night chats!
 p511
 sg8
-g85
+g20
 sg10
 VSAM
 p512
@@ -1884,7 +1884,7 @@ sg10
 VLEO
 p521
 sg12
-g13
+g20
 sa(dp522
 g6
 VHey.
@@ -1978,12 +1978,12 @@ g6
 VJosh! This Sex Ed report could not have possibly come at a worse time.
 p547
 sg8
-g85
+g20
 sg10
 VLEO
 p548
 sg12
-g13
+g20
 sa(dp549
 g6
 VI know.
@@ -1994,7 +1994,7 @@ sg10
 VJOSH
 p551
 sg12
-g13
+g20
 sa(dp552
 g6
 VA hundred thousand school teachers...
@@ -2016,13 +2016,13 @@ sg10
 VJOSH
 p557
 sg12
-g13
+g20
 sa(dp558
 g6
 VHe's going to sign the hate crimes bill!
 p559
 sg8
-g85
+g20
 sg10
 VLEO
 p560
@@ -2049,7 +2049,7 @@ sg10
 VLEO
 p566
 sg12
-g13
+g20
 sa(dp567
 g6
 VWell, that horse left the barn!
@@ -2099,7 +2099,7 @@ g6
 VSam and me, we're meeting with Bruno from an appropriation sub-committee that has jurisdiction over the White House budget.
 p580
 sg8
-g85
+g20
 sg10
 VJOSH
 p581
@@ -2192,7 +2192,7 @@ sg10
 VLEO
 p605
 sg12
-g13
+g20
 sa(dp606
 g6
 VLeo...
@@ -2324,7 +2324,7 @@ sg10
 VMARGARET
 p641
 sg12
-g13
+g9
 sa(dp642
 g6
 VWe're just... talking, Mrs. Landingham.
@@ -2335,7 +2335,7 @@ sg10
 VMARGARET
 p644
 sg12
-g13
+g20
 sa(dp645
 g6
 VYes Ma'am.
@@ -2352,7 +2352,7 @@ g6
 VShe said she knew it in her heart. You know how many things I've been wrong about in my heart?
 p649
 sg8
-g85
+g20
 sg10
 VDONNA
 p650
@@ -2401,7 +2401,7 @@ sg10
 VJOSH
 p662
 sg12
-g13
+g20
 sa(dp663
 g6
 VIn Sam's office?
@@ -2423,7 +2423,7 @@ sg10
 VJOSH
 p668
 sg12
-g13
+g20
 sa(dp669
 g6
 VI need Sam, too.
@@ -2434,7 +2434,7 @@ sg10
 VDONNA
 p671
 sg12
-g13
+g20
 sa(dp672
 g6
 V[to Sam, passing] Sam!
@@ -2522,7 +2522,7 @@ sg10
 VSAM
 p695
 sg12
-g85
+g20
 sa(dp696
 g6
 VHow?
@@ -2594,12 +2594,12 @@ g6
 VHe wasn't supposed to take a Navy helicopter and make it wait.
 p715
 sg8
-g85
+g20
 sg10
 VSAM
 p716
 sg12
-g13
+g20
 sa(dp717
 g6
 VWell, what does this have to do with us?
@@ -2665,7 +2665,7 @@ sg10
 VTOBY
 p734
 sg12
-g13
+g20
 sa(dp735
 g6
 VI know about this already. The round of golf?
@@ -2687,7 +2687,7 @@ sg10
 VTOBY
 p740
 sg12
-g9
+g13
 sa(dp741
 g6
 VDanny got it from a White House source.
@@ -2715,18 +2715,18 @@ g6
 VAny problem with that?
 p748
 sg8
-g85
+g20
 sg10
 VC.J.
 p749
 sg12
-g13
+g20
 sa(dp750
 g6
 VAs long as it wasn't the other way round. That was a joke!
 p751
 sg8
-g85
+g20
 sg10
 VTOBY
 p752
@@ -2742,7 +2742,7 @@ sg10
 VC.J.
 p755
 sg12
-g13
+g20
 sa(dp756
 g6
 VC.J....
@@ -2792,7 +2792,7 @@ g6
 VYou can dump that out with the trash.
 p769
 sg8
-g85
+g20
 sg10
 VTOBY
 p770
@@ -2819,18 +2819,18 @@ sg10
 VTOBY
 p776
 sg12
-g13
+g20
 sa(dp777
 g6
 VI don't leak stories to Danny. If you don't believe me, ask Danny.
 p778
 sg8
-g85
+g20
 sg10
 VC.J.
 p779
 sg12
-g13
+g20
 sa(dp780
 g6
 VI do believe you.
@@ -2841,7 +2841,7 @@ sg10
 VTOBY
 p782
 sg12
-g9
+g13
 sa(dp783
 g6
 VGood.
@@ -2852,7 +2852,7 @@ sg10
 VC.J.
 p785
 sg12
-g13
+g9
 sa(dp786
 g6
 VYou okay by yourself?
@@ -2874,7 +2874,7 @@ sg10
 VC.J.
 p791
 sg12
-g13
+g20
 sa(dp792
 g6
 VOkay... Night.
@@ -2951,7 +2951,7 @@ sg10
 VTOBY
 p812
 sg12
-g13
+g9
 sa(dp813
 g6
 VHigh enough.
@@ -2962,7 +2962,7 @@ sg10
 VSAM
 p815
 sg12
-g85
+g13
 sa(dp816
 g6
 VI think we've found our man.
@@ -3039,7 +3039,7 @@ sg10
 VBARTLET
 p836
 sg12
-g13
+g20
 sa(dp837
 g6
 VYes, thank you.
@@ -3078,7 +3078,7 @@ g6
 VThe point they're gonna make is that the rules discriminate against bananas from poorer Latin American countries.
 p847
 sg8
-g85
+g20
 sg10
 VLEO
 p848
@@ -3116,7 +3116,7 @@ sg10
 VBARTLET
 p857
 sg12
-g85
+g20
 sa(dp858
 g6
 VBecause the bananas grown in those countries are sold by American companies.
@@ -3177,7 +3177,7 @@ g6
 VWe have appointed five people to the Corporation for Public Broadcasting. Republicans in the House, as well as an alarming number of Democrats, have been holding up those appointments.
 p874
 sg8
-g85
+g20
 sg10
 VBARTLET
 p875
@@ -3193,7 +3193,7 @@ sg10
 VTOBY
 p878
 sg12
-g9
+g13
 sa(dp879
 g6
 VAs far as I can tell, their reluctance has little, if anything, to do with bananas.
@@ -3237,13 +3237,13 @@ sg10
 VTOBY
 p890
 sg12
-g13
+g20
 sa(dp891
 g6
 V[to C.J.] You've got a problem?
 p892
 sg8
-g85
+g20
 sg10
 VTOBY
 p893
@@ -3259,7 +3259,7 @@ sg10
 VC.J.
 p896
 sg12
-g13
+g9
 sa(dp897
 g6
 VI watched Miss Julia Child.
@@ -3380,7 +3380,7 @@ sg10
 VLEO
 p929
 sg12
-g13
+g20
 sa(dp930
 g6
 VI don't understand... His son was just killed.
@@ -3391,7 +3391,7 @@ sg10
 VC.J.
 p932
 sg12
-g13
+g20
 sa(dp933
 g6
 VHis son was just killed because he was gay.
@@ -3402,7 +3402,7 @@ sg10
 VLEO
 p935
 sg12
-g13
+g20
 sa(dp936
 g6
 VAnd...?
@@ -3413,7 +3413,7 @@ sg10
 VC.J.
 p938
 sg12
-g13
+g20
 sa(dp939
 g6
 VThis is no time to out a guy in front and center who's embarrassed that his son was gay.
@@ -3490,7 +3490,7 @@ sg10
 VLEO
 p959
 sg12
-g13
+g9
 sa(dp960
 g6
 VMr. President, I was wondering if you had an opportunity to look at the Sex Education report?
@@ -3512,7 +3512,7 @@ sg10
 VBARTLET
 p965
 sg12
-g13
+g20
 sa(dp966
 g6
 VBecause it's very dramatic and I think we should talk about the right form with which to present it to the public.
@@ -3551,7 +3551,7 @@ g6
 VJosh and Sam, wait up a second. Leo, don't go away. [follows Josh and Sam into the hallway] [to the agent outside] Excuse us a second. Thank you.
 p976
 sg8
-g85
+g20
 sg10
 VBARTLET
 p977
@@ -3584,7 +3584,7 @@ g6
 VI want to pre-empt a hearing. I don't want it. I don't want it for Leo. I don't want it for his family. I don't want it for us. They know that, and they're gonna play "Let's Make a Deal." Don't take anything off the table until you've talked to me. You understand?
 p985
 sg8
-g85
+g20
 sg10
 VBARTLET
 p986
@@ -3606,7 +3606,7 @@ g6
 VOkay. Unless a war breaks out, I'll be spending much of my day talking about bananas.
 p991
 sg8
-g85
+g20
 sg10
 VBARTLET
 p992
@@ -3644,7 +3644,7 @@ sg10
 VJOSH
 p1001
 sg12
-g9
+g13
 sa(dp1002
 g6
 VAlright. [goes back into the office to join Leo] Is Simon Blye coming in to meet with you today?
@@ -3672,7 +3672,7 @@ g6
 VI broke into your secret schedule compartment and took infrared photos with my compact camera. [sits]
 p1009
 sg8
-g85
+g20
 sg10
 VBARTLET
 p1010
@@ -3710,7 +3710,7 @@ sg10
 VLEO
 p1019
 sg12
-g13
+g9
 sa(dp1020
 g6
 VNo, he's not.
@@ -3721,7 +3721,7 @@ sg10
 VBARTLET
 p1022
 sg12
-g13
+g20
 sa(dp1023
 g6
 VHe's been a good friend to me.
@@ -3754,7 +3754,7 @@ sg10
 VLEO
 p1031
 sg12
-g13
+g9
 sa(dp1032
 g6
 VThat you couldn't get from me? Or Toby, or Josh, or Sam, or C.J.?
@@ -3765,7 +3765,7 @@ sg10
 VBARTLET
 p1034
 sg12
-g13
+g20
 sa(dp1035
 g6
 VI didn't mean that, Mr. President..
@@ -3787,7 +3787,7 @@ sg10
 VBARTLET
 p1040
 sg12
-g9
+g20
 sa(dp1041
 g6
 VAnd of course, your counsel is valued above all else. I just meant, I can use all the help I can get.
@@ -3798,7 +3798,7 @@ sg10
 VLEO
 p1043
 sg12
-g13
+g20
 sa(dp1044
 g6
 VYou put a lot of faith in people, Leo, and I love you for that. I just don't want to see you get disappointed.
@@ -3930,7 +3930,7 @@ sg10
 VC.J.
 p1079
 sg12
-g13
+g20
 sa(dp1080
 g6
 VOkay.
@@ -3963,7 +3963,7 @@ sg10
 VDANNY
 p1088
 sg12
-g13
+g20
 sa(dp1089
 g6
 VAre we?
@@ -4007,18 +4007,18 @@ sg10
 VDANNY
 p1100
 sg12
-g13
+g20
 sa(dp1101
 g6
 V[turning to leave] Never mind.
 p1102
 sg8
-g85
+g20
 sg10
 VC.J.
 p1103
 sg12
-g13
+g20
 sa(dp1104
 g6
 VWhat was it?
@@ -4040,18 +4040,18 @@ sg10
 VC.J.
 p1109
 sg12
-g13
+g20
 sa(dp1110
 g6
 VI want to make it very clear that I have no objection to the kissing.
 p1111
 sg8
-g85
+g20
 sg10
 VDANNY
 p1112
 sg12
-g13
+g20
 sa(dp1113
 g6
 VI understand.
@@ -4062,18 +4062,18 @@ sg10
 VC.J.
 p1115
 sg12
-g13
+g20
 sa(dp1116
 g6
 VI didn't want you to think it was a problem for me.
 p1117
 sg8
-g85
+g20
 sg10
 VDANNY
 p1118
 sg12
-g13
+g20
 sa(dp1119
 g6
 VThere won't be any more kissing.
@@ -4084,7 +4084,7 @@ sg10
 VC.J.
 p1121
 sg12
-g13
+g20
 sa(dp1122
 g6
 VI'm sorry to hear that.
@@ -4150,7 +4150,7 @@ sg10
 VC.J.
 p1139
 sg12
-g13
+g20
 sa(dp1140
 g6
 VI know.
@@ -4161,7 +4161,7 @@ sg10
 VDANNY
 p1142
 sg12
-g13
+g20
 sa(dp1143
 g6
 VOkay.
@@ -4200,7 +4200,7 @@ g6
 VYou're gonna dump it in the Friday trash.
 p1153
 sg8
-g85
+g20
 sg10
 VDANNY
 p1154
@@ -4238,7 +4238,7 @@ sg10
 VC.J.
 p1163
 sg12
-g13
+g9
 sa(dp1164
 g6
 VThank you.
@@ -4271,7 +4271,7 @@ sg10
 VDANNY
 p1172
 sg12
-g13
+g9
 sa(dp1173
 g6
 VOkay, you should go now.
@@ -4304,24 +4304,24 @@ sg10
 VC.J.
 p1181
 sg12
-g13
+g20
 sa(dp1182
 g6
 VOkay. [watches C.J. leave]
 p1183
 sg8
-g85
+g20
 sg10
 VDANNY
 p1184
 sg12
-g13
+g20
 sa(dp1185
 g6
 VThis isn't a trial, this isn't a deposition, you won't be sworn in, you're not on the record. There will be no record. I sit on the House appropriation subcommittee for White House budget and management. Many of my colleagues, as you can imagine, are asking that hearings be held to determine if there was any wrong-doing on the part of senior White House staffers in covering up Leo McGarry's past problems with alcohol and drugs. I want to see if we can avoid that, as I'm sure you do as well.
 p1186
 sg8
-g85
+g20
 sg10
 VBRUNO
 p1187
@@ -4414,7 +4414,7 @@ sg10
 VLEO
 p1211
 sg12
-g13
+g20
 sa(dp1212
 g6
 VOf course.
@@ -4447,7 +4447,7 @@ sg10
 VSIMON
 p1220
 sg12
-g13
+g20
 sa(dp1221
 g6
 VHow's Meredith?
@@ -4480,7 +4480,7 @@ sg10
 VLEO
 p1229
 sg12
-g13
+g9
 sa(dp1230
 g6
 V[laughs] Well, I know you're busy, Leo. Why don't we talk about you?
@@ -4508,7 +4508,7 @@ g6
 VThis past November the 21st, Congressman Lillienfield announced, in a sort of reckless fashion, that one in three White House staffers was on drugs.
 p1237
 sg8
-g85
+g20
 sg10
 VSAM
 p1238
@@ -4568,7 +4568,7 @@ sg10
 VBRUNO
 p1253
 sg12
-g13
+g20
 sa(dp1254
 g6
 VThank you.
@@ -4590,7 +4590,7 @@ sg10
 VBRUNO
 p1259
 sg12
-g13
+g9
 sa(dp1260
 g6
 V'Investigate' is a word that gets us into some trouble.
@@ -4689,7 +4689,7 @@ sg10
 VSAM
 p1286
 sg12
-g13
+g20
 sa(dp1287
 g6
 VJosh Lyman and Sam Seaborn. It's my understanding they're met with Bruno's people right now.
@@ -4717,7 +4717,7 @@ g6
 VTrying to avoid a hearing?
 p1294
 sg8
-g85
+g20
 sg10
 VSIMON
 p1295
@@ -4744,7 +4744,7 @@ sg10
 VSIMON
 p1301
 sg12
-g13
+g20
 sa(dp1302
 g6
 VJosh and Sam are pretty good. And Bruno's a reasonable guy, so...
@@ -4755,13 +4755,13 @@ sg10
 VLEO
 p1304
 sg12
-g13
+g9
 sa(dp1305
 g6
 VThere's going to be a hearing Leo, and it'll take months and it'll be awful. We're gonna hear stories about booze, and pills, and God knows what you did...
 p1306
 sg8
-g85
+g20
 sg10
 VSIMON
 p1307
@@ -4794,12 +4794,12 @@ g6
 VSimon, did you come here to tell me you think I should resign?
 p1315
 sg8
-g85
+g20
 sg10
 VLEO
 p1316
 sg12
-g13
+g20
 sa(dp1317
 g6
 VYeah.
@@ -4816,18 +4816,18 @@ g6
 VI've offered the President my resignation; he won't accept it.
 p1321
 sg8
-g85
+g20
 sg10
 VLEO
 p1322
 sg12
-g13
+g20
 sa(dp1323
 g6
 VHe's blinded by friendship, and he's being foolish, and you should point that out to him.
 p1324
 sg8
-g85
+g20
 sg10
 VSIMON
 p1325
@@ -4843,7 +4843,7 @@ sg10
 VLEO
 p1328
 sg12
-g13
+g20
 sa(dp1329
 g6
 VIn tomorrow's Post. I wanted to let you know as a courtesy as we've been friends for so long. I have a copy with me...
@@ -4882,7 +4882,7 @@ g6
 V...and it will definitely not distract from the President's agenda.
 p1339
 sg8
-g85
+g20
 sg10
 VLEO
 p1340
@@ -4898,7 +4898,7 @@ sg10
 VSIMON
 p1343
 sg12
-g13
+g20
 sa(dp1344
 g6
 VI haven't seen you making the rounds on the Sunday morning talk shows in a while, Simon. I'm glad I could help out!
@@ -4920,13 +4920,13 @@ sg10
 VSIMON
 p1349
 sg12
-g13
+g20
 sa(dp1350
 g6
 VTell me something - where's your grave concern for country, party, and President, when you're out whoring for Atlantic Oil?
 p1351
 sg8
-g85
+g20
 sg10
 VLEO
 p1352
@@ -4942,13 +4942,13 @@ sg10
 VSIMON
 p1355
 sg12
-g13
+g20
 sa(dp1356
 g6
 VWell, God, I sure didn't mean to hurt your feelings!
 p1357
 sg8
-g85
+g20
 sg10
 VLEO
 p1358
@@ -4964,7 +4964,7 @@ sg10
 VSIMON
 p1361
 sg12
-g13
+g20
 sa(dp1362
 g6
 V[standing up, as Simon tries to interrupt] I think you should walk out of here now. As a matter of fact, I think you should run.
@@ -5074,7 +5074,7 @@ sg10
 VBRUNO
 p1391
 sg12
-g13
+g20
 sa(dp1392
 g6
 VWe put this thing in a drawer for a year and you can guarantee us...
@@ -5118,24 +5118,24 @@ sg10
 VBRUNO
 p1403
 sg12
-g13
+g9
 sa(dp1404
 g6
 VLeo McGarry hasn't done anything wrong. Neither has anyone else. The hearings aren't going to turn up anything. We're not frightened enough to suppress...
 p1405
 sg8
-g85
+g20
 sg10
 VJOSH
 p1406
 sg12
-g13
+g20
 sa(dp1407
 g6
 VOh, stop it. Honest to God. It doesn't matter what the hell the hearings turn up. It's a hearing! This one is drugs so it's sexy. This is Geraldo's dream come true. So don't get up with me okay? I am throwing you a rope - something I'd like the two of you to remember next time you're mouthing off on Face the Nation. You can't get anything done cause House Republicans are vindictive. [to aides] This is what happens you put teenagers in the White House. [to Sam and Josh] You guys screwed this up from the beginning! You should have been there first on McGarry. You should have had the White House counsel's office run the internal investigation. You've come remarkably close to perjury in this Claypool deposition. I'd like to run hearings on the two of you being stupid. But I don't have that kind of time. Here's the phone. I'm sure the President is waiting for your call. Excuse us.
 p1408
 sg8
-g85
+g20
 sg10
 VBRUNO
 p1409
@@ -5173,7 +5173,7 @@ sg10
 VC.J.
 p1418
 sg12
-g85
+g20
 sa(dp1419
 g6
 VThey're in the Mural Room.
@@ -5195,7 +5195,7 @@ sg10
 VC.J.
 p1424
 sg12
-g13
+g20
 sa(dp1425
 g6
 VDo you know where she is?
@@ -5206,7 +5206,7 @@ sg10
 VCAROL
 p1427
 sg12
-g9
+g13
 sa(dp1428
 g6
 VShe's in the Oval Office having what must be a very comfortable conversation with the President.
@@ -5393,13 +5393,13 @@ sg10
 VC.J.
 p1478
 sg12
-g9
+g20
 sa(dp1479
 g6
 VPlease sit. [They all sit.] We want to thank you for coming such a long way, particularly so soon after this unspeakable tragedy.
 p1480
 sg8
-g85
+g20
 sg10
 VC.J.
 p1481
@@ -5432,7 +5432,7 @@ g6
 VI'm sorry. I was asking... Mr. Lydell, I don't know how else to put this. But if you appear in front of the press to be at all embarrassed about your son's homosexuality... I guess... let me just say this, do you support the President?
 p1489
 sg8
-g85
+g20
 sg10
 VC.J.
 p1490
@@ -5443,7 +5443,7 @@ g6
 V[to the Lydells] Will you excuse us for a minute?
 p1492
 sg8
-g85
+g20
 sg10
 VMANDY
 p1493
@@ -5481,18 +5481,18 @@ sg10
 VC.J.
 p1502
 sg12
-g13
+g9
 sa(dp1503
 g6
 V[incredulous] They won't be fine!
 p1504
 sg8
-g85
+g20
 sg10
 VMANDY
 p1505
 sg12
-g13
+g20
 sa(dp1506
 g6
 VMandy...
@@ -5547,7 +5547,7 @@ sg10
 VC.J.
 p1520
 sg12
-g13
+g9
 sa(dp1521
 g6
 VTo talk to reporters on our dime?
@@ -5613,7 +5613,7 @@ sg10
 VC.J.
 p1538
 sg12
-g13
+g20
 sa(dp1539
 g6
 VGet it together!
@@ -5657,7 +5657,7 @@ sg10
 VC.J.
 p1550
 sg12
-g13
+g20
 sa(dp1551
 g6
 VI'll go let them know.
@@ -5740,12 +5740,12 @@ g6
 V[with increasing agitation] It's Fozzy Bear, not Fuzzy Bear.
 p1573
 sg8
-g85
+g20
 sg10
 VTOBY
 p1574
 sg12
-g13
+g20
 sa(dp1575
 g6
 VProduct licensing for this merchandise brings in over $20 million a year, none of which goes to PBS, all of which goes to the show's producer, the Children's Television Workshop. Now this is a company whose Chief Executive earns high six figures in salary and benefits per year, yet the show is subsidized by taxpayer dollars.
@@ -5762,7 +5762,7 @@ g6
 VIt's a perfectly reasonable complaint.
 p1579
 sg8
-g85
+g20
 sg10
 VTOBY
 p1580
@@ -5778,7 +5778,7 @@ sg10
 VWOMAN
 p1583
 sg12
-g13
+g20
 sa(dp1584
 g6
 VI don't care.
@@ -5789,7 +5789,7 @@ sg10
 VTOBY
 p1586
 sg12
-g13
+g20
 sa(dp1587
 g6
 VToby...
@@ -5855,7 +5855,7 @@ sg10
 VTOBY
 p1604
 sg12
-g13
+g9
 sa(dp1605
 g6
 VWhat?
@@ -5888,7 +5888,7 @@ sg10
 VC.J.
 p1613
 sg12
-g13
+g9
 sa(dp1614
 g6
 VI gotta get back in there. This is just too much fun.
@@ -5899,7 +5899,7 @@ sg10
 VTOBY
 p1616
 sg12
-g13
+g20
 sa(dp1617
 g6
 VSam?
@@ -5916,12 +5916,12 @@ g6
 VCathy, there is a small town in Alabama that wants to pass a law saying if I don't honor my father I go to jail. What do you think about that?
 p1621
 sg8
-g85
+g20
 sg10
 VSAM
 p1622
 sg12
-g13
+g20
 sa(dp1623
 g6
 VHow do they know if you're honoring your father or not?
@@ -5943,7 +5943,7 @@ sg10
 VSAM
 p1628
 sg12
-g85
+g20
 sa(dp1629
 g6
 VShe's here.
@@ -5954,7 +5954,7 @@ sg10
 VCATHY
 p1631
 sg12
-g13
+g9
 sa(dp1632
 g6
 VSend her in.
@@ -5976,7 +5976,7 @@ sg10
 VSAM
 p1637
 sg12
-g13
+g9
 sa(dp1638
 g6
 VYes.
@@ -5998,7 +5998,7 @@ sg10
 VSAM
 p1643
 sg12
-g13
+g20
 sa(dp1644
 g6
 VI know.
@@ -6009,13 +6009,13 @@ sg10
 VKAREN
 p1646
 sg12
-g13
+g20
 sa(dp1647
 g6
 V[shuts the door with a loud bang] The advance man you ratted out doesn't work for us anymore Karen, he works for the Vice President. Kind of screwed yourself there, didn't you?
 p1648
 sg8
-g85
+g20
 sg10
 VSAM
 p1649
@@ -6031,7 +6031,7 @@ sg10
 VKAREN
 p1652
 sg12
-g13
+g20
 sa(dp1653
 g6
 VYou trying to win one for the Vice President?
@@ -6053,7 +6053,7 @@ sg10
 VKAREN
 p1658
 sg12
-g13
+g20
 sa(dp1659
 g6
 VWere you?
@@ -6075,7 +6075,7 @@ sg10
 VKAREN
 p1664
 sg12
-g13
+g20
 sa(dp1665
 g6
 VI've got four witnesses, Karen. I've got Ginger in my office, I have a guy from political liaison and I have two wire service reporters. Were you trying to protect your boss?
@@ -6125,7 +6125,7 @@ g6
 VI don't give a damn about the round of golf. I don't give a damn about the helicopter. I don't give a damn about the advance man. [Karen looks to the floor] Karen, look at me. [pause] Were you the one who leaked Leo McGarry's personnel file to Lillianfield and Claypool?
 p1678
 sg8
-g85
+g20
 sg10
 VSAM
 p1679
@@ -6207,7 +6207,7 @@ sg10
 VBARTLET
 p1700
 sg12
-g13
+g20
 sa(dp1701
 g6
 VI wasn't snippy!
@@ -6218,7 +6218,7 @@ sg10
 VBARTLET
 p1703
 sg12
-g13
+g20
 sa(dp1704
 g6
 VThank you, Mrs. Landingham.
@@ -6240,13 +6240,13 @@ sg10
 VBARTLET
 p1709
 sg12
-g13
+g9
 sa(dp1710
 g6
 VMr. President, I hate to keep jumping up and down on this, but...
 p1711
 sg8
-g85
+g20
 sg10
 VC.J.
 p1712
@@ -6279,12 +6279,12 @@ g6
 VWe're gonna leave it alone for a while.
 p1720
 sg8
-g85
+g20
 sg10
 VBARTLET
 p1721
 sg12
-g13
+g20
 sa(dp1722
 g6
 VSir, when you say...
@@ -6295,7 +6295,7 @@ sg10
 VC.J.
 p1724
 sg12
-g9
+g13
 sa(dp1725
 g6
 V[busy at his desk] After the midterm elections.
@@ -6405,13 +6405,13 @@ sg10
 VC.J.
 p1754
 sg12
-g13
+g9
 sa(dp1755
 g6
 V[in a somewhat patronizing tone] C.J.
 p1756
 sg8
-g85
+g20
 sg10
 VBARTLET
 p1757
@@ -6504,7 +6504,7 @@ sg10
 VBARTLET
 p1781
 sg12
-g13
+g9
 sa(dp1782
 g6
 VI understand.
@@ -6515,7 +6515,7 @@ sg10
 VC.J.
 p1784
 sg12
-g13
+g20
 sa(dp1785
 g6
 V[back behind his desk] I was hoping you would.
@@ -6537,13 +6537,13 @@ sg10
 VC.J.
 p1790
 sg12
-g13
+g9
 sa(dp1791
 g6
 VYeah. Well there's nothing wrong with telling them we got it. I wouldn't make a big deal out of it. We got it, we're looking at it, we're studying it. Throw it out with the trash.
 p1792
 sg8
-g85
+g20
 sg10
 VBARTLET
 p1793
@@ -6570,7 +6570,7 @@ sg10
 VBARTLET
 p1799
 sg12
-g13
+g9
 sa(dp1800
 g6
 VThank you sir. [almost out the door, but stops and turns back to face Bartlet] Mr. President? We could all be better teachers.
@@ -6592,7 +6592,7 @@ sg10
 VBARTLET
 p1805
 sg12
-g13
+g20
 sa(dp1806
 g6
 VC.J.?
@@ -6658,7 +6658,7 @@ sg10
 VC.J.
 p1823
 sg12
-g13
+g20
 sa(dp1824
 g6
 VO.K.
@@ -6713,7 +6713,7 @@ sg10
 VDANNY
 p1838
 sg12
-g13
+g20
 sa(dp1839
 g6
 VLook...
@@ -6730,12 +6730,12 @@ g6
 VDon't leak me a story.
 p1843
 sg8
-g85
+g20
 sg10
 VDANNY
 p1844
 sg12
-g13
+g20
 sa(dp1845
 g6
 VI wasn't.
@@ -6746,13 +6746,13 @@ sg10
 VC.J.
 p1847
 sg12
-g13
+g20
 sa(dp1848
 g6
 VI've seen this look on the face of four other press secretaries before you. You've got a story in the trash this week that's a story, you want it out there and someone said no.
 p1849
 sg8
-g85
+g20
 sg10
 VDANNY
 p1850
@@ -6790,7 +6790,7 @@ sg10
 VC.J.
 p1859
 sg12
-g9
+g13
 sa(dp1860
 g6
 VNo I always took a free lead.
@@ -6823,7 +6823,7 @@ sg10
 VDANNY
 p1868
 sg12
-g13
+g9
 sa(dp1869
 g6
 VWhy?
@@ -6862,12 +6862,12 @@ g6
 VI don't know. But as long as you keep grabbing me and kissing me what the hell do I care?
 p1879
 sg8
-g85
+g20
 sg10
 VDANNY
 p1880
 sg12
-g13
+g20
 sa(dp1881
 g6
 VGood point.
@@ -6889,7 +6889,7 @@ sg10
 VDANNY
 p1886
 sg12
-g13
+g9
 sa(dp1887
 g6
 VNo you won't.
@@ -6900,7 +6900,7 @@ sg10
 VC.J.
 p1889
 sg12
-g9
+g20
 sa(dp1890
 g6
 VHow do you know?
@@ -6911,7 +6911,7 @@ sg10
 VDANNY
 p1892
 sg12
-g9
+g13
 sa(dp1893
 g6
 V[Standing up] Cause we've gotten very good at this.
@@ -6933,7 +6933,7 @@ sg10
 VDANNY
 p1898
 sg12
-g13
+g9
 sa(dp1899
 g6
 VYes, we have.
@@ -6977,7 +6977,7 @@ sg10
 VMARGARET
 p1910
 sg12
-g85
+g20
 sa(dp1911
 g6
 VThanks.
@@ -6999,7 +6999,7 @@ sg10
 VLEO
 p1916
 sg12
-g13
+g20
 sa(dp1917
 g6
 VYes, sir.
@@ -7049,7 +7049,7 @@ g6
 VWhen you read in my personnel file that I had been treated for alcohol and drug abuse, what went through your mind? Karen, it's okay, you can say it. The worst thing I'm empowered to do is fire you and I've already done that.
 p1930
 sg8
-g85
+g20
 sg10
 VLEO
 p1931
@@ -7071,7 +7071,7 @@ g6
 V[nodding] So did mine. In fact he died from it. He came home late one night very drunk, my mother was yelling at him. I'm not sure about what, but I heard the yelling downstairs from my bedroom. She came upstairs and he went out to the garage and shot himself in the head.
 p1936
 sg8
-g85
+g20
 sg10
 VLEO
 p1937
@@ -7087,7 +7087,7 @@ sg10
 VKAREN
 p1940
 sg12
-g9
+g13
 sa(dp1941
 g6
 VI drank and took drugs because I'm a drug addict and an alcoholic.
@@ -7098,7 +7098,7 @@ sg10
 VLEO
 p1943
 sg12
-g13
+g20
 sa(dp1944
 g6
 VHow long did it take you to get cured?
@@ -7109,7 +7109,7 @@ sg10
 VKAREN
 p1946
 sg12
-g9
+g20
 sa(dp1947
 g6
 VI'm not cured. You don't get cured. I haven't had a drink or a pill in six and a half years, which isn't to say I won't have one tomorrow.
@@ -7120,7 +7120,7 @@ sg10
 VLEO
 p1949
 sg12
-g13
+g20
 sa(dp1950
 g6
 VWhat would happen if you did?
@@ -7142,7 +7142,7 @@ sg10
 VLEO
 p1955
 sg12
-g13
+g20
 sa(dp1956
 g6
 VSo after six and a half years you're still not allowed to have a drink?
@@ -7159,23 +7159,23 @@ g6
 VThe problem is, I don't want a drink, I want ten drinks.
 p1960
 sg8
-g85
+g20
 sg10
 VLEO
 p1961
 sg12
-g13
+g20
 sa(dp1962
 g6
 VAre things that bad?
 p1963
 sg8
-g85
+g20
 sg10
 VKAREN
 p1964
 sg12
-g13
+g20
 sa(dp1965
 g6
 V[laughing slightly] No.
@@ -7197,7 +7197,7 @@ sg10
 VKAREN
 p1970
 sg12
-g13
+g20
 sa(dp1971
 g6
 V'Cause I'm an alcoholic.
@@ -7208,7 +7208,7 @@ sg10
 VLEO
 p1973
 sg12
-g13
+g20
 sa(dp1974
 g6
 VI don't understand.
@@ -7219,7 +7219,7 @@ sg10
 VKAREN
 p1976
 sg12
-g13
+g20
 sa(dp1977
 g6
 VI know. It's okay. Hardly anyone does. It's very hard to understand.
@@ -7230,7 +7230,7 @@ sg10
 VLEO
 p1979
 sg12
-g13
+g20
 sa(dp1980
 g6
 VYou're not like what I thought you would be like.
@@ -7241,7 +7241,7 @@ sg10
 VKAREN
 p1982
 sg12
-g13
+g20
 sa(dp1983
 g6
 VYou haven't answered my question yet. When you saw my personnel file, when you saw I'd been through treatment, what when through your mind?
@@ -7307,5 +7307,5 @@ sg10
 VKAREN
 p2000
 sg12
-g9
+g20
 sas.

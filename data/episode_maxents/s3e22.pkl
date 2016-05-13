@@ -68,217 +68,217 @@ sg10
 VGREG
 p25
 sg12
-g9
-sa(dp26
+S'negative'
+p26
+sa(dp27
 g6
 VFour AKAs. [reads] Yaquin Kashani, Raqim Ali, Yamin Bandari, Yawar Aryanpur.
-p27
+p28
 sg8
 g9
 sg10
 VJOAN
-p28
+p29
 sg12
-g9
-sa(dp29
+g21
+sa(dp30
 g6
 VRun them.
-p30
+p31
 sg8
 g9
 sg10
 VGREG
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 V[runs the search] I wonder if they all mean "friend of the prophet." Guess that would be silly, or at least remarkably coincidental, that the aliases would mean the same thing as the actual name. I mean, you gotta ask what good would an alias be if it... [cuts off, gestures for Greg to come closer] Greg?
-p33
+p34
 sg8
 g21
 sg10
 VJOAN
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 V[into phone] Get me the Secret Service Joint Operations' center of the White House.
-p36
+p37
 sg8
 g21
 sg10
 VGREG
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VDonna!
-p39
+p40
 sg8
 g9
 sg10
 VJOSH
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VYeah.
-p42
+p43
 sg8
 g9
 sg10
 VDONNA
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VI'm going home.
-p45
+p46
 sg8
 g9
 sg10
 VJOSH
-p46
+p47
 sg12
-g9
-sa(dp47
+g26
+sa(dp48
 g6
 VIt's only five.
-p48
+p49
 sg8
 g9
 sg10
 VDONNA
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VYeah, I know.
-p51
+p52
 sg8
 g9
 sg10
 VJOSH
-p52
+p53
 sg12
-g9
-sa(dp53
+g26
+sa(dp54
 g6
 VYou can't go yet, you have to talk to the students.
-p54
+p55
 sg8
 g21
 sg10
 VDONNA
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VWhat students?
-p57
+p58
 sg8
 g9
 sg10
 VJOSH
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VFrom Presidential Classroom?
-p60
+p61
 sg8
 g9
 sg10
 VDONNA
-p61
+p62
 sg12
-g9
-sa(dp62
+g21
+sa(dp63
 g6
 VWhat are you talking about?
-p63
+p64
 sg8
 g9
 sg10
 VJOSH
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VThey're high school kids from across the country who were accepted for... I don't know, they come to Washington for four days, they get to meet with interesting people and you're one of them.
-p66
+p67
 sg8
 g21
 sg10
 VDONNA
-p67
+p68
 sg12
 g9
-sa(dp68
+sa(dp69
 g6
 V[puts on coat] When did... When did this get on the schedule?
-p69
+p70
 sg8
 g9
 sg10
 VJOSH
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 V[comes inside] It's been there.
-p72
+p73
 sg8
 g9
 sg10
 VDONNA
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VNo, it hasn't, it just... There isn't anybody else who can do this?
-p75
+p76
 sg8
 g9
 sg10
 VJOSH
-p76
+p77
 sg12
-g9
-sa(dp77
+g26
+sa(dp78
 g6
 VIt's supposed to be you.
-p78
+p79
 sg8
 g9
 sg10
 VDONNA
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VI have to work.
-p81
+p82
 sg8
 g9
 sg10
 VJOSH
-p82
-sg12
-S'negative'
 p83
+sg12
+g26
 sa(dp84
 g6
 VYou can work in the office.
@@ -377,7 +377,7 @@ sg10
 VJOSH
 p110
 sg12
-g83
+g9
 sa(dp111
 g6
 VThey're right in the North-West lobby.
@@ -410,7 +410,7 @@ sg10
 VDONNA
 p119
 sg12
-g9
+g26
 sa(dp120
 g6
 VClassroom?
@@ -476,7 +476,7 @@ sg10
 VJOSH
 p137
 sg12
-g9
+g26
 sa(dp138
 g6
 VThey qualified with essays, recommendations, grades in history and government. It's very competitive.
@@ -487,7 +487,7 @@ sg10
 VMARJORIE
 p140
 sg12
-g9
+g21
 sa(dp141
 g6
 VAll right, I'm Josh Lyman, I'm the Deputy White House Chief of Staff, I joined the Bartlet campaign shortly before the Iowa Caucus, then served as the campaign's political director. Before that, I worked with then Senator John Hoynes for a while...
@@ -520,13 +520,13 @@ sg10
 VJOSH
 p149
 sg12
-g9
+g21
 sa(dp150
 g6
 VStation One. Code Black, crash!
 p151
 sg8
-g83
+g26
 sg10
 VGUARD
 p152
@@ -570,12 +570,12 @@ g6
 VRight in here. Just grab a seat anywhere. Right in here. This is the mess. This is where we eat lunch. We'll just... wait here.
 p163
 sg8
-g83
+g26
 sg10
 VDONNA
 p164
 sg12
-g9
+g26
 sa(dp165
 g6
 VWhat's going on?
@@ -597,7 +597,7 @@ sg10
 VDONNA
 p170
 sg12
-g9
+g26
 sa(dp171
 g6
 VWould you call Leo's office and find out what's going on, and, more important, how long it's going to be going on for?
@@ -619,7 +619,7 @@ sg10
 VDONNA
 p176
 sg12
-g83
+g26
 sa(dp177
 g6
 VYeah, I'll definitely give that a try.
@@ -630,7 +630,7 @@ sg10
 VJOSH
 p179
 sg12
-g9
+g21
 sa(dp180
 g6
 VOkay, well, uh, this is called a "crash." It means there's been some kind of security breach and no one's allowed in or out of the building.
@@ -702,12 +702,12 @@ g6
 V[with a slight hesitation] I'm Billy Fernandez.
 p199
 sg8
-g83
+g26
 sg10
 VBILLY
 p200
 sg12
-g9
+g26
 sa(dp201
 g6
 VI'll call you Fred. A little knowledge can be a dangerous thing. I don't know how long we're all going to be here, but you just made my list.
@@ -718,7 +718,7 @@ sg10
 VJOSH
 p203
 sg12
-g9
+g26
 sa(dp204
 g6
 VYes, I suppose, technically, constitutionally the Legislative Branch is the most powerful, but we get a motorcade, so back off. All right, you already know about the branches of government, I assume you know how a bill becomes a law. What do you want to talk about?
@@ -735,7 +735,7 @@ g6
 VGuys, seriously, it's nothing to worry about. We've been having these crashes once a week. Let's go. Somebody ask me something.
 p208
 sg8
-g83
+g26
 sg10
 VJOSH
 p209
@@ -746,7 +746,7 @@ g6
 VWell... it's not everybody, and they're trying to kill you, too.
 p211
 sg8
-g83
+g26
 sg10
 VJOSH
 p212
@@ -828,7 +828,7 @@ sg10
 VJOSH
 p233
 sg12
-g9
+g26
 sa(dp234
 g6
 VYes.
@@ -971,13 +971,13 @@ sg10
 VJOSH
 p272
 sg12
-g9
+g26
 sa(dp273
 g6
 VNo, not about Irving Berlin, but your ridiculous search for rational reasons why somebody straps a bomb to their chest is ridiculous.
 p274
 sg8
-g83
+g26
 sg10
 VDONNA
 p275
@@ -988,7 +988,7 @@ g6
 VYou just called me ridiculous twice in one sentence.
 p277
 sg8
-g83
+g26
 sg10
 VJOSH
 p278
@@ -1004,7 +1004,7 @@ sg10
 VDONNA
 p281
 sg12
-g9
+g26
 sa(dp282
 g6
 VAnd you just made my list.
@@ -1015,7 +1015,7 @@ sg10
 VJOSH
 p284
 sg12
-g21
+g26
 sa(dp285
 g6
 V[to the kids] Nothing happens on the list.
@@ -1109,7 +1109,7 @@ g6
 VFreddy, why don't you grab a couple of people, go to the back of the kitchen, get apples and peanut butter? Guys, I've gotten entire pieces of legislation through Congress on apples and peanut butter. I'll be back in a little bit.
 p310
 sg8
-g83
+g26
 sg10
 VJOSH
 p311
@@ -1246,7 +1246,7 @@ sg10
 VALI
 p347
 sg12
-g9
+g26
 sa(dp348
 g6
 VWhere did you go to school?
@@ -1307,7 +1307,7 @@ g6
 VNo, no. I mean everyone. You're all bothering me. I want to be left alone. Clearly, the only way that's gonna happen is to be alone. So I'm sorry, but I'm gonna have to let you all go. [pause] Except the Yankees and the Knicks... and the Yankees and the Knicks are gonna need someone to play, so keep the Red Sox and the Lakers... and the Laker girls, and The Palm, and we'll need to keep the people who work at The Palm. That's it though. The Yankees, the Red Sox, the Knicks, the Lakers, the Laker girls, and anyone who works at The Palm. Sports, Laker girls, and a well-prepared steak. That's all I need... Sometimes, I like to mix it up with Italian... and Chinese. All right, you can all stay, but don't bug me. You're on probation. Don't forget. I was this close to banishing you.
 p364
 sg8
-g83
+g26
 sg10
 VTOBY
 p365
@@ -1323,7 +1323,7 @@ sg10
 VJOSH
 p368
 sg12
-g9
+g21
 sa(dp369
 g6
 VAnd today, that message is?
@@ -1334,7 +1334,7 @@ sg10
 VTOBY
 p371
 sg12
-g9
+g21
 sa(dp372
 g6
 VThat's right.
@@ -1351,7 +1351,7 @@ g6
 VMy choice, sister. And by the way, there's nothing wrong with a religion whose laws say a man's got to wear a beard or cover his head or wear a collar. It's when violation of these laws become a crime against the State and not your parents that we're talking about lack of choice. [looks at the visual aid, reads] "Islamic Extremists is to Islamic as KKK is to Christianity." That's... that's about right. That's a good religious analogy. What's the political analogy? What's an analogy using governments?
 p376
 sg8
-g83
+g26
 sg10
 VTOBY
 p377
@@ -1362,7 +1362,7 @@ g6
 VThe Taliban is not the recognized government of Afghanistan. The Taliban took over the recognized government of Afghanistan. And there's your political analogy.
 p379
 sg8
-g83
+g26
 sg10
 VTOBY
 p380
@@ -1389,7 +1389,7 @@ sg10
 VJOSH
 p386
 sg12
-g9
+g26
 sa(dp387
 g6
 VIt's worth covering twice, don't you agree?
@@ -1400,7 +1400,7 @@ sg10
 VTOBY
 p389
 sg12
-g9
+g21
 sa(dp390
 g6
 VI do.
@@ -1411,7 +1411,7 @@ sg10
 VJOSH
 p392
 sg12
-g9
+g26
 sa(dp393
 g6
 VYeah.
@@ -1461,7 +1461,7 @@ g6
 V[to Josh] What was the first act of terrorism?
 p406
 sg8
-g83
+g26
 sg10
 VTOBY
 p407
@@ -1494,7 +1494,7 @@ g6
 VAh, temptation. I have named thee, and thy name is woman.
 p415
 sg8
-g83
+g26
 sg10
 VSAM
 p416
@@ -1505,12 +1505,12 @@ g6
 VThis is Sam Seaborn, Deputy Communications Director. Now, don't be frightened when I tell you that in this room, Sam is the knowledgeable terrorism expert. The good news is in this government, we have some extremely knowledgeable terrorism experts.
 p418
 sg8
-g83
+g26
 sg10
 VJOSH
 p419
 sg12
-g9
+g26
 sa(dp420
 g6
 VI heard I was needed, I came.
@@ -1560,7 +1560,7 @@ g6
 VBy the way, the Arabic name for their secret order has survived until today. Can anybody guess what it was? Their Arabic name. [points to a boy] You know.
 p433
 sg8
-g83
+g26
 sg10
 VSAM
 p434
@@ -1587,7 +1587,7 @@ sg10
 VJOSH
 p440
 sg12
-g9
+g26
 sa(dp441
 g6
 V[to Sam] What's going on?
@@ -1631,18 +1631,18 @@ sg10
 VSAM
 p452
 sg12
-g9
+g26
 sa(dp453
 g6
 VIt's 100% failure rate.
 p454
 sg8
-g83
+g26
 sg10
 VSAM
 p455
 sg12
-g9
+g26
 sa(dp456
 g6
 VNot only do terrorists always fail at what they're after, they pretty much always succeed in strengthening whatever it is they're against.
@@ -1659,7 +1659,7 @@ g6
 VThe Brits are still there. The Protestants are still there. Basque extremists have been staging terrorist attacks in Spain for decades with no result. Left Wing Red Brigades from the 60s and 70s, from the Bader-Meinhoff gang in Germany to the Weatherman in the U.S. have tried to take over capitalism. You tell me. How's capitalism doing?
 p460
 sg8
-g83
+g26
 sg10
 VSAM
 p461
@@ -1703,7 +1703,7 @@ g6
 VNobody got hurt at the Boston Tea Party. The only people that got hurs was some fancy boys who didn't have anything to wash down their crumpets with. We jumped out from behind bushes, while the British came down the road in their bright red jackets, but never has a war been so courteously declared. It was on parchment with calligraphy and "Your highness, we beseech you on this day in Philadelphia to bite me, if you please."
 p472
 sg8
-g83
+g26
 sg10
 VSAM
 p473
@@ -1796,7 +1796,7 @@ sg10
 VLEO
 p497
 sg12
-g9
+g21
 sa(dp498
 g6
 VMy father works for the phone company.
@@ -1862,7 +1862,7 @@ sg10
 VLEO
 p515
 sg12
-g9
+g26
 sa(dp516
 g6
 VWell, my interests shifted, I became interested in policy.
@@ -1895,7 +1895,7 @@ sg10
 VALI
 p524
 sg12
-g9
+g26
 sa(dp525
 g6
 VAnd those cryptographers are the ones who, on a daily basis, code and decode messages sent between the White House, the State Department and the Pentagon.
@@ -1961,7 +1961,7 @@ sg10
 VALI
 p542
 sg12
-g9
+g26
 sa(dp543
 g6
 VNo, no, no, no. You walked into quicksand.
@@ -1972,7 +1972,7 @@ sg10
 VJOSH
 p545
 sg12
-g9
+g26
 sa(dp546
 g6
 VYou don't talk to C.J. about the CIA.
@@ -1994,7 +1994,7 @@ sg10
 VSAM
 p551
 sg12
-g9
+g26
 sa(dp552
 g6
 VC.J. has a bizarre affection for the intelligence community that we just don't...
@@ -2016,7 +2016,7 @@ sg10
 VC.J.
 p557
 sg12
-g9
+g21
 sa(dp558
 g6
 VOkay.
@@ -2082,7 +2082,7 @@ sg10
 VC.J.
 p575
 sg12
-g9
+g21
 sa(dp576
 g6
 VC.J. Cregg, ladies and gentlemen.
@@ -2110,7 +2110,7 @@ g6
 VWhat about illegal searches? What about profiling? Do you know what Benjamin Franklin said?
 p583
 sg8
-g83
+g26
 sg10
 VTOBY
 p584
@@ -2170,7 +2170,7 @@ sg10
 VJOSH
 p599
 sg12
-g9
+g26
 sa(dp600
 g6
 VWell, I don't think we're talking a little temporary safety and it's not like we need to search high and low for clear and present danger.
@@ -2187,7 +2187,7 @@ g6
 VWell, what would you say the point of fighting terrorism is?
 p604
 sg8
-g83
+g26
 sg10
 VTOBY
 p605
@@ -2209,7 +2209,7 @@ g6
 VI think you do cause during times of great crisis and threat, America has used Draconian measures before and I think maybe you've forgotten just how affective they've been. Can you name some?
 p610
 sg8
-g83
+g26
 sg10
 VTOBY
 p611
@@ -2280,7 +2280,7 @@ sg10
 VALI
 p629
 sg12
-g9
+g21
 sa(dp630
 g6
 VYou were arrested for holding a rally without a permit.
@@ -2302,7 +2302,7 @@ sg10
 VALI
 p635
 sg12
-g9
+g26
 sa(dp636
 g6
 VWhat were you protesting.
@@ -2357,7 +2357,7 @@ sg10
 VLEO
 p650
 sg12
-g9
+g26
 sa(dp651
 g6
 VMister...
@@ -2374,7 +2374,7 @@ g6
 VWe sent our troops down there to make sure our friends didn't cross the Kuwaiti border and seize Saudi territory.
 p655
 sg8
-g83
+g26
 sg10
 VLEO
 p656
@@ -2429,12 +2429,12 @@ g6
 V[stares at Leo in anger and disbelief] Anyway, that's what I was protesting.
 p670
 sg8
-g83
+g26
 sg10
 VALI
 p671
 sg12
-g9
+g26
 sa(dp672
 g6
 VYou went to Edison High School in Patterson, correct?
@@ -2462,7 +2462,7 @@ g6
 VOn December 3, 1994, someone called in a bomb threat to the school.
 p679
 sg8
-g83
+g26
 sg10
 VAGENT
 p680
@@ -2473,7 +2473,7 @@ g6
 VYeah, I remember that there were bomb threats. I remember that there were more than one, but I don't remember the exact dates.
 p682
 sg8
-g83
+g26
 sg10
 VALI
 p683
@@ -2489,7 +2489,7 @@ sg10
 VAGENT
 p686
 sg12
-g9
+g21
 sa(dp687
 g6
 VYeah, it's on my school transcript 'cause I wasn't arrested.
@@ -2500,7 +2500,7 @@ sg10
 VALI
 p689
 sg12
-g9
+g26
 sa(dp690
 g6
 VSo what did they ask you?
@@ -2517,12 +2517,12 @@ g6
 VThey asked if I called in a bomb threat, which I didn't.
 p694
 sg8
-g83
+g26
 sg10
 VALI
 p695
 sg12
-g9
+g26
 sa(dp696
 g6
 VDo you know who did?
@@ -2577,7 +2577,7 @@ sg10
 VLEO
 p710
 sg12
-g9
+g26
 sa(dp711
 g6
 VLook...
@@ -2594,18 +2594,18 @@ g6
 VNo, I'm trying to figure out why anytime there's any terrorist activity, people always assume its Arabs. I'm racking my brain.
 p715
 sg8
-g83
+g26
 sg10
 VLEO
 p716
 sg12
-g9
+g26
 sa(dp717
 g6
 VI don't know the answer to that, Mr. McGarry, but I can tell you it's horrible.
 p718
 sg8
-g83
+g26
 sg10
 VALI
 p719
@@ -2621,13 +2621,13 @@ sg10
 VLEO
 p722
 sg12
-g9
+g21
 sa(dp723
 g6
 V(angry) Excuse me? The price for what?
 p724
 sg8
-g83
+g26
 sg10
 VALI
 p725
@@ -2660,12 +2660,12 @@ g6
 VThat's a hell of an example, C.J.
 p733
 sg8
-g83
+g26
 sg10
 VJOSH
 p734
 sg12
-g9
+g21
 sa(dp735
 g6
 VShouldn't you be finding ways to provide aid and comfort for our boys in intelligence?
@@ -2682,7 +2682,7 @@ g6
 VYou know, they may need some comforting right now. When this crash is over, you'd best get in some fishnets and head to a bar.
 p739
 sg8
-g83
+g26
 sg10
 VJOSH
 p740
@@ -2726,7 +2726,7 @@ g6
 VEverywhere. Mostly they come from exactly where you'd expect: places of abject poverty and despair. Horribly impoverished places are an incubator for the worst kind of crime.
 p751
 sg8
-g83
+g26
 sg10
 VSAM
 p752
@@ -2797,13 +2797,13 @@ sg10
 VMARJORIE
 p770
 sg12
-g9
+g26
 sa(dp771
 g6
 V[to C.J.] What the hell's going on?
 p772
 sg8
-g83
+g26
 sg10
 VBARTLET
 p773
@@ -2863,7 +2863,7 @@ sg10
 VBARTLET
 p788
 sg12
-g9
+g26
 sa(dp789
 g6
 VWe're out of apples, sir.
@@ -2940,13 +2940,13 @@ sg10
 VBARTLET
 p809
 sg12
-g9
+g26
 sa(dp810
 g6
 V[pauses, considers the question] A martyr would rather suffer death at the hands of an oppressor than renounce his beliefs. Killing yourself and innocent people to make a point is sick, twisted, brutal, dumb-ass murder. And let me leave you with this thought before I go searching for the apples that were rightfully mine: we don't need martyrs right now. We need heroes. A hero would die for his country but he'd much rather live for it... It was good meeting you all.
 p811
 sg8
-g83
+g26
 sg10
 VBARTLET
 p812
@@ -2962,7 +2962,7 @@ sg10
 VC.J.
 p815
 sg12
-g21
+g9
 sa(dp816
 g6
 VThank you, sir.
@@ -3105,7 +3105,7 @@ sg10
 VSTUDENT
 p854
 sg12
-g83
+g26
 sa(dp855
 g6
 VSarah... God said to Abraham, "Look toward the heaven and number the stars and so shall your descendants be." But Abraham's wife, Sarah, wasn't getting any younger, and God wasn't coming through on His promise... I was very young when I had my kids. I was very, very, very, very young. I was barely even born yet when I had my oldest daughter, Elizabeth.
@@ -3160,7 +3160,7 @@ sg10
 VDONNA
 p869
 sg12
-g9
+g26
 sa(dp870
 g6
 VWell, that's that then. It was good talking with you guys. Hang in there.
@@ -3210,7 +3210,7 @@ g6
 VDo you favor the death penalty?
 p883
 sg8
-g83
+g26
 sg10
 VSTUDENT
 p884
@@ -3232,7 +3232,7 @@ g6
 VBut you think we should kill these people?
 p889
 sg8
-g83
+g26
 sg10
 VSTUDENT
 p890
@@ -3243,7 +3243,7 @@ g6
 VYou don't have the choices in a war that you do in a jury room. But I - I - I wish... wish we didn't have to. I think death is too simple.
 p892
 sg8
-g83
+g26
 sg10
 VJOSH
 p893
@@ -3265,7 +3265,7 @@ g6
 VI'd put 'em in a small cell, and make them watch home movies of the birthdays and baptisms and weddings of every single person they killed, over and over, every day, for the rest of their lives. [clears his throat] And then they'd get punched in the mouth every night at bedtime. By a different person, every night. There'd be a long list of volunteers, but that's all right. We'll wait...But listen, don't worry about all this right now. We got your covered. Worry about school. Worry about what you're gonna tell your parents when you break curfew. You're gonna meet guys, you're gonna meet girls... [looks at Billy] Not so much you, Fred.
 p898
 sg8
-g83
+g26
 sg10
 VJOSH
 p899
@@ -3276,7 +3276,7 @@ g6
 VLearn things. Be good to each other. Read the newspapers, go the movies, go to a party. Read a book. In the meantime, remember pluralism. You want to get these people? I mean, you really want to reach in and kill them where they live? Keep accepting more than one idea. Makes 'em absolutely crazy.
 p901
 sg8
-g83
+g26
 sg10
 VJOSH
 p902
@@ -3303,7 +3303,7 @@ sg10
 VJOSH
 p908
 sg12
-g9
+g21
 sa(dp909
 g6
 VThank you.
@@ -3342,12 +3342,12 @@ g6
 VBilly. [gestures for him to wait] Listen...
 p919
 sg8
-g83
+g26
 sg10
 VJOSH
 p920
 sg12
-g9
+g26
 sa(dp921
 g6
 VNothing, just...just keep doing what you're doing.
@@ -3358,7 +3358,7 @@ sg10
 VJOSH
 p923
 sg12
-g9
+g26
 sa(dp924
 g6
 V[almost whispering] Okay.
@@ -3380,7 +3380,7 @@ sg10
 VJOSH
 p929
 sg12
-g21
+g9
 sa(dp930
 g6
 VBye.
@@ -3430,7 +3430,7 @@ g6
 VI'm sorry about that. Also about the crack I made about teaching Muslim women how to drive.
 p943
 sg8
-g83
+g26
 sg10
 VLEO
 p944

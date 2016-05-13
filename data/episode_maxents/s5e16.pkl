@@ -68,14 +68,14 @@ sg10
 VFOY
 p25
 sg12
-g13
-sa(dp26
+S'negative'
+p26
+sa(dp27
 g6
 VThe congressman is especially impressed with your work on, wait, I have it right here, "the Human Papilloma Virus in Commercial Sex Workers in San Juan, Puerto Rico."
-p27
-sg8
-S'negative'
 p28
+sg8
+g26
 sg10
 VMAN
 p29
@@ -102,7 +102,7 @@ sg10
 VFOY
 p35
 sg12
-g13
+g26
 sa(dp36
 g6
 VEllie, he needs you.
@@ -113,7 +113,7 @@ sg10
 VTECHNICIAN
 p38
 sg12
-g13
+g9
 sa(dp39
 g6
 VCan you confirm your home address?
@@ -135,7 +135,7 @@ sg10
 VFOY
 p44
 sg12
-g13
+g9
 sa(dp45
 g6
 VThe address we have is 536 Washburn Lane. Are you a registered voter, sir? Our records indicate you're a registered Democrat.
@@ -157,7 +157,7 @@ sg10
 VFOY
 p50
 sg12
-g13
+g26
 sa(dp51
 g6
 VCan you tell me who you voted for?
@@ -229,7 +229,7 @@ g6
 VShe's so sensitive. You know she'd freak if anyone even hints at nepotism.
 p70
 sg8
-g28
+g26
 sg10
 VC.J.
 p71
@@ -240,23 +240,23 @@ g6
 VTell me this is nothing to worry about.
 p73
 sg8
-g28
+g26
 sg10
 VC.J.
 p74
 sg12
-g13
+g26
 sa(dp75
 g6
 VThis is nothing to worry about.
 p76
 sg8
-g28
+g26
 sg10
 VTOBY
 p77
 sg12
-g13
+g26
 sa(dp78
 g6
 VToby.
@@ -278,7 +278,7 @@ sg10
 VTOBY
 p83
 sg12
-g13
+g26
 sa(dp84
 g6
 VBentley.
@@ -322,7 +322,7 @@ sg10
 VC.J.
 p95
 sg12
-g13
+g9
 sa(dp96
 g6
 VThose would have to be some pretty hideous painter's pants.
@@ -350,12 +350,12 @@ g6
 VNow that I've slept on it I think it's worse.
 p103
 sg8
-g28
+g26
 sg10
 VTOBY
 p104
 sg12
-g13
+g26
 sa(dp105
 g6
 VWhen they were in the Governor's mansion, Ellie got $5 allowance for doing a boat-load of chores. The President isn't steering money to his daughter.
@@ -372,12 +372,12 @@ g6
 VNot the President. Us. Some overeager NIH lackey trying to curry favor and this whole conversation might be a little bit easier were I not fighting my way through a cloud of Obsession.
 p109
 sg8
-g28
+g26
 sg10
 VTOBY
 p110
 sg12
-g13
+g26
 sa(dp111
 g6
 VThere's no cloud.
@@ -388,7 +388,7 @@ sg10
 VC.J.
 p113
 sg12
-g13
+g26
 sa(dp114
 g6
 VIt's about to precipitate out. It's about to rain Obsession.
@@ -410,13 +410,13 @@ sg10
 VC.J.
 p119
 sg12
-g13
+g9
 sa(dp120
 g6
 VI'll get a breakdown of Foy's research funding.
 p121
 sg8
-g28
+g26
 sg10
 VTOBY
 p122
@@ -460,7 +460,7 @@ g6
 VIt's not about you. I'll do pretty much anything to avoid using the words "Mr. President" and "your daughter" in the same sentence.
 p133
 sg8
-g28
+g26
 sg10
 VTOBY
 p134
@@ -493,7 +493,7 @@ g6
 VYou still smarting I had to carry your ass through con law?
 p142
 sg8
-g28
+g26
 sg10
 VHAYDEN
 p143
@@ -531,7 +531,7 @@ sg10
 VJOSH
 p152
 sg12
-g13
+g26
 sa(dp153
 g6
 VI mean, not that well. How is your lovely wife?
@@ -553,7 +553,7 @@ sg10
 VHAYDEN
 p158
 sg12
-g13
+g9
 sa(dp159
 g6
 VSo, Georgetown offered me dean of the law school.
@@ -592,7 +592,7 @@ g6
 VYou knew the confirmation process would be an uphill battle.
 p169
 sg8
-g28
+g26
 sg10
 VJOSH
 p170
@@ -652,7 +652,7 @@ sg10
 VHAYDEN
 p185
 sg12
-g28
+g26
 sa(dp186
 g6
 VWhen does Georgetown...
@@ -674,7 +674,7 @@ sg10
 VHAYDEN
 p191
 sg12
-g28
+g26
 sa(dp192
 g6
 VWhen do they need to know?
@@ -707,7 +707,7 @@ sg10
 VJOSH
 p200
 sg12
-g13
+g26
 sa(dp201
 g6
 VTo do what?
@@ -740,7 +740,7 @@ sg10
 VRENA
 p209
 sg12
-g13
+g26
 sa(dp210
 g6
 VYou told Congressman Bentley the White House was calling? Toby Ziegler from the White House?
@@ -790,7 +790,7 @@ g6
 VShe was working at the clinic. And she sent a proxy, but Chairwoman Dorothea Langston Lodge is hopping mad and threatening to go to the press.
 p223
 sg8
-g28
+g26
 sg10
 VLEO
 p224
@@ -801,7 +801,7 @@ g6
 VHopping mad she had to go the Board of Regent's meeting.
 p226
 sg8
-g28
+g26
 sg10
 VC.J.
 p227
@@ -812,7 +812,7 @@ g6
 VWe've got an image problem. The stories aren't dying down. The press doesn't know what to do with the First Lady. Nobody does, including the President, which is why he'd like you to sit down with her.
 p229
 sg8
-g28
+g26
 sg10
 VLEO
 p230
@@ -828,7 +828,7 @@ sg10
 VC.J.
 p233
 sg12
-g13
+g9
 sa(dp234
 g6
 VShe's in the Mural Room.
@@ -845,12 +845,12 @@ g6
 VNow? I have a... had a lunch. I'm just going to go cancel it.
 p238
 sg8
-g28
+g26
 sg10
 VC.J.
 p239
 sg12
-g13
+g26
 sa(dp240
 g6
 VAre you wearing White Shoulders? My piano teacher used to wear White Shoulders.
@@ -872,7 +872,7 @@ sg10
 VLEO
 p245
 sg12
-g13
+g26
 sa(dp246
 g6
 VHi.
@@ -927,7 +927,7 @@ sg10
 VC.J.
 p260
 sg12
-g13
+g26
 sa(dp261
 g6
 VWhat?
@@ -949,7 +949,7 @@ sg10
 VC.J.
 p266
 sg12
-g13
+g26
 sa(dp267
 g6
 VI got to go. Call me later.
@@ -1004,7 +1004,7 @@ sg10
 VDONNA
 p281
 sg12
-g13
+g26
 sa(dp282
 g6
 VWho's Rodney?
@@ -1065,7 +1065,7 @@ g6
 VHe's never late. He walks in like he's late, but he's not.
 p298
 sg8
-g28
+g26
 sg10
 VDONNA
 p299
@@ -1158,7 +1158,7 @@ sg10
 VABBEY
 p323
 sg12
-g13
+g9
 sa(dp324
 g6
 VIs there any particular...
@@ -1290,7 +1290,7 @@ sg10
 VABBEY
 p359
 sg12
-g13
+g26
 sa(dp360
 g6
 VWhy should you? Only five people are watching and it's the toughest interview on the planet. I want you on the Surgery channel, women's health magazines, the Today Show. Mrs. Russell's ratings bumped considerably when she did her cooking segment. Her chili was so good they're having her back for Christmas.
@@ -1323,7 +1323,7 @@ sg10
 VC.J.
 p368
 sg12
-g13
+g9
 sa(dp369
 g6
 VMuppets.
@@ -1378,7 +1378,7 @@ sg10
 VLEO
 p383
 sg12
-g13
+g26
 sa(dp384
 g6
 VBecause the Republican's have been holding up our nominations in committee.
@@ -1400,7 +1400,7 @@ sg10
 VLEO
 p389
 sg12
-g13
+g26
 sa(dp390
 g6
 VAt least four of those nominees, including Hayden, would be confirmed in a straight up or down vote if they got out of committee and onto the Senate floor. Meanwhile, over in the judicial branch, the seven remaining judges on the Sixth Circuit are completely overworked, and the number of cases keeps growing. If Hayden withdraws...
@@ -1417,7 +1417,7 @@ g6
 VYou want to make him the "Justice Held Hostage" poster boy?
 p394
 sg8
-g28
+g26
 sg10
 VLEO
 p395
@@ -1466,13 +1466,13 @@ sg10
 VLEO
 p407
 sg12
-g13
+g9
 sa(dp408
 g6
 VEric Hayden and the eight empty seats epitomize the problem. You don't think it's time to do something?
 p409
 sg8
-g28
+g26
 sg10
 VJOSH
 p410
@@ -1642,7 +1642,7 @@ sg10
 VLAYTON
 p455
 sg12
-g28
+g26
 sa(dp456
 g6
 VC.J., it's Toby.
@@ -1653,7 +1653,7 @@ sg10
 VCAROL
 p458
 sg12
-g13
+g9
 sa(dp459
 g6
 VTell him I'm already watching.
@@ -1664,7 +1664,7 @@ sg10
 VC.J.
 p461
 sg12
-g13
+g26
 sa(dp462
 g6
 VDr. Gloria Buezo, $1,788,000. Dr. Lewis Foy...
@@ -1675,7 +1675,7 @@ sg10
 VLAYTON
 p464
 sg12
-g13
+g9
 sa(dp465
 g6
 VDamn it.
@@ -1686,13 +1686,13 @@ sg10
 VC.J.
 p467
 sg12
-g13
+g26
 sa(dp468
 g6
 VShe has a list. She made a list. Didn't lists go out with Joe McCarthy and hula-hoops? And haven't these 255 scientists had to go through a rigorous review process before getting a dollar?
 p469
 sg8
-g28
+g26
 sg10
 VC.J.
 p470
@@ -1719,7 +1719,7 @@ sg10
 VC.J.
 p476
 sg12
-g13
+g26
 sa(dp477
 g6
 VShe didn't have an opinion on artistic expression then and she helped dismantle the NEA.
@@ -1747,7 +1747,7 @@ g6
 VWe might want the fight. We've just got to find out what it is first. [louder] Rena, get me a copy of that list.
 p484
 sg8
-g28
+g26
 sg10
 VTOBY
 p485
@@ -1763,7 +1763,7 @@ sg10
 VRENA
 p488
 sg12
-g28
+g26
 sa(dp489
 g6
 VFind out everything you can about the projects and the investigators. How the list was put together.
@@ -1807,18 +1807,18 @@ sg10
 VC.J.
 p500
 sg12
-g9
+g13
 sa(dp501
 g6
 VYeah. We can't put our pieces on the board until we know what game we're playing. Just don't do anything. Just don't say anything. We can't... we don't want Ellie's name spilling out because we pressed the wrong button.
 p502
 sg8
-g28
+g26
 sg10
 VTOBY
 p503
 sg12
-g13
+g26
 sa(dp504
 g6
 VIf we don't respond, it'll look like we have no response. I'm going to need a party line.
@@ -1851,7 +1851,7 @@ sg10
 VLEO
 p512
 sg12
-g13
+g26
 sa(dp513
 g6
 VThey haven't involved Ellie yet.
@@ -1983,7 +1983,7 @@ sg10
 VDEBBIE
 p548
 sg12
-g13
+g26
 sa(dp549
 g6
 VYes, Debbie. The Muppets are coming to our very own White House.
@@ -2027,7 +2027,7 @@ sg10
 VABBEY
 p560
 sg12
-g13
+g26
 sa(dp561
 g6
 VI'm crazy for Muppets. I'm just trying to act cool.
@@ -2038,7 +2038,7 @@ sg10
 VCHARLIE
 p563
 sg12
-g13
+g26
 sa(dp564
 g6
 VMa'am, will Fozzie Bear be in the house?
@@ -2055,7 +2055,7 @@ g6
 VInterestingly, Fozzie and Miss Piggy aren't actually a part of the Sesame Street gang. They're from The Muppet Show.
 p568
 sg8
-g28
+g26
 sg10
 VABBEY
 p569
@@ -2126,7 +2126,7 @@ sg10
 VJOSH
 p587
 sg12
-g13
+g26
 sa(dp588
 g6
 VBecause of Eric Hayden.
@@ -2137,7 +2137,7 @@ sg10
 VDONNA
 p590
 sg12
-g13
+g9
 sa(dp591
 g6
 VBecause of Eric Hayden, because the Sixth Circuit's in crisis, because the judicial nomination process is a complete mess.
@@ -2159,7 +2159,7 @@ sg10
 VDONNA
 p596
 sg12
-g13
+g9
 sa(dp597
 g6
 VHe didn't steal my girlfriend. I thought Pam was cute, but when I saw she had eyes for Hayden I bowed out like a gentleman. Also, there's nothing I take more seriously than getting judges on the federal bench.
@@ -2187,7 +2187,7 @@ g6
 VYou see, this is the problem. It's all about the Supreme Court. Nine guys getting all the ink.
 p604
 sg8
-g28
+g26
 sg10
 VJOSH
 p605
@@ -2225,7 +2225,7 @@ sg10
 VDONNA
 p614
 sg12
-g13
+g9
 sa(dp615
 g6
 VWhat do C.J. and Big Bird have in common?
@@ -2269,7 +2269,7 @@ sg10
 VC.J.
 p626
 sg12
-g13
+g26
 sa(dp627
 g6
 VOh. Maybe. Is this Layton thing going to stick?
@@ -2319,7 +2319,7 @@ g6
 VDo you want insight into Layton? Toby's tangled with her.
 p640
 sg8
-g28
+g26
 sg10
 VC.J.
 p641
@@ -2335,7 +2335,7 @@ sg10
 VWILL
 p644
 sg12
-g13
+g26
 sa(dp645
 g6
 VHello, Lisa. Let's talk about the Sixth Circuit.
@@ -2379,7 +2379,7 @@ sg10
 VWOLFE
 p656
 sg12
-g13
+g26
 sa(dp657
 g6
 VReally? Seems like Eric Hayden's good for 53 "yea" votes on the Senate floor.
@@ -2423,7 +2423,7 @@ sg10
 VWOLFE
 p668
 sg12
-g28
+g26
 sa(dp669
 g6
 VSurprised me. And I've got a feeling the American public's going to be shocked when they hear what the committee's doing to the Sixth Circuit.
@@ -2473,12 +2473,12 @@ g6
 VThe court just made sodomy laws unconstitutional.
 p682
 sg8
-g28
+g26
 sg10
 VJOSH
 p683
 sg12
-g13
+g26
 sa(dp684
 g6
 VYes. Let me tell you, our base was thrilled with that decision.
@@ -2566,7 +2566,7 @@ sg10
 VJOSH
 p707
 sg12
-g13
+g9
 sa(dp708
 g6
 VThey're going to have to fill some of those seats eventually.
@@ -2588,7 +2588,7 @@ sg10
 VWOLFE
 p713
 sg12
-g13
+g26
 sa(dp714
 g6
 VThey can't hold out forever.
@@ -2599,7 +2599,7 @@ sg10
 VJOSH
 p716
 sg12
-g13
+g26
 sa(dp717
 g6
 VThey can hold out for three years.
@@ -2649,7 +2649,7 @@ g6
 V120 vacant seats. 120 empty robes during the last Republican presidency. Didn't hear Governor Bartlet complaining then. Do you think I like this? Do you think I think this is the way our government should function? I'm a Republican and I've spent every day of the past five years wondering whether judges shouldn't be appointed by executive decree. It's a political process. You want to fill the Sixth Circuit you've got to send us someone we can confirm.
 p730
 sg8
-g28
+g26
 sg10
 VWOLFE
 p731
@@ -2737,7 +2737,7 @@ g6
 VI'm sorry, so, I'm supposed to raise my kid on $650 a week and shell out for research of safe injection practices among heroin users?
 p754
 sg8
-g28
+g26
 sg10
 VRENA
 p755
@@ -2764,7 +2764,7 @@ sg10
 VRENA
 p761
 sg12
-g28
+g13
 sa(dp762
 g6
 VThe Traditional Values Alliance?
@@ -2786,7 +2786,7 @@ sg10
 VRENA
 p767
 sg12
-g13
+g9
 sa(dp768
 g6
 VYeah. Some 50,000 of them. It's the same list. Get me Mack McCall from the Traditional Values Alliance on the phone, now.
@@ -2951,7 +2951,7 @@ sg10
 VJOSH
 p812
 sg12
-g13
+g26
 sa(dp813
 g6
 VEarl Warren approved?
@@ -2973,7 +2973,7 @@ sg10
 VJOSH
 p818
 sg12
-g9
+g13
 sa(dp819
 g6
 VI'll run it up the flagpole.
@@ -3138,7 +3138,7 @@ sg10
 VABBEY
 p863
 sg12
-g13
+g26
 sa(dp864
 g6
 VBen Dryer, ma'am.
@@ -3177,7 +3177,7 @@ g6
 VWould you excuse us a moment?
 p874
 sg8
-g28
+g26
 sg10
 VC.J.
 p875
@@ -3193,7 +3193,7 @@ sg10
 VABBEY
 p878
 sg12
-g13
+g9
 sa(dp879
 g6
 VWhatever this is, it isn't a good time.
@@ -3237,7 +3237,7 @@ sg10
 VC.J.
 p890
 sg12
-g13
+g26
 sa(dp891
 g6
 VYeah.
@@ -3259,7 +3259,7 @@ sg10
 VTOBY
 p896
 sg12
-g13
+g26
 sa(dp897
 g6
 VI just got off the phone with Mack McCall of the Traditional Values Alliance. The $2 million earmarked for AIDS research is actually a "pseudo-scientific slush-fund for the President's daughter."
@@ -3281,7 +3281,7 @@ sg10
 VC.J.
 p902
 sg12
-g13
+g9
 sa(dp903
 g6
 VWith a press conference that's gonna get coverage on national TV.
@@ -3292,7 +3292,7 @@ sg10
 VTOBY
 p905
 sg12
-g13
+g26
 sa(dp906
 g6
 VOh, my God.
@@ -3347,7 +3347,7 @@ sg10
 VC.J.
 p920
 sg12
-g13
+g26
 sa(dp921
 g6
 VC.J.?
@@ -3391,7 +3391,7 @@ sg10
 VJOSH
 p932
 sg12
-g13
+g9
 sa(dp933
 g6
 VThe Secret Service was right there.
@@ -3413,18 +3413,18 @@ sg10
 VC.J.
 p938
 sg12
-g13
+g26
 sa(dp939
 g6
 VI'd yell, too.
 p940
 sg8
-g28
+g26
 sg10
 VTOBY
 p941
 sg12
-g13
+g26
 sa(dp942
 g6
 VHow can the Traditional Values Alliance link AIDS money to what Ellie does? Aren't AIDS and HPV different areas of research?
@@ -3446,18 +3446,18 @@ sg10
 VC.J.
 p947
 sg12
-g13
+g9
 sa(dp948
 g6
 VHPV is a sexually transmitted virus that's been linked to cervical cancer.
 p949
 sg8
-g28
+g26
 sg10
 VDEBBIE
 p950
 sg12
-g13
+g26
 sa(dp951
 g6
 VCome on.
@@ -3523,18 +3523,18 @@ sg10
 VC.J.
 p968
 sg12
-g13
+g26
 sa(dp969
 g6
 VWe have to fight back.
 p970
 sg8
-g28
+g26
 sg10
 VJOSH
 p971
 sg12
-g28
+g26
 sa(dp972
 g6
 VI'm not saying we shouldn't.
@@ -3595,12 +3595,12 @@ g6
 VSir, I can only imagine how angry you must be.
 p988
 sg8
-g28
+g26
 sg10
 VC.J.
 p989
 sg12
-g13
+g26
 sa(dp990
 g6
 VDamn it! Ellie's never sought or accepted public office! She's not running that lab, She's a research fellow! They can take all the shots they want at me, but these people have to understand when they attack my family, there's going to be consequences.
@@ -3617,7 +3617,7 @@ g6
 VSir, if we punish the Congresswoman or the press, we make it more of a story.
 p994
 sg8
-g28
+g26
 sg10
 VJOSH
 p995
@@ -3628,12 +3628,12 @@ g6
 VI think we can discredit Layton.
 p997
 sg8
-g28
+g26
 sg10
 VTOBY
 p998
 sg12
-g13
+g26
 sa(dp999
 g6
 VHow's that?
@@ -3644,7 +3644,7 @@ sg10
 VLEO
 p1001
 sg12
-g13
+g9
 sa(dp1002
 g6
 VShe got her hit list from a political action group whose other website is "TheLordhateshomos.org."
@@ -3688,18 +3688,18 @@ sg10
 VTOBY
 p1013
 sg12
-g13
+g26
 sa(dp1014
 g6
 VNo, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.
 p1015
 sg8
-g28
+g26
 sg10
 VC.J.
 p1016
 sg12
-g13
+g26
 sa(dp1017
 g6
 VWhat happened with Ben?
@@ -3716,12 +3716,12 @@ g6
 VI wrecked it.
 p1021
 sg8
-g28
+g26
 sg10
 VC.J.
 p1022
 sg12
-g13
+g26
 sa(dp1023
 g6
 VWow. Is that a record?
@@ -3908,7 +3908,7 @@ sg10
 VJOSH
 p1073
 sg12
-g13
+g26
 sa(dp1074
 g6
 VI didn't expect you would.
@@ -3941,7 +3941,7 @@ sg10
 VHAYDEN
 p1082
 sg12
-g13
+g9
 sa(dp1083
 g6
 VYou and the other seven nominees to the Sixth Circuit. It'll be bumpy, but once the public sees your credentials, we're confident that...
@@ -3969,23 +3969,23 @@ g6
 VNo. I mean, I'm sure it can't hurt, but that's...
 p1090
 sg8
-g28
+g26
 sg10
 VJOSH
 p1091
 sg12
-g13
+g26
 sa(dp1092
 g6
 VI can't be your martyr, Josh.
 p1093
 sg8
-g28
+g26
 sg10
 VHAYDEN
 p1094
 sg12
-g13
+g26
 sa(dp1095
 g6
 VI'm not asking.
@@ -3996,13 +3996,13 @@ sg10
 VJOSH
 p1097
 sg12
-g13
+g26
 sa(dp1098
 g6
 VThey didn't confirm me now, they're sure as hell not going to confirm me nine months from now. You think Georgetown's just going to wait around? I've got two kids, a wife, a mortgage.
 p1099
 sg8
-g28
+g26
 sg10
 VHAYDEN
 p1100
@@ -4018,13 +4018,13 @@ sg10
 VJOSH
 p1103
 sg12
-g13
+g26
 sa(dp1104
 g6
 VYou're trying to win. In my first semester at Harvard, one of my students helped 30 retired steelworkers file a class-action suit, an action under ERISA. They were old men, just struggling to get by because the mill refused to award them their federally guaranteed pension. So six years later, ten of the plaintiffs have passed on and the court still hasn't gotten to their case. You throw dirt at them. They throw dirt at you. It's never going to stop!
 p1105
 sg8
-g28
+g26
 sg10
 VHAYDEN
 p1106
@@ -4035,7 +4035,7 @@ g6
 VSo you're just going to hide at Georgetown and complain about it? Let's do something! We're firing a shot here. Maybe we won't win the war, but come on, Hayden, you are one of the brightest guys I have ever known. You got nine months. Let's show 'em what you can do.
 p1108
 sg8
-g28
+g26
 sg10
 VJOSH
 p1109
@@ -4095,7 +4095,7 @@ sg10
 VBARTLET
 p1124
 sg12
-g13
+g26
 sa(dp1125
 g6
 VYeah, well, if I'd known I was going to be on TV I would have blow-dried.
@@ -4106,13 +4106,13 @@ sg10
 VELLIE
 p1127
 sg12
-g13
+g26
 sa(dp1128
 g6
 VThere's always been tension between science and policy. You know, we used to terrible things to you people because we were never ready to hear what you had to say. I know of one guy they were ready to carve up with instruments of torture because he had this silly idea that the Earth revolved around the sun.
 p1129
 sg8
-g28
+g26
 sg10
 VBARTLET
 p1130
@@ -4161,13 +4161,13 @@ sg10
 VBARTLET
 p1142
 sg12
-g13
+g9
 sa(dp1143
 g6
 VI hate that he has to. I don't want to ask him. I just want to go sit in my office and look at my data. What?
 p1144
 sg8
-g28
+g26
 sg10
 VELLIE
 p1145
@@ -4183,7 +4183,7 @@ sg10
 VBARTLET
 p1148
 sg12
-g9
+g26
 sa(dp1149
 g6
 VBut I can't.
@@ -4194,7 +4194,7 @@ sg10
 VELLIE
 p1151
 sg12
-g28
+g26
 sa(dp1152
 g6
 VIf you believe in what you're doing, you have to speak up.
@@ -4216,13 +4216,13 @@ sg10
 VELLIE
 p1157
 sg12
-g13
+g9
 sa(dp1158
 g6
 VIt's not enough. I'm sorry you had the misfortune to be born in this family, but our business is politics.
 p1159
 sg8
-g28
+g26
 sg10
 VBARTLET
 p1160
@@ -4249,7 +4249,7 @@ sg10
 VELLIE
 p1166
 sg12
-g13
+g26
 sa(dp1167
 g6
 VJust because you like what I earmarked doesn't mean I didn't politicize science just like Barbara Layton's trying to do. This is the real world. My enemies will never stop going after you. But if Dr. Foy is investigated, you need to be right by his side. And C.J. can help you with a statement.
@@ -4293,13 +4293,13 @@ sg10
 VELLIE
 p1178
 sg12
-g13
+g26
 sa(dp1179
 g6
 VEven though he had to live under house arrest and write in secret.
 p1180
 sg8
-g28
+g26
 sg10
 VBARTLET
 p1181
@@ -4321,7 +4321,7 @@ g6
 VScience can't wall itself off from controversy. It has to live by it!
 p1186
 sg8
-g28
+g26
 sg10
 VBARTLET
 p1187
@@ -4337,7 +4337,7 @@ sg10
 VELLIE
 p1190
 sg12
-g13
+g26
 sa(dp1191
 g6
 V[to secretary] It's a red letter day and I just happened to be here to celebrate with you. Toby, hi.
@@ -4365,7 +4365,7 @@ g6
 VI'm sorry about the mess, but one of my assistants just had her thesis published.
 p1198
 sg8
-g28
+g26
 sg10
 VLAYTON
 p1199
@@ -4392,7 +4392,7 @@ sg10
 VLAYTON
 p1205
 sg12
-g13
+g26
 sa(dp1206
 g6
 VNo, you guys pretty much took care of that one already.
@@ -4414,7 +4414,7 @@ sg10
 VLAYTON
 p1211
 sg12
-g13
+g9
 sa(dp1212
 g6
 VI'll do that. He'll be delighted to hear that we won't be seeing anything about Ellie Bartlet in your fundraising materials.
@@ -4431,7 +4431,7 @@ g6
 VIt wasn't my decision for her to go work in a lab doing questionable research on Uncle Sam's dime.
 p1216
 sg8
-g28
+g26
 sg10
 VLAYTON
 p1217
@@ -4442,7 +4442,7 @@ g6
 VAnd you decide what's questionable?
 p1219
 sg8
-g28
+g26
 sg10
 VTOBY
 p1220
@@ -4464,7 +4464,7 @@ g6
 VHealthy scrutiny, not subjective attack. Your list isn't about priorities. It's about imposing ideology and religious doctrine on the awarding of individual scientific grants.
 p1225
 sg8
-g28
+g26
 sg10
 VTOBY
 p1226
@@ -4497,7 +4497,7 @@ g6
 VI don't have a problem with homosexuals, or injection-drug users. But there is only one pie, and we're talking about using $2 billion dollars of it on the small percentage of the population with HIV, which will mean cutting funding on Alzheimer's, muscular dystrophy, and diabetes, multiple sclerosis.
 p1234
 sg8
-g28
+g26
 sg10
 VLAYTON
 p1235
@@ -4513,13 +4513,13 @@ sg10
 VTOBY
 p1238
 sg12
-g13
+g26
 sa(dp1239
 g6
 VOne in eight women will get breast cancer and at least 15% of those aren't going to live five years after the diagnosis. Every dollar you spend on studies of Puerto Rican sex workers is one that you take away from cancer centers and clinical tests.
 p1240
 sg8
-g28
+g26
 sg10
 VLAYTON
 p1241
@@ -4546,18 +4546,18 @@ sg10
 VLAYTON
 p1247
 sg12
-g13
+g26
 sa(dp1248
 g6
 VI spoke with Mack McCall.
 p1249
 sg8
-g28
+g26
 sg10
 VTOBY
 p1250
 sg12
-g13
+g26
 sa(dp1251
 g6
 VOh, Mack McCall will take credit for anything that will get his name in the paper.
@@ -4590,7 +4590,7 @@ sg10
 VLAYTON
 p1259
 sg12
-g13
+g26
 sa(dp1260
 g6
 VYour lists are identical.
@@ -4645,7 +4645,7 @@ sg10
 VC.J.
 p1274
 sg12
-g13
+g26
 sa(dp1275
 g6
 VWhen I first checked Dr. Foy's research funding on the NIH website, it said he had $14 more this year.
@@ -4662,18 +4662,18 @@ g6
 VRight... the trash can.
 p1279
 sg8
-g28
+g26
 sg10
 VTOBY
 p1280
 sg12
-g13
+g26
 sa(dp1281
 g6
 VRight. But when Layton's list came out, the extra $14 weren't there. Now there were other discrepancies between the two lists, but they were so small I figured it was just human error.
 p1282
 sg8
-g28
+g26
 sg10
 VRENA
 p1283
@@ -4689,7 +4689,7 @@ sg10
 VTOBY
 p1286
 sg12
-g13
+g9
 sa(dp1287
 g6
 VWhich makes sense. It's a public website. Probably not updated regularly.
@@ -4722,7 +4722,7 @@ sg10
 VC.J.
 p1295
 sg12
-g13
+g26
 sa(dp1296
 g6
 VAnd... they're the same?
@@ -4739,12 +4739,12 @@ g6
 VYeah. See? No trash can.
 p1300
 sg8
-g28
+g26
 sg10
 VRENA
 p1301
 sg12
-g13
+g26
 sa(dp1302
 g6
 VOur list was put out two weeks ago. She couldn't have gotten that information unless...
@@ -4766,7 +4766,7 @@ sg10
 VTOBY
 p1307
 sg12
-g13
+g9
 sa(dp1308
 g6
 VAt first I thought it was Stephen James from HHS, because I know he hates the President. And then I thought it was the passive-aggressive recycling guy, and...
@@ -4810,7 +4810,7 @@ sg10
 VCAROL
 p1319
 sg12
-g13
+g26
 sa(dp1320
 g6
 VThis is not what we agreed on.
@@ -4843,13 +4843,13 @@ sg10
 VWILL
 p1328
 sg12
-g13
+g26
 sa(dp1329
 g6
 VIf I were the Vice President's Chief of Staff, gearing up for the next campaign, I might be doing some thinking about our own weaknesses, trying to imagine how-how our opposition might be viewing us, with regards to say... health care spending priorities.
 p1330
 sg8
-g28
+g26
 sg10
 VTOBY
 p1331
@@ -4876,13 +4876,13 @@ sg10
 VTOBY
 p1337
 sg12
-g13
+g9
 sa(dp1338
 g6
 VYou didn't do opposition research in the last campaign?
 p1339
 sg8
-g28
+g26
 sg10
 VWILL
 p1340
@@ -4909,7 +4909,7 @@ sg10
 VWILL
 p1346
 sg12
-g13
+g26
 sa(dp1347
 g6
 VYeah?
@@ -4959,7 +4959,7 @@ g6
 VI don't give a damn if you left opposition research in a FAX, did you or did you not willfully target the President's daughter?
 p1360
 sg8
-g28
+g26
 sg10
 VTOBY
 p1361
@@ -4975,13 +4975,13 @@ sg10
 VWILL
 p1364
 sg12
-g13
+g26
 sa(dp1365
 g6
 VI'll take you at your word this was a mistake. Whatever the hell else you want to do about it is your own business.
 p1366
 sg8
-g28
+g26
 sg10
 VTOBY
 p1367
@@ -5003,12 +5003,12 @@ g6
 VI never do this. I'm a little nervous.
 p1372
 sg8
-g28
+g26
 sg10
 VDONNA
 p1373
 sg12
-g28
+g26
 sa(dp1374
 g6
 VOh, my God, that's so sweet. I actually need to get it cut, but thanks.
@@ -5052,7 +5052,7 @@ sg10
 VDEBBIE
 p1385
 sg12
-g9
+g26
 sa(dp1386
 g6
 VYeah.
@@ -5069,7 +5069,7 @@ g6
 VMy sister died of cervical cancer.
 p1390
 sg8
-g28
+g26
 sg10
 VDEBBIE
 p1391
@@ -5085,7 +5085,7 @@ sg10
 VELLIE
 p1394
 sg12
-g13
+g26
 sa(dp1395
 g6
 VShe was 37. It was really fast. We didn't know then. Nobody knew it was connected to HPV.
@@ -5096,7 +5096,7 @@ sg10
 VDEBBIE
 p1397
 sg12
-g13
+g26
 sa(dp1398
 g6
 VYeah.
@@ -5173,7 +5173,7 @@ sg10
 VELMO
 p1418
 sg12
-g13
+g26
 sa(dp1419
 g6
 VOk, Elmo. It's time for your vaccination and I'm going to give you a little injection.
@@ -5190,7 +5190,7 @@ g6
 VBut Mrs. Doctor Abbey, First Lady Doctor, will it hurt Elmo?
 p1423
 sg8
-g28
+g26
 sg10
 VELMO
 p1424
@@ -5206,7 +5206,7 @@ sg10
 VABBEY
 p1427
 sg12
-g13
+g26
 sa(dp1428
 g6
 VWait a minute. Didn't you give up your medical license?
@@ -5239,7 +5239,7 @@ sg10
 VLEO
 p1436
 sg12
-g13
+g26
 sa(dp1437
 g6
 VHayden's on board.
@@ -5272,18 +5272,18 @@ sg10
 VJOSH
 p1445
 sg12
-g13
+g9
 sa(dp1446
 g6
 VYeah, we're gonna have to put that on hold. We just lost a Supreme Court Justice...
 p1447
 sg8
-g28
+g26
 sg10
 VLEO
 p1448
 sg12
-g13
+g26
 sa(dp1449
 g6
 VLost?
@@ -5322,12 +5322,12 @@ g6
 VJustice Brady. Owen Brady. Heart attack.
 p1459
 sg8
-g28
+g26
 sg10
 VLEO
 p1460
 sg12
-g13
+g26
 sa(dp1461
 g6
 VWhat was he, 45?
@@ -5360,7 +5360,7 @@ sg10
 VJOSH
 p1469
 sg12
-g13
+g26
 sa(dp1470
 g6
 VLeo. You've got the head of the Senate Judiciary Committee on line three.
@@ -5382,7 +5382,7 @@ sg10
 VLEO
 p1475
 sg12
-g9
+g13
 sa(dp1476
 g6
 VYou did well.
@@ -5404,7 +5404,7 @@ sg10
 VABBEY
 p1481
 sg12
-g13
+g9
 sa(dp1482
 g6
 VI know.
@@ -5415,7 +5415,7 @@ sg10
 VC.J.
 p1484
 sg12
-g13
+g26
 sa(dp1485
 g6
 VYour handsome man's back.
@@ -5437,7 +5437,7 @@ sg10
 VC.J.
 p1490
 sg12
-g13
+g26
 sa(dp1491
 g6
 VThank you for calling.
@@ -5470,7 +5470,7 @@ sg10
 VWILL
 p1499
 sg12
-g13
+g9
 sa(dp1500
 g6
 VGo on in.
@@ -5520,7 +5520,7 @@ g6
 VDoesn't one of your wife's charities have to do with breast cancer?
 p1513
 sg8
-g28
+g26
 sg10
 VWILL
 p1514
@@ -5564,7 +5564,7 @@ g6
 VThere may be speculation...
 p1525
 sg8
-g28
+g26
 sg10
 VWILL
 p1526
@@ -5641,7 +5641,7 @@ g6
 VWell, maybe that's not so bad. It wasn't my plan, but it might be a happy accident. Just the thing we need to put a little distance between us and them. I wouldn't worry about.
 p1546
 sg8
-g28
+g26
 sg10
 VRUSSELL
 p1547
@@ -5657,7 +5657,7 @@ sg10
 VRUSSELL
 p1550
 sg12
-g13
+g26
 sa(dp1551
 g6
 VYes, sir. Thank you, Mr. Vice President.

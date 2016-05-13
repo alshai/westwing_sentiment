@@ -101,250 +101,250 @@ sg10
 VBARTLET
 p34
 sg12
-g9
-sa(dp35
+S'negative'
+p35
+sa(dp36
 g6
 V[louder] My car wouldn't start.
-p36
+p37
 sg8
 g9
 sg10
 VCLAIRE
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VYou know what's in here?
-p39
+p40
 sg8
 g9
 sg10
 VBARTLET
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VIt's okay.
-p42
+p43
 sg8
 g9
 sg10
 VBARTLET
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VGood morning. Hi, C.J.
-p45
+p46
 sg8
 g9
 sg10
 VPRESS
-p46
+p47
 sg12
-g9
-sa(dp47
+g27
+sa(dp48
 g6
 VGood morning.
-p48
+p49
 sg8
 g9
 sg10
 VC.J.
-p49
+p50
 sg12
-g9
-sa(dp50
+g27
+sa(dp51
 g6
 VHang on-- before we do anything, happy birthday, Mark. And don't ever say I don't pay attention to these things.
-p51
+p52
 sg8
 g27
 sg10
 VC.J.
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VAll right, go ahead and say it, then. What do I care?
-p54
+p55
 sg8
 g27
 sg10
 VC.J.
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VYou're talking about Medicare? I don't think he's seen it yet, but I'll find out.
-p57
+p58
 sg8
 g9
 sg10
 VC.J.
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VHe's going to do what he's got to do.
-p60
+p61
 sg8
 g9
 sg10
 VC.J.
-p61
+p62
 sg12
 g9
-sa(dp62
+sa(dp63
 g6
 VHe's going to do what he's got to do, Phil.
-p63
+p64
 sg8
 g9
 sg10
 VC.J.
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VI don't know. I know he wants to, but it's still pretty early in the week. I'm going to go into the office.
-p66
+p67
 sg8
 g27
 sg10
 VC.J.
-p67
+p68
 sg12
 g9
-sa(dp68
+sa(dp69
 g6
 VWait, Katie, I'm sorry. You were asking something at the beginning, and I cut you off to wish Mark a happy birthday. You know, just in case, why don't you come with me-- the rest, I'll see you at 11:00.
-p69
+p70
 sg8
 g27
 sg10
 VC.J.
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VHi. We've never met. It's my pleasure.
-p72
+p73
 sg8
 g9
 sg10
 VC.J.
-p73
+p74
 sg12
-g9
-sa(dp74
+g35
+sa(dp75
 g6
 VWhy is science coming to the White House?
-p75
+p76
 sg8
 g9
 sg10
 VC.J.
-p76
+p77
 sg12
 g9
-sa(dp77
+sa(dp78
 g6
 VCome on in.
-p78
+p79
 sg8
 g9
 sg10
 VC.J.
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VUh... Are you familiar with the NASA Commision on Space Science and Research?
-p81
+p82
 sg8
 g27
 sg10
 VGISH
-p82
+p83
 sg12
-g9
-sa(dp83
+g27
+sa(dp84
 g6
 VOnly to the extent that I'm aware that it exists. But I can take your question to the President's science advisor.
-p84
+p85
 sg8
 g27
 sg10
 VC.J.
-p85
+p86
 sg12
 g9
-sa(dp86
+sa(dp87
 g6
 VNo, this is not a science quesation. Is the White House concealing a report from the Commision containing two different pieces of evidence of water molecules on Mars? Is there a report that's not being released, a report from the NASA Commision on Space Science and Research saying fossilized water malecules were found on a meteorite-- I won't tell you when this thing blew off the surface of Mars-- but, that this report...
-p87
+p88
 sg8
 g27
 sg10
 VGISH
-p88
+p89
 sg12
 g9
-sa(dp89
+sa(dp90
 g6
 V[to Katie] Come here.
-p90
+p91
 sg8
 g9
 sg10
 VC.J.
-p91
+p92
 sg12
-g9
-sa(dp92
+g35
+sa(dp93
 g6
 VI called you back for a single in front of everybody. That costs me. Your question is: "Is there life on Mars?" And "Is the White House hiding that there's life on Mars?" And what the hell does this have to do with the Vice President?!
-p93
+p94
 sg8
 g9
 sg10
 VC.J.
-p94
+p95
 sg12
 g9
-sa(dp95
+sa(dp96
 g6
 VKaterina--
-p96
+p97
 sg8
 g9
 sg10
 VC.J.
-p97
+p98
 sg12
-g9
-sa(dp98
+g27
+sa(dp99
 g6
 VThat's absurd.
-p99
-sg8
-S'negative'
 p100
+sg8
+g35
 sg10
 VC.J.
 p101
 sg12
-g9
+g35
 sa(dp102
 g6
 VYou've got to ask Gish what kind of credible source goes to the science editor with a story, instead of--
@@ -355,7 +355,7 @@ sg10
 VC.J.
 p104
 sg12
-g9
+g27
 sa(dp105
 g6
 VHe doesn't know who the source is. The source went to another reporter at our paper and that reporter went to Gish.
@@ -377,7 +377,7 @@ sg10
 VC.J.
 p110
 sg12
-g9
+g27
 sa(dp111
 g6
 VIs there an existing report that says anything at all, and if so, what? And will it be made public, and, if not, why? And, if not, isn't that illegal?
@@ -421,7 +421,7 @@ sg10
 VBLAIR
 p122
 sg12
-g9
+g35
 sa(dp123
 g6
 VYou're staffed with the Counsel's Office?
@@ -454,7 +454,7 @@ sg10
 VQUINCY
 p131
 sg12
-g9
+g27
 sa(dp132
 g6
 VThank you. No. I'm 22. I'm a law student at GW.
@@ -465,7 +465,7 @@ sg10
 VBLAIR
 p134
 sg12
-g9
+g35
 sa(dp135
 g6
 VWhat year?
@@ -542,7 +542,7 @@ sg10
 VQUINCY
 p155
 sg12
-g100
+g9
 sa(dp156
 g6
 VReally, they hold them just one rung above being a Republican.
@@ -553,7 +553,7 @@ sg10
 VBLAIR
 p158
 sg12
-g9
+g35
 sa(dp159
 g6
 VWell, then we've won the jackpot, haven't we?
@@ -608,7 +608,7 @@ sg10
 VQUINCY
 p173
 sg12
-g9
+g35
 sa(dp174
 g6
 VYou're Associate White House Counsel, Mr. Quincy. We're not going to store Xerox paper in your office.
@@ -696,7 +696,7 @@ sg10
 VBLAIR
 p197
 sg12
-g9
+g27
 sa(dp198
 g6
 VThank you.
@@ -718,7 +718,7 @@ sg10
 VC.J.
 p203
 sg12
-g9
+g27
 sa(dp204
 g6
 VJoe.
@@ -779,7 +779,7 @@ g6
 VYeah. And, you know, if you hang 'em on that pipe in the corner, late afternoon, you get your suits pressed right in front of you.
 p220
 sg8
-g100
+g35
 sg10
 VC.J.
 p221
@@ -806,7 +806,7 @@ sg10
 VC.J.
 p227
 sg12
-g9
+g35
 sa(dp228
 g6
 VAs a matter of fact, I should probably stay here and get started on...
@@ -839,7 +839,7 @@ sg10
 VQUINCY
 p236
 sg12
-g9
+g35
 sa(dp237
 g6
 VCome on. It's going to be fun. But if it's not, you should pretend that it is anyway. You know why?
@@ -872,7 +872,7 @@ sg10
 VC.J.
 p245
 sg12
-g9
+g35
 sa(dp246
 g6
 VSo, do you know what I'm going to get asked about probably at my first briefing today? The Department of Agriculture report that'll come out this morning saying that commodity prices are down six percent this year, and do I suppose the White House is going to respond to the farmers who are going broke? And I thought, since the Republicans tore up the farm safety net, you might have a good idea for what I should say.
@@ -894,7 +894,7 @@ sg10
 VQUINCY
 p251
 sg12
-g9
+g27
 sa(dp252
 g6
 VYou're saying it's good that farmers can't sell what they grow for a living wage?
@@ -916,13 +916,13 @@ sg10
 VQUINCY
 p257
 sg12
-g9
+g35
 sa(dp258
 g6
 VIt's good, except, whoa! Those pesky farmers again. Don't worry about it though, 'cause it's not like there are that many of them. No, wait, I misspoke. Agriculture is this country's biggest industry.
 p259
 sg8
-g100
+g35
 sg10
 VC.J.
 p260
@@ -971,7 +971,7 @@ sg10
 VC.J.
 p272
 sg12
-g100
+g35
 sa(dp273
 g6
 VOkay.
@@ -988,7 +988,7 @@ g6
 VWell, this may sound silly, but the science editor from the Washington Post has a source-- a blind source-- who says that the Vice President personally told him-- the blind source-- that the Vice President interfered to classify a report that a NASA commision, which he heads, has saying that there's life on Mars.
 p277
 sg8
-g100
+g35
 sg10
 VC.J.
 p278
@@ -999,7 +999,7 @@ g6
 VGod, why would you think that would make you sound silly?
 p280
 sg8
-g100
+g35
 sg10
 VQUINCY
 p281
@@ -1010,7 +1010,7 @@ g6
 VWould you find out who broke the law, please?
 p283
 sg8
-g100
+g35
 sg10
 VC.J.
 p284
@@ -1026,7 +1026,7 @@ sg10
 VQUINCY
 p287
 sg12
-g9
+g35
 sa(dp288
 g6
 VThe farmers are victims of this Republican Congress.
@@ -1054,7 +1054,7 @@ g6
 VWell argued, though I do hate you and everything you stand for.
 p295
 sg8
-g100
+g35
 sg10
 VC.J.
 p296
@@ -1065,7 +1065,7 @@ g6
 VClaudia Jean, you've only known me for four minutes. It usually takes people the better part of an hour to hate me and everything I stand for.
 p298
 sg8
-g100
+g35
 sg10
 VQUINCY
 p299
@@ -1081,7 +1081,7 @@ sg10
 VC.J.
 p302
 sg12
-g9
+g35
 sa(dp303
 g6
 VCan I ask you something?
@@ -1092,7 +1092,7 @@ sg10
 VQUINCY
 p305
 sg12
-g9
+g35
 sa(dp306
 g6
 VYeah.
@@ -1120,7 +1120,7 @@ g6
 VYou speak to the Vice President, Joe. You're his lawyer.
 p313
 sg8
-g100
+g35
 sg10
 VC.J.
 p314
@@ -1246,7 +1246,7 @@ sg10
 VWILL
 p347
 sg12
-g9
+g35
 sa(dp348
 g6
 VYeah! If I'm watching that ad...
@@ -1257,13 +1257,13 @@ sg10
 VTOBY
 p350
 sg12
-g9
+g35
 sa(dp351
 g6
 VThat ad wasn't for you. It wasn't about Dad, it was about Mom looking worried in the front seat.
 p352
 sg8
-g100
+g35
 sg10
 VWILL
 p353
@@ -1329,7 +1329,7 @@ g6
 VShe's worried 'cause the kids are in back. That's what the ad's about.
 p370
 sg8
-g100
+g35
 sg10
 VWILL
 p371
@@ -1345,7 +1345,7 @@ sg10
 VTOBY
 p374
 sg12
-g9
+g27
 sa(dp375
 g6
 VI think it says the President and a bunch of Hollywood types want to put your kids in a small car so that they can save the sky.
@@ -1378,7 +1378,7 @@ sg10
 VWILL
 p383
 sg12
-g9
+g35
 sa(dp384
 g6
 VYou think we should run a counter ad.
@@ -1400,7 +1400,7 @@ sg10
 VWILL
 p389
 sg12
-g9
+g35
 sa(dp390
 g6
 VSaying what?
@@ -1422,7 +1422,7 @@ sg10
 VWILL
 p395
 sg12
-g9
+g35
 sa(dp396
 g6
 VWhat do you mean?
@@ -1565,7 +1565,7 @@ sg10
 VDONNA
 p434
 sg12
-g9
+g35
 sa(dp435
 g6
 VStop it.
@@ -1576,7 +1576,7 @@ sg10
 VDONNA
 p437
 sg12
-g9
+g35
 sa(dp438
 g6
 VStop it.
@@ -1587,7 +1587,7 @@ sg10
 VDONNA
 p440
 sg12
-g9
+g35
 sa(dp441
 g6
 VYou have to stop it!
@@ -1604,7 +1604,7 @@ g6
 VStop it. You are gonna hurt your beak. Stop it!
 p445
 sg8
-g100
+g35
 sg10
 VDONNA
 p446
@@ -1615,7 +1615,7 @@ g6
 VWhat the hell are you doing?
 p448
 sg8
-g100
+g35
 sg10
 VJOSH
 p449
@@ -1626,12 +1626,12 @@ g6
 VI'm sorry, but this bird has been sitting here tapping on the window for... I'm not kidding, I don't know how long, but a long time. I've lost track 'cause I'm moving into certain phases of dementia with this thing.
 p451
 sg8
-g100
+g35
 sg10
 VDONNA
 p452
 sg12
-g9
+g35
 sa(dp453
 g6
 VWell, let me get rid of it.
@@ -1642,7 +1642,7 @@ sg10
 VJOSH
 p455
 sg12
-g9
+g35
 sa(dp456
 g6
 VNo, no, no, no, no.
@@ -1653,7 +1653,7 @@ sg10
 VDONNA
 p458
 sg12
-g9
+g35
 sa(dp459
 g6
 VWhat?
@@ -1681,12 +1681,12 @@ g6
 VI'm gonna scare him away.
 p466
 sg8
-g100
+g35
 sg10
 VJOSH
 p467
 sg12
-g9
+g35
 sa(dp468
 g6
 VNo.
@@ -1719,24 +1719,24 @@ sg10
 VDONNA
 p476
 sg12
-g9
+g35
 sa(dp477
 g6
 VI'm not going to hurt him. I'm just...
 p478
 sg8
-g100
+g35
 sg10
 VJOSH
 p479
 sg12
-g9
+g35
 sa(dp480
 g6
 VNo, come on, he's a bird. He's not bothering anybody.
 p481
 sg8
-g100
+g35
 sg10
 VDONNA
 p482
@@ -1747,7 +1747,7 @@ g6
 VIn a second he's going to be bothering me, right?
 p484
 sg8
-g100
+g35
 sg10
 VJOSH
 p485
@@ -1851,7 +1851,7 @@ sg10
 VJOSH
 p512
 sg12
-g9
+g35
 sa(dp513
 g6
 VThe call was from the Post, and they say they have a source.
@@ -1884,7 +1884,7 @@ sg10
 VDONNA
 p521
 sg12
-g9
+g35
 sa(dp522
 g6
 VExcuse me.
@@ -1895,7 +1895,7 @@ sg10
 VQUINCY
 p524
 sg12
-g9
+g35
 sa(dp525
 g6
 VHey. [to Donna] Hang on. [to Quincy] How's it going so far?
@@ -1923,7 +1923,7 @@ g6
 VAt the beginning I'm going to ask you to give me a quick hit just so you can learn how to keep the crazy stuff out of his office.
 p532
 sg8
-g100
+g35
 sg10
 VJOSH
 p533
@@ -1939,7 +1939,7 @@ sg10
 VJOSH
 p536
 sg12
-g9
+g27
 sa(dp537
 g6
 VA reporter looking into the White House suppressing a NASA Commision.
@@ -2000,12 +2000,12 @@ g6
 VThey said that? You weren't just making a joke?
 p553
 sg8
-g100
+g35
 sg10
 VJOSH
 p554
 sg12
-g9
+g35
 sa(dp555
 g6
 VNo.
@@ -2060,7 +2060,7 @@ sg10
 VDONNA
 p569
 sg12
-g27
+g9
 sa(dp570
 g6
 VA sawbones is a doctor.
@@ -2071,7 +2071,7 @@ sg10
 VQUINCY
 p572
 sg12
-g9
+g27
 sa(dp573
 g6
 VIs it?
@@ -2110,12 +2110,12 @@ g6
 VI don't... Josh is a lawyer.
 p583
 sg8
-g100
+g35
 sg10
 VQUINCY
 p584
 sg12
-g9
+g35
 sa(dp585
 g6
 VWell, yeah, I mean he went to law school, but...
@@ -2137,7 +2137,7 @@ sg10
 VDONNA
 p590
 sg12
-g9
+g35
 sa(dp591
 g6
 VI don't practice law? I help write the laws, I write the laws, I make the laws, I am the law.
@@ -2148,18 +2148,18 @@ sg10
 VJOSH
 p593
 sg12
-g9
+g35
 sa(dp594
 g6
 VWe're having a problem with a bird outside our office, are you having that problem?
 p595
 sg8
-g100
+g35
 sg10
 VDONNA
 p596
 sg12
-g27
+g9
 sa(dp597
 g6
 VOh, better than that. I think I may have a family of bats.
@@ -2181,7 +2181,7 @@ sg10
 VJOSH
 p602
 sg12
-g100
+g27
 sa(dp603
 g6
 VYes, Joe. The girls in the Political Affairs Office saw you before and asked me to tell you that they wouldn't have covered your parking spot with mayonnaise if they'd known you were a biscuit.
@@ -2198,7 +2198,7 @@ g6
 VOkay. Well, tell them, you know, no problem.
 p607
 sg8
-g100
+g35
 sg10
 VQUINCY
 p608
@@ -2247,7 +2247,7 @@ sg10
 VLEO
 p620
 sg12
-g9
+g35
 sa(dp621
 g6
 V[to Quincy] All right, you go first.
@@ -2313,7 +2313,7 @@ sg10
 VQUINCY
 p638
 sg12
-g9
+g35
 sa(dp639
 g6
 VThat report was classified by the Department of Defense.
@@ -2368,7 +2368,7 @@ sg10
 VLEO
 p653
 sg12
-g100
+g35
 sa(dp654
 g6
 VI know, but ask Donna what they bribed us with. Tell him what the Post said we got in exchange for calling off Justice.
@@ -2418,7 +2418,7 @@ g6
 VThere's a leak. This, Mars, the people... don't even get me started on that 'cause the stuff I think you still won't tell me. Who knew about the terms with Casseon outside us... and now them?
 p667
 sg8
-g100
+g35
 sg10
 VJOSH
 p668
@@ -2478,7 +2478,7 @@ sg10
 VJOSH
 p683
 sg12
-g9
+g35
 sa(dp684
 g6
 VFix this, would you please? There's a story out there we're obstructing justice and another one we're like in a Ray Bradbury barn. These things make me crazy.
@@ -2566,7 +2566,7 @@ sg10
 VCHIN
 p707
 sg12
-g9
+g35
 sa(dp708
 g6
 VYeah.
@@ -2583,7 +2583,7 @@ g6
 VA soccer mom. No. Fade in on an SUV stuck in the mud. The soccer mom behind the wheel is switching from reverse to drive, her wheels spinning in place and behind her, we see she's pulling-- wait for it--
 p712
 sg8
-g100
+g35
 sg10
 VWILL
 p713
@@ -2621,7 +2621,7 @@ sg10
 VROMANO
 p722
 sg12
-g9
+g35
 sa(dp723
 g6
 VI moved you up, you see what happens?
@@ -2665,7 +2665,7 @@ sg10
 VROMANO
 p734
 sg12
-g9
+g27
 sa(dp735
 g6
 VYeah, you know, you had the number two ranking among the Laurens, but you lost it. [to Chin] She's number one 'cause she got the food, then I expect the two of you to compete for the two spot.
@@ -2676,7 +2676,7 @@ sg10
 VWILL
 p737
 sg12
-g9
+g27
 sa(dp738
 g6
 VWill?
@@ -2698,7 +2698,7 @@ sg10
 VWILL
 p743
 sg12
-g9
+g27
 sa(dp744
 g6
 VWhat if instead of hauling a Saudi oil rig, she's hauling actual Saudis?
@@ -2720,7 +2720,7 @@ sg10
 VWILL
 p749
 sg12
-g9
+g27
 sa(dp750
 g6
 VMaybe the oil rig could have Arabic writing on it.
@@ -2731,7 +2731,7 @@ sg10
 VROMANO
 p752
 sg12
-g9
+g35
 sa(dp753
 g6
 VIs this coming awfully close to a 15-second spot the Klan might produce?
@@ -2770,12 +2770,12 @@ g6
 VThank you. I'm starving.
 p763
 sg8
-g100
+g35
 sg10
 VROMANO
 p764
 sg12
-g27
+g35
 sa(dp765
 g6
 VYou know what we should do? We should use the same family.
@@ -2808,13 +2808,13 @@ sg10
 VWILL
 p773
 sg12
-g100
+g35
 sa(dp774
 g6
 VHow's that joke gonna play in 15 seconds?
 p775
 sg8
-g100
+g35
 sg10
 VCASSIE
 p776
@@ -2863,7 +2863,7 @@ sg10
 VWILL
 p788
 sg12
-g9
+g35
 sa(dp789
 g6
 VYou understand I'm not saying the soccer mom's dragging them up the hill. They'd be super comfortable.
@@ -2929,7 +2929,7 @@ sg10
 VCHARLIE
 p806
 sg12
-g27
+g9
 sa(dp807
 g6
 VYeah.
@@ -2962,7 +2962,7 @@ sg10
 VTOBY
 p815
 sg12
-g9
+g35
 sa(dp816
 g6
 VI don't think I've ever seen you eat a salad. What kind of salad is it?
@@ -2984,7 +2984,7 @@ sg10
 VTOBY
 p821
 sg12
-g9
+g35
 sa(dp822
 g6
 VJust mixed greens?
@@ -2995,7 +2995,7 @@ sg10
 VCHARLIE
 p824
 sg12
-g9
+g35
 sa(dp825
 g6
 VI don't know what kind of salad it is. I'm eating a salad, okay? I'm doing it. Do I have to know the names? There's no difference between them. It's a bowl of weeds. Some of them have cheese. This isn't the kind with cheese. Does that answer your question? How many years have you guys been "Toby, you eat like a teenager. Toby, that's red meat. That's your second cigar." Here I am eating a salad, which by the way, you could cover this thing in barbecue sauce and it would still tastes like the ground, and I'm getting heckled from the gallery, who wanted to come in here to eat his roast beef sandwich with ketchup on a kaiser roll and watch the damn tennis on my TV! That's all I'm saying.
@@ -3039,7 +3039,7 @@ sg10
 VQUINCY
 p836
 sg12
-g9
+g35
 sa(dp837
 g6
 VYeah. You're the new sawbones.
@@ -3083,7 +3083,7 @@ sg10
 VQUINCY
 p848
 sg12
-g9
+g35
 sa(dp849
 g6
 VHow you doing?
@@ -3094,7 +3094,7 @@ sg10
 VCHARLIE
 p851
 sg12
-g27
+g9
 sa(dp852
 g6
 VYour office had requested comments on your draft statement about a decision from the Fourth Circuit Court of Appeals.
@@ -3122,7 +3122,7 @@ g6
 VYeah, I saw it was headed there, the language is incendiary, and I wasn't sure if you know that you couldn't beat up on the Appeals Courts and then expect the Supreme Courts to hear the case.
 p859
 sg8
-g100
+g35
 sg10
 VQUINCY
 p860
@@ -3166,7 +3166,7 @@ g6
 VYou said in this case that the Fourth Circuit lack the judicial imagination God gave pistachio nuts.
 p871
 sg8
-g100
+g35
 sg10
 VQUINCY
 p872
@@ -3215,13 +3215,13 @@ sg10
 VQUINCY
 p884
 sg12
-g9
+g27
 sa(dp885
 g6
 VToby is distracted by a woman. And salads.
 p886
 sg8
-g100
+g35
 sg10
 VCHARLIE
 p887
@@ -3287,7 +3287,7 @@ g6
 VHe's their gossip guy?
 p904
 sg8
-g100
+g35
 sg10
 VQUINCY
 p905
@@ -3314,7 +3314,7 @@ sg10
 VQUINCY
 p911
 sg12
-g27
+g9
 sa(dp912
 g6
 VYeah.
@@ -3353,7 +3353,7 @@ g6
 VThanks. Sorry for jumping the gun on the Fourth Circuit.
 p922
 sg8
-g100
+g35
 sg10
 VQUINCY
 p923
@@ -3380,7 +3380,7 @@ sg10
 VQUINCY
 p929
 sg12
-g9
+g35
 sa(dp930
 g6
 VTwo press inquires, they came to my attention that sounded... alike is all. Can I get back to you?
@@ -3419,7 +3419,7 @@ g6
 VYou know what happens with negotiated press leaks? Two-thirds of the press gives us lousy coverage 'cause they're tweaked that they didn't get the leak, and the other third...
 p940
 sg8
-g100
+g35
 sg10
 VC.J.
 p941
@@ -3435,7 +3435,7 @@ sg10
 VC.J.
 p944
 sg12
-g9
+g35
 sa(dp945
 g6
 VWhat was that?
@@ -3446,7 +3446,7 @@ sg10
 VC.J.
 p947
 sg12
-g9
+g35
 sa(dp948
 g6
 VI don't believe it. Josh has this guy at his window, too.
@@ -3490,7 +3490,7 @@ sg10
 VDONNA
 p959
 sg12
-g9
+g35
 sa(dp960
 g6
 VExcuse me.
@@ -3501,7 +3501,7 @@ sg10
 VQUINCY
 p962
 sg12
-g9
+g35
 sa(dp963
 g6
 VSorry, we thought for a second you were a huge bird knocking on the door.
@@ -3606,7 +3606,7 @@ g6
 VI wouldn't worry to much about Mars. I gave it to you to give you a hard time.
 p991
 sg8
-g100
+g35
 sg10
 VC.J.
 p992
@@ -3617,7 +3617,7 @@ g6
 VNo kidding. By the way, there was a report, but it was classified by the Defense Department. And we'll leave how much I didn't want to know about that for another time.
 p994
 sg8
-g100
+g35
 sg10
 VQUINCY
 p995
@@ -3628,7 +3628,7 @@ g6
 VWhat's the problem?
 p997
 sg8
-g100
+g35
 sg10
 VC.J.
 p998
@@ -3639,7 +3639,7 @@ g6
 VYou said the science editor had a blind source, that it came from someone else at the paper, and I... I think I know who it was.
 p1000
 sg8
-g100
+g35
 sg10
 VQUINCY
 p1001
@@ -3661,7 +3661,7 @@ g6
 VA guy name Stu Winkle who has a new gossip column.
 p1006
 sg8
-g100
+g35
 sg10
 VQUINCY
 p1007
@@ -3672,7 +3672,7 @@ g6
 VHow would a gossip columnist get a hold of a story about the Pentagon?
 p1009
 sg8
-g100
+g35
 sg10
 VC.J.
 p1010
@@ -3688,7 +3688,7 @@ sg10
 VQUINCY
 p1013
 sg12
-g27
+g35
 sa(dp1014
 g6
 VWhy?
@@ -3705,23 +3705,23 @@ g6
 V'Cause if I'm wrong, it'll be inappropriate that I suggested it, and I'll be held in contempt.
 p1018
 sg8
-g100
+g35
 sg10
 VQUINCY
 p1019
 sg12
-g9
+g35
 sa(dp1020
 g6
 VYou are wrong.
 p1021
 sg8
-g100
+g35
 sg10
 VC.J.
 p1022
 sg12
-g9
+g35
 sa(dp1023
 g6
 VNo, I'm not.
@@ -3732,7 +3732,7 @@ sg10
 VQUINCY
 p1025
 sg12
-g9
+g35
 sa(dp1026
 g6
 VStu Winkles don't get tips about the White House illegally suppresing reports.
@@ -3782,12 +3782,12 @@ g6
 VI don't usually make personal calls to gossip columnist.
 p1039
 sg8
-g100
+g35
 sg10
 VC.J.
 p1040
 sg12
-g9
+g35
 sa(dp1041
 g6
 VHe's going to be very flattered.
@@ -3809,7 +3809,7 @@ sg10
 VC.J.
 p1046
 sg12
-g27
+g35
 sa(dp1047
 g6
 VNo.
@@ -3826,7 +3826,7 @@ g6
 VEven if I give you assurances that I already hold you in contempt?
 p1051
 sg8
-g100
+g35
 sg10
 VC.J.
 p1052
@@ -3875,7 +3875,7 @@ sg10
 VCAROL
 p1064
 sg12
-g9
+g35
 sa(dp1065
 g6
 VStu Winkle at the Post.
@@ -4040,7 +4040,7 @@ sg10
 VC.J.
 p1109
 sg12
-g9
+g35
 sa(dp1110
 g6
 VStu, I wanted to get you a direct answer to that NASA Commision question that Ralph Gish and Katie brought me this morning. It was the Defense Department and not the White House who classified the report.
@@ -4073,7 +4073,7 @@ sg10
 VC.J.
 p1118
 sg12
-g9
+g35
 sa(dp1119
 g6
 VCarol?
@@ -4238,7 +4238,7 @@ sg10
 VHOYNES
 p1163
 sg12
-g9
+g27
 sa(dp1164
 g6
 VSir?
@@ -4332,7 +4332,7 @@ g6
 VI should hit you in the face.
 p1189
 sg8
-g100
+g35
 sg10
 VHOYNES
 p1190
@@ -4458,7 +4458,7 @@ sg10
 VC.J.
 p1223
 sg12
-g27
+g9
 sa(dp1224
 g6
 VThank you, Mr. Vice President.
@@ -4469,7 +4469,7 @@ sg10
 VTOBY
 p1226
 sg12
-g27
+g9
 sa(dp1227
 g6
 VThank you, sir.
@@ -4491,7 +4491,7 @@ sg10
 VJOSH
 p1232
 sg12
-g9
+g27
 sa(dp1233
 g6
 VYou didn't.
@@ -4502,7 +4502,7 @@ sg10
 VQUINCY
 p1235
 sg12
-g9
+g35
 sa(dp1236
 g6
 VJosh.
@@ -4535,7 +4535,7 @@ sg10
 VC.J.
 p1244
 sg12
-g9
+g35
 sa(dp1245
 g6
 VGas Mask.
@@ -4579,7 +4579,7 @@ sg10
 VWILL
 p1256
 sg12
-g9
+g35
 sa(dp1257
 g6
 VI'm Lauren Romano.
@@ -4590,7 +4590,7 @@ sg10
 VROMANO
 p1259
 sg12
-g9
+g35
 sa(dp1260
 g6
 VKeep going with the gas mask.
@@ -4607,7 +4607,7 @@ g6
 VMothers barely able to even see their children through the haze of gas masks.
 p1264
 sg8
-g100
+g35
 sg10
 VSHELBY
 p1265
@@ -4623,7 +4623,7 @@ sg10
 VWILL
 p1268
 sg12
-g9
+g35
 sa(dp1269
 g6
 VI did.
@@ -4640,23 +4640,23 @@ g6
 VAnyone else thinks it's weird that Toby had a salad?
 p1273
 sg8
-g100
+g35
 sg10
 VCHIN
 p1274
 sg12
-g9
+g35
 sa(dp1275
 g6
 VAnyone else thinks it's weird that it was nine hours ago, and Lauren Romano's still talking about it?
 p1276
 sg8
-g100
+g35
 sg10
 VWILL
 p1277
 sg12
-g9
+g35
 sa(dp1278
 g6
 VI'm Lauren Romano.
@@ -4667,7 +4667,7 @@ sg10
 VROMANO
 p1280
 sg12
-g9
+g35
 sa(dp1281
 g6
 VClear blue sky.
@@ -4678,7 +4678,7 @@ sg10
 VWILL
 p1283
 sg12
-g9
+g27
 sa(dp1284
 g6
 V[to Toby] Listen to this. Clear blue sky.
@@ -4700,7 +4700,7 @@ sg10
 VTOBY
 p1289
 sg12
-g9
+g35
 sa(dp1290
 g6
 VNo, but actually, you don't want it to.
@@ -4722,13 +4722,13 @@ sg10
 VTOBY
 p1295
 sg12
-g9
+g35
 sa(dp1296
 g6
 V'Cause we're countering an attack ad, and when you're in the trenches on one of these things, and they're throwing...
 p1297
 sg8
-g100
+g35
 sg10
 VWILL
 p1298
@@ -4766,7 +4766,7 @@ sg10
 VHOYNES
 p1307
 sg12
-g9
+g35
 sa(dp1308
 g6
 VYou've talked to Suzanne?
@@ -4832,13 +4832,13 @@ sg10
 VHOYNES
 p1325
 sg12
-g9
+g35
 sa(dp1326
 g6
 VI'll tell you what, Mr. Vice President. For this moment, tonight, I'm going to be in charge of deciding what matters. 47 phone calls? Did you not know that the White House keeps records of phone calls? Did you not know that? How many times? When did it start?
 p1327
 sg8
-g100
+g35
 sg10
 VLEO
 p1328
@@ -4898,18 +4898,18 @@ sg10
 VHOYNES
 p1343
 sg12
-g9
+g35
 sa(dp1344
 g6
 VYou were wrong.
 p1345
 sg8
-g100
+g35
 sg10
 VBARTLET
 p1346
 sg12
-g9
+g35
 sa(dp1347
 g6
 VDo you think there's anyone else behind this?
@@ -4931,7 +4931,7 @@ sg10
 VHOYNES
 p1352
 sg12
-g9
+g35
 sa(dp1353
 g6
 VDo you think she may have been coached by Republican Leadership?
@@ -4953,7 +4953,7 @@ sg10
 VHOYNES
 p1358
 sg12
-g9
+g35
 sa(dp1359
 g6
 VJohn, if we are going to weather this, then we're going to have to...
@@ -4997,7 +4997,7 @@ sg10
 VHOYNES
 p1370
 sg12
-g9
+g35
 sa(dp1371
 g6
 VIf we're going to do this, we got to start tonight, now, and I need you thinking now and not giving up...
@@ -5019,7 +5019,7 @@ sg10
 VHOYNES
 p1376
 sg12
-g9
+g27
 sa(dp1377
 g6
 VWhat about "It's none of your business?"
@@ -5047,7 +5047,7 @@ g6
 VAre you in a position to deny it?
 p1384
 sg8
-g100
+g35
 sg10
 VLEO
 p1385
@@ -5107,7 +5107,7 @@ sg10
 VHOYNES
 p1400
 sg12
-g9
+g35
 sa(dp1401
 g6
 VIn the middle of MS, it looked like we were never going to recover, and we did.
@@ -5129,7 +5129,7 @@ sg10
 VHOYNES
 p1406
 sg12
-g9
+g27
 sa(dp1407
 g6
 VJohn...
@@ -5157,7 +5157,7 @@ g6
 VWell, I'm sorry, Mr. Vice President, if my multiple sclerosis was a bummer for your sex life. How the hell did you do this to us?! You can't resign, John. It's a terrible signal to send.
 p1414
 sg8
-g100
+g35
 sg10
 VBARTLET
 p1415
@@ -5228,7 +5228,7 @@ sg10
 VLEO
 p1433
 sg12
-g9
+g35
 sa(dp1434
 g6
 VI don't want to take my family through it.
@@ -5239,13 +5239,13 @@ sg10
 VHOYNES
 p1436
 sg12
-g9
+g35
 sa(dp1437
 g6
 VYou're a giant, John. You're a U.S. Senator, the Vice-President of the United States, and presumptive nominee of your party. You cannot be taken down by this... cheap person and her customers huddled around Macy's window waiting for someone to turn themselves inside out. It's cause for divorce, not resignation. You cannot be taken down by this cheap person.
 p1438
 sg8
-g100
+g35
 sg10
 VLEO
 p1439
@@ -5305,7 +5305,7 @@ sg10
 VHOYNES
 p1454
 sg12
-g27
+g9
 sa(dp1455
 g6
 VWhy did you take a cab?
@@ -5338,7 +5338,7 @@ sg10
 VBARTLET
 p1463
 sg12
-g9
+g35
 sa(dp1464
 g6
 VMy car wouldn't start.

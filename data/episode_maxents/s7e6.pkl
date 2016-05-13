@@ -90,52 +90,52 @@ sg10
 VJOSH
 p31
 sg12
-g9
-sa(dp32
+S'negative'
+p32
+sa(dp33
 g6
 VYou know, it's starting to look like I'm desperate to debate him.
-p33
+p34
 sg8
 g9
 sg10
 VSANTOS
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 VWill you stop?!
-p36
+p37
 sg8
 g9
 sg10
 VVINICK
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VI'm just saying, watch it with the body parts.
-p39
+p40
 sg8
 g9
 sg10
 VSHEILA
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VThat's ridiculous.
-p42
-sg8
-S'negative'
 p43
+sg8
+g32
 sg10
 VVINICK
 p44
 sg12
-g9
+g32
 sa(dp45
 g6
 VYou're the next President of the United States.
@@ -157,7 +157,7 @@ sg10
 VVINICK
 p50
 sg12
-g9
+g32
 sa(dp51
 g6
 VYou have a standard to uphold.
@@ -174,7 +174,7 @@ g6
 VShe held out her forearm. You want me to refuse to sign autographs?
 p55
 sg8
-g43
+g32
 sg10
 VVINICK
 p56
@@ -240,7 +240,7 @@ g6
 VVinick is a terrific debater. And every time he backs away from the negotiating table, every time his aide tells the New York Times that I'm the greatest debater since Socrates, they're lowering expectations on his performance and raising mine through the roof.
 p73
 sg8
-g43
+g32
 sg10
 VSANTOS
 p74
@@ -256,7 +256,7 @@ sg10
 VJOSH
 p77
 sg12
-g9
+g32
 sa(dp78
 g6
 VWhat good are debates if I have to demolish him to win?
@@ -284,7 +284,7 @@ g6
 VBreak the logjam. And lower expectations.
 p85
 sg8
-g43
+g32
 sg10
 VSANTOS
 p86
@@ -311,7 +311,7 @@ sg10
 VSANTOS
 p92
 sg12
-g9
+g32
 sa(dp93
 g6
 VSantos pulled out of North Dakota and West Virginia. There is not a single state we're not competing in. We could win all 50. Get used to it, Senator.
@@ -328,7 +328,7 @@ g6
 VNeither of you is worried about this Times editorial?
 p97
 sg8
-g43
+g32
 sg10
 VVINICK
 p98
@@ -427,18 +427,18 @@ g6
 VOhh, bad idea.
 p124
 sg8
-g43
+g32
 sg10
 VBRUNO
 p125
 sg12
-g9
+g32
 sa(dp126
 g6
 VI'm not going to give a speech about partial-birth abortion in a room full of people who think any abortion is a sin.
 p127
 sg8
-g43
+g32
 sg10
 VVINICK
 p128
@@ -460,7 +460,7 @@ g6
 VAnd I'm pro-choice, same as Santos. I'd be crazy to engage this issue.
 p133
 sg8
-g43
+g32
 sg10
 VVINICK
 p134
@@ -487,7 +487,7 @@ sg10
 VSANTOS
 p140
 sg12
-g9
+g15
 sa(dp141
 g6
 VWho's Al Smith anyway?
@@ -520,7 +520,7 @@ sg10
 VBRAM
 p149
 sg12
-g9
+g15
 sa(dp150
 g6
 VOh, it's a big benefit to Catholic charities. It's the most political non-political event in New York.
@@ -586,13 +586,13 @@ sg10
 VSANTOS
 p167
 sg12
-g9
+g32
 sa(dp168
 g6
 VWhile Senator Vinick is back in Washington, Congressman Matthew Santos is in Michigan fighting for the state's 17 electoral votes. As the electoral math narrows, you can bet they'll both be in Michigan...
 p169
 sg8
-g43
+g32
 sg10
 VANCHOR
 p170
@@ -636,12 +636,12 @@ g6
 VWe're four points up there; we don't need to get hit for pandering.
 p181
 sg8
-g43
+g32
 sg10
 VBRUNO
 p182
 sg12
-g9
+g32
 sa(dp183
 g6
 VYou want to spend a few minutes on thank you notes for those New Mexico electorates?
@@ -713,7 +713,7 @@ g6
 VMatthew Santos is in Michigan fighting for the state's 17 electoral votes. As the electoral math narrows, you can bet they'll both be in Michigan more and more. We'll be right back after this.
 p202
 sg8
-g43
+g32
 sg10
 VANCHOR
 p203
@@ -729,7 +729,7 @@ sg10
 VANNOUNCER
 p206
 sg12
-g9
+g15
 sa(dp207
 g6
 VTurn on MSNBC.
@@ -746,7 +746,7 @@ g6
 VNo, on telling you when your daughter wants an abortion. No, on banning partial-birth abortion.
 p211
 sg8
-g43
+g32
 sg10
 VANNOUNCER
 p212
@@ -762,7 +762,7 @@ sg10
 VVINICK
 p215
 sg12
-g9
+g32
 sa(dp216
 g6
 VPaid for by the Committee for the Integrity of Human Life.
@@ -779,7 +779,7 @@ g6
 VWho the hell is the Committee for the Integrity of Human Life, and who told them to drag abortion into my campaign?
 p220
 sg8
-g43
+g32
 sg10
 VVINICK
 p221
@@ -790,12 +790,12 @@ g6
 VIt's a bare-knuckle attack ad.
 p223
 sg8
-g43
+g32
 sg10
 VVINICK
 p224
 sg12
-g9
+g32
 sa(dp225
 g6
 VIt's not our ad.
@@ -806,7 +806,7 @@ sg10
 VSHEILA
 p227
 sg12
-g9
+g32
 sa(dp228
 g6
 VThe public won't make the distinction.
@@ -823,7 +823,7 @@ g6
 VAnd you think some left-leaning committee for something or other isn't going to slam us right back?
 p232
 sg8
-g43
+g32
 sg10
 VVINICK
 p233
@@ -834,7 +834,7 @@ g6
 VThen we're in a negative ad war.
 p235
 sg8
-g43
+g32
 sg10
 VBRUNO
 p236
@@ -845,7 +845,7 @@ g6
 VPlus, they're hitting Santos for what a lot of Republicans think is my position on abortion.
 p238
 sg8
-g43
+g32
 sg10
 VVINICK
 p239
@@ -861,13 +861,13 @@ sg10
 VSHEILA
 p242
 sg12
-g9
+g15
 sa(dp243
 g6
 VWhich may play great to a few right-wing partisans, but it'll look phony and political to everyone else.
 p244
 sg8
-g43
+g32
 sg10
 VBRUNO
 p245
@@ -911,7 +911,7 @@ g6
 VI remember what I think. They make it seem like I'm for abortion on demand.
 p256
 sg8
-g43
+g32
 sg10
 VSANTOS
 p257
@@ -927,7 +927,7 @@ sg10
 VLOU
 p260
 sg12
-g9
+g32
 sa(dp261
 g6
 VIt's a right-wing parody of my position.
@@ -949,7 +949,7 @@ sg10
 VLOU
 p266
 sg12
-g15
+g9
 sa(dp267
 g6
 VYou'll find it tonight.
@@ -966,7 +966,7 @@ g6
 VIt'll be hard to rebut. You voted against the partial-birth abortion ban.
 p271
 sg8
-g43
+g32
 sg10
 VLOU
 p272
@@ -1004,13 +1004,13 @@ sg10
 VSANTOS
 p281
 sg12
-g9
+g32
 sa(dp282
 g6
 VLook, I don't know how we respond, but by tomorrow this is going to be on every cable network across the country. It's news for free and it's going to hurt us with swing voters.
 p283
 sg8
-g43
+g32
 sg10
 VJOSH
 p284
@@ -1048,7 +1048,7 @@ sg10
 VJOSH
 p293
 sg12
-g9
+g32
 sa(dp294
 g6
 VHe sure benefits from it.
@@ -1065,7 +1065,7 @@ g6
 VIf we turn this campaign full-tilt negative, we can never go back.
 p298
 sg8
-g43
+g32
 sg10
 VJOSH
 p299
@@ -1076,7 +1076,7 @@ g6
 VCall Vinick's people. Tell them to call this the lie that it is and get it off the air. I want a counter-attack ready to go by morning if they don't.
 p301
 sg8
-g43
+g32
 sg10
 VSANTOS
 p302
@@ -1109,18 +1109,18 @@ g6
 VI can't help thinking of it as a federal crime scene.
 p310
 sg8
-g43
+g32
 sg10
 VWILL
 p311
 sg12
-g9
+g32
 sa(dp312
 g6
 VHave you heard from the policy shops? This Toby thing will drown out everything for another few days, but then we'll need a policy to announce.
 p313
 sg8
-g43
+g32
 sg10
 VWILL
 p314
@@ -1153,7 +1153,7 @@ g6
 VThe President's going on a three-day tour of distressed urban areas to promote investment in jobs in inner cities.
 p322
 sg8
-g43
+g32
 sg10
 VC.J.
 p323
@@ -1202,13 +1202,13 @@ sg10
 VC.J.
 p335
 sg12
-g9
+g32
 sa(dp336
 g6
 VI need a few days to get up to speed. I don't know the first thing about the leak investigation and I haven't even sat down with Counsel.
 p337
 sg8
-g43
+g32
 sg10
 VWILL
 p338
@@ -1241,7 +1241,7 @@ g6
 VWe have to show that we've replaced Toby without missing a beat. There's an ongoing investigation. There's not much we can say about it anyway.
 p346
 sg8
-g43
+g32
 sg10
 VC.J.
 p347
@@ -1263,7 +1263,7 @@ g6
 VThe Committee for the Integrity of Human Life is a 527; one of these independent expenditure committees.
 p352
 sg8
-g43
+g32
 sg10
 VBRUNO
 p353
@@ -1307,18 +1307,18 @@ g6
 VHodder won't denounce the ad. He thinks it'd be bad for us and bad for the party.
 p364
 sg8
-g43
+g32
 sg10
 VSHEILA
 p365
 sg12
-g9
+g32
 sa(dp366
 g6
 VHas he seen it? Does he want us to get in a mud wrestling match with Matt Santos?
 p367
 sg8
-g43
+g32
 sg10
 VVINICK
 p368
@@ -1329,7 +1329,7 @@ g6
 VThe Chairman's view is that it fires up social conservatives. It reminds them that while you may be pro-choice, Santos is for virtually unrestricted abortion.
 p370
 sg8
-g43
+g32
 sg10
 VSHEILA
 p371
@@ -1340,7 +1340,7 @@ g6
 VYou have to denounce it yourself before a huge bank of cameras.
 p373
 sg8
-g43
+g32
 sg10
 VBRUNO
 p374
@@ -1351,7 +1351,7 @@ g6
 VYou want this piece of trash on the air.
 p376
 sg8
-g43
+g32
 sg10
 VVINICK
 p377
@@ -1367,7 +1367,7 @@ sg10
 VSHEILA
 p380
 sg12
-g9
+g32
 sa(dp381
 g6
 VWe're trying to win a mandate in a country that's over 60% pro-choice. We cannot get cute with this.
@@ -1400,13 +1400,13 @@ sg10
 VBRUNO
 p389
 sg12
-g9
+g32
 sa(dp390
 g6
 VYour side is running a vicious, baseless attack ad.
 p391
 sg8
-g43
+g32
 sg10
 VJOSH
 p392
@@ -1444,7 +1444,7 @@ sg10
 VMARGARET
 p401
 sg12
-g9
+g15
 sa(dp402
 g6
 VYou haven't heard back from her?
@@ -1554,7 +1554,7 @@ sg10
 VSTEVE
 p431
 sg12
-g9
+g32
 sa(dp432
 g6
 VWhich is good, because I'm not going to.
@@ -1587,13 +1587,13 @@ sg10
 VWILL
 p440
 sg12
-g9
+g15
 sa(dp441
 g6
 VThey're crushing him like a grape.
 p442
 sg8
-g43
+g32
 sg10
 VMARGARET
 p443
@@ -1686,7 +1686,7 @@ sg10
 VHODDER
 p467
 sg12
-g9
+g15
 sa(dp468
 g6
 VI don't like that abortion ad. I don't care how you deal with it; hold a press conference in the lobby, say they don't speak for the party, but I want it dealt with know. It's becoming a national story.
@@ -1714,7 +1714,7 @@ g6
 VSantos and I are both pro-choice. I can't pretend there's some huge difference between our positions.
 p475
 sg8
-g43
+g32
 sg10
 VVINICK
 p476
@@ -1736,7 +1736,7 @@ g6
 VMr. Chairman, this is a rough, negative ad at a time when we don't need it. This committee knows nothing from tactics.
 p481
 sg8
-g43
+g32
 sg10
 VBRUNO
 p482
@@ -1785,7 +1785,7 @@ sg10
 VVINICK
 p494
 sg12
-g9
+g32
 sa(dp495
 g6
 VPro-lifers have their issues with you but Santos is for unlimited abortion.
@@ -1802,12 +1802,12 @@ g6
 VIf you don't denounce that ad, I'm going to have to do it myself.
 p499
 sg8
-g43
+g32
 sg10
 VVINICK
 p500
 sg12
-g9
+g32
 sa(dp501
 g6
 VCan I speak candidly?
@@ -1884,7 +1884,7 @@ sg10
 VHODDER
 p521
 sg12
-g9
+g32
 sa(dp522
 g6
 VYou think Vinick's behind this?
@@ -1906,7 +1906,7 @@ sg10
 VJOSH
 p527
 sg12
-g9
+g32
 sa(dp528
 g6
 VWe found the full interview they used in the ad. It's from three years ago, KPRC in Houston.
@@ -1928,7 +1928,7 @@ sg10
 VSANTOS
 p533
 sg12
-g9
+g32
 sa(dp534
 g6
 VYeah.
@@ -1945,12 +1945,12 @@ g6
 VYeah, so why are they running the ad on television? It's fraud.
 p538
 sg8
-g43
+g32
 sg10
 VSANTOS
 p539
 sg12
-g9
+g32
 sa(dp540
 g6
 VWell, you just said pretty clearly that you're not for limiting access. We called the stations that are running it. They're not going to pull it. They think it's a fair charge.
@@ -1978,7 +1978,7 @@ g6
 VCongressman, you've already said it was a distortion. I worry about too tough a response beyond that. It makes this a much larger story.
 p547
 sg8
-g43
+g32
 sg10
 VLEO
 p548
@@ -2011,7 +2011,7 @@ g6
 VThe Congressman's right. This ad shows that Vinick's centrism is just a bad coat of paint.
 p556
 sg8
-g43
+g32
 sg10
 VLOU
 p557
@@ -2044,7 +2044,7 @@ g6
 VLet this attack stand and we strip away what's different about Santos: he's a religious Catholic, not another secular Democrat who can be portrayed as hostile to heartland values.
 p565
 sg8
-g43
+g32
 sg10
 VLOU
 p566
@@ -2066,7 +2066,7 @@ g6
 VI worry about elevating this, but if the charge sticks it could kill us with values voters and that puts Vinick's nine-point lead in the bank.
 p571
 sg8
-g43
+g32
 sg10
 VLEO
 p572
@@ -2077,7 +2077,7 @@ g6
 VWe hit him and we hit him hard.
 p574
 sg8
-g43
+g32
 sg10
 VSANTOS
 p575
@@ -2088,12 +2088,12 @@ g6
 VI don't think we start with a negative ad.
 p577
 sg8
-g43
+g32
 sg10
 VLOU
 p578
 sg12
-g9
+g32
 sa(dp579
 g6
 VNo.
@@ -2132,7 +2132,7 @@ g6
 VClarify that our guy is not for abortion without limits.
 p589
 sg8
-g43
+g32
 sg10
 VLOU
 p590
@@ -2154,7 +2154,7 @@ g6
 VThen bam, we hit Vinick with a political two-by-four.
 p595
 sg8
-g43
+g32
 sg10
 VLOU
 p596
@@ -2170,7 +2170,7 @@ sg10
 VJOSH
 p599
 sg12
-g9
+g32
 sa(dp600
 g6
 VYou don't have to be queasy about this.
@@ -2181,13 +2181,13 @@ sg10
 VLOU
 p602
 sg12
-g9
+g32
 sa(dp603
 g6
 VYou don't know Santos the way I do. If this becomes a full-out negative...
 p604
 sg8
-g43
+g32
 sg10
 VJOSH
 p605
@@ -2209,7 +2209,7 @@ g6
 VI think we lose a negative ad war. I think the other side is better at this and I think they have more to work with.
 p610
 sg8
-g43
+g32
 sg10
 VJOSH
 p611
@@ -2220,7 +2220,7 @@ g6
 VI did the Merrianhoff Senate campaign. You know those charges that he had weird financial dealings with Taiwanese businessmen?
 p613
 sg8
-g43
+g32
 sg10
 VLOU
 p614
@@ -2242,7 +2242,7 @@ g6
 VThose were the charges. Anyway, we ran against Barrack, clean as a bar of soap. We hit him first with everything we could find. By the time he hit back, the voters thought it was just another ugly campaign; a pox on both our houses.
 p619
 sg8
-g43
+g32
 sg10
 VLOU
 p620
@@ -2291,13 +2291,13 @@ sg10
 VLOU
 p632
 sg12
-g43
+g15
 sa(dp633
 g6
 VWe hit Vinick for hypocrisy; for saying he's pro-choice and letting anti-choice ideologues pick his judiciary and run lying ads.
 p634
 sg8
-g43
+g32
 sg10
 VJOSH
 p635
@@ -2352,7 +2352,7 @@ g6
 VVinick doesn't want to incur the wrath of the New York Times anymore than we do.
 p649
 sg8
-g43
+g32
 sg10
 VJOSH
 p650
@@ -2390,13 +2390,13 @@ sg10
 VLOU
 p659
 sg12
-g9
+g32
 sa(dp660
 g6
 VHave you seen this abortion ad? It's all over cable news. They're predicting a negative ad blitz by Friday.
 p661
 sg8
-g43
+g32
 sg10
 VWILL
 p662
@@ -2467,13 +2467,13 @@ sg10
 VWILL
 p680
 sg12
-g9
+g15
 sa(dp681
 g6
 VYou have to let the press punch themselves out.
 p682
 sg8
-g43
+g32
 sg10
 VC.J.
 p683
@@ -2583,7 +2583,7 @@ g6
 VTrust me, this girl's a cold glass of milk.
 p712
 sg8
-g43
+g32
 sg10
 VOTTO
 p713
@@ -2610,7 +2610,7 @@ sg10
 VJOSH
 p719
 sg12
-g15
+g32
 sa(dp720
 g6
 VUh, no. Tell him we're not doing the Al Smith dinner, not in the middle of all this.
@@ -2682,18 +2682,18 @@ g6
 VWe have to wait until we see what's...
 p739
 sg8
-g43
+g32
 sg10
 VSHEILA
 p740
 sg12
-g9
+g32
 sa(dp741
 g6
 VShe's telling the right I'm pro-abortion, telling the left I'm a captive of the religious nuts.
 p742
 sg8
-g43
+g32
 sg10
 VVINICK
 p743
@@ -2726,7 +2726,7 @@ g6
 VAll the networks are running pieces of the Santos abortion ad tonight.
 p751
 sg8
-g43
+g32
 sg10
 VSHEILA
 p752
@@ -2737,23 +2737,23 @@ g6
 VI ought to go out there and call it a piece of trash and a lie.
 p754
 sg8
-g43
+g32
 sg10
 VVINICK
 p755
 sg12
-g9
+g32
 sa(dp756
 g6
 VI don't like it either, but Hodder's not wrong. There is nothing in that ad that's inaccurate.
 p757
 sg8
-g43
+g32
 sg10
 VSHEILA
 p758
 sg12
-g9
+g32
 sa(dp759
 g6
 VSantos couldn't have written a better ad himself. They're whacking me for playing both sides.
@@ -2764,13 +2764,13 @@ sg10
 VVINICK
 p761
 sg12
-g9
+g32
 sa(dp762
 g6
 VThe 527s raised a quarter of a million off last night's airings alone. After tonight it's going to be 20 times that much. This is energizing the very people we were afraid were going to stay home in November.
 p763
 sg8
-g43
+g32
 sg10
 VSHEILA
 p764
@@ -2786,13 +2786,13 @@ sg10
 VVINICK
 p767
 sg12
-g9
+g32
 sa(dp768
 g6
 VNo. I think you should scrub your Michigan swing, go to the Al Smith dinner, talk about your opposition to partial-birth abortion; and the minute the Santos campaign runs its first negative ad we run a hundred of ours.
 p769
 sg8
-g43
+g32
 sg10
 VSHEILA
 p770
@@ -2874,7 +2874,7 @@ sg10
 VWILL
 p791
 sg12
-g9
+g32
 sa(dp792
 g6
 VIsn't Mr. Babish also a witness?
@@ -2907,7 +2907,7 @@ sg10
 VWILL
 p800
 sg12
-g9
+g32
 sa(dp801
 g6
 VWho are you?
@@ -2918,7 +2918,7 @@ sg10
 VBRUNO
 p803
 sg12
-g15
+g9
 sa(dp804
 g6
 VLouise Thornton. Josh couldn't make it.
@@ -2929,7 +2929,7 @@ sg10
 VLOU
 p806
 sg12
-g9
+g32
 sa(dp807
 g6
 VStuck in Michigan?
@@ -2951,7 +2951,7 @@ sg10
 VLOU
 p812
 sg12
-g9
+g15
 sa(dp813
 g6
 VWe have some magazines outside if you get bored with those.
@@ -2973,7 +2973,7 @@ sg10
 VLOU
 p818
 sg12
-g9
+g15
 sa(dp819
 g6
 VAre we going to, how shall I say, negotiate?
@@ -3034,7 +3034,7 @@ g6
 VAnd I think that Vinick could kick Santos' abortion-loving ass all over the stage. Game over, check please.
 p835
 sg8
-g43
+g32
 sg10
 VLOU
 p836
@@ -3050,7 +3050,7 @@ sg10
 VBRUNO
 p839
 sg12
-g9
+g32
 sa(dp840
 g6
 VAnd I'm your best buddy on this. No debates, you can blame me. Would you like a magazine? Because I figure about a half an hour of this and I can tell the Congressman it didn't work out.
@@ -3061,7 +3061,7 @@ sg10
 VLOU
 p842
 sg12
-g9
+g32
 sa(dp843
 g6
 VYou understand why I'm taking this meeting instead of Santos?
@@ -3072,13 +3072,13 @@ sg10
 VLEO
 p845
 sg12
-g9
+g32
 sa(dp846
 g6
 VHe didn't want to be seen with the Woman's Alliance for Choice, not while he's trying to limit abortion.
 p847
 sg8
-g43
+g32
 sg10
 VBECCA
 p848
@@ -3089,12 +3089,12 @@ g6
 VHe's not trying to limit abortion.
 p850
 sg8
-g43
+g32
 sg10
 VLEO
 p851
 sg12
-g9
+g32
 sa(dp852
 g6
 VThat's not what his spokeswoman said.
@@ -3149,7 +3149,7 @@ sg10
 VBECCA
 p866
 sg12
-g9
+g32
 sa(dp867
 g6
 VBecca, you're not talking to some punk Congressional staffer.
@@ -3182,13 +3182,13 @@ sg10
 VLEO
 p875
 sg12
-g9
+g32
 sa(dp876
 g6
 VHow do you close a nine-point gap? You'll be lucky if you get one debate. The way Santos has been begging for it, Vinick's expectations are so low he'll just have to avoid tripping over the podium to win.
 p877
 sg8
-g43
+g32
 sg10
 VBECCA
 p878
@@ -3204,7 +3204,7 @@ sg10
 VLEO
 p881
 sg12
-g9
+g32
 sa(dp882
 g6
 VYou don't sound like it.
@@ -3215,13 +3215,13 @@ sg10
 VBECCA
 p884
 sg12
-g9
+g32
 sa(dp885
 g6
 VVinick's the one who won't criticize his party on this; partial-birth, parental notification. He's bowing for the far-right fringes.
 p886
 sg8
-g43
+g32
 sg10
 VLEO
 p887
@@ -3281,7 +3281,7 @@ sg10
 VBRUNO
 p902
 sg12
-g9
+g32
 sa(dp903
 g6
 VSeem to be?
@@ -3320,12 +3320,12 @@ g6
 VThey need debates ten times more than us. We can wait it out. That's the bad news.
 p913
 sg8
-g43
+g32
 sg10
 VBRUNO
 p914
 sg12
-g9
+g32
 sa(dp915
 g6
 VYeah. Let's have the good news.
@@ -3364,7 +3364,7 @@ g6
 VThe heart of the Democratic base wants to support you. Santos would be doomed. We'd win 53 states, a few desert islands.
 p925
 sg8
-g43
+g32
 sg10
 VBRUNO
 p926
@@ -3397,7 +3397,7 @@ g6
 VI don't know. You know, a pro-choice group gets within 53 feet of me, the whole Republican Party would go crazy.
 p934
 sg8
-g43
+g32
 sg10
 VVINICK
 p935
@@ -3419,7 +3419,7 @@ g6
 VI can't see how they can endorse a Republican who's against partial-birth abortion, who's for parental notification. This could be Santos screwing me.
 p940
 sg8
-g43
+g32
 sg10
 VVINICK
 p941
@@ -3452,7 +3452,7 @@ g6
 VThe RNC has five negative ads ready that would blow Santos out of the water but it's going to harden his support on the left. It's going to make us more dependent on the right. Yeah we still win, but we win dirty. Wouldn't you rather outflank him on the left?
 p949
 sg8
-g43
+g32
 sg10
 VBRUNO
 p950
@@ -3507,7 +3507,7 @@ g6
 VShe was the absolute wrong person for that hit on Vinick. Didn't we say forty-something with kids?
 p964
 sg8
-g43
+g32
 sg10
 VJOSH
 p965
@@ -3556,13 +3556,13 @@ sg10
 VJOSH
 p977
 sg12
-g9
+g32
 sa(dp978
 g6
 VWell, that is a strike against her. I can see why you're concerned. Debate negotiations are off.
 p979
 sg8
-g43
+g32
 sg10
 VLOU
 p980
@@ -3578,7 +3578,7 @@ sg10
 VJOSH
 p983
 sg12
-g9
+g32
 sa(dp984
 g6
 VWe walked away. I gave it to the Times and the Journal.
@@ -3628,12 +3628,12 @@ g6
 VOkay, very bad news.
 p997
 sg8
-g43
+g32
 sg10
 VLOU
 p998
 sg12
-g9
+g32
 sa(dp999
 g6
 VOh, yeah.
@@ -3644,7 +3644,7 @@ sg10
 VJOSH
 p1001
 sg12
-g9
+g15
 sa(dp1002
 g6
 VIs it public?
@@ -3672,7 +3672,7 @@ g6
 VMaybe it'll hurt Vinick with his own right wing.
 p1009
 sg8
-g43
+g32
 sg10
 VLOU
 p1010
@@ -3705,7 +3705,7 @@ g6
 VSo, back into the breach.
 p1018
 sg8
-g43
+g32
 sg10
 VWILL
 p1019
@@ -3743,7 +3743,7 @@ sg10
 VC.J.
 p1028
 sg12
-g9
+g32
 sa(dp1029
 g6
 VMy instincts say to curl up in a ball in my office.
@@ -3765,7 +3765,7 @@ sg10
 VC.J.
 p1034
 sg12
-g9
+g32
 sa(dp1035
 g6
 VDown the hall, to your left at the...
@@ -3787,7 +3787,7 @@ sg10
 VMARGARET
 p1040
 sg12
-g9
+g32
 sa(dp1041
 g6
 VThe President's not signing the bill, not when it looks like Happy Hour at the Algonquin. See if they can get some of these earmarks out of it.
@@ -3881,12 +3881,12 @@ g6
 VOkay, I don't want to seem ungracious. We've all been under a lot of pressure. It's just that...
 p1066
 sg8
-g43
+g32
 sg10
 VJOSH
 p1067
 sg12
-g9
+g32
 sa(dp1068
 g6
 VHi.
@@ -3941,7 +3941,7 @@ sg10
 VDONNA
 p1082
 sg12
-g43
+g9
 sa(dp1083
 g6
 VI'm campaign manager, I hire the staff. It generally involves an interview. On-the-record experience?
@@ -3963,7 +3963,7 @@ sg10
 VDONNA
 p1088
 sg12
-g9
+g32
 sa(dp1089
 g6
 VReferences if we want to pursue this?
@@ -3974,7 +3974,7 @@ sg10
 VJOSH
 p1091
 sg12
-g9
+g32
 sa(dp1092
 g6
 VJosh Lyman, campaign manager, try the main switchboard.
@@ -4024,7 +4024,7 @@ g6
 VThe guy who taught me to answer the phone, who kept me in grunt-level servitude because I knew he liked his hamburgers burnt like hockey pucks?
 p1105
 sg8
-g43
+g32
 sg10
 VDONNA
 p1106
@@ -4051,13 +4051,13 @@ sg10
 VDONNA
 p1112
 sg12
-g9
+g32
 sa(dp1113
 g6
 VI hope you two are getting along like peas in a pod. It just broke over the wires: Women's Alliance wants to meet with Vinick. I need you to spin it bad for, him fine for us.
 p1114
 sg8
-g43
+g32
 sg10
 VLOU
 p1115
@@ -4073,13 +4073,13 @@ sg10
 VDONNA
 p1118
 sg12
-g9
+g15
 sa(dp1119
 g6
 VBad for us, worse for him; whatever sticks to the wall.
 p1120
 sg8
-g43
+g32
 sg10
 VLOU
 p1121
@@ -4150,7 +4150,7 @@ sg10
 VLOU
 p1139
 sg12
-g9
+g15
 sa(dp1140
 g6
 VWhat was the second thing?
@@ -4167,7 +4167,7 @@ g6
 VThe bishop from Camden, New Jersey, issued a statement: 'if Santos comes to mass in Camden, he'll deny him communion. His views of abortion have placed him in a state of great sin.' How does that play with values voters?
 p1144
 sg8
-g43
+g32
 sg10
 VBRAM
 p1145
@@ -4200,7 +4200,7 @@ g6
 VLou and Joey are almost done with our first negative ad.
 p1153
 sg8
-g43
+g32
 sg10
 VSANTOS
 p1154
@@ -4216,7 +4216,7 @@ sg10
 VLEO
 p1157
 sg12
-g9
+g32
 sa(dp1158
 g6
 VWell, that's not what bothers me about it.
@@ -4238,7 +4238,7 @@ sg10
 VLEO
 p1163
 sg12
-g9
+g32
 sa(dp1164
 g6
 VAnd the more we run them, the more people believe the worst about us. And so we pummel each other to the ground and whoever crawls across the finish line wins.
@@ -4293,7 +4293,7 @@ sg10
 VLEO
 p1178
 sg12
-g9
+g15
 sa(dp1179
 g6
 VVinick just landed in New York, too. Still no intelligence on what he's saying at the Smith dinner.
@@ -4321,7 +4321,7 @@ g6
 VFour points on "Shares our values" but Vinick took a bigger hit. 59% think he should denounce the ad more swing voters think he's a typical Republican.
 p1186
 sg8
-g43
+g32
 sg10
 VJOSH
 p1187
@@ -4343,7 +4343,7 @@ g6
 VWe need a way to spin it if they do endorse Vinick. It'd be a political earthquake.
 p1192
 sg8
-g43
+g32
 sg10
 VJOSH
 p1193
@@ -4392,7 +4392,7 @@ sg10
 VLOU
 p1205
 sg12
-g9
+g32
 sa(dp1206
 g6
 VI need you to talk to Treasury about that debt relief report. The President's interested in doing an event on it.
@@ -4414,13 +4414,13 @@ sg10
 VWILL
 p1211
 sg12
-g9
+g32
 sa(dp1212
 g6
 VAnd he thinks the agency response to new markets has been a bit thin. You should crack a few sub-cabinet heads.
 p1213
 sg8
-g43
+g32
 sg10
 VC.J.
 p1214
@@ -4442,7 +4442,7 @@ g6
 VYeah. We need a better answer on the energy bill. It's not your fault. DOE's been dickering around.
 p1219
 sg8
-g43
+g32
 sg10
 VC.J.
 p1220
@@ -4491,7 +4491,7 @@ sg10
 VWILL
 p1232
 sg12
-g9
+g32
 sa(dp1233
 g6
 VSeagle? ... No, keep talking. I'm not going anywhere.
@@ -4530,12 +4530,12 @@ g6
 VVinick will hit back. He's probably already bought the air time.
 p1243
 sg8
-g43
+g32
 sg10
 VSANTOS
 p1244
 sg12
-g9
+g32
 sa(dp1245
 g6
 VHe has.
@@ -4546,7 +4546,7 @@ sg10
 VJOSH
 p1247
 sg12
-g9
+g15
 sa(dp1248
 g6
 VLeo.
@@ -4596,7 +4596,7 @@ g6
 VI hope you're going to give a tough speech on partial-birth abortion tonight. These folks need to hear it. This story about the Women's Alliance won't even endorse you. It's a disaster.
 p1261
 sg8
-g43
+g32
 sg10
 VHODDER
 p1262
@@ -4612,7 +4612,7 @@ sg10
 VVINICK
 p1265
 sg12
-g9
+g32
 sa(dp1266
 g6
 VYou can't let this communion thing bother you. Most Catholics are pro-choice. How do bishops expect politicians to do what they can't do in their own church? And the Bible's silent on the issue; not one word that says it's the destruction of a human life.
@@ -4634,7 +4634,7 @@ sg10
 VSANTOS
 p1271
 sg12
-g43
+g32
 sa(dp1272
 g6
 VYou're pro-life?
@@ -4684,12 +4684,12 @@ g6
 VNot if you think abortion is murder.
 p1285
 sg8
-g43
+g32
 sg10
 VHODDER
 p1286
 sg12
-g9
+g32
 sa(dp1287
 g6
 VWhether you do or not, Roe v. Wade has been the law of the land for decades. Most of the country is not ready to change that. Neither am I.
@@ -4711,13 +4711,13 @@ sg10
 VHODDER
 p1292
 sg12
-g9
+g32
 sa(dp1293
 g6
 VI joined this party because the liberals were the ones who always wanted something from the government. We just wanted government to leave us alone. Especially when there's no consensus otherwise. I'm trying to lead the majority who agrees on that, not the minority who wants to enact their version of Leviticus into law.
 p1294
 sg8
-g43
+g32
 sg10
 VVINICK
 p1295
@@ -4739,7 +4739,7 @@ g6
 VYou're going to denounce that ad tonight.
 p1300
 sg8
-g43
+g32
 sg10
 VVINICK
 p1301
@@ -4766,7 +4766,7 @@ sg10
 VVINICK
 p1307
 sg12
-g9
+g15
 sa(dp1308
 g6
 VLeo tells me that you might defend the right to choose tonight. Proudly, aggressively; this would be a gutsy place to do it.
@@ -4788,7 +4788,7 @@ sg10
 VLEO
 p1313
 sg12
-g9
+g32
 sa(dp1314
 g6
 VI still believe that the Women's Alliance needs to encourage pro-choice Republicans and the Democratic Party needs to as well.
@@ -4805,7 +4805,7 @@ g6
 VWhat we need to make clear is that we're not hostile to people who are anti-abortion.
 p1318
 sg8
-g43
+g32
 sg10
 VSANTOS
 p1319
@@ -4865,7 +4865,7 @@ sg10
 VBECCA
 p1334
 sg12
-g9
+g32
 sa(dp1335
 g6
 VHow about after an IQ test?
@@ -4893,7 +4893,7 @@ g6
 VWell, then you support limits on abortion yourself. Isn't it all a matter of degrees after that? Who are you, who are any of us, to say where someone should draw the line for themselves?
 p1342
 sg8
-g43
+g32
 sg10
 VSANTOS
 p1343
@@ -4915,12 +4915,12 @@ g6
 VThat abortion is a tragedy. That it should be legal, it should be safe; it should be a lot rarer than it is now. If you have a problem with that, then endorse whoever you want.
 p1348
 sg8
-g43
+g32
 sg10
 VSANTOS
 p1349
 sg12
-g9
+g32
 sa(dp1350
 g6
 V[whispering] You'll go in after the intro.
@@ -4981,7 +4981,7 @@ g6
 VYou want an ugly campaign you're going to get one.
 p1366
 sg8
-g43
+g32
 sg10
 VSANTOS
 p1367
@@ -4997,7 +4997,7 @@ sg10
 VVINICK
 p1370
 sg12
-g43
+g32
 sa(dp1371
 g6
 VNah, you henchmen did it for you.
@@ -5019,7 +5019,7 @@ sg10
 VSANTOS
 p1376
 sg12
-g9
+g32
 sa(dp1377
 g6
 VHere we are, a Presidential campaign, grand national debate, pounding each other on one of the few things we basically agree on.
@@ -5052,7 +5052,7 @@ sg10
 VVINICK
 p1385
 sg12
-g9
+g32
 sa(dp1386
 g6
 VNo backroom tactics. You and me, a real debate.
@@ -5063,7 +5063,7 @@ sg10
 VSANTOS
 p1388
 sg12
-g9
+g15
 sa(dp1389
 g6
 VOh, please.
@@ -5074,7 +5074,7 @@ sg10
 VVINICK
 p1391
 sg12
-g9
+g15
 sa(dp1392
 g6
 VA real debate, really.
@@ -5085,13 +5085,13 @@ sg10
 VSANTOS
 p1394
 sg12
-g9
+g15
 sa(dp1395
 g6
 VNo negative ads. No attacks in our speeches out there.
 p1396
 sg8
-g43
+g32
 sg10
 VVINICK
 p1397
@@ -5124,7 +5124,7 @@ g6
 VIt's a hell of a way to end your campaign.
 p1405
 sg8
-g43
+g32
 sg10
 VVINICK
 p1406
@@ -5140,5 +5140,5 @@ sg10
 VSANTOS
 p1409
 sg12
-g9
+g32
 sas.

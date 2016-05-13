@@ -167,168 +167,168 @@ sg10
 VJOSH
 p52
 sg12
-g9
-sa(dp53
+S'negative'
+p53
+sa(dp54
 g6
 VThey have a meeting with Leo. I can't find him anywhere.
-p54
+p55
 sg8
 g9
 sg10
 VMARGARET
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VYou can't find him?
-p57
+p58
 sg8
 g9
 sg10
 VTOBY
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VMr. Speaker, Mr. Majority Leader.
-p60
+p61
 sg8
 g9
 sg10
 VJOSH
-p61
+p62
 sg12
 g9
-sa(dp62
+sa(dp63
 g6
 VWe're taking this meeting.
-p63
+p64
 sg8
 g9
 sg10
 VTOBY
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VLeo's got a thing at Foggy Bottom.
-p66
+p67
 sg8
 g9
 sg10
 VJOSH
-p67
+p68
 sg12
 g9
-sa(dp68
+sa(dp69
 g6
 VHe's got a thing?
-p69
+p70
 sg8
 g9
 sg10
 VHAFFLEY
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VYeah. Who knows why he'd be busy. It's not like we brokered a major peace deal last night. Don't get me wrong: you guys are doing great work on the soy-based fuel subsidy.
-p72
+p73
 sg8
 g24
 sg10
 VJOSH
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VWhat Josh means is that...
-p75
+p76
 sg8
 g9
 sg10
 VTOBY
-p76
+p77
 sg12
-g9
-sa(dp77
+g24
+sa(dp78
 g6
 VWell, maybe he means somebody's got to pay for 20,000 peacekeepers to enforce your peace deal and the money's not coming out of the soy-based fuel subsidy.
-p78
+p79
 sg8
 g24
 sg10
 VHAFFLEY
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VDue respect, you never thought we'd get a deal and we did. They're going to be scraping faces off Mount Rushmore. It's a news roadblock. There's no use honking your horn.
-p81
+p82
 sg8
 g24
 sg10
 VJOSH
-p82
+p83
 sg12
 g9
-sa(dp83
+sa(dp84
 g6
 VWhat Josh is trying to say...
-p84
+p85
 sg8
 g9
 sg10
 VTOBY
-p85
+p86
 sg12
 g9
-sa(dp86
+sa(dp87
 g6
 VEnjoy your roadblock, which will last a day, maybe two. Because then the story goes to Congress, and who's kids are going to serve and who's going to pay. And I don't have to honk: I'll repave the road.
-p87
+p88
 sg8
 g9
 sg10
 VHAFFLEY
-p88
+p89
 sg12
 g9
-sa(dp89
+sa(dp90
 g6
 VIf you called this meeting to talk about...
-p90
+p91
 sg8
 g24
 sg10
 VTOBY
-p91
+p92
 sg12
 g9
-sa(dp92
+sa(dp93
 g6
 VWe called this meeting to talk about a tax cut.
-p93
+p94
 sg8
 g9
 sg10
 VROYCE
-p94
+p95
 sg12
 g9
-sa(dp95
+sa(dp96
 g6
 VA tax cut?
-p96
-sg8
-S'negative'
 p97
+sg8
+g53
 sg10
 VJOSH
 p98
@@ -344,7 +344,7 @@ sg10
 VROYCE
 p101
 sg12
-g9
+g24
 sa(dp102
 g6
 VWe scheduled this with Leo more than a week ago.
@@ -388,13 +388,13 @@ sg10
 VJOSH
 p113
 sg12
-g9
+g24
 sa(dp114
 g6
 VHave you seen the deficit projections? If we do tax cuts on top of peacekeeping we'll drown in red ink.
 p115
 sg8
-g97
+g53
 sg10
 VTOBY
 p116
@@ -416,7 +416,7 @@ g6
 VHelp us pass a tax cut, then we'll vote on peacekeeping.
 p121
 sg8
-g97
+g53
 sg10
 VHAFFLEY
 p122
@@ -454,7 +454,7 @@ sg10
 VTOBY
 p131
 sg12
-g9
+g53
 sa(dp132
 g6
 VAnd get us 60 Democratic votes in the House. To guarantee passage and make sure Democrats can't attack us for it later.
@@ -482,7 +482,7 @@ g6
 VThank you. Now let's get a little flow chart going. State calls the foreign ministers; I call the heads of state; like tag-team wrestling without the body slams.
 p139
 sg8
-g97
+g53
 sg10
 VBARTLET
 p140
@@ -526,7 +526,7 @@ g6
 VRepublicans want a tax cut before they vote on peacekeeping.
 p151
 sg8
-g97
+g53
 sg10
 VTOBY
 p152
@@ -537,12 +537,12 @@ g6
 VI'm surprised they didn't wear ski masks and ask for it in a brown paper bag.
 p154
 sg8
-g97
+g53
 sg10
 VJOSH
 p155
 sg12
-g9
+g53
 sa(dp156
 g6
 VApparently, Leo knew about this.
@@ -592,7 +592,7 @@ g6
 VI think we should wait for Leo.
 p169
 sg8
-g97
+g53
 sg10
 VTOBY
 p170
@@ -625,7 +625,7 @@ g6
 VHe was unconscious for a long time. It's a miracle he has brain function. Every minute damages the heart muscle more.
 p178
 sg8
-g97
+g53
 sg10
 VABBEY
 p179
@@ -641,7 +641,7 @@ sg10
 VC.J.
 p182
 sg12
-g9
+g24
 sa(dp183
 g6
 VThey don't know yet.
@@ -652,7 +652,7 @@ sg10
 VABBEY
 p185
 sg12
-g24
+g53
 sa(dp186
 g6
 VWill they operate?
@@ -663,7 +663,7 @@ sg10
 VTOBY
 p188
 sg12
-g97
+g9
 sa(dp189
 g6
 VThey don't know yet.
@@ -674,13 +674,13 @@ sg10
 VABBEY
 p191
 sg12
-g24
+g53
 sa(dp192
 g6
 VThese are supposed to be the best thoracic surgeons in the world: what the hell do they know?
 p193
 sg8
-g97
+g53
 sg10
 VBARTLET
 p194
@@ -740,7 +740,7 @@ sg10
 VTOBY
 p209
 sg12
-g9
+g24
 sa(dp210
 g6
 VA quick vote on peacekeeping and a big show of international support. A security council resolution would be ideal.
@@ -834,12 +834,12 @@ g6
 VUh, remarks are done. Legislative Affairs is making notification calls.
 p235
 sg8
-g97
+g53
 sg10
 VJOSH
 p236
 sg12
-g9
+g53
 sa(dp237
 g6
 VCarol says you're having an inter-agency meeting on homelessness and mental health?
@@ -861,7 +861,7 @@ sg10
 VTOBY
 p242
 sg12
-g9
+g53
 sa(dp243
 g6
 VThat's a good idea.
@@ -872,7 +872,7 @@ sg10
 VC.J.
 p245
 sg12
-g9
+g53
 sa(dp246
 g6
 VI pushed it back. Look, we're in the middle of an intersection without a traffic cop. If we want, we can run things through me.
@@ -988,7 +988,7 @@ g6
 VThe leadership wants 60 Democratic votes for a tax cut.
 p277
 sg8
-g97
+g53
 sg10
 VJOSH
 p278
@@ -1015,7 +1015,7 @@ sg10
 VJOSH
 p284
 sg12
-g9
+g24
 sa(dp285
 g6
 VAnd scrape faces off Mount Rushmore.
@@ -1026,7 +1026,7 @@ sg10
 VTOBY
 p287
 sg12
-g9
+g53
 sa(dp288
 g6
 VBut it makes perfect sense in Peoria.
@@ -1037,7 +1037,7 @@ sg10
 VJOSH
 p290
 sg12
-g9
+g24
 sa(dp291
 g6
 VAnd here we are, far from Peoria and far from making any sense. I'll put out that statement.
@@ -1059,7 +1059,7 @@ sg10
 VJOSH
 p296
 sg12
-g9
+g24
 sa(dp297
 g6
 VNo specifics, okay? We're just jacking up a tax credit that's already on the books.
@@ -1103,7 +1103,7 @@ sg10
 VC.J.
 p308
 sg12
-g9
+g24
 sa(dp309
 g6
 VYou might want to start gathering statements from Security Council members; build momentum toward that resolution. We can tell the President it was your idea.
@@ -1164,7 +1164,7 @@ g6
 VWhat were the indications for a bypass as opposed to a PTCA?
 p325
 sg8
-g97
+g53
 sg10
 VABBEY
 p326
@@ -1191,7 +1191,7 @@ sg10
 VHARDIN
 p332
 sg12
-g9
+g53
 sa(dp333
 g6
 VHow long till he's off the pump?
@@ -1213,7 +1213,7 @@ sg10
 VHARDIN
 p338
 sg12
-g9
+g53
 sa(dp339
 g6
 VThree hours?
@@ -1224,7 +1224,7 @@ sg10
 VABBEY
 p341
 sg12
-g9
+g53
 sa(dp342
 g6
 VYeah. He was down a long time.
@@ -1235,7 +1235,7 @@ sg10
 VHARDIN
 p344
 sg12
-g9
+g53
 sa(dp345
 g6
 VTime being muscle.
@@ -1246,7 +1246,7 @@ sg10
 VBARTLET
 p347
 sg12
-g97
+g9
 sa(dp348
 g6
 VYes, sir. I'll come back when I have more.
@@ -1312,7 +1312,7 @@ sg10
 VC.J.
 p365
 sg12
-g9
+g53
 sa(dp366
 g6
 VWhy not?
@@ -1323,7 +1323,7 @@ sg10
 VC.J.
 p368
 sg12
-g9
+g53
 sa(dp369
 g6
 VTheir President is loony-tunes. He created a holiday for his favorite melon.
@@ -1334,7 +1334,7 @@ sg10
 VJOSH
 p371
 sg12
-g9
+g24
 sa(dp372
 g6
 VHoliday for a melon?
@@ -1373,7 +1373,7 @@ g6
 VIgnore him. He'll fall in line.
 p382
 sg8
-g97
+g53
 sg10
 VJOSH
 p383
@@ -1450,7 +1450,7 @@ g6
 VLeo is having his chest cracked open and all morning you've been heading for a high-fructose coma.
 p403
 sg8
-g97
+g53
 sg10
 VC.J.
 p404
@@ -1499,7 +1499,7 @@ sg10
 VC.J.
 p416
 sg12
-g9
+g53
 sa(dp417
 g6
 VI mean... You know perfectly well what I mean.
@@ -1532,7 +1532,7 @@ sg10
 VJOSH
 p425
 sg12
-g9
+g24
 sa(dp426
 g6
 VStress actually restricts the flow of blood through the coronary arteries.
@@ -1543,7 +1543,7 @@ sg10
 VABBEY
 p428
 sg12
-g9
+g24
 sa(dp429
 g6
 VWhat I'm saying is it's physiological. Unless you wanted him meditating his way through intelligence briefings and sleeping in a flotation tank, there's nothing you did...
@@ -1626,7 +1626,7 @@ g6
 VThey're trying to stabilize his pressure.
 p451
 sg8
-g97
+g53
 sg10
 VTOBY
 p452
@@ -1642,7 +1642,7 @@ sg10
 VBORDEN
 p455
 sg12
-g9
+g53
 sa(dp456
 g6
 VNo idea, but I wish they'd do it to me. Congressman, I know you've got a big block of Democratic votes on Ways and Means and you probably think the timing of this Child Tax credit is a bit silly.
@@ -1653,13 +1653,13 @@ sg10
 VTOBY
 p458
 sg12
-g9
+g53
 sa(dp459
 g6
 VI don't think it's silly in the least. We're asking our constituents to support a huge troop deployment; we ought to give them something first.
 p460
 sg8
-g97
+g53
 sg10
 VBORDEN
 p461
@@ -1697,7 +1697,7 @@ sg10
 VTOBY
 p470
 sg12
-g9
+g24
 sa(dp471
 g6
 VHow many children will be eligible for this expanded tax credit?
@@ -1714,7 +1714,7 @@ g6
 VSame as the current tax code: income phase out at 110k.
 p475
 sg8
-g97
+g53
 sg10
 VTOBY
 p476
@@ -1741,7 +1741,7 @@ sg10
 VTOBY
 p482
 sg12
-g9
+g24
 sa(dp483
 g6
 VThe deficit hawks are talking about capping the number of eligible kids. Promise me we won't.
@@ -1758,12 +1758,12 @@ g6
 VWe'll leave that to Congress.
 p487
 sg8
-g97
+g53
 sg10
 VTOBY
 p488
 sg12
-g9
+g53
 sa(dp489
 g6
 VAnd what does the President say to the parents who are on their seventh, eighth child?
@@ -1791,7 +1791,7 @@ g6
 VThe Republicans will say any disincentive to have kids is two steps short of government-ordered abortion. You want us to look anti-family?
 p496
 sg8
-g97
+g53
 sg10
 VBORDEN
 p497
@@ -1829,7 +1829,7 @@ sg10
 VLACKEY
 p506
 sg12
-g97
+g53
 sa(dp507
 g6
 VWe've already got an income cut-off. What more can we do?
@@ -1840,7 +1840,7 @@ sg10
 VJOSH
 p509
 sg12
-g9
+g53
 sa(dp510
 g6
 VPut a cap on the number of kids per family at three or four.
@@ -1884,7 +1884,7 @@ sg10
 VLACKEY
 p521
 sg12
-g9
+g24
 sa(dp522
 g6
 VWe prefer to leave the details to Congress.
@@ -1901,7 +1901,7 @@ g6
 VPeacekeeping is going to explode the deficit. We should subsidize every Rube Goldberg's reproductive glands?
 p526
 sg8
-g97
+g53
 sg10
 VBRIGG
 p527
@@ -1961,7 +1961,7 @@ sg10
 VC.J.
 p542
 sg12
-g9
+g53
 sa(dp543
 g6
 VExcuse me, Congressmen, it's just the Josh is diabetic and I haven't had any lunch.
@@ -1972,7 +1972,7 @@ sg10
 VC.J.
 p545
 sg12
-g9
+g53
 sa(dp546
 g6
 VAnything new?
@@ -2060,7 +2060,7 @@ sg10
 VCHARLIE
 p569
 sg12
-g97
+g53
 sa(dp570
 g6
 VI heard you finished your courses. You're done at Georgetown?
@@ -2082,7 +2082,7 @@ sg10
 VCHARLIE
 p575
 sg12
-g9
+g24
 sa(dp576
 g6
 VBesides courses?
@@ -2104,7 +2104,7 @@ sg10
 VCHARLIE
 p581
 sg12
-g9
+g24
 sa(dp582
 g6
 VOh. Well, let me know when Will paddles back to the shallow end.
@@ -2170,7 +2170,7 @@ sg10
 VCHRIS
 p599
 sg12
-g9
+g24
 sa(dp600
 g6
 VStill in surgery. That's all I have.
@@ -2291,7 +2291,7 @@ sg10
 VBROCK
 p632
 sg12
-g9
+g24
 sa(dp633
 g6
 VWould not.
@@ -2302,7 +2302,7 @@ sg10
 VC.J.
 p635
 sg12
-g9
+g53
 sa(dp636
 g6
 VWould too.
@@ -2313,13 +2313,13 @@ sg10
 VBROCK
 p638
 sg12
-g9
+g24
 sa(dp639
 g6
 VWould not, and we're riding one of the best press waves of this Presidency. The words "Nobel Peace Prize" were in two separate wire stories so I don't have to play your game of inside baseball today.
 p640
 sg8
-g97
+g53
 sg10
 VC.J.
 p641
@@ -2346,7 +2346,7 @@ sg10
 VC.J.
 p647
 sg12
-g9
+g24
 sa(dp648
 g6
 VIn the middle of a bypass you have no way of knowing that.
@@ -2368,13 +2368,13 @@ sg10
 VC.J.
 p653
 sg12
-g24
+g53
 sa(dp654
 g6
 VBecause we're talking about the virtual co-President and you can't tell me who's running the place in his absence.
 p655
 sg8
-g97
+g53
 sg10
 VBROCK
 p656
@@ -2489,7 +2489,7 @@ sg10
 VDEBBIE
 p686
 sg12
-g9
+g53
 sa(dp687
 g6
 VHe had his reservations about all this.
@@ -2665,7 +2665,7 @@ sg10
 VWILL
 p734
 sg12
-g9
+g53
 sa(dp735
 g6
 VI'm surprised you didn't pitch a tent.
@@ -2676,7 +2676,7 @@ sg10
 VTOBY
 p737
 sg12
-g24
+g53
 sa(dp738
 g6
 VCan we do some business before we head to the hospital? Lebanon's come out against the accord. Now France may oppose the Security Council Resolution until Congress acts. They don't want to get stuck doing all the peacekeeping.
@@ -2704,12 +2704,12 @@ g6
 VHe's lying. We should throw an elbow. This is some nutbag, dictator of the week begging for surplus rutabagas.
 p745
 sg8
-g97
+g53
 sg10
 VJOSH
 p746
 sg12
-g9
+g53
 sa(dp747
 g6
 VAnd you, my friend, are a bounder and a cheat.
@@ -2720,7 +2720,7 @@ sg10
 VC.J.
 p749
 sg12
-g9
+g24
 sa(dp750
 g6
 VYou tried to entrap me with those brownies.
@@ -2737,12 +2737,12 @@ g6
 VI didn't put those there, but if you want traps, mine have metal jaws.
 p754
 sg8
-g97
+g53
 sg10
 VC.J.
 p755
 sg12
-g9
+g53
 sa(dp756
 g6
 VThe President wants a unanimous Security Council vote, we've lost three countries in the last hour, and both our diplomatic heavies are in the cardiac ward.
@@ -2759,7 +2759,7 @@ g6
 VSo we tell State to lean on France. Slap a tariff on baguettes. Squeeze them with everything we've got.
 p760
 sg8
-g97
+g53
 sg10
 VJOSH
 p761
@@ -2770,12 +2770,12 @@ g6
 VExcept the Secretary's not returning my calls.
 p763
 sg8
-g97
+g53
 sg10
 VJOSH
 p764
 sg12
-g9
+g53
 sa(dp765
 g6
 VYou, too? Do we have 60 votes on this tax cut? Some Congressional action would really help.
@@ -2797,13 +2797,13 @@ sg10
 VTOBY
 p770
 sg12
-g9
+g53
 sa(dp771
 g6
 VI got 27, plus the whip's making calls. I'll get us help.
 p772
 sg8
-g97
+g53
 sg10
 VJOSH
 p773
@@ -2825,7 +2825,7 @@ g6
 VCap it at 4; I just told the deficit hawks we would.
 p778
 sg8
-g97
+g53
 sg10
 VJOSH
 p779
@@ -2841,7 +2841,7 @@ sg10
 VTOBY
 p782
 sg12
-g9
+g53
 sa(dp783
 g6
 VAnd you were?
@@ -2852,7 +2852,7 @@ sg10
 VJOSH
 p785
 sg12
-g24
+g53
 sa(dp786
 g6
 VNo cap doesn't count as a specific. When did we become the Chinese population bureau?
@@ -2874,7 +2874,7 @@ sg10
 VJOSH
 p791
 sg12
-g9
+g53
 sa(dp792
 g6
 VThere'd better be 27 votes...
@@ -2885,13 +2885,13 @@ sg10
 VTOBY
 p794
 sg12
-g9
+g53
 sa(dp795
 g6
 VOkay, what if we get Treasury to crank out a quick estimate? This cap might not save much anyway. Maybe Josh can roll back his 27 without losing your 23.
 p796
 sg8
-g97
+g53
 sg10
 VC.J.
 p797
@@ -2913,7 +2913,7 @@ g6
 VAnd you'd better look for more votes in case that doesn't work.
 p802
 sg8
-g97
+g53
 sg10
 VWILL
 p803
@@ -2995,7 +2995,7 @@ sg10
 VBARTLET
 p824
 sg12
-g9
+g53
 sa(dp825
 g6
 VIf I knew how, I would.
@@ -3006,7 +3006,7 @@ sg10
 VABBEY
 p827
 sg12
-g9
+g53
 sa(dp828
 g6
 VMr. President, Mrs. Bartlet.
@@ -3039,7 +3039,7 @@ sg10
 VBARTLET
 p836
 sg12
-g9
+g53
 sa(dp837
 g6
 VMallory told us downstairs.
@@ -3083,7 +3083,7 @@ sg10
 VBARTLET
 p848
 sg12
-g97
+g53
 sa(dp849
 g6
 VAll day?
@@ -3127,7 +3127,7 @@ sg10
 VBARTLET
 p860
 sg12
-g9
+g53
 sa(dp861
 g6
 VFor two days, for two weeks, especially if he's...
@@ -3182,7 +3182,7 @@ sg10
 VTOBY
 p875
 sg12
-g9
+g53
 sa(dp876
 g6
 VIt's a couple of days. This was totally unexpected.
@@ -3248,7 +3248,7 @@ sg10
 VBARTLET
 p893
 sg12
-g9
+g53
 sa(dp894
 g6
 VNo, sir.
@@ -3314,7 +3314,7 @@ sg10
 VDONNA
 p911
 sg12
-g9
+g53
 sa(dp912
 g6
 VI want to wheel you around.
@@ -3408,7 +3408,7 @@ g6
 VC.J.'s trying to trap me and she's going down like a cheap pair of salad tongs.
 p937
 sg8
-g97
+g53
 sg10
 VJOSH
 p938
@@ -3424,7 +3424,7 @@ sg10
 VDONNA
 p941
 sg12
-g97
+g53
 sa(dp942
 g6
 VI'll explain later. Wait here a second, I've got to get this. Don't go anywhere.
@@ -3463,7 +3463,7 @@ g6
 VWe almost had the 60 Democrats and then half of them wanted a cap on the number of kids. The other half didn't; things fell apart.
 p952
 sg8
-g97
+g53
 sg10
 VTOBY
 p953
@@ -3501,7 +3501,7 @@ sg10
 VHAFFLEY
 p962
 sg12
-g9
+g53
 sa(dp963
 g6
 VHello?
@@ -3578,7 +3578,7 @@ sg10
 VHAFFLEY
 p983
 sg12
-g9
+g53
 sa(dp984
 g6
 VI need to know when Toby's back from the Hill. He's trying to anoint himself Lord of the Flies.
@@ -3595,7 +3595,7 @@ g6
 VAnd, uh, get me the Democratic whip.
 p988
 sg8
-g97
+g53
 sg10
 VJOSH
 p989
@@ -3622,7 +3622,7 @@ sg10
 VJOSH
 p995
 sg12
-g9
+g24
 sa(dp996
 g6
 VYou really should use the intercom.
@@ -3639,7 +3639,7 @@ g6
 VC.J.! I hate to take your time with this.
 p1000
 sg8
-g97
+g53
 sg10
 VBROCK
 p1001
@@ -3650,7 +3650,7 @@ g6
 V"What do you think my time is for, big boy?"
 p1003
 sg8
-g97
+g53
 sg10
 VC.J.
 p1004
@@ -3661,7 +3661,7 @@ g6
 VDon't do that, because now I've got to do my lousy Carey Grant and you end up stealing the scene anyway.
 p1006
 sg8
-g97
+g53
 sg10
 VBROCK
 p1007
@@ -3732,13 +3732,13 @@ sg10
 VC.J.
 p1025
 sg12
-g9
+g53
 sa(dp1026
 g6
 VI'm hearing Will Bailey.
 p1027
 sg8
-g97
+g53
 sg10
 VBROCK
 p1028
@@ -3749,7 +3749,7 @@ g6
 VThen you should have your hearing checked.
 p1030
 sg8
-g97
+g53
 sg10
 VC.J.
 p1031
@@ -3771,7 +3771,7 @@ g6
 VFirst of all, it's Leo. Second, Josh and Toby know every inch of the government: military, industrial, animal, mineral.
 p1036
 sg8
-g97
+g53
 sg10
 VC.J.
 p1037
@@ -3842,13 +3842,13 @@ sg10
 VLINK
 p1055
 sg12
-g9
+g24
 sa(dp1056
 g6
 VThank you. We're going to need your help on this tax bill; harder than we thought to get 60 votes in two days.
 p1057
 sg8
-g97
+g53
 sg10
 VTOBY
 p1058
@@ -3875,7 +3875,7 @@ sg10
 VLINK
 p1064
 sg12
-g9
+g53
 sa(dp1065
 g6
 VWhat are these?
@@ -3908,7 +3908,7 @@ sg10
 VTOBY
 p1073
 sg12
-g97
+g53
 sa(dp1074
 g6
 VIf we don't get tax relief in this bill, I'm calling for a monarch: someone to do the glad-handing and the ceremonial fluff so maybe the President will help people here at home.
@@ -3947,12 +3947,12 @@ g6
 VSorry I'm late, Congressman. I'm sure Leo'd want to be here himself.
 p1084
 sg8
-g97
+g53
 sg10
 VJOSH
 p1085
 sg12
-g9
+g53
 sa(dp1086
 g6
 VI'm sure.
@@ -3963,13 +3963,13 @@ sg10
 VBENOIT
 p1088
 sg12
-g97
+g9
 sa(dp1089
 g6
 VA few snags with the tax bill.
 p1090
 sg8
-g97
+g53
 sg10
 VJOSH
 p1091
@@ -3985,7 +3985,7 @@ sg10
 VBENOIT
 p1094
 sg12
-g9
+g53
 sa(dp1095
 g6
 VThe truth is we could use your vote.
@@ -4029,7 +4029,7 @@ sg10
 VBENOIT
 p1106
 sg12
-g9
+g53
 sa(dp1107
 g6
 VWe're headed into a Presidential election year.
@@ -4040,7 +4040,7 @@ sg10
 VJOSH
 p1109
 sg12
-g9
+g53
 sa(dp1110
 g6
 VWe are.
@@ -4112,7 +4112,7 @@ g6
 VIf the government can't make it available to everyone, I want us out of the business entirely. Leave it to churches and synagogues, and, of course, casinos and department stores.
 p1129
 sg8
-g97
+g53
 sg10
 VBENOIT
 p1130
@@ -4167,12 +4167,12 @@ g6
 VDid they call to warn me that Benoit wants to ban marriage?
 p1144
 sg8
-g97
+g53
 sg10
 VJOSH
 p1145
 sg12
-g9
+g53
 sa(dp1146
 g6
 VBan marriage?
@@ -4183,7 +4183,7 @@ sg10
 VDONNA
 p1148
 sg12
-g9
+g24
 sa(dp1149
 g6
 VIf we won't support gay marriage, he wants the government out of it entirely.
@@ -4205,7 +4205,7 @@ sg10
 VDONNA
 p1154
 sg12
-g9
+g53
 sa(dp1155
 g6
 VIt's a direct-mail bonanza for the other side. Even a fringe bill to ban marriage, they'll be reenacting Caligula at the Republican National Convention.
@@ -4227,7 +4227,7 @@ sg10
 VDONNA
 p1160
 sg12
-g9
+g24
 sa(dp1161
 g6
 VThank you.
@@ -4244,7 +4244,7 @@ g6
 VC.J. says China's drawing the opposition to a Security Counsel vote until Congress acts.
 p1165
 sg8
-g97
+g53
 sg10
 VDONNA
 p1166
@@ -4255,7 +4255,7 @@ g6
 VWhy isn't the State department cracking heads?
 p1168
 sg8
-g97
+g53
 sg10
 VJOSH
 p1169
@@ -4293,7 +4293,7 @@ sg10
 VJOSH
 p1178
 sg12
-g9
+g24
 sa(dp1179
 g6
 VSend it to the President of Turkmenistan.
@@ -4304,7 +4304,7 @@ sg10
 VDONNA
 p1181
 sg12
-g9
+g24
 sa(dp1182
 g6
 VThe Speaker was never for this deal. A Security Council resolution would prod him. What sense does it make to wait? ... Thank you, Madame President.
@@ -4332,7 +4332,7 @@ g6
 VTell him to leave them at the White House.
 p1189
 sg8
-g97
+g53
 sg10
 VABBEY
 p1190
@@ -4348,13 +4348,13 @@ sg10
 VBARTLET
 p1193
 sg12
-g97
+g53
 sa(dp1194
 g6
 VTell him to leave them at the White House.
 p1195
 sg8
-g97
+g53
 sg10
 VABBEY
 p1196
@@ -4376,7 +4376,7 @@ g6
 VYou think this is your fault? It's not.
 p1201
 sg8
-g97
+g53
 sg10
 VABBEY
 p1202
@@ -4403,7 +4403,7 @@ sg10
 VABBEY
 p1208
 sg12
-g9
+g24
 sa(dp1209
 g6
 VWhat are you trying to say?
@@ -4502,18 +4502,18 @@ sg10
 VBARTLET
 p1235
 sg12
-g9
+g53
 sa(dp1236
 g6
 VI'm late for an economic briefing.
 p1237
 sg8
-g97
+g53
 sg10
 VC.J.
 p1238
 sg12
-g9
+g53
 sa(dp1239
 g6
 VIt just started.
@@ -4524,7 +4524,7 @@ sg10
 VCAROL
 p1241
 sg12
-g9
+g53
 sa(dp1242
 g6
 VEngland, Iceland, Spain, and Canada have all pledged troops for peacekeeping. DOD called me in the car.
@@ -4585,7 +4585,7 @@ g6
 VLeo's heart's beating on its own. He's still critical, but he's off the heart and lung machine.
 p1258
 sg8
-g97
+g53
 sg10
 VCAROL
 p1259
@@ -4596,12 +4596,12 @@ g6
 VI'm late for an economic briefing.
 p1261
 sg8
-g97
+g53
 sg10
 VC.J.
 p1262
 sg12
-g9
+g53
 sa(dp1263
 g6
 VLeo's off the pump.
@@ -4678,7 +4678,7 @@ sg10
 VDONNA
 p1283
 sg12
-g9
+g53
 sa(dp1284
 g6
 VLet's just say you were a blood donor. I'm going to stop taking those for granted.
@@ -4755,7 +4755,7 @@ sg10
 VJOSH
 p1304
 sg12
-g24
+g9
 sa(dp1305
 g6
 VNo. Did you?
@@ -4766,7 +4766,7 @@ sg10
 VTOBY
 p1307
 sg12
-g24
+g9
 sa(dp1308
 g6
 VThe Treasury Secretary did.
@@ -4799,7 +4799,7 @@ sg10
 VJOSH
 p1316
 sg12
-g9
+g24
 sa(dp1317
 g6
 VUpset? Pretty.
@@ -4843,13 +4843,13 @@ sg10
 VJOSH
 p1328
 sg12
-g9
+g24
 sa(dp1329
 g6
 VSo when I suggested a Treasury estimate, I guess I assumed we told the Treasury Secretary, head of all federal tax policy, what in Alexander Hamilton's name we were doing.
 p1330
 sg8
-g97
+g53
 sg10
 VC.J.
 p1331
@@ -4865,7 +4865,7 @@ sg10
 VTOBY
 p1334
 sg12
-g9
+g24
 sa(dp1335
 g6
 VI'll call the press office, see if we can roll this back.
@@ -4882,7 +4882,7 @@ g6
 VThe tax cut just got more expensive. I had to give incentives to pork producers to avoid a little PR problem.
 p1339
 sg8
-g97
+g53
 sg10
 VTOBY
 p1340
@@ -4898,7 +4898,7 @@ sg10
 VJOSH
 p1343
 sg12
-g9
+g53
 sa(dp1344
 g6
 VWhat?
@@ -4920,7 +4920,7 @@ sg10
 VJOSH
 p1349
 sg12
-g9
+g53
 sa(dp1350
 g6
 VYou weren't supposed to negotiate specifics.
@@ -4931,18 +4931,18 @@ sg10
 VTOBY
 p1352
 sg12
-g9
+g53
 sa(dp1353
 g6
 VI thought "no specifics" wasn't a specific. You made these stupid rules.
 p1354
 sg8
-g97
+g53
 sg10
 VJOSH
 p1355
 sg12
-g9
+g53
 sa(dp1356
 g6
 VAnd if I was the only one to break them...
@@ -4964,7 +4964,7 @@ sg10
 VJOSH
 p1361
 sg12
-g9
+g24
 sa(dp1362
 g6
 VFind a standard, I'll let you know if it's been doubled.
@@ -4986,7 +4986,7 @@ sg10
 VJOSH
 p1367
 sg12
-g9
+g53
 sa(dp1368
 g6
 VI want to run it off something, anything; a decision-making tree.
@@ -5008,7 +5008,7 @@ sg10
 VJOSH
 p1373
 sg12
-g9
+g24
 sa(dp1374
 g6
 VNo! With you at the top.
@@ -5118,7 +5118,7 @@ sg10
 VC.J.
 p1403
 sg12
-g9
+g24
 sa(dp1404
 g6
 VStill, coverage today was extraordinary.
@@ -5129,13 +5129,13 @@ sg10
 VWILL
 p1406
 sg12
-g9
+g24
 sa(dp1407
 g6
 VIt's that little burst of warmth before you freeze to death.
 p1408
 sg8
-g97
+g53
 sg10
 VC.J.
 p1409
@@ -5162,7 +5162,7 @@ sg10
 VC.J.
 p1415
 sg12
-g9
+g53
 sa(dp1416
 g6
 VYour meeting with the President, yesterday; I'm getting questions, if there's anything you want to tell me.
@@ -5195,7 +5195,7 @@ sg10
 VC.J.
 p1424
 sg12
-g9
+g24
 sa(dp1425
 g6
 VWhat?
@@ -5294,7 +5294,7 @@ sg10
 VTOBY
 p1451
 sg12
-g9
+g24
 sa(dp1452
 g6
 VYou've got the special relationship.
@@ -5305,29 +5305,29 @@ sg10
 VJOSH
 p1454
 sg12
-g9
+g24
 sa(dp1455
 g6
 VIf by special you mean bound for deportation...
 p1456
 sg8
-g97
+g53
 sg10
 VTOBY
 p1457
 sg12
-g9
+g53
 sa(dp1458
 g6
 VI don't know what you're worrying about. He's not that upset.
 p1459
 sg8
-g97
+g53
 sg10
 VDEBBIE
 p1460
 sg12
-g9
+g53
 sa(dp1461
 g6
 VReally?
@@ -5355,18 +5355,18 @@ g6
 VNo, just kidding. He's ready to rip off his finger and light it like a cigarette.
 p1468
 sg8
-g97
+g53
 sg10
 VDEBBIE
 p1469
 sg12
-g9
+g53
 sa(dp1470
 g6
 VI'd like to know why my Treasury Secretary's on national television denouncing a tax cut I never saw because of an estimate I never asked for.
 p1471
 sg8
-g97
+g53
 sg10
 VBARTLET
 p1472
@@ -5410,7 +5410,7 @@ g6
 VBecause you made a complete hash of it; the Leadership's sole request before taking up peacekeeping.
 p1483
 sg8
-g97
+g53
 sg10
 VBARTLET
 p1484
@@ -5432,7 +5432,7 @@ g6
 VIt's just that you might face a decision about the fall legislative agenda.
 p1489
 sg8
-g97
+g53
 sg10
 VJOSH
 p1490
@@ -5448,7 +5448,7 @@ sg10
 VBARTLET
 p1493
 sg12
-g9
+g24
 sa(dp1494
 g6
 VWould you prefer a bill to appoint an American monarch...
@@ -5459,7 +5459,7 @@ sg10
 VTOBY
 p1496
 sg12
-g9
+g24
 sa(dp1497
 g6
 V...or a ban on the institution of marriage, except in casinos and department stores.
@@ -5503,7 +5503,7 @@ sg10
 VBARTLET
 p1508
 sg12
-g97
+g53
 sa(dp1509
 g6
 VOh, Josh.
@@ -5514,13 +5514,13 @@ sg10
 VBARTLET
 p1511
 sg12
-g9
+g24
 sa(dp1512
 g6
 VPerhaps you can shed some light on this State Department cable.
 p1513
 sg8
-g97
+g53
 sg10
 VBARTLET
 p1514
@@ -5558,7 +5558,7 @@ sg10
 VJOSH
 p1523
 sg12
-g9
+g53
 sa(dp1524
 g6
 VHey.
@@ -5635,7 +5635,7 @@ sg10
 VCHARLIE
 p1544
 sg12
-g24
+g9
 sa(dp1545
 g6
 VShe told me you finished up at Georgetown.
@@ -5646,7 +5646,7 @@ sg10
 VDONNA
 p1547
 sg12
-g9
+g24
 sa(dp1548
 g6
 VI wish she'd stop telling people that.
@@ -5657,7 +5657,7 @@ sg10
 VCHARLIE
 p1550
 sg12
-g9
+g53
 sa(dp1551
 g6
 VWhy? If I was done with college I'd shout it from the rooftop.
@@ -5668,7 +5668,7 @@ sg10
 VDONNA
 p1553
 sg12
-g9
+g53
 sa(dp1554
 g6
 VWe've got snipers up there.
@@ -5679,7 +5679,7 @@ sg10
 VCHARLIE
 p1556
 sg12
-g97
+g53
 sa(dp1557
 g6
 VThat was more of a metaphorical thing.
@@ -5767,13 +5767,13 @@ sg10
 VCHARLIE
 p1580
 sg12
-g9
+g53
 sa(dp1581
 g6
 V[weakly] Mr. President.
 p1582
 sg8
-g97
+g53
 sg10
 VLEO
 p1583
@@ -5784,7 +5784,7 @@ g6
 VA morphine drip and we can skip the formalities. I might get one myself; wheel it into meetings with the Joint Chiefs.
 p1585
 sg8
-g97
+g53
 sg10
 VBARTLET
 p1586
@@ -5833,7 +5833,7 @@ sg10
 VLEO
 p1598
 sg12
-g24
+g9
 sa(dp1599
 g6
 VWe came here to put the job first. Spend our time on something that would outlast us. I just thought we'd have a longer line of credit, is all. I'm going to need that list of names.
@@ -5855,7 +5855,7 @@ sg10
 VLEO
 p1604
 sg12
-g24
+g9
 sa(dp1605
 g6
 VYou planted these baskets.
@@ -5872,29 +5872,29 @@ g6
 VI promised Donna no more traps.
 p1609
 sg8
-g97
+g53
 sg10
 VC.J.
 p1610
 sg12
-g9
+g53
 sa(dp1611
 g6
 VIt's like a torture chamber designed by renegade Keebler elves.
 p1612
 sg8
-g97
+g53
 sg10
 VJOSH
 p1613
 sg12
-g9
+g53
 sa(dp1614
 g6
 VI never took a moment to thank you for your work at Camp David and for holding the building together - well, not exactly together - in Leo's absence. It's been a rocky couple of days and that's my fault, no one else's. We're going to meet with the joint leadership tomorrow and hash out a deal on that tax cut. Even then we've got some fences to mend at the U.N. so I imagine we'll see some pretty rough third- and fourth-day stories. But you know what? There'll be a fifth day, and a sixth, and seventh after that. So...
 p1615
 sg8
-g97
+g53
 sg10
 VBARTLET
 p1616

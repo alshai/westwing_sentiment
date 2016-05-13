@@ -69,7 +69,7 @@ sg10
 VTOBY
 p26
 sg12
-g13
+g25
 sa(dp27
 g6
 VLet's have a toast. One final toast before I leave the White House for my perp walk in leg irons. Here, you open it. I'll put your eye out.
@@ -113,7 +113,7 @@ sg10
 VTOBY
 p38
 sg12
-g13
+g25
 sa(dp39
 g6
 VYou do?
@@ -135,7 +135,7 @@ sg10
 VTOBY
 p44
 sg12
-g13
+g25
 sa(dp45
 g6
 VWhat?
@@ -157,7 +157,7 @@ sg10
 VTOBY
 p50
 sg12
-g13
+g25
 sa(dp51
 g6
 VI did it.
@@ -168,7 +168,7 @@ sg10
 VTOBY
 p53
 sg12
-g13
+g25
 sa(dp54
 g6
 VCall the White House Counsel's office, send someone over immediately.
@@ -190,7 +190,7 @@ sg10
 VTOBY
 p59
 sg12
-g13
+g25
 sa(dp60
 g6
 VWe really can't have any further conversation without Counsel present.
@@ -201,7 +201,7 @@ sg10
 VC.J.
 p62
 sg12
-g13
+g25
 sa(dp63
 g6
 VMike, is it?
@@ -344,7 +344,7 @@ sg10
 VWOMAN
 p101
 sg12
-g13
+g25
 sa(dp102
 g6
 VI'll be back as quickly as I can. I'll have to ask you not to speak to anyone, about anything, in my absence. Every conversation you have from this point forward only increases the witness list.
@@ -355,7 +355,7 @@ sg10
 VWAYNE
 p104
 sg12
-g13
+g25
 sa(dp105
 g6
 VWatch a movie.
@@ -366,7 +366,7 @@ sg10
 VHELEN
 p107
 sg12
-g13
+g25
 sa(dp108
 g6
 VWe land in 40 minutes.
@@ -388,7 +388,7 @@ sg10
 VHELEN
 p113
 sg12
-g13
+g9
 sa(dp114
 g6
 VI have to eat my vegetables.
@@ -399,7 +399,7 @@ sg10
 VSANTOS
 p116
 sg12
-g13
+g25
 sa(dp117
 g6
 VIt's something we can do together.
@@ -487,7 +487,7 @@ sg10
 VSANTOS
 p140
 sg12
-g13
+g25
 sa(dp141
 g6
 VYou're not going to solve interracial sensitivity in the next 40 minutes.
@@ -520,7 +520,7 @@ sg10
 VHELEN
 p149
 sg12
-g13
+g25
 sa(dp150
 g6
 VAre you calling me a dull boy?
@@ -542,7 +542,7 @@ sg10
 VHELEN
 p155
 sg12
-g13
+g25
 sa(dp156
 g6
 VJust try not doing that in front of the electorate.
@@ -564,7 +564,7 @@ sg10
 VHELEN
 p161
 sg12
-g13
+g25
 sa(dp162
 g6
 VYou're just going to get louder. You're not going to fool me.
@@ -663,7 +663,7 @@ sg10
 VFROST
 p188
 sg12
-g13
+g25
 sa(dp189
 g6
 VYou can, actually.
@@ -674,7 +674,7 @@ sg10
 VKATE
 p191
 sg12
-g13
+g25
 sa(dp192
 g6
 VWhom will I be addressing in the Sit Room?
@@ -707,7 +707,7 @@ sg10
 VFROST
 p200
 sg12
-g13
+g25
 sa(dp201
 g6
 VShe's a little busy helping to run the free world. I doubt she calls her mother back.
@@ -751,7 +751,7 @@ sg10
 VFROST
 p212
 sg12
-g13
+g25
 sa(dp213
 g6
 V"Thank you, Commander Harper, for letting me keep my job, which means everything to me, as you can tell by the way I dress."
@@ -795,7 +795,7 @@ sg10
 VKATE
 p224
 sg12
-g13
+g25
 sa(dp225
 g6
 VFine.
@@ -839,7 +839,7 @@ sg10
 VC.J.
 p236
 sg12
-g13
+g9
 sa(dp237
 g6
 VLonger, probably. It's morning in Jerusalem. You wanted to call about the Farad funeral.
@@ -861,7 +861,7 @@ sg10
 VC.J.
 p242
 sg12
-g13
+g9
 sa(dp243
 g6
 VSo, you want me to...
@@ -883,7 +883,7 @@ sg10
 VC.J.
 p248
 sg12
-g13
+g25
 sa(dp249
 g6
 VI didn't want to. I tried not to say anything.
@@ -894,7 +894,7 @@ sg10
 VMARGARET
 p251
 sg12
-g13
+g25
 sa(dp252
 g6
 VI'm sorry?
@@ -905,7 +905,7 @@ sg10
 VC.J.
 p254
 sg12
-g13
+g25
 sa(dp255
 g6
 VThe Committee. I hope my testimony didn't do anything to make things more difficult for you.
@@ -927,7 +927,7 @@ sg10
 VC.J.
 p260
 sg12
-g13
+g25
 sa(dp261
 g6
 VIf I caused you any problems...
@@ -938,7 +938,7 @@ sg10
 VMARGARET
 p263
 sg12
-g13
+g25
 sa(dp264
 g6
 VI'm sure you didn't.
@@ -960,7 +960,7 @@ sg10
 VMARGARET
 p269
 sg12
-g9
+g13
 sa(dp270
 g6
 VToby, you got a minute?
@@ -1037,7 +1037,7 @@ sg10
 VLOU
 p290
 sg12
-g13
+g9
 sa(dp291
 g6
 VIt sounds like we're taking a shot at Bartlet.
@@ -1103,7 +1103,7 @@ sg10
 VLOU
 p308
 sg12
-g13
+g9
 sa(dp309
 g6
 VUse that.
@@ -1114,7 +1114,7 @@ sg10
 VJOSH
 p311
 sg12
-g13
+g9
 sa(dp312
 g6
 VWhat?
@@ -1147,7 +1147,7 @@ sg10
 VNED
 p320
 sg12
-g9
+g13
 sa(dp321
 g6
 VCouple weeks ago you were doing cartwheels about being only nine down.
@@ -1180,7 +1180,7 @@ sg10
 VNED
 p329
 sg12
-g13
+g25
 sa(dp330
 g6
 VWhen the polls spit out the same numbers, day in and day out, it's time to stop talking margins of error.
@@ -1235,7 +1235,7 @@ sg10
 VTOBY
 p344
 sg12
-g13
+g25
 sa(dp345
 g6
 VI'm about to be debriefed by White House Counsel.
@@ -1290,7 +1290,7 @@ sg10
 VTOBY
 p359
 sg12
-g13
+g9
 sa(dp360
 g6
 VWho were you talking to?
@@ -1312,7 +1312,7 @@ sg10
 VTOBY
 p365
 sg12
-g13
+g9
 sa(dp366
 g6
 VMy instructions were that you sit quietly.
@@ -1323,7 +1323,7 @@ sg10
 VWAYNE
 p368
 sg12
-g9
+g13
 sa(dp369
 g6
 VI'm pretty sure I used my indoor voice.
@@ -1334,7 +1334,7 @@ sg10
 VTOBY
 p371
 sg12
-g13
+g25
 sa(dp372
 g6
 VWho else have you called or spoken to since Mike's been gone?
@@ -1356,7 +1356,7 @@ sg10
 VTOBY
 p377
 sg12
-g9
+g13
 sa(dp378
 g6
 VWho?
@@ -1400,7 +1400,7 @@ sg10
 VTOBY
 p389
 sg12
-g13
+g25
 sa(dp390
 g6
 VYeah, I'm going to need their full names and extensions.
@@ -1510,7 +1510,7 @@ sg10
 VBABISH
 p419
 sg12
-g13
+g9
 sa(dp420
 g6
 VNo.
@@ -1532,7 +1532,7 @@ sg10
 VBABISH
 p425
 sg12
-g9
+g13
 sa(dp426
 g6
 VNo.
@@ -1576,7 +1576,7 @@ sg10
 VBABISH
 p437
 sg12
-g13
+g9
 sa(dp438
 g6
 VNo. It was conceived and executed solely on my own.
@@ -1620,7 +1620,7 @@ sg10
 VBABISH
 p449
 sg12
-g9
+g13
 sa(dp450
 g6
 VNo.
@@ -1708,7 +1708,7 @@ sg10
 VBARTLET
 p473
 sg12
-g13
+g25
 sa(dp474
 g6
 VI don't blame him for not wanting to go to Farad's funeral. I wish you didn't have to go. Isn't that what Vice Presidents are for?
@@ -1719,7 +1719,7 @@ sg10
 VABBEY
 p476
 sg12
-g13
+g25
 sa(dp477
 g6
 VNo.
@@ -1763,7 +1763,7 @@ sg10
 VABBEY
 p488
 sg12
-g13
+g25
 sa(dp489
 g6
 VNo. Our daughter's getting engaged to the fruit fly guy.
@@ -1840,7 +1840,7 @@ sg10
 VABBEY
 p509
 sg12
-g13
+g25
 sa(dp510
 g6
 VThat's our daughter you're talking about.
@@ -1906,7 +1906,7 @@ sg10
 VABBEY
 p527
 sg12
-g13
+g9
 sa(dp528
 g6
 VWhy? Did you and she never discuss...?
@@ -1917,7 +1917,7 @@ sg10
 VBARTLET
 p530
 sg12
-g13
+g9
 sa(dp531
 g6
 VOh, no. There are some things that are outside even the mother-daughter bond, at least for us. Did you and she...?
@@ -1983,7 +1983,7 @@ sg10
 VBARTLET
 p548
 sg12
-g13
+g9
 sa(dp549
 g6
 VBut God Herself strike me dead, it is not to be denied that I am not unhappy that my daughter is straight after all.
@@ -1994,7 +1994,7 @@ sg10
 VABBEY
 p551
 sg12
-g13
+g25
 sa(dp552
 g6
 VAt least straight enough to be marrying the fruit fly guy.
@@ -2060,7 +2060,7 @@ sg10
 VZEKE
 p569
 sg12
-g13
+g9
 sa(dp570
 g6
 VWe fooled with some language.
@@ -2071,7 +2071,7 @@ sg10
 VRONNA
 p572
 sg12
-g13
+g9
 sa(dp573
 g6
 VWe're not commenting.
@@ -2082,7 +2082,7 @@ sg10
 VLOU
 p575
 sg12
-g13
+g25
 sa(dp576
 g6
 VWe have to.
@@ -2093,7 +2093,7 @@ sg10
 VNED
 p578
 sg12
-g13
+g25
 sa(dp579
 g6
 VThis is a state matter.
@@ -2137,7 +2137,7 @@ sg10
 VRONNA
 p590
 sg12
-g13
+g9
 sa(dp591
 g6
 VHow important is Texas?
@@ -2148,7 +2148,7 @@ sg10
 VLOU
 p593
 sg12
-g13
+g9
 sa(dp594
 g6
 VPretty important.
@@ -2159,7 +2159,7 @@ sg10
 VNED
 p596
 sg12
-g13
+g9
 sa(dp597
 g6
 VNo, not pretty important. With Vinick's lock on California, this is the whole b.o.w.
@@ -2225,7 +2225,7 @@ sg10
 VRONNA
 p614
 sg12
-g13
+g25
 sa(dp615
 g6
 VLet's let this particular sleeping dog lie.
@@ -2269,7 +2269,7 @@ sg10
 VNED
 p626
 sg12
-g13
+g25
 sa(dp627
 g6
 VDon't talk to me about what we have to do on this subject.
@@ -2302,7 +2302,7 @@ sg10
 VLOU
 p635
 sg12
-g9
+g25
 sa(dp636
 g6
 VI wasn't asleep.
@@ -2313,7 +2313,7 @@ sg10
 VJOSH
 p638
 sg12
-g13
+g25
 sa(dp639
 g6
 VOh, really? With the drooling, the twitching, and muttering to yourself, which might otherwise be described as schizophrenic episode, I go with "You were sleeping."
@@ -2357,7 +2357,7 @@ sg10
 VJOSH
 p650
 sg12
-g13
+g9
 sa(dp651
 g6
 VYou and I need to be a stiff wind that blows through the staff and carries a bunch away.
@@ -2390,7 +2390,7 @@ sg10
 VLOU
 p659
 sg12
-g13
+g25
 sa(dp660
 g6
 VWe're fine.
@@ -2401,7 +2401,7 @@ sg10
 VJOSH
 p662
 sg12
-g13
+g25
 sa(dp663
 g6
 VLast week the Advance team went to Springfield, Illinois for an event in Springfield, Missouri.
@@ -2467,7 +2467,7 @@ sg10
 VJOSH
 p680
 sg12
-g13
+g9
 sa(dp681
 g6
 VWell, now it's got him consistently tracking nine points down which is, I believe, a loss and not a small one.
@@ -2577,7 +2577,7 @@ sg10
 VJOSH
 p710
 sg12
-g13
+g25
 sa(dp711
 g6
 VKeep whistling past the graveyard, but it'll be your future gets buried when you preside over a 49-state wipeout.
@@ -2797,7 +2797,7 @@ sg10
 VSLIGER
 p770
 sg12
-g13
+g9
 sa(dp771
 g6
 VFunny, at Defense Intelligence we like our guys to be right. Different strokes.
@@ -2874,7 +2874,7 @@ sg10
 VBABISH
 p791
 sg12
-g25
+g9
 sa(dp792
 g6
 VThat would be an of course.
@@ -2929,7 +2929,7 @@ sg10
 VTOBY
 p806
 sg12
-g13
+g25
 sa(dp807
 g6
 VAnswer the question.
@@ -2962,7 +2962,7 @@ sg10
 VBABISH
 p815
 sg12
-g13
+g9
 sa(dp816
 g6
 VIt's okay, thanks.
@@ -2973,7 +2973,7 @@ sg10
 VTOBY
 p818
 sg12
-g13
+g9
 sa(dp819
 g6
 VNo, it's most certainly not okay and you're not to say anything else.
@@ -2995,7 +2995,7 @@ sg10
 VTOBY
 p824
 sg12
-g13
+g25
 sa(dp825
 g6
 VYou probably should have considered that before passing state secrets to New York Times reporters. Which brings up, did you leak to anyone other than Greg Brock?
@@ -3017,7 +3017,7 @@ sg10
 VALANA
 p830
 sg12
-g13
+g25
 sa(dp831
 g6
 VNo.
@@ -3072,7 +3072,7 @@ sg10
 VALANA
 p845
 sg12
-g13
+g9
 sa(dp846
 g6
 VThank you.
@@ -3105,7 +3105,7 @@ sg10
 VTOBY
 p854
 sg12
-g13
+g25
 sa(dp855
 g6
 VWell, then that's unfortunate because it means that you have no bigger fish to turn over to the prosecutor which is what he and the Congress will be looking for and obviously would have been the best and fastest way to make a deal.
@@ -3127,7 +3127,7 @@ sg10
 VTOBY
 p860
 sg12
-g13
+g25
 sa(dp861
 g6
 VWell, it's my job to. And we're not starting with a lot of bargaining chips and we have less every time you open your mouth.
@@ -3259,7 +3259,7 @@ sg10
 VALANA
 p896
 sg12
-g13
+g25
 sa(dp897
 g6
 VNo, I just meant it was the first time tonight he used the word "please."
@@ -3347,7 +3347,7 @@ sg10
 VC.J.
 p920
 sg12
-g13
+g9
 sa(dp921
 g6
 VKazakhstan has been cozying up to Beijing.
@@ -3358,7 +3358,7 @@ sg10
 VKATE
 p923
 sg12
-g13
+g25
 sa(dp924
 g6
 VThey recently announced the establishment of a strategic partnership.
@@ -3369,7 +3369,7 @@ sg10
 VSLATTERY
 p926
 sg12
-g13
+g9
 sa(dp927
 g6
 VThis is on top of the oil pipeline the Kazakhs have already agreed to build to China.
@@ -3391,7 +3391,7 @@ sg10
 VSLATTERY
 p932
 sg12
-g13
+g25
 sa(dp933
 g6
 VDoth protesting, perhaps a bit much.
@@ -3424,7 +3424,7 @@ sg10
 VSLATTERY
 p941
 sg12
-g25
+g13
 sa(dp942
 g6
 VMoscow's not thrilled with this budding relationship. Not only is it competitive with Russia's own oil interests, but it's emblematic of China's growing dominance in the region.
@@ -3457,7 +3457,7 @@ sg10
 VSLATTERY
 p950
 sg12
-g13
+g9
 sa(dp951
 g6
 VWho has ties that go back to Moscow from the USSR days.
@@ -3512,7 +3512,7 @@ sg10
 VC.J.
 p965
 sg12
-g13
+g9
 sa(dp966
 g6
 VOver oil.
@@ -3578,7 +3578,7 @@ sg10
 VJOSH
 p983
 sg12
-g13
+g25
 sa(dp984
 g6
 VThe latest Rob Zombie film.
@@ -3600,7 +3600,7 @@ sg10
 VJOSH
 p989
 sg12
-g13
+g9
 sa(dp990
 g6
 VI guess.
@@ -3611,7 +3611,7 @@ sg10
 VJOSH
 p992
 sg12
-g13
+g25
 sa(dp993
 g6
 VYou a big Rob Zombie fan?
@@ -3622,7 +3622,7 @@ sg10
 VSANTOS
 p995
 sg12
-g13
+g9
 sa(dp996
 g6
 VI prefer his earlier, funnier movies. Lou and I have been discussing the staff.
@@ -3666,7 +3666,7 @@ sg10
 VHELEN
 p1007
 sg12
-g9
+g25
 sa(dp1008
 g6
 VShe's not talking to you.
@@ -3688,7 +3688,7 @@ sg10
 VJOSH
 p1013
 sg12
-g13
+g25
 sa(dp1014
 g6
 VHow many people are we talking about?
@@ -3721,7 +3721,7 @@ sg10
 VHELEN
 p1022
 sg12
-g13
+g25
 sa(dp1023
 g6
 VYou can't do that.
@@ -3732,7 +3732,7 @@ sg10
 VHELEN
 p1025
 sg12
-g13
+g25
 sa(dp1026
 g6
 VIt's a lot of people.
@@ -3743,7 +3743,7 @@ sg10
 VSANTOS
 p1028
 sg12
-g13
+g9
 sa(dp1029
 g6
 VIt'll look like panic.
@@ -3765,7 +3765,7 @@ sg10
 VJOSH
 p1034
 sg12
-g13
+g9
 sa(dp1035
 g6
 VHave we been turning them away? "I'm sorry, you can't work for us. You have too much experience and savvy."?
@@ -3864,7 +3864,7 @@ sg10
 VHELEN
 p1061
 sg12
-g13
+g25
 sa(dp1062
 g6
 VBut he is not cut out for this: the pace, thinking fast on your feet.
@@ -4007,7 +4007,7 @@ sg10
 VC.J.
 p1100
 sg12
-g13
+g25
 sa(dp1101
 g6
 VUrge it?
@@ -4018,7 +4018,7 @@ sg10
 VBABISH
 p1103
 sg12
-g13
+g25
 sa(dp1104
 g6
 VNo.
@@ -4051,7 +4051,7 @@ sg10
 VC.J.
 p1112
 sg12
-g13
+g25
 sa(dp1113
 g6
 VNope. His account matches yours. It's important that everyone's stories are in sync.
@@ -4062,7 +4062,7 @@ sg10
 VBABISH
 p1115
 sg12
-g13
+g9
 sa(dp1116
 g6
 VThey are. That's because it's the truth.
@@ -4117,7 +4117,7 @@ sg10
 VC.J.
 p1130
 sg12
-g13
+g25
 sa(dp1131
 g6
 VAnd others you've encountered will so testify?
@@ -4128,7 +4128,7 @@ sg10
 VBABISH
 p1133
 sg12
-g9
+g13
 sa(dp1134
 g6
 VYes.
@@ -4183,7 +4183,7 @@ sg10
 VC.J.
 p1148
 sg12
-g9
+g13
 sa(dp1149
 g6
 VFor what purpose?
@@ -4216,7 +4216,7 @@ sg10
 VC.J.
 p1157
 sg12
-g13
+g25
 sa(dp1158
 g6
 VBut had you, was your intention to discuss the fact that Toby Ziegler was the White House leak?
@@ -4238,7 +4238,7 @@ sg10
 VC.J.
 p1163
 sg12
-g13
+g25
 sa(dp1164
 g6
 VHe and you should be very glad about that. What, if any, message did you leave?
@@ -4260,7 +4260,7 @@ sg10
 VC.J.
 p1169
 sg12
-g13
+g25
 sa(dp1170
 g6
 VWere those your exact words?
@@ -4282,7 +4282,7 @@ sg10
 VC.J.
 p1175
 sg12
-g13
+g25
 sa(dp1176
 g6
 VYou have between now and tomorrow morning, when I imagine the first question will come about this, to consider whether you had a particular reason to phone Leo McGarry this evening other than discussing courses of action in dealing with this news regarding Toby Ziegler, which might, to outsiders, appear to be consideration of a cover-up. It's time to tell the President.
@@ -4337,7 +4337,7 @@ sg10
 VABBEY
 p1190
 sg12
-g13
+g9
 sa(dp1191
 g6
 VYou don't think it's too big?
@@ -4370,7 +4370,7 @@ sg10
 VBARTLET
 p1199
 sg12
-g13
+g9
 sa(dp1200
 g6
 VWell, I want to hear all about the proposal. Tell me everything.
@@ -4414,7 +4414,7 @@ sg10
 VVIC
 p1211
 sg12
-g13
+g25
 sa(dp1212
 g6
 VRomantic.
@@ -4425,7 +4425,7 @@ sg10
 VABBEY
 p1214
 sg12
-g13
+g25
 sa(dp1215
 g6
 VVery. The two of us and my Secret Service detail.
@@ -4480,7 +4480,7 @@ sg10
 VABBEY
 p1229
 sg12
-g13
+g25
 sa(dp1230
 g6
 VWhat?
@@ -4502,7 +4502,7 @@ sg10
 VABBEY
 p1235
 sg12
-g25
+g13
 sa(dp1236
 g6
 VWhat could be more wonderful?
@@ -4546,7 +4546,7 @@ sg10
 VABBEY
 p1247
 sg12
-g13
+g9
 sa(dp1248
 g6
 VYou would seriously consider not getting married in the White House?
@@ -4568,7 +4568,7 @@ sg10
 VABBEY
 p1253
 sg12
-g13
+g25
 sa(dp1254
 g6
 VWhere, at the moment, is the less pressing concern. There's another consideration that may need to take precedence as far as scheduling goes.
@@ -4590,7 +4590,7 @@ sg10
 VELLIE
 p1259
 sg12
-g13
+g25
 sa(dp1260
 g6
 VOh.
@@ -4634,7 +4634,7 @@ sg10
 VABBEY
 p1271
 sg12
-g13
+g9
 sa(dp1272
 g6
 VNice to meet you. Congratulations.
@@ -4645,7 +4645,7 @@ sg10
 VNANCY
 p1274
 sg12
-g13
+g9
 sa(dp1275
 g6
 VThank you, thank you so much.
@@ -4678,7 +4678,7 @@ sg10
 VBARTLET
 p1283
 sg12
-g13
+g25
 sa(dp1284
 g6
 VSelf-aggrandizing and self-destructive?
@@ -4700,7 +4700,7 @@ sg10
 VALANA
 p1289
 sg12
-g9
+g13
 sa(dp1290
 g6
 VQuasi-orgasmic might have been a bit much.
@@ -4722,7 +4722,7 @@ sg10
 VALANA
 p1295
 sg12
-g13
+g25
 sa(dp1296
 g6
 VTo save lives.
@@ -4799,7 +4799,7 @@ sg10
 VTOBY
 p1316
 sg12
-g13
+g9
 sa(dp1317
 g6
 VI'm serious.
@@ -4810,7 +4810,7 @@ sg10
 VALANA
 p1319
 sg12
-g13
+g25
 sa(dp1320
 g6
 VSo am I; I know what you charge.
@@ -4931,7 +4931,7 @@ sg10
 VBABISH
 p1352
 sg12
-g13
+g9
 sa(dp1353
 g6
 VOliver's pointed out that not only do we not want the appearance of a cover-up, we don't want the appearance of, even for a moment, having considered anything but full and immediate disclosure.
@@ -4953,7 +4953,7 @@ sg10
 VBARTLET
 p1358
 sg12
-g9
+g13
 sa(dp1359
 g6
 VI'll take care of that, sir.
@@ -5030,7 +5030,7 @@ sg10
 VC.J.
 p1379
 sg12
-g9
+g13
 sa(dp1380
 g6
 VThank you, sir.
@@ -5063,7 +5063,7 @@ sg10
 VFROST
 p1388
 sg12
-g13
+g25
 sa(dp1389
 g6
 VFor your theory? Not well. I think there's a better one.
@@ -5085,7 +5085,7 @@ sg10
 VFROST
 p1394
 sg12
-g13
+g25
 sa(dp1395
 g6
 VGood night, Charles.
@@ -5140,7 +5140,7 @@ sg10
 VFROST
 p1409
 sg12
-g13
+g25
 sa(dp1410
 g6
 VNed, hang on a minute.
@@ -5228,7 +5228,7 @@ sg10
 VJOSH
 p1433
 sg12
-g13
+g25
 sa(dp1434
 g6
 VYou're firing me?
@@ -5239,7 +5239,7 @@ sg10
 VNED
 p1436
 sg12
-g13
+g25
 sa(dp1437
 g6
 VIt's reassignment; back to the Congressional office.
@@ -5272,7 +5272,7 @@ sg10
 VJOSH
 p1445
 sg12
-g13
+g9
 sa(dp1446
 g6
 VWell, due respect, I'm really going to have to hear it from him.
@@ -5316,7 +5316,7 @@ sg10
 VJOSH
 p1457
 sg12
-g13
+g25
 sa(dp1458
 g6
 VTalking to the Congressman is not going to change anything. I want to thank you for all your hard work.
@@ -5382,7 +5382,7 @@ sg10
 VKATE
 p1475
 sg12
-g9
+g25
 sa(dp1476
 g6
 VYou don't. And I really can't discuss this right now.
@@ -5393,7 +5393,7 @@ sg10
 VC.J.
 p1478
 sg12
-g13
+g25
 sa(dp1479
 g6
 VThe President wants to see you. Just Toby.
@@ -5514,7 +5514,7 @@ sg10
 VTOBY
 p1511
 sg12
-g13
+g25
 sa(dp1512
 g6
 VYour actions have pretty much made that impossible. I haven't had much time to absorb this news, so I'll apologize in advance if I express any half-formed thoughts. But the one thought that hits the hardest is that this was somehow inevitable; that you've always been heading for this sort of crash-and-burn. That self-righteous superiority; not that you were smarter than everyone; that you were purer, morally superior.
@@ -5547,7 +5547,7 @@ sg10
 VBARTLET
 p1520
 sg12
-g13
+g25
 sa(dp1521
 g6
 VSir, I've drawn up a letter of resignation.
@@ -5558,7 +5558,7 @@ sg10
 VTOBY
 p1523
 sg12
-g13
+g25
 sa(dp1524
 g6
 VWhat is that, the third one? Rip it up.
@@ -5569,7 +5569,7 @@ sg10
 VBARTLET
 p1526
 sg12
-g13
+g25
 sa(dp1527
 g6
 VSir?
@@ -5591,7 +5591,7 @@ sg10
 VBARTLET
 p1532
 sg12
-g13
+g25
 sa(dp1533
 g6
 VYou'll need to turn in your credentials. A guard will come to escort you from the building immediately. You may not take anything out with you. All of your personal effects will be sent to your home after Counsel's staff has cataloged the contents of your office.
@@ -5613,7 +5613,7 @@ sg10
 VTOBY
 p1538
 sg12
-g9
+g13
 sa(dp1539
 g6
 VToby.
@@ -5657,7 +5657,7 @@ sg10
 VSECRETARY
 p1550
 sg12
-g13
+g9
 sa(dp1551
 g6
 VThanks.
@@ -5756,7 +5756,7 @@ sg10
 VWILL
 p1577
 sg12
-g13
+g25
 sa(dp1578
 g6
 VYeah, not so much.
@@ -5789,7 +5789,7 @@ sg10
 VTOBY
 p1586
 sg12
-g13
+g25
 sa(dp1587
 g6
 VI thought he'd thank you for your service.

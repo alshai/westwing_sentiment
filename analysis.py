@@ -76,7 +76,7 @@ def save_weights():
     new_weights = {"positive": {}, "negative": {}, "neutral": {}}
     # get only the top 70000 weights (as determined in evaluate_features())
     for sentiment in sorted_weights:
-        new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] for w in sorted_weights[sentiment][:70000]}
+        new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] for w in sorted_weights[sentiment][:80000]}
     pickle.dump(new_weights, open("weights_optimized.pkl", "wb"))
 
 
@@ -106,10 +106,8 @@ def character_sentiment_in_episode(character, episode_script, score="maxent_scor
     positive = 0.0
     negative = 0.0
     neutral = 0.0
-    total = 0.0
     for line in episode_script:
         if character in line['character'] and line[score]:
-            total += 1
             if line[score] == "positive":
                 positive += 1
             if line[score] == "negative":
@@ -218,10 +216,45 @@ def all_seasons_sentiment_figure():
     plt.savefig("figures/all_seasons_posneg_ratios.png")
 
 
+def character_figures(character, series):
+    character_sentiments = {}
+    for season in series:
+        character_sentiments[season] = {}
+        for episode in series[season]:
+            sentiments = character_sentiment_in_episode(character, series[season][episode])
+            if sentiments[0] != 0:
+                character_sentiments[season][episode] = sentiments[0] / float(sentiments[0]+sentiments[2])
+            else:
+                character_sentiments[season][episode] = 0
+    for season in character_sentiments:
+        print character_sentiments[season]
+        sorted_season = sorted(character_sentiments[season].iteritems(), key=lambda x: x[0])
+        fig = plt.figure()
+        ax = fig.add_subplot(111)
+        ax.scatter(zip(*sorted_season)[0], zip(*sorted_season)[1])
+        ax.plot(zip(*sorted_season)[0], zip(*sorted_season)[1])
+        ax.set_xlim(0, max(zip(*sorted_season)[0]))
+        ax.set_ylim(0, 1)
+        ax.set_xlabel("Episode #")
+        ax.set_ylabel("Pos/Neg Sentiment Ratio")
+        ax.set_title("Pos/Neg Sentiment Ratio for %s for Season %s of 'The West Wing'" % (character, season))
 
+        plt.tight_layout()
+        plt.savefig("figures/%s_season_%s.png" % (character, season))
+
+def all_character_figures():
+    series = load_episodes()
+    for character in ["BARTLET", "LEO"]:
+        character_figures(character, series)
+
+    
 if __name__ == "__main__":
     # test_wwscripts()
     # weights = pickle.load(open("weights_optimized.pkl", "rb"))
     # single_season_sentiment_figure()
     # all_seasons_sentiment_figure()
-    evaluate_features()
+    # evaluate_features()
+    # save_weights()
+    # test_wwscripts()
+    series = load_episodes()
+    character_figures("BARTLET", series)

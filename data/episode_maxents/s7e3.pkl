@@ -46,7 +46,7 @@ sg10
 VVINICK
 p19
 sg12
-g13
+g9
 sa(dp20
 g6
 VSantos picked up two points in our tracking poll.
@@ -68,7 +68,7 @@ sg10
 VAGENT
 p25
 sg12
-g13
+g9
 sa(dp26
 g6
 VPerfect.
@@ -157,7 +157,7 @@ sg10
 VBRUNO
 p50
 sg12
-g13
+g49
 sa(dp51
 g6
 VHe'd be breaking his promise to Californian voters to serve his full six-year term.
@@ -201,7 +201,7 @@ sg10
 VBRUNO
 p62
 sg12
-g13
+g49
 sa(dp63
 g6
 VForget it. I'm not quitting the Senate.
@@ -212,7 +212,7 @@ sg10
 VVINICK
 p65
 sg12
-g13
+g49
 sa(dp66
 g6
 VWe'll just have to turn the Senate into an advantage.
@@ -245,7 +245,7 @@ sg10
 VVINICK
 p74
 sg12
-g13
+g9
 sa(dp75
 g6
 VFraternal Order of Police.
@@ -355,7 +355,7 @@ sg10
 VVINICK
 p104
 sg12
-g13
+g49
 sa(dp105
 g6
 VOkay, got to go.
@@ -410,7 +410,7 @@ sg10
 VSPEAKER
 p119
 sg12
-g13
+g49
 sa(dp120
 g6
 VIs this all you guys know how to do? Attack ads?
@@ -465,7 +465,7 @@ sg10
 VLEON
 p134
 sg12
-g13
+g49
 sa(dp135
 g6
 VHave Sheila go over to party headquarters and tell them again we're not going negative. Yet.
@@ -487,7 +487,7 @@ sg10
 VLEON
 p140
 sg12
-g13
+g49
 sa(dp141
 g6
 VThe press knows you get to approve party ads.
@@ -509,7 +509,7 @@ sg10
 VVINICK
 p146
 sg12
-g13
+g9
 sa(dp147
 g6
 VIt's a great ad; if you're ten points down.
@@ -531,7 +531,7 @@ sg10
 VVINICK
 p152
 sg12
-g13
+g9
 sa(dp153
 g6
 VReserve duty sure worked.
@@ -564,7 +564,7 @@ sg10
 VLEON
 p161
 sg12
-g13
+g9
 sa(dp162
 g6
 VLatino, inexperienced - take your pick. You don't need this ad.
@@ -630,7 +630,7 @@ sg10
 VVINICK
 p179
 sg12
-g13
+g9
 sa(dp180
 g6
 VQuiet. Quiet. Everybody, be quiet. Please, Senator, once again.
@@ -707,7 +707,7 @@ sg10
 VBRUNO
 p200
 sg12
-g13
+g9
 sa(dp201
 g6
 VI'm Arnold Vinick, and I approved this message. Wait, one more. I'm Arnold Vinick, and I approved this message. I think we got it.
@@ -729,7 +729,7 @@ sg10
 VBRUNO
 p206
 sg12
-g13
+g9
 sa(dp207
 g6
 VWhen's the meeting with the American Christian Assembly?
@@ -784,7 +784,7 @@ sg10
 VDAN
 p221
 sg12
-g9
+g13
 sa(dp222
 g6
 VOh. A five-point lead?
@@ -795,7 +795,7 @@ sg10
 VVINICK
 p224
 sg12
-g13
+g9
 sa(dp225
 g6
 VEvery poll out there has Santos gaining.
@@ -806,7 +806,7 @@ sg10
 VLEON
 p227
 sg12
-g13
+g49
 sa(dp228
 g6
 VBecause he put on his old uniform for a weekend.
@@ -927,7 +927,7 @@ sg10
 VSANTOS
 p260
 sg12
-g13
+g49
 sa(dp261
 g6
 VYou had to do it, didn't you? You had to take a shot at Santos for getting into that uniform.
@@ -1136,7 +1136,7 @@ sg10
 VBRUNO
 p317
 sg12
-g13
+g9
 sa(dp318
 g6
 VGo to Hawaii?
@@ -1213,7 +1213,7 @@ sg10
 VBRUNO
 p338
 sg12
-g13
+g49
 sa(dp339
 g6
 VI've always won the Latino vote in California. Why should I give up on that now?
@@ -1290,7 +1290,7 @@ sg10
 VBRUNO
 p359
 sg12
-g13
+g49
 sa(dp360
 g6
 VThat's the whole point: knock him off his game. Santos will never know what I'm going to do next.
@@ -1411,7 +1411,7 @@ sg10
 VJOSH
 p392
 sg12
-g13
+g9
 sa(dp393
 g6
 VVFW's offering us the slot if we want it.
@@ -1444,7 +1444,7 @@ sg10
 VBRAM
 p401
 sg12
-g49
+g13
 sa(dp402
 g6
 VFive?!
@@ -1532,7 +1532,7 @@ sg10
 VJOSH
 p425
 sg12
-g13
+g49
 sa(dp426
 g6
 VOh, and we got some movement on the debate negotiations.
@@ -1543,7 +1543,7 @@ sg10
 VBRAM
 p428
 sg12
-g13
+g9
 sa(dp429
 g6
 VYou mean the negotiations about the negotiations?
@@ -1609,7 +1609,7 @@ sg10
 VBRAM
 p446
 sg12
-g13
+g49
 sa(dp447
 g6
 VBecause then we don't get to blame them for dragging their feet on debate negotiations.
@@ -1675,7 +1675,7 @@ sg10
 VBRUNO
 p464
 sg12
-g13
+g49
 sa(dp465
 g6
 VZogby poll says Santos pulled ahead by two points in Maine.
@@ -1741,7 +1741,7 @@ sg10
 VSHEILA
 p482
 sg12
-g13
+g49
 sa(dp483
 g6
 VAh, have I told you how much I love you?
@@ -1796,7 +1796,7 @@ sg10
 VVINICK
 p497
 sg12
-g13
+g49
 sa(dp498
 g6
 VOkay, what do we got?
@@ -1928,7 +1928,7 @@ sg10
 VDAN
 p533
 sg12
-g13
+g49
 sa(dp534
 g6
 VA bunch of nuts patrolling the border with guns? Someone's going to get hurt.
@@ -1961,7 +1961,7 @@ sg10
 VDAN
 p542
 sg12
-g13
+g9
 sa(dp543
 g6
 VOkay.
@@ -2016,7 +2016,7 @@ sg10
 VBRUNO
 p557
 sg12
-g13
+g9
 sa(dp558
 g6
 VEspecially if we sell it as one of our sensible solutions.
@@ -2027,7 +2027,7 @@ sg10
 VSHEILA
 p560
 sg12
-g13
+g49
 sa(dp561
 g6
 VWe haven't got the events for this one worked out yet. Probably just a speech; not sure where to do it.
@@ -2060,7 +2060,7 @@ sg10
 VLEON
 p569
 sg12
-g13
+g9
 sa(dp570
 g6
 VWe're not...
@@ -2071,7 +2071,7 @@ sg10
 VSHEILA
 p572
 sg12
-g13
+g49
 sa(dp573
 g6
 VThe Latino community is going to know what you're doing.
@@ -2104,7 +2104,7 @@ sg10
 VDAN
 p581
 sg12
-g13
+g49
 sa(dp582
 g6
 VIntroduce a bill.
@@ -2115,7 +2115,7 @@ sg10
 VVINICK
 p584
 sg12
-g13
+g9
 sa(dp585
 g6
 VIn the Senate?
@@ -2214,7 +2214,7 @@ sg10
 VSHEILA
 p611
 sg12
-g13
+g9
 sa(dp612
 g6
 VHe voted for it in committee then voted against it on the floor.
@@ -2357,7 +2357,7 @@ sg10
 VSHEILA
 p650
 sg12
-g49
+g13
 sa(dp651
 g6
 VIf I win this election, George Rohr never sets foot in the White House. You got that? I mean, not even a tour.
@@ -2401,7 +2401,7 @@ sg10
 VROHR
 p662
 sg12
-g13
+g9
 sa(dp663
 g6
 VSorry I couldn't make it to Atlanta to meet with the full group, but this campaign schedule is so tight you try to change one hour of it and the whole thing comes apart.
@@ -2456,7 +2456,7 @@ sg10
 VROHR
 p677
 sg12
-g13
+g49
 sa(dp678
 g6
 VSo what's up, George?
@@ -2599,7 +2599,7 @@ sg10
 VROHR
 p716
 sg12
-g13
+g49
 sa(dp717
 g6
 VLook, Santos voted for partial-birth abortion. At least I'm with you on that.
@@ -2918,7 +2918,7 @@ sg10
 VSHEILA
 p803
 sg12
-g13
+g49
 sa(dp804
 g6
 VSheila.
@@ -2973,7 +2973,7 @@ sg10
 VVINICK
 p818
 sg12
-g13
+g49
 sa(dp819
 g6
 VYou didn't promise them anything, did you?
@@ -3039,7 +3039,7 @@ sg10
 VVINICK
 p836
 sg12
-g13
+g9
 sa(dp837
 g6
 VHi, how are you?
@@ -3050,7 +3050,7 @@ sg10
 VVINICK
 p839
 sg12
-g13
+g9
 sa(dp840
 g6
 VWhat's your name?
@@ -3105,7 +3105,7 @@ sg10
 VVINICK
 p854
 sg12
-g13
+g49
 sa(dp855
 g6
 VSenator, are you saying the Minutemen should get tough?
@@ -3127,7 +3127,7 @@ sg10
 VVINICK
 p860
 sg12
-g13
+g49
 sa(dp861
 g6
 VSenator, the Border Patrol has asked the Minutemen to stop operations. Why do you support the Minutemen?
@@ -3138,7 +3138,7 @@ sg10
 VREPORTER
 p863
 sg12
-g13
+g9
 sa(dp864
 g6
 VI understand why the Minutemen are here. I understand their frustration. And I share their goals. But I agree with the Border Patrol: we should leave law enforcement to the professionals. The Minutemen are showing you why we need to double the Border Patrol. What you see here today is going to continue if the government fails to police this border. We're going to have more and more vigilantes coming here to do it themselves, and that's not the American way.
@@ -3237,7 +3237,7 @@ sg10
 VELLEN
 p890
 sg12
-g13
+g9
 sa(dp891
 g6
 VYes, I do.
@@ -3281,7 +3281,7 @@ sg10
 VBRAM
 p902
 sg12
-g13
+g9
 sa(dp903
 g6
 VOf course they did.
@@ -3292,7 +3292,7 @@ sg10
 VJOSH
 p905
 sg12
-g49
+g13
 sa(dp906
 g6
 VWhat are you doing here?
@@ -3336,7 +3336,7 @@ sg10
 VBRUNO
 p917
 sg12
-g13
+g9
 sa(dp918
 g6
 VCome on, he's a Republican!
@@ -3358,7 +3358,7 @@ sg10
 VBRUNO
 p923
 sg12
-g13
+g49
 sa(dp924
 g6
 VSo, did you switch parties?
@@ -3369,7 +3369,7 @@ sg10
 VJOSH
 p926
 sg12
-g9
+g13
 sa(dp927
 g6
 VJust this once.
@@ -3380,7 +3380,7 @@ sg10
 VBRUNO
 p929
 sg12
-g9
+g49
 sa(dp930
 g6
 VCareer on the slide, you figured you grab a few headlines by signing up with the enemy. You taking a salary or a percentage of the ad buy?
@@ -3446,7 +3446,7 @@ sg10
 VDAN
 p947
 sg12
-g13
+g9
 sa(dp948
 g6
 VI had no idea.
@@ -3457,7 +3457,7 @@ sg10
 VDAN
 p950
 sg12
-g13
+g49
 sa(dp951
 g6
 VHe keeps avoiding the subject with me. I'm going to try to corner him after this thing.
@@ -3479,7 +3479,7 @@ sg10
 VBRUNO
 p956
 sg12
-g13
+g9
 sa(dp957
 g6
 VGood morning. I've returned to the Senate today to introduce S.1103.
@@ -3512,7 +3512,7 @@ sg10
 VBRAM
 p965
 sg12
-g13
+g49
 sa(dp966
 g6
 VYeah.
@@ -3655,7 +3655,7 @@ sg10
 VVINICK
 p1004
 sg12
-g13
+g49
 sa(dp1005
 g6
 VPerfect.
@@ -3765,7 +3765,7 @@ sg10
 VVINICK
 p1034
 sg12
-g13
+g9
 sa(dp1035
 g6
 VSenator, we're running out of time. Will you appoint pro-life judges?
@@ -3809,7 +3809,7 @@ sg10
 VVINICK
 p1046
 sg12
-g9
+g13
 sa(dp1047
 g6
 VYeah.
@@ -3875,7 +3875,7 @@ sg10
 VJOSH
 p1064
 sg12
-g13
+g49
 sa(dp1065
 g6
 VMm-hmm. Lou called you here so you could double-team me, huh; keep me on message?
@@ -3886,7 +3886,7 @@ sg10
 VSANTOS
 p1067
 sg12
-g13
+g49
 sa(dp1068
 g6
 VActually we were hoping to tweak the message a little bit today by adding a couple of paragraphs about the Supreme Court to the stump. The next President's probably going to put a couple of judges on the Court. A woman's right to choose is at stake, stuff like that. The more you talk about the Court, the more the press will hammer Vinick on the judges rumor.
@@ -3930,7 +3930,7 @@ sg10
 VSANTOS
 p1079
 sg12
-g13
+g49
 sa(dp1080
 g6
 VYeah, well, we use the story to put pressure on Vinick. Get the press to jam him with questions about the judges instead of him jamming us with questions about the border.
@@ -4018,7 +4018,7 @@ sg10
 VDAN
 p1103
 sg12
-g13
+g49
 sa(dp1104
 g6
 VLeon, do you have the talking points on CAFTA?
@@ -4084,7 +4084,7 @@ sg10
 VSHEILA
 p1121
 sg12
-g13
+g9
 sa(dp1122
 g6
 VThat's because I did.
@@ -4117,7 +4117,7 @@ sg10
 VVINICK
 p1130
 sg12
-g13
+g49
 sa(dp1131
 g6
 VYou lied?
@@ -4161,7 +4161,7 @@ sg10
 VVINICK
 p1142
 sg12
-g13
+g49
 sa(dp1143
 g6
 VHe's what's wrong with this party. He's the problem, not me!
@@ -4172,7 +4172,7 @@ sg10
 VVINICK
 p1145
 sg12
-g13
+g49
 sa(dp1146
 g6
 VGeez.
@@ -4227,7 +4227,7 @@ sg10
 VSHEILA
 p1160
 sg12
-g13
+g9
 sa(dp1161
 g6
 VI was just trying to get through the meeting. He had me cornered. So I figured, what the hell, I'll tell him what he wants to hear and then ignore him when I'm in the White House.
@@ -4249,7 +4249,7 @@ sg10
 VSHEILA
 p1166
 sg12
-g13
+g49
 sa(dp1167
 g6
 VI thought you said you were done.
@@ -4271,7 +4271,7 @@ sg10
 VSHEILA
 p1172
 sg12
-g13
+g49
 sa(dp1173
 g6
 VLooks like it's time to call Ray Sullivan out of the bullpen.
@@ -4293,7 +4293,7 @@ sg10
 VVINICK
 p1178
 sg12
-g13
+g9
 sa(dp1179
 g6
 VHe did? I thought he voted for it. I'm not sure how he voted. You can check on that. I certainly was surprised that so many Democrats in the House voted against helping impoverished Central American countries to build their economies, especially when it's good for our economy, too.
@@ -4315,7 +4315,7 @@ sg10
 VVINICK
 p1184
 sg12
-g13
+g9
 sa(dp1185
 g6
 VYou're probably going to get a question about CAFTA.
@@ -4359,7 +4359,7 @@ sg10
 VSANTOS
 p1196
 sg12
-g13
+g9
 sa(dp1197
 g6
 VLet's not play Vinick's game on CAFTA. The voters don't care about it.
@@ -4392,7 +4392,7 @@ sg10
 VSANTOS
 p1205
 sg12
-g49
+g13
 sa(dp1206
 g6
 VTwo hours, I promise.
@@ -4403,7 +4403,7 @@ sg10
 VJOSH
 p1208
 sg12
-g13
+g9
 sa(dp1209
 g6
 VTed Zukoski, Chicago Tribune.
@@ -4469,7 +4469,7 @@ sg10
 VSANTOS
 p1226
 sg12
-g13
+g49
 sa(dp1227
 g6
 VWell, Senator Vinick says that the more jobs there are in Central America, the fewer people who'll be trying to get into America illegally.
@@ -4535,7 +4535,7 @@ sg10
 VLOU
 p1244
 sg12
-g13
+g49
 sa(dp1245
 g6
 VHow bad?
@@ -4546,7 +4546,7 @@ sg10
 VJOSH
 p1247
 sg12
-g13
+g49
 sa(dp1248
 g6
 VWe've got Vinick up by 12.
@@ -4557,7 +4557,7 @@ sg10
 VLOU
 p1250
 sg12
-g13
+g49
 sa(dp1251
 g6
 VHey. I hear Vinick's tracking has him up by ten.
@@ -4601,7 +4601,7 @@ sg10
 VROHR
 p1262
 sg12
-g13
+g9
 sa(dp1263
 g6
 VI don't know why they bother to keep giving me hotel rooms: this campaign doesn't actually let the VP candidate sleep. Coffee?
@@ -4612,7 +4612,7 @@ sg10
 VSULLIVAN
 p1265
 sg12
-g13
+g49
 sa(dp1266
 g6
 VUh, no thanks. We've got a serious problem.
@@ -4656,7 +4656,7 @@ sg10
 VSULLIVAN
 p1277
 sg12
-g13
+g9
 sa(dp1278
 g6
 VAll due respect, Governor, but that's not enough. Now, he promises me he'll appoint pro-life judges, I tell the reverends that, and then I see him, on TV, doing the no-litmus-test bit. He humiliated me. Some of our people are begging me to release a statement saying he lied to me.
@@ -4678,7 +4678,7 @@ sg10
 VSULLIVAN
 p1283
 sg12
-g13
+g49
 sa(dp1284
 g6
 VThis is bigger than that.
@@ -4689,7 +4689,7 @@ sg10
 VROHR
 p1286
 sg12
-g13
+g9
 sa(dp1287
 g6
 VNothing's bigger that personal favors; not to me. You're looking at the next Vice President or the next front-runner for the Republican nomination for President. You want to be my friend, George. Believe me, being my friend's a lot better than being my enemy.
@@ -4711,7 +4711,7 @@ sg10
 VROHR
 p1292
 sg12
-g13
+g49
 sa(dp1293
 g6
 VYou've been promised a lot of things by a lot of politicians over the years. How many of them have ever come through for you?
@@ -4733,7 +4733,7 @@ sg10
 VROHR
 p1298
 sg12
-g9
+g13
 sa(dp1299
 g6
 VIf you want Arnie Vinick to listen to you about judges, threatening him isn't going to work. He already told you who he's going to listen to: me. You already know what kind of judges I want. You've seen the judges I've appointed as governor. You've approved every one of them. Now you've got a choice. You can cause trouble for us and it'll just help elect Matt Santos and Leo McGarry or you can be a team player - the Vinick/Sullivan team. And I'll make sure President Vinick listens to you and me about judges. [pause] I appreciate your coming, George.
@@ -4766,7 +4766,7 @@ sg10
 VSULLIVAN
 p1307
 sg12
-g13
+g49
 sa(dp1308
 g6
 VSenator?
@@ -4810,7 +4810,7 @@ sg10
 VLEON
 p1319
 sg12
-g13
+g49
 sa(dp1320
 g6
 VWhat?
@@ -4953,7 +4953,7 @@ sg10
 VSULLIVAN
 p1358
 sg12
-g13
+g49
 sa(dp1359
 g6
 VHow did it go with George Rohr?

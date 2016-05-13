@@ -80,7 +80,7 @@ sg10
 VBARTLET
 p29
 sg12
-g13
+g9
 sa(dp30
 g6
 VKeith. Muriel Keith.
@@ -135,7 +135,7 @@ sg10
 VPHOTOGRAPHER
 p44
 sg12
-g13
+g9
 sa(dp45
 g6
 VHow old were you when you met President Hoover?
@@ -146,7 +146,7 @@ sg10
 VBARTLET
 p47
 sg12
-g16
+g13
 sa(dp48
 g6
 VThe 23rd?
@@ -212,7 +212,7 @@ sg10
 VPHOTOGRAPHER
 p65
 sg12
-g13
+g9
 sa(dp66
 g6
 VI'm sorry. Sorry, could I just have one second? Charlie?
@@ -223,7 +223,7 @@ sg10
 VBARTLET
 p68
 sg12
-g13
+g9
 sa(dp69
 g6
 VHow you doing?
@@ -234,7 +234,7 @@ sg10
 VBARTLET
 p71
 sg12
-g16
+g13
 sa(dp72
 g6
 VFine, thank you.
@@ -289,7 +289,7 @@ sg10
 VCHARLIE
 p86
 sg12
-g13
+g9
 sa(dp87
 g6
 VReally?
@@ -322,7 +322,7 @@ sg10
 VBARTLET
 p95
 sg12
-g16
+g9
 sa(dp96
 g6
 VI'm not. Plus there are tribes in South America that don't think a photoghaphs a good idea to begin with. You ever see any pictures on my desk?
@@ -333,7 +333,7 @@ sg10
 VCHARLIE
 p98
 sg12
-g13
+g9
 sa(dp99
 g6
 VNo.
@@ -399,7 +399,7 @@ sg10
 VCHARLIE
 p116
 sg12
-g13
+g16
 sa(dp117
 g6
 VOkay, let's not tell anybody that.
@@ -410,7 +410,7 @@ sg10
 VBARTLET
 p119
 sg12
-g13
+g9
 sa(dp120
 g6
 VYeah.Mr. Keith, I'm sorry. We're going to have to reschedule this for tomorrow.
@@ -421,7 +421,7 @@ sg10
 VCHARLIE
 p122
 sg12
-g13
+g9
 sa(dp123
 g6
 VYou're spooking the hell out of the President.
@@ -443,7 +443,7 @@ sg10
 VBARTLET
 p128
 sg12
-g13
+g9
 sa(dp129
 g6
 VI'll explain.
@@ -454,7 +454,7 @@ sg10
 VCHARLIE
 p131
 sg12
-g13
+g16
 sa(dp132
 g6
 VThank you.
@@ -509,7 +509,7 @@ sg10
 VSAM
 p146
 sg12
-g13
+g9
 sa(dp147
 g6
 VCome on, you'll get your pants all shmutsy.
@@ -542,7 +542,7 @@ sg10
 VC.J.
 p155
 sg12
-g13
+g9
 sa(dp156
 g6
 VWhy were there rolling pins?
@@ -575,7 +575,7 @@ sg10
 VSAM
 p164
 sg12
-g13
+g9
 sa(dp165
 g6
 VWell, you got to want it.
@@ -586,7 +586,7 @@ sg10
 VC.J.
 p167
 sg12
-g13
+g16
 sa(dp168
 g6
 VOh, I see it.
@@ -597,7 +597,7 @@ sg10
 VSAM
 p170
 sg12
-g13
+g9
 sa(dp171
 g6
 VYeah.
@@ -674,7 +674,7 @@ sg10
 VC.J.
 p191
 sg12
-g13
+g9
 sa(dp192
 g6
 VI might.
@@ -685,7 +685,7 @@ sg10
 VSAM
 p194
 sg12
-g13
+g9
 sa(dp195
 g6
 VYou don't.
@@ -696,7 +696,7 @@ sg10
 VC.J.
 p197
 sg12
-g13
+g9
 sa(dp198
 g6
 VGinger.
@@ -718,7 +718,7 @@ sg10
 VC.J.
 p203
 sg12
-g13
+g9
 sa(dp204
 g6
 VYeah.
@@ -740,7 +740,7 @@ sg10
 VC.J.
 p209
 sg12
-g13
+g9
 sa(dp210
 g6
 VMaybe he'd enjoy sitting and watching me work. I could narrate what I was doing for him. "Right now I'm reading background intelligence on Central America as it relates, believe it or not, to textile imports. Ooh, intelligence, 007." See, and right away I've got him going with 007.
@@ -861,7 +861,7 @@ sg10
 VSAM
 p242
 sg12
-g13
+g16
 sa(dp243
 g6
 VJust Bryce, right?
@@ -872,7 +872,7 @@ sg10
 VJOSH
 p245
 sg12
-g13
+g16
 sa(dp246
 g6
 VYeah. Let me ask you something. He was saying that Commerce didn't have enough input on the stump speech and I started to say that it was my fault and the President kind of ran me over.
@@ -905,7 +905,7 @@ sg10
 VSAM
 p254
 sg12
-g13
+g9
 sa(dp255
 g6
 VNothing's not his fault in the Oval Office.
@@ -927,7 +927,7 @@ sg10
 VSAM
 p260
 sg12
-g13
+g9
 sa(dp261
 g6
 VAnything else before we get on the train?
@@ -949,7 +949,7 @@ sg10
 VSAM
 p266
 sg12
-g13
+g9
 sa(dp267
 g6
 VYeah. Toby. Sam.
@@ -971,7 +971,7 @@ sg10
 VTOBY
 p272
 sg12
-g13
+g9
 sa(dp273
 g6
 VYeah. Listen. With the secretarial candidates the last few weeks, Charlie says he's been asking questions about remembering names and numbers. He's worrying about short term memory loss, right? It's one of the effects of...
@@ -1015,7 +1015,7 @@ sg10
 VTOBY
 p284
 sg12
-g13
+g9
 sa(dp285
 g6
 VCome home.
@@ -1070,7 +1070,7 @@ sg10
 VJOSH
 p299
 sg12
-g13
+g9
 sa(dp300
 g6
 VI'm just saying I'm from Brighton Beach.
@@ -1081,7 +1081,7 @@ sg10
 VTOBY
 p302
 sg12
-g13
+g9
 sa(dp303
 g6
 VWell, Mohammed al Mohammed al Mohammend bin Bizir doesn't make the distinction when he suits up in the morning.
@@ -1125,7 +1125,7 @@ sg10
 VTOBY
 p314
 sg12
-g16
+g13
 sa(dp315
 g6
 VAll aboard!
@@ -1191,7 +1191,7 @@ sg10
 VJOSH
 p332
 sg12
-g13
+g9
 sa(dp333
 g6
 VNo.
@@ -1367,7 +1367,7 @@ sg10
 VNANCY
 p380
 sg12
-g13
+g9
 sa(dp381
 g6
 VWho?
@@ -1389,7 +1389,7 @@ sg10
 VNANCY
 p386
 sg12
-g13
+g16
 sa(dp387
 g6
 VWhy?
@@ -1411,7 +1411,7 @@ sg10
 VNANCY
 p392
 sg12
-g13
+g9
 sa(dp393
 g6
 VI don't think the UN is going to let us do it for that reason.
@@ -1499,7 +1499,7 @@ sg10
 VNANCY
 p416
 sg12
-g13
+g16
 sa(dp417
 g6
 VOf what?
@@ -1532,7 +1532,7 @@ sg10
 VFITZWALLACE
 p425
 sg12
-g13
+g9
 sa(dp426
 g6
 VWhy are they saying there is? It's to provoke a response, right?
@@ -1609,7 +1609,7 @@ sg10
 VFITZWALLACE
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VYou can't say "faith-based initiatives" to me. You have to be more specific then that. You can't offer a guy a hot meal but first you have to accept God into your heart. It's against the law. It's also a little obnoxious.
@@ -1719,7 +1719,7 @@ sg10
 VBARTLET
 p476
 sg12
-g13
+g16
 sa(dp477
 g6
 VWhat makes you say that?
@@ -1752,7 +1752,7 @@ sg10
 VSAM
 p485
 sg12
-g13
+g9
 sa(dp486
 g6
 VOr rather, didn't think I was.
@@ -1763,7 +1763,7 @@ sg10
 VBARTLET
 p488
 sg12
-g13
+g9
 sa(dp489
 g6
 VYou told a joke.
@@ -1796,7 +1796,7 @@ sg10
 VSAM
 p497
 sg12
-g16
+g13
 sa(dp498
 g6
 VIt didn't bode well for me.
@@ -1807,7 +1807,7 @@ sg10
 VBARTLET
 p500
 sg12
-g13
+g9
 sa(dp501
 g6
 VWho's this afternoon?
@@ -1862,7 +1862,7 @@ sg10
 VSAM
 p515
 sg12
-g13
+g9
 sa(dp516
 g6
 VA third one. Charlie say that I don't want anyone to replace her.
@@ -1884,7 +1884,7 @@ sg10
 VSAM
 p521
 sg12
-g13
+g16
 sa(dp522
 g6
 VI don't know, Sam. I'm a puzzle.
@@ -1895,7 +1895,7 @@ sg10
 VBARTLET
 p524
 sg12
-g13
+g9
 sa(dp525
 g6
 VYes, sir.
@@ -1917,7 +1917,7 @@ sg10
 VBARTLET
 p530
 sg12
-g13
+g9
 sa(dp531
 g6
 VAll right, I've got a plan. We're going to switch trains in Bedford. We will then be going in the right direction. We're not going to make the 6:15, that was a pipe dream; that was folly. Now, there's a 9:30 leaving Indianapolis International with a 45 minute layover in Chicago. Although the ticket agent warned that the flight could be delayed due to bad weather.
@@ -1983,7 +1983,7 @@ sg10
 VJOSH
 p548
 sg12
-g13
+g9
 sa(dp549
 g6
 VBecause my....
@@ -1994,7 +1994,7 @@ sg10
 VDONNA
 p551
 sg12
-g13
+g16
 sa(dp552
 g6
 VCell phone battery's out.
@@ -2060,7 +2060,7 @@ sg10
 VTOBY
 p569
 sg12
-g13
+g9
 sa(dp570
 g6
 VWhat?
@@ -2115,7 +2115,7 @@ sg10
 VJOSH
 p584
 sg12
-g13
+g16
 sa(dp585
 g6
 VYes, he does. He also thinks Sarajevo and Bosnia are two different contries, so that's bit of a setback for the region.
@@ -2126,7 +2126,7 @@ sg10
 VTOBY
 p587
 sg12
-g13
+g16
 sa(dp588
 g6
 VYes.
@@ -2159,7 +2159,7 @@ sg10
 VJOSH
 p596
 sg12
-g9
+g13
 sa(dp597
 g6
 VWhat, did they lob a chalupa at the Warsaw Pact?
@@ -2621,7 +2621,7 @@ sg10
 VBARTLET
 p722
 sg12
-g13
+g9
 sa(dp723
 g6
 VYeah. We started talking; it doesn't take to see he's a special kid, so I sent him to Josh Lyman.
@@ -2643,7 +2643,7 @@ sg10
 VBARTLET
 p728
 sg12
-g13
+g9
 sa(dp729
 g6
 VYes, sir.
@@ -2808,7 +2808,7 @@ sg10
 VBARTLET
 p773
 sg12
-g16
+g13
 sa(dp774
 g6
 VI'm sorry?
@@ -2819,7 +2819,7 @@ sg10
 VDEBBIE
 p776
 sg12
-g13
+g9
 sa(dp777
 g6
 VWhy were you fired?
@@ -2830,7 +2830,7 @@ sg10
 VBARTLET
 p779
 sg12
-g16
+g13
 sa(dp780
 g6
 VNo particular reason.
@@ -2852,7 +2852,7 @@ sg10
 VBARTLET
 p785
 sg12
-g13
+g9
 sa(dp786
 g6
 VNo?
@@ -2874,7 +2874,7 @@ sg10
 VBARTLET
 p791
 sg12
-g16
+g13
 sa(dp792
 g6
 VIs it relevant?
@@ -2907,7 +2907,7 @@ sg10
 VDEBBIE
 p800
 sg12
-g13
+g9
 sa(dp801
 g6
 VI don't belive you.
@@ -2918,7 +2918,7 @@ sg10
 VBARTLET
 p803
 sg12
-g16
+g9
 sa(dp804
 g6
 VIt's true.
@@ -2929,7 +2929,7 @@ sg10
 VDEBBIE
 p806
 sg12
-g13
+g16
 sa(dp807
 g6
 VNo, it's not.
@@ -2940,7 +2940,7 @@ sg10
 VBARTLET
 p809
 sg12
-g13
+g9
 sa(dp810
 g6
 VYou call me a liar to my face?
@@ -2951,7 +2951,7 @@ sg10
 VDEBBIE
 p812
 sg12
-g13
+g9
 sa(dp813
 g6
 VYes.
@@ -2995,7 +2995,7 @@ sg10
 VDEBBIE
 p824
 sg12
-g13
+g9
 sa(dp825
 g6
 VHe said you hired him and that's why you got fired.
@@ -3028,7 +3028,7 @@ sg10
 VBARTLET
 p833
 sg12
-g13
+g9
 sa(dp834
 g6
 VHe's a bad seed. I knew it the moment I saw him.
@@ -3050,7 +3050,7 @@ sg10
 VBARTLET
 p839
 sg12
-g13
+g9
 sa(dp840
 g6
 VWell, I'm afraid we're at a classic impasse, Mr. President.
@@ -3105,7 +3105,7 @@ sg10
 VDEBBIE
 p854
 sg12
-g13
+g9
 sa(dp855
 g6
 VOkay.
@@ -3127,7 +3127,7 @@ sg10
 VDEBBIE
 p860
 sg12
-g13
+g9
 sa(dp861
 g6
 VTell me why you were fired.
@@ -3138,7 +3138,7 @@ sg10
 VBARTLET
 p863
 sg12
-g16
+g9
 sa(dp864
 g6
 VNo, sir.
@@ -3204,7 +3204,7 @@ sg10
 VBARTLET
 p881
 sg12
-g13
+g9
 sa(dp882
 g6
 VMr. McKittridge...
@@ -3226,7 +3226,7 @@ sg10
 VDEBBIE
 p887
 sg12
-g13
+g9
 sa(dp888
 g6
 VI brought her in.
@@ -3259,7 +3259,7 @@ sg10
 VCHARLIE
 p896
 sg12
-g16
+g13
 sa(dp897
 g6
 VIt doesn't matter. I'm not getting the...
@@ -3270,7 +3270,7 @@ sg10
 VDEBBIE
 p899
 sg12
-g13
+g9
 sa(dp900
 g6
 VBrian Dweck, CFO of Colfax and contributor to Representative Mark McKittridge whose brother is the Director of the White House Office of Presidenial Personnel, wants a job for his son, David-- "Wants a Dwink of WaWa." My powers of deduction are not to be mocked.
@@ -3358,7 +3358,7 @@ sg10
 VDEBBIE
 p923
 sg12
-g13
+g9
 sa(dp924
 g6
 VWhat's the dollar doing right now?
@@ -3457,7 +3457,7 @@ sg10
 VBARTLET
 p950
 sg12
-g16
+g13
 sa(dp951
 g6
 VJed?
@@ -3490,7 +3490,7 @@ sg10
 VABBEY
 p959
 sg12
-g13
+g9
 sa(dp960
 g6
 VWhat?
@@ -3534,7 +3534,7 @@ sg10
 VABBEY
 p971
 sg12
-g13
+g9
 sa(dp972
 g6
 VAbout what?
@@ -3600,7 +3600,7 @@ sg10
 VABBEY
 p989
 sg12
-g13
+g16
 sa(dp990
 g6
 VI'm telling... Turn on C.J.'s press briefing. She's been doing 20 minutes up there. They're booking her into Ceasar's.
@@ -3644,7 +3644,7 @@ sg10
 VABBEY
 p1001
 sg12
-g13
+g9
 sa(dp1002
 g6
 VAh, you pulled the switcheroo.
@@ -3677,7 +3677,7 @@ sg10
 VBARTLET
 p1010
 sg12
-g13
+g9
 sa(dp1011
 g6
 VYou called me Medea.
@@ -3688,7 +3688,7 @@ sg10
 VABBEY
 p1013
 sg12
-g13
+g9
 sa(dp1014
 g6
 VYou played upon my love for you.
@@ -3710,7 +3710,7 @@ sg10
 VABBEY
 p1019
 sg12
-g13
+g16
 sa(dp1020
 g6
 VYeah. I hired someone today.
@@ -3831,7 +3831,7 @@ sg10
 VBARTLET
 p1052
 sg12
-g13
+g9
 sa(dp1053
 g6
 VShe scares you?
@@ -3996,7 +3996,7 @@ sg10
 VLEO
 p1097
 sg12
-g13
+g9
 sa(dp1098
 g6
 VIt sounded like you weren't going.
@@ -4007,7 +4007,7 @@ sg10
 VMARGARET
 p1100
 sg12
-g13
+g9
 sa(dp1101
 g6
 VI forgot about it is all.
@@ -4018,7 +4018,7 @@ sg10
 VLEO
 p1103
 sg12
-g13
+g9
 sa(dp1104
 g6
 VDid you have other plans?
@@ -4040,7 +4040,7 @@ sg10
 VLEO
 p1109
 sg12
-g16
+g13
 sa(dp1110
 g6
 VWatching your cooking show.
@@ -4172,7 +4172,7 @@ sg10
 VDONNA
 p1145
 sg12
-g13
+g9
 sa(dp1146
 g6
 V685 points.
@@ -4216,7 +4216,7 @@ sg10
 VDONNA
 p1157
 sg12
-g13
+g16
 sa(dp1158
 g6
 VNo, just the one for what did we decide, half an hour?
@@ -4249,7 +4249,7 @@ sg10
 VJOSH
 p1166
 sg12
-g13
+g9
 sa(dp1167
 g6
 V...restoring abundance amid an economic shortfall, securing peace in a time of global conflict, sustaining hope in this winter of anxiety and fear. More than any time in recent history, America's destiny is not of our own choosing. We did not seek nor did we provoke an assault on our freedom and our way of life. We did not expect nor did we invite a confrontation with evil. Yet the true measure of a people's strength is how they rise to master that moment when it does arive. 44 people were killed a couple of hours ago at Kennison State University. Three swimmers from the men's team were killed and two others are in critical condition. When, after having heard the explosion from their practice facility, they ran into the fire to help get people out. Ran into the fire. The streets of heaven are too crowded with angels tonight. They're our students and our teachers and our parents and our friends. The streets of heaven are too crowded with angels, but every time we think we have measured our capacity to meet a challenge, we look up and we're reminded that that capacity may well be limitless. this is a time for American heroes. We will do what is hard We will achieve what is great. This is a time for American heroes and we reach for the stars. God bless their memory, God bless you and God bless the United State of America. Thank you.
@@ -4326,7 +4326,7 @@ sg10
 VC.J.
 p1187
 sg12
-g13
+g9
 sa(dp1188
 g6
 VI said I don't need a baby-sitter, bitch. Are you deaf?
@@ -4337,7 +4337,7 @@ sg10
 VANTHONY
 p1190
 sg12
-g13
+g9
 sa(dp1191
 g6
 VI don't think you do need a baby-sitter...
@@ -4348,7 +4348,7 @@ sg10
 VC.J.
 p1193
 sg12
-g13
+g9
 sa(dp1194
 g6
 VWhat the hell is the matter with you dawg?
@@ -4414,7 +4414,7 @@ sg10
 VSAM
 p1211
 sg12
-g16
+g9
 sa(dp1212
 g6
 VNice job on the speech.
@@ -4469,7 +4469,7 @@ sg10
 VMALLORY
 p1226
 sg12
-g13
+g16
 sa(dp1227
 g6
 VHow's New York?
@@ -4502,7 +4502,7 @@ sg10
 VSAM
 p1235
 sg12
-g13
+g9
 sa(dp1236
 g6
 VAnd Garnier and a first round draft pick.
@@ -4513,7 +4513,7 @@ sg10
 VMALLORY
 p1238
 sg12
-g9
+g16
 sa(dp1239
 g6
 VSo you're moving to Chicago.
@@ -4535,7 +4535,7 @@ sg10
 VMALLORY
 p1244
 sg12
-g13
+g9
 sa(dp1245
 g6
 V[failing to conceal a grin] That is terrible. That is... the worst thing. I am so sorry. I liked him, too-- his broding stare in the penalty box. If there is anything I can do.
@@ -4590,7 +4590,7 @@ sg10
 VSAM
 p1259
 sg12
-g13
+g9
 sa(dp1260
 g6
 VMy dad said you staffed the President today.
@@ -4623,7 +4623,7 @@ sg10
 VMALLORY
 p1268
 sg12
-g13
+g9
 sa(dp1269
 g6
 VYou know anything about choas theory?
@@ -4667,7 +4667,7 @@ sg10
 VMALLORY
 p1280
 sg12
-g13
+g16
 sa(dp1281
 g6
 VOh, I'm not complaining. I'm saying one good moment is great. It's a golf shot. I've got to get back in there. That's where it's happening. (beat) You came by just to tell me you liked the speech?
@@ -4700,7 +4700,7 @@ sg10
 VSAM
 p1289
 sg12
-g13
+g9
 sa(dp1290
 g6
 VLet me get you home. I don't think you're going to make it.
@@ -4722,7 +4722,7 @@ sg10
 VSAM
 p1295
 sg12
-g13
+g9
 sa(dp1296
 g6
 VCamelot?
@@ -5096,7 +5096,7 @@ sg10
 VFITZWALLACE
 p1397
 sg12
-g13
+g16
 sa(dp1398
 g6
 VGood morning, sir.
@@ -5107,7 +5107,7 @@ sg10
 VLEO
 p1400
 sg12
-g13
+g16
 sa(dp1401
 g6
 VThe happy fun group.
@@ -5118,7 +5118,7 @@ sg10
 VBARTLET
 p1403
 sg12
-g13
+g16
 sa(dp1404
 g6
 VWe have reason to believe that in the next 48 hours, the Qumari rescue team will announce that they've recovered a military-issued Israeli-made parchute.
@@ -5250,7 +5250,7 @@ sg10
 VBARTLET
 p1439
 sg12
-g13
+g9
 sa(dp1440
 g6
 VWe can get around that.
@@ -5261,7 +5261,7 @@ sg10
 VFITZWALLACE
 p1442
 sg12
-g13
+g9
 sa(dp1443
 g6
 VYou just hated my living guts when I got this job, didn't you?
@@ -5272,7 +5272,7 @@ sg10
 VBARTLET
 p1445
 sg12
-g13
+g9
 sa(dp1446
 g6
 VNo, sir.
@@ -5305,7 +5305,7 @@ sg10
 VFITZWALLACE
 p1454
 sg12
-g13
+g16
 sa(dp1455
 g6
 VYou brought them to me. And you talked Leo into Shareef and he talked me into it. It was my order and you executed it flawlessly and I stand by it. I stand by you, I stand by you all. I stand by it till I die. Plus, I'm going to need some cell mates in Holland. So, what do we do now?
@@ -5415,7 +5415,7 @@ sg10
 VTOBY
 p1484
 sg12
-g13
+g9
 sa(dp1485
 g6
 VYeah, I'll hop out there, too.

@@ -23,36 +23,36 @@ VSHEILA
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'positive'
+p13
+sa(dp14
 g6
 VI have to go downstairs for the last-minute pre-game press spin. Bruno's going to walk you to the stage, okay?
-p14
+p15
 sg8
 g9
 sg10
 VSHEILA
-p15
+p16
 sg12
 g9
-sa(dp16
+sa(dp17
 g6
 VYeah.
-p17
+p18
 sg8
 g9
 sg10
 VVINICK
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VDon't worry about getting everything in in every answer. We can fill in the blanks with the press in the spin room afterwards. Remember, two minute answers, followed by one minute rebuttal, moderator's option to allow a 30-second rebuttal to a rebuttal or to move on.
-p20
-sg8
-S'positive'
 p21
+sg8
+g13
 sg10
 VBRUNO
 p22
@@ -74,7 +74,7 @@ g6
 VSantos' people negotiated them to protect them.
 p27
 sg8
-g21
+g13
 sg10
 VBRUNO
 p28
@@ -90,30 +90,30 @@ sg10
 VVINICK
 p31
 sg12
-g9
-sa(dp32
+S'negative'
+p32
+sa(dp33
 g6
 VThey protect you too.
-p33
+p34
 sg8
-g21
+g13
 sg10
 VBRUNO
-p34
+p35
 sg12
-g21
-sa(dp35
+g13
+sa(dp36
 g6
 VNo they don't, they screw me up. They make me feel stiff.
-p36
-sg8
-S'negative'
 p37
+sg8
+g32
 sg10
 VVINICK
 p38
 sg12
-g37
+g32
 sa(dp39
 g6
 VJust be yourself, don't forget to smile, and I'm telling you, Santos is terrified to go out on that stage tonight.
@@ -135,7 +135,7 @@ sg10
 VVINICK
 p44
 sg12
-g9
+g32
 sa(dp45
 g6
 VWorst thing you can do is struggle with the moderator.
@@ -152,7 +152,7 @@ g6
 VOh, no. The worst thing I can do is forget everything I came here to say; every debate point I memorized, every word of my opening statement.
 p49
 sg8
-g21
+g13
 sg10
 VSANTOS
 p50
@@ -179,18 +179,18 @@ sg10
 VSANTOS
 p56
 sg12
-g9
+g32
 sa(dp57
 g6
 VYou have been through worse stuff than this.
 p58
 sg8
-g37
+g32
 sg10
 VHELEN
 p59
 sg12
-g37
+g9
 sa(dp60
 g6
 VLike...?
@@ -201,7 +201,7 @@ sg10
 VSANTOS
 p62
 sg12
-g9
+g32
 sa(dp63
 g6
 VCombat.
@@ -223,7 +223,7 @@ sg10
 VLOU
 p68
 sg12
-g21
+g9
 sa(dp69
 g6
 VLet me guess.
@@ -234,13 +234,13 @@ sg10
 VSANTOS
 p71
 sg12
-g9
+g32
 sa(dp72
 g6
 VVinick's going to hide behind the rules. He's got no answer on how he's going to pay for his tax cuts so he's going to run the clock out on that one. You can do that too. If you get in a jam, just take a paragraph from your stump speech to get you to the red light. The rules are your friend. Use them so this doesn't become...
 p73
 sg8
-g21
+g13
 sg10
 VLOU
 p74
@@ -251,12 +251,12 @@ g6
 VA debate?
 p76
 sg8
-g21
+g13
 sg10
 VSANTOS
 p77
 sg12
-g9
+g13
 sa(dp78
 g6
 VExactly.
@@ -273,7 +273,7 @@ g6
 VGood evening, and welcome to the first Presidential debate with the Republican party's nominee, California Senator Arnold Vinick and the Democratic party's nominee, Texas Congressman Matt Santos.
 p82
 sg8
-g21
+g13
 sg10
 VSAWYER
 p83
@@ -284,7 +284,7 @@ g6
 VI'm Forrest Sawyer and I will moderate tonight's debate following rules worked out by representatives of the candidates. I've agreed to enforce their rules. Now, each candidate will have a two-minute opening statement. I'll then ask a series of questions, all of them chosen by me alone. I've told no one what the subjects or the questions will be. For each question, there'll be a two-minute answer followed by a one-minute rebuttal with a possibility of a 30-second extension of the discussion at my discretion. A yellow light will come on when there are 15 seconds left in an answer. A flashing red means time's up. And, if we need it, we have a backup buzzer.
 p85
 sg8
-g21
+g13
 sg10
 VSAWYER
 p86
@@ -306,7 +306,7 @@ g6
 VWell, not quite, Congressman. There's a little bit more. Candidates may not direct questions or statements to each other and they will have two-minute closing statements. Now, the last rule is for our audience here in the hall. Now that you have had your fun, they will please remain silent until the end of the debate when we can all give democracy a big round of applause. And now, as determined by the toss of a coin, the first opening statement is from Senator Vinick.
 p91
 sg8
-g21
+g13
 sg10
 VSAWYER
 p92
@@ -317,7 +317,7 @@ g6
 VThank you. It is truly an honor to be here tonight. I would...
 p94
 sg8
-g21
+g13
 sg10
 VVINICK
 p95
@@ -328,7 +328,7 @@ g6
 VYou know, I've watched every televised Presidential debate that this country has ever had. And every time I heard them recite the rules, I always thought that meant they're not going to have a real debate. When the greatest hero of my party, Abraham Lincoln debated, he didn't need any rules. He wasn't afraid of a real debate. Now I could do a 2-minute version of my Sensible Solution stump speech and I'm sure Congressman Santos has a memorized opening statement ready to go. And then we could go on with this ritual and let the rules decide how much you're going to learn about the next President of the United States, or we could have a debate Lincoln would have been proud of. We could junk the rules. We could let our able and judicious moderator ask us questions. And we could forget about whether each of us has the exact same number of seconds to speak. We could have a real debate if that's all right with you, Matt.
 p97
 sg8
-g21
+g13
 sg10
 VVINICK
 p98
@@ -350,7 +350,7 @@ g6
 VNo, please. [to Vinick] You mean like a Senate debate? What are you going to do, filibuster me? Are you going to grab the microphone for a whole hour?
 p103
 sg8
-g37
+g32
 sg10
 VSANTOS
 p104
@@ -372,18 +372,18 @@ g6
 VOkay, let's have a real debate.
 p109
 sg8
-g21
+g13
 sg10
 VSANTOS
 p110
 sg12
-g9
+g13
 sa(dp111
 g6
 VGentlemen, I just want to be clear: you both want to abandon the rules your representatives negotiated and rely on me to moderate an open debate in a fair way?
 p112
 sg8
-g21
+g13
 sg10
 VSAWYER
 p113
@@ -399,7 +399,7 @@ sg10
 VVINICK
 p116
 sg12
-g9
+g32
 sa(dp117
 g6
 VLet's do it.
@@ -416,7 +416,7 @@ g6
 VAll right then. I will follow the order determined by the toss of a coin and so the first question will go to Senator Vinick. Senator, the governors of Arizona and New Mexico have officially declared a state of emergency on their Mexican borders because of illegal immigration. What would you do to seal the Mexican border?
 p121
 sg8
-g21
+g13
 sg10
 VSAWYER
 p122
@@ -427,7 +427,7 @@ g6
 VEnforcement first; that's my policy. I would double the border patrol. Not just increase it; double it. We need to make a statement that says "We mean it this time. We really are cracking down on illegal immigration." And we need that statement to be heard loud and clear on the other side of the border where everyone knows how easy it is to get in to this country. I want everyone on the other side of the border to think about how hard it is to get into this country. That's the kind of Sensible Solution you can expect from the Vinick White House.
 p124
 sg8
-g21
+g13
 sg10
 VVINICK
 p125
@@ -471,7 +471,7 @@ g6
 VNo, you're the one who's campaigning on doubling the border patrol. You want to double it, why not triple it?
 p136
 sg8
-g37
+g32
 sg10
 VSANTOS
 p137
@@ -493,7 +493,7 @@ g6
 VWe know that; we just heard the speech.
 p142
 sg8
-g21
+g13
 sg10
 VSANTOS
 p143
@@ -504,7 +504,7 @@ g6
 VWe need enforcement first.
 p145
 sg8
-g37
+g32
 sg10
 VVINICK
 p146
@@ -564,13 +564,13 @@ sg10
 VVINICK
 p161
 sg12
-g9
+g32
 sa(dp162
 g6
 VI don't know how you're going to find room in the budget to double the border patrol with the tax cut that you're proposing. Why not double the border patrol? I'll tell you why not: because we already have. Since 1990 we've tripled, not double, tripled the border patrol along the Mexican border and you don't need me to tell you that it hasn't solved the problem.
 p163
 sg8
-g37
+g32
 sg10
 VSANTOS
 p164
@@ -592,7 +592,7 @@ g6
 VDoubling the border patrol means that 80% of illegal entries will get in instead of 90%. Don't let anyone tell you that the border can be secured by doubling the border patrol. The problem of illegal immigration is much bigger than the border patrol.
 p169
 sg8
-g37
+g32
 sg10
 VSANTOS
 p170
@@ -625,12 +625,12 @@ g6
 VIt's a good deal for American consumers and it will help create jobs in Central America. And the more jobs that are created there, the fewer people who will come here illegally looking for work.
 p178
 sg8
-g21
+g13
 sg10
 VVINICK
 p179
 sg12
-g9
+g13
 sa(dp180
 g6
 VThat won't help.
@@ -641,7 +641,7 @@ sg10
 VSANTOS
 p182
 sg12
-g9
+g32
 sa(dp183
 g6
 VA vote for CAFTA was a vote for our economy and a vote against illegal immigration. I'm proud to say that I cast that vote in the Senate. How did you vote on CAFTA, Congressman?
@@ -669,7 +669,7 @@ g6
 VYou've all heard it, right? My most famous quote of the campaign: 'I voted for CAFTA before I voted against it.' Sounds ridiculous, doesn't it? I voted for CAFTA in the Ways and Means Committee because it was a good bill. But then special interests went to work on it. Corporate lobbyists started squeezing in special provisions for their clients and suddenly it wasn't a free trade bill anymore. It certainly wasn't a fair trade bill, and so, yes I voted against it.
 p190
 sg8
-g21
+g13
 sg10
 VSANTOS
 p191
@@ -680,7 +680,7 @@ g6
 VWhen was the last time you voted for a perfect bill?
 p193
 sg8
-g21
+g13
 sg10
 VVINICK
 p194
@@ -691,7 +691,7 @@ g6
 VSenator, I knew that you would exploit my votes on CAFTA but I didn't make the political choice. I made the right choice and if I had to do it all over again, I'd vote exactly the same way.
 p196
 sg8
-g21
+g13
 sg10
 VSANTOS
 p197
@@ -718,13 +718,13 @@ sg10
 VSANTOS
 p203
 sg12
-g9
+g32
 sa(dp204
 g6
 VTrade agreements are part of the solution and so is my guest worker program. We have to face the fact that we have at least 10 million people who have illegally entered this country but who are now putting in an honest day's work and they're mostly doing jobs that Americans do not want to do. Now, we need to establish a legal system for these workers. We should make it clear...
 p205
 sg8
-g21
+g13
 sg10
 VVINICK
 p206
@@ -735,7 +735,7 @@ g6
 VWhere were you when I introduced a guest worker program in the House six years ago, Senator? Where were you? You just discovered the problem this year and I think we know why.
 p208
 sg8
-g37
+g32
 sg10
 VSANTOS
 p209
@@ -746,7 +746,7 @@ g6
 VCongressman, are you suggesting that Senator Vinick has raised Mexican border issues in this campaign because he's running against a Latino candidate?
 p211
 sg8
-g21
+g13
 sg10
 VSAWYER
 p212
@@ -757,7 +757,7 @@ g6
 VNo. Look, I have family that have lived in Texas since it was Mexico. I have other relatives who have come here legally and yes, some that have come here illegally. I have lived this problem. Senator Vinick talks about how easy it is to cross the Rio Grande. I think you should tell that to the families of the men, women, and children who have died trying to do it.
 p214
 sg8
-g37
+g32
 sg10
 VSANTOS
 p215
@@ -773,7 +773,7 @@ sg10
 VVINICK
 p218
 sg12
-g9
+g32
 sa(dp219
 g6
 VThis is not a law enforcement problem. This is an economic problem. If Mexico's economy was as strong as Canada's, there wouldn't be a problem. The President cannot solve this problem. You cannot seal a 2,000-mile border. Mexico has to solve it. Mexico has to grow its own economy. It has to provide enough jobs so that it's not worth it to try to cross into our borders illegally. There is no other real solution to this. And Senator Vinick is smart enough to know that and I think you are, too.
@@ -801,7 +801,7 @@ g6
 VSenator Vinick, I think it's fair to say the centerpiece of your is your promise to cut taxes.
 p226
 sg8
-g21
+g13
 sg10
 VSAWYER
 p227
@@ -817,13 +817,13 @@ sg10
 VVINICK
 p230
 sg12
-g21
+g13
 sa(dp231
 g6
 VSo, could you tell us, specifically, sir, how you would cut spending yo pay for those tax cuts?
 p232
 sg8
-g21
+g13
 sg10
 VSAWYER
 p233
@@ -845,7 +845,7 @@ g6
 VI mean would you cut spending in the same amount as you cut taxes in order to balance the budget?
 p238
 sg8
-g21
+g13
 sg10
 VSAWYER
 p239
@@ -856,7 +856,7 @@ g6
 VLiberals who are opposed to tax cuts anyway always say you can't cut taxes until you've cut spending. I say we can lecture our children about overspending until we run out of breath or we can just cut their allowance. I'm a cut-the-allowance kind of parent.
 p241
 sg8
-g37
+g32
 sg10
 VVINICK
 p242
@@ -867,7 +867,7 @@ g6
 VWell, I'm a grandparent now, so I'm not as strict as I used to be. I'm going to cut Congress's allowance and then I'm going to force them to get control of spending because if they don't, because if they send me a budget that is not balanced, I will use this pen to veto it.
 p244
 sg8
-g37
+g32
 sg10
 VVINICK
 p245
@@ -883,13 +883,13 @@ sg10
 VSAWYER
 p248
 sg12
-g9
+g13
 sa(dp249
 g6
 VWell, I hope everyone's noticed that the Senator did not answer the question. He didn't tell you what spending he will cut. Would you like to try that again, Senator?
 p250
 sg8
-g21
+g13
 sg10
 VSANTOS
 p251
@@ -900,18 +900,18 @@ g6
 VI said I will balance the budget.
 p253
 sg8
-g21
+g13
 sg10
 VVINICK
 p254
 sg12
-g9
+g13
 sa(dp255
 g6
 VOh, you've seen this game before. We have a proven record on Republican tax cuts. First, they cut taxes. Then, they never get around to cutting spending so they run up huge deficits and they leave massive debts for our children to pay. If you elect me as President, that is a game that I won't play.
 p256
 sg8
-g37
+g32
 sg10
 VSANTOS
 p257
@@ -922,7 +922,7 @@ g6
 VYou know, Congressman Santos is running a very brave campaign. I have to give him credit for that. He's actually promising a tax increase, which is a brave thing to do because the American people don't want it. And it's the wrong thing to do because the American people don't want it. But even his big tax increases won't be enough to raise money for the big spending increases he's promising. So President Santos would have to do exactly what he's promising not to do: run up huge deficits and leave massive debts for our children and grandchildren to pay.
 p259
 sg8
-g21
+g13
 sg10
 VVINICK
 p260
@@ -933,7 +933,7 @@ g6
 VThat's wrong. I am going to balance the budget. And yes, I am in favor of tax increases, but they won't affect you.
 p262
 sg8
-g37
+g32
 sg10
 VSANTOS
 p263
@@ -955,7 +955,7 @@ g6
 VThat is, unless you make more than a million dollars a year. I'd like to propose raising taxes by 1% on incomes over a million. I want to raise taxes another 2% on incomes over ten million and another 2% on incomes over 100 million dollars. Now, does that sound like cruel and unusual punishment for the superrich?
 p268
 sg8
-g37
+g32
 sg10
 VSANTOS
 p269
@@ -966,7 +966,7 @@ g6
 VThey're paying more than their fair share.
 p271
 sg8
-g21
+g13
 sg10
 VVINICK
 p272
@@ -982,7 +982,7 @@ sg10
 VSANTOS
 p275
 sg12
-g37
+g32
 sa(dp276
 g6
 VYes, they are. They're paying...
@@ -993,7 +993,7 @@ sg10
 VVINICK
 p278
 sg12
-g9
+g13
 sa(dp279
 g6
 VThey're supposed to pay 35% but with all of the tax loopholes you've written into the tax code for them they end up paying only 23%. That's a lot less than I pay. Just think about this: the richest of the rich, people making over 100 million dollars a year, don't pay anything close to the tax rate that they're supposed to and that's what Senator Vinick calls fair?
@@ -1010,7 +1010,7 @@ g6
 VUh, gentlemen? I'd like to get an answer to my original question on spending cuts.
 p283
 sg8
-g21
+g13
 sg10
 VSAWYER
 p284
@@ -1021,7 +1021,7 @@ g6
 VNow, are either of you willing to specify what cuts in spending you would make in order to balance the budget?
 p286
 sg8
-g21
+g13
 sg10
 VSAWYER
 p287
@@ -1043,7 +1043,7 @@ g6
 VOkay, just as a hypothetical, let's accept the worst-case scenario: that neither one of us would be able to pay for everything he wants to do as President. Then your choice is between a Republican who can't pay for tax cuts or a Democrat who can't pay for spending increases even after raising taxes. I think the American people know how to make that choice.
 p292
 sg8
-g21
+g13
 sg10
 VVINICK
 p293
@@ -1065,7 +1065,7 @@ g6
 VLevel the playing field. Help close the gap between Beverly Hills High and Harlem High. We have got to change a system that says the quality of your education depends on where you live.
 p298
 sg8
-g37
+g32
 sg10
 VSANTOS
 p299
@@ -1081,13 +1081,13 @@ sg10
 VVINICK
 p302
 sg12
-g9
+g13
 sa(dp303
 g6
 VWell, you want to throw money at the border.
 p304
 sg8
-g21
+g13
 sg10
 VSANTOS
 p305
@@ -1103,7 +1103,7 @@ sg10
 VVINICK
 p308
 sg12
-g9
+g32
 sa(dp309
 g6
 VYou're thinking that...
@@ -1114,13 +1114,13 @@ sg10
 VSANTOS
 p311
 sg12
-g9
+g32
 sa(dp312
 g6
 VLet me finish. Before you vote for someone who thinks you can buy higher test scores for poor students, know this: the highest spending school system in the country has the lowest test scores. Washington, D.C. spends more than every state; $15,000 per pupil with nothing to show for it.
 p313
 sg8
-g37
+g32
 sg10
 VVINICK
 p314
@@ -1131,7 +1131,7 @@ g6
 VI'm not talking about just throwing money at the problem. I'm talking about supporting the new approaches that have already succeeded in some school districts. The President can spread those good ideas around the country and he can make sure that every student gets the chance that he or she deserves.
 p316
 sg8
-g21
+g13
 sg10
 VSANTOS
 p317
@@ -1153,7 +1153,7 @@ g6
 VOh, that's right, the big, bad Democrats won't take money away from public schools to give them to private schools. What's next, taking money away from police departments to pay for private security guards?
 p322
 sg8
-g21
+g13
 sg10
 VSANTOS
 p323
@@ -1175,7 +1175,7 @@ g6
 VWell, the federal share is much higher than that if you include headstart, and I can understand why you don't include headstart in the total of federal funding, Senator, since you voted against it.
 p328
 sg8
-g21
+g13
 sg10
 VSANTOS
 p329
@@ -1191,13 +1191,13 @@ sg10
 VVINICK
 p332
 sg12
-g9
+g32
 sa(dp333
 g6
 VI wish headstart did work, but it doesn't. By grades four and five, headstart graduates do no better academically than their equally poor classmates who didn't attend headstart. So yes, I have voted against expansions of an 8-billion... 6-billion dollar program that's not raising academic achievement.
 p334
 sg8
-g21
+g13
 sg10
 VVINICK
 p335
@@ -1208,7 +1208,7 @@ g6
 VHeadstart does raise scores in the early years and then we let them slip. Our whole school system has been slipping for years and our rankings with other countries in math and science achievement... we've got to find a way to turn that around. If we provide the school systems and teachers with everything they need and the flexibility to experiment with fresh new approaches, I think that American students can be number one in the world in math and science in ten years.
 p337
 sg8
-g21
+g13
 sg10
 VSANTOS
 p338
@@ -1219,7 +1219,7 @@ g6
 VThat's a lie.
 p340
 sg8
-g37
+g32
 sg10
 VVINICK
 p341
@@ -1230,7 +1230,7 @@ g6
 VPlease. Ladies and gentlemen, I think we should impose the original rules on the audience, and I'm going to have to ask you to please, for the sake of the candidates, to remain silent for the rest of the debate.
 p343
 sg8
-g21
+g13
 sg10
 VSAWYER
 p344
@@ -1241,7 +1241,7 @@ g6
 VAnd Senator Vinick, we have managed to keep a civil tone throughout this discussion and unless we can continue to do that, then I'm going to impose the original rules on the candidates themselves.
 p346
 sg8
-g21
+g13
 sg10
 VSAWYER
 p347
@@ -1263,7 +1263,7 @@ g6
 VSo, give up on headstart, just give up on early education, and then give up on those kids who don't test well. They'll find their way, don't worry about them.
 p352
 sg8
-g37
+g32
 sg10
 VSANTOS
 p353
@@ -1274,7 +1274,7 @@ g6
 VI'm not going to give up on public schools.
 p355
 sg8
-g21
+g13
 sg10
 VVINICK
 p356
@@ -1285,7 +1285,7 @@ g6
 VWell, you haven't proposed a single thing that will make them better  not one new idea. I'm going to keep trying new ideas. Some might work, some might not, and I'll level with you about that. We'll keep the good ideas and get rid of the bad. And I won't let a day go by in this White House where I don't work hard to improve our public schools. In fact, I'm going to stake my Presidency on that, right here, right now. And if in four years from now, you don't think I've improved public education in this country then do not vote for my reelection.
 p358
 sg8
-g21
+g13
 sg10
 VSANTOS
 p359
@@ -1307,7 +1307,7 @@ g6
 VMake it tax deductible; instantly cuts the price by as much as 35%. That just happens to be one of the items in my tax cut package.
 p364
 sg8
-g37
+g32
 sg10
 VVINICK
 p365
@@ -1318,7 +1318,7 @@ g6
 VYou really think tax cuts are the answer to everything.
 p367
 sg8
-g37
+g32
 sg10
 VSANTOS
 p368
@@ -1351,7 +1351,7 @@ g6
 VSo, after you've raised taxes and after you've enacted the Santos Health Care plan then all the health care problems in America will be solved, right? Everyone will have health insurance, everyone will be happy.
 p376
 sg8
-g21
+g13
 sg10
 VVINICK
 p377
@@ -1367,7 +1367,7 @@ sg10
 VSANTOS
 p380
 sg12
-g9
+g13
 sa(dp381
 g6
 VToward universal coverage, so it won't cover...
@@ -1378,7 +1378,7 @@ sg10
 VVINICK
 p383
 sg12
-g9
+g32
 sa(dp384
 g6
 VIt will be a very large... very large step toward...
@@ -1389,7 +1389,7 @@ sg10
 VSANTOS
 p386
 sg12
-g9
+g13
 sa(dp387
 g6
 VSo after you've enacted the plan that you're proposing tonight, how many people would still be left without...
@@ -1439,7 +1439,7 @@ g6
 VSo, after raising taxes and creating a huge new bureaucracy to run a complex government health insurance program, the Santos health plan will leave thirty million people without health insurance. Do you really think Congress is going to let you do all that and not even solve 50% of the problem?
 p400
 sg8
-g37
+g32
 sg10
 VVINICK
 p401
@@ -1505,12 +1505,12 @@ g6
 VUh, no, sir.
 p418
 sg8
-g21
+g13
 sg10
 VSAWYER
 p419
 sg12
-g9
+g32
 sa(dp420
 g6
 VThey can't hear me.
@@ -1538,7 +1538,7 @@ g6
 VThank you. [continuing] ...because Senator Vinick and the insurance companies are never going to let it happen. But if you all had the option, the option, of using Medicare, you could save a lot of money. Private insurance companies, they spend about 25% of your money on administrative costs, on paperwork. Do you know how much, anyone want to guess, how much administrative costs.
 p427
 sg8
-g21
+g13
 sg10
 VSANTOS
 p428
@@ -1554,13 +1554,13 @@ sg10
 VSANTOS
 p431
 sg12
-g9
+g32
 sa(dp432
 g6
 VYou would think that it would be higher than the private companies, right? A massive, government bureaucracy can't be more efficient than the private companies, right? The Republicans have been telling you that forever. Two. That's right, 2%. Medicare's administrative costs are 2%, that's 23% lower than private insurance companies and HMOs. The best kept secret in the world  in our country  is that Medicare is the most efficient health care system in the world. Now, if you had the option of choosing Medicare instead of your private insurance companies and HMOs, you would save big money  at least 20%.
 p433
 sg8
-g21
+g13
 sg10
 VSANTOS
 p434
@@ -1571,7 +1571,7 @@ g6
 VThat's crazy. Medicare taxes would skyrocket.
 p436
 sg8
-g37
+g32
 sg10
 VVINICK
 p437
@@ -1582,7 +1582,7 @@ g6
 VWell, yes, the Medicare tax would have to go up but it still would be much lower than health insurance premiums are now. Look, I don't know about you, but if you give me a choice between paying for something called a premium and something called a tax, my only question's going to be 'Which one's cheaper?'
 p439
 sg8
-g37
+g32
 sg10
 VSANTOS
 p440
@@ -1593,7 +1593,7 @@ g6
 VI literally don't know where to begin. I mean, to force everyone in the country to go to...
 p442
 sg8
-g37
+g32
 sg10
 VVINICK
 p443
@@ -1604,7 +1604,7 @@ g6
 VWell, I wouldn't... I wouldn't force everyone, just give them the option; see what happens with the HMOs when they have to compete with an efficient system that continues to allow you to choose your own doctor and to make your own health care decisions.
 p445
 sg8
-g21
+g13
 sg10
 VSANTOS
 p446
@@ -1626,7 +1626,7 @@ g6
 VWell, coming from someone who has no health care at all, who has spent a career saying no, no, no, to every health care reform that has ever come to Congress...
 p451
 sg8
-g21
+g13
 sg10
 VSANTOS
 p452
@@ -1659,7 +1659,7 @@ g6
 VLet me leave it at this: I'm opposed to Congressman Santos's compromise and to his dream plan. And I pledge to you here tonight: I will never raise the Medicare tax, not one penny.
 p460
 sg8
-g37
+g32
 sg10
 VVINICK
 p461
@@ -1708,13 +1708,13 @@ sg10
 VVINICK
 p473
 sg12
-g21
+g13
 sa(dp474
 g6
 VWell, Medicare is good enough for Senator Vinick but it's not good enough for us? If we could all have the option to join Medicare it would be a much cheaper, much more efficient health care system.
 p475
 sg8
-g21
+g13
 sg10
 VSANTOS
 p476
@@ -1725,7 +1725,7 @@ g6
 VSenator, let me ask you about a related issue which is prescription drug prices and those prices have been going up at a rate more than double the inflation rate. So, would you favor re-importing American drugs from Canada where they are much cheaper?
 p478
 sg8
-g37
+g32
 sg10
 VSAWYER
 p479
@@ -1736,7 +1736,7 @@ g6
 VYou know why drugs are cheaper in Canada; because the government controls the price. Do you know how many life-saving drugs are invented in Canada? None, because the government controls the price.
 p481
 sg8
-g37
+g32
 sg10
 VVINICK
 p482
@@ -1747,18 +1747,18 @@ g6
 VWell, Canadian laboratories have helped to create some very important drugs.
 p484
 sg8
-g21
+g13
 sg10
 VSANTOS
 p485
 sg12
-g37
+g9
 sa(dp486
 g6
 VNo, nothing like the miraculous drugs that the American pharmaceutical industry has given to the world.
 p487
 sg8
-g21
+g13
 sg10
 VVINICK
 p488
@@ -1769,7 +1769,7 @@ g6
 VGiven to the world? I guess you haven't seen the price list lately, sir.
 p490
 sg8
-g21
+g13
 sg10
 VSANTOS
 p491
@@ -1780,7 +1780,7 @@ g6
 VNot long ago, if you were HIV positive in this country you were marked for death. Not anymore. And that's thanks to our pharmaceutical companies. You know, in the 1970s, the most common cause for surgery was ulcers. Now, you get an ulcer, you take a pill. Is it an expensive pill? Yes. A dollar does seem like a lot to pay for one pill. But how does a dollar a day sound compared to a $30,000 surgery bill? So, are prescription drugs expensive? Yes. Do they save us from getting hit with much more expensive hospital bills? Yes. Do they save lives? Yes. American pharmaceutical companies save us money and they save lives and the Democrats can not stop attacking them.
 p493
 sg8
-g21
+g13
 sg10
 VVINICK
 p494
@@ -1791,7 +1791,7 @@ g6
 VWhy should the pharmaceutical companies get protection that no other American industry gets? We can buy anything else from Canada; why not prescription drugs?
 p496
 sg8
-g21
+g13
 sg10
 VSANTOS
 p497
@@ -1802,7 +1802,7 @@ g6
 VBecause the Canadian price controls are unfair to American companies.
 p499
 sg8
-g37
+g32
 sg10
 VVINICK
 p500
@@ -1813,12 +1813,12 @@ g6
 VThey're unfair?
 p502
 sg8
-g37
+g32
 sg10
 VSANTOS
 p503
 sg12
-g9
+g32
 sa(dp504
 g6
 VYes, they are.
@@ -1829,13 +1829,13 @@ sg10
 VVINICK
 p506
 sg12
-g9
+g13
 sa(dp507
 g6
 VWell, is it unfair that AIDS victims have been dying for Africa for years because the drug companies are protecting their profit margins?
 p508
 sg8
-g37
+g32
 sg10
 VSANTOS
 p509
@@ -1857,7 +1857,7 @@ g6
 VYes, only after we have pushed them to do it and they are still not lower to reach everyone who really needs them in Africa.
 p514
 sg8
-g37
+g32
 sg10
 VSANTOS
 p515
@@ -1868,7 +1868,7 @@ g6
 VPeople are not dying in Africa now because of our drug companies. They're dying because they don't have clean water supplies and because they don't have a basic infrastructure for health care and because they're governments are corrupt. And they often prevent the help that we're trying to bring to the sick people from getting to them.
 p517
 sg8
-g37
+g32
 sg10
 VVINICK
 p518
@@ -1879,7 +1879,7 @@ g6
 VWell, yes, health care delivery in Africa is weak which is why we have to provide full-scale debt relief for all of those countries so that they can concentrate on building their basic infrastructure instead of the impossible burden of paying back loans to the rich countries of the world.
 p520
 sg8
-g21
+g13
 sg10
 VSANTOS
 p521
@@ -1890,7 +1890,7 @@ g6
 VDebt relief is a nice idea but it won't help. It will just formalize the reality that poor countries can never repay their loans.
 p523
 sg8
-g21
+g13
 sg10
 VVINICK
 p524
@@ -1901,7 +1901,7 @@ g6
 VSenator, are you saying you're opposed to debt relief for impoverished countries?
 p526
 sg8
-g37
+g32
 sg10
 VSAWYER
 p527
@@ -1912,7 +1912,7 @@ g6
 VNo. We should forgive the debts but it's not going to help... that's not going to help those countries very much.
 p529
 sg8
-g21
+g13
 sg10
 VVINICK
 p530
@@ -1928,7 +1928,7 @@ sg10
 VSAWYER
 p533
 sg12
-g9
+g13
 sa(dp534
 g6
 VTax cuts.
@@ -1939,13 +1939,13 @@ sg10
 VVINICK
 p536
 sg12
-g9
+g13
 sa(dp537
 g6
 VSome African tax rates are the highest in the world. In Tanzania, the 30% rate kicks in at $475 of income plus this 30% value added that they put onto everything. Those high tax rates have made it impossible build capital in those countries. So, as a result, nothing gets built; not roads, not factories, not anything. Poor African countries have the lowest wage earners in the world, but a company like Nike, for instance, can't put a factory in there because of those oppressive tax rates. Taxes have killed any possibility of economic development. They've killed any hope of those countries helping themselves. And the result is they become completely dependant on charities, on loans. You know... here's the worst part: you know why those tax rates are so high? Because of us. Because they have to prove to us that they can raise enough money to pay back their loans. But taxes can't raise any money if they kill the economy. So, it turns out that the tragic, unattended consequence of our good intentions toward Africa - our kindness  is that we have forced those countries to lock themselves into an economic depression. If we don't urge those countries to lower their tax rates, they will never grow their economies. People will live lifetimes of unemployment. Disease will be rampant. Poverty will be permanent. Children will be hungry. And our charity will never be enough. Never.
 p538
 sg8
-g37
+g32
 sg10
 VVINICK
 p539
@@ -1956,7 +1956,7 @@ g6
 VI'd like to turn to jobs, right here at home. Congressman Santos, many Americans are afraid that their jobs are going to be outsourced to other countries that have low wages or that their jobs are just going to be lost to companies in another round of belt-tightening. So, what would you do as President to increase job security?
 p541
 sg8
-g21
+g13
 sg10
 VSAWYER
 p542
@@ -1967,7 +1967,7 @@ g6
 VWell, Forrest, we already have a program call Trade Adjustment Assistance which provides job retraining to those workers who have lost their jobs to foreign trade. I would add to that as President: any workers who lose their jobs to outsourcing. My economic program and my plan to keep American workers competitive will build upon President Bartlet's extraordinary job creation record and I think it will keep us on track to create another million jobs in my first term as President.
 p544
 sg8
-g21
+g13
 sg10
 VSANTOS
 p545
@@ -2000,7 +2000,7 @@ g6
 VHow many jobs would you create in your first term, Senator?
 p553
 sg8
-g21
+g13
 sg10
 VSAWYER
 p554
@@ -2022,7 +2022,7 @@ g6
 VIn fact, I'll cut jobs. I will reduce the number of jobs in the federal government. Now I know I'm supposed to tell you that my tax cuts are supposed to stimulate the economy and therefore create jobs. Entrepreneurs create jobs. Business creates jobs. The President's job is to get out of the way.
 p559
 sg8
-g21
+g13
 sg10
 VVINICK
 p560
@@ -2033,7 +2033,7 @@ g6
 VDo you want a President who will get out of their way when corrupt executives are plundering a company like Enron?
 p562
 sg8
-g37
+g32
 sg10
 VSANTOS
 p563
@@ -2044,7 +2044,7 @@ g6
 VHey, I'll go after corporate crime. My running mate, Ray Sullivan, was very tough on white-collar crime when he was a prosecutor and my Attorney General will be just as tough.
 p565
 sg8
-g37
+g32
 sg10
 VVINICK
 p566
@@ -2055,7 +2055,7 @@ g6
 VDo you want a President who will get out of the way when airline executives are putting their companies into bankruptcy so that they can avoid the pension responsibilities to the workers that have dedicated their lives to those companies?
 p568
 sg8
-g37
+g32
 sg10
 VSANTOS
 p569
@@ -2066,7 +2066,7 @@ g6
 VSome of our older airlines are having trouble meeting their huge pension obligations at the very same time when they're facing intense competition from low-cost airlines that are so new they don't yet have pensions to pay. Now, an unthinking liberal will describe the airline bankruptcies as the evil capitalists screwing the workers.
 p571
 sg8
-g37
+g32
 sg10
 VVINICK
 p572
@@ -2077,12 +2077,12 @@ g6
 VI didn't say that Senator and I don't think you should put words in my mouth.
 p574
 sg8
-g37
+g32
 sg10
 VSANTOS
 p575
 sg12
-g9
+g32
 sa(dp576
 g6
 VNo. Of course you didn't say it. You're not an unthinking liberal. Are you?
@@ -2132,7 +2132,7 @@ g6
 VA Republican President ended slavery.
 p589
 sg8
-g37
+g32
 sg10
 VVINICK
 p590
@@ -2143,7 +2143,7 @@ g6
 VYes, a liberal Republican, Senator. What happened to them? They got run out of your party. What did liberals do that was so offensive to the liberal party? I'll tell you what they did. Liberals got women the right to vote. Liberals got African-Americans the right to vote. Liberals created Social Security and lifted millions of elderly people out of poverty. Liberals ended segregation. Liberals passed the Civil Rights Act, the Voting Rights Act. Liberals created Medicare. Liberals passed the Clean Air Act, the Clean Water Act. What did Conservatives do? They opposed them on every one of those things  every one. So when you try to hurl that label at my feet, 'Liberal,' as if it were something to be ashamed of, something dirty, something to run away from, it won't work, Senator, because I will pick up that label and I will wear it as a badge of honor.
 p592
 sg8
-g37
+g32
 sg10
 VSANTOS
 p593
@@ -2154,7 +2154,7 @@ g6
 VI believe it's a Republican governor who's imposed a moratorium on the death penalty in Illinois. And so Congressman, would you favor a moratorium on the federal death penalty?
 p595
 sg8
-g37
+g32
 sg10
 VSAWYER
 p596
@@ -2170,7 +2170,7 @@ sg10
 VSANTOS
 p599
 sg12
-g21
+g13
 sa(dp600
 g6
 VThat's it?
@@ -2203,7 +2203,7 @@ sg10
 VSAWYER
 p608
 sg12
-g9
+g13
 sa(dp609
 g6
 VNo.
@@ -2236,13 +2236,13 @@ sg10
 VVINICK
 p617
 sg12
-g9
+g32
 sa(dp618
 g6
 VAll right, let's try gun control. Senator Vinick, do we need more of it?
 p619
 sg8
-g37
+g32
 sg10
 VSAWYER
 p620
@@ -2308,7 +2308,7 @@ g6
 VThere you go again! The Democratic Party line: attack big business, attack the oil companies.
 p637
 sg8
-g37
+g32
 sg10
 VVINICK
 p638
@@ -2319,12 +2319,12 @@ g6
 VI'm not attacking the oil companies.
 p640
 sg8
-g37
+g32
 sg10
 VSANTOS
 p641
 sg12
-g9
+g32
 sa(dp642
 g6
 VOh, yes, you are.
@@ -2335,13 +2335,13 @@ sg10
 VVINICK
 p644
 sg12
-g9
+g13
 sa(dp645
 g6
 VLook Arnie, I understand that the oil companies have given your campaign a lot of money.
 p646
 sg8
-g21
+g13
 sg10
 VSANTOS
 p647
@@ -2379,7 +2379,7 @@ sg10
 VVINICK
 p656
 sg12
-g9
+g32
 sa(dp657
 g6
 VI'm not smearing you.
@@ -2390,7 +2390,7 @@ sg10
 VSANTOS
 p659
 sg12
-g21
+g32
 sa(dp660
 g6
 VGentlemen...
@@ -2401,7 +2401,7 @@ sg10
 VSAWYER
 p662
 sg12
-g9
+g32
 sa(dp663
 g6
 VThat's exactly what you're trying to do.
@@ -2423,13 +2423,13 @@ sg10
 VSAWYER
 p668
 sg12
-g9
+g32
 sa(dp669
 g6
 VNo, no, no. Let's talk about this right now.
 p670
 sg8
-g21
+g13
 sg10
 VVINICK
 p671
@@ -2462,18 +2462,18 @@ g6
 VAll right, sir. Go ahead.
 p679
 sg8
-g21
+g13
 sg10
 VSAWYER
 p680
 sg12
-g9
+g13
 sa(dp681
 g6
 VI've disclosed the every name of the 220,000 people who have contributed to my campaign. There are no secrets about where my campaign money comes from. Some of my contributors work for oil companies. Now Liberals want you to think that's evil. They want you to think you can't be a good American if you work for an oil company. I can remember when people were condemned in this country for what they thought, condemned for their political positions. Liberals fought the noble fight against that witch hunt. Liberals said it was un-American and they were right. Now Liberals want to condemn people because of where they work?
 p682
 sg8
-g37
+g32
 sg10
 VVINICK
 p683
@@ -2484,7 +2484,7 @@ g6
 VHey, I have got relatives who are working all over the oil fields of Texas, sir. I am just saying that your positions on energy are exactly what the oil companies want to hear and that's why they've given so much to your campaign.
 p685
 sg8
-g21
+g13
 sg10
 VSANTOS
 p686
@@ -2495,7 +2495,7 @@ g6
 VAnd your position on spending, on creating new government jobs, that's exactly what the public employee unions want to hear and that's why they've poured money into your campaign. If you want to talk about conflict of interest...
 p688
 sg8
-g21
+g13
 sg10
 VVINICK
 p689
@@ -2506,7 +2506,7 @@ g6
 VWell, who's throwing cheap accusations now?
 p691
 sg8
-g37
+g32
 sg10
 VSANTOS
 p692
@@ -2533,18 +2533,18 @@ sg10
 VSAWYER
 p698
 sg12
-g9
+g32
 sa(dp699
 g6
 VI'm just trying to level...
 p700
 sg8
-g21
+g13
 sg10
 VVINICK
 p701
 sg12
-g9
+g32
 sa(dp702
 g6
 VSenator!
@@ -2566,13 +2566,13 @@ sg10
 VVINICK
 p707
 sg12
-g9
+g32
 sa(dp708
 g6
 VNow, unless you're prepared to prove, not just accuse but prove with facts that your opponent is influenced by campaign contributions, then let's agree to move on. Congressman Santos, you've said that we have to reduce our dependence on foreign oil. So, why not drill in Alaska's Artic National Wildlife Refuge?
 p709
 sg8
-g21
+g13
 sg10
 VSAWYER
 p710
@@ -2583,12 +2583,12 @@ g6
 VBecause we cannot drill our way to energy independence. There's only about a year's worth of oil there at best. I don't think that's worth disrupting a million years of ecological balance and a unique and spectacular wilderness.
 p712
 sg8
-g21
+g13
 sg10
 VSANTOS
 p713
 sg12
-g9
+g13
 sa(dp714
 g6
 VSenator.
@@ -2605,7 +2605,7 @@ g6
 VThat wilderness is much more valuable than the oil that's underneath it. I think that the pathway to a better, more sustainable future does not go through the Artic National Wildlife Refuge.
 p718
 sg8
-g21
+g13
 sg10
 VSANTOS
 p719
@@ -2621,13 +2621,13 @@ sg10
 VSAWYER
 p722
 sg12
-g9
+g32
 sa(dp723
 g6
 VA year's worth of oil? That sounds like a lot to me and there could be more. There could be much more down there. We'll never know until we start drilling. I'm sure it's a beautiful place. Have you ever been there?
 p724
 sg8
-g21
+g13
 sg10
 VVINICK
 p725
@@ -2671,7 +2671,7 @@ g6
 VIf they discovered big oil reserves in the Grand Canyon, I'd never let them drill there because it's our most magnificent natural monument and because real people get to go there. They get to see it, they get to taste it, to touch it, to experience it in all its glory. Now, you know, we're talking about a country that has oil wells within site of the beautiful beaches of Santa Barbara; oil wells within site of every Texas beach; thousands of operating oil wells in the city of Los Angeles. I just saw an oil well in the parking lot of a McDonalds in Long Beach the other day. And now Democrats are saying we can't put oil wells in a place so remote that only the animals will see them? I wish we could put all our oil wells up there, where no one could see them.
 p736
 sg8
-g21
+g13
 sg10
 VVINICK
 p737
@@ -2682,7 +2682,7 @@ g6
 VThere are other approaches. Congressman, would you support building more nuclear power plants in order to decrease our dependence on foreign energy?
 p739
 sg8
-g37
+g32
 sg10
 VSAWYER
 p740
@@ -2693,7 +2693,7 @@ g6
 VOh, no, Forrest, no. We still haven't figured out what to do with the radioactive waste from the plants that we already have.
 p742
 sg8
-g37
+g32
 sg10
 VSANTOS
 p743
@@ -2704,7 +2704,7 @@ g6
 VNuclear power is a completely safe, dependable energy source. Of course we should build more power plants.
 p745
 sg8
-g21
+g13
 sg10
 VVINICK
 p746
@@ -2715,7 +2715,7 @@ g6
 VDid you say 'completely safe'? I'm sorry. I don't want to be an alarmist here but there are plenty of obvious safety concerns. That's why we stopped building them. The government should be supporting the development of alternative energy sources and all of those new technologies that can harness solar power, wind power; all of those safer, new alternatives to nuclear power.
 p748
 sg8
-g21
+g13
 sg10
 VSANTOS
 p749
@@ -2726,7 +2726,7 @@ g6
 VHow about that, Senator; government support of alternative energy sources?
 p751
 sg8
-g37
+g32
 sg10
 VSAWYER
 p752
@@ -2737,7 +2737,7 @@ g6
 VI don't trust politicians to choose the right new energy sources. I believe in the free market. You know, the government didn't switch us from whale oil to the oil found under the ground. The market did that. And the government didn't make the Prius, the hottest selling car in Hollywood. That was the market that did that. In L.A. now, the coolest thing you can drive is a hybrid. Well, if that's what the free market can do in the most car-crazed culture on Earth, then I trust the free market to solve our energy problems. You know, the market can change the way we think. It can change what we want. Government can't do that. That's why the market has always been a better problem-solver than government and it always will be.
 p754
 sg8
-g37
+g32
 sg10
 VVINICK
 p755
@@ -2759,7 +2759,7 @@ g6
 VThe same people that were telling you that we were going to run out of oil by the end of the 20th Century are now trying to scare us with global warming theories.
 p760
 sg8
-g37
+g32
 sg10
 VVINICK
 p761
@@ -2770,7 +2770,7 @@ g6
 VTheories? You don't believe in the overwhelming, scientific research that's...
 p763
 sg8
-g21
+g13
 sg10
 VSANTOS
 p764
@@ -2781,7 +2781,7 @@ g6
 VNo, you know what you're talking about? You're talking about one degree change in the Earth's temperature in the last hundred years.
 p766
 sg8
-g21
+g13
 sg10
 VVINICK
 p767
@@ -2792,7 +2792,7 @@ g6
 VSenator, you have obviously not seen the scientific research...
 p769
 sg8
-g21
+g13
 sg10
 VSANTOS
 p770
@@ -2808,7 +2808,7 @@ sg10
 VVINICK
 p773
 sg12
-g37
+g32
 sa(dp774
 g6
 VGentlemen, gentlemen...
@@ -2819,7 +2819,7 @@ sg10
 VSAWYER
 p776
 sg12
-g9
+g32
 sa(dp777
 g6
 V...many reports that have...
@@ -2830,7 +2830,7 @@ sg10
 VSANTOS
 p779
 sg12
-g9
+g32
 sa(dp780
 g6
 VNo, I have...
@@ -2841,7 +2841,7 @@ sg10
 VVINICK
 p782
 sg12
-g37
+g32
 sa(dp783
 g6
 VWe're running out of time. I have just a final question on energy, if I could? We're going to be dependent on foreign oil for the foreseeable future, so what would you do to ensure a dependable supply of foreign oil? Congressman?
@@ -2880,7 +2880,7 @@ g6
 VAnd I'd like to invite Senator Vinick to join me in that pledge.
 p793
 sg8
-g21
+g13
 sg10
 VSANTOS
 p794
@@ -2902,7 +2902,7 @@ g6
 VIt's ridiculous to suggest that we would ever have to go to war to secure our oil supply. Oil is a commodity on a world market. You don't have to shoot anyone to get it, you just have to pay for it. By the way, do you know who our biggest supplier of foreign oil is?
 p799
 sg8
-g37
+g32
 sg10
 VVINICK
 p800
@@ -2913,7 +2913,7 @@ g6
 VNo. Wrong, it's Canada. So let's stop the hysterical talk about the evil foreign oil.
 p802
 sg8
-g37
+g32
 sg10
 VVINICK
 p803
@@ -2935,7 +2935,7 @@ g6
 VBecause it would be like going to war over sugar. Do you want to make a pledge like that, too? You know, the oil exporting countries have to sell it to someone to survive. They need us to buy it. They couldn't cut us off if they wanted to.
 p808
 sg8
-g21
+g13
 sg10
 VVINICK
 p809
@@ -2946,7 +2946,7 @@ g6
 VWill you join me in the pledge, Senator?
 p811
 sg8
-g21
+g13
 sg10
 VSANTOS
 p812
@@ -2957,7 +2957,7 @@ g6
 VI will not demean the office of the President by taking any pledge other than the oath of office.
 p814
 sg8
-g21
+g13
 sg10
 VVINICK
 p815
@@ -2990,7 +2990,7 @@ g6
 VAll right then. According to the coin toss, the first closing statement is from Congressman Santos.
 p823
 sg8
-g21
+g13
 sg10
 VSAWYER
 p824
@@ -3001,7 +3001,7 @@ g6
 VWell, Senator Vinick was eager to take a pledge about taxes, but now taking a pledge about anything else is beneath the dignity of the Presidency. The President has to lead. He has to actively head off problems, not just hope the market will figure out everything for him. It's the free market that Senator Vinick trusts so much that has left 45 million people without health insurance. But to his credit, the Senator's very honest about the fact that he has no health care plan, no education plan, no jobs plan, no energy plan. All he has is a tax plan. After he cuts taxes, what's he going to do for the next four years?
 p826
 sg8
-g21
+g13
 sg10
 VSANTOS
 p827
@@ -3012,7 +3012,7 @@ g6
 VTax cuts are not a magic wand that you can wave at every problem. Senator Vinick is very quick to attack my plans, but the Presidency is about more than just saying no, no, no. You have to say yes to something. You have to do something. We don't have enough time for me to remind you about every policy difference that you've heard here tonight. But when you go to work tomorrow and you're talking about this debate, talk about the qualities that you want to see as a President; the leadership qualities. Ask yourself if Matt Santos is the kind of guy who's going to give up on the promises that he's made tonight because it's going to be too tough to get them done. Talk about what it was like for Matt Santos to go from where he was baptized 45 years ago to where he's standing tonight. Ask yourselves what it was like to do that. And then ask yourselves if you're ready to give Matt Santos the Presidency of the United States. You know, you've seen the stories: in newspapers all over the world, people are asking is America ready for a Latino President. I have never asked that question. I never asked if Annapolis was ready for a Latino midshipman. I never asked if the Marines was ready for a Latino fighter pilot. I didn't have to ask. I just had to prove that I was ready, that I could get the job done. I am asking for your vote now because I know that I am ready to do the job. I thank you.
 p829
 sg8
-g21
+g13
 sg10
 VSANTOS
 p830
@@ -3023,7 +3023,7 @@ g6
 VSenator Vinick, your closing statement.
 p832
 sg8
-g21
+g13
 sg10
 VSAWYER
 p833
@@ -3034,7 +3034,7 @@ g6
 VFirst of all, I want to thank Matt for agreeing to drop the rules tonight and let us have a real debate. And what you've heard, over and above the many policy differences, were different philosophies of government. I believe both of us want what's best for this country, we just have different ideas about how to go about it. I think it's fair to say that Matt has more confidence in government than I do. I have more confidence in freedom  your freedom; your freedom to choose your child's school, your freedom to choose the car or truck that's right for you and your family, your freedom to spend or save your hard-earned money instead of having the government spend it for you. I'm not anti-government. I just don't want any more government than we can afford. I don't want government doing things it doesn't know how to do or doing things the private sector does better or throwing more money at failed programs because that's exactly what makes people lose faith in government. And all of us, Democrats and Republicans, Independents, Liberals or Conservatives, we all want a government that we can believe in. We all want a government that doesn't make false promises, a government that doesn't overreach, doesn't take on more than it can handle; an efficient, effective, honest government. That's what the Founding Fathers created. That's what they wanted for us. The choice in this election comes down to this: do we want more government or do we want to get control of government. To govern is to choose and the choices are never easy. There are lobbies out there that will fight you on every choice you make. They're ready to call you names the second you make a choice they don't like. You heard that heckler go after me tonight. You have to be tough to stand up to that. But being tough won't help you make the right choice. That takes experience and mature judgment. That's what the Presidency needs now more than ever. And that's why I ask you to give me your vote: so that I can give you the government that you were promised by the Founding Fathers. Thank you, very much.
 p835
 sg8
-g21
+g13
 sg10
 VVINICK
 p836
@@ -3045,7 +3045,7 @@ g6
 VSenator Vinick, Congressman Santos: our thanks to you both. That is our debate and thank you for watching. Goodnight.
 p838
 sg8
-g21
+g13
 sg10
 VSAWYER
 p839

@@ -23,202 +23,202 @@ VREID
 p11
 sS'maxent_score'
 p12
-S'negative'
-p13
-sa(dp14
+g9
+sa(dp13
 g6
 VWait, what was that? You're breaking up on me.
-p15
+p14
 sg8
 g9
 sg10
 VC.J.
-p16
+p15
 sg12
 g9
-sa(dp17
+sa(dp16
 g6
 VYes. That's much better. So, what's this about the dollar and the yen?
-p18
+p17
 sg8
 g9
 sg10
 VC.J.
-p19
+p18
 sg12
 g9
-sa(dp20
+sa(dp19
 g6
 VChina's currency is the yuan.
-p21
+p20
 sg8
 g9
 sg10
 VTOBY
-p22
+p21
 sg12
 g9
-sa(dp23
+sa(dp22
 g6
 VThis isn't PBS, he's not going to ask about the yuan.
-p24
+p23
 sg8
 g9
 sg10
 VC.J.
-p25
+p24
 sg12
 g9
-sa(dp26
+sa(dp25
 g6
 VHe's definitely going to as me about that. Give me more.
-p27
+p26
 sg8
 g9
 sg10
 VC.J.
-p28
+p27
 sg12
 g9
-sa(dp29
+sa(dp28
 g6
 VH-hang on. Can you stick it there? Yeah?
-p30
+p29
 sg8
 g9
 sg10
 VC.J.
-p31
+p30
 sg12
 g9
-sa(dp32
+sa(dp31
 g6
 VDid you see Drudge?
-p33
+p32
 sg8
 g9
 sg10
 VWILL
-p34
+p33
 sg12
-S'positive'
-p35
-sa(dp36
+g9
+sa(dp34
 g6
 VUh, pay them not to grow tobacco... Increase in price of tobacco...
-p37
+p35
 sg8
 g9
 sg10
 VTOBY
-p38
+p36
 sg12
 g9
-sa(dp39
+sa(dp37
 g6
 VOther recommendations for reducing teenage smo...
-p40
+p38
 sg8
 g9
 sg10
 VTOBY
-p41
+p39
 sg12
 g9
-sa(dp42
+sa(dp40
 g6
 VIn ten, nine, eight...
-p43
+p41
 sg8
 g9
 sg10
 VMAN
-p44
+p42
 sg12
 g9
-sa(dp45
+sa(dp43
 g6
 VToby, I got to go.
-p46
+p44
 sg8
 g9
 sg10
 VC.J.
-p47
+p45
 sg12
 g9
-sa(dp48
+sa(dp46
 g6
 VNo, wait!
-p49
+p47
 sg8
-g13
+S'negative'
+p48
 sg10
 VTOBY
-p50
+p49
 sg12
 g9
-sa(dp51
+sa(dp50
 g6
 VHello? Damn it.
-p52
+p51
 sg8
 g9
 sg10
 VTOBY
-p53
+p52
 sg12
-g9
-sa(dp54
+g48
+sa(dp53
 g6
 VJoining me now in a rare venture outside the tightly controlled environment of the White House press briefing room is the one and only queen of the Bartlet spinners, Miss C.J. Cregg. C.J., welcome back to the show.
-p55
+p54
 sg8
 g9
 sg10
 VREID
-p56
+p55
 sg12
 g9
-sa(dp57
+sa(dp56
 g6
 VAlways a pleasure, Taylor, but if you really think the briefing room is a controlled environment you should try controlling 100 hungry reporters someday. And if I'm queen of anything I want a bigger office.
-p58
+p57
 sg8
-g13
+g48
 sg10
 VC.J.
-p59
+p58
 sg12
 g9
-sa(dp60
+sa(dp59
 g6
 VOkay, C.J. Tell us about the President's secret plan to raise taxes.
-p61
+p60
 sg8
 g9
 sg10
 VREID
-p62
+p61
 sg12
 g9
-sa(dp63
+sa(dp62
 g6
 VLove to, but it's so secret he hasn't even told me about it yet.
-p64
+p63
 sg8
 g9
 sg10
 VC.J.
-p65
+p64
 sg12
 g9
-sa(dp66
+sa(dp65
 g6
 VI'm talking about a secret Presidential commission that wants a whopping 50% increase...
-p67
+p66
 sg8
-g35
+S'positive'
+p67
 sg10
 VREID
 p68
@@ -229,7 +229,7 @@ g6
 VFirst of all, Taylor, it's not a secret commission. The report was just released and it's on the AP wire. That's how you found out about it and how I found out about it and I promise you the President hasn't even heard of it yet.
 p70
 sg8
-g35
+g67
 sg10
 VC.J.
 p71
@@ -251,7 +251,7 @@ g6
 VYes. Among their many recommendations to reduce teenage smoking, they suggested 17 cent increase in the price...
 p76
 sg8
-g35
+g67
 sg10
 VC.J.
 p77
@@ -273,7 +273,7 @@ g6
 VYes, Taylor, 17 pennies does equal 50% in this little math problem...
 p82
 sg8
-g13
+g48
 sg10
 VC.J.
 p83
@@ -295,7 +295,7 @@ g6
 VRaising the price should reduce the demand a bit, but, more importantly, it will raise $3.4 billion a year. That's 16 billion over 5 years, and that would be enough to buy out 75% of the American tobacco farmers.
 p88
 sg8
-g13
+g48
 sg10
 VC.J.
 p89
@@ -306,7 +306,7 @@ g6
 VYou mean pay them not to grow tobacco.
 p91
 sg8
-g35
+g67
 sg10
 VREID
 p92
@@ -328,18 +328,18 @@ g6
 VHas this President ever met a government handout he didn't like? I mean, how many people does he want to pay to do nothing? Does he not realize the budget deficit is already large enough, and how much taxation does he think we can stand before we reach our breaking point? Has this President forgotten that this country was founded during a tax revolt? C.J., what is he thinking?
 p97
 sg8
-g13
+g48
 sg10
 VREID
 p98
 sg12
-g9
+g48
 sa(dp99
 g6
 VWhich one of those is your favorite, 'cause if there's one you'd actually like me to answer...
 p100
 sg8
-g35
+g67
 sg10
 VC.J.
 p101
@@ -350,7 +350,7 @@ g6
 VCome on, C.J. We all know he's never met a tax increase he didn't like. If you don't want to answer the question, we'll move on to something else. This is new. This is from the Drudge Report, Matt Drudge's website, and I'm reading.
 p103
 sg8
-g35
+g67
 sg10
 VREID
 p104
@@ -377,7 +377,7 @@ sg10
 VC.J.
 p110
 sg12
-g9
+g48
 sa(dp111
 g6
 VWas the President trying to orchestrate another cover-up here, C.J.?
@@ -388,13 +388,13 @@ sg10
 VREID
 p113
 sg12
-g9
+g48
 sa(dp114
 g6
 VLook, I can't respond to every crazy website...
 p115
 sg8
-g13
+g48
 sg10
 VC.J.
 p116
@@ -405,7 +405,7 @@ g6
 VDid the President tell Hoynes not to resign?
 p118
 sg8
-g13
+g48
 sg10
 VREID
 p119
@@ -432,24 +432,24 @@ sg10
 VREID
 p125
 sg12
-g9
+g48
 sa(dp126
 g6
 VI'm not privy to the private conversations the President has...
 p127
 sg8
-g13
+g48
 sg10
 VC.J.
 p128
 sg12
-g9
+g48
 sa(dp129
 g6
 VCome on, C.J., this is pretty basic. Did the President tell Hoynes to stick around because he thought he could beat the rap?
 p130
 sg8
-g35
+g67
 sg10
 VREID
 p131
@@ -465,7 +465,7 @@ sg10
 VC.J.
 p134
 sg12
-g9
+g48
 sa(dp135
 g6
 VThat's your answer? Your answer is "No Comment"?
@@ -482,7 +482,7 @@ g6
 VAlright, we got to go to a break. When we come back, more with White House Press Secretary C.J. Cregg. That was a great segment, C.J. Good job.
 p139
 sg8
-g35
+g67
 sg10
 VREID
 p140
@@ -498,7 +498,7 @@ sg10
 VTOBY
 p143
 sg12
-g35
+g9
 sa(dp144
 g6
 VCarol said any minute now.
@@ -564,7 +564,7 @@ sg10
 VTOBY
 p161
 sg12
-g9
+g67
 sa(dp162
 g6
 VHey, Toby.
@@ -575,7 +575,7 @@ sg10
 VTOM
 p164
 sg12
-g9
+g67
 sa(dp165
 g6
 VTom.
@@ -603,18 +603,18 @@ g6
 VNo problem, Shelly. Hey, everybody, sorry I'm late. Uh, hey.
 p172
 sg8
-g13
+g48
 sg10
 VTOBY
 p173
 sg12
-g9
+g48
 sa(dp174
 g6
 VWe're having a little bit of a problem finding a room big enough for us meet. So why don't I work on that for a minute. I'll uh, I'll be right back.
 p175
 sg8
-g13
+g48
 sg10
 VTOBY
 p176
@@ -663,7 +663,7 @@ sg10
 VTOBY
 p188
 sg12
-g9
+g67
 sa(dp189
 g6
 VI looked like an amateur. Carol, I need an advance copy of the Sunday Times Magazine, now.
@@ -729,7 +729,7 @@ sg10
 VC.J.
 p206
 sg12
-g9
+g48
 sa(dp207
 g6
 VYou want me to get him on the phone?
@@ -795,13 +795,13 @@ sg10
 VC.J.
 p224
 sg12
-g9
+g48
 sa(dp225
 g6
 VHi, Greg, it's C.J. Cregg. I've been meaning to buy you lunch since you joined the White House press corps. It's a little tradition we have. One I'm trying to start, actually, so why don't you give me a call and we'll, um... Oh, you know exactly why I'm calling. Get back to me fast, will ya?
 p226
 sg8
-g35
+g67
 sg10
 VC.J.
 p227
@@ -845,7 +845,7 @@ g6
 VCome on, please. Not the Base Closing Commission. The most ridiculously boring...
 p238
 sg8
-g13
+g48
 sg10
 VJOSH
 p239
@@ -867,23 +867,23 @@ g6
 VWait a minute, is this even legal?
 p244
 sg8
-g35
+g67
 sg10
 VJOSH
 p245
 sg12
-g13
+g9
 sa(dp246
 g6
 VIt's perfectly legal.
 p247
 sg8
-g35
+g67
 sg10
 VLEO
 p248
 sg12
-g9
+g67
 sa(dp249
 g6
 VAren't they supposed to be independent or something?
@@ -911,7 +911,7 @@ g6
 VClosing any military base is politically suicidal.
 p256
 sg8
-g13
+g48
 sg10
 VJOSH
 p257
@@ -982,13 +982,13 @@ sg10
 VLEO
 p275
 sg12
-g9
+g48
 sa(dp276
 g6
 VHey, I've got 15 AFL-CIO union reps who want to yell at me for sending their jobs to China.
 p277
 sg8
-g13
+g48
 sg10
 VTOBY
 p278
@@ -1054,7 +1054,7 @@ g6
 VWe're talking two former four-star generals, a former admiral, and a couple of former assistant secretaries of DOD.
 p295
 sg8
-g35
+g67
 sg10
 VLEO
 p296
@@ -1092,7 +1092,7 @@ sg10
 VWILL
 p305
 sg12
-g9
+g67
 sa(dp306
 g6
 VFor what?
@@ -1114,7 +1114,7 @@ sg10
 VWILL
 p311
 sg12
-g9
+g48
 sa(dp312
 g6
 VOf course not. For what?
@@ -1136,7 +1136,7 @@ sg10
 VWILL
 p317
 sg12
-g9
+g67
 sa(dp318
 g6
 VEnvironmental groups? That has to be a first for him.
@@ -1169,7 +1169,7 @@ sg10
 VWILL
 p326
 sg12
-g9
+g48
 sa(dp327
 g6
 VWe don't know that.
@@ -1180,13 +1180,13 @@ sg10
 VLEO
 p329
 sg12
-g9
+g48
 sa(dp330
 g6
 VNo, not exactly, not yet. But a come-clean, tell-all interview in the Times is a good first step.
 p331
 sg8
-g35
+g67
 sg10
 VWILL
 p332
@@ -1208,7 +1208,7 @@ g6
 VLook, Hoynes is obviously trying to rewrite history to make himself morally superior to the President.
 p337
 sg8
-g35
+g67
 sg10
 VWILL
 p338
@@ -1224,13 +1224,13 @@ sg10
 VTOBY
 p341
 sg12
-g9
+g67
 sa(dp342
 g6
 VWho lied about sex. Everyone lies about sex. That's how his people are going to spin it.
 p343
 sg8
-g35
+g67
 sg10
 VWILL
 p344
@@ -1246,13 +1246,13 @@ sg10
 VJOSH
 p347
 sg12
-g9
+g48
 sa(dp348
 g6
 VWe don't know that. I'm just saying, the Vice President's office - I - would like to be included in any strategic discussion about how to respond to Hoynes's campaign, and it is a campaign, to make himself out to be the only honest guy in an administration of liars.
 p349
 sg8
-g35
+g67
 sg10
 VWILL
 p350
@@ -1307,7 +1307,7 @@ g6
 VNo. This meeting is about politics, facts won't help.
 p364
 sg8
-g35
+g67
 sg10
 VTOBY
 p365
@@ -1345,13 +1345,13 @@ sg10
 VTOBY
 p374
 sg12
-g9
+g67
 sa(dp375
 g6
 VAnd we told her it's not important where we sit.
 p376
 sg8
-g35
+g67
 sg10
 VTOM
 p377
@@ -1373,7 +1373,7 @@ g6
 VWhat's important is that you do what we want.
 p382
 sg8
-g35
+g67
 sg10
 VTOM
 p383
@@ -1395,12 +1395,12 @@ g6
 VOr at least treat us with respect.
 p388
 sg8
-g35
+g67
 sg10
 VTOM
 p389
 sg12
-g9
+g67
 sa(dp390
 g6
 VHow am I doing so far?
@@ -1411,7 +1411,7 @@ sg10
 VTOBY
 p392
 sg12
-g9
+g48
 sa(dp393
 g6
 VYou got two strikes on you.
@@ -1444,13 +1444,13 @@ sg10
 VDONNA
 p401
 sg12
-g13
+g48
 sa(dp402
 g6
 VUh, yeah. And the one under it. And deciding which military bases we don't need anymore is the most politically disastrous thing you could ever get involved with.
 p403
 sg8
-g13
+g48
 sg10
 VJOSH
 p404
@@ -1461,7 +1461,7 @@ g6
 VBut why close any bases when we've got to train troops to fight terrorists around the world?
 p406
 sg8
-g13
+g48
 sg10
 VRYAN
 p407
@@ -1494,7 +1494,7 @@ g6
 VBecause terrorists are very well trained for deep snow combat like the Soviets were. So maybe we don't need that base in upstate New York anymore. And maybe we should be expanding our desert combat training bases, because, you know, desert warfare's not going out of style anytime soon.
 p415
 sg8
-g13
+g48
 sg10
 VJOSH
 p416
@@ -1505,7 +1505,7 @@ g6
 VSo it's an efficiency thing?
 p418
 sg8
-g35
+g67
 sg10
 VRYAN
 p419
@@ -1532,7 +1532,7 @@ sg10
 VRYAN
 p425
 sg12
-g35
+g9
 sa(dp426
 g6
 VSince any place that loses a base loses jobs. You should have seen my hometown when the Army pulled out.
@@ -1560,7 +1560,7 @@ g6
 VAnything to keep me out of that room. You guys go ahead and get organized.
 p433
 sg8
-g35
+g67
 sg10
 VJOSH
 p434
@@ -1587,7 +1587,7 @@ sg10
 VJOSH
 p440
 sg12
-g9
+g48
 sa(dp441
 g6
 VCome on, Josh, you worked for him in the Senate. You know him better than anyone.
@@ -1615,7 +1615,7 @@ g6
 VDo you think he actually believes he can put the scandal behind him?
 p448
 sg8
-g13
+g48
 sg10
 VWILL
 p449
@@ -1653,7 +1653,7 @@ sg10
 VJOSH
 p458
 sg12
-g9
+g67
 sa(dp459
 g6
 VThe Vice President would like to urge you not to close any base in any state with more than one electoral vote.
@@ -1670,12 +1670,12 @@ g6
 VNo problem.
 p463
 sg8
-g13
+g48
 sg10
 VJOSH
 p464
 sg12
-g9
+g48
 sa(dp465
 g6
 VGood morning, everyone.
@@ -1686,7 +1686,7 @@ sg10
 VJOSH
 p467
 sg12
-g9
+g67
 sa(dp468
 g6
 VGood morning, Josh.
@@ -1697,7 +1697,7 @@ sg10
 VALL
 p470
 sg12
-g9
+g67
 sa(dp471
 g6
 V[whispering] Get him out of that chair. [louder] The President would like me to go over your list of preliminary recommendations so he could have an idea of what you might have in mind.
@@ -1725,7 +1725,7 @@ g6
 VFirst on the list is Fort Drum in upstate New York. It's mission is deep snow combat training. The Commission's consensus is that deep snow is no longer a training priority. Next...
 p478
 sg8
-g13
+g48
 sg10
 VSTANLEY
 p479
@@ -1736,7 +1736,7 @@ g6
 VWhat we're saying is this country is China's biggest customer, so we ought to be dictating the terms of the deal.
 p481
 sg8
-g35
+g67
 sg10
 VTOM
 p482
@@ -1774,7 +1774,7 @@ sg10
 VRENA
 p491
 sg12
-g35
+g9
 sa(dp492
 g6
 V... low when the dollar is weak.
@@ -1796,7 +1796,7 @@ sg10
 VTOBY
 p497
 sg12
-g9
+g48
 sa(dp498
 g6
 VIf they let their currency float...
@@ -1818,13 +1818,13 @@ sg10
 VTOBY
 p503
 sg12
-g9
+g48
 sa(dp504
 g6
 V... get an export advantage from a weak dollar.
 p505
 sg8
-g35
+g67
 sg10
 VSHELLY
 p506
@@ -1835,7 +1835,7 @@ g6
 VInstead, we keep letting them flood this country with cheap stuff made by cheap labor.
 p508
 sg8
-g13
+g48
 sg10
 VTOM
 p509
@@ -1851,7 +1851,7 @@ sg10
 VSHELLY
 p512
 sg12
-g9
+g67
 sa(dp513
 g6
 VI wouldn't call 747s nothing.
@@ -1862,7 +1862,7 @@ sg10
 VTOBY
 p515
 sg12
-g9
+g48
 sa(dp516
 g6
 VI did. I told Margaret to tell Leo that you're stuck in here, and she said he said no, you're not.
@@ -1901,7 +1901,7 @@ g6
 VNo. Leo McGarry just ordered me into his office. And as much as I want to try to save your jobs, I have to try to save mine first, if I'm going to be any use to you at all. So... I'll be back, you know... soon.
 p526
 sg8
-g35
+g67
 sg10
 VTOBY
 p527
@@ -1912,18 +1912,18 @@ g6
 VWas there any discussion of exactly how Hoynes could hang in there?
 p529
 sg8
-g35
+g67
 sg10
 VC.J.
 p530
 sg12
-g9
+g48
 sa(dp531
 g6
 VNo. We just said we didn't think he had to resign over having an affair. That in this day and age, he could get through something like that.
 p532
 sg8
-g13
+g48
 sg10
 VLEO
 p533
@@ -1950,13 +1950,13 @@ sg10
 VLEO
 p539
 sg12
-g9
+g48
 sa(dp540
 g6
 VGuessing's not good enough, Leo. Did you say you'd help him get through it?
 p541
 sg8
-g35
+g67
 sg10
 VC.J.
 p542
@@ -2011,18 +2011,18 @@ g6
 VIt wasn't a real meeting. It...
 p556
 sg8
-g35
+g67
 sg10
 VLEO
 p557
 sg12
-g9
+g48
 sa(dp558
 g6
 VIt was kind of on the fly.
 p559
 sg8
-g35
+g67
 sg10
 VLEO
 p560
@@ -2044,7 +2044,7 @@ g6
 VIt never got that far. Hoynes had his mind made up before we said a word. [to Toby] I need you to get the Mayor in here right away.
 p565
 sg8
-g35
+g67
 sg10
 VLEO
 p566
@@ -2055,18 +2055,18 @@ g6
 VWhich mayor?
 p568
 sg8
-g35
+g67
 sg10
 VTOBY
 p569
 sg12
-g9
+g67
 sa(dp570
 g6
 VD.C., the only mayor we can get in here right away.
 p571
 sg8
-g35
+g67
 sg10
 VLEO
 p572
@@ -2088,12 +2088,12 @@ g6
 VI can pull a couple of things off his schedule this afternoon.
 p577
 sg8
-g35
+g67
 sg10
 VLEO
 p578
 sg12
-g9
+g67
 sa(dp579
 g6
 VThe House and Senate just passed the Emergency D.C. Supplemental Appropriation for Snow Removal.
@@ -2110,7 +2110,7 @@ g6
 VAnd that's the first bill signing we're inviting the Mayor of Washington to?
 p583
 sg8
-g35
+g67
 sg10
 VTOBY
 p584
@@ -2126,7 +2126,7 @@ sg10
 VLEO
 p587
 sg12
-g9
+g67
 sa(dp588
 g6
 VOh.
@@ -2154,7 +2154,7 @@ g6
 VWhy, you want to put out a joint statement...?
 p595
 sg8
-g35
+g67
 sg10
 VTOBY
 p596
@@ -2181,13 +2181,13 @@ sg10
 VLEO
 p602
 sg12
-g9
+g67
 sa(dp603
 g6
 VI should only talk to the press about this once. I don't want to have to go back out there a second saying, "Oh, yeah, Hoynes was right," about this bit and that bit that you guys forgot to tell me.
 p604
 sg8
-g35
+g67
 sg10
 VC.J.
 p605
@@ -2203,7 +2203,7 @@ sg10
 VLEO
 p608
 sg12
-g9
+g48
 sa(dp609
 g6
 VWe've got to get our story straight on this today, so...
@@ -2225,7 +2225,7 @@ sg10
 VLEO
 p614
 sg12
-g9
+g67
 sa(dp615
 g6
 VWell, you know, she got blind-sided by this Hoynes thing on LIVE TV.
@@ -2275,7 +2275,7 @@ g6
 VI'm saying it's not that simple. Look what happened with the steel tariffs you asked for. It killed more jobs in auto manufacturing than it saved in steel production.
 p628
 sg8
-g35
+g67
 sg10
 VTOBY
 p629
@@ -2286,7 +2286,7 @@ g6
 VWell that just means we have to pick our targets more carefully.
 p631
 sg8
-g35
+g67
 sg10
 VTOM
 p632
@@ -2297,7 +2297,7 @@ g6
 VWe keep picking targets, we're gonna end up in a trade war.
 p634
 sg8
-g13
+g48
 sg10
 VTOBY
 p635
@@ -2330,12 +2330,12 @@ g6
 VChinese bras are killing us.
 p643
 sg8
-g13
+g48
 sg10
 VSHELLY
 p644
 sg12
-g35
+g9
 sa(dp645
 g6
 VThey are?
@@ -2346,7 +2346,7 @@ sg10
 VTOBY
 p647
 sg12
-g9
+g67
 sa(dp648
 g6
 VThey're flooding Wal-Mart with cheap bras. Domestic producers can't compete. China has tripled its market share in two years.
@@ -2363,7 +2363,7 @@ g6
 VI assume we're all okay with French bras, right? 'Cause I, for one, really prefer them, and I wouldn't want...
 p652
 sg8
-g35
+g67
 sg10
 VTOBY
 p653
@@ -2379,18 +2379,18 @@ sg10
 VTOM
 p656
 sg12
-g9
+g48
 sa(dp657
 g6
 VOf course not. Look, I am with you on this one. I just wish the President could do something [he laughs] about cheap bras.
 p658
 sg8
-g13
+g48
 sg10
 VTOBY
 p659
 sg12
-g9
+g48
 sa(dp660
 g6
 VHe can.
@@ -2401,13 +2401,13 @@ sg10
 VTOM
 p662
 sg12
-g9
+g67
 sa(dp663
 g6
 VHE could activate the textile and apparel import safeguards we got you guys to put in the deal admitting China to the WTO, starting with bras.
 p664
 sg8
-g35
+g67
 sg10
 VSHELLY
 p665
@@ -2423,7 +2423,7 @@ sg10
 VTOBY
 p668
 sg12
-g9
+g48
 sa(dp669
 g6
 VEveryone's going to know about it tomorrow when we start burning bras in front of the White House.
@@ -2506,7 +2506,7 @@ g6
 VIs Hoynes crazy enough to run?
 p691
 sg8
-g13
+g48
 sg10
 VTOBY
 p692
@@ -2544,18 +2544,18 @@ sg10
 VJOSH
 p701
 sg12
-g9
+g48
 sa(dp702
 g6
 VI better make some calls.
 p703
 sg8
-g13
+g48
 sg10
 VTOBY
 p704
 sg12
-g9
+g48
 sa(dp705
 g6
 VYeah.
@@ -2583,7 +2583,7 @@ g6
 VExcuse me. I'm sorry. Ed, Larry? Toby needs to talk to you about, uh, China. Now.
 p712
 sg8
-g35
+g67
 sg10
 VJOSH
 p713
@@ -2616,7 +2616,7 @@ g6
 VJust ask, "How much will that save?" every few minutes.  And don't you say a word.
 p721
 sg8
-g35
+g67
 sg10
 VJOSH
 p722
@@ -2627,7 +2627,7 @@ g6
 VUh... please continue, General Stanley. Donna and Ryan here will sit in for me.
 p724
 sg8
-g35
+g67
 sg10
 VJOSH
 p725
@@ -2638,7 +2638,7 @@ g6
 VAs I was saying, if we consolidate these three Air Force bases into three, we could upgrade all three of the aircraft maintenance facilities to handle major overhauls.
 p727
 sg8
-g35
+g67
 sg10
 VSTANLEY
 p728
@@ -2649,12 +2649,12 @@ g6
 VHow much does that save?
 p730
 sg8
-g35
+g67
 sg10
 VDONNA
 p731
 sg12
-g13
+g48
 sa(dp732
 g6
 VUsing CBO's baseline or the DOD projections?
@@ -2731,13 +2731,13 @@ sg10
 VC.J.
 p752
 sg12
-g9
+g48
 sa(dp753
 g6
 VHi, Greg. It's C.J., again. Hey, did I mention how useful it is for a reporter to have the White House Press Secretary owe you one? A big one?
 p754
 sg8
-g35
+g67
 sg10
 VC.J.
 p755
@@ -2775,7 +2775,7 @@ sg10
 VCAROL
 p764
 sg12
-g13
+g9
 sa(dp765
 g6
 VCome on in, Greg. Nice to formally meet you. Of course, I've seen you out there in the briefings.
@@ -2797,7 +2797,7 @@ sg10
 VBROCK
 p770
 sg12
-g35
+g48
 sa(dp771
 g6
 VReally?
@@ -2841,7 +2841,7 @@ sg10
 VCAROL
 p782
 sg12
-g9
+g48
 sa(dp783
 g6
 VYeah, thanks.
@@ -2852,7 +2852,7 @@ sg10
 VBROCK
 p785
 sg12
-g9
+g67
 sa(dp786
 g6
 VIt's D.C. water.
@@ -2869,18 +2869,18 @@ g6
 VI'm good.
 p790
 sg8
-g35
+g67
 sg10
 VBROCK
 p791
 sg12
-g9
+g48
 sa(dp792
 g6
 VEvery word I'm going to say is off the record, so you're not going to need that.
 p793
 sg8
-g35
+g67
 sg10
 VC.J.
 p794
@@ -2902,7 +2902,7 @@ g6
 VI assume Drudge's quotes from your piece are accurate.
 p799
 sg8
-g35
+g67
 sg10
 VC.J.
 p800
@@ -2918,7 +2918,7 @@ sg10
 VBROCK
 p803
 sg12
-g9
+g48
 sa(dp804
 g6
 VI'm going to need an advance copy of your piece.
@@ -2935,7 +2935,7 @@ g6
 VSo much for beating around the bush, huh? You can get an advance copy of the Sunday Times Magazine Thursday.
 p808
 sg8
-g13
+g48
 sg10
 VBROCK
 p809
@@ -2968,7 +2968,7 @@ g6
 VI wouldn't be talking to you if I needed it Thursday. I need it before anyone else has it. I already got hit with questions about it. I need it now.
 p817
 sg8
-g13
+g48
 sg10
 VC.J.
 p818
@@ -2979,18 +2979,18 @@ g6
 VSorry. I never give subjects of an article sneak peeks.
 p820
 sg8
-g13
+g48
 sg10
 VBROCK
 p821
 sg12
-g9
+g48
 sa(dp822
 g6
 VBut I'm not a subject of the piece. Am I?
 p823
 sg8
-g13
+g48
 sg10
 VC.J.
 p824
@@ -3067,7 +3067,7 @@ g6
 VNo, I don't know, Josh. Some of us are trying to govern here, Josh. Toby asked if you could cover a meeting with the Mayor. I said yes, assuming you're trying to stay out of the Base Closing meeting.
 p844
 sg8
-g35
+g67
 sg10
 VDONNA
 p845
@@ -3094,18 +3094,18 @@ sg10
 VDONNA
 p851
 sg12
-g9
+g67
 sa(dp852
 g6
 VHey, Donna. Which mayor?
 p853
 sg8
-g35
+g67
 sg10
 VJOSH
 p854
 sg12
-g9
+g67
 sa(dp855
 g6
 VI'm not going to play that game - who's in the piece, who's not, what's in the piece, what's not.
@@ -3127,7 +3127,7 @@ sg10
 VC.J.
 p860
 sg12
-g9
+g48
 sa(dp861
 g6
 VDrudge has better sources than you do, like maybe Hoynes's publisher.
@@ -3155,7 +3155,7 @@ g6
 VJust got a $5 million advance. Must be saving some good stuff for it. Wish I could help you out, C.J.
 p868
 sg8
-g35
+g67
 sg10
 VBROCK
 p869
@@ -3166,12 +3166,12 @@ g6
 VBut, that's just my policy: no sneak peeks.
 p871
 sg8
-g13
+g48
 sg10
 VBROCK
 p872
 sg12
-g9
+g48
 sa(dp873
 g6
 VBy the way, you think there's any chance I could get an exclusive with the President on his reaction to what Hoynes has to say in my article?
@@ -3188,7 +3188,7 @@ g6
 VYeah, there's a chance. But I can't promise it.
 p877
 sg8
-g35
+g67
 sg10
 VC.J.
 p878
@@ -3199,7 +3199,7 @@ g6
 VCan you promise me he won't give anyone else an exclusive on this?
 p880
 sg8
-g35
+g67
 sg10
 VBROCK
 p881
@@ -3215,13 +3215,13 @@ sg10
 VC.J.
 p884
 sg12
-g35
+g67
 sa(dp885
 g6
 VCan you promise me that if he issues a written statement I'll get a copy of it before anyone else?
 p886
 sg8
-g35
+g67
 sg10
 VBROCK
 p887
@@ -3237,18 +3237,18 @@ sg10
 VC.J.
 p890
 sg12
-g35
+g67
 sa(dp891
 g6
 VYou sure you can't promise me an exclusive?
 p892
 sg8
-g35
+g67
 sg10
 VBROCK
 p893
 sg12
-g9
+g48
 sa(dp894
 g6
 VYeah, I'm sure.
@@ -3259,18 +3259,18 @@ sg10
 VC.J.
 p896
 sg12
-g13
+g9
 sa(dp897
 g6
 VWell... I really enjoyed finally meeting you.
 p898
 sg8
-g35
+g67
 sg10
 VBROCK
 p899
 sg12
-g35
+g67
 sa(dp900
 g6
 VCan you print copies of this for Toby, Josh, Leo, and the President?
@@ -3287,7 +3287,7 @@ g6
 VThe Hoynes article? How bad is it?
 p904
 sg8
-g13
+g48
 sg10
 VCAROL
 p905
@@ -3298,7 +3298,7 @@ g6
 VSo, it's true? We could use the, uh...
 p907
 sg8
-g35
+g67
 sg10
 VTOBY
 p908
@@ -3314,13 +3314,13 @@ sg10
 VED
 p911
 sg12
-g9
+g48
 sa(dp912
 g6
 VWe could use that to safeguard American bras?
 p913
 sg8
-g35
+g67
 sg10
 VTOBY
 p914
@@ -3331,7 +3331,7 @@ g6
 VYes, but we can't do anything until you guys file a safeguard petition.
 p916
 sg8
-g35
+g67
 sg10
 VED
 p917
@@ -3358,7 +3358,7 @@ sg10
 VLARRY
 p923
 sg12
-g13
+g48
 sa(dp924
 g6
 VThere's another but?
@@ -3369,13 +3369,13 @@ sg10
 VTOBY
 p926
 sg12
-g9
+g48
 sa(dp927
 g6
 VOur trade representative is in Beijing right now working on a deal for exporting American-made cars to China.
 p928
 sg8
-g35
+g67
 sg10
 VLARRY
 p929
@@ -3386,7 +3386,7 @@ g6
 VAnd using the apparel import safeguard against bras could kill the deal on bras?
 p931
 sg8
-g35
+g67
 sg10
 VSHELLY
 p932
@@ -3419,7 +3419,7 @@ g6
 VWe better talk to the auto workers on this.
 p940
 sg8
-g35
+g67
 sg10
 VTOM
 p941
@@ -3441,7 +3441,7 @@ g6
 VWhy don't we take a break, and you guys can talk amongst yourselves about which is more important to you: cars or bras?
 p946
 sg8
-g35
+g67
 sg10
 VTOBY
 p947
@@ -3463,7 +3463,7 @@ g6
 VAh, nice to finally see the inside of the place.
 p952
 sg8
-g35
+g67
 sg10
 VMAYOR
 p953
@@ -3474,12 +3474,12 @@ g6
 VCould you... excuse me for one second?
 p955
 sg8
-g13
+g48
 sg10
 VJOSH
 p956
 sg12
-g9
+g48
 sa(dp957
 g6
 VUh, sure.
@@ -3490,13 +3490,13 @@ sg10
 VMAYOR
 p959
 sg12
-g13
+g48
 sa(dp960
 g6
 VBut if the port is too shallow for most of the Navy's ships, then why wouldn't you recommend closing the port?
 p961
 sg8
-g35
+g67
 sg10
 VRYAN
 p962
@@ -3529,7 +3529,7 @@ g6
 VBecause the Base Closing Commission, while independent, is not insane. They're not going to recommend closing a base in a congressional district represented by the Chairman of the Appropriations Subcommittee for Armed Services. Sorry about this. I'm gonna be tied up a bit longer. Don't let Ryan slow you down.
 p970
 sg8
-g35
+g67
 sg10
 VJOSH
 p971
@@ -3540,7 +3540,7 @@ g6
 VWe also recommend no changes for Port Mugu Naval Air Station... He walks back out into the hallway and starts walking with the Mayor.
 p973
 sg8
-g35
+g67
 sg10
 VSTANLEY
 p974
@@ -3606,7 +3606,7 @@ g6
 VBut I want the money.
 p991
 sg8
-g35
+g67
 sg10
 VMAYOR
 p992
@@ -3617,7 +3617,7 @@ g6
 VOh, we'll get it for you eventually. We'll just have to go through at least one round of the President vetoing it in order to get them to send us a clean bill with no vouchers attached.
 p994
 sg8
-g35
+g67
 sg10
 VJOSH
 p995
@@ -3628,7 +3628,7 @@ g6
 VI want the voucher money, too.
 p997
 sg8
-g35
+g67
 sg10
 VMAYOR
 p998
@@ -3672,7 +3672,7 @@ g6
 VI know, but this is just a pilot program, a little voucher experiment, help pay for maybe a couple hundred kids to go to private school, out of 68,000 in the D.C. public school system.
 p1009
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1010
@@ -3705,7 +3705,7 @@ g6
 VThen, help us fight them on this.
 p1018
 sg8
-g13
+g48
 sg10
 VJOSH
 p1019
@@ -3721,13 +3721,13 @@ sg10
 VMAYOR
 p1022
 sg12
-g9
+g48
 sa(dp1023
 g6
 VBut if we bring him in to talk about it, then there's...
 p1024
 sg8
-g35
+g67
 sg10
 VRYAN
 p1025
@@ -3738,7 +3738,7 @@ g6
 VCongressman Finn would not only prevent us from closing the base in his district, he would make it his life's mission to derail the entire process. The next base on our list is 29 Palms Marine Base which is our best training facility for desert warfare...
 p1027
 sg8
-g13
+g48
 sg10
 VSTANLEY
 p1028
@@ -3776,7 +3776,7 @@ sg10
 VJOSH
 p1037
 sg12
-g9
+g48
 sa(dp1038
 g6
 VCharlie, they ready for me?
@@ -3793,12 +3793,12 @@ g6
 VUh, I think they're still reading but you can go in. C.J.?
 p1042
 sg8
-g35
+g67
 sg10
 VCHARLIE
 p1043
 sg12
-g9
+g67
 sa(dp1044
 g6
 VYeah?
@@ -3815,7 +3815,7 @@ g6
 VDon't' go on TV with Taylor Reid again unless you're going to tell him what an idiotic, shallow, uninformed, lying punk he is.
 p1048
 sg8
-g13
+g48
 sg10
 VCHARLIE
 p1049
@@ -3853,7 +3853,7 @@ sg10
 VBARTLET
 p1058
 sg12
-g9
+g48
 sa(dp1059
 g6
 VWe're going to have to get the Mayor on the President's schedule today.
@@ -3870,12 +3870,12 @@ g6
 VWhich mayor?
 p1063
 sg8
-g35
+g67
 sg10
 VCHARLIE
 p1064
 sg12
-g9
+g67
 sa(dp1065
 g6
 VD.C.
@@ -3914,18 +3914,18 @@ g6
 VNo problem.
 p1075
 sg8
-g13
+g48
 sg10
 VCHARLIE
 p1076
 sg12
-g9
+g48
 sa(dp1077
 g6
 VOh, for God's sake. I don't remember the exact words I used.
 p1078
 sg8
-g13
+g48
 sg10
 VLEO
 p1079
@@ -3958,18 +3958,18 @@ g6
 VIt's completely different.
 p1087
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1088
 sg12
-g9
+g67
 sa(dp1089
 g6
 VIt's not different enough for me to go out there and fight about it. Did you tell him he shouldn't have used White House phones?
 p1090
 sg8
-g13
+g48
 sg10
 VC.J.
 p1091
@@ -3980,7 +3980,7 @@ g6
 VNo. I said "Didn't you know the White House keeps records of all calls?".
 p1093
 sg8
-g13
+g48
 sg10
 VLEO
 p1094
@@ -3991,7 +3991,7 @@ g6
 VOh, great. That's completely different. Did you tell him we could say this is a right wing conspiracy against the White House?
 p1096
 sg8
-g35
+g67
 sg10
 VC.J.
 p1097
@@ -4007,13 +4007,13 @@ sg10
 VLEO
 p1100
 sg12
-g9
+g48
 sa(dp1101
 g6
 VDid you tell him he could deny the whole thing?
 p1102
 sg8
-g13
+g48
 sg10
 VC.J.
 p1103
@@ -4024,7 +4024,7 @@ g6
 VI asked him if he was "in a position to deny it".
 p1105
 sg8
-g13
+g48
 sg10
 VLEO
 p1106
@@ -4051,13 +4051,13 @@ sg10
 VBARTLET
 p1112
 sg12
-g35
+g67
 sa(dp1113
 g6
 VLeo, did you say the woman was a "cheap whore", and did you suggest she had "other customers"?
 p1114
 sg8
-g13
+g48
 sg10
 VC.J.
 p1115
@@ -4079,7 +4079,7 @@ g6
 VAnd Mr. President, did you say "We've got to start attacking her right tonight, right now"?
 p1120
 sg8
-g13
+g48
 sg10
 VC.J.
 p1121
@@ -4106,7 +4106,7 @@ sg10
 VC.J.
 p1127
 sg12
-g9
+g48
 sa(dp1128
 g6
 VI think I said something like if we're going to get him through this, we're going to have to start right now.
@@ -4123,7 +4123,7 @@ g6
 VAnd I said since she sold her story she's not going to have a lot of credibility.
 p1132
 sg8
-g35
+g67
 sg10
 VLEO
 p1133
@@ -4183,7 +4183,7 @@ sg10
 VC.J.
 p1148
 sg12
-g9
+g48
 sa(dp1149
 g6
 VYou think he's getting ready to run?
@@ -4200,7 +4200,7 @@ g6
 VMade some calls. He hasn't made any moves on staff. Got some calls out to the usual suspects in Iowa and New Hampshire, I'm waiting to hear...
 p1153
 sg8
-g13
+g48
 sg10
 VJOSH
 p1154
@@ -4233,7 +4233,7 @@ g6
 VGreg Brock told me. Big advance.
 p1162
 sg8
-g35
+g67
 sg10
 VC.J.
 p1163
@@ -4288,7 +4288,7 @@ g6
 VWe got to take a shot at Hoynes. We got to let him know we have ways of fighting back.
 p1177
 sg8
-g13
+g48
 sg10
 VWILL
 p1178
@@ -4315,7 +4315,7 @@ sg10
 VWILL
 p1184
 sg12
-g9
+g48
 sa(dp1185
 g6
 VOf what?
@@ -4332,7 +4332,7 @@ g6
 VA list of all his private, on-the-job screw-ups. Every time Hoynes gave the President bad advice, every mistake he ever made, big and small.
 p1189
 sg8
-g13
+g48
 sg10
 VWILL
 p1190
@@ -4343,7 +4343,7 @@ g6
 VThat mess he made with Mexico on immigration.
 p1192
 sg8
-g13
+g48
 sg10
 VLEO
 p1193
@@ -4365,7 +4365,7 @@ g6
 VAnd lost the entire New York delegation on the Transportation bill.
 p1198
 sg8
-g13
+g48
 sg10
 VTOBY
 p1199
@@ -4387,7 +4387,7 @@ g6
 VNo, give it to me. I'll fire a warning shot.
 p1204
 sg8
-g13
+g48
 sg10
 VC.J.
 p1205
@@ -4409,7 +4409,7 @@ g6
 VWe'll all look bad.
 p1210
 sg8
-g13
+g48
 sg10
 VJOSH
 p1211
@@ -4436,7 +4436,7 @@ sg10
 VLEO
 p1217
 sg12
-g9
+g67
 sa(dp1218
 g6
 VThe first ten pages are legislative achievements.
@@ -4453,7 +4453,7 @@ g6
 VYou mean the ones Hoynes almost screwed up?
 p1222
 sg8
-g13
+g48
 sg10
 VC.J.
 p1223
@@ -4464,7 +4464,7 @@ g6
 VRight. And the next section is the bills he really did screw up, and the last 12 pages have all the diplomatic stuff.
 p1225
 sg8
-g35
+g67
 sg10
 VCAROL
 p1226
@@ -4475,7 +4475,7 @@ g6
 VHe managed to offend 7 South American heads of states in a five-day trip.
 p1228
 sg8
-g13
+g48
 sg10
 VTOBY
 p1229
@@ -4486,7 +4486,7 @@ g6
 VGot the China statement?
 p1231
 sg8
-g35
+g67
 sg10
 VC.J.
 p1232
@@ -4497,7 +4497,7 @@ g6
 VWe're going to make a move on bras. You sure you don't want to insert a joke here?
 p1234
 sg8
-g13
+g48
 sg10
 VTOBY
 p1235
@@ -4519,7 +4519,7 @@ g6
 VExactly, so, go tough on bras but not too tough. And promise me something.
 p1240
 sg8
-g13
+g48
 sg10
 VTOBY
 p1241
@@ -4546,7 +4546,7 @@ sg10
 VTOBY
 p1247
 sg12
-g9
+g48
 sa(dp1248
 g6
 VThe President can sign the bill and say he still opposes vouchers. He signs bills with little things in them that he opposes all the time.
@@ -4563,7 +4563,7 @@ g6
 VWe open the door an inch on vouchers, we'd have an open revolt by Democrats on the Hill.
 p1252
 sg8
-g13
+g48
 sg10
 VJOSH
 p1253
@@ -4574,7 +4574,7 @@ g6
 VUh, I'm sorry... Mr. Mayor. Can you excuse me for a second?
 p1255
 sg8
-g13
+g48
 sg10
 VJOSH
 p1256
@@ -4585,12 +4585,12 @@ g6
 VSure. I'll wait.
 p1258
 sg8
-g13
+g48
 sg10
 VMAYOR
 p1259
 sg12
-g9
+g48
 sa(dp1260
 g6
 VCongressman Finn...
@@ -4618,7 +4618,7 @@ g6
 VCongressman, I want you to know you have the President's full support on this.
 p1267
 sg8
-g35
+g67
 sg10
 VJOSH
 p1268
@@ -4645,7 +4645,7 @@ sg10
 VSTANLEY
 p1274
 sg12
-g9
+g48
 sa(dp1275
 g6
 VUh, I just thought we should bring...
@@ -4706,7 +4706,7 @@ g6
 VThat's good. That's great. Show Congressman Finn you are ready to kill to save his base. Come on, he's going to love you for this. He'll back you up on everything you want the Commissioners to do. And believe me, they're a lot more afraid of him than they are of you.
 p1291
 sg8
-g35
+g67
 sg10
 VRYAN
 p1292
@@ -4728,12 +4728,12 @@ g6
 VOh, that's good. That's good. Here, here. Does Finn look like he's buying this?
 p1297
 sg8
-g35
+g67
 sg10
 VRYAN
 p1298
 sg12
-g9
+g67
 sa(dp1299
 g6
 VI told you not to open your mouth in that room.
@@ -4750,7 +4750,7 @@ g6
 VHe's going to be grateful to you for the rest of his life for saving his base. You're going to get credit for what the Commission was going to do anyway.
 p1303
 sg8
-g35
+g67
 sg10
 VRYAN
 p1304
@@ -4772,12 +4772,12 @@ g6
 VYou want me to look like I'm crying? I can do that. I can look like I'm crying.
 p1309
 sg8
-g13
+g48
 sg10
 VRYAN
 p1310
 sg12
-g9
+g48
 sa(dp1311
 g6
 VStop.
@@ -4810,7 +4810,7 @@ sg10
 VCHARLIE
 p1319
 sg12
-g9
+g67
 sa(dp1320
 g6
 VMr. Mayor, hi, I'm Charlie Young.
@@ -4854,7 +4854,7 @@ sg10
 VMAYOR
 p1331
 sg12
-g35
+g67
 sa(dp1332
 g6
 VI voted for you both times.
@@ -4865,13 +4865,13 @@ sg10
 VCHARLIE
 p1334
 sg12
-g9
+g67
 sa(dp1335
 g6
 VI hope you're gonna vote for me next time.
 p1336
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1337
@@ -4893,7 +4893,7 @@ g6
 VNo, the President has no intention of starting a worldwide bra war.
 p1342
 sg8
-g13
+g48
 sg10
 VC.J.
 p1343
@@ -4904,7 +4904,7 @@ g6
 VI really don't think the President would ever start a war that the French might actually win.
 p1345
 sg8
-g13
+g48
 sg10
 VC.J.
 p1346
@@ -4915,7 +4915,7 @@ g6
 VC.J., can you confirm or deny the statements former Vice President John Hoynes has attributed to President Bartlet and Leo McGarry?
 p1348
 sg8
-g13
+g48
 sg10
 VMARK
 p1349
@@ -4959,7 +4959,7 @@ g6
 VHold on, Mark. They refuse to comment on any part of the conversation they had with the Vice President just prior...
 p1360
 sg8
-g13
+g48
 sg10
 VC.J.
 p1361
@@ -4970,7 +4970,7 @@ g6
 VI'm sorry, Mr. President, but we can argue this all night and I'm still not going to change my mind.
 p1363
 sg8
-g13
+g48
 sg10
 VMAYOR
 p1364
@@ -4986,13 +4986,13 @@ sg10
 VBARTLET
 p1367
 sg12
-g9
+g48
 sa(dp1368
 g6
 VI'm not the only one. My school board president has changed her mind, too.
 p1369
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1370
@@ -5019,13 +5019,13 @@ sg10
 VMAYOR
 p1376
 sg12
-g9
+g67
 sa(dp1377
 g6
 VShe's in favor of vouchers now? She used to rail against them.
 p1378
 sg8
-g13
+g48
 sg10
 VJOSH
 p1379
@@ -5036,7 +5036,7 @@ g6
 VAfter six years of us promising to make schools better next year, we're ready to give vouchers a try. We're ready to give anything a try.
 p1381
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1382
@@ -5047,7 +5047,7 @@ g6
 VYou start handing out tuition vouchers for private school, you're sending the message that it's time to give up on public schools.
 p1384
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1385
@@ -5058,7 +5058,7 @@ g6
 VWith all due respect, Mr. President, no one gets to talk to me about giving up on public schools. I assume I'm the only person in this room who actually went to public school.
 p1387
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1388
@@ -5074,7 +5074,7 @@ sg10
 VBARTLET
 p1391
 sg12
-g9
+g48
 sa(dp1392
 g6
 VKids weren't bringing guns to school in my day.
@@ -5091,7 +5091,7 @@ g6
 VRepublicans want to spend more on D.C. education, they should spend it on public schools.
 p1396
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1397
@@ -5113,7 +5113,7 @@ g6
 VBut if we start diverting money away from public schools, that's the end of public education.
 p1402
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1403
@@ -5124,7 +5124,7 @@ g6
 VThis is extra money Republicans will give me for school vouchers, nothing else.
 p1405
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1406
@@ -5146,7 +5146,7 @@ g6
 VI'm the only mayor in America whose budget is controlled by Congress and the President. And you guys never fail to play political games over the city that I'm trying to run.
 p1411
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1412
@@ -5168,7 +5168,7 @@ g6
 VYes, you are, Mr. President. Congress is too, and I resent it. But this time they want to give me money that might actually help some students. I'm sorry. I don't know how to refuse that.
 p1417
 sg8
-g13
+g48
 sg10
 VMAYOR
 p1418
@@ -5179,18 +5179,18 @@ g6
 VThis is a pilot program?
 p1420
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1421
 sg12
-g9
+g67
 sa(dp1422
 g6
 VEnough money for a couple hundred students.
 p1423
 sg8
-g35
+g67
 sg10
 VJOSH
 p1424
@@ -5223,7 +5223,7 @@ g6
 VAm I caught up on phone calls?
 p1432
 sg8
-g13
+g48
 sg10
 VC.J.
 p1433
@@ -5239,7 +5239,7 @@ sg10
 VCAROL
 p1436
 sg12
-g9
+g48
 sa(dp1437
 g6
 VNo, thanks.
@@ -5294,7 +5294,7 @@ sg10
 VTOBY
 p1451
 sg12
-g9
+g48
 sa(dp1452
 g6
 VNo. Thanks, Toby, but I'll be okay.
@@ -5305,7 +5305,7 @@ sg10
 VC.J.
 p1454
 sg12
-g35
+g9
 sa(dp1455
 g6
 VYou sure?
@@ -5355,23 +5355,23 @@ g6
 VA public school.
 p1468
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1469
 sg12
-g9
+g67
 sa(dp1470
 g6
 VYes, sir.
 p1471
 sg8
-g35
+g67
 sg10
 VCHARLIE
 p1472
 sg12
-g35
+g67
 sa(dp1473
 g6
 VWhere'd you want to go, Charlie?
@@ -5393,7 +5393,7 @@ sg10
 VCHARLIE
 p1478
 sg12
-g9
+g67
 sa(dp1479
 g6
 VWhy?
@@ -5410,23 +5410,23 @@ g6
 VThere's never been a shooting there. They don't even have metal detectors. Almost everyone goes to college.
 p1483
 sg8
-g13
+g48
 sg10
 VCHARLIE
 p1484
 sg12
-g9
+g48
 sa(dp1485
 g6
 VCouldn't afford it?
 p1486
 sg8
-g35
+g67
 sg10
 VMAYOR
 p1487
 sg12
-g9
+g48
 sa(dp1488
 g6
 VCouldn't come close to affording it.
@@ -5437,7 +5437,7 @@ sg10
 VCHARLIE
 p1490
 sg12
-g9
+g48
 sa(dp1491
 g6
 VYou know what this meeting's about?
@@ -5454,12 +5454,12 @@ g6
 VYes, sir. The mayor told me.
 p1495
 sg8
-g35
+g67
 sg10
 VCHARLIE
 p1496
 sg12
-g9
+g67
 sa(dp1497
 g6
 VWhat do you think about trying an experimental vouchers program for D.C. schools?
@@ -5481,13 +5481,13 @@ sg10
 VCHARLIE
 p1502
 sg12
-g9
+g48
 sa(dp1503
 g6
 VYou planning on telling me that anytime soon?
 p1504
 sg8
-g35
+g67
 sg10
 VBARTLET
 p1505
@@ -5498,7 +5498,7 @@ g6
 VCan't say that I was, sir. BARTLET Your Honor, I'm going to need your help putting out some fires within the Party on this one.
 p1507
 sg8
-g35
+g67
 sg10
 VCHARLIE
 p1508
@@ -5514,7 +5514,7 @@ sg10
 VMAYOR
 p1511
 sg12
-g35
+g9
 sa(dp1512
 g6
 VThe Vice President will see you now.
@@ -5536,7 +5536,7 @@ sg10
 VHOYNES
 p1517
 sg12
-g9
+g67
 sa(dp1518
 g6
 VMr. Vice President.
@@ -5553,7 +5553,7 @@ g6
 VOh, come on with that title. I think we're back to John now, don't you? How have you been? You look great, just great. Please, sit down.
 p1522
 sg8
-g35
+g67
 sg10
 VHOYNES
 p1523
@@ -5569,13 +5569,13 @@ sg10
 VC.J.
 p1526
 sg12
-g9
+g48
 sa(dp1527
 g6
 VHey, I'm the only lawyer here who doesn't have any clients yet, so I got all the time in the world. Sit, please.
 p1528
 sg8
-g13
+g48
 sg10
 VHOYNES
 p1529
@@ -5591,13 +5591,13 @@ sg10
 VC.J.
 p1532
 sg12
-g9
+g67
 sa(dp1533
 g6
 VIf you're going to continue to try to rehabilitate yourself by throwing mud and lies at the President...
 p1534
 sg8
-g35
+g67
 sg10
 VC.J.
 p1535
@@ -5619,7 +5619,7 @@ g6
 VYou can tell the President he doesn't have to worry about the book. I'm not going to try to make him look bad. I just wanted to get this scandal behind me, so I can get on with my life.
 p1540
 sg8
-g13
+g48
 sg10
 VHOYNES
 p1541
@@ -5630,18 +5630,18 @@ g6
 VTell the truth, the whole truth, and nothing but the truth?
 p1543
 sg8
-g35
+g67
 sg10
 VC.J.
 p1544
 sg12
-g9
+g67
 sa(dp1545
 g6
 VWell... I'm gonna call it Full Disclosure. What do you think? Good title?
 p1546
 sg8
-g35
+g67
 sg10
 VHOYNES
 p1547
@@ -5663,7 +5663,7 @@ g6
 VYes. Not mentioning you would be kind of strange, don't you think? I mean, next to the President and the Vice President, you're the most visible person working in the White House.
 p1552
 sg8
-g35
+g67
 sg10
 VHOYNES
 p1553
@@ -5674,7 +5674,7 @@ g6
 VI'd prefer not to be.
 p1555
 sg8
-g35
+g67
 sg10
 VC.J.
 p1556
@@ -5729,7 +5729,7 @@ g6
 VBecause there have been other women, right? Lots of women, right? Because the way you came on to me... way too smooth, way too practiced.
 p1570
 sg8
-g35
+g67
 sg10
 VC.J.
 p1571
@@ -5745,13 +5745,13 @@ sg10
 VHOYNES
 p1574
 sg12
-g9
+g48
 sa(dp1575
 g6
 VWhen you run for President, the press is going to find some of those women. And if you try to attack them, if you get your opposition research team working on them, if you try to destroy them, if you try to say they're all bimbos and liars, then I'll be standing right there with them and I'll be ready to take anything you or your people throw at me, anything. So don't make me tell the truth about you because it will be the whole truth.
 p1576
 sg8
-g35
+g67
 sg10
 VC.J.
 p1577
@@ -5789,7 +5789,7 @@ sg10
 VTOBY
 p1586
 sg12
-g9
+g48
 sa(dp1587
 g6
 VNo.
@@ -5850,12 +5850,12 @@ g6
 VNo, it can wait.
 p1603
 sg8
-g13
+g48
 sg10
 VTOBY
 p1604
 sg12
-g9
+g48
 sa(dp1605
 g6
 VToby?
@@ -5883,7 +5883,7 @@ g6
 VThere is no night of my life I regret more than that one.
 p1612
 sg8
-g13
+g48
 sg10
 VC.J.
 p1613
@@ -5894,40 +5894,40 @@ g6
 V You don't have to explain it.
 p1615
 sg8
-g35
+g67
 sg10
 VTOBY
 p1616
 sg12
-g9
+g48
 sa(dp1617
 g6
 VI wish I could, but I can't explain it. I knew he was married. I knew it. I always thought women who did that... If I could take back one moment of my life, it would be getting on that elevator. I'm sorry.
 p1618
 sg8
-g35
+g67
 sg10
 VC.J.
 p1619
 sg12
-g9
+g48
 sa(dp1620
 g6
 VYou don't have to apologize to me.
 p1621
 sg8
-g35
+g67
 sg10
 VTOBY
 p1622
 sg12
-g9
+g48
 sa(dp1623
 g6
 VI don't have anyone else I can apologize to. I'll come back to your office in a few minutes and we can work on the release.
 p1624
 sg8
-g35
+g67
 sg10
 VC.J.
 p1625
@@ -5943,5 +5943,5 @@ sg10
 VTOBY
 p1628
 sg12
-g9
+g48
 sas.

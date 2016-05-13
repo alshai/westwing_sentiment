@@ -80,7 +80,7 @@ sg10
 VMANDY
 p29
 sg12
-g13
+g25
 sa(dp30
 g6
 VShut up! [to Lloyd] Why did you make that deal?
@@ -168,7 +168,7 @@ sg10
 VMANDY
 p53
 sg12
-g13
+g9
 sa(dp54
 g6
 VThat's true. I might nominate the President.
@@ -212,7 +212,7 @@ sg10
 VRUSSELL
 p65
 sg12
-g13
+g9
 sa(dp66
 g6
 VThat bill was our coming out party. We were gonna have the stage for a month! It was our Nesun Dorma!
@@ -289,7 +289,7 @@ sg10
 VRUSSELL
 p86
 sg12
-g13
+g9
 sa(dp87
 g6
 VI was going...
@@ -300,7 +300,7 @@ sg10
 VMANDY
 p89
 sg12
-g13
+g9
 sa(dp90
 g6
 VListen to meOe It wasn't gonna happen. Maybe somewhere down the road. But this year, it wasn't gonna happen.
@@ -311,7 +311,7 @@ sg10
 VRUSSELL
 p92
 sg12
-g13
+g9
 sa(dp93
 g6
 VI had two years to make it happen. I was gonna take them on! They beat me before I got my boxes unpacked.
@@ -377,7 +377,7 @@ sg10
 VRUSSELL
 p110
 sg12
-g13
+g25
 sa(dp111
 g6
 VNo, Lloyd. It's the party they're having right now in the West Wing at my expense.
@@ -421,7 +421,7 @@ sg10
 VRUSSELL
 p122
 sg12
-g13
+g9
 sa(dp123
 g6
 VI'm sure I'm not.
@@ -465,7 +465,7 @@ sg10
 VDONNA
 p134
 sg12
-g13
+g25
 sa(dp135
 g6
 VI drink from the keg of glory, Donna. Bring me the finest muffins and bagels in all the land.
@@ -498,7 +498,7 @@ sg10
 VTOBY
 p143
 sg12
-g13
+g9
 sa(dp144
 g6
 VThey refused.
@@ -509,7 +509,7 @@ sg10
 VC.J.
 p146
 sg12
-g13
+g9
 sa(dp147
 g6
 VHow did they refuse?
@@ -542,7 +542,7 @@ sg10
 VTOBY
 p155
 sg12
-g13
+g25
 sa(dp156
 g6
 VI'm saying this is the kind of luck we're having.
@@ -586,7 +586,7 @@ sg10
 VSTAFFER
 p167
 sg12
-g13
+g25
 sa(dp168
 g6
 VGood morning.
@@ -597,7 +597,7 @@ sg10
 VTOBY
 p170
 sg12
-g13
+g25
 sa(dp171
 g6
 VWho's that?
@@ -619,7 +619,7 @@ sg10
 VTOBY
 p176
 sg12
-g9
+g13
 sa(dp177
 g6
 VYou try getting his attention on this.
@@ -707,7 +707,7 @@ sg10
 VSAM
 p200
 sg12
-g13
+g25
 sa(dp201
 g6
 VThank you. [takes a cookie]
@@ -806,7 +806,7 @@ sg10
 VSAM
 p227
 sg12
-g13
+g25
 sa(dp228
 g6
 VThank you very much. C.J., they turned down the invitation?
@@ -817,7 +817,7 @@ sg10
 VJOSH
 p230
 sg12
-g13
+g9
 sa(dp231
 g6
 VThey declined.
@@ -839,7 +839,7 @@ sg10
 VJOSH
 p236
 sg12
-g13
+g9
 sa(dp237
 g6
 VIt means they turned down the invitation.
@@ -894,7 +894,7 @@ sg10
 VBARTLET
 p251
 sg12
-g13
+g9
 sa(dp252
 g6
 VMostly, he's gonna say that the Japanese need to buy more American cars.
@@ -927,7 +927,7 @@ sg10
 VLEO
 p260
 sg12
-g13
+g25
 sa(dp261
 g6
 VGood morning everyone.
@@ -938,7 +938,7 @@ sg10
 VBARTLET
 p263
 sg12
-g13
+g25
 sa(dp264
 g6
 VGood morning.
@@ -949,7 +949,7 @@ sg10
 VALL
 p266
 sg12
-g13
+g25
 sa(dp267
 g6
 VWhat do you got?
@@ -1048,7 +1048,7 @@ sg10
 VC.J.
 p293
 sg12
-g13
+g9
 sa(dp294
 g6
 VThe Ryder Cup team?
@@ -1158,7 +1158,7 @@ sg10
 VBARTLET
 p323
 sg12
-g13
+g9
 sa(dp324
 g6
 VShe's talking about Texas, sir.
@@ -1180,7 +1180,7 @@ sg10
 VBARTLET
 p329
 sg12
-g13
+g9
 sa(dp330
 g6
 VU.S.A. Today asks you why you don't spend more time campaigning in Texas and you say it's 'cause you don't look good in funny hats.
@@ -1257,7 +1257,7 @@ sg10
 VC.J.
 p350
 sg12
-g13
+g25
 sa(dp351
 g6
 VI think I was there.
@@ -1268,7 +1268,7 @@ sg10
 VBARTLET
 p353
 sg12
-g13
+g9
 sa(dp354
 g6
 VAnd it was avoidable, sir.
@@ -1279,7 +1279,7 @@ sg10
 VC.J.
 p356
 sg12
-g13
+g9
 sa(dp357
 g6
 VC.J., on your tombstone, it's gonna read, 'Post hoc, ergo propter hoc.'
@@ -1400,7 +1400,7 @@ sg10
 VBARTLET
 p389
 sg12
-g9
+g13
 sa(dp390
 g6
 VWhat else?
@@ -1433,7 +1433,7 @@ sg10
 VMORRIS
 p398
 sg12
-g25
+g13
 sa(dp399
 g6
 VGood morning, Mrs. Landingham.
@@ -1444,7 +1444,7 @@ sg10
 VMORRIS
 p401
 sg12
-g13
+g25
 sa(dp402
 g6
 VI can see that.
@@ -1455,7 +1455,7 @@ sg10
 VMORRIS
 p404
 sg12
-g13
+g9
 sa(dp405
 g6
 VSam, when are you writing the Hilton Head draft?
@@ -1477,7 +1477,7 @@ sg10
 VSAM
 p410
 sg12
-g13
+g9
 sa(dp411
 g6
 VLet me see it at three.
@@ -1521,7 +1521,7 @@ sg10
 VMORRIS
 p422
 sg12
-g13
+g25
 sa(dp423
 g6
 VStan, I'll be just a second. [to Morris] Take a walk with me, will you?
@@ -1543,7 +1543,7 @@ sg10
 VMORRIS
 p428
 sg12
-g13
+g9
 sa(dp429
 g6
 VYou look well.
@@ -1554,7 +1554,7 @@ sg10
 VLEO
 p431
 sg12
-g13
+g25
 sa(dp432
 g6
 VWell, I'm feeling pretty good.
@@ -1565,7 +1565,7 @@ sg10
 VMORRIS
 p434
 sg12
-g13
+g25
 sa(dp435
 g6
 VHow's the baby?
@@ -1576,7 +1576,7 @@ sg10
 VLEO
 p437
 sg12
-g13
+g25
 sa(dp438
 g6
 VTen days old today.
@@ -1598,7 +1598,7 @@ sg10
 VLEO
 p443
 sg12
-g13
+g25
 sa(dp444
 g6
 VWell, I don't know... Let me see... Well, what do you know? [fishes out a picture]
@@ -1620,7 +1620,7 @@ sg10
 VLEO
 p449
 sg12
-g13
+g25
 sa(dp450
 g6
 VBoth of them.
@@ -1642,7 +1642,7 @@ sg10
 VLEO
 p455
 sg12
-g13
+g9
 sa(dp456
 g6
 VAngela.
@@ -1752,7 +1752,7 @@ sg10
 VMORRIS
 p485
 sg12
-g13
+g9
 sa(dp486
 g6
 VGood.
@@ -1763,7 +1763,7 @@ sg10
 VLEO
 p488
 sg12
-g13
+g25
 sa(dp489
 g6
 VBut I don't have to be covered next week. I'm leaving the country in a few hours.
@@ -1884,7 +1884,7 @@ sg10
 VMORRIS
 p521
 sg12
-g13
+g9
 sa(dp522
 g6
 VHe likes you, Morris. I got to get back in the Oval. [to Margaret] Give him his picture.
@@ -1950,7 +1950,7 @@ sg10
 VDAISY
 p539
 sg12
-g13
+g25
 sa(dp540
 g6
 VWell, there's a way to see it as bad news, but I think it's good news.
@@ -1961,7 +1961,7 @@ sg10
 VMANDY
 p542
 sg12
-g13
+g25
 sa(dp543
 g6
 VWhat is it?
@@ -1983,7 +1983,7 @@ sg10
 VMANDY
 p548
 sg12
-g13
+g9
 sa(dp549
 g6
 VReally?
@@ -2082,7 +2082,7 @@ sg10
 VDAISY
 p575
 sg12
-g13
+g9
 sa(dp576
 g6
 VNo.
@@ -2104,7 +2104,7 @@ sg10
 VDAISY
 p581
 sg12
-g13
+g9
 sa(dp582
 g6
 VI'd like to think of us as a team, Daisy.
@@ -2159,7 +2159,7 @@ sg10
 VMANDY
 p596
 sg12
-g13
+g9
 sa(dp597
 g6
 VHow are you gonna pay me?
@@ -2280,7 +2280,7 @@ sg10
 VDONNA
 p629
 sg12
-g13
+g25
 sa(dp630
 g6
 VWithout telling me?
@@ -2291,7 +2291,7 @@ sg10
 VJOSH
 p632
 sg12
-g13
+g9
 sa(dp633
 g6
 VWell, it's kind of a surprise.
@@ -2302,7 +2302,7 @@ sg10
 VDONNA
 p635
 sg12
-g13
+g25
 sa(dp636
 g6
 VHow did I do?
@@ -2313,7 +2313,7 @@ sg10
 VJOSH
 p638
 sg12
-g13
+g9
 sa(dp639
 g6
 VYou lost a hundred dollars.
@@ -2324,7 +2324,7 @@ sg10
 VDONNA
 p641
 sg12
-g13
+g9
 sa(dp642
 g6
 VOn who?
@@ -2368,7 +2368,7 @@ sg10
 VDONNA
 p653
 sg12
-g13
+g9
 sa(dp654
 g6
 VWhat kind of a pool was it?
@@ -2379,7 +2379,7 @@ sg10
 VJOSH
 p656
 sg12
-g13
+g25
 sa(dp657
 g6
 VYou just pick the winner.
@@ -2390,7 +2390,7 @@ sg10
 VDONNA
 p659
 sg12
-g13
+g25
 sa(dp660
 g6
 VYou picked Central Indiana State?
@@ -2456,7 +2456,7 @@ sg10
 VDONNA
 p677
 sg12
-g25
+g13
 sa(dp678
 g6
 VToby!
@@ -2588,7 +2588,7 @@ sg10
 VTOBY
 p713
 sg12
-g13
+g25
 sa(dp714
 g6
 VAs a kid. Listen...
@@ -2643,7 +2643,7 @@ sg10
 VJOSH
 p728
 sg12
-g13
+g9
 sa(dp729
 g6
 VYes.
@@ -2665,7 +2665,7 @@ sg10
 VJOSH
 p734
 sg12
-g13
+g9
 sa(dp735
 g6
 VSee you later.
@@ -2676,7 +2676,7 @@ sg10
 VTOBY
 p737
 sg12
-g13
+g25
 sa(dp738
 g6
 VListen, it's not gonna be Mandy, right?
@@ -2709,7 +2709,7 @@ sg10
 VJOSH
 p746
 sg12
-g13
+g9
 sa(dp747
 g6
 V'Post hoc ergo propter hoc'? I'll bet that used to have them rolling in the aisles at the Whiffinpoof Dinners.
@@ -2775,7 +2775,7 @@ sg10
 VTOBY
 p764
 sg12
-g13
+g9
 sa(dp765
 g6
 VJanet?
@@ -2830,7 +2830,7 @@ sg10
 VC.J.
 p779
 sg12
-g13
+g25
 sa(dp780
 g6
 VBobbi.
@@ -2896,7 +2896,7 @@ sg10
 VMIKE
 p797
 sg12
-g13
+g9
 sa(dp798
 g6
 V[glances at Toby, then back at Mike] Strange?
@@ -3039,7 +3039,7 @@ sg10
 VJOSH
 p836
 sg12
-g25
+g9
 sa(dp837
 g6
 VYeah. [beat] Listen, make sure C.J. keeps this off Leo's desk.
@@ -3083,7 +3083,7 @@ sg10
 VJOSH
 p848
 sg12
-g13
+g9
 sa(dp849
 g6
 VTalk to C.J.
@@ -3116,7 +3116,7 @@ sg10
 VJOSH
 p857
 sg12
-g25
+g13
 sa(dp858
 g6
 VI'm sorry?
@@ -3127,7 +3127,7 @@ sg10
 VSAM
 p860
 sg12
-g13
+g9
 sa(dp861
 g6
 VDidn't you come to see me?
@@ -3138,7 +3138,7 @@ sg10
 VJOSH
 p863
 sg12
-g13
+g9
 sa(dp864
 g6
 VI was just stretching my legs.
@@ -3149,7 +3149,7 @@ sg10
 VSAM
 p866
 sg12
-g13
+g9
 sa(dp867
 g6
 VOh.
@@ -3237,7 +3237,7 @@ sg10
 VSAM
 p890
 sg12
-g13
+g9
 sa(dp891
 g6
 VYou slept with a call girl?
@@ -3259,7 +3259,7 @@ sg10
 VSAM
 p896
 sg12
-g25
+g13
 sa(dp897
 g6
 VDid she know who you are?
@@ -3292,7 +3292,7 @@ sg10
 VJOSH
 p905
 sg12
-g9
+g13
 sa(dp906
 g6
 VYes. She knows I work for the President.
@@ -3303,7 +3303,7 @@ sg10
 VSAM
 p908
 sg12
-g13
+g25
 sa(dp909
 g6
 VYou don't think that she...
@@ -3314,7 +3314,7 @@ sg10
 VJOSH
 p911
 sg12
-g13
+g9
 sa(dp912
 g6
 VNo.
@@ -3336,7 +3336,7 @@ sg10
 VJOSH
 p917
 sg12
-g13
+g9
 sa(dp918
 g6
 VNo, I'm saying no, she wouldn't say anything.
@@ -3347,7 +3347,7 @@ sg10
 VSAM
 p920
 sg12
-g13
+g9
 sa(dp921
 g6
 VHow do you know?
@@ -3358,7 +3358,7 @@ sg10
 VJOSH
 p923
 sg12
-g25
+g13
 sa(dp924
 g6
 VI know.
@@ -3369,7 +3369,7 @@ sg10
 VSAM
 p926
 sg12
-g13
+g9
 sa(dp927
 g6
 VHow do you know?
@@ -3380,7 +3380,7 @@ sg10
 VJOSH
 p929
 sg12
-g25
+g13
 sa(dp930
 g6
 VI know.
@@ -3391,7 +3391,7 @@ sg10
 VSAM
 p932
 sg12
-g13
+g9
 sa(dp933
 g6
 VYou want to call her again, don't you?
@@ -3402,7 +3402,7 @@ sg10
 VJOSH
 p935
 sg12
-g13
+g9
 sa(dp936
 g6
 VLook, I really like her, and she's not what you think.
@@ -3457,7 +3457,7 @@ sg10
 VSAM
 p950
 sg12
-g13
+g9
 sa(dp951
 g6
 VOh, you're gonna try and reform her, aren't you?
@@ -3468,7 +3468,7 @@ sg10
 VJOSH
 p953
 sg12
-g13
+g25
 sa(dp954
 g6
 VNo.
@@ -3490,7 +3490,7 @@ sg10
 VJOSH
 p959
 sg12
-g13
+g25
 sa(dp960
 g6
 VI just didn't say a proper goodbye that, you know, shows a little respect.
@@ -3622,7 +3622,7 @@ sg10
 VDONNA
 p995
 sg12
-g13
+g9
 sa(dp996
 g6
 VYes.
@@ -3644,7 +3644,7 @@ sg10
 VDONNA
 p1001
 sg12
-g13
+g9
 sa(dp1002
 g6
 VYes. [Donna leaves] Look, whatever quest...
@@ -3710,7 +3710,7 @@ sg10
 VSAM
 p1019
 sg12
-g13
+g9
 sa(dp1020
 g6
 VNo. [opens the door and sees C.J. walking by] Ooh! Ooh! Hang on there. C.J.! [to Sam] Just talk to Toby. Just Toby.
@@ -3743,7 +3743,7 @@ sg10
 VDONNA
 p1028
 sg12
-g13
+g9
 sa(dp1029
 g6
 VThank you. C.J....
@@ -3765,7 +3765,7 @@ sg10
 VC.J.
 p1034
 sg12
-g13
+g9
 sa(dp1035
 g6
 VI would definitely talk to him.
@@ -3853,7 +3853,7 @@ sg10
 VHOYNES
 p1058
 sg12
-g13
+g25
 sa(dp1059
 g6
 VHey Stevie.
@@ -3908,7 +3908,7 @@ sg10
 VC.J.
 p1073
 sg12
-g9
+g13
 sa(dp1074
 g6
 VI'm looking at my watch.
@@ -3919,7 +3919,7 @@ sg10
 VSTEVIE
 p1076
 sg12
-g13
+g9
 sa(dp1077
 g6
 V[to Frenchman] Good luck. [to everyone in general] Thank you. Good luck everyone.
@@ -4007,7 +4007,7 @@ sg10
 VCANDY
 p1100
 sg12
-g13
+g9
 sa(dp1101
 g6
 VSir?
@@ -4051,7 +4051,7 @@ sg10
 VBILL
 p1112
 sg12
-g13
+g9
 sa(dp1113
 g6
 VThanks.
@@ -4150,7 +4150,7 @@ sg10
 VHOYNES
 p1139
 sg12
-g13
+g9
 sa(dp1140
 g6
 VYes, sir.
@@ -4183,7 +4183,7 @@ sg10
 VHOYNES
 p1148
 sg12
-g13
+g9
 sa(dp1149
 g6
 VYes, sir.
@@ -4249,7 +4249,7 @@ sg10
 VBARTLET
 p1166
 sg12
-g13
+g9
 sa(dp1167
 g6
 VGood one.
@@ -4282,7 +4282,7 @@ sg10
 VMORRIS
 p1175
 sg12
-g13
+g25
 sa(dp1176
 g6
 VSo what's in Amman?
@@ -4337,7 +4337,7 @@ sg10
 VBARTLET
 p1190
 sg12
-g13
+g9
 sa(dp1191
 g6
 VTwo hours.
@@ -4359,7 +4359,7 @@ sg10
 VBARTLET
 p1196
 sg12
-g13
+g9
 sa(dp1197
 g6
 V56 degrees.
@@ -4425,7 +4425,7 @@ sg10
 VBARTLET
 p1214
 sg12
-g25
+g13
 sa(dp1215
 g6
 VNo, sir.
@@ -4469,7 +4469,7 @@ sg10
 VNANCY
 p1226
 sg12
-g13
+g9
 sa(dp1227
 g6
 VThank you, Nancy.
@@ -4524,7 +4524,7 @@ sg10
 VMORRIS
 p1241
 sg12
-g13
+g25
 sa(dp1242
 g6
 VYour wife's beautiful too. How'd you get her to marry you? Did you trick her or something?
@@ -4568,7 +4568,7 @@ sg10
 VMORRIS
 p1253
 sg12
-g13
+g25
 sa(dp1254
 g6
 VJokes like that are part of my folksy charm, Morris. It's the very heart of my popularity.
@@ -4711,7 +4711,7 @@ sg10
 VMORRIS
 p1292
 sg12
-g13
+g9
 sa(dp1293
 g6
 V[jokingly] Yeah, why not? Two Dewars on the rocks, Mrs. Landingham.
@@ -4733,7 +4733,7 @@ sg10
 VMORRIS
 p1298
 sg12
-g25
+g13
 sa(dp1299
 g6
 VI had a meeting this morning with the Joint Chiefs. [beat] I'm an accomplished man, Morris. I can sit comfortably with prime ministers and Presidents, even the pope. Why is it every time I sit with the Joint Chiefs, I feel like I'm back at my father's dinner table.
@@ -4755,7 +4755,7 @@ sg10
 VMORRIS
 p1304
 sg12
-g13
+g25
 sa(dp1305
 g6
 VYou're a naval officer. You're a doctor in a uniform. [beat] It's not like I'm totally without experience, you know.
@@ -4821,7 +4821,7 @@ sg10
 VMORRIS
 p1322
 sg12
-g13
+g25
 sa(dp1323
 g6
 VWhat is that?
@@ -4832,7 +4832,7 @@ sg10
 VBARTLET
 p1325
 sg12
-g13
+g25
 sa(dp1326
 g6
 VIt's a flu shot.
@@ -4854,7 +4854,7 @@ sg10
 VBARTLET
 p1331
 sg12
-g13
+g9
 sa(dp1332
 g6
 VYou do need a flu shot.
@@ -4931,7 +4931,7 @@ sg10
 VMORRIS
 p1352
 sg12
-g13
+g25
 sa(dp1353
 g6
 VThank you. I'm not comfortable with violence. [beat] I know this country has enemies, but I don't feel violent toward any of them. I don't know whether that's a weakness or not, but I think I know how the Joint Chiefs would answer that question.
@@ -4942,7 +4942,7 @@ sg10
 VBARTLET
 p1355
 sg12
-g13
+g9
 sa(dp1356
 g6
 VLet the chiefs get to know you, Mr. President. They're serious men, naturally suspicious of your leadership. That's what comes from spending a lifetime caught between the devil and the deep blue sea. They're men of character. They
@@ -4975,7 +4975,7 @@ sg10
 VMORRIS
 p1364
 sg12
-g13
+g9
 sa(dp1365
 g6
 VDon't forget your picture. Corey's a beautiful child.
@@ -4986,7 +4986,7 @@ sg10
 VBARTLET
 p1367
 sg12
-g13
+g25
 sa(dp1368
 g6
 V[looks at picture] Yeah, I know. Look what I'd done.
@@ -5052,7 +5052,7 @@ sg10
 VBARTLET
 p1385
 sg12
-g25
+g13
 sa(dp1386
 g6
 VIn two weeks.
@@ -5206,7 +5206,7 @@ sg10
 VJOSH
 p1427
 sg12
-g13
+g9
 sa(dp1428
 g6
 VWho do you like? Rocky Mountain College or Purdue?
@@ -5217,7 +5217,7 @@ sg10
 VDONNA
 p1430
 sg12
-g25
+g13
 sa(dp1431
 g6
 VTell you what, can you give me Yeshiva University over the Dallas Cowboys?
@@ -5305,7 +5305,7 @@ sg10
 VJOSH
 p1454
 sg12
-g13
+g9
 sa(dp1455
 g6
 VWe're fine.
@@ -5316,7 +5316,7 @@ sg10
 VC.J.
 p1457
 sg12
-g13
+g9
 sa(dp1458
 g6
 VYou're sure?
@@ -5360,7 +5360,7 @@ sg10
 VC.J.
 p1469
 sg12
-g13
+g9
 sa(dp1470
 g6
 VOkay.
@@ -5393,7 +5393,7 @@ sg10
 VJOSH
 p1478
 sg12
-g13
+g9
 sa(dp1479
 g6
 VRight. [walks off]
@@ -5404,7 +5404,7 @@ sg10
 VC.J.
 p1481
 sg12
-g13
+g9
 sa(dp1482
 g6
 VI have a Ph.D. Did you know that?
@@ -5437,7 +5437,7 @@ sg10
 VMANDY
 p1490
 sg12
-g13
+g9
 sa(dp1491
 g6
 VI do.
@@ -5448,7 +5448,7 @@ sg10
 VDAISY
 p1493
 sg12
-g13
+g9
 sa(dp1494
 g6
 VI've got a bachelor's degree in art history, and a master's degree in communications and a Ph.D. in political science.
@@ -5459,7 +5459,7 @@ sg10
 VMANDY
 p1496
 sg12
-g13
+g25
 sa(dp1497
 g6
 VYes.
@@ -5558,7 +5558,7 @@ sg10
 VDAISY
 p1523
 sg12
-g13
+g9
 sa(dp1524
 g6
 VI'm not cold-calling businesses like an encyclopedia salesman.
@@ -5569,7 +5569,7 @@ sg10
 VMANDY
 p1526
 sg12
-g13
+g9
 sa(dp1527
 g6
 VFine.
@@ -5613,7 +5613,7 @@ sg10
 VMANDY
 p1538
 sg12
-g13
+g9
 sa(dp1539
 g6
 VGive me the bottle. [Mandy does.]
@@ -5624,7 +5624,7 @@ sg10
 VDAISY
 p1541
 sg12
-g13
+g9
 sa(dp1542
 g6
 VSam Seaborn's office.
@@ -5668,7 +5668,7 @@ sg10
 VCATHY
 p1553
 sg12
-g13
+g9
 sa(dp1554
 g6
 VI'm done.
@@ -5679,7 +5679,7 @@ sg10
 VSAM
 p1556
 sg12
-g13
+g9
 sa(dp1557
 g6
 VYou're sure?
@@ -5800,7 +5800,7 @@ sg10
 VSAM
 p1589
 sg12
-g13
+g9
 sa(dp1590
 g6
 V[to Sam] Hey.
@@ -5844,7 +5844,7 @@ sg10
 VSAM
 p1601
 sg12
-g13
+g9
 sa(dp1602
 g6
 VYou're talking about the Hilton head draft?
@@ -5877,7 +5877,7 @@ sg10
 VTOBY
 p1610
 sg12
-g13
+g25
 sa(dp1611
 g6
 VNow, I'm just stretching my legs.
@@ -5888,7 +5888,7 @@ sg10
 VSAM
 p1613
 sg12
-g13
+g9
 sa(dp1614
 g6
 VGood.
@@ -5899,7 +5899,7 @@ sg10
 VTOBY
 p1616
 sg12
-g13
+g25
 sa(dp1617
 g6
 VCan I talk to you a second?
@@ -6075,7 +6075,7 @@ sg10
 VTOBY
 p1664
 sg12
-g25
+g13
 sa(dp1665
 g6
 VThe Four Seasons.
@@ -6229,7 +6229,7 @@ sg10
 VTOBY
 p1706
 sg12
-g13
+g25
 sa(dp1707
 g6
 VI haven't broken any laws.
@@ -6240,7 +6240,7 @@ sg10
 VSAM
 p1709
 sg12
-g13
+g9
 sa(dp1710
 g6
 VWho else knows about this?
@@ -6372,7 +6372,7 @@ sg10
 VSAM
 p1745
 sg12
-g13
+g9
 sa(dp1746
 g6
 V[walks in] Let's go.
@@ -6504,7 +6504,7 @@ sg10
 VJOSH
 p1781
 sg12
-g13
+g9
 sa(dp1782
 g6
 VYeah.
@@ -6548,7 +6548,7 @@ sg10
 VTOBY
 p1793
 sg12
-g13
+g25
 sa(dp1794
 g6
 VThe dollar is down 3 cents against the Yen; up 2 pennies against the Euro. Know what we need more than a media consultant?  An economic stimulus package that doesn't look like it was put together at an Amway rally.
@@ -6581,7 +6581,7 @@ sg10
 VLEO
 p1802
 sg12
-g13
+g9
 sa(dp1803
 g6
 VThe Ryder Cup shouldn't have even ended up on our radar screen.
@@ -6592,7 +6592,7 @@ sg10
 VJOSH
 p1805
 sg12
-g13
+g9
 sa(dp1806
 g6
 VThat's right.
@@ -6614,7 +6614,7 @@ sg10
 VJOSH
 p1811
 sg12
-g13
+g25
 sa(dp1812
 g6
 VAbsolutely.
@@ -6658,7 +6658,7 @@ sg10
 VTOBY
 p1823
 sg12
-g13
+g25
 sa(dp1824
 g6
 VYes... Wait, What?
@@ -6669,7 +6669,7 @@ sg10
 VJOSH
 p1826
 sg12
-g13
+g25
 sa(dp1827
 g6
 VMandy.
@@ -6702,7 +6702,7 @@ sg10
 VLEO
 p1835
 sg12
-g13
+g9
 sa(dp1836
 g6
 VMandy?
@@ -6735,7 +6735,7 @@ sg10
 VJOSH
 p1844
 sg12
-g13
+g9
 sa(dp1845
 g6
 VCan you think...?
@@ -6746,7 +6746,7 @@ sg10
 VLEO
 p1847
 sg12
-g25
+g13
 sa(dp1848
 g6
 VI'm getting mugged and you're the gang leader.
@@ -6779,7 +6779,7 @@ sg10
 VJOSH
 p1856
 sg12
-g13
+g9
 sa(dp1857
 g6
 VWhat?
@@ -6823,7 +6823,7 @@ sg10
 VTOBY
 p1868
 sg12
-g13
+g25
 sa(dp1869
 g6
 VHang on.
@@ -6856,7 +6856,7 @@ sg10
 VJOSH
 p1877
 sg12
-g9
+g13
 sa(dp1878
 g6
 VLike what?
@@ -6900,7 +6900,7 @@ sg10
 VJOSH
 p1889
 sg12
-g25
+g13
 sa(dp1890
 g6
 VAll right... listen... fine... I'm a team player. I think my record is pretty clear on that.
@@ -6944,7 +6944,7 @@ sg10
 VLEO
 p1901
 sg12
-g13
+g9
 sa(dp1902
 g6
 VYeah.
@@ -6988,7 +6988,7 @@ sg10
 VLEO
 p1913
 sg12
-g13
+g9
 sa(dp1914
 g6
 VDid you talk to Hoynes today?
@@ -7065,7 +7065,7 @@ sg10
 VLEO
 p1934
 sg12
-g13
+g9
 sa(dp1935
 g6
 VMiscommunication, he's on board.
@@ -7109,7 +7109,7 @@ sg10
 VLEO
 p1946
 sg12
-g13
+g9
 sa(dp1947
 g6
 VHis statement got truncated, I'd leave it alone.
@@ -7120,7 +7120,7 @@ sg10
 VC.J.
 p1949
 sg12
-g13
+g9
 sa(dp1950
 g6
 VOkay.
@@ -7142,7 +7142,7 @@ sg10
 VC.J.
 p1955
 sg12
-g13
+g9
 sa(dp1956
 g6
 VNo.
@@ -7175,7 +7175,7 @@ sg10
 VJOSH
 p1964
 sg12
-g13
+g25
 sa(dp1965
 g6
 VMrs. Landingham?
@@ -7241,7 +7241,7 @@ sg10
 VBARTLET
 p1982
 sg12
-g13
+g9
 sa(dp1983
 g6
 VI think they left me 12 center-cut prime fillet Omaha Steaks, Mrs. Landingham.
@@ -7252,7 +7252,7 @@ sg10
 VBARTLET
 p1985
 sg12
-g9
+g13
 sa(dp1986
 g6
 VI was going to have Mario fix me one of those steaks tonight.
@@ -7274,7 +7274,7 @@ sg10
 VBARTLET
 p1991
 sg12
-g13
+g9
 sa(dp1992
 g6
 VYou are a cattle rustler, Mrs. Landingham.
@@ -7285,7 +7285,7 @@ sg10
 VBARTLET
 p1994
 sg12
-g13
+g25
 sa(dp1995
 g6
 VBetween you and Dr. Tolliver, who needs a wife or a mother?
@@ -7483,7 +7483,7 @@ sg10
 VDAISY
 p2048
 sg12
-g13
+g25
 sa(dp2049
 g6
 VBartlet.
@@ -7615,7 +7615,7 @@ sg10
 VDAISY
 p2084
 sg12
-g13
+g25
 sa(dp2085
 g6
 VNumber one, she can't punch me. Number two, I prefer it if the two of you didn't get drunk in the middle of the day.
@@ -7692,7 +7692,7 @@ sg10
 VDAISY
 p2105
 sg12
-g13
+g25
 sa(dp2106
 g6
 VYes, I really am quite something.
@@ -7703,7 +7703,7 @@ sg10
 VJOSH
 p2108
 sg12
-g25
+g9
 sa(dp2109
 g6
 VI just want to die.
@@ -7714,7 +7714,7 @@ sg10
 VMANDY
 p2111
 sg12
-g13
+g9
 sa(dp2112
 g6
 VWe don't even know how to thank you.
@@ -7791,7 +7791,7 @@ sg10
 VMANDY
 p2132
 sg12
-g13
+g9
 sa(dp2133
 g6
 VDo you?
@@ -7802,7 +7802,7 @@ sg10
 VJOSH
 p2135
 sg12
-g25
+g13
 sa(dp2136
 g6
 VYes.
@@ -7824,7 +7824,7 @@ sg10
 VJOSH
 p2141
 sg12
-g13
+g25
 sa(dp2142
 g6
 VIn your dreams.
@@ -7868,7 +7868,7 @@ sg10
 VMARGARET
 p2153
 sg12
-g13
+g9
 sa(dp2154
 g6
 VThanks.
@@ -7890,7 +7890,7 @@ sg10
 VHOYNES
 p2159
 sg12
-g13
+g25
 sa(dp2160
 g6
 VGood evening Mr. Vice President.
@@ -7912,7 +7912,7 @@ sg10
 VLEO
 p2165
 sg12
-g13
+g25
 sa(dp2166
 g6
 VHow was New York?
@@ -7945,7 +7945,7 @@ sg10
 VLEO
 p2174
 sg12
-g13
+g25
 sa(dp2175
 g6
 VNice of you to call me over. We don't see enough of each other.
@@ -7989,7 +7989,7 @@ sg10
 VLEO
 p2186
 sg12
-g13
+g9
 sa(dp2187
 g6
 VLeo...
@@ -8011,7 +8011,7 @@ sg10
 VLEO
 p2192
 sg12
-g13
+g9
 sa(dp2193
 g6
 VIs that what this is about?
@@ -8242,7 +8242,7 @@ sg10
 VHOYNES
 p2255
 sg12
-g13
+g25
 sa(dp2256
 g6
 VGoodnight, John.
@@ -8264,7 +8264,7 @@ sg10
 VSAM
 p2261
 sg12
-g13
+g9
 sa(dp2262
 g6
 VHi.
@@ -8286,7 +8286,7 @@ sg10
 VSAM
 p2267
 sg12
-g13
+g9
 sa(dp2268
 g6
 VI don't know anyone named Laurie.
@@ -8297,7 +8297,7 @@ sg10
 VWOMAN
 p2270
 sg12
-g13
+g9
 sa(dp2271
 g6
 VLaurie's not her real name.
@@ -8352,7 +8352,7 @@ sg10
 VSAM
 p2285
 sg12
-g13
+g25
 sa(dp2286
 g6
 VWhat?
@@ -8374,7 +8374,7 @@ sg10
 VSAM
 p2291
 sg12
-g25
+g9
 sa(dp2292
 g6
 VShe's in the back.
@@ -8407,7 +8407,7 @@ sg10
 VWOMAN
 p2300
 sg12
-g13
+g25
 sa(dp2301
 g6
 VOnly take a sec!
@@ -8473,7 +8473,7 @@ sg10
 VLAURIE
 p2318
 sg12
-g13
+g9
 sa(dp2319
 g6
 VHow you doing?
@@ -8484,7 +8484,7 @@ sg10
 VSAM
 p2321
 sg12
-g25
+g13
 sa(dp2322
 g6
 VHi.
@@ -8506,7 +8506,7 @@ sg10
 VLAURIE
 p2327
 sg12
-g13
+g25
 sa(dp2328
 g6
 VSam Seaborn.
@@ -8572,7 +8572,7 @@ sg10
 VWOMAN
 p2345
 sg12
-g25
+g13
 sa(dp2346
 g6
 VWho's Brittany?
@@ -8594,7 +8594,7 @@ sg10
 VLAURIE
 p2351
 sg12
-g13
+g9
 sa(dp2352
 g6
 VOkay.
@@ -8638,7 +8638,7 @@ sg10
 VLAURIE
 p2363
 sg12
-g13
+g9
 sa(dp2364
 g6
 V[to man] Good to meet you. [to the other man] Okay.
@@ -8671,7 +8671,7 @@ sg10
 VLAURIE
 p2372
 sg12
-g13
+g9
 sa(dp2373
 g6
 VLaurie?
@@ -8693,7 +8693,7 @@ sg10
 VLAURIE
 p2378
 sg12
-g13
+g9
 sa(dp2379
 g6
 VI came here in the spirit of...
@@ -8737,7 +8737,7 @@ sg10
 VLAURIE
 p2390
 sg12
-g13
+g9
 sa(dp2391
 g6
 VI wasn't... [Laurie walks off ahead of Sam. He follows behind.] I'm sorry. That was the wrong thing to say.
@@ -8748,7 +8748,7 @@ sg10
 VSAM
 p2393
 sg12
-g13
+g9
 sa(dp2394
 g6
 VYes.
@@ -8781,7 +8781,7 @@ sg10
 VLAURIE
 p2402
 sg12
-g13
+g9
 sa(dp2403
 g6
 VTake my coat.
@@ -8902,7 +8902,7 @@ sg10
 VSAM
 p2435
 sg12
-g13
+g9
 sa(dp2436
 g6
 VWhy did you come and find me tonight?
@@ -8913,7 +8913,7 @@ sg10
 VLAURIE
 p2438
 sg12
-g25
+g13
 sa(dp2439
 g6
 VWhat?
@@ -8946,7 +8946,7 @@ sg10
 VSAM
 p2447
 sg12
-g13
+g9
 sa(dp2448
 g6
 VI don't need saving, Sam.
@@ -8957,7 +8957,7 @@ sg10
 VLAURIE
 p2450
 sg12
-g13
+g9
 sa(dp2451
 g6
 VYeah, you do.
@@ -8990,7 +8990,7 @@ sg10
 VSAM
 p2459
 sg12
-g13
+g25
 sa(dp2460
 g6
 VAnd you understand that I wasn't abused as a child, that I like what I do?
@@ -9001,7 +9001,7 @@ sg10
 VLAURIE
 p2462
 sg12
-g13
+g9
 sa(dp2463
 g6
 VReally?
@@ -9023,7 +9023,7 @@ sg10
 VLAURIE
 p2468
 sg12
-g13
+g9
 sa(dp2469
 g6
 VI wouldn't knock yourself out in torts because there's no state law in this country that's gonna admit you with a solicitation bust on your record.
@@ -9045,7 +9045,7 @@ sg10
 VLAURIE
 p2474
 sg12
-g13
+g9
 sa(dp2475
 g6
 VAs opposed to the other people that do?
@@ -9100,7 +9100,7 @@ sg10
 VSAM
 p2489
 sg12
-g13
+g9
 sa(dp2490
 g6
 VYou're gonna try and change me, arguing, asserting a position every time I turn around...
@@ -9122,7 +9122,7 @@ sg10
 VSAM
 p2495
 sg12
-g13
+g9
 sa(dp2496
 g6
 VYou humiliated me back there. And you scared me. You understand that?
@@ -9133,7 +9133,7 @@ sg10
 VLAURIE
 p2498
 sg12
-g13
+g9
 sa(dp2499
 g6
 VYeah.
@@ -9155,7 +9155,7 @@ sg10
 VLAURIE
 p2504
 sg12
-g13
+g9
 sa(dp2505
 g6
 VI guess that's just the way it goes.
@@ -9166,7 +9166,7 @@ sg10
 VSAM
 p2507
 sg12
-g13
+g9
 sa(dp2508
 g6
 VWell, that's not good enough.
@@ -9177,7 +9177,7 @@ sg10
 VLAURIE
 p2510
 sg12
-g13
+g9
 sa(dp2511
 g6
 VIt's gonna have to be.
@@ -9221,7 +9221,7 @@ sg10
 VLAURIE
 p2522
 sg12
-g13
+g9
 sa(dp2523
 g6
 VNo.
@@ -9298,7 +9298,7 @@ sg10
 VSAM
 p2543
 sg12
-g13
+g25
 sa(dp2544
 g6
 VYou want to buy me a drink?
@@ -9320,7 +9320,7 @@ sg10
 VSAM
 p2549
 sg12
-g13
+g9
 sa(dp2550
 g6
 VShut up.
@@ -9364,7 +9364,7 @@ sg10
 VSAM
 p2561
 sg12
-g13
+g9
 sa(dp2562
 g6
 VNow, he tells me.
@@ -9408,7 +9408,7 @@ sg10
 VSAM
 p2573
 sg12
-g13
+g9
 sa(dp2574
 g6
 VEagle's by.
@@ -9441,7 +9441,7 @@ sg10
 VLEO
 p2582
 sg12
-g13
+g9
 sa(dp2583
 g6
 V[walks up from behind Leo] The President's waiting.
@@ -9452,7 +9452,7 @@ sg10
 VAGENT
 p2585
 sg12
-g13
+g9
 sa(dp2586
 g6
 VExcuse me, gentlemen. [heads for the door]
@@ -9474,7 +9474,7 @@ sg10
 VJOSH
 p2591
 sg12
-g25
+g9
 sa(dp2592
 g6
 VNo.
@@ -9551,7 +9551,7 @@ sg10
 VBARTLET
 p2612
 sg12
-g13
+g25
 sa(dp2613
 g6
 VState's waiting for your word.
@@ -9584,7 +9584,7 @@ sg10
 VLEO
 p2621
 sg12
-g13
+g25
 sa(dp2622
 g6
 VLeo?

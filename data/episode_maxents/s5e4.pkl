@@ -101,19 +101,19 @@ sg10
 VC.J.
 p34
 sg12
-g9
-sa(dp35
+S'negative'
+p35
+sa(dp36
 g6
 VWhy they're a rogue state.
-p36
-sg8
-S'negative'
 p37
+sg8
+g35
 sg10
 VLEO
 p38
 sg12
-g37
+g9
 sa(dp39
 g6
 VRogue state... makes them sound bravishly charming... should be thug state; psycho state.
@@ -190,13 +190,13 @@ sg10
 VLEO
 p59
 sg12
-g9
+g18
 sa(dp60
 g6
 V[his words being simultaneously translated into Korean] Yeah, I took lessons for six years - hopeless. No sense of time - I could read okay and get the fingering down, but I should have been sent to rhythm prison. What I did to the 'Appassionata'; war criminals can't get near The Hague, I have to stay out of Vienna. [pause for translation] More amusing in English.
 p61
 sg8
-g37
+g35
 sg10
 VBARTLET
 p62
@@ -223,7 +223,7 @@ sg10
 VBARTLET
 p68
 sg12
-g9
+g18
 sa(dp69
 g6
 VWelcome.
@@ -267,7 +267,7 @@ sg10
 VLEO
 p80
 sg12
-g9
+g35
 sa(dp81
 g6
 VChopsticks... a beginners piece... with an incredibly insensitive name, I'm sorry. Are we ready?
@@ -333,7 +333,7 @@ sg10
 VC.J.
 p98
 sg12
-g9
+g18
 sa(dp99
 g6
 VWill you be seeing any sights during your day here in Washington?
@@ -427,23 +427,23 @@ g6
 VThis isn't an autograph... [shot of CD sleeve with the words 'I wish to defect' written on it] it's a message.
 p124
 sg8
-g37
+g35
 sg10
 VBARTLET
 p125
 sg12
-g9
+g35
 sa(dp126
 g6
 VThis is complicated.
 p127
 sg8
-g37
+g35
 sg10
 VLEO
 p128
 sg12
-g18
+g35
 sa(dp129
 g6
 VGet the Counsel's Office, Justice, NSC, State, Immigration in right away. Let's find out what we're talking about here.
@@ -465,7 +465,7 @@ sg10
 VLEO
 p134
 sg12
-g9
+g18
 sa(dp135
 g6
 VComplicated, I know.
@@ -476,7 +476,7 @@ sg10
 VBARTLET
 p137
 sg12
-g9
+g35
 sa(dp138
 g6
 VSir, is there anything you...
@@ -487,7 +487,7 @@ sg10
 VC.J.
 p140
 sg12
-g18
+g35
 sa(dp141
 g6
 VWhen's he back in the building?
@@ -520,7 +520,7 @@ sg10
 VBARTLET
 p149
 sg12
-g37
+g35
 sa(dp150
 g6
 VIt may not be happening.
@@ -542,7 +542,7 @@ sg10
 VC.J.
 p155
 sg12
-g9
+g35
 sa(dp156
 g6
 VWe've been in secret negotiations with North Korea in Geneva the last three weeks, about their nuclear programme.
@@ -564,7 +564,7 @@ sg10
 VLEO
 p161
 sg12
-g18
+g9
 sa(dp162
 g6
 VWe don't know that. Get people in, let's find out.
@@ -575,7 +575,7 @@ sg10
 VBARTLET
 p164
 sg12
-g9
+g35
 sa(dp165
 g6
 VBut we're not turning him away?
@@ -597,13 +597,13 @@ sg10
 VBARTLET
 p170
 sg12
-g9
+g35
 sa(dp171
 g6
 VIt's complicated. Thank you, Mr. President.
 p172
 sg8
-g37
+g35
 sg10
 VLEO
 p173
@@ -740,7 +740,7 @@ sg10
 VJOSH
 p209
 sg12
-g9
+g35
 sa(dp210
 g6
 VSorry.
@@ -801,7 +801,7 @@ g6
 VYou know what's the state bird of Wisconsin? The Munster. The state motto? Live Brie or die. It narrowly beat out you can have my wheel of Cheddar when you pry it out of my cold, dead, stinky fingers.
 p226
 sg8
-g37
+g35
 sg10
 VJOSH
 p227
@@ -883,7 +883,7 @@ sg10
 VJOSH
 p248
 sg12
-g9
+g18
 sa(dp249
 g6
 VCan I go with you?
@@ -960,7 +960,7 @@ sg10
 VWILL
 p269
 sg12
-g9
+g35
 sa(dp270
 g6
 VWhat you sounded like just then, is how this reads. Let's take the equivocation out of it.
@@ -1004,7 +1004,7 @@ sg10
 VWILL
 p281
 sg12
-g18
+g9
 sa(dp282
 g6
 VYeah?
@@ -1092,7 +1092,7 @@ sg10
 VTOBY
 p305
 sg12
-g9
+g35
 sa(dp306
 g6
 VWe've had to deal with some stuff.
@@ -1169,7 +1169,7 @@ sg10
 VLEO
 p326
 sg12
-g9
+g18
 sa(dp327
 g6
 VSince Will's working out.
@@ -1186,7 +1186,7 @@ g6
 VActually, the President's not crazy about his Rose Garden draft.
 p331
 sg8
-g37
+g35
 sg10
 VLEO
 p332
@@ -1202,7 +1202,7 @@ sg10
 VLEO
 p335
 sg12
-g9
+g35
 sa(dp336
 g6
 VMorning everyone.
@@ -1213,13 +1213,13 @@ sg10
 VBARTLET
 p338
 sg12
-g9
+g18
 sa(dp339
 g6
 VWhat's the bad news?
 p340
 sg8
-g37
+g35
 sg10
 VBARTLET
 p341
@@ -1235,7 +1235,7 @@ sg10
 VLARRY
 p344
 sg12
-g9
+g18
 sa(dp345
 g6
 VThat's just hangover from the kidnapping.
@@ -1257,7 +1257,7 @@ sg10
 VTOBY
 p350
 sg12
-g9
+g18
 sa(dp351
 g6
 VSo where are we headed?
@@ -1301,7 +1301,7 @@ sg10
 VBARTLET
 p362
 sg12
-g9
+g35
 sa(dp363
 g6
 VOf course not.
@@ -1312,7 +1312,7 @@ sg10
 VLEO
 p365
 sg12
-g9
+g35
 sa(dp366
 g6
 VFor keeping us out of er... thing.
@@ -1329,7 +1329,7 @@ g6
 VExplain that to the 1.2 million people who've just lost their jobs.
 p370
 sg8
-g37
+g35
 sg10
 VTOBY
 p371
@@ -1345,7 +1345,7 @@ sg10
 VJOSH
 p374
 sg12
-g37
+g9
 sa(dp375
 g6
 VA stimulus package?
@@ -1362,12 +1362,12 @@ g6
 VWhich helps not at all the bottom 40% of wage earners who don't pay income tax. We have to stop or I'm gonna start shooting people, starting with myself. I asked for a recommendation, not a debate. Wake me when there's a consensus.
 p379
 sg8
-g37
+g35
 sg10
 VBARTLET
 p380
 sg12
-g9
+g35
 sa(dp381
 g6
 VThank you, Mr. President.
@@ -1378,7 +1378,7 @@ sg10
 VTOBY
 p383
 sg12
-g18
+g9
 sa(dp384
 g6
 VThank you, sir.
@@ -1411,7 +1411,7 @@ sg10
 VLEO
 p392
 sg12
-g9
+g18
 sa(dp393
 g6
 VPlease. Thanks for coming. What do we think?
@@ -1422,7 +1422,7 @@ sg10
 VLEO
 p395
 sg12
-g9
+g35
 sa(dp396
 g6
 VYou don't blow a negotiation of this magnitude over some kid. I don't care if he plays Schubert with his feet.
@@ -1444,7 +1444,7 @@ sg10
 VMIKE
 p401
 sg12
-g9
+g35
 sa(dp402
 g6
 VUS law.
@@ -1455,7 +1455,7 @@ sg10
 VADVISOR
 p404
 sg12
-g9
+g35
 sa(dp405
 g6
 VOne thing at a time. The negotiations - they for real?
@@ -1483,7 +1483,7 @@ g6
 VThey've broken agreements before, what's different now?
 p412
 sg8
-g37
+g35
 sg10
 VLEO
 p413
@@ -1505,7 +1505,7 @@ g6
 VThis is that serious they're gonna blow it over some piano player?
 p418
 sg8
-g37
+g35
 sg10
 VLEO
 p419
@@ -1516,7 +1516,7 @@ g6
 VIt's the most unpredictable regime in the world. Walking out on the negotiations could be the least thing they do.
 p421
 sg8
-g37
+g35
 sg10
 VBARROW
 p422
@@ -1527,18 +1527,18 @@ g6
 VThey'd shell Seoul over this?
 p424
 sg8
-g37
+g35
 sg10
 VLEO
 p425
 sg12
-g37
+g35
 sa(dp426
 g6
 VYou wanna find out?
 p427
 sg8
-g37
+g35
 sg10
 VBARROW
 p428
@@ -1560,7 +1560,7 @@ g6
 VTitle 8 of the Immigration and Nationality Act prohibits sending an alien back to his homeland if he has well-founded fear of being persecuted there.
 p433
 sg8
-g37
+g35
 sg10
 VADVISOR
 p434
@@ -1582,7 +1582,7 @@ g6
 VAnd since the penalty for attempted defection is death, that may just change.
 p439
 sg8
-g37
+g35
 sg10
 VADVISOR
 p440
@@ -1593,7 +1593,7 @@ g6
 VHe's only in jeopardy if the Koreans find out. Are you gonna tell them?
 p442
 sg8
-g37
+g35
 sg10
 VBARROW
 p443
@@ -1631,7 +1631,7 @@ sg10
 VMIKE
 p452
 sg12
-g9
+g35
 sa(dp453
 g6
 VAnd we're comfortable with that?
@@ -1648,7 +1648,7 @@ g6
 VWhat's your point? ADVISOR Understand, he doesn't wanna go; he has a legal right to apply for asylum.
 p457
 sg8
-g37
+g35
 sg10
 VBARROW
 p458
@@ -1681,7 +1681,7 @@ g6
 VI don't see how you can send someone back to the bleakest place left on the planet after he tells you he doesn't wanna go.
 p466
 sg8
-g37
+g35
 sg10
 VC.J.
 p467
@@ -1708,7 +1708,7 @@ sg10
 VBARROW
 p473
 sg12
-g9
+g35
 sa(dp474
 g6
 VWhat's your point?
@@ -1747,7 +1747,7 @@ g6
 VThe guy doesn't know his rights - it's a non-problem. What's a big problem is if he tells anyone else. Where is he now?
 p484
 sg8
-g37
+g35
 sg10
 VBARROW
 p485
@@ -1857,7 +1857,7 @@ g6
 VWe've certainly come a long way from give me your tired, your poor. If we don't allow this defection, if we blithely exploit this young man's ignorance then I don't know who we are anymore.
 p514
 sg8
-g37
+g35
 sg10
 VC.J.
 p515
@@ -1879,12 +1879,12 @@ g6
 VI have altitude sickness.
 p520
 sg8
-g37
+g35
 sg10
 VWILL
 p521
 sg12
-g37
+g35
 sa(dp522
 g6
 VI'm sorry?
@@ -1895,7 +1895,7 @@ sg10
 VTOBY
 p524
 sg12
-g9
+g35
 sa(dp525
 g6
 VThe President wants more altitude; I'm having conscience issues.
@@ -1934,12 +1934,12 @@ g6
 VJust hold your nose and hype him.
 p535
 sg8
-g37
+g35
 sg10
 VTOBY
 p536
 sg12
-g9
+g35
 sa(dp537
 g6
 VThe President hated this. My self-confidence is down around my ankles.
@@ -2005,7 +2005,7 @@ sg10
 VLYLE
 p554
 sg12
-g9
+g18
 sa(dp555
 g6
 VYou'd need to ask him, but I can tell you his impression of our buffet table seemed favourable.
@@ -2077,7 +2077,7 @@ g6
 VWell his mother didn't want him hitting any strip clubs, but, um, as far as I know he's seeing the sights even as we speak. Yes.
 p574
 sg8
-g37
+g35
 sg10
 VC.J.
 p575
@@ -2088,7 +2088,7 @@ g6
 VMoving to the economy, did today's unemployment figures indicate we're moving into recession?
 p577
 sg8
-g37
+g35
 sg10
 VREPORTER
 p578
@@ -2126,7 +2126,7 @@ sg10
 VC.J.
 p587
 sg12
-g9
+g35
 sa(dp588
 g6
 VIf not recession, what word would the administration use? Slowdown, downturn, torpor?
@@ -2170,7 +2170,7 @@ sg10
 VC.J.
 p599
 sg12
-g9
+g35
 sa(dp600
 g6
 VYeah?
@@ -2291,7 +2291,7 @@ sg10
 VJOSH
 p632
 sg12
-g9
+g35
 sa(dp633
 g6
 VYeah. Where are we on Theo?
@@ -2346,7 +2346,7 @@ sg10
 VLEO
 p647
 sg12
-g18
+g35
 sa(dp648
 g6
 VJosh. My Aunt Barbara and Uncle Ted.
@@ -2357,7 +2357,7 @@ sg10
 VDONNA
 p650
 sg12
-g9
+g18
 sa(dp651
 g6
 VHi, good to meet you both. Welcome.
@@ -2368,7 +2368,7 @@ sg10
 VJOSH
 p653
 sg12
-g9
+g18
 sa(dp654
 g6
 VAny chance of getting them into the concert tonight?
@@ -2418,12 +2418,12 @@ g6
 VNot so much meeting as fighting off slipping into a coma.
 p667
 sg8
-g37
+g35
 sg10
 VJOSH
 p668
 sg12
-g37
+g35
 sa(dp669
 g6
 V[laughs] Pretty dense, huh?
@@ -2440,12 +2440,12 @@ g6
 VPlus they never agree, yet no one is remotely afflicted by doubt.
 p673
 sg8
-g37
+g35
 sg10
 VJOSH
 p674
 sg12
-g18
+g35
 sa(dp675
 g6
 VIt's like with diets. How there's all these different diet theories all completely contradictory, when most doctors agree that the healthiest advice is just to eat a variety of food in moderate amounts.
@@ -2500,7 +2500,7 @@ sg10
 VTED
 p689
 sg12
-g9
+g35
 sa(dp690
 g6
 VYou mean... cheese?
@@ -2511,7 +2511,7 @@ sg10
 VJOSH
 p692
 sg12
-g9
+g35
 sa(dp693
 g6
 VAbsolutely.
@@ -2533,13 +2533,13 @@ sg10
 VJOSH
 p698
 sg12
-g9
+g18
 sa(dp699
 g6
 VDid you know North Korea's the only country left in the world where it's impossible to access the internet? That all TVs and radios are preset before they're sold so they receive only state-controlled stations?
 p700
 sg8
-g37
+g35
 sg10
 VC.J.
 p701
@@ -2550,7 +2550,7 @@ g6
 VIt's a bad place.
 p703
 sg8
-g37
+g35
 sg10
 VCHARLIE
 p704
@@ -2572,7 +2572,7 @@ g6
 VIt's amazing he'd wanna go back.
 p709
 sg8
-g37
+g35
 sg10
 VCHARLIE
 p710
@@ -2660,7 +2660,7 @@ g6
 VOur hand's not legally forced unless he tells anyone.
 p733
 sg8
-g37
+g35
 sg10
 VLEO
 p734
@@ -2720,13 +2720,13 @@ sg10
 VBARTLET
 p749
 sg12
-g9
+g18
 sa(dp750
 g6
 VSending him back will play as a disaster in the press if it ever gets out.
 p751
 sg8
-g37
+g35
 sg10
 VC.J.
 p752
@@ -2742,7 +2742,7 @@ sg10
 VBARTLET
 p755
 sg12
-g9
+g35
 sa(dp756
 g6
 VNo sir, it's not. This young man's asking for freedom. It's what this country was built on; everyone's from somewhere else, some place less free. That's my argument.
@@ -2775,7 +2775,7 @@ sg10
 VLEO
 p764
 sg12
-g18
+g9
 sa(dp765
 g6
 VThank you, sir.
@@ -2797,7 +2797,7 @@ sg10
 VJOSH
 p770
 sg12
-g37
+g35
 sa(dp771
 g6
 VOutstanding.
@@ -2830,7 +2830,7 @@ sg10
 VRYAN
 p779
 sg12
-g9
+g35
 sa(dp780
 g6
 VYeah.
@@ -2863,7 +2863,7 @@ sg10
 VJOSH
 p788
 sg12
-g9
+g18
 sa(dp789
 g6
 V[at the same time as Josh] Rhode Island... he interned for my Uncle.
@@ -2929,7 +2929,7 @@ sg10
 VTOBY
 p806
 sg12
-g9
+g35
 sa(dp807
 g6
 VWe need to get back on focus. Work up a message calendar like in the campaigns.
@@ -2973,7 +2973,7 @@ sg10
 VTOBY
 p818
 sg12
-g9
+g35
 sa(dp819
 g6
 VYou have responsibilities.
@@ -3050,7 +3050,7 @@ sg10
 VJOSH
 p839
 sg12
-g9
+g35
 sa(dp840
 g6
 VI don't like the guy, I'm voting against him. What doesn't make sense?
@@ -3061,13 +3061,13 @@ sg10
 VTHEO
 p842
 sg12
-g9
+g35
 sa(dp843
 g6
 VYou're embarrassing the President.
 p844
 sg8
-g37
+g35
 sg10
 VJOSH
 p845
@@ -3078,7 +3078,7 @@ g6
 V[smiles and laughs] He's got a margin of 533 votes... must have a pretty low threshold of embarrassment.
 p847
 sg8
-g37
+g35
 sg10
 VTHEO
 p848
@@ -3089,7 +3089,7 @@ g6
 VIt's grandstanding, Congressman. It's a cheap and easy way to get your name in the paper, only it's... gonna make you look eccentric, like some kinda goofball crank.
 p850
 sg8
-g37
+g35
 sg10
 VJOSH
 p851
@@ -3105,13 +3105,13 @@ sg10
 VTHEO
 p854
 sg12
-g9
+g35
 sa(dp855
 g6
 VYou're not embarrassing the President, you're embarrassing yourself.
 p856
 sg8
-g37
+g35
 sg10
 VJOSH
 p857
@@ -3133,7 +3133,7 @@ g6
 VDo you want the President's backing for anything you might actually want to accomplish this term? As opposed to pulling pointless little publicity stunts, you'll swallow hard whatever petty animus you bear toward the guy about to be the number two man in your party, and you will give your President what he wants. A unanimous confirmation.
 p862
 sg8
-g37
+g35
 sg10
 VJOSH
 p863
@@ -3144,7 +3144,7 @@ g6
 VMy petty animus is that Russell's not good enough. Which is exactly what you've been saying to each other round here ever since his name was announced. [laughs] You think I don't know how you got rolled on Berryhill, or forced to settle for this party hack? You've put someone second-rate next in line to a President with a serious health problem. You wanna talk about embarrassment? Be embarrassed about that.
 p865
 sg8
-g37
+g35
 sg10
 VTHEO
 p866
@@ -3215,7 +3215,7 @@ sg10
 VJOSH
 p884
 sg12
-g18
+g9
 sa(dp885
 g6
 VThe VP intro is finished?
@@ -3248,7 +3248,7 @@ sg10
 VBARTLET
 p893
 sg12
-g9
+g18
 sa(dp894
 g6
 VHe's got it handled.
@@ -3259,13 +3259,13 @@ sg10
 VTOBY
 p896
 sg12
-g9
+g18
 sa(dp897
 g6
 VHe was having some trouble; look it over, punch it up.
 p898
 sg8
-g37
+g35
 sg10
 VBARTLET
 p899
@@ -3342,7 +3342,7 @@ g6
 VYou could argue the President's got a responsibility to do it. Setting a positive tone conceivably helps bring about positive results.
 p919
 sg8
-g37
+g35
 sg10
 VJOSH
 p920
@@ -3353,7 +3353,7 @@ g6
 VIt's not that I wanna don a shroud, I just think the Polly-Anna act's not wearing well. Sir, I'm worried that at some point avoidance starts to look like maybe we just haven't noticed. We run the risk of appearing out of touch, like one of those President's who doesn't know the price of milk. [Leo exchanges glances with Bartlet] Sir, do you know the price of milk?
 p922
 sg8
-g37
+g35
 sg10
 VC.J.
 p923
@@ -3386,7 +3386,7 @@ g6
 VOkay, let's get on coming up with a language plan for talking more realistically about the economy. That session this morning with the advisors; everybody's got a magic lever they want you to push. I studied economics all my life but in this job only a fool is ever certain. You don't push any one lever; you wanna push a little on them all.
 p931
 sg8
-g37
+g35
 sg10
 VBARTLET
 p932
@@ -3419,7 +3419,7 @@ g6
 VC.J., these negotiations are the real thing. I can't allow this defection. I know you disagree, but that's my decision.
 p940
 sg8
-g37
+g35
 sg10
 VBARTLET
 p941
@@ -3430,7 +3430,7 @@ g6
 VThank you, Mr. President. It's not that I disagree sir; I'm disappointed.
 p943
 sg8
-g37
+g35
 sg10
 VC.J.
 p944
@@ -3457,7 +3457,7 @@ sg10
 VBARTLET
 p950
 sg12
-g9
+g35
 sa(dp951
 g6
 VSir...
@@ -3490,7 +3490,7 @@ sg10
 VLEO
 p959
 sg12
-g9
+g35
 sa(dp960
 g6
 VHey.
@@ -3518,12 +3518,12 @@ g6
 VGot my ass kicked a little bit ago by Theo.
 p967
 sg8
-g37
+g35
 sg10
 VJOSH
 p968
 sg12
-g37
+g35
 sa(dp969
 g6
 VThe Russell vote?
@@ -3573,12 +3573,12 @@ g6
 VI'm gonna do damage control; I'm gonna leak it that Theo wanted it.
 p982
 sg8
-g37
+g35
 sg10
 VJOSH
 p983
 sg12
-g9
+g35
 sa(dp984
 g6
 VThe Vice Presidency?
@@ -3595,12 +3595,12 @@ g6
 VYeah, make it just look like pique.
 p988
 sg8
-g37
+g35
 sg10
 VJOSH
 p989
 sg12
-g9
+g35
 sa(dp990
 g6
 VSecond-term Congressman from the smallest state expecting to be named VP?
@@ -3622,24 +3622,24 @@ sg10
 VJOSH
 p995
 sg12
-g9
+g35
 sa(dp996
 g6
 VGod. Don't ever get mad at me.
 p997
 sg8
-g37
+g35
 sg10
 VAMY
 p998
 sg12
-g9
+g35
 sa(dp999
 g6
 VI've gotten mad at you.
 p1000
 sg8
-g37
+g35
 sg10
 VJOSH
 p1001
@@ -3666,7 +3666,7 @@ sg10
 VWILL
 p1007
 sg12
-g9
+g18
 sa(dp1008
 g6
 VSurpassing. More altitude.
@@ -3677,7 +3677,7 @@ sg10
 VTOBY
 p1010
 sg12
-g9
+g18
 sa(dp1011
 g6
 VStill tweaking? The prompter guys needed the disc a half an hour ago.
@@ -3710,7 +3710,7 @@ sg10
 VWILL
 p1019
 sg12
-g9
+g18
 sa(dp1020
 g6
 VDistinguished?
@@ -3732,7 +3732,7 @@ sg10
 VWILL
 p1025
 sg12
-g9
+g18
 sa(dp1026
 g6
 VEminent, illustrious? Problem being he's none of those things.
@@ -3749,12 +3749,12 @@ g6
 VThis is my problem.
 p1030
 sg8
-g37
+g35
 sg10
 VWILL
 p1031
 sg12
-g9
+g35
 sa(dp1032
 g6
 VNor is he estimable, laudable or someone you'd walk across the room to shake hands with.
@@ -3793,7 +3793,7 @@ g6
 VThis lapdog of mining interests is as dull as he is unremarkable.
 p1042
 sg8
-g37
+g35
 sg10
 VWILL
 p1043
@@ -3820,7 +3820,7 @@ sg10
 VWILL
 p1049
 sg12
-g9
+g18
 sa(dp1050
 g6
 VThis reversion to the mean...
@@ -3831,7 +3831,7 @@ sg10
 VTOBY
 p1052
 sg12
-g9
+g18
 sa(dp1053
 g6
 VThis rebuke to the exemplary...
@@ -3842,7 +3842,7 @@ sg10
 VWILL
 p1055
 sg12
-g9
+g18
 sa(dp1056
 g6
 VGives hope to the millions unfavoured by the exceptional...
@@ -3908,7 +3908,7 @@ sg10
 VTOBY
 p1073
 sg12
-g9
+g18
 sa(dp1074
 g6
 VI love this Chopin. Fooled with it myself, but could never quite get the fingering down.
@@ -3941,7 +3941,7 @@ sg10
 VPHOTOGRAPHER
 p1082
 sg12
-g9
+g35
 sa(dp1083
 g6
 VOoo, we in the way? Er, you mind a minute? Please. [Leo moves the Korean handlers further away from Jai] Right here. So, how's your day been? You get to see much...
@@ -3958,12 +3958,12 @@ g6
 VI try to stay, you arrest me?
 p1087
 sg8
-g37
+g35
 sg10
 VJAI
 p1088
 sg12
-g9
+g35
 sa(dp1089
 g6
 VNo.
@@ -4018,13 +4018,13 @@ sg10
 VJAI
 p1103
 sg12
-g37
+g18
 sa(dp1104
 g6
 VMr. President, I think we have to cancel the concert.
 p1105
 sg8
-g37
+g35
 sg10
 VBARROW
 p1106
@@ -4112,7 +4112,7 @@ g6
 VThen you need to come down with some flu.
 p1129
 sg8
-g37
+g35
 sg10
 VLEO
 p1130
@@ -4161,7 +4161,7 @@ sg10
 VBARROW
 p1142
 sg12
-g18
+g9
 sa(dp1143
 g6
 VIt's a crapshoot.
@@ -4183,7 +4183,7 @@ sg10
 VBARTLET
 p1148
 sg12
-g9
+g18
 sa(dp1149
 g6
 VTheo.
@@ -4227,7 +4227,7 @@ sg10
 VJOSH
 p1160
 sg12
-g18
+g9
 sa(dp1161
 g6
 VNice work on Theo.
@@ -4238,7 +4238,7 @@ sg10
 VLEO
 p1163
 sg12
-g9
+g18
 sa(dp1164
 g6
 VYeah.
@@ -4271,7 +4271,7 @@ sg10
 VJOSH
 p1172
 sg12
-g9
+g35
 sa(dp1173
 g6
 VMargaret, I'm going to need State again. [Leo and Josh walk into Leo's office] We have a Vice President.
@@ -4315,7 +4315,7 @@ sg10
 VJOSH
 p1184
 sg12
-g9
+g35
 sa(dp1185
 g6
 VProbably not. [smiles] See you in the Rose Garden.
@@ -4359,7 +4359,7 @@ sg10
 VWILL
 p1196
 sg12
-g9
+g35
 sa(dp1197
 g6
 VNobody's getting fired.
@@ -4370,7 +4370,7 @@ sg10
 VTOBY
 p1199
 sg12
-g9
+g35
 sa(dp1200
 g6
 VI'm the new guy I'll be made an example; put my head on a pike on the South Lawn.
@@ -4403,7 +4403,7 @@ sg10
 VRUSSELL
 p1208
 sg12
-g9
+g35
 sa(dp1209
 g6
 V[sighs] Mr. Vice President, please accept...
@@ -4420,12 +4420,12 @@ g6
 VI'd like a copy.
 p1213
 sg8
-g37
+g35
 sg10
 VRUSSELL
 p1214
 sg12
-g9
+g35
 sa(dp1215
 g6
 VThere are no copies, we've shredded...
@@ -4436,7 +4436,7 @@ sg10
 VTOBY
 p1217
 sg12
-g9
+g35
 sa(dp1218
 g6
 VWiped hard drives... we're considering putting out our own eyes.
@@ -4458,7 +4458,7 @@ sg10
 VRUSSELL
 p1223
 sg12
-g9
+g35
 sa(dp1224
 g6
 V[smiling] Uh, hilarious, sir?
@@ -4469,7 +4469,7 @@ sg10
 VTOBY
 p1226
 sg12
-g9
+g18
 sa(dp1227
 g6
 VI know my public profile, my political persona. I'm just glad to see there's such a keen awareness of the scale of the job you've all got ahead of you. I'm part of the team now, which makes all this pretty much your problem. Good luck with it.
@@ -4535,7 +4535,7 @@ sg10
 VJOSH
 p1244
 sg12
-g9
+g18
 sa(dp1245
 g6
 VHey.
@@ -4678,7 +4678,7 @@ sg10
 VCHARLIE
 p1283
 sg12
-g9
+g18
 sa(dp1284
 g6
 VGood, listen, I need you to research something for me. Could you find out the price of a gallon of milk?
@@ -4744,7 +4744,7 @@ sg10
 VDONNA
 p1301
 sg12
-g9
+g35
 sa(dp1302
 g6
 VThat was quite an oratorio.
@@ -4755,7 +4755,7 @@ sg10
 VJOSH
 p1304
 sg12
-g9
+g35
 sa(dp1305
 g6
 VI was showing off and it was ridiculous, and you didn't make fun of me and I appreciate it.
@@ -4766,7 +4766,7 @@ sg10
 VDONNA
 p1307
 sg12
-g9
+g35
 sa(dp1308
 g6
 VYou know, the President made almost the exact same basic point this afternoon.
@@ -4788,7 +4788,7 @@ sg10
 VDONNA
 p1313
 sg12
-g9
+g35
 sa(dp1314
 g6
 VIt's true, actually, it was uncanny.
@@ -4854,7 +4854,7 @@ sg10
 VAMY
 p1331
 sg12
-g9
+g35
 sa(dp1332
 g6
 VNah, there might be 30 or 40 seconds left. [laughs] You look great.
@@ -4904,7 +4904,7 @@ g6
 VSo listen, umm, Ryan of all people asked me straight out about our relationship, and I couldn't have avoided the subject more if I had faked a stroke.
 p1345
 sg8
-g37
+g35
 sg10
 VJOSH
 p1346
@@ -4920,13 +4920,13 @@ sg10
 VAMY
 p1349
 sg12
-g37
+g35
 sa(dp1350
 g6
 VThat's not the point, even if I'd wanted to answer him I wouldn't have known what to say. It's like what C.J. said today about the economy; by refusing to put language to it we're trying to pretend it doesn't exist, but it's something... even if we don't know what to call it. I just think it's time to start thinking about a language plan for whatever it is we're doing too.
 p1351
 sg8
-g37
+g35
 sg10
 VJOSH
 p1352
@@ -4975,7 +4975,7 @@ sg10
 VBARTLET
 p1364
 sg12
-g9
+g35
 sa(dp1365
 g6
 VWhat what was, sir?
@@ -5052,5 +5052,5 @@ sg10
 VC.J.
 p1385
 sg12
-g9
+g18
 sas.

@@ -179,7 +179,7 @@ sg10
 VDONNA
 p56
 sg12
-g13
+g16
 sa(dp57
 g6
 VYeah.
@@ -212,7 +212,7 @@ sg10
 VJOSH
 p65
 sg12
-g13
+g16
 sa(dp66
 g6
 VAm I being punished?
@@ -223,7 +223,7 @@ sg10
 VDONNA
 p68
 sg12
-g16
+g13
 sa(dp69
 g6
 VI'm being promoted?
@@ -289,7 +289,7 @@ sg10
 VDONNA
 p86
 sg12
-g13
+g16
 sa(dp87
 g6
 VPintero?
@@ -322,7 +322,7 @@ sg10
 VJOSH
 p95
 sg12
-g13
+g16
 sa(dp96
 g6
 VHow does a person get to Bismarck?
@@ -333,7 +333,7 @@ sg10
 VDONNA
 p98
 sg12
-g13
+g16
 sa(dp99
 g6
 VThe Iditarod, Donna. They have an airport; it's the capital.
@@ -355,7 +355,7 @@ sg10
 VDONNA
 p104
 sg12
-g13
+g16
 sa(dp105
 g6
 VAs soon as I get dressed.
@@ -366,7 +366,7 @@ sg10
 VJOSH
 p107
 sg12
-g13
+g16
 sa(dp108
 g6
 VGood bye. [hangs up]
@@ -377,7 +377,7 @@ sg10
 VDONNA
 p110
 sg12
-g16
+g9
 sa(dp111
 g6
 VButtercup? You getting enough iron in your diet? You getting too much?
@@ -476,7 +476,7 @@ sg10
 VJOSH
 p137
 sg12
-g13
+g9
 sa(dp138
 g6
 VWhy have I been dancing?
@@ -498,7 +498,7 @@ sg10
 VJOSH
 p143
 sg12
-g13
+g16
 sa(dp144
 g6
 VHey.
@@ -575,7 +575,7 @@ sg10
 VSAM
 p164
 sg12
-g13
+g16
 sa(dp165
 g6
 VGood, 'cause we've got something we want you to take to Bruno.
@@ -586,7 +586,7 @@ sg10
 VJANE
 p167
 sg12
-g13
+g9
 sa(dp168
 g6
 VAnd Leo, too, it's legislative.
@@ -597,7 +597,7 @@ sg10
 VMURIEL
 p170
 sg12
-g13
+g9
 sa(dp171
 g6
 VWhat?
@@ -740,7 +740,7 @@ sg10
 VMURIEL
 p209
 sg12
-g13
+g16
 sa(dp210
 g6
 VThe sugar industry. We end sugar subsidies in the federal budget, which adds up to eight billion. It's great for us, terrible for Ritchie, and suddenly Florida's in play.
@@ -806,7 +806,7 @@ sg10
 VJANE
 p227
 sg12
-g13
+g16
 sa(dp228
 g6
 V[stops in doorway] Because I like my job.
@@ -828,7 +828,7 @@ sg10
 VMURIEL
 p233
 sg12
-g13
+g9
 sa(dp234
 g6
 VSugar growers are Ritchie's biggest supporters. It'll look like we're taxing our enemies. It'll backfire. [leaves]
@@ -916,7 +916,7 @@ sg10
 VDONNA
 p257
 sg12
-g13
+g9
 sa(dp258
 g6
 VGood afternoon.
@@ -927,7 +927,7 @@ sg10
 VPINTERO
 p260
 sg12
-g13
+g9
 sa(dp261
 g6
 VI'm off to buy prairie gear.
@@ -938,7 +938,7 @@ sg10
 VDONNA
 p263
 sg12
-g13
+g16
 sa(dp264
 g6
 VIt's a city. You've been there.
@@ -971,7 +971,7 @@ sg10
 VPINTERO
 p272
 sg12
-g16
+g13
 sa(dp273
 g6
 VAh... I just... we've been scheduled for a while to go to a Catholic charity's fundraiser in New York next week. It's the Royal National Company...
@@ -1070,7 +1070,7 @@ sg10
 VJOSH
 p299
 sg12
-g13
+g16
 sa(dp300
 g6
 VYou're getting a billion more on childcare.
@@ -1191,7 +1191,7 @@ sg10
 VPINTERO
 p332
 sg12
-g13
+g16
 sa(dp333
 g6
 VYeah, I'm really looking forward to it. Thanks.
@@ -1202,7 +1202,7 @@ sg10
 VJOSH
 p335
 sg12
-g13
+g16
 sa(dp336
 g6
 V'I will do it again.' Thanks.
@@ -1246,7 +1246,7 @@ sg10
 VLEO
 p347
 sg12
-g13
+g16
 sa(dp348
 g6
 VWhat is it?
@@ -1268,7 +1268,7 @@ sg10
 VLEO
 p353
 sg12
-g13
+g16
 sa(dp354
 g6
 VLeo.
@@ -1356,7 +1356,7 @@ sg10
 VTOBY
 p377
 sg12
-g13
+g9
 sa(dp378
 g6
 VAnd it gives him access to a massive press corps.
@@ -1400,7 +1400,7 @@ sg10
 VED
 p389
 sg12
-g13
+g9
 sa(dp390
 g6
 VWe'll ask politely.
@@ -1411,7 +1411,7 @@ sg10
 VLARRY
 p392
 sg12
-g13
+g16
 sa(dp393
 g6
 VWe'll tell him the shows not very good, we don't think he's going to like it.
@@ -1433,7 +1433,7 @@ sg10
 VC.J.
 p398
 sg12
-g13
+g9
 sa(dp399
 g6
 VWe don't go, we pull out. Better to look chicken, then to get broasted, my mother always says.
@@ -1488,7 +1488,7 @@ sg10
 VSAM
 p413
 sg12
-g13
+g16
 sa(dp414
 g6
 VYou think we don't go, right?
@@ -1576,7 +1576,7 @@ sg10
 VC.J.
 p437
 sg12
-g13
+g16
 sa(dp438
 g6
 VWe're done.
@@ -1686,7 +1686,7 @@ sg10
 VBARTLET
 p467
 sg12
-g13
+g16
 sa(dp468
 g6
 VIt's our own Diplomatic Relations Act-- 22 U.S.C. 254.
@@ -1730,7 +1730,7 @@ sg10
 VLEO
 p479
 sg12
-g13
+g16
 sa(dp480
 g6
 VWe have no extradition treaty with Qumar.
@@ -1763,7 +1763,7 @@ sg10
 VDAVID
 p488
 sg12
-g13
+g9
 sa(dp489
 g6
 VWe can't talk to the Sultan David, Shareef is a member of the royal family. The Sultan's his brother. We want to lock him up. I don't think he's going to warm to it. Plus we're never going to see Shareef again.
@@ -1862,7 +1862,7 @@ sg10
 VSIMON
 p515
 sg12
-g13
+g9
 sa(dp516
 g6
 VSimon...
@@ -1906,7 +1906,7 @@ sg10
 VSIMON
 p527
 sg12
-g13
+g9
 sa(dp528
 g6
 VHe knew I was shopping?
@@ -1917,7 +1917,7 @@ sg10
 VC.J.
 p530
 sg12
-g13
+g16
 sa(dp531
 g6
 VHe was there.
@@ -1928,7 +1928,7 @@ sg10
 VSIMON
 p533
 sg12
-g13
+g16
 sa(dp534
 g6
 VHow do you know?
@@ -1939,7 +1939,7 @@ sg10
 VC.J.
 p536
 sg12
-g9
+g13
 sa(dp537
 g6
 VHe thought you looked good in the black Vera Wang.
@@ -1972,7 +1972,7 @@ sg10
 VSIMON
 p545
 sg12
-g13
+g16
 sa(dp546
 g6
 VYou just did.
@@ -1994,7 +1994,7 @@ sg10
 VSIMON
 p551
 sg12
-g13
+g16
 sa(dp552
 g6
 VSo the one time you answer a question of mine...
@@ -2038,7 +2038,7 @@ sg10
 VSIMON
 p563
 sg12
-g13
+g9
 sa(dp564
 g6
 VI thought you said you want to have "gin" tonight.
@@ -2137,7 +2137,7 @@ sg10
 VC.J.
 p590
 sg12
-g13
+g16
 sa(dp591
 g6
 VWould you like to use our gym?
@@ -2170,7 +2170,7 @@ sg10
 VSIMON
 p599
 sg12
-g13
+g9
 sa(dp600
 g6
 VIt should be a showcase. He should have the best lawyers in the world.
@@ -2214,7 +2214,7 @@ sg10
 VLEO
 p611
 sg12
-g13
+g9
 sa(dp612
 g6
 VThe law cracks me up.
@@ -2225,7 +2225,7 @@ sg10
 VBARTLET
 p614
 sg12
-g13
+g16
 sa(dp615
 g6
 VI know.
@@ -2236,7 +2236,7 @@ sg10
 VLEO
 p617
 sg12
-g13
+g16
 sa(dp618
 g6
 VWhat else?
@@ -2269,7 +2269,7 @@ sg10
 VBARTLET
 p626
 sg12
-g13
+g16
 sa(dp627
 g6
 VI think when we're talking welfare, that ships pretty much sailed.
@@ -2324,7 +2324,7 @@ sg10
 VLEO
 p641
 sg12
-g13
+g9
 sa(dp642
 g6
 VIs marriage really something that should be incentivised? And where the hell are all the small government conservatives when we're talking about Washington getting into the yenta business?
@@ -2401,7 +2401,7 @@ sg10
 VBARTLET
 p662
 sg12
-g13
+g16
 sa(dp663
 g6
 VYes.
@@ -2434,7 +2434,7 @@ sg10
 VLEO
 p671
 sg12
-g9
+g13
 sa(dp672
 g6
 VCharlie.
@@ -2544,7 +2544,7 @@ sg10
 VCHARLIE
 p701
 sg12
-g9
+g13
 sa(dp702
 g6
 V"Eliminating the term "north" from North Dakota is an important state issue and the President feels it should be resolved on a state level. While the President is sympathetic towards the cause and understands the large economics ramifications of this name change, he feels the issue is not yet ripe for national attention. The President wishes you well on your endeavors and thanks you for your support."
@@ -2797,7 +2797,7 @@ sg10
 VAMY
 p770
 sg12
-g13
+g16
 sa(dp771
 g6
 VYou listening to Van Morrison again?
@@ -2852,7 +2852,7 @@ sg10
 VJOSH
 p785
 sg12
-g13
+g16
 sa(dp786
 g6
 VWhat do you have to give Republicans for a billion dollars.
@@ -2962,7 +2962,7 @@ sg10
 VJOSH
 p815
 sg12
-g13
+g16
 sa(dp816
 g6
 VDoes my government really believe that the law can create a family? Do these old fat-ass men really believe that if they just pay people to act like "Leave it to Beaver", everything'll be fine? Did you really think the person in my job is going to sit? This is about collecting votes from white men.
@@ -2995,7 +2995,7 @@ sg10
 VAMY
 p824
 sg12
-g13
+g16
 sa(dp825
 g6
 VYes it is. It's locked up. I have the American Children's Alliance behind it.
@@ -3061,7 +3061,7 @@ sg10
 VAMY
 p842
 sg12
-g9
+g13
 sa(dp843
 g6
 VYeah, it's Josh. The Secretary of Labor is in Chicago...
@@ -3116,7 +3116,7 @@ sg10
 VHARRY
 p857
 sg12
-g13
+g9
 sa(dp858
 g6
 VWell, thank you.
@@ -3182,7 +3182,7 @@ sg10
 VHARRY
 p875
 sg12
-g13
+g16
 sa(dp876
 g6
 VOh, god no. Mr. Chairman...
@@ -3215,7 +3215,7 @@ sg10
 VDONNA
 p884
 sg12
-g13
+g16
 sa(dp885
 g6
 VIt's not on Seaborn's radar screen.
@@ -3292,7 +3292,7 @@ sg10
 VC.J.
 p905
 sg12
-g13
+g9
 sa(dp906
 g6
 VHome?
@@ -3336,7 +3336,7 @@ sg10
 VC.J.
 p917
 sg12
-g13
+g16
 sa(dp918
 g6
 VShooting?
@@ -3391,7 +3391,7 @@ sg10
 VSIMON
 p932
 sg12
-g13
+g9
 sa(dp933
 g6
 VWell, I haven't shot one as much as I've seen others shot one in the movies.
@@ -3457,7 +3457,7 @@ sg10
 VC.J.
 p950
 sg12
-g13
+g16
 sa(dp951
 g6
 VThey do if I'm guarding you.
@@ -3479,7 +3479,7 @@ sg10
 VC.J.
 p956
 sg12
-g13
+g16
 sa(dp957
 g6
 VLet me get you a 25 caliber.
@@ -3501,7 +3501,7 @@ sg10
 VC.J.
 p962
 sg12
-g13
+g16
 sa(dp963
 g6
 VIt's a .357 magnum.
@@ -3545,7 +3545,7 @@ sg10
 VC.J.
 p974
 sg12
-g13
+g16
 sa(dp975
 g6
 VThat's good news for me. Don't come close to pointing it at me.
@@ -3567,7 +3567,7 @@ sg10
 VC.J.
 p980
 sg12
-g13
+g9
 sa(dp981
 g6
 VI'm going to stand behind you and hold your shoulders.
@@ -3589,7 +3589,7 @@ sg10
 VC.J.
 p986
 sg12
-g13
+g16
 sa(dp987
 g6
 VOkay.
@@ -3611,7 +3611,7 @@ sg10
 VSIMON
 p992
 sg12
-g13
+g9
 sa(dp993
 g6
 VThat thing practically broke my arm. I've been wrong about guns. Just hand these out to the criminals.
@@ -3622,7 +3622,7 @@ sg10
 VC.J.
 p995
 sg12
-g13
+g16
 sa(dp996
 g6
 VWant to go home now?
@@ -3655,7 +3655,7 @@ sg10
 VSIMON
 p1004
 sg12
-g13
+g16
 sa(dp1005
 g6
 VMarksmanship-wise?
@@ -3677,7 +3677,7 @@ sg10
 VSIMON
 p1010
 sg12
-g13
+g16
 sa(dp1011
 g6
 VShow me what you've got. I'll tell you what. I'll make it interesting for you. Get five bullets. If you can't land any in the middle, then I get to drive my car.
@@ -3699,7 +3699,7 @@ sg10
 VSIMON
 p1016
 sg12
-g13
+g9
 sa(dp1017
 g6
 VCome on. One dead center, I never bother you about it again.
@@ -3710,7 +3710,7 @@ sg10
 VC.J.
 p1019
 sg12
-g13
+g16
 sa(dp1020
 g6
 VOkay.
@@ -3908,7 +3908,7 @@ sg10
 VSIMON
 p1073
 sg12
-g13
+g9
 sa(dp1074
 g6
 VHow do you shoot like that?
@@ -3919,7 +3919,7 @@ sg10
 VC.J.
 p1076
 sg12
-g9
+g16
 sa(dp1077
 g6
 VThey give us lessons.
@@ -3941,7 +3941,7 @@ sg10
 VC.J.
 p1082
 sg12
-g13
+g16
 sa(dp1083
 g6
 VWell?
@@ -3963,7 +3963,7 @@ sg10
 VC.J.
 p1088
 sg12
-g9
+g16
 sa(dp1089
 g6
 VYou do?
@@ -3985,7 +3985,7 @@ sg10
 VC.J.
 p1094
 sg12
-g13
+g16
 sa(dp1095
 g6
 VHot, hot, hot!
@@ -4018,7 +4018,7 @@ sg10
 VCHARLIE
 p1103
 sg12
-g13
+g16
 sa(dp1104
 g6
 VHi.
@@ -4062,7 +4062,7 @@ sg10
 VCHARLIE
 p1115
 sg12
-g13
+g9
 sa(dp1116
 g6
 VThat's good.
@@ -4073,7 +4073,7 @@ sg10
 VSAM
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VHe asked me to start putting together a search. I thought about Elizabeth Etcheberry but the German accent. And then Beverly Casey's been secretary to two ambassadors. Sue Po, who worked for the head of the OPM. Jerry Walters-- but I don't think he'll be comfortable with a man.
@@ -4106,7 +4106,7 @@ sg10
 VCHARLIE
 p1127
 sg12
-g9
+g13
 sa(dp1128
 g6
 VFine.
@@ -4172,7 +4172,7 @@ sg10
 VTOBY
 p1145
 sg12
-g13
+g9
 sa(dp1146
 g6
 VThey used a pencil. What do you need?
@@ -4293,7 +4293,7 @@ sg10
 VLEO
 p1178
 sg12
-g13
+g16
 sa(dp1179
 g6
 VNot at all. I'm just saying...
@@ -4304,7 +4304,7 @@ sg10
 VJOSH
 p1181
 sg12
-g13
+g16
 sa(dp1182
 g6
 VIt's going to be fine?
@@ -4381,7 +4381,7 @@ sg10
 VLEO
 p1202
 sg12
-g13
+g16
 sa(dp1203
 g6
 VHe needs a reason.
@@ -4392,7 +4392,7 @@ sg10
 VTOBY
 p1205
 sg12
-g13
+g9
 sa(dp1206
 g6
 VWe can use the same thing we were going to use with Chigorin to get out of Helsinki.
@@ -4436,7 +4436,7 @@ sg10
 VJOSH
 p1217
 sg12
-g13
+g9
 sa(dp1218
 g6
 VToby, an encouraging word from you to Sam wouldn't be totally out of line.
@@ -4447,7 +4447,7 @@ sg10
 VLEO
 p1220
 sg12
-g13
+g16
 sa(dp1221
 g6
 VSam doesn't need to be patronized. He'll shake it off.
@@ -4458,7 +4458,7 @@ sg10
 VTOBY
 p1223
 sg12
-g13
+g16
 sa(dp1224
 g6
 VIt'd make him feel better.
@@ -4513,7 +4513,7 @@ sg10
 VLEO
 p1238
 sg12
-g13
+g16
 sa(dp1239
 g6
 VDid we solve immunity?
@@ -4590,7 +4590,7 @@ sg10
 VBARTLET
 p1259
 sg12
-g13
+g16
 sa(dp1260
 g6
 VWell, I'm no lawyer, but I'm pretty sure that's inadmissible.
@@ -4601,7 +4601,7 @@ sg10
 VBARTLET
 p1262
 sg12
-g13
+g16
 sa(dp1263
 g6
 VWe'll come up with a less aggressive way of... We'll cancel his trip here obviously, but we'll come up with something. That's the ball game.
@@ -4755,7 +4755,7 @@ sg10
 VLEO
 p1304
 sg12
-g13
+g16
 sa(dp1305
 g6
 VLeo.
@@ -4788,7 +4788,7 @@ sg10
 VFITZWALLACE
 p1313
 sg12
-g13
+g16
 sa(dp1314
 g6
 VWe declared war.
@@ -4821,7 +4821,7 @@ sg10
 VLEO
 p1322
 sg12
-g13
+g16
 sa(dp1323
 g6
 V...there would've been statues built of an assassin. We'd have to explain that to our kids.
@@ -4909,7 +4909,7 @@ sg10
 VDONNA
 p1346
 sg12
-g13
+g9
 sa(dp1347
 g6
 VExcuse me, Sam.
@@ -4920,7 +4920,7 @@ sg10
 VDONNA
 p1349
 sg12
-g13
+g16
 sa(dp1350
 g6
 VHey. You just got back from someplace, right?
@@ -5019,7 +5019,7 @@ sg10
 VSAM
 p1376
 sg12
-g13
+g16
 sa(dp1377
 g6
 VOkay.
@@ -5041,7 +5041,7 @@ sg10
 VSAM
 p1382
 sg12
-g13
+g16
 sa(dp1383
 g6
 VHey.
@@ -5063,7 +5063,7 @@ sg10
 VDONNA
 p1388
 sg12
-g9
+g13
 sa(dp1389
 g6
 V[to Sam] You got a second?
@@ -5085,7 +5085,7 @@ sg10
 VSAM
 p1394
 sg12
-g13
+g16
 sa(dp1395
 g6
 VI was going to pick your spirits up.
@@ -5096,7 +5096,7 @@ sg10
 VCHARLIE
 p1397
 sg12
-g13
+g16
 sa(dp1398
 g6
 VMy spirits are up.
@@ -5107,7 +5107,7 @@ sg10
 VSAM
 p1400
 sg12
-g16
+g9
 sa(dp1401
 g6
 V'Cause I can do magic.
@@ -5118,7 +5118,7 @@ sg10
 VCHARLIE
 p1403
 sg12
-g13
+g16
 sa(dp1404
 g6
 Vreally?
@@ -5129,7 +5129,7 @@ sg10
 VSAM
 p1406
 sg12
-g13
+g16
 sa(dp1407
 g6
 VExcuse me.
@@ -5140,7 +5140,7 @@ sg10
 VTOBY
 p1409
 sg12
-g13
+g16
 sa(dp1410
 g6
 VHey.
@@ -5173,7 +5173,7 @@ sg10
 VCHARLIE
 p1418
 sg12
-g13
+g9
 sa(dp1419
 g6
 VWill do.
@@ -5250,7 +5250,7 @@ sg10
 VSAM
 p1439
 sg12
-g13
+g16
 sa(dp1440
 g6
 VYeah. 'Cause this is no time for the starters to be on the bench.
@@ -5305,7 +5305,7 @@ sg10
 VSAM
 p1454
 sg12
-g13
+g16
 sa(dp1455
 g6
 VI think anything tactical makes us look bad.
@@ -5316,7 +5316,7 @@ sg10
 VTOBY
 p1457
 sg12
-g9
+g16
 sa(dp1458
 g6
 VWell, we should get used to it. We go on TV, we do a better job at selling it then the other guy. And we win the bigger argument which is Ritchie is with Florida's special interests. And we do it right, we've forced him into defending polluters. I think Jane and Muriel are right. I also think it's the right thing to do. Ginger?
@@ -5580,7 +5580,7 @@ sg10
 VJOSH
 p1529
 sg12
-g13
+g9
 sa(dp1530
 g6
 VI know.
@@ -5591,7 +5591,7 @@ sg10
 VBARTLET
 p1532
 sg12
-g13
+g16
 sa(dp1533
 g6
 VSir, none of thought it was a very good idea...
@@ -5602,7 +5602,7 @@ sg10
 VLARRY
 p1535
 sg12
-g13
+g16
 sa(dp1536
 g6
 VThe fund-raiser was my idea. I've known the Archbishop for 20 years and I'm not playing politics with the church. Did anyone want to ask me abut this? You've got me running the vote from the mezzanine floor of a Broadway theatre. Where are we in the vote?
@@ -5624,7 +5624,7 @@ sg10
 VJOSH
 p1541
 sg12
-g13
+g16
 sa(dp1542
 g6
 VWe are?
@@ -5635,7 +5635,7 @@ sg10
 VBARTLET
 p1544
 sg12
-g13
+g16
 sa(dp1545
 g6
 VYes, sir.
@@ -5734,7 +5734,7 @@ sg10
 VJOSH
 p1571
 sg12
-g9
+g13
 sa(dp1572
 g6
 VThat was a fun party. I'd wish you'd come inside.
@@ -5745,7 +5745,7 @@ sg10
 VC.J.
 p1574
 sg12
-g13
+g16
 sa(dp1575
 g6
 VI'd wish you'd let me use the car.
@@ -5756,7 +5756,7 @@ sg10
 VSIMON
 p1577
 sg12
-g13
+g16
 sa(dp1578
 g6
 VIt's two blocks.
@@ -5921,7 +5921,7 @@ sg10
 VC.J.
 p1622
 sg12
-g13
+g16
 sa(dp1623
 g6
 VI had a pretty good angle on the left. Which was Ray Beckwith.
@@ -5943,7 +5943,7 @@ sg10
 VC.J.
 p1628
 sg12
-g13
+g16
 sa(dp1629
 g6
 VThe 15-year old.
@@ -5998,7 +5998,7 @@ sg10
 VSIMON
 p1643
 sg12
-g13
+g16
 sa(dp1644
 g6
 VNo, yeah, no...
@@ -6009,7 +6009,7 @@ sg10
 VC.J.
 p1646
 sg12
-g13
+g16
 sa(dp1647
 g6
 VYou know I can't.
@@ -6075,7 +6075,7 @@ sg10
 VC.J.
 p1664
 sg12
-g13
+g16
 sa(dp1665
 g6
 VI'll walk in front.
@@ -6086,7 +6086,7 @@ sg10
 VSIMON
 p1667
 sg12
-g13
+g9
 sa(dp1668
 g6
 VForget it, I'm home.
@@ -6097,7 +6097,7 @@ sg10
 VC.J.
 p1670
 sg12
-g9
+g13
 sa(dp1671
 g6
 VLook...
@@ -6130,7 +6130,7 @@ sg10
 VSIMON
 p1679
 sg12
-g13
+g16
 sa(dp1680
 g6
 VI say can we drop it, you say sure and then we don't drop it.
@@ -6141,7 +6141,7 @@ sg10
 VC.J.
 p1682
 sg12
-g13
+g16
 sa(dp1683
 g6
 VOkay.
@@ -6174,7 +6174,7 @@ sg10
 VPAM
 p1691
 sg12
-g13
+g9
 sa(dp1692
 g6
 VYes.
@@ -6196,7 +6196,7 @@ sg10
 VJOSH
 p1697
 sg12
-g13
+g9
 sa(dp1698
 g6
 VYou didn't want to come up?
@@ -6207,7 +6207,7 @@ sg10
 VAMY
 p1700
 sg12
-g13
+g16
 sa(dp1701
 g6
 VIt's after midnight; they wouldn't let me up.
@@ -6229,7 +6229,7 @@ sg10
 VAMY
 p1706
 sg12
-g13
+g16
 sa(dp1707
 g6
 VYes, you are. You know for every vote on the left you grab, I got to get one on the right. You know what that does to the bill?
@@ -6273,7 +6273,7 @@ sg10
 VAMY
 p1718
 sg12
-g13
+g16
 sa(dp1719
 g6
 VAmy, when these things are over and we win, you know who's job it is to pay a visit to the people who weren't with us?
@@ -6405,7 +6405,7 @@ sg10
 VAMY
 p1754
 sg12
-g9
+g13
 sa(dp1755
 g6
 VI have to go back to the office. [starts to leave]
@@ -6537,7 +6537,7 @@ sg10
 VLEO
 p1790
 sg12
-g13
+g9
 sa(dp1791
 g6
 VWhat are you...
@@ -6625,7 +6625,7 @@ sg10
 VLEO
 p1814
 sg12
-g13
+g9
 sa(dp1815
 g6
 VThe war on poverty. It's a slippery slope.
@@ -6647,7 +6647,7 @@ sg10
 VLEO
 p1820
 sg12
-g13
+g16
 sa(dp1821
 g6
 VWhat?
@@ -6680,7 +6680,7 @@ sg10
 VBARTLET
 p1829
 sg12
-g13
+g9
 sa(dp1830
 g6
 VApparently not. He's killed innocent people. He'll kill more, so we have to end him. The village idiot comes to that conclusion before the Nobel Laureate.
@@ -6713,7 +6713,7 @@ sg10
 VLEO
 p1838
 sg12
-g13
+g9
 sa(dp1839
 g6
 VSays who?
@@ -6746,7 +6746,7 @@ sg10
 VBARTLET
 p1847
 sg12
-g13
+g16
 sa(dp1848
 g6
 VNot a mob. Just you. Right now. This decision. Which by the way is one of self-defense. Let Shareef come here and we have options. Cancel the trip and we have none. That's all we're talking about right now.
@@ -6779,5 +6779,5 @@ sg10
 VLEO
 p1856
 sg12
-g9
+g13
 sas.

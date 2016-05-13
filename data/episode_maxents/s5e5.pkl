@@ -34,70 +34,70 @@ sg10
 VTOBY
 p15
 sg12
-g9
-sa(dp16
+S'negative'
+p16
+sa(dp17
 g6
 VGranted, there's lots of ways of looking at the numbers, but...
-p17
+p18
 sg8
 S'positive'
-p18
+p19
 sg10
 VWILL
-p19
+p20
 sg12
 g9
-sa(dp20
+sa(dp21
 g6
 VIf you work for an economist, he'll tell you, government doesn't create jobs; business creates jobs.
-p21
+p22
 sg8
 g9
 sg10
 VTOBY
-p22
+p23
 sg12
 g9
-sa(dp23
+sa(dp24
 g6
 VAnd they did it on our watch.
-p24
+p25
 sg8
 g9
 sg10
 VWILL
-p25
+p26
 sg12
-g9
-sa(dp26
+g16
+sa(dp27
 g6
 VAnd your point is?
-p27
+p28
 sg8
 g9
 sg10
 VTOBY
-p28
+p29
 sg12
 g9
-sa(dp29
+sa(dp30
 g6
 VThis calendar is every event, every speech that the President's gonna give over the next three months--you don't want to spend one day talking about economic accomplishments?
-p30
+p31
 sg8
-g18
+g19
 sg10
 VWILL
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 VRight now we're losing jobs.
-p33
-sg8
-S'negative'
 p34
+sg8
+g16
 sg10
 VTOBY
 p35
@@ -113,13 +113,13 @@ sg10
 VWILL
 p38
 sg12
-g9
+g19
 sa(dp39
 g6
 VYou don't talk about economic accomplishemnts in a lousy economy.
 p40
 sg8
-g18
+g19
 sg10
 VTOBY
 p41
@@ -157,13 +157,13 @@ sg10
 VWILL
 p50
 sg12
-g9
+g16
 sa(dp51
 g6
 VFridays don't count.
 p52
 sg8
-g18
+g19
 sg10
 VTOBY
 p53
@@ -179,7 +179,7 @@ sg10
 VWILL
 p56
 sg12
-g9
+g16
 sa(dp57
 g6
 VNo one watches the Friday evening news. No one reads the Saturday papers. No Presidential events on Fridays.
@@ -196,7 +196,7 @@ g6
 VI can think of a few assignment editors who'd resent that remark.
 p61
 sg8
-g34
+g16
 sg10
 VWILL
 p62
@@ -229,7 +229,7 @@ g6
 VThis is how we get past crisis of the hour: seize the agenda again.
 p70
 sg8
-g34
+g16
 sg10
 VTOBY
 p71
@@ -251,7 +251,7 @@ g6
 VYou need to learn this.
 p76
 sg8
-g18
+g19
 sg10
 VTOBY
 p77
@@ -300,7 +300,7 @@ sg10
 VTOBY
 p89
 sg12
-g9
+g19
 sa(dp90
 g6
 VOkay.
@@ -317,7 +317,7 @@ g6
 VYou think we should be touting economic accomplishment.
 p94
 sg8
-g18
+g19
 sg10
 VTOBY
 p95
@@ -333,13 +333,13 @@ sg10
 VWILL
 p98
 sg12
-g9
+g16
 sa(dp99
 g6
 VPolitics isn't about past performance-- it's "what have you done for me lately, and where's my years supply of turtle wax."
 p100
 sg8
-g18
+g19
 sg10
 VTOBY
 p101
@@ -355,7 +355,7 @@ sg10
 VWILL
 p104
 sg12
-g34
+g16
 sa(dp105
 g6
 VIt's someone looking for one of your 9 million new jobs.
@@ -377,7 +377,7 @@ sg10
 VWILL
 p110
 sg12
-g18
+g19
 sa(dp111
 g6
 VHi, it's Will Bailey.
@@ -399,7 +399,7 @@ sg10
 VWILL
 p116
 sg12
-g9
+g16
 sa(dp117
 g6
 VHe did the hard part.
@@ -421,7 +421,7 @@ sg10
 VHOLLY
 p122
 sg12
-g9
+g16
 sa(dp123
 g6
 VDying.
@@ -438,12 +438,12 @@ g6
 VWas that a joke?
 p127
 sg8
-g34
+g16
 sg10
 VLAURA
 p128
 sg12
-g9
+g16
 sa(dp129
 g6
 VNot really, no. Am I in the right place?
@@ -487,7 +487,7 @@ sg10
 VWILL
 p140
 sg12
-g9
+g19
 sa(dp141
 g6
 VSir, I want to say once again...
@@ -504,7 +504,7 @@ g6
 VForget about the announcement speech.
 p145
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p146
@@ -520,7 +520,7 @@ sg10
 VWILL
 p149
 sg12
-g18
+g19
 sa(dp150
 g6
 VI admire speechwriters. They have to have the tendency to doubt and the capacity to believe in equal measure.
@@ -537,18 +537,18 @@ g6
 VWhy am I here, sir?
 p154
 sg8
-g18
+g19
 sg10
 VWILL
 p155
 sg12
-g34
+g16
 sa(dp156
 g6
 VYou're the President's voice. You don't think I have an interest in that?
 p157
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p158
@@ -564,13 +564,13 @@ sg10
 VWILL
 p161
 sg12
-g9
+g16
 sa(dp162
 g6
 VOh, I have to work longer hours--I'm playing with a handicap.
 p163
 sg8
-g34
+g16
 sg10
 VRUSSELL
 p164
@@ -592,7 +592,7 @@ g6
 VSpare tire on the automobile of government. Heartbeat away from having a heartbeat. The story of the two brothers.
 p169
 sg8
-g34
+g16
 sg10
 VRUSSELL
 p170
@@ -614,7 +614,7 @@ g6
 VOne went to sea; one became vice president--neither was heard from again.
 p175
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p176
@@ -630,7 +630,7 @@ sg10
 VWILL
 p179
 sg12
-g9
+g19
 sa(dp180
 g6
 VI may need more help than that dead guy you got elected in Orange County, Will. I may need some political life support myself.
@@ -647,18 +647,18 @@ g6
 VI'm afraid I don't follow.
 p184
 sg8
-g34
+g16
 sg10
 VWILL
 p185
 sg12
-g9
+g16
 sa(dp186
 g6
 VI'd like you to be my communications director. First senior-level hire in the White House.
 p187
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p188
@@ -669,12 +669,12 @@ g6
 VI-I'm flattered, sir, but I'm not...
 p190
 sg8
-g18
+g19
 sg10
 VWILL
 p191
 sg12
-g18
+g9
 sa(dp192
 g6
 VYou don't think I'm politician enough.
@@ -685,7 +685,7 @@ sg10
 VRUSSELL
 p194
 sg12
-g9
+g16
 sa(dp195
 g6
 VI didn't say that.
@@ -696,13 +696,13 @@ sg10
 VWILL
 p197
 sg12
-g9
+g16
 sa(dp198
 g6
 VYou play baseball coach for a moment. Two players run to first. They both have the same time, but one has perfect form, the other, lousy form. Which one do you pick?
 p199
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p200
@@ -718,18 +718,18 @@ sg10
 VWILL
 p203
 sg12
-g9
+g19
 sa(dp204
 g6
 V'Cause teach him the right form...
 p205
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p206
 sg12
-g9
+g19
 sa(dp207
 g6
 VAnd he beats the other guy--it's a neat analogy...
@@ -746,7 +746,7 @@ g6
 VI know I'm not the best politician, but here I am Vice President of the United States. Imagine what we can do when you teach me the right form.
 p211
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p212
@@ -757,7 +757,7 @@ g6
 VSir, I'm a special assistant to the President.
 p214
 sg8
-g18
+g19
 sg10
 VWILL
 p215
@@ -768,12 +768,12 @@ g6
 VChief strategist and senior counselor to the Vice President.
 p217
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p218
 sg12
-g9
+g19
 sa(dp219
 g6
 VAre we playing poker?
@@ -823,7 +823,7 @@ g6
 VThank you, sir, but I'm not interested.
 p232
 sg8
-g18
+g19
 sg10
 VWILL
 p233
@@ -834,7 +834,7 @@ g6
 VI like loyalty, Will, I respect loyalty. But you can run out the clock on a Bartlet presidency that, politically speaking, is over. You can finish something that you never started in the first place. You can run around those little hallways until Toby turns out the lights. Or you can shape the next presidency from the ground up. Total access. Coach of the team. Of course, I understand if you're not interested.
 p235
 sg8
-g18
+g19
 sg10
 VRUSSELL
 p236
@@ -850,13 +850,13 @@ sg10
 VDONNA
 p239
 sg12
-g18
+g9
 sa(dp240
 g6
 VI'm not reading it. There's some new stuff since the early edition.
 p241
 sg8
-g18
+g19
 sg10
 VJOSH
 p242
@@ -878,18 +878,18 @@ g6
 VIt's a puff piece, so I'll return the reporter's call, which I won't.
 p247
 sg8
-g18
+g19
 sg10
 VJOSH
 p248
 sg12
-g9
+g19
 sa(dp249
 g6
 V[reading] "A one man congressional majority... Bartlet's legislative juggernaut..."
 p250
 sg8
-g18
+g19
 sg10
 VDONNA
 p251
@@ -900,7 +900,7 @@ g6
 VIt's an embarassment. You should be stealing everyone's copies before they can read it.
 p253
 sg8
-g34
+g16
 sg10
 VJOSH
 p254
@@ -927,13 +927,13 @@ sg10
 VJOSH
 p260
 sg12
-g9
+g16
 sa(dp261
 g6
 VShe'll be proud of her little birthday boy.
 p262
 sg8
-g18
+g19
 sg10
 VDONNA
 p263
@@ -949,7 +949,7 @@ sg10
 VJOSH
 p266
 sg12
-g9
+g16
 sa(dp267
 g6
 VA coffee and...
@@ -1004,7 +1004,7 @@ sg10
 VDONNA
 p281
 sg12
-g18
+g9
 sa(dp282
 g6
 VSpeaker's trying to roll us again on stimulus. This story about me sending a congressman a dead fish wrapped in newspaper--the Post get this from you?
@@ -1037,7 +1037,7 @@ sg10
 VJOSH
 p290
 sg12
-g9
+g19
 sa(dp291
 g6
 VYeah.
@@ -1092,7 +1092,7 @@ sg10
 VAMY
 p305
 sg12
-g9
+g16
 sa(dp306
 g6
 VYeah, I was the one who played sitar and made procedural changes.
@@ -1114,7 +1114,7 @@ sg10
 VAMY
 p311
 sg12
-g18
+g9
 sa(dp312
 g6
 VI got a meeting.
@@ -1125,7 +1125,7 @@ sg10
 VJOSH
 p314
 sg12
-g9
+g19
 sa(dp315
 g6
 VMr. cloture-motions-flow-like-blood-through-my-gavel-wielding-veins.
@@ -1147,7 +1147,7 @@ sg10
 VJOSH
 p320
 sg12
-g9
+g16
 sa(dp321
 g6
 VHHS Appropriations?
@@ -1191,7 +1191,7 @@ sg10
 VJOSH
 p332
 sg12
-g9
+g16
 sa(dp333
 g6
 V'Cause I'm getting it from you.
@@ -1230,7 +1230,7 @@ g6
 V'Cause our budget's locked, and she's a sensitive topic around here. Or... not around here, as the case may be.
 p343
 sg8
-g34
+g16
 sg10
 VJOSH
 p344
@@ -1246,7 +1246,7 @@ sg10
 VAMY
 p347
 sg12
-g9
+g19
 sa(dp348
 g6
 VNothing's nothing.
@@ -1279,7 +1279,7 @@ sg10
 VJOSH
 p356
 sg12
-g9
+g16
 sa(dp357
 g6
 VNice profile, Josh.
@@ -1290,13 +1290,13 @@ sg10
 VLARRY
 p359
 sg12
-g9
+g19
 sa(dp360
 g6
 VI didn't even talk to them, if that's what...
 p361
 sg8
-g18
+g19
 sg10
 VJOSH
 p362
@@ -1334,13 +1334,13 @@ sg10
 VJOSH
 p371
 sg12
-g18
+g16
 sa(dp372
 g6
 VHey, let's talk about the DNC poll. We got the first half-sample. President's job approval down to 49%. Abbey's 11 points higher.
 p373
 sg8
-g18
+g19
 sg10
 VLEO
 p374
@@ -1351,18 +1351,18 @@ g6
 VPersonal approval's completely seperated from job performance.
 p376
 sg8
-g18
+g19
 sg10
 VTOBY
 p377
 sg12
-g9
+g19
 sa(dp378
 g6
 VBut "strong leader" is down, "handling of economy", way down.
 p379
 sg8
-g18
+g19
 sg10
 VJOSH
 p380
@@ -1373,7 +1373,7 @@ g6
 VPeople don't feel safe with what's going on in the world, don't feel economically secure. The Republicans are pounding us every day and people don't think the President's leading.
 p382
 sg8
-g18
+g19
 sg10
 VLEO
 p383
@@ -1384,12 +1384,12 @@ g6
 VThey love him at a barbecue, not so much with the nuclear launch codes.
 p385
 sg8
-g18
+g19
 sg10
 VTOBY
 p386
 sg12
-g9
+g19
 sa(dp387
 g6
 VWe're not the ones who voted down the stimulus package.
@@ -1406,7 +1406,7 @@ g6
 VOur job's to get that message out, and we're going to do this like in the campaigns. Toby's working up a new message calendar. When the President signs off, we treat it like it's chiseled stone. No more lurching from issue to issue. No more governors' brother-in-laws' bar mitzvahs driving the schedule-- just a positive message, oppurtunity and security, one day at a time.
 p391
 sg8
-g18
+g19
 sg10
 VLEO
 p392
@@ -1461,7 +1461,7 @@ g6
 VA senator put them on anonymous hold.
 p406
 sg8
-g34
+g16
 sg10
 VTOBY
 p407
@@ -1516,18 +1516,18 @@ g6
 VSo much for opportunity and security.
 p421
 sg8
-g18
+g19
 sg10
 VC.J.
 p422
 sg12
-g9
+g19
 sa(dp423
 g6
 VA fight in our own party over the military.
 p424
 sg8
-g34
+g16
 sg10
 VTOBY
 p425
@@ -1538,12 +1538,12 @@ g6
 VIt's not going to be a fight. I got this one.
 p427
 sg8
-g34
+g16
 sg10
 VJOSH
 p428
 sg12
-g9
+g16
 sa(dp429
 g6
 VNo, I'll handle it. Thanks, everybody.
@@ -1554,7 +1554,7 @@ sg10
 VLEO
 p431
 sg12
-g18
+g19
 sa(dp432
 g6
 VI can handle Carrick.
@@ -1565,7 +1565,7 @@ sg10
 VJOSH
 p434
 sg12
-g9
+g16
 sa(dp435
 g6
 VThe President's ready in the Residence.
@@ -1609,18 +1609,18 @@ sg10
 VLEO
 p446
 sg12
-g9
+g19
 sa(dp447
 g6
 VHey, I got a message from Legislative Affairs. HHS Appropriations--for some reason they're reopening the bill.
 p448
 sg8
-g18
+g19
 sg10
 VLEO
 p449
 sg12
-g9
+g19
 sa(dp450
 g6
 VHHS Appropriations?
@@ -1653,7 +1653,7 @@ sg10
 VJOSH
 p458
 sg12
-g9
+g16
 sa(dp459
 g6
 VI'll call them--it's probably nothing.
@@ -1664,7 +1664,7 @@ sg10
 VLEO
 p461
 sg12
-g9
+g16
 sa(dp462
 g6
 VYeah, it's probably nothing.
@@ -1675,7 +1675,7 @@ sg10
 VJOSH
 p464
 sg12
-g9
+g16
 sa(dp465
 g6
 VDonna, I need Amy.
@@ -1692,12 +1692,12 @@ g6
 VWhat's wrong?
 p469
 sg8
-g34
+g16
 sg10
 VDONNA
 p470
 sg12
-g9
+g16
 sa(dp471
 g6
 VJust... I-I need Amy.
@@ -1725,7 +1725,7 @@ g6
 VWhat's the problem with the Belgian elections, Leo?
 p478
 sg8
-g34
+g16
 sg10
 VBARTLET
 p479
@@ -1747,7 +1747,7 @@ g6
 VThe intelligence briefing. The anti-immigrationist are gaining in the north--doesn't say why or how.
 p484
 sg8
-g18
+g19
 sg10
 VBARTLET
 p485
@@ -1780,7 +1780,7 @@ g6
 VYou never have briefers in the family quarter's, sir. Your rule is...
 p493
 sg8
-g18
+g19
 sg10
 VCHARLIE
 p494
@@ -1802,12 +1802,12 @@ g6
 VYes, sir.
 p499
 sg8
-g18
+g19
 sg10
 VCHARLIE
 p500
 sg12
-g18
+g19
 sa(dp501
 g6
 VWhat's next?
@@ -1846,7 +1846,7 @@ g6
 VWe can't let this sit over the weekend. It's been months since we had a clear message coming out of this building.
 p511
 sg8
-g18
+g19
 sg10
 VLEO
 p512
@@ -1857,7 +1857,7 @@ g6
 VMonths since we reduced a $2 trillion government to poll-test bromides. You think James Madison ran his presidency off a message calendar?
 p514
 sg8
-g34
+g16
 sg10
 VBARTLET
 p515
@@ -1873,13 +1873,13 @@ sg10
 VLEO
 p518
 sg12
-g9
+g19
 sa(dp519
 g6
 V"Life" on Modays, "liberty" on Wednesdays, "shaking off the tyrannical monarch" on alternate Thursdays.
 p520
 sg8
-g34
+g16
 sg10
 VBARTLET
 p521
@@ -1895,13 +1895,13 @@ sg10
 VLEO
 p524
 sg12
-g9
+g16
 sa(dp525
 g6
 VRepublicans gutted it, 'cause "domestic violence isn't a public health issue," as if spousal abuse were part of the Atkins diet.
 p526
 sg8
-g34
+g16
 sg10
 VBARTLET
 p527
@@ -1928,7 +1928,7 @@ sg10
 VBARTLET
 p533
 sg12
-g9
+g16
 sa(dp534
 g6
 VWe'll get you more on the Flemish thing.
@@ -2016,7 +2016,7 @@ sg10
 VRYAN
 p557
 sg12
-g18
+g19
 sa(dp558
 g6
 VHe tried to bottle up the fisheries bill. It wasn't... Is this an inquisition?
@@ -2033,12 +2033,12 @@ g6
 VBet he's glad it wasn't a whaling bill.
 p562
 sg8
-g18
+g19
 sg10
 VRYAN
 p563
 sg12
-g9
+g16
 sa(dp564
 g6
 VI thought you were gonna gather up those profiles. Lord Bullingdon's having a field day over here.
@@ -2060,13 +2060,13 @@ sg10
 VJOSH
 p569
 sg12
-g9
+g16
 sa(dp570
 g6
 VYour birthday's not for you, it's for the rest of us.
 p571
 sg8
-g18
+g19
 sg10
 VDONNA
 p572
@@ -2099,7 +2099,7 @@ g6
 VJust don't tell anyone, okay? I don't want one of those sad-sack parties in the Indian Treaty Room where some guy from the OMB drones on about how I saved the aquatic weed subsidy.
 p580
 sg8
-g34
+g16
 sg10
 VJOSH
 p581
@@ -2115,7 +2115,7 @@ sg10
 VDONNA
 p584
 sg12
-g9
+g16
 sa(dp585
 g6
 VTell her to make time. I'm going to the Hill.
@@ -2143,12 +2143,12 @@ g6
 VSome buildings and a big statue of some guy with a beard.
 p592
 sg8
-g18
+g19
 sg10
 VDONNA
 p593
 sg12
-g9
+g19
 sa(dp594
 g6
 VI meant the meeting.
@@ -2159,7 +2159,7 @@ sg10
 VRYAN
 p596
 sg12
-g9
+g16
 sa(dp597
 g6
 VYou don't get to know everything, okay? This isn't an all-access pass. You're not backstage at a Stones concert.
@@ -2198,7 +2198,7 @@ g6
 VIt's pretty great.
 p607
 sg8
-g18
+g19
 sg10
 VRYAN
 p608
@@ -2231,12 +2231,12 @@ g6
 VIt's not the economy. That's not why our poll numbers down.
 p616
 sg8
-g18
+g19
 sg10
 VC.J.
 p617
 sg12
-g9
+g16
 sa(dp618
 g6
 VBen again on five.
@@ -2253,7 +2253,7 @@ g6
 VYeah, you can stop giving me his messages.
 p622
 sg8
-g18
+g19
 sg10
 VC.J.
 p623
@@ -2335,13 +2335,13 @@ sg10
 VC.J.
 p644
 sg12
-g9
+g16
 sa(dp645
 g6
 VYou don't want his calls?
 p646
 sg8
-g34
+g16
 sg10
 VTOBY
 p647
@@ -2352,7 +2352,7 @@ g6
 VWell, if I take his call, of course it would be great to hear his voice--he has this low, husky radio voice-- and we'd be swapping memories and old jokes and pet names and then it's the frisky little e-mails and pretty soon it's, you know, the weekend in Little Washington and the late-night phone calls and that's when we begin to get on each others nerves, 'cause we get on each others nerves. He has this thing where he twirls his hair and... Anyway, the bloom's off the rose and I don't call as much and it's the guilt and cherchez la femme and why- didn't-it-work-out-the-first-time and it's ten years til we talk again.
 p649
 sg8
-g18
+g19
 sg10
 VC.J.
 p650
@@ -2396,12 +2396,12 @@ g6
 VLatest drop in consumer confidence.
 p661
 sg8
-g18
+g19
 sg10
 VC.J.
 p662
 sg12
-g9
+g19
 sa(dp663
 g6
 VPivot to the stimulus package. Our new version will be introduced next week. Drop it back in Congress's lap.
@@ -2429,7 +2429,7 @@ g6
 VThe President's making his decision. Admiral Fitzwallace is still on the job--one Chariman at a time.
 p670
 sg8
-g18
+g19
 sg10
 VC.J.
 p671
@@ -2506,12 +2506,12 @@ g6
 VI didn't mean to... Are we defending coal?
 p691
 sg8
-g18
+g19
 sg10
 VC.J.
 p692
 sg12
-g9
+g16
 sa(dp693
 g6
 VReuters has the original draft.
@@ -2533,7 +2533,7 @@ sg10
 VC.J.
 p698
 sg12
-g9
+g16
 sa(dp699
 g6
 VWe're not "culpa-ing" anything. "The report will reflect administration views."
@@ -2577,13 +2577,13 @@ sg10
 VLEO
 p710
 sg12
-g9
+g19
 sa(dp711
 g6
 VYou worried about the EPA thing?
 p712
 sg8
-g34
+g16
 sg10
 VWILL
 p713
@@ -2594,12 +2594,12 @@ g6
 VI'm worried about anything that takes us off our new message.
 p715
 sg8
-g34
+g16
 sg10
 VTOBY
 p716
 sg12
-g9
+g16
 sa(dp717
 g6
 VNow that we've offically settled on our new message.
@@ -2654,7 +2654,7 @@ sg10
 VTOBY
 p731
 sg12
-g9
+g16
 sa(dp732
 g6
 VI thought I'd have another chance to weigh in.
@@ -2665,7 +2665,7 @@ sg10
 VWILL
 p734
 sg12
-g9
+g16
 sa(dp735
 g6
 VYou're gonna have a big role in this.
@@ -2704,12 +2704,12 @@ g6
 VThat's a bad idea.
 p745
 sg8
-g34
+g16
 sg10
 VWILL
 p746
 sg12
-g9
+g16
 sa(dp747
 g6
 VWe've been over this. If the President's stumping for the new stimulus package on Tuesday, you look at the calendar, then the Labor Secretary also talks...
@@ -2726,18 +2726,18 @@ g6
 VI mean the Vice President. We can't pretend he's another Cabinet flunky.
 p751
 sg8
-g34
+g16
 sg10
 VWILL
 p752
 sg12
-g9
+g16
 sa(dp753
 g6
 VYou're right--Cabinet flunkies have job responsibilites.
 p754
 sg8
-g18
+g19
 sg10
 VTOBY
 p755
@@ -2748,7 +2748,7 @@ g6
 VHe's a Constitutional officer. We should get his input up front.
 p757
 sg8
-g18
+g19
 sg10
 VWILL
 p758
@@ -2759,7 +2759,7 @@ g6
 VI'm not interested in his input.
 p760
 sg8
-g18
+g19
 sg10
 VTOBY
 p761
@@ -2775,7 +2775,7 @@ sg10
 VWILL
 p764
 sg12
-g9
+g16
 sa(dp765
 g6
 VYou want me in the meeting with you?
@@ -2836,7 +2836,7 @@ g6
 VYou can't block military promotions. We went over this last week. We can't have an intraparty fight over this when the Republicans are thrashing us on security.
 p781
 sg8
-g34
+g16
 sg10
 VJOSH
 p782
@@ -2847,18 +2847,18 @@ g6
 VOh, I don't want a fight.
 p784
 sg8
-g34
+g16
 sg10
 VCARRICK
 p785
 sg12
-g9
+g16
 sa(dp786
 g6
 VThese are career officers who have risked their lifes in the Gulf, in Africa.
 p787
 sg8
-g18
+g19
 sg10
 VJOSH
 p788
@@ -2940,13 +2940,13 @@ sg10
 VCARRICK
 p809
 sg12
-g18
+g19
 sa(dp810
 g6
 VOne problem with the MB-827 launcher.
 p811
 sg8
-g34
+g16
 sg10
 VJOSH
 p812
@@ -2973,13 +2973,13 @@ sg10
 VJOSH
 p818
 sg12
-g9
+g16
 sa(dp819
 g6
 VLet's talk about why you want to build that launcher.
 p820
 sg8
-g18
+g19
 sg10
 VCARRICK
 p821
@@ -2990,7 +2990,7 @@ g6
 VNo, let's talk about what you're going to do for our underpaid, underpromoted fighting men and women.
 p823
 sg8
-g34
+g16
 sg10
 VJOSH
 p824
@@ -3001,12 +3001,12 @@ g6
 VNot a damn thing till I get my launcher.
 p826
 sg8
-g34
+g16
 sg10
 VCARRICK
 p827
 sg12
-g9
+g16
 sa(dp828
 g6
 VAnd when were you promised...?
@@ -3017,7 +3017,7 @@ sg10
 VJOSH
 p830
 sg12
-g18
+g9
 sa(dp831
 g6
 VSeven years ago.
@@ -3056,7 +3056,7 @@ g6
 VOkay, uh, a bunch of things have fallen by the wayside since then, like communism.
 p841
 sg8
-g34
+g16
 sg10
 VJOSH
 p842
@@ -3078,7 +3078,7 @@ g6
 VIf you want to come asking for party favors, you shouldn't have voted with the Republicans for five straight years. You shouldn't have voted with them last week to kill our stimulus package.
 p847
 sg8
-g34
+g16
 sg10
 VJOSH
 p848
@@ -3089,12 +3089,12 @@ g6
 VYou tell Leo McGarry I look forward to a letter approving the MB-827.
 p850
 sg8
-g18
+g19
 sg10
 VCARRICK
 p851
 sg12
-g9
+g19
 sa(dp852
 g6
 VNancy, I want these to go back to the Staff Secretary.
@@ -3127,7 +3127,7 @@ sg10
 VBARTLET
 p860
 sg12
-g18
+g19
 sa(dp861
 g6
 VDid you hear about the Chief Justice?
@@ -3155,7 +3155,7 @@ g6
 VHe was presiding over a moot court competition at NYU--though he was at the real Supreme Court.
 p868
 sg8
-g34
+g16
 sg10
 VCHARLIE
 p869
@@ -3177,7 +3177,7 @@ g6
 VHe's losing it, Leo.
 p874
 sg8
-g34
+g16
 sg10
 VBARTLET
 p875
@@ -3243,18 +3243,18 @@ g6
 VIs this a budget problem?
 p892
 sg8
-g34
+g16
 sg10
 VBARTLET
 p893
 sg12
-g34
+g9
 sa(dp894
 g6
 VLegislative Affairs are concerned. It could cut into bioterrorism, global pandemics. 200 million's real money.
 p895
 sg8
-g18
+g19
 sg10
 VLEO
 p896
@@ -3303,7 +3303,7 @@ sg10
 VLEO
 p908
 sg12
-g9
+g16
 sa(dp909
 g6
 VLet's find out.
@@ -3336,7 +3336,7 @@ sg10
 VDONNA
 p917
 sg12
-g18
+g19
 sa(dp918
 g6
 VBut he supports workfare which gives people make-work jobs?
@@ -3353,7 +3353,7 @@ g6
 VFind me a military contractor on food stamps and we'll talk.
 p922
 sg8
-g18
+g19
 sg10
 VDONNA
 p923
@@ -3364,7 +3364,7 @@ g6
 VJosh's guidance on the DSCC.
 p925
 sg8
-g18
+g19
 sg10
 VDONNA
 p926
@@ -3386,7 +3386,7 @@ g6
 VSo, uh, I got Josh an expensive birthdy present.
 p931
 sg8
-g18
+g19
 sg10
 VRYAN
 p932
@@ -3397,7 +3397,7 @@ g6
 VYou can't--you're his subordinate. That's a violation of ethics rule.
 p934
 sg8
-g34
+g16
 sg10
 VC.J.
 p935
@@ -3408,7 +3408,7 @@ g6
 VThen I'm giving it to you.
 p937
 sg8
-g18
+g19
 sg10
 VRYAN
 p938
@@ -3446,7 +3446,7 @@ sg10
 VC.J.
 p947
 sg12
-g18
+g19
 sa(dp948
 g6
 VNo. It's just, uh...
@@ -3512,13 +3512,13 @@ sg10
 VLEO
 p965
 sg12
-g9
+g16
 sa(dp966
 g6
 VYeah. The 97th Airborne's a stickler for that kind of thing, too.
 p967
 sg8
-g18
+g19
 sg10
 VJOSH
 p968
@@ -3529,7 +3529,7 @@ g6
 VI got a breakdown on the promotions. Two dozen are headed for field rotations in the Gulf. If they're not promoted, they can't leave for the Gulf.
 p970
 sg8
-g34
+g16
 sg10
 VLEO
 p971
@@ -3551,7 +3551,7 @@ g6
 VI'm going to send Fitzwallace to cut a deal. Call it his farewell tour.
 p976
 sg8
-g18
+g19
 sg10
 VLEO
 p977
@@ -3573,7 +3573,7 @@ g6
 VHe's a Democrat from Idaho. They use Democrats for target practice up there. Sometimes, he's got to lean to the right.
 p982
 sg8
-g18
+g19
 sg10
 VLEO
 p983
@@ -3606,7 +3606,7 @@ g6
 VSo we award him for rolling us? That'll keep him in line.
 p991
 sg8
-g18
+g19
 sg10
 VJOSH
 p992
@@ -3617,18 +3617,18 @@ g6
 VWe can't afford an ugly fight right now.
 p994
 sg8
-g34
+g16
 sg10
 VLEO
 p995
 sg12
-g9
+g16
 sa(dp996
 g6
 VUnless we want more and more of them. We've got to stop feeding the hand that bites us, Leo. No Fitzwallace, no letter, no deal. I need your proxy on this.
 p997
 sg8
-g18
+g19
 sg10
 VJOSH
 p998
@@ -3650,7 +3650,7 @@ g6
 VThat, uh, "one-man majority" stuff? You know they didn't get that from me?
 p1003
 sg8
-g18
+g19
 sg10
 VJOSH
 p1004
@@ -3672,7 +3672,7 @@ g6
 VCall Carrick's Chief of Staff--the launcher's off the table. Tell him... tell him there's no such thing as a free "launch".
 p1009
 sg8
-g18
+g19
 sg10
 VJOSH
 p1010
@@ -3683,12 +3683,12 @@ g6
 VThat's cute.
 p1012
 sg8
-g18
+g19
 sg10
 VDONNA
 p1013
 sg12
-g9
+g19
 sa(dp1014
 g6
 VJust made it up.
@@ -3699,7 +3699,7 @@ sg10
 VJOSH
 p1016
 sg12
-g9
+g16
 sa(dp1017
 g6
 VAmy can see you from 1:10 to 1:15.
@@ -3716,7 +3716,7 @@ g6
 VHow about telling me I can see her? I got five minutes for her, and she can wait in my office all day if necessary.
 p1021
 sg8
-g34
+g16
 sg10
 VJOSH
 p1022
@@ -3749,23 +3749,23 @@ g6
 VIs this a private birthday celebration? Need some crisp one dollar bills and a smock?
 p1030
 sg8
-g18
+g19
 sg10
 VDONNA
 p1031
 sg12
-g9
+g19
 sa(dp1032
 g6
 VIt's a meeting. Would you...? I don't do birthday celebrations.
 p1033
 sg8
-g18
+g19
 sg10
 VJOSH
 p1034
 sg12
-g9
+g16
 sa(dp1035
 g6
 VChildhood trauma, I presume?
@@ -3782,7 +3782,7 @@ g6
 VMy seventh birthday, my parents hired a birthday clown. Big nose, seltzer bottle, the whole drill. And he just did all his tricks for my sister. She even got to keep one of his floppy shoes.
 p1039
 sg8
-g18
+g19
 sg10
 VJOSH
 p1040
@@ -3798,7 +3798,7 @@ sg10
 VDONNA
 p1043
 sg12
-g9
+g16
 sa(dp1044
 g6
 VTell Amy's office I'm on my way.
@@ -3815,12 +3815,12 @@ g6
 VJust copy this and get me a committee roster. Thanks.
 p1048
 sg8
-g34
+g16
 sg10
 VAMY
 p1049
 sg12
-g9
+g16
 sa(dp1050
 g6
 VThanks.
@@ -3837,7 +3837,7 @@ g6
 VSo this guy... calls his mother. He says, "Mom, how are you?" She says, "I'm terrible, I haven't eaten in 38 days." "Why haven't you eaten in 38 days?" She says, "I didn't want my mouth to be full in case you should call."
 p1054
 sg8
-g34
+g16
 sg10
 VAMY
 p1055
@@ -3859,12 +3859,12 @@ g6
 VI'm telling you a joke.
 p1060
 sg8
-g34
+g16
 sg10
 VAMY
 p1061
 sg12
-g9
+g16
 sa(dp1062
 g6
 VWhat's the First Lady doing? Why do you need list of Congrsseional committees?
@@ -3919,7 +3919,7 @@ sg10
 VJOSH
 p1076
 sg12
-g9
+g16
 sa(dp1077
 g6
 VAm I going to come back from Mass and find a horse's head on my desk?
@@ -3941,7 +3941,7 @@ sg10
 VJOSH
 p1082
 sg12
-g9
+g16
 sa(dp1083
 g6
 VYou got a problem, go ahead and call...
@@ -3958,7 +3958,7 @@ g6
 VOh, like I'm going to get between the Bartlets. Your job is to run it though the process.
 p1087
 sg8
-g18
+g19
 sg10
 VJOSH
 p1088
@@ -3969,7 +3969,7 @@ g6
 VYou're afraid we're going to get called in the the pricipal's office.
 p1090
 sg8
-g34
+g16
 sg10
 VAMY
 p1091
@@ -3980,7 +3980,7 @@ g6
 VI am the principal's office.
 p1093
 sg8
-g18
+g19
 sg10
 VJOSH
 p1094
@@ -4013,7 +4013,7 @@ g6
 VThe President's only concern is passing his stimulus package to get more Americans in good jobs. He's hopeful Congress will move his new version to the floor immediately. Mark?
 p1102
 sg8
-g18
+g19
 sg10
 VC.J.
 p1103
@@ -4024,7 +4024,7 @@ g6
 VWe've set up a whole Wing in the White House to handle his paparazzi. I'm just hoping for a decent table at the Palm.
 p1105
 sg8
-g18
+g19
 sg10
 VC.J.
 p1106
@@ -4040,7 +4040,7 @@ sg10
 VC.J.
 p1109
 sg12
-g18
+g19
 sa(dp1110
 g6
 VThe White House fells the EPA report will reflect administration views.
@@ -4073,7 +4073,7 @@ sg10
 VC.J.
 p1118
 sg12
-g9
+g16
 sa(dp1119
 g6
 VI don't accept your premise.
@@ -4084,13 +4084,13 @@ sg10
 VC.J.
 p1121
 sg12
-g34
+g16
 sa(dp1122
 g6
 VI'm sure you all look forward to reading the actual report.
 p1123
 sg8
-g18
+g19
 sg10
 VC.J.
 p1124
@@ -4101,7 +4101,7 @@ g6
 VIf there was interference with an independent report, that was obviously a mistake.
 p1126
 sg8
-g34
+g16
 sg10
 VC.J.
 p1127
@@ -4161,7 +4161,7 @@ sg10
 VC.J.
 p1142
 sg12
-g9
+g16
 sa(dp1143
 g6
 VI gave you the line, who said you could drop it?
@@ -4178,7 +4178,7 @@ g6
 VCoal is the dirtiest energy on the planet. That's worth censoring out of a report?
 p1147
 sg8
-g18
+g19
 sg10
 VC.J.
 p1148
@@ -4189,7 +4189,7 @@ g6
 VWhat wasn't in that report was any mention of clean coal. Any mention of...
 p1150
 sg8
-g18
+g19
 sg10
 VLEO
 p1151
@@ -4222,7 +4222,7 @@ g6
 VClean coal is like saying "healthy botulism," "child-safe plutonium"...
 p1159
 sg8
-g18
+g19
 sg10
 VC.J.
 p1160
@@ -4233,7 +4233,7 @@ g6
 VTell me the alternative, short of getting people to stop using electricity.
 p1162
 sg8
-g18
+g19
 sg10
 VLEO
 p1163
@@ -4244,7 +4244,7 @@ g6
 VI don't know, neither does the EPA, but they're trying to tell the truth and we gagged them, and who gave us the right? Are we surprised our polls are down? We have a responsibilty to the country. We can't just spin any line we make up.
 p1165
 sg8
-g18
+g19
 sg10
 VC.J.
 p1166
@@ -4271,13 +4271,13 @@ sg10
 VC.J.
 p1172
 sg12
-g18
+g9
 sa(dp1173
 g6
 VYou're going to put out a statement in your own name. It's going to say what you should have said in that briefing room, that we stand behind that report.
 p1174
 sg8
-g18
+g19
 sg10
 VLEO
 p1175
@@ -4304,7 +4304,7 @@ sg10
 VLEO
 p1181
 sg12
-g9
+g16
 sa(dp1182
 g6
 VThat's saying I wasn't speaking for this White House.
@@ -4332,7 +4332,7 @@ g6
 VViolence prevention jumped another 30 million in an hour?
 p1189
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1190
@@ -4370,13 +4370,13 @@ sg10
 VBARTLET
 p1199
 sg12
-g9
+g16
 sa(dp1200
 g6
 VDirect request from the First Lady to the members of the HHS Appropriations Subcommittee, sir.
 p1201
 sg8
-g18
+g19
 sg10
 VED
 p1202
@@ -4398,7 +4398,7 @@ g6
 VFirst Lady's office requested it, so they're tripping over each other to fund it.
 p1207
 sg8
-g34
+g16
 sg10
 VED
 p1208
@@ -4420,12 +4420,12 @@ g6
 VThey're cutting almost everything to make room. Bioterror, infectious diseases.
 p1213
 sg8
-g34
+g16
 sg10
 VLARRY
 p1214
 sg12
-g9
+g16
 sa(dp1215
 g6
 VYou want to call the First Lady?
@@ -4469,18 +4469,18 @@ sg10
 VBARTLET
 p1226
 sg12
-g9
+g16
 sa(dp1227
 g6
 VThank you, sir.
 p1228
 sg8
-g18
+g19
 sg10
 VLEO
 p1229
 sg12
-g18
+g19
 sa(dp1230
 g6
 V[without looking] Don't touch that.
@@ -4491,7 +4491,7 @@ sg10
 VDONNA
 p1232
 sg12
-g9
+g16
 sa(dp1233
 g6
 V[without looking] Don't touch that either.
@@ -4502,7 +4502,7 @@ sg10
 VDONNA
 p1235
 sg12
-g9
+g16
 sa(dp1236
 g6
 VPierce.
@@ -4519,7 +4519,7 @@ g6
 VYour family's had a lot of press attention, right?
 p1240
 sg8
-g18
+g19
 sg10
 VJOSH
 p1241
@@ -4563,7 +4563,7 @@ g6
 VHow do you, you know, deal with it?
 p1252
 sg8
-g18
+g19
 sg10
 VJOSH
 p1253
@@ -4607,7 +4607,7 @@ g6
 VSo answer the question.
 p1264
 sg8
-g18
+g19
 sg10
 VJOSH
 p1265
@@ -4618,7 +4618,7 @@ g6
 VLet's just say the biggest enemy of truth isn't the lie, it's the myth.
 p1267
 sg8
-g34
+g16
 sg10
 VRYAN
 p1268
@@ -4645,7 +4645,7 @@ sg10
 VRYAN
 p1274
 sg12
-g9
+g16
 sa(dp1275
 g6
 V[to Toby] Hey.
@@ -4662,18 +4662,18 @@ g6
 VHappy birthday, by the way.
 p1279
 sg8
-g18
+g19
 sg10
 VTOBY
 p1280
 sg12
-g9
+g19
 sa(dp1281
 g6
 VI really don't want you making a big deal out of that.
 p1282
 sg8
-g18
+g19
 sg10
 VJOSH
 p1283
@@ -4689,7 +4689,7 @@ sg10
 VTOBY
 p1286
 sg12
-g9
+g16
 sa(dp1287
 g6
 VGood.
@@ -4700,7 +4700,7 @@ sg10
 VJOSH
 p1289
 sg12
-g9
+g19
 sa(dp1290
 g6
 VI walked the Minority Leader through the message calendar.
@@ -4728,7 +4728,7 @@ g6
 VHe tells me we're not giving Carrick a missle launcher he very much wants.
 p1297
 sg8
-g18
+g19
 sg10
 VTOBY
 p1298
@@ -4739,7 +4739,7 @@ g6
 VThe Minority Leader wants us to cave, right? If he could manage his own caucus, we wouldn't have this provlem.
 p1300
 sg8
-g18
+g19
 sg10
 VJOSH
 p1301
@@ -4772,29 +4772,29 @@ g6
 VWell, sometimes they find other uses for the technology. I-I...
 p1309
 sg8
-g18
+g19
 sg10
 VTOBY
 p1310
 sg12
-g9
+g19
 sa(dp1311
 g6
 VGreat. They can turn it into a toaster that doesn't make toast. This has zero to do with defense technology.
 p1312
 sg8
-g18
+g19
 sg10
 VJOSH
 p1313
 sg12
-g9
+g19
 sa(dp1314
 g6
 VThe Minority Leader thinks we could lose our best chance to get him on the new stimulus package, on our tax bill.
 p1315
 sg8
-g34
+g16
 sg10
 VTOBY
 p1316
@@ -4805,18 +4805,18 @@ g6
 VIt'sa bluff.
 p1318
 sg8
-g34
+g16
 sg10
 VJOSH
 p1319
 sg12
-g9
+g16
 sa(dp1320
 g6
 V49% job approval isn't the time to go calling bluffs. We got to get off this, onto our issues.
 p1321
 sg8
-g18
+g19
 sg10
 VTOBY
 p1322
@@ -4827,7 +4827,7 @@ g6
 VThe stuff that this guy has all ready bilked us for out of a state of about mime people...
 p1324
 sg8
-g18
+g19
 sg10
 VJOSH
 p1325
@@ -4838,7 +4838,7 @@ g6
 VHe's an Idaho Democrat. He's an endangered species. If he needs a little pork...
 p1327
 sg8
-g34
+g16
 sg10
 VTOBY
 p1328
@@ -4854,7 +4854,7 @@ sg10
 VJOSH
 p1331
 sg12
-g9
+g19
 sa(dp1332
 g6
 VIt's low-fat pork.
@@ -4871,7 +4871,7 @@ g6
 VThe Shakespeare in Military Communitues Program. I mean, what's the hell wrong with Hemingway?
 p1336
 sg8
-g34
+g16
 sg10
 VJOSH
 p1337
@@ -4893,7 +4893,7 @@ g6
 VThat's easy for you to say. I'm the one who lost him on stimulus. I'm the one who has to get him on our agenda. I'm the one lacing up concrete shoes on the front page of the Post.
 p1342
 sg8
-g34
+g16
 sg10
 VJOSH
 p1343
@@ -4915,7 +4915,7 @@ g6
 VDonna! I'm fine on Carrick. Do your job, I'll do mine.
 p1348
 sg8
-g18
+g19
 sg10
 VJOSH
 p1349
@@ -4926,7 +4926,7 @@ g6
 VIt stinks in here. It's like working in Moby Dick's gym locker.
 p1351
 sg8
-g18
+g19
 sg10
 VJOSH
 p1352
@@ -4937,7 +4937,7 @@ g6
 VWhat do you expect? There was fish here all night.
 p1354
 sg8
-g18
+g19
 sg10
 VDONNA
 p1355
@@ -4992,7 +4992,7 @@ g6
 VWe're doing pretty well on violence prevention.
 p1369
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1370
@@ -5003,12 +5003,12 @@ g6
 VYes, sir.
 p1372
 sg8
-g18
+g19
 sg10
 VAMY
 p1373
 sg12
-g18
+g19
 sa(dp1374
 g6
 VThey were going to gut it, First Lady really turned it around.
@@ -5025,18 +5025,18 @@ g6
 VI hope you don't... we probably should've run it through, um, Legislative Affairs.
 p1378
 sg8
-g18
+g19
 sg10
 VAMY
 p1379
 sg12
-g9
+g16
 sa(dp1380
 g6
 VNah, I'm not going to have Abbey jump through hoops.
 p1381
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1382
@@ -5058,7 +5058,7 @@ g6
 VHow many calls today?
 p1387
 sg8
-g34
+g16
 sg10
 VBARTLET
 p1388
@@ -5080,7 +5080,7 @@ g6
 VThe First Lady, how many calls did she make to members of the Sumcommittee today?
 p1393
 sg8
-g34
+g16
 sg10
 VBARTLET
 p1394
@@ -5091,7 +5091,7 @@ g6
 VNo calls. She's hiking in the White Mountains. She made no calls, you made them.
 p1396
 sg8
-g34
+g16
 sg10
 VBARTLET
 p1397
@@ -5118,7 +5118,7 @@ sg10
 VBARTLET
 p1403
 sg12
-g9
+g16
 sa(dp1404
 g6
 VI'm telling the Congress...
@@ -5129,13 +5129,13 @@ sg10
 VAMY
 p1406
 sg12
-g9
+g16
 sa(dp1407
 g6
 VMy wife is not a budget appropriation. She's not a line. Don't put words in her mouth. Don't treat her like she's your blank checkbook.
 p1408
 sg8
-g34
+g16
 sg10
 VBARTLET
 p1409
@@ -5146,12 +5146,12 @@ g6
 VDue respect, sir, it's what she'd want.
 p1411
 sg8
-g18
+g19
 sg10
 VAMY
 p1412
 sg12
-g9
+g19
 sa(dp1413
 g6
 VShe has to be here to want things... and you don't have to be here at all.
@@ -5168,7 +5168,7 @@ g6
 VI thought you wanted the economic events shaded green.
 p1417
 sg8
-g18
+g19
 sg10
 VRESEARCHER
 p1418
@@ -5179,7 +5179,7 @@ g6
 VI said blue. Blue. Green is the color of money. This is about people's lives.
 p1420
 sg8
-g18
+g19
 sg10
 VTOBY
 p1421
@@ -5228,7 +5228,7 @@ sg10
 VWILL
 p1433
 sg12
-g9
+g16
 sa(dp1434
 g6
 VWhat did you get exactly?
@@ -5245,7 +5245,7 @@ g6
 VHe offered me a job last night as his chief strategist.
 p1438
 sg8
-g18
+g19
 sg10
 VWILL
 p1439
@@ -5267,7 +5267,7 @@ g6
 VRussell's an empty cowboy suit, you work for the leader of the free world.
 p1444
 sg8
-g18
+g19
 sg10
 VTOBY
 p1445
@@ -5278,7 +5278,7 @@ g6
 VI work for a guy who works for a guy who works for the leader of the free world.
 p1447
 sg8
-g18
+g19
 sg10
 VWILL
 p1448
@@ -5322,7 +5322,7 @@ g6
 VWhat did you tell Russell about the job?
 p1459
 sg8
-g18
+g19
 sg10
 VTOBY
 p1460
@@ -5338,7 +5338,7 @@ sg10
 VWILL
 p1463
 sg12
-g9
+g16
 sa(dp1464
 g6
 VYou're not considering it.
@@ -5371,7 +5371,7 @@ sg10
 VTOBY
 p1472
 sg12
-g9
+g16
 sa(dp1473
 g6
 VHow many months are we going to spend making calendars?
@@ -5388,7 +5388,7 @@ g6
 VYou think I want to be making calendars? You think I like being in a PR dogfight with Congress, writing banner copy for photo ops?!
 p1477
 sg8
-g34
+g16
 sg10
 VTOBY
 p1478
@@ -5432,7 +5432,7 @@ g6
 VOkay, let's talk about the fish. You don't understand this building.
 p1489
 sg8
-g18
+g19
 sg10
 VJOSH
 p1490
@@ -5448,7 +5448,7 @@ sg10
 VAMY
 p1493
 sg12
-g34
+g16
 sa(dp1494
 g6
 VI'm talking about a code, an ethos you don't understand.
@@ -5470,7 +5470,7 @@ sg10
 VAMY
 p1499
 sg12
-g9
+g16
 sa(dp1500
 g6
 VThe Post profile, the "legislative juggernaut," all those anecdotes, all those quotes came from you.
@@ -5487,18 +5487,18 @@ g6
 VHappy birthday.
 p1504
 sg8
-g18
+g19
 sg10
 VAMY
 p1505
 sg12
-g9
+g19
 sa(dp1506
 g6
 VWe don't glorify ourselves. How is the President going to feel when I've got better press than him? How's every punk congressional staffer going to feel when I'm taking victory laps the week after losing a key vote?
 p1507
 sg8
-g18
+g19
 sg10
 VJOSH
 p1508
@@ -5509,7 +5509,7 @@ g6
 VThey'll feel like you're not going to lose the next one.
 p1510
 sg8
-g34
+g16
 sg10
 VAMY
 p1511
@@ -5542,7 +5542,7 @@ g6
 VThe only constituency that matters in this building is the constituency of one--the guy in the round room, and that's who you and I work for.
 p1519
 sg8
-g18
+g19
 sg10
 VJOSH
 p1520
@@ -5553,7 +5553,7 @@ g6
 VI came here to work on issues, not to be part of a messianic cult.
 p1522
 sg8
-g34
+g16
 sg10
 VAMY
 p1523
@@ -5564,7 +5564,7 @@ g6
 VYou serve the issue by serving the man.
 p1525
 sg8
-g34
+g16
 sg10
 VJOSH
 p1526
@@ -5575,7 +5575,7 @@ g6
 VWell, I'm pretty sure the man just revoked my parking privileges.
 p1528
 sg8
-g18
+g19
 sg10
 VAMY
 p1529
@@ -5597,12 +5597,12 @@ g6
 VI'm pretty sure I was just fired by the Preisdent of the Unites States for doing my job.
 p1534
 sg8
-g18
+g19
 sg10
 VAMY
 p1535
 sg12
-g9
+g16
 sa(dp1536
 g6
 VHHS Appropriations.
@@ -5630,7 +5630,7 @@ g6
 VApologize. You got to go apologize.
 p1543
 sg8
-g18
+g19
 sg10
 VJOSH
 p1544
@@ -5646,7 +5646,7 @@ sg10
 VAMY
 p1547
 sg12
-g9
+g19
 sa(dp1548
 g6
 VHang on. Just hang on a second, okay?
@@ -5657,7 +5657,7 @@ sg10
 VJOSH
 p1550
 sg12
-g9
+g16
 sa(dp1551
 g6
 VSenator Carrick just held up another 56 promotions.
@@ -5668,7 +5668,7 @@ sg10
 VDONNA
 p1553
 sg12
-g9
+g16
 sa(dp1554
 g6
 VWhat?
@@ -5696,7 +5696,7 @@ g6
 VUnless the meeting's to strap Chris Carrick to his idiot missile launcher and fling him head first into an ICBM--which he'll miss--then...
 p1561
 sg8
-g34
+g16
 sg10
 VJOSH
 p1562
@@ -5707,7 +5707,7 @@ g6
 VThe Secretary's concerned if this becomes public...
 p1564
 sg8
-g18
+g19
 sg10
 VDONNA
 p1565
@@ -5718,7 +5718,7 @@ g6
 VI'm making it public.
 p1567
 sg8
-g18
+g19
 sg10
 VJOSH
 p1568
@@ -5751,7 +5751,7 @@ g6
 VYou're sure that's a good...?
 p1576
 sg8
-g18
+g19
 sg10
 VDONNA
 p1577
@@ -5762,7 +5762,7 @@ g6
 VI'm calling his bluff. I'm making him crawl down here on his knees. I'll be in the press office.
 p1579
 sg8
-g34
+g16
 sg10
 VJOSH
 p1580
@@ -5773,7 +5773,7 @@ g6
 VSorry about before. You have a future here. We should talk about it.
 p1582
 sg8
-g18
+g19
 sg10
 VTOBY
 p1583
@@ -5789,7 +5789,7 @@ sg10
 VWILL
 p1586
 sg12
-g18
+g9
 sa(dp1587
 g6
 VMy portfolio, the speeches, the day-to-day, I'm going to give it to you.
@@ -5828,7 +5828,7 @@ g6
 VYou're never going to give up the job. You're not capable of giving it up. You could move from Pennsylvania Avenue to the state of Pennslyvania and...
 p1597
 sg8
-g18
+g19
 sg10
 VWILL
 p1598
@@ -5855,7 +5855,7 @@ sg10
 VWILL
 p1604
 sg12
-g9
+g16
 sa(dp1605
 g6
 VWe'll figure it out.
@@ -5866,18 +5866,18 @@ sg10
 VTOBY
 p1607
 sg12
-g34
+g16
 sa(dp1608
 g6
 VI don't want your job.
 p1609
 sg8
-g18
+g19
 sg10
 VWILL
 p1610
 sg12
-g9
+g16
 sa(dp1611
 g6
 VWhy not?
@@ -5888,13 +5888,13 @@ sg10
 VTOBY
 p1613
 sg12
-g9
+g16
 sa(dp1614
 g6
 V'Cause Bartlet's never going to finish the job he started. Name an issue, you're still clawing your way back. Someone has to be able to take the handoff.
 p1615
 sg8
-g18
+g19
 sg10
 VWILL
 p1616
@@ -5905,7 +5905,7 @@ g6
 VYou took the Russell job. This isn't line on a resume. None of us... you don't walk away.
 p1618
 sg8
-g18
+g19
 sg10
 VTOBY
 p1619
@@ -5932,13 +5932,13 @@ sg10
 VTOBY
 p1625
 sg12
-g9
+g16
 sa(dp1626
 g6
 VYour statement on the coal thing?
 p1627
 sg8
-g18
+g19
 sg10
 VLEO
 p1628
@@ -5954,7 +5954,7 @@ sg10
 VC.J.
 p1631
 sg12
-g9
+g16
 sa(dp1632
 g6
 VThere's a typo in the...
@@ -5976,7 +5976,7 @@ sg10
 VC.J.
 p1637
 sg12
-g18
+g19
 sa(dp1638
 g6
 VOkay.
@@ -6004,7 +6004,7 @@ g6
 VI don't like coal any more than you do. But sometime tomorrow, we're going to get the full results of that poll, and I'm going to have to fix the President a drink and tell him his numbers are crumbling--that the dogs don't like the dog food--on the eve of a big budget fight.
 p1645
 sg8
-g18
+g19
 sg10
 VLEO
 p1646
@@ -6020,13 +6020,13 @@ sg10
 VC.J.
 p1649
 sg12
-g9
+g16
 sa(dp1650
 g6
 VWe attack the coal industry, and however many thousand coal miners and what's our answer? Nuclear? Drill on the Arctic? 40% unemployment in West Virginia.
 p1651
 sg8
-g34
+g16
 sg10
 VLEO
 p1652
@@ -6070,7 +6070,7 @@ g6
 VThe day we don't get blamed for their screw ups, that's when we count 'em as independent.
 p1663
 sg8
-g18
+g19
 sg10
 VLEO
 p1664
@@ -6081,12 +6081,12 @@ g6
 VI disagree.
 p1666
 sg8
-g34
+g16
 sg10
 VC.J.
 p1667
 sg12
-g9
+g16
 sa(dp1668
 g6
 VOkay.
@@ -6103,7 +6103,7 @@ g6
 VAnd holding your line makes it a two or three-day story at the least. The whole room thinks we screwed up whether we admit it or not.
 p1672
 sg8
-g34
+g16
 sg10
 VC.J.
 p1673
@@ -6119,7 +6119,7 @@ sg10
 VLEO
 p1676
 sg12
-g9
+g16
 sa(dp1677
 g6
 VI appreciate your apology, but if I'm going to fullfill my duty to the country, I don't just need to know what you're thinking. I need to know that you're listening to me when I say you made a mistake.
@@ -6136,7 +6136,7 @@ g6
 VI am... I'm not apologizing to you. I'm telling you my thinking as a courtesy. But you work for me. When I make a decision, that's the decision. If you can't back it up, don't go in the Briefing Room.
 p1681
 sg8
-g18
+g19
 sg10
 VLEO
 p1682
@@ -6147,7 +6147,7 @@ g6
 VWe're here to serve the country.
 p1684
 sg8
-g34
+g16
 sg10
 VC.J.
 p1685
@@ -6191,7 +6191,7 @@ g6
 VThe Flemish Bloc is gaining in the north.
 p1696
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1697
@@ -6202,12 +6202,12 @@ g6
 VExcuse me, sir?
 p1699
 sg8
-g18
+g19
 sg10
 VAMY
 p1700
 sg12
-g9
+g19
 sa(dp1701
 g6
 VThe Flemish Bloc. The Flemish Bloc, ultra-nationalist in Belgium. Skinheads, really, neo-nazis. They're wearing three-piece suits, speaking in coded discourse now instead of angry chants, and they're gaining in the north. When everyone wears the same suit, how does anyone know which side they're on anymore?
@@ -6251,13 +6251,13 @@ sg10
 VAMY
 p1712
 sg12
-g9
+g16
 sa(dp1713
 g6
 VShe didn't... I didn't talk to Abbey about this. Zoey told me she was hiking.
 p1714
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1715
@@ -6268,7 +6268,7 @@ g6
 VThis building's not very conducive to relationships, sir. I'll call back the members of the Subcommittee before I leave.
 p1717
 sg8
-g18
+g19
 sg10
 VAMY
 p1718
@@ -6279,7 +6279,7 @@ g6
 VTell 'em the First Lady wants violence prevention fully funded.
 p1720
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1721
@@ -6306,7 +6306,7 @@ sg10
 VBARTLET
 p1727
 sg12
-g9
+g19
 sa(dp1728
 g6
 VYou were looking for me?
@@ -6317,13 +6317,13 @@ sg10
 VTOBY
 p1730
 sg12
-g9
+g16
 sa(dp1731
 g6
 VWhat did you want to talk about with the President?
 p1732
 sg8
-g18
+g19
 sg10
 VLEO
 p1733
@@ -6378,18 +6378,18 @@ g6
 VStop protecting him.
 p1747
 sg8
-g18
+g19
 sg10
 VTOBY
 p1748
 sg12
-g9
+g19
 sa(dp1749
 g6
 VIt's my job to protect him. It's your job to get us back on message.
 p1750
 sg8
-g18
+g19
 sg10
 VLEO
 p1751
@@ -6433,7 +6433,7 @@ g6
 VIt matters 'cause I need you doing what you're doing now. [stands] I'm holding this together with scotch tape and baling wire.
 p1762
 sg8
-g34
+g16
 sg10
 VLEO
 p1763
@@ -6444,7 +6444,7 @@ g6
 VWe have an economic policy held together with scotch tape and baling wire. FDR built the middle class in a hundred days. How many days do we even have left?
 p1765
 sg8
-g34
+g16
 sg10
 VTOBY
 p1766
@@ -6466,7 +6466,7 @@ g6
 VHow about fighting for the old one, instead of haggling with Republicans over how much to cut? We created nine million jobs. Now they're disappearing. Outsourcing, downsizing, buyouts. They build T.V.'s in Mexico for a dollar a day, on dirt floors with cardbaord walls...
 p1771
 sg8
-g34
+g16
 sg10
 VTOBY
 p1772
@@ -6477,18 +6477,18 @@ g6
 VAnd that's our fault?
 p1774
 sg8
-g34
+g16
 sg10
 VLEO
 p1775
 sg12
-g9
+g16
 sa(dp1776
 g6
 VIt's on our watch, Leo. Where's our hundred days? Where's our Great Society? Where's our New Frontier? Somebody's got to do what we came here to do. Those jobs aren't coming back. We lose our cave every battle we have with Congress, and we have a calendar, not a plan.
 p1777
 sg8
-g34
+g16
 sg10
 VTOBY
 p1778
@@ -6559,7 +6559,7 @@ sg10
 VLEO
 p1796
 sg12
-g18
+g9
 sa(dp1797
 g6
 VHey, anything from Amy?
@@ -6614,7 +6614,7 @@ sg10
 VJOSH
 p1811
 sg12
-g9
+g16
 sa(dp1812
 g6
 VWhat happened?
@@ -6631,7 +6631,7 @@ g6
 VI think she's been fired--she thinks so. I-I kind of unloaded on her.
 p1816
 sg8
-g18
+g19
 sg10
 VJOSH
 p1817
@@ -6680,7 +6680,7 @@ sg10
 VJOSH
 p1829
 sg12
-g9
+g16
 sa(dp1830
 g6
 VSenator Carrick's in the Roosevelt Room.
@@ -6719,12 +6719,12 @@ g6
 VWell, that was quite a press coup, telling the Idaho papers about my anonymous hold.
 p1840
 sg8
-g34
+g16
 sg10
 VCARRICK
 p1841
 sg12
-g9
+g16
 sa(dp1842
 g6
 VWhat can I do for you?
@@ -6741,7 +6741,7 @@ g6
 VYou know what? Absolutely nothing. I've released the military promotions. I can't defend that to the people of Idaho.
 p1846
 sg8
-g18
+g19
 sg10
 VCARRICK
 p1847
@@ -6752,12 +6752,12 @@ g6
 VI hope that lesson won't be lost when our new stimulus package hits the floor.
 p1849
 sg8
-g18
+g19
 sg10
 VJOSH
 p1850
 sg12
-g18
+g9
 sa(dp1851
 g6
 VOh, I won't be.
@@ -6768,7 +6768,7 @@ sg10
 VCARRICK
 p1853
 sg12
-g9
+g16
 sa(dp1854
 g6
 VGood.
@@ -6779,7 +6779,7 @@ sg10
 VJOSH
 p1856
 sg12
-g9
+g19
 sa(dp1857
 g6
 VJosh, I need one last favor from you.
@@ -6812,7 +6812,7 @@ sg10
 VCARRICK
 p1865
 sg12
-g9
+g16
 sa(dp1866
 g6
 VWhat's this?
@@ -6829,7 +6829,7 @@ g6
 VIt's my letter of resignation from the Democratic Party.
 p1870
 sg8
-g34
+g16
 sg10
 VCARRICK
 p1871
@@ -6845,7 +6845,7 @@ sg10
 VJOSH
 p1874
 sg12
-g9
+g16
 sa(dp1875
 g6
 VI'm running as a Republican in my next election.
@@ -6856,7 +6856,7 @@ sg10
 VCARRICK
 p1877
 sg12
-g9
+g16
 sa(dp1878
 g6
 VYou're switching parties 'cause we won't give you a launcher that doesn't even...
@@ -6867,13 +6867,13 @@ sg10
 VJOSH
 p1880
 sg12
-g9
+g16
 sa(dp1881
 g6
 VThe launcher is a detterant. The launcher says we're serious about perfecting missile defense, so rogue governments don't build missile programs.
 p1882
 sg8
-g18
+g19
 sg10
 VCARRICK
 p1883
@@ -6889,24 +6889,24 @@ sg10
 VJOSH
 p1886
 sg12
-g9
+g16
 sa(dp1887
 g6
 VBuilding it is more important than whether it works. We don't want it to ever have to work.
 p1888
 sg8
-g18
+g19
 sg10
 VCARRICK
 p1889
 sg12
-g9
+g16
 sa(dp1890
 g6
 VWe can't win back the Senate without Idaho. We can't pass the tax bill, the new stimulus package. I'll get you a meeting with Fitzwallace. A meeting with the President.
 p1891
 sg8
-g34
+g16
 sg10
 VJOSH
 p1892
@@ -6972,7 +6972,7 @@ g6
 V[singing] Happy birthday to you Happy birthday to you Happy birthday, dear Josh...
 p1909
 sg8
-g18
+g19
 sg10
 VALL
 p1910

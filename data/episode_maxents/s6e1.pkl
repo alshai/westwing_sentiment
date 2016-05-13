@@ -23,36 +23,36 @@ VKATE
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'negative'
+p13
+sa(dp14
 g6
 VWho's going to know?
-p14
+p15
 sg8
 g9
 sg10
 VBARTLET
-p15
+p16
 sg12
 g9
-sa(dp16
+sa(dp17
 g6
 VPeople at State know; at the Pentagon.
-p17
+p18
 sg8
 g9
 sg10
 VLEO
-p18
+p19
 sg12
 g9
-sa(dp19
+sa(dp20
 g6
 VAnd the Israelis know. IF we try to force them into hosting a summit they may leak it.
-p20
-sg8
-S'negative'
 p21
+sg8
+g13
 sg10
 VKATE
 p22
@@ -68,13 +68,13 @@ sg10
 VABBEY
 p25
 sg12
-g9
+g13
 sa(dp26
 g6
 VHe invited himself to Camp David. What's he going to do next, raid the icebox at the Council of Foreign Relations?
 p27
 sg8
-g21
+g13
 sg10
 VKATE
 p28
@@ -146,7 +146,7 @@ sg10
 VABBEY
 p47
 sg12
-g9
+g31
 sa(dp48
 g6
 VMr. President, this way, please.
@@ -168,7 +168,7 @@ sg10
 VKATE
 p53
 sg12
-g9
+g13
 sa(dp54
 g6
 VI get lots of council, Ms. Harper. What I choose to do with it is my responsibility.
@@ -185,7 +185,7 @@ g6
 VTed Harper called from 60 Minutes, says he's got a Congressional widow on camera demanding the President avenge her husband's death.
 p58
 sg8
-g21
+g13
 sg10
 VCAROL
 p59
@@ -218,12 +218,12 @@ g6
 VAnd what? Defend his tie-died, hippie dippie, blowin'-in-the-wind, peacenik pipe-dream while the grieving widow rends her garments?
 p67
 sg8
-g21
+g13
 sg10
 VC.J.
 p68
 sg12
-g9
+g31
 sa(dp69
 g6
 VYou want me to see if I can get you a couple minutes in the Oval right away?
@@ -328,12 +328,12 @@ g6
 VHe can't be convinced to come down with a nasty bout of the flu?
 p97
 sg8
-g21
+g13
 sg10
 VC.J.
 p98
 sg12
-g9
+g13
 sa(dp99
 g6
 VHe's a pretty healthy guy.
@@ -344,7 +344,7 @@ sg10
 VWILL
 p101
 sg12
-g9
+g31
 sa(dp102
 g6
 VThe President knows, right? You guys are telling him?
@@ -372,7 +372,7 @@ g6
 VThat there is no viable alternative. He's going to have to bomb Palestinians.
 p109
 sg8
-g21
+g13
 sg10
 VWILL
 p110
@@ -410,7 +410,7 @@ sg10
 VALEXANDER
 p119
 sg12
-g9
+g13
 sa(dp120
 g6
 VKhalil Nasan is still in Gaza?
@@ -421,7 +421,7 @@ sg10
 VLEO
 p122
 sg12
-g9
+g31
 sa(dp123
 g6
 VYes, but we've been able to link Nasan's bombing of our Congressional delegation to the Khanjari Martyrs. And the Martyrs are using the Ein Hawa camp near Damascus as their base of operations.
@@ -454,7 +454,7 @@ sg10
 VGEORGE
 p131
 sg12
-g9
+g31
 sa(dp132
 g6
 VWhat are you proposing, General?
@@ -465,13 +465,13 @@ sg10
 VLEO
 p134
 sg12
-g9
+g31
 sa(dp135
 g6
 VSyria and Iran are the primary supporters of the Martyrs. The Lincoln battle group is moving into strike range. We can use Slammer missiles against the Ein Hawa camp and the two terrorist training camps in norther Iran, east of Birjan.
 p136
 sg8
-g21
+g13
 sg10
 VALEXANDER
 p137
@@ -581,7 +581,7 @@ g6
 VAre you suggesting we use the attack on our Congressional delegation as a pretext to attack another country we don't know to be responsible?
 p166
 sg8
-g21
+g13
 sg10
 VBARTLET
 p167
@@ -603,7 +603,7 @@ g6
 VThen what the hell are you suggesting?
 p172
 sg8
-g21
+g13
 sg10
 VBARTLET
 p173
@@ -630,13 +630,13 @@ sg10
 VGEORGE
 p179
 sg12
-g9
+g31
 sa(dp180
 g6
 VI'm not using Admiral Fitzwallace's death and the death of our Congressmen as a pretext to attack another country we don't happen to like.
 p181
 sg8
-g21
+g13
 sg10
 VBARTLET
 p182
@@ -674,7 +674,7 @@ sg10
 VBARTLET
 p191
 sg12
-g9
+g31
 sa(dp192
 g6
 VI'm not bombing half the Middle East just because it's going to make us all feel better.
@@ -707,18 +707,18 @@ sg10
 VBARTLET
 p200
 sg12
-g9
+g13
 sa(dp201
 g6
 VSir, you can't delay any longer. There are no rabbits left in this hat.
 p202
 sg8
-g21
+g13
 sg10
 VLEO
 p203
 sg12
-g9
+g13
 sa(dp204
 g6
 VI'm not prepared to accept that.
@@ -729,7 +729,7 @@ sg10
 VBARTLET
 p206
 sg12
-g9
+g13
 sa(dp207
 g6
 VYou're going to have to, sir.
@@ -751,13 +751,13 @@ sg10
 VBARTLET
 p212
 sg12
-g9
+g13
 sa(dp213
 g6
 VLooks like your boy's got himself into a bit of trouble.
 p214
 sg8
-g21
+g13
 sg10
 VCOLIN
 p215
@@ -768,7 +768,7 @@ g6
 VMy boy?
 p217
 sg8
-g21
+g13
 sg10
 VJOSH
 p218
@@ -790,7 +790,7 @@ g6
 VHe's been President Bartlet for six years; he hasn't been a boy for about 50.
 p223
 sg8
-g21
+g13
 sg10
 VJOSH
 p224
@@ -801,7 +801,7 @@ g6
 VIsraelis are never gonna meet with Farad. Why should they? They've got him surrounded in the West Bank. What does Bartlet think they're going to do, knock on the door of his compound and say, "I'm so sorry about the tanks and stuff, but would you like to pop over to America and have a nice wee chat and sort this out?"?
 p226
 sg8
-g21
+g13
 sg10
 VCOLIN
 p227
@@ -867,12 +867,12 @@ g6
 VThey don't occupy a force to oppress...
 p244
 sg8
-g21
+g13
 sg10
 VCOLIN
 p245
 sg12
-g9
+g13
 sa(dp246
 g6
 VThey're citizen soldiers trying to keep their sisters from getting blown up on a bus.
@@ -922,7 +922,7 @@ g6
 VAnd anyone who thinks the Jews don't after being chased and exiled and persecuted for centuries is either an idiot or a fool, probably both.
 p259
 sg8
-g21
+g13
 sg10
 VJOSH
 p260
@@ -977,7 +977,7 @@ g6
 VAdmiral Fitzwallace was a great man. All Israelis mourn his loss.
 p274
 sg8
-g21
+g13
 sg10
 VGALIT
 p275
@@ -1021,7 +1021,7 @@ g6
 VIsrael was created to be a land free from oppression. Whether Israel is Palestinian, Jewish, Jordanian, or Judean, the people who live in the territories are oppressed: by their own leadership, by the neglect of Arab neighbors, and, yes, by Israel.
 p286
 sg8
-g21
+g13
 sg10
 VBARTLET
 p287
@@ -1169,13 +1169,13 @@ sg10
 VLEO
 p326
 sg12
-g9
+g31
 sa(dp327
 g6
 VYeah. Donna's back in surgery. Something about a pulmonary embolism.
 p328
 sg8
-g21
+g13
 sg10
 VTOBY
 p329
@@ -1213,7 +1213,7 @@ sg10
 VTOBY
 p338
 sg12
-g9
+g13
 sa(dp339
 g6
 VI can call. You don't have to let the President know...
@@ -1224,7 +1224,7 @@ sg10
 VTOBY
 p341
 sg12
-g9
+g13
 sa(dp342
 g6
 VNot today, okay, Toby. I've got enough problems...
@@ -1235,7 +1235,7 @@ sg10
 VLEO
 p344
 sg12
-g9
+g13
 sa(dp345
 g6
 VWhat's the President doing, Leo? A summit? He's already got a Nobel Prize. What's he need a second one for, book ends?
@@ -1296,12 +1296,12 @@ g6
 VThis isn't a partisan issue.
 p361
 sg8
-g21
+g13
 sg10
 VSHEILA
 p362
 sg12
-g9
+g13
 sa(dp363
 g6
 VWe thought a show of unity would be helpful to the White House.
@@ -1345,7 +1345,7 @@ sg10
 VLEO
 p374
 sg12
-g21
+g13
 sa(dp375
 g6
 VHave you been listening to the radio?
@@ -1367,13 +1367,13 @@ sg10
 VTOBY
 p380
 sg12
-g9
+g31
 sa(dp381
 g6
 VThe nation's taking the announcement of these peace talks badly. Many people believe you sent Congressmen into harm's way.
 p382
 sg8
-g21
+g13
 sg10
 VHAFFLEY
 p383
@@ -1450,7 +1450,7 @@ g6
 VMr. President, you have to go on national television, admit your mistake, and retract those invitations. You've insulted these men and their memories. You have to put this summit back into the cereal box it came in.
 p403
 sg8
-g21
+g13
 sg10
 VHAFFLEY
 p404
@@ -1483,7 +1483,7 @@ g6
 VMs. Moss was experiencing shortness of breath and chest pain. Her chest CT revealed a blood clot in her right lung. She asked if she could see you for a moment before we put her under.
 p412
 sg8
-g21
+g13
 sg10
 VDOCTOR
 p413
@@ -1571,7 +1571,7 @@ g6
 VThe strike force can launch in six hours. It's two hours to the targets in Syria, same to Gaza. Air-to-ground smart munitions against both, back on the deck in four hours.
 p436
 sg8
-g21
+g13
 sg10
 VALEXANDER
 p437
@@ -1653,7 +1653,7 @@ sg10
 VLEO
 p458
 sg12
-g21
+g13
 sa(dp459
 g6
 VI encouraged the President to pursue a meeting with Mukarat. I should have anticipated Chairman Farad...
@@ -1664,7 +1664,7 @@ sg10
 VKATE
 p461
 sg12
-g9
+g13
 sa(dp462
 g6
 VDid you bury a mortar shell on the roadside in Gaza two days ago?
@@ -1686,7 +1686,7 @@ sg10
 VKATE
 p467
 sg12
-g9
+g13
 sa(dp468
 g6
 VThe President heard what he wanted to hear and went where he wanted to go. He's over 21. Don't flatter yourself, Commander, you're not changing the course of history.
@@ -1708,13 +1708,13 @@ sg10
 VKATE
 p473
 sg12
-g9
+g13
 sa(dp474
 g6
 VHe doesn't like chaos. We bomb some apartment building in Gaza or a camp in Syria there'll be consequences. And we can't tell him what they're going to be. Will we get drawn into a war in the Middle East? Will suicide bombers be climbing onto buses in Pasaic, New Jersey, instead of Haifa and Tel Aviv?
 p475
 sg8
-g21
+g13
 sg10
 VLEO
 p476
@@ -1752,7 +1752,7 @@ sg10
 VBARTLET
 p485
 sg12
-g9
+g13
 sa(dp486
 g6
 VSir, I think we need to shift the conversation back to the military...
@@ -1824,12 +1824,12 @@ g6
 VNo idea is too stupid or outrageous...
 p505
 sg8
-g21
+g13
 sg10
 VBARTLET
 p506
 sg12
-g9
+g13
 sa(dp507
 g6
 VWe let Chairman Farad come to Camp David...
@@ -1840,7 +1840,7 @@ sg10
 VWILL
 p509
 sg12
-g9
+g13
 sa(dp510
 g6
 VThere's no one else in the region with an interest in ending the violence...
@@ -1851,7 +1851,7 @@ sg10
 VC.J.
 p512
 sg12
-g9
+g13
 sa(dp513
 g6
 V...sticking their necks out...
@@ -1879,12 +1879,12 @@ g6
 VReally stupid ideas?
 p520
 sg8
-g21
+g13
 sg10
 VKATE
 p521
 sg12
-g21
+g13
 sa(dp522
 g6
 VYes, absolutely.
@@ -1901,7 +1901,7 @@ g6
 VWe ignore everything that's happened in the last 24 hours. Yesterday, Farad was cooperating with us, planning to arrest Nasan and the other perpetrators of the CODEL bombing. Then the Israelis surrounded his compound in the West Bank and his people in Gaza refused to arrest Nasan, right?
 p526
 sg8
-g21
+g13
 sg10
 VKATE
 p527
@@ -1917,13 +1917,13 @@ sg10
 VWILL
 p530
 sg12
-g9
+g31
 sa(dp531
 g6
 VSo we hold Farad to his earlier promise. Tell him if he wants a summit that he has to arrest Nasan. Show us and the Israelis he's serious about punishing terrorists.
 p532
 sg8
-g21
+g13
 sg10
 VKATE
 p533
@@ -2011,12 +2011,12 @@ g6
 VYou're right, it's a stupid idea.
 p556
 sg8
-g21
+g13
 sg10
 VTOBY
 p557
 sg12
-g9
+g13
 sa(dp558
 g6
 VWhy?
@@ -2033,7 +2033,7 @@ g6
 VWho cares if he has a phone? He's not going to punish Nasan. He's rounded up terrorists before. He walks them past Al Jazerra for show and then puts them under house arrest in a palace with a squash court and high-speed internet access.
 p562
 sg8
-g21
+g13
 sg10
 VTOBY
 p563
@@ -2060,7 +2060,7 @@ sg10
 VWILL
 p569
 sg12
-g9
+g13
 sa(dp570
 g6
 VHow do you know?
@@ -2071,7 +2071,7 @@ sg10
 VC.J.
 p572
 sg12
-g31
+g9
 sa(dp573
 g6
 VHe won't. Half his followers think Nasan's a hero for blowing up Americans. He's going to turn the guy over to the Great Satan?
@@ -2115,7 +2115,7 @@ sg10
 VBARTLET
 p584
 sg12
-g9
+g31
 sa(dp585
 g6
 VNo.
@@ -2214,7 +2214,7 @@ sg10
 VLEO
 p611
 sg12
-g31
+g9
 sa(dp612
 g6
 VYeah.
@@ -2231,7 +2231,7 @@ g6
 VSir, the Lincoln battle group will be in position sometime tonight. They're awaiting your go order to strike Nasan and the Syrian camps in the morning.
 p616
 sg8
-g21
+g13
 sg10
 VLEO
 p617
@@ -2253,7 +2253,7 @@ g6
 VWe can't wait for Farad. The risk of losing Khalil Nasan is too great. We have intel linking Iran to the Martyrs. It's sketchy in spots, but overall it's a compelling case. I'm recommending you include Iran in the attacks.
 p622
 sg8
-g21
+g13
 sg10
 VLEO
 p623
@@ -2308,7 +2308,7 @@ g6
 VKilling Palestinians isn't going to make us feel safer. They'll kill more of us, we'll kill more of them. It's Russian roulette with a fully-loaded gun.
 p637
 sg8
-g21
+g13
 sg10
 VBARTLET
 p638
@@ -2319,7 +2319,7 @@ g6
 VWe can't allow terrorists to murder our citizens without...
 p640
 sg8
-g21
+g13
 sg10
 VLEO
 p641
@@ -2330,7 +2330,7 @@ g6
 VWhy would they do it? Why would Palestinians murders American government officials? They never have before. They're deliberately provoking us, Leo. They know that we have to retaliate. They've studied us. They want us to overreact.
 p643
 sg8
-g21
+g13
 sg10
 VBARTLET
 p644
@@ -2346,13 +2346,13 @@ sg10
 VLEO
 p647
 sg12
-g9
+g31
 sa(dp648
 g6
 VTell me how this ends, Leo! You want me to start something that may have serious repercussions on American foreign policy for decades, but you don't know how it ends.
 p649
 sg8
-g21
+g13
 sg10
 VBARTLET
 p650
@@ -2374,7 +2374,7 @@ g6
 VOr what? [pause] Let me know when Chairman Farad calls. I'll be in the Residence.
 p655
 sg8
-g21
+g13
 sg10
 VBARTLET
 p656
@@ -2390,18 +2390,18 @@ sg10
 VLEO
 p659
 sg12
-g31
+g9
 sa(dp660
 g6
 VIt's late.
 p661
 sg8
-g21
+g13
 sg10
 VABBEY
 p662
 sg12
-g9
+g13
 sa(dp663
 g6
 VI'm sorry. Did I wake you?
@@ -2412,7 +2412,7 @@ sg10
 VBARTLET
 p665
 sg12
-g31
+g13
 sa(dp666
 g6
 VHmm. No. Still nothing?
@@ -2429,12 +2429,12 @@ g6
 VMaybe I'm wrong.
 p670
 sg8
-g21
+g13
 sg10
 VBARTLET
 p671
 sg12
-g9
+g13
 sa(dp672
 g6
 VMaybe.
@@ -2478,13 +2478,13 @@ sg10
 VABBEY
 p683
 sg12
-g9
+g13
 sa(dp684
 g6
 VI could do what they want; make everyone feel better for a few days. Some nice aerial shots of things blowing up on CNN, a few charred bodies, it'd be a hell of a lot easier.
 p685
 sg8
-g21
+g13
 sg10
 VBARTLET
 p686
@@ -2522,7 +2522,7 @@ sg10
 VABBEY
 p695
 sg12
-g21
+g9
 sa(dp696
 g6
 VWho?
@@ -2561,12 +2561,12 @@ g6
 VFor a moment there I was worried.
 p706
 sg8
-g21
+g13
 sg10
 VABBEY
 p707
 sg12
-g9
+g13
 sa(dp708
 g6
 VHey.
@@ -2632,7 +2632,7 @@ sg10
 VTOBY
 p725
 sg12
-g9
+g31
 sa(dp726
 g6
 VHow the hell do we always get dragged into these things? Why can't I just sit on my patio, barbeque some chicken, and drink my Diet Dr. Pepper in peace. You going to finish those?
@@ -2654,13 +2654,13 @@ sg10
 VTOBY
 p731
 sg12
-g9
+g13
 sa(dp732
 g6
 VDo you ever look around and say if we're the ones in charge, this country's in a hell of a lot of trouble?
 p733
 sg8
-g21
+g13
 sg10
 VC.J.
 p734
@@ -2693,7 +2693,7 @@ g6
 VI'm afraid that's unacceptable, Mr. Chairman. If your security forces were to capture Nasan, we want him turned over to us.
 p742
 sg8
-g21
+g13
 sg10
 VBARTLET
 p743
@@ -2737,7 +2737,7 @@ g6
 VMr. Chairman, capturing Nasan and then turning him over to us would demonstrate to the Israelis and the world that you're tough on terror. That you know the difference between fighting for the Palestinian cause and randomly attacking Americans.
 p754
 sg8
-g21
+g13
 sg10
 VBARTLET
 p755
@@ -2748,7 +2748,7 @@ g6
 VAmericans were killed, Mr. Chairman. This falls under our jurisdiction. Even if you were to detain Nasan, we would ask that you extradite him. [pause] Mr. Chairman?
 p757
 sg8
-g21
+g13
 sg10
 VBARTLET
 p758
@@ -2786,7 +2786,7 @@ sg10
 VBARTLET
 p767
 sg12
-g9
+g13
 sa(dp768
 g6
 VThank you for your time, Mr. Chairman.
@@ -2808,7 +2808,7 @@ sg10
 VC.J.
 p773
 sg12
-g21
+g13
 sa(dp774
 g6
 VMembers of my government? I think he was talking about two sock puppets and a beanie baby.
@@ -2830,7 +2830,7 @@ sg10
 VTOBY
 p779
 sg12
-g9
+g13
 sa(dp780
 g6
 VSounded like he was considering it.
@@ -2847,7 +2847,7 @@ g6
 VHe was distracted, looking up Nasan's number so he can warn him to get the hell out of Gaza.
 p784
 sg8
-g21
+g13
 sg10
 VWILL
 p785
@@ -2858,12 +2858,12 @@ g6
 VThere's no evidence linking Nasan to Farad or his government.
 p787
 sg8
-g21
+g13
 sg10
 VKATE
 p788
 sg12
-g9
+g13
 sa(dp789
 g6
 VThat's only because we haven't interrogated him yet.
@@ -2891,7 +2891,7 @@ g6
 VIf the kaffiat fits...
 p796
 sg8
-g21
+g13
 sg10
 VWILL
 p797
@@ -2924,18 +2924,18 @@ g6
 VWe wait.
 p805
 sg8
-g21
+g13
 sg10
 VBARTLET
 p806
 sg12
-g9
+g13
 sa(dp807
 g6
 VThe Lincoln battle group is almost...
 p808
 sg8
-g21
+g13
 sg10
 VLEO
 p809
@@ -2946,12 +2946,12 @@ g6
 VWe wait, Leo.
 p811
 sg8
-g21
+g13
 sg10
 VBARTLET
 p812
 sg12
-g9
+g13
 sa(dp813
 g6
 VSo you fly halfway around the world at a moment's notice to rush to a woman's beside when the White House is facing off a biblical apocalypse?
@@ -2973,7 +2973,7 @@ sg10
 VJOSH
 p818
 sg12
-g9
+g31
 sa(dp819
 g6
 VPast alliances gone bad or tragically unconsummated love kept at arm's length by puritanical American workplace ethics.
@@ -3006,7 +3006,7 @@ sg10
 VCOLIN
 p827
 sg12
-g21
+g13
 sa(dp828
 g6
 VSo, you're a bagman for the IRA?
@@ -3023,7 +3023,7 @@ g6
 VShe was mad about me, worshipped me, really, and I liked her, but I was off to the University in Dublin and she was going to stay in Belfast, work in a night shop.
 p832
 sg8
-g21
+g13
 sg10
 VCOLIN
 p833
@@ -3039,7 +3039,7 @@ sg10
 VJOSH
 p836
 sg12
-g9
+g13
 sa(dp837
 g6
 VShe wrote to me every single day, and she called weekends and she was always there. And I took her for granted, you know?
@@ -3078,7 +3078,7 @@ g6
 VWe encountered a few difficulties during the procedure. She lost a substantial amount of blood. We had to transfuse and call in a vascular surgeon to repair the tear.
 p847
 sg8
-g21
+g13
 sg10
 VDOCTOR
 p848
@@ -3100,7 +3100,7 @@ g6
 VShe's still unconscious. As soon as she's stable we'll send her off for an MRI. Between the anemia and the low blood pressure she may have suffered hypoxic brain injury. Decreased oxygen delivery can result in brain damage.
 p853
 sg8
-g21
+g13
 sg10
 VDOCTOR
 p854
@@ -3111,12 +3111,12 @@ g6
 VThey had to do some sort of operation and there were complications. I spoke to Josh. He was pretty upset.
 p856
 sg8
-g21
+g13
 sg10
 VLEO
 p857
 sg12
-g9
+g13
 sa(dp858
 g6
 VCan you get me Donna's parents?
@@ -3193,7 +3193,7 @@ sg10
 VLEO
 p878
 sg12
-g9
+g13
 sa(dp879
 g6
 VHouse was 317 to 116; Senate was 62 to 37. [reading] 'Whereas acts of treacherous and unprovoked violence have been committed against United States citizens.'
@@ -3215,7 +3215,7 @@ sg10
 VLEO
 p884
 sg12
-g9
+g13
 sa(dp885
 g6
 VThat's gonna be all of it, really. [reading] 'Whereas an action further threatens the national security of these United States, and there can be no meaningful peace in the Middle East so long as such acts are sanctioned and committed.'
@@ -3248,7 +3248,7 @@ sg10
 VTOBY
 p893
 sg12
-g9
+g31
 sa(dp894
 g6
 V'The President has both the authority and the imperative'?
@@ -3259,24 +3259,24 @@ sg10
 VLEO
 p896
 sg12
-g9
+g31
 sa(dp897
 g6
 VThat doesn't sound so bad.
 p898
 sg8
-g21
+g13
 sg10
 VCHARLIE
 p899
 sg12
-g9
+g13
 sa(dp900
 g6
 VIt's the Oxford Debating Society's way of telling the President to get off his ass and do something, you feckless wimp.
 p901
 sg8
-g21
+g13
 sg10
 VTOBY
 p902
@@ -3369,7 +3369,7 @@ sg10
 VTOBY
 p926
 sg12
-g9
+g13
 sa(dp927
 g6
 V'Both the authority and the imperative'?
@@ -3380,7 +3380,7 @@ sg10
 VBARTLET
 p929
 sg12
-g9
+g31
 sa(dp930
 g6
 VYes, sir.
@@ -3435,7 +3435,7 @@ sg10
 VBARTLET
 p944
 sg12
-g9
+g13
 sa(dp945
 g6
 VI would have gone with the blue, sir.
@@ -3446,13 +3446,13 @@ sg10
 VKATE
 p947
 sg12
-g9
+g31
 sa(dp948
 g6
 VCharlie, get the Prime Minister on the phone. Ms. Harper, head on in and look unhappy.
 p949
 sg8
-g21
+g13
 sg10
 VBARTLET
 p950
@@ -3474,7 +3474,7 @@ g6
 VLeo, head down to the Sit Room and tell the generals to keep their pistols in there pockets for the time being. You don't believe in this, Leo, and they're not going to want to do it. I can't have them picking up any signals from you that we disagree.
 p955
 sg8
-g21
+g13
 sg10
 VBARTLET
 p956
@@ -3540,7 +3540,7 @@ g6
 VThey can't tell if there's neurological damage for a couple of days.
 p973
 sg8
-g21
+g13
 sg10
 VJOSH
 p974
@@ -3589,7 +3589,7 @@ sg10
 VJOSH
 p986
 sg12
-g9
+g13
 sa(dp987
 g6
 VTurn it off know, sir.
@@ -3600,7 +3600,7 @@ sg10
 VNURSE
 p989
 sg12
-g9
+g31
 sa(dp990
 g6
 VOK, sure, Lieutenant.
@@ -3611,7 +3611,7 @@ sg10
 VJOSH
 p992
 sg12
-g21
+g31
 sa(dp993
 g6
 VNurse Ratchett. I got to hang up. I'll call back in a couple hours.
@@ -3622,7 +3622,7 @@ sg10
 VJOSH
 p995
 sg12
-g9
+g13
 sa(dp996
 g6
 VThe Palestinian Authority has detained Khalil Nasan and is prepared to turn him over to our FBI.
@@ -3688,7 +3688,7 @@ sg10
 VBARTLET
 p1013
 sg12
-g31
+g9
 sa(dp1014
 g6
 VMadame Ambassador.
@@ -3743,7 +3743,7 @@ sg10
 VKATE
 p1028
 sg12
-g9
+g13
 sa(dp1029
 g6
 VEver been on Marine One?
@@ -3765,7 +3765,7 @@ sg10
 VKATE
 p1034
 sg12
-g9
+g13
 sa(dp1035
 g6
 VYou like helicopters?
@@ -3776,7 +3776,7 @@ sg10
 VTOBY
 p1037
 sg12
-g9
+g13
 sa(dp1038
 g6
 VNo, not really. I get airsick.
@@ -3787,7 +3787,7 @@ sg10
 VKATE
 p1040
 sg12
-g9
+g13
 sa(dp1041
 g6
 VOkay, you can sit with Will.
@@ -3826,12 +3826,12 @@ g6
 VYou still think this is a mistake?
 p1051
 sg8
-g21
+g13
 sg10
 VBARTLET
 p1052
 sg12
-g9
+g31
 sa(dp1053
 g6
 VYes, sir, I do.
@@ -3875,7 +3875,7 @@ sg10
 VBARTLET
 p1064
 sg12
-g9
+g31
 sa(dp1065
 g6
 VWhat about Iran?
@@ -3908,7 +3908,7 @@ sg10
 VLEO
 p1073
 sg12
-g31
+g9
 sa(dp1074
 g6
 VWill Bailey.
@@ -3930,13 +3930,13 @@ sg10
 VWILL
 p1079
 sg12
-g9
+g31
 sa(dp1080
 g6
 VThe President loves a good camp fire. I should warn you: all his horror stories are about the Crusades.
 p1081
 sg8
-g21
+g13
 sg10
 VC.J.
 p1082
@@ -4007,7 +4007,7 @@ sg10
 VLEO
 p1100
 sg12
-g9
+g13
 sa(dp1101
 g6
 VWe're not going to the Cozy Inn?
@@ -4106,7 +4106,7 @@ sg10
 VKATE
 p1127
 sg12
-g9
+g13
 sa(dp1128
 g6
 VI only have legs for five miles.
@@ -4134,7 +4134,7 @@ g6
 VSo much for permanent press. The prep groups about to start up on the lower porch.
 p1135
 sg8
-g21
+g13
 sg10
 VKATE
 p1136
@@ -4178,7 +4178,7 @@ g6
 VYou're making a mess of it. Give me that. What's the sticking point?
 p1147
 sg8
-g21
+g13
 sg10
 VABBEY
 p1148
@@ -4205,7 +4205,7 @@ sg10
 VCHARLIE
 p1154
 sg12
-g9
+g13
 sa(dp1155
 g6
 VOkay.
@@ -4271,7 +4271,7 @@ sg10
 VBARTLET
 p1172
 sg12
-g9
+g31
 sa(dp1173
 g6
 VMr. President.
@@ -4304,7 +4304,7 @@ sg10
 VGALIT
 p1181
 sg12
-g31
+g9
 sa(dp1182
 g6
 VWhere are we, General?
@@ -4403,7 +4403,7 @@ sg10
 VBARTLET
 p1208
 sg12
-g9
+g31
 sa(dp1209
 g6
 VMr. President.
@@ -4436,7 +4436,7 @@ sg10
 VBARTLET
 p1217
 sg12
-g9
+g31
 sa(dp1218
 g6
 VThey're 30 minutes out, sir. Do we have the go? That's a go. You going up to Camp David later?
@@ -4469,7 +4469,7 @@ sg10
 VALEXANDER
 p1226
 sg12
-g9
+g31
 sa(dp1227
 g6
 VLadies and Gentlemen, thank you for coming.
@@ -4535,5 +4535,5 @@ sg10
 VJOSH
 p1244
 sg12
-g21
+g13
 sas.

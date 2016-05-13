@@ -23,14 +23,14 @@ VPILOT
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'positive'
+p13
+sa(dp14
 g6
 VRoger One. Operation is in heavy contact at Bravo Romeo 945374. They need FAC ASAP. Fox Mike 45.8.
-p14
-sg8
-S'positive'
 p15
+sg8
+g13
 sg10
 VPILOT
 p16
@@ -41,18 +41,18 @@ g6
 VComing up on your wing, lead. You drawing targets?
 p18
 sg8
-g15
+g13
 sg10
 VPILOT
 p19
 sg12
-g9
+g13
 sa(dp20
 g6
 VRoger, two. First drop's just beyond the tree line.
 p21
 sg8
-g15
+g13
 sg10
 VPILOT
 p22
@@ -68,7 +68,7 @@ sg10
 VPILOT
 p25
 sg12
-g15
+g13
 sa(dp26
 g6
 VKeep up your speed. Don't stop.
@@ -79,52 +79,52 @@ sg10
 VPILOT
 p28
 sg12
-g9
-sa(dp29
+S'negative'
+p29
+sa(dp30
 g6
 VThey just salvoed.
-p30
+p31
 sg8
 g9
 sg10
 VPILOT
-p31
+p32
 sg12
-g9
-sa(dp32
+g29
+sa(dp33
 g6
 VLocked on target.
-p33
+p34
 sg8
 g9
 sg10
 VPILOT
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 VRaven two locked on target.
-p36
+p37
 sg8
 g9
 sg10
 VPILOT
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VWe've been hit.
-p39
-sg8
-S'negative'
 p40
+sg8
+g29
 sg10
 VPILOT
 p41
 sg12
-g9
+g29
 sa(dp42
 g6
 VFire light's on. Can you see, two?
@@ -152,7 +152,7 @@ g6
 VWe've lost hydraulics.
 p49
 sg8
-g40
+g29
 sg10
 VPILOT
 p50
@@ -174,7 +174,7 @@ g6
 VOkay, okay, let's try to forget for a moment his success in the private sector creating jobs and generating enormous tax revenues the President and I get to fool around with. And let's talk about his commitment to his community; Chairman of the Board of University Medical Center, the Opera Society and Symphony, although I suspect the opera thing is more Sally. CEO and Chairman of Mueller-Wright Aeronautics and this year's Chicago Business Conference Humanitarian of the Year. The finest man that I have ever had the great privilege to call my friend, your own Kenneth Sean O'Neal.
 p55
 sg8
-g15
+g13
 sg10
 VLEO
 p56
@@ -190,7 +190,7 @@ sg10
 VLEO
 p59
 sg12
-g9
+g29
 sa(dp60
 g6
 VBeth's expecting again, and Sandy is Sandy.
@@ -201,7 +201,7 @@ sg10
 VSALLY
 p62
 sg12
-g9
+g29
 sa(dp63
 g6
 VHow's Ramses coming along?
@@ -234,13 +234,13 @@ sg10
 VLEO
 p71
 sg12
-g9
+g13
 sa(dp72
 g6
 VSaving it from democracy's more what it feels like. I'll see you on Thursday.
 p73
 sg8
-g15
+g13
 sg10
 VLEO
 p74
@@ -267,7 +267,7 @@ sg10
 VBARTLET
 p80
 sg12
-g9
+g29
 sa(dp81
 g6
 VOf course you do.
@@ -328,7 +328,7 @@ g6
 VCharlie. And when am I supposed to find time to sit for some cut-rate Ruebens while he angles me just so to catch the late afternoon light?
 p97
 sg8
-g40
+g29
 sg10
 VBARTLET
 p98
@@ -350,7 +350,7 @@ g6
 VExcuse me, Mr. President. Mrs. Bartlet, sorry to bother you.
 p103
 sg8
-g40
+g29
 sg10
 VCHARLIE
 p104
@@ -394,12 +394,12 @@ g6
 VSorry to disturb you, sir.
 p115
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p116
 sg12
-g9
+g13
 sa(dp117
 g6
 VWhat's happened?
@@ -416,7 +416,7 @@ g6
 VA Navy E-2 Hawkeye providing command and control for the Carl Vinsen Carrier Battle Group went down in the Sea of Japan.
 p121
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p122
@@ -438,7 +438,7 @@ g6
 VYes, sir. We believe so. We're picking up signals from four of their five GPS locator beacons.
 p127
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p128
@@ -476,7 +476,7 @@ sg10
 VBARTLET
 p137
 sg12
-g40
+g9
 sa(dp138
 g6
 VSomewhere north of Kimch'ack, 300 kilometers northeast of P'yongyang, in the Republic of North Korea.
@@ -537,7 +537,7 @@ g6
 VWe've located four of the five crew members and identified two large pieces of wreckage a mile off the coast.
 p154
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p155
@@ -581,7 +581,7 @@ g6
 VLay low, stay out of sight, wait for us to come get them.
 p166
 sg8
-g40
+g29
 sg10
 VLEO
 p167
@@ -592,7 +592,7 @@ g6
 VWe can't go get them. Sending a Special Forces covert retrieval team into North Korea will be seen as an act of war.
 p169
 sg8
-g40
+g29
 sg10
 VBARROW
 p170
@@ -603,7 +603,7 @@ g6
 VWe're still at war with North Korea. We never signed an armistice.
 p172
 sg8
-g40
+g29
 sg10
 VLEO
 p173
@@ -614,7 +614,7 @@ g6
 VIf they capture our people, they'll be held as POWs. Or worse, they'll deny they even have them.
 p175
 sg8
-g40
+g29
 sg10
 VALEXANDER
 p176
@@ -625,7 +625,7 @@ g6
 VWe can negotiate for their safe return.
 p178
 sg8
-g15
+g13
 sg10
 VBARROW
 p179
@@ -636,12 +636,12 @@ g6
 VCan you guarantee they'll negotiate?
 p181
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p182
 sg12
-g9
+g13
 sa(dp183
 g6
 VCan you guarantee you can go get them without starting another war?
@@ -658,7 +658,7 @@ g6
 VDo we have any way of confirming that they're still alive?
 p187
 sg8
-g15
+g13
 sg10
 VBARTLET
 p188
@@ -669,7 +669,7 @@ g6
 VThey were in the water, now they're on land.
 p190
 sg8
-g15
+g13
 sg10
 VMCGILL
 p191
@@ -691,7 +691,7 @@ g6
 VWe're scrambling reconnaissance out of Okinawa and Osan. Should be over the crash site in three hours.
 p196
 sg8
-g40
+g29
 sg10
 VALEXANDER
 p197
@@ -707,18 +707,18 @@ sg10
 VBARTLET
 p200
 sg12
-g15
+g9
 sa(dp201
 g6
 VThank you, sir.
 p202
 sg8
-g15
+g13
 sg10
 VALL
 p203
 sg12
-g15
+g13
 sa(dp204
 g6
 VLast night's summaries, the daybook, press guidance from the NSC and the policy shops, State department cables. Legislative Affairs says a new amendment is moving through Ways and Means. Congressman Wendt wants a tax cut for stay-at-home moms.
@@ -735,18 +735,18 @@ g6
 VToo late to slip in incentives for stay-at-home Congressmen?
 p208
 sg8
-g40
+g29
 sg10
 VC.J.
 p209
 sg12
-g9
+g29
 sa(dp210
 g6
 VThe President's flying to Wendt's district in South Carolina on Saturday. They want you to read the guidance before the gaggle. Think it might come up.
 p211
 sg8
-g15
+g13
 sg10
 VCAROL
 p212
@@ -828,7 +828,7 @@ sg10
 VC.J.
 p233
 sg12
-g9
+g29
 sa(dp234
 g6
 VHe's in town and he called.
@@ -872,7 +872,7 @@ sg10
 VC.J.
 p245
 sg12
-g9
+g29
 sa(dp246
 g6
 VNot anymore.
@@ -883,18 +883,18 @@ sg10
 VCAROL
 p248
 sg12
-g9
+g29
 sa(dp249
 g6
 VHe and Katie split up?
 p250
 sg8
-g40
+g29
 sg10
 VC.J.
 p251
 sg12
-g40
+g29
 sa(dp252
 g6
 VKatie's living in Portland with an orthodontist.
@@ -905,7 +905,7 @@ sg10
 VCAROL
 p254
 sg12
-g9
+g13
 sa(dp255
 g6
 VReally?
@@ -944,7 +944,7 @@ g6
 VTo make fun of you, I think.
 p265
 sg8
-g15
+g13
 sg10
 VCAROL
 p266
@@ -988,7 +988,7 @@ g6
 VI'm going to read the bill and supporting materials now.
 p277
 sg8
-g15
+g13
 sg10
 VC.J.
 p278
@@ -999,7 +999,7 @@ g6
 VWhat if you just kick up a cloud of dust about the revenue impact and mention he's the Darth Vader of child care?
 p280
 sg8
-g40
+g29
 sg10
 VJOSH
 p281
@@ -1010,7 +1010,7 @@ g6
 VWhat if I take a minute to read the bill and supporting materials?
 p283
 sg8
-g15
+g13
 sg10
 VC.J.
 p284
@@ -1021,7 +1021,7 @@ g6
 VWe're already rolling over on the tax side. The indexing provision...
 p286
 sg8
-g40
+g29
 sg10
 VJOSH
 p287
@@ -1032,7 +1032,7 @@ g6
 VCan I please take a moment to read the bill and supporting materials?
 p289
 sg8
-g15
+g13
 sg10
 VC.J.
 p290
@@ -1048,7 +1048,7 @@ sg10
 VC.J.
 p293
 sg12
-g9
+g13
 sa(dp294
 g6
 VWe think you should go on The Taylor Reid Show.
@@ -1098,12 +1098,12 @@ g6
 VThe Washington Wire has Tyson Foods offering you a lifetime supply of wings and thighs if you'll do a print ad for whole fryers.
 p307
 sg8
-g15
+g13
 sg10
 VJOSH
 p308
 sg12
-g9
+g13
 sa(dp309
 g6
 VAnd the Reliable Source notes that the Oval Room...
@@ -1114,13 +1114,13 @@ sg10
 VTOBY
 p311
 sg12
-g9
+g29
 sa(dp312
 g6
 VYour favorite restaurant.
 p313
 sg8
-g15
+g13
 sg10
 VJOSH
 p314
@@ -1131,7 +1131,7 @@ g6
 V... has a new menu item - an ungodly combination of chicken, avocado, and poached egg called "The C.J. Cregg Egg."
 p316
 sg8
-g40
+g29
 sg10
 VTOBY
 p317
@@ -1142,7 +1142,7 @@ g6
 VYou're enjoying this, aren't you?
 p319
 sg8
-g15
+g13
 sg10
 VC.J.
 p320
@@ -1164,12 +1164,12 @@ g6
 VYou could wear a chicken suit.
 p325
 sg8
-g40
+g29
 sg10
 VTOBY
 p326
 sg12
-g9
+g29
 sa(dp327
 g6
 VTake him even semi-seriously, he'll lay off and find another cluck to pluck.
@@ -1230,7 +1230,7 @@ g6
 VIt's pretty narrowly drawn, actually. Not the worst thing. She see it last night?
 p343
 sg8
-g15
+g13
 sg10
 VWILL
 p344
@@ -1246,7 +1246,7 @@ sg10
 VC.J.
 p347
 sg12
-g9
+g13
 sa(dp348
 g6
 VShe doesn't know?
@@ -1257,7 +1257,7 @@ sg10
 VWILL
 p350
 sg12
-g9
+g29
 sa(dp351
 g6
 VKnow what?
@@ -1274,7 +1274,7 @@ g6
 VTaylor Reid was talking about your spin on the decline of manufacturing jobs and he said...
 p355
 sg8
-g40
+g29
 sg10
 VJOSH
 p356
@@ -1351,7 +1351,7 @@ g6
 VI need a clean shirt. What happened to the one I brought in the other day?
 p376
 sg8
-g15
+g13
 sg10
 VLEO
 p377
@@ -1395,29 +1395,29 @@ g6
 VNow you're mending my clothes?
 p388
 sg8
-g15
+g13
 sg10
 VLEO
 p389
 sg12
-g9
+g13
 sa(dp390
 g6
 VYou want some breakfast?
 p391
 sg8
-g15
+g13
 sg10
 VMARGARET
 p392
 sg12
-g9
+g13
 sa(dp393
 g6
 VI want a clean shirt.
 p394
 sg8
-g15
+g13
 sg10
 VLEO
 p395
@@ -1439,7 +1439,7 @@ g6
 VYou still on good terms with Hunt?
 p400
 sg8
-g15
+g13
 sg10
 VLEO
 p401
@@ -1483,7 +1483,7 @@ g6
 VThe chopper Mueller-Wright's building for the Army?
 p412
 sg8
-g15
+g13
 sg10
 VJOSH
 p413
@@ -1554,7 +1554,7 @@ sg10
 VJOSH
 p431
 sg12
-g9
+g13
 sa(dp432
 g6
 VThe President's headed down to his district on Saturday.
@@ -1571,23 +1571,23 @@ g6
 VYeah, I don't think the timing's accidental.
 p436
 sg8
-g40
+g29
 sg10
 VJOSH
 p437
 sg12
-g9
+g29
 sa(dp438
 g6
 VOkay, pull together a briefing, and I'll get you a few minutes with the President.
 p439
 sg8
-g15
+g13
 sg10
 VLEO
 p440
 sg12
-g9
+g13
 sa(dp441
 g6
 VDonna! Can you see if Senator Hunt's office can find me a couple minutes this morning? Is Jimmy Olsen with us today?
@@ -1637,7 +1637,7 @@ g6
 VRepublican from the South Carolina Second, but you were close. He introduced an amendment to use the tax code to subsidize stay-at-home moms.
 p454
 sg8
-g40
+g29
 sg10
 VJOSH
 p455
@@ -1648,18 +1648,18 @@ g6
 VThat's interesting.
 p457
 sg8
-g15
+g13
 sg10
 VRYAN
 p458
 sg12
-g9
+g13
 sa(dp459
 g6
 VNo, not really. He kills child care proposals, and tries to get us to print the Ten Commandments on the back of the two-dollar bill.
 p460
 sg8
-g15
+g13
 sg10
 VJOSH
 p461
@@ -1703,7 +1703,7 @@ g6
 VNo, I'm going to brief the President and take credit for all your hard work, but you get to come.
 p472
 sg8
-g15
+g13
 sg10
 VJOSH
 p473
@@ -1719,7 +1719,7 @@ sg10
 VRYAN
 p476
 sg12
-g9
+g13
 sa(dp477
 g6
 VJoint Tax Committee.
@@ -1752,13 +1752,13 @@ sg10
 VDONNA
 p485
 sg12
-g9
+g13
 sa(dp486
 g6
 VYou want to spend the day reading mind-numbing spreadsheets?
 p487
 sg8
-g15
+g13
 sg10
 VJOSH
 p488
@@ -1780,7 +1780,7 @@ g6
 VWell, channel your Presidential disappointment into getting me five minutes with Matt Hunt, okay? Please?
 p493
 sg8
-g40
+g29
 sg10
 VJOSH
 p494
@@ -1791,7 +1791,7 @@ g6
 VThere's no activity of any kind in the crew's location. No vehicles, no movement or troops or equipment. The Hook 112 receivers indicate our people are in this densely wooded area here. There is, however, extraordinary activity out to sea in the general vicinity of the crash site.
 p496
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p497
@@ -1807,7 +1807,7 @@ sg10
 VLEO
 p500
 sg12
-g40
+g29
 sa(dp501
 g6
 VIt's hard to say. Right now, it looks as if they're assuming no one got out.
@@ -1835,7 +1835,7 @@ g6
 VA four-man SEAL team will HALO drop over the crash site under cover of darkness.
 p508
 sg8
-g40
+g29
 sg10
 VMCGILL
 p509
@@ -1857,7 +1857,7 @@ g6
 VThey jump out at 40,000 feet, deploy their chutes at 2,000 feet.
 p514
 sg8
-g15
+g13
 sg10
 VLEO
 p515
@@ -1868,7 +1868,7 @@ g6
 VThey'll gather the crew, get them into a Zodiac, and head back out to seas 12 miles due east where they'll be met by a Super Sea Stallion rescue chopper. The Sea Stallion will then fly them east 200 miles to the USS Cowpens.
 p517
 sg8
-g15
+g13
 sg10
 VMCGILL
 p518
@@ -1890,18 +1890,18 @@ g6
 VYes, sir.
 p523
 sg8
-g15
+g13
 sg10
 VMCGILL
 p524
 sg12
-g15
+g13
 sa(dp525
 g6
 VAnd if they run into resistance from the North Koreans, they'll start shooting?
 p526
 sg8
-g40
+g29
 sg10
 VBARROW
 p527
@@ -1923,7 +1923,7 @@ g6
 VMr. President, if the North Koreans discover armed American soldiers on Korean soil...
 p532
 sg8
-g40
+g29
 sg10
 VBARROW
 p533
@@ -1956,7 +1956,7 @@ g6
 VWe don't leave our people in harm's way, Mr. Barrow. We bring 'em home.
 p541
 sg8
-g40
+g29
 sg10
 VLEO
 p542
@@ -1983,7 +1983,7 @@ sg10
 VALL
 p548
 sg12
-g15
+g9
 sa(dp549
 g6
 VThe senator will see you now Mr. Lyman.
@@ -2005,13 +2005,13 @@ sg10
 VJOSH
 p554
 sg12
-g9
+g13
 sa(dp555
 g6
 VAs the years go by, I want my sports with a little more leverage, like, say, a racquet.
 p556
 sg8
-g15
+g13
 sg10
 VJOSH
 p557
@@ -2027,7 +2027,7 @@ sg10
 VHUNT
 p560
 sg12
-g15
+g9
 sa(dp561
 g6
 VI don't know if my ego could take another shellacking like last time.
@@ -2088,7 +2088,7 @@ g6
 VThe upgrades are all subcontractor parts, and the reactive armor was a requirement in the initial RFP.
 p577
 sg8
-g15
+g13
 sg10
 VHUNT
 p578
@@ -2121,7 +2121,7 @@ g6
 VWhat branch of the service did you serve in? I've forgotten. Why are you here? Kenny O'Neal pick up the phone and call Leo?
 p586
 sg8
-g40
+g29
 sg10
 VHUNT
 p587
@@ -2132,7 +2132,7 @@ g6
 VWhat's your real concern here, Senator? That none of the Ramses project subcontractors are from Arizona?
 p589
 sg8
-g15
+g13
 sg10
 VJOSH
 p590
@@ -2143,7 +2143,7 @@ g6
 VYou tell Leo that the Armed Services Committee is going to exercise its oversight prerogative. Mr. O'Neal is just going to have to wait.
 p592
 sg8
-g40
+g29
 sg10
 VHUNT
 p593
@@ -2198,18 +2198,18 @@ g6
 VExcuse me, I hope I'm not interrupting.
 p607
 sg8
-g15
+g13
 sg10
 VABBEY
 p608
 sg12
-g9
+g29
 sa(dp609
 g6
 VOh, no ma'am. Come on in. Carol's just trying to get me excited about an old beau.
 p610
 sg8
-g15
+g13
 sg10
 VC.J.
 p611
@@ -2247,7 +2247,7 @@ sg10
 VCAROL
 p620
 sg12
-g9
+g13
 sa(dp621
 g6
 VSold.
@@ -2269,13 +2269,13 @@ sg10
 VC.J.
 p626
 sg12
-g15
+g13
 sa(dp627
 g6
 VFine. I just wanted to give you a heads-up, in case anyone mentions it a press briefing. I'm going to start volunteering.
 p628
 sg8
-g40
+g29
 sg10
 VABBEY
 p629
@@ -2291,7 +2291,7 @@ sg10
 VC.J.
 p632
 sg12
-g9
+g13
 sa(dp633
 g6
 VAt the Washington Free Clinic.
@@ -2324,13 +2324,13 @@ sg10
 VABBEY
 p641
 sg12
-g40
+g29
 sa(dp642
 g6
 VI'm sorry, ma'am. Are you licensed to practice medicine again?
 p643
 sg8
-g15
+g13
 sg10
 VC.J.
 p644
@@ -2374,7 +2374,7 @@ g6
 VIt'll have to be a call. Canton's in Seattle, NAACP convention. What do you need Canton for?
 p655
 sg8
-g15
+g13
 sg10
 VWILL
 p656
@@ -2385,12 +2385,12 @@ g6
 VHunt's threatening to bottle up the Ramses thing. I need a Democrat on Armed Services to run interference.
 p658
 sg8
-g40
+g29
 sg10
 VJOSH
 p659
 sg12
-g9
+g29
 sa(dp660
 g6
 VI've been thinking about this Wendt amendment. Maybe we should give it another look.
@@ -2418,12 +2418,12 @@ g6
 VMight not be such a bad thing.
 p667
 sg8
-g40
+g29
 sg10
 VWILL
 p668
 sg12
-g9
+g29
 sa(dp669
 g6
 VFor the floor wax industry, maybe.
@@ -2500,13 +2500,13 @@ sg10
 VWILL
 p689
 sg12
-g9
+g29
 sa(dp690
 g6
 VYou're saying Jeffrey Dahmer's only problem was day care?
 p691
 sg8
-g40
+g29
 sg10
 VJOSH
 p692
@@ -2517,7 +2517,7 @@ g6
 VWe're always harping about the root causes of crime and violence.
 p694
 sg8
-g40
+g29
 sg10
 VRYAN
 p695
@@ -2572,7 +2572,7 @@ g6
 VThat's the pilot confirming the North Korean lights below him.
 p709
 sg8
-g15
+g13
 sg10
 VMCGILL
 p710
@@ -2583,7 +2583,7 @@ g6
 VThey're waiting for your go, sir.
 p712
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p713
@@ -2594,18 +2594,18 @@ g6
 VThat's affirmative.
 p715
 sg8
-g15
+g13
 sg10
 VMCGILL
 p716
 sg12
-g9
+g13
 sa(dp717
 g6
 VI think it's broken. Oh! You got to go. I'll be okay.
 p718
 sg8
-g40
+g29
 sg10
 VLEO
 p719
@@ -2632,7 +2632,7 @@ sg10
 VLEO
 p725
 sg12
-g9
+g13
 sa(dp726
 g6
 VLeo? You got a minute?
@@ -2654,7 +2654,7 @@ sg10
 VLEO
 p731
 sg12
-g40
+g29
 sa(dp732
 g6
 VHunt isn't going to back off.
@@ -2665,13 +2665,13 @@ sg10
 VJOSH
 p734
 sg12
-g9
+g29
 sa(dp735
 g6
 VWhat's his problem?
 p736
 sg8
-g40
+g29
 sg10
 VLEO
 p737
@@ -2698,13 +2698,13 @@ sg10
 VLEO
 p743
 sg12
-g9
+g29
 sa(dp744
 g6
 VI tracked down Dave Canton. Asked him what had the Chairman so riled up. He said Mueller-Wright circumvented DoD protocol to get the deal approved.
 p745
 sg8
-g15
+g13
 sg10
 VJOSH
 p746
@@ -2715,7 +2715,7 @@ g6
 VThere are thousands of procurement regs over at DoD. If somebody at Muller-Wright forgot to do some due diligence, they'll sort it out.
 p748
 sg8
-g15
+g13
 sg10
 VLEO
 p749
@@ -2731,7 +2731,7 @@ sg10
 VJOSH
 p752
 sg12
-g9
+g29
 sa(dp753
 g6
 VOver an AOA?
@@ -2742,7 +2742,7 @@ sg10
 VLEO
 p755
 sg12
-g9
+g13
 sa(dp756
 g6
 VCanton says Ken O'Neal is going to be the first witness subpoenaed.
@@ -2781,7 +2781,7 @@ g6
 VYou worked for Mueller-Wright. If they're involved in procurement irregularities, any attempt on your part to impede a Senate...
 p766
 sg8
-g40
+g29
 sg10
 VJOSH
 p767
@@ -2792,7 +2792,7 @@ g6
 VI'm not going to "impede" anything. Thanks. I'll take it from here.
 p769
 sg8
-g40
+g29
 sg10
 VLEO
 p770
@@ -2814,7 +2814,7 @@ g6
 VNo. He was later. Cambodia and Laos. It was a big war.
 p775
 sg8
-g40
+g29
 sg10
 VLEO
 p776
@@ -2836,7 +2836,7 @@ g6
 VThe Army sped up the timeline because, if you haven't noticed, the threat to our guys has increased.
 p781
 sg8
-g40
+g29
 sg10
 VLEO
 p782
@@ -2852,35 +2852,35 @@ sg10
 VHUNT
 p785
 sg12
-g15
+g29
 sa(dp786
 g6
 VCut the crap, Matt. I've got old service ribbons gathering dust in a drawer somewhere, too.
 p787
 sg8
-g40
+g29
 sg10
 VLEO
 p788
 sg12
-g9
+g29
 sa(dp789
 g6
 VWe had companies with lower bids.
 p790
 sg8
-g40
+g29
 sg10
 VHUNT
 p791
 sg12
-g9
+g29
 sa(dp792
 g6
 VAirbus. Congress wasn't going to let the Pentagon award a ten billion dollar defense contract to the French.
 p793
 sg8
-g15
+g13
 sg10
 VLEO
 p794
@@ -2896,13 +2896,13 @@ sg10
 VHUNT
 p797
 sg12
-g9
+g29
 sa(dp798
 g6
 VSo, now you're going to drag Ken O'Neal in front of a network perp-walk over a weapons system we have to have that no one else can build?
 p799
 sg8
-g15
+g13
 sg10
 VLEO
 p800
@@ -2924,7 +2924,7 @@ g6
 VYou know damn well the charge screams louder than the verdict. If you don't like the price, tell the DoD to renegotiate it.
 p805
 sg8
-g40
+g29
 sg10
 VLEO
 p806
@@ -2935,7 +2935,7 @@ g6
 VIt's not about price anymore, Leo. It's about process and patronage.
 p808
 sg8
-g15
+g13
 sg10
 VHUNT
 p809
@@ -2946,7 +2946,7 @@ g6
 VYou're accusing me of using my influence to get them the contract?
 p811
 sg8
-g40
+g29
 sg10
 VLEO
 p812
@@ -2968,12 +2968,12 @@ g6
 VDon't try to embarrass me and, through me, the President by humiliating an outstanding American patriot.
 p817
 sg8
-g40
+g29
 sg10
 VLEO
 p818
 sg12
-g9
+g29
 sa(dp819
 g6
 VWell, now who's waving the flag, Leo?
@@ -2990,7 +2990,7 @@ g6
 VIf you're drawing up partisan subpoena lists, Matt, put my name on top.
 p823
 sg8
-g40
+g29
 sg10
 VLEO
 p824
@@ -3023,12 +3023,12 @@ g6
 VIf he dunks me in a river and I float, does that mean I'm a witch?
 p832
 sg8
-g40
+g29
 sg10
 VC.J.
 p833
 sg12
-g9
+g29
 sa(dp834
 g6
 VBack in ten.
@@ -3045,7 +3045,7 @@ g6
 VGod, it's great you could join us. I'm a huge fan.
 p838
 sg8
-g15
+g13
 sg10
 VREID
 p839
@@ -3067,7 +3067,7 @@ g6
 VAs promised, White House Press Secretary C.J. Cregg has finally agreed to join us. Ms. Cregg, global warming. That's a liberal fantasy, isn't it?
 p844
 sg8
-g15
+g13
 sg10
 VREID
 p845
@@ -3083,35 +3083,35 @@ sg10
 VC.J.
 p848
 sg12
-g9
+g29
 sa(dp849
 g6
 VVoodoo environmentalism without any scientific...
 p850
 sg8
-g15
+g13
 sg10
 VREID
 p851
 sg12
-g9
+g13
 sa(dp852
 g6
 VThere are about 16 Nobel laureates, 57 World Bank economists, and 17 scientific studies...
 p853
 sg8
-g15
+g13
 sg10
 VC.J.
 p854
 sg12
-g9
+g13
 sa(dp855
 g6
 VThe World Bank is the U.N. for tree huggers. They think companies that create jobs and help big industry...
 p856
 sg8
-g15
+g13
 sg10
 VREID
 p857
@@ -3122,18 +3122,18 @@ g6
 VThat's ridiculous.
 p859
 sg8
-g40
+g29
 sg10
 VC.J.
 p860
 sg12
-g9
+g29
 sa(dp861
 g6
 VIf it's ridiculous you should stop funding them. Judicial nominees. The United States Senate doesn't think it's a good idea to approve of Bartlet's liberal judges that treat the Constitution...
 p862
 sg8
-g15
+g13
 sg10
 VREID
 p863
@@ -3144,23 +3144,23 @@ g6
 V[on TV] ... like it's some kind of beer coaster.
 p865
 sg8
-g15
+g13
 sg10
 VREID
 p866
 sg12
-g9
+g13
 sa(dp867
 g6
 V[on TV] The President has nominated dozens of highly qualified...
 p868
 sg8
-g15
+g13
 sg10
 VC.J.
 p869
 sg12
-g9
+g13
 sa(dp870
 g6
 VHow's she doing?
@@ -3226,7 +3226,7 @@ sg10
 VTOBY
 p887
 sg12
-g9
+g13
 sa(dp888
 g6
 VHunt's asking for all e-mails within the DoD and Mueller-Wright. He thinks the bid process was rigged. He threatened to subpoena O'Neal. Apparently Leo rose to Ken's defense.
@@ -3243,7 +3243,7 @@ g6
 VLeo can't testify in front of the Armed Services Committee. Did you talk to him?
 p892
 sg8
-g15
+g13
 sg10
 VTOBY
 p893
@@ -3259,7 +3259,7 @@ sg10
 VJOSH
 p896
 sg12
-g9
+g29
 sa(dp897
 g6
 VDoes the President know?
@@ -3331,7 +3331,7 @@ g6
 VNo, sir. But they've moved closer to the beach area, stopped in these woods.
 p916
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p917
@@ -3353,7 +3353,7 @@ g6
 VThe sun came up.
 p922
 sg8
-g15
+g13
 sg10
 VLEO
 p923
@@ -3369,24 +3369,24 @@ sg10
 VBARTLET
 p926
 sg12
-g9
+g29
 sa(dp927
 g6
 VYes, sir.
 p928
 sg8
-g15
+g13
 sg10
 VMCGILL
 p929
 sg12
-g15
+g13
 sa(dp930
 g6
 VLet's hope no one decides to go berry picking in those woods today.
 p931
 sg8
-g15
+g13
 sg10
 VBARROW
 p932
@@ -3397,7 +3397,7 @@ g6
 VNo. Black's great. [pause] You know, maybe it'd be better for me to wait in the lobby.
 p934
 sg8
-g40
+g29
 sg10
 VBEN
 p935
@@ -3413,7 +3413,7 @@ sg10
 VCAROL
 p938
 sg12
-g9
+g29
 sa(dp939
 g6
 VWe met in Principles of Sociology. It was the only class at Berkeley that the Land Management kids and the Poli Sci students took together.
@@ -3430,18 +3430,18 @@ g6
 VYou studied range management?
 p943
 sg8
-g15
+g13
 sg10
 VCAROL
 p944
 sg12
-g9
+g13
 sa(dp945
 g6
 VYeah. Grassland, savanna, shrubland ecology. Thank God the Park Service hired me. I don't know what else my education would be good for. Selling seed catalogues, maybe. I don't know. [pause] I've got a picture of us together in college. Would you like to see it?
 p946
 sg8
-g15
+g13
 sg10
 VBEN
 p947
@@ -3452,7 +3452,7 @@ g6
 VIt's, a, uh... there. That's right after we started living together. God, she was something in a bikini, huh? She ever tell you about getting arrested for stealing that donkey down in Cabo?
 p949
 sg8
-g40
+g29
 sg10
 VBEN
 p950
@@ -3463,7 +3463,7 @@ g6
 VYou're not giving me a chance to answer. If you just want to bloviate, why don't I leave a cardboard cutout of myself and you can talk all you want.
 p952
 sg8
-g15
+g13
 sg10
 VC.J.
 p953
@@ -3496,7 +3496,7 @@ g6
 VWe are back with C.J. Cregg, who says she could have sent a cardboard cutout of herself for all we're going to get out of her today. C.J., the First Lady is back to practicing medicine at a Southeast DC clinic. Isn't she breaking her promise to the American people? Didn't she say she wasn't going to practice medicine again after lying to keep her husband's condition a secret from the American voters?
 p961
 sg8
-g15
+g13
 sg10
 VREID
 p962
@@ -3507,7 +3507,7 @@ g6
 VThe First Lady is volunteering in a free clinic in one of the poorest neighborhoods in the nation, helping to save children's lives.
 p964
 sg8
-g15
+g13
 sg10
 VC.J.
 p965
@@ -3518,7 +3518,7 @@ g6
 VDon't you think the First Lady should try to fix health care in this country as opposed to repairing her own self-image?
 p967
 sg8
-g40
+g29
 sg10
 VREID
 p968
@@ -3529,7 +3529,7 @@ g6
 VShe's and M.D., she can fix whatever she damn well pleases, and if it were health care, you'd try and block it.
 p970
 sg8
-g40
+g29
 sg10
 VC.J.
 p971
@@ -3540,7 +3540,7 @@ g6
 VThat's not true, I'm for sensible health care. I'm just against socialized medicine.
 p973
 sg8
-g15
+g13
 sg10
 VREID
 p974
@@ -3562,7 +3562,7 @@ g6
 VLet's talk about how the First Lady lied to the American people.
 p979
 sg8
-g15
+g13
 sg10
 VREID
 p980
@@ -3573,7 +3573,7 @@ g6
 VNo, let's talk about your paid speeches to the pharmaceutical lobby...
 p982
 sg8
-g15
+g13
 sg10
 VC.J.
 p983
@@ -3595,7 +3595,7 @@ g6
 V... and your paid speeches to the HMO and insurance lobby, and how every time health care reform comes up on your show you're miraculously against it. The First Lady is rolling up her sleeves and getting something done, and you're not because you're too busy depositing their checks, and let's talk about who's chicken.
 p988
 sg8
-g15
+g13
 sg10
 VC.J.
 p989
@@ -3622,7 +3622,7 @@ sg10
 VTOBY
 p995
 sg12
-g9
+g29
 sa(dp996
 g6
 VI have no idea.
@@ -3633,13 +3633,13 @@ sg10
 VDEBBIE
 p998
 sg12
-g40
+g29
 sa(dp999
 g6
 VLeo knows he can't testify on behalf of a major defense contractor. What's he thinking?
 p1000
 sg8
-g15
+g13
 sg10
 VJOSH
 p1001
@@ -3655,40 +3655,40 @@ sg10
 VTOBY
 p1004
 sg12
-g9
+g29
 sa(dp1005
 g6
 VHow long did they serve together?
 p1006
 sg8
-g40
+g29
 sg10
 VJOSH
 p1007
 sg12
-g40
+g29
 sa(dp1008
 g6
 VLeo and O'Neal? I don't know. Awhile before they were shot down.
 p1009
 sg8
-g40
+g29
 sg10
 VTOBY
 p1010
 sg12
-g40
+g29
 sa(dp1011
 g6
 VLeo was shot down?
 p1012
 sg8
-g40
+g29
 sg10
 VCHARLIE
 p1013
 sg12
-g9
+g29
 sa(dp1014
 g6
 VOver Hanoi. They hid out in the jungle until they were rescued.
@@ -3705,7 +3705,7 @@ g6
 VCan I get a ballpark on how much longer it's going to be? An era, a Tchaikovsky symphony, a brief Ice Age perhaps?
 p1018
 sg8
-g15
+g13
 sg10
 VTOBY
 p1019
@@ -3716,12 +3716,12 @@ g6
 VYou have some food stuck in your beard.
 p1021
 sg8
-g15
+g13
 sg10
 VDEBBIE
 p1022
 sg12
-g9
+g13
 sa(dp1023
 g6
 VHow long was he there for?
@@ -3732,7 +3732,7 @@ sg10
 VCHARLIE
 p1025
 sg12
-g9
+g29
 sa(dp1026
 g6
 VThree days.
@@ -3749,12 +3749,12 @@ g6
 VExcuse me, sir. Mr. Ziegler is being rather insistent.
 p1030
 sg8
-g15
+g13
 sg10
 VDEBBIE
 p1031
 sg12
-g40
+g9
 sa(dp1032
 g6
 VAs he so often is. [to Thomas] Excuse me, Mr. Thomas. Give me some time to think about it.
@@ -3771,7 +3771,7 @@ g6
 VSo, what's so important? Someone get the words to "Yellow Submarine" wrong again?
 p1036
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1037
@@ -3782,12 +3782,12 @@ g6
 VIt's about Leo, sir.
 p1039
 sg8
-g15
+g13
 sg10
 VJOSH
 p1040
 sg12
-g9
+g13
 sa(dp1041
 g6
 VI left messages at his office and with his hotel in Chicago.
@@ -3826,18 +3826,18 @@ g6
 VYes, sir, of course.
 p1051
 sg8
-g15
+g13
 sg10
 VLEO
 p1052
 sg12
-g15
+g13
 sa(dp1053
 g6
 VNo word yet on the SEAL team?
 p1054
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1055
@@ -3848,12 +3848,12 @@ g6
 VNo, sir, not yet.
 p1057
 sg8
-g15
+g13
 sg10
 VLEO
 p1058
 sg12
-g15
+g13
 sa(dp1059
 g6
 VToby and Josh came to see me about this Muller-Wright thing.
@@ -3875,7 +3875,7 @@ sg10
 VLEO
 p1064
 sg12
-g9
+g29
 sa(dp1065
 g6
 VBy going before the Armed Services Committee?
@@ -3903,7 +3903,7 @@ g6
 VAnd testifying in front of a Congressional committee is going to lessen that embarrassment?
 p1072
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1073
@@ -3914,7 +3914,7 @@ g6
 VHunt's bluffing. He's upset Arizona manufacturers didn't get any of the contract.
 p1075
 sg8
-g40
+g29
 sg10
 VLEO
 p1076
@@ -3925,7 +3925,7 @@ g6
 VWell, you were a senior corporate officer at Mueller-Wright for over ten years, right, Leo? You can't testify.
 p1078
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1079
@@ -3947,18 +3947,18 @@ g6
 VIt opens you up to being called before Congressional committees on a whim.
 p1084
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1085
 sg12
-g9
+g29
 sa(dp1086
 g6
 VI won't stand by while Hunt slanders a good man's name for political purposes.
 p1087
 sg8
-g15
+g13
 sg10
 VLEO
 p1088
@@ -3974,13 +3974,13 @@ sg10
 VBARTLET
 p1091
 sg12
-g9
+g29
 sa(dp1092
 g6
 VJosh doesn't know what the hell he's talking about.
 p1093
 sg8
-g40
+g29
 sg10
 VLEO
 p1094
@@ -3991,7 +3991,7 @@ g6
 VHave you asked Kenny if there's any truth...
 p1096
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1097
@@ -4002,7 +4002,7 @@ g6
 VI've know Ken O'Neal for thirty-five years. I've worked beside him, served beside him... He hasn't done anything wrong.
 p1099
 sg8
-g40
+g29
 sg10
 VLEO
 p1100
@@ -4018,13 +4018,13 @@ sg10
 VBARTLET
 p1103
 sg12
-g9
+g29
 sa(dp1104
 g6
 VI won't desert him, Mr. President.
 p1105
 sg8
-g40
+g29
 sg10
 VLEO
 p1106
@@ -4035,7 +4035,7 @@ g6
 VHave you asked Kenny if there's any truth to the rumors...
 p1108
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1109
@@ -4051,7 +4051,7 @@ sg10
 VLEO
 p1112
 sg12
-g9
+g29
 sa(dp1113
 g6
 VStill nothing from General Alexander?
@@ -4068,7 +4068,7 @@ g6
 VNo, sir. And Josh is waiting to give you a Ways and Means briefing.
 p1117
 sg8
-g15
+g13
 sg10
 VCHARLIE
 p1118
@@ -4084,13 +4084,13 @@ sg10
 VBARTLET
 p1121
 sg12
-g9
+g13
 sa(dp1122
 g6
 VThe South Carolina trip, sir. And then you have INS on border security and at 4:00, the National Medal of Arts recipients are coming by.
 p1123
 sg8
-g15
+g13
 sg10
 VDEBBIE
 p1124
@@ -4106,7 +4106,7 @@ sg10
 VBARTLET
 p1127
 sg12
-g9
+g13
 sa(dp1128
 g6
 VI've always been more of a Crazy Horse gal, Mr. President.
@@ -4128,13 +4128,13 @@ sg10
 VBARTLET
 p1133
 sg12
-g9
+g29
 sa(dp1134
 g6
 VAlthough I did have a tempestuous affair with a rodeo cowboy during the summer of love that the Hollies played a significant role in. I'll call Josh in.
 p1135
 sg8
-g15
+g13
 sg10
 VDEBBIE
 p1136
@@ -4145,7 +4145,7 @@ g6
 VSo what's this problem I'm hearing about with Saturday's trip to South Carolina?
 p1138
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1139
@@ -4156,7 +4156,7 @@ g6
 VWendt wants a tax cut for stay-at-home moms. Unless you're a poor woman, then, of course, he'd argue you have to work or else you should be denied welfare benefits. Next, he'll try to slip dishwasher subsidies into the omnibus reconciliation bill. Our caucus has been fighting for more daycare, more after-school care, transportation subsidies to make it easier for poor women to get to good jobs. They can't justify spending, uh...
 p1141
 sg8
-g40
+g29
 sg10
 VJOSH
 p1142
@@ -4178,12 +4178,12 @@ g6
 V... 11 billion to keep Wilma Flinstone in dinosaur-skin coats while most women are struggling to find someone to take care of their child.
 p1147
 sg8
-g15
+g13
 sg10
 VJOSH
 p1148
 sg12
-g9
+g13
 sa(dp1149
 g6
 VWhat's the tax benefit for the typical family?
@@ -4260,7 +4260,7 @@ sg10
 VJOSH
 p1169
 sg12
-g9
+g29
 sa(dp1170
 g6
 VSenator Pierce's son?
@@ -4282,13 +4282,13 @@ sg10
 VRYAN
 p1175
 sg12
-g9
+g29
 sa(dp1176
 g6
 VSo, which would you choose, Ryan, daycare tax cut of this?
 p1177
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1178
@@ -4321,7 +4321,7 @@ g6
 VTell Wendt you understand that he didn't want to support your child care tax credit when there's no help for stay-at-home moms, so he should find some loophole closers we can agree on to pay for both. He's on Ways and Means. That's where the money is, right?
 p1186
 sg8
-g15
+g13
 sg10
 VRYAN
 p1187
@@ -4337,13 +4337,13 @@ sg10
 VBARTLET
 p1190
 sg12
-g15
+g13
 sa(dp1191
 g6
 VThat was fun.
 p1192
 sg8
-g15
+g13
 sg10
 VC.J.
 p1193
@@ -4365,7 +4365,7 @@ g6
 VSanctimonious little guttersnipe sent a great big fat one, up and over the plate. 'Health Care Reform'? From a guy who's still on the fence about the application of leeches?
 p1198
 sg8
-g40
+g29
 sg10
 VC.J.
 p1199
@@ -4381,7 +4381,7 @@ sg10
 VCAROL
 p1202
 sg12
-g15
+g29
 sa(dp1203
 g6
 V'Sensible Health Care'? He means a bedpan, a gurney, and a check from the "Your Claim's Been Rejected" lobby.
@@ -4431,7 +4431,7 @@ g6
 VHe still have that ruffled hair, Redford in The Way We Were kind of thing going on?
 p1216
 sg8
-g15
+g13
 sg10
 VC.J.
 p1217
@@ -4447,7 +4447,7 @@ sg10
 VCAROL
 p1220
 sg12
-g9
+g13
 sa(dp1221
 g6
 VAnd I was answering it.
@@ -4458,7 +4458,7 @@ sg10
 VJOSH
 p1223
 sg12
-g9
+g29
 sa(dp1224
 g6
 VIncorrectly.
@@ -4486,7 +4486,7 @@ g6
 VEven when you're giving him wrong information?
 p1231
 sg8
-g15
+g13
 sg10
 VRYAN
 p1232
@@ -4502,7 +4502,7 @@ sg10
 VJOSH
 p1235
 sg12
-g15
+g13
 sa(dp1236
 g6
 VReally?
@@ -4524,7 +4524,7 @@ sg10
 VJOSH
 p1241
 sg12
-g40
+g9
 sa(dp1242
 g6
 VCollated?
@@ -4541,7 +4541,7 @@ g6
 VYeah. Go wild.
 p1246
 sg8
-g40
+g29
 sg10
 VJOSH
 p1247
@@ -4585,12 +4585,12 @@ g6
 VWhere you wrong?
 p1258
 sg8
-g40
+g29
 sg10
 VDONNA
 p1259
 sg12
-g15
+g29
 sa(dp1260
 g6
 VThat's not the point.
@@ -4656,7 +4656,7 @@ sg10
 VJOSH
 p1277
 sg12
-g9
+g13
 sa(dp1278
 g6
 VThat's okay. You didn't know I was coming.
@@ -4667,7 +4667,7 @@ sg10
 VHUNT
 p1280
 sg12
-g9
+g29
 sa(dp1281
 g6
 VWhat can I do for you?
@@ -4706,18 +4706,18 @@ g6
 VSenator, Leo doesn't take directions from me. I can't keep him from making a breakfast order.
 p1291
 sg8
-g15
+g13
 sg10
 VJOSH
 p1292
 sg12
-g9
+g29
 sa(dp1293
 g6
 VI understand loyalty. There are men that I served with that I would do anything for and they for me. But you can't let Leo get involved in this. You know Mark Lofton?
 p1294
 sg8
-g15
+g13
 sg10
 VHUNT
 p1295
@@ -4739,7 +4739,7 @@ g6
 VUntil six weeks ago, he was a DoD procurement officer making $80,000 a year. He supervised the bid process on the LC-104 Ramses. Now he's a senior vice president of a major defense contractor making over $300,000 a year. Want to guess who he works for?
 p1300
 sg8
-g15
+g13
 sg10
 VHUNT
 p1301
@@ -4750,7 +4750,7 @@ g6
 VThe Sea Stallion's heading back to the Cowpens. He should be breaking radio silence any moment.
 p1303
 sg8
-g15
+g13
 sg10
 VALEXANDER
 p1304
@@ -4761,7 +4761,7 @@ g6
 VDo we know if they've encountered any resistance?
 p1306
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1307
@@ -4827,12 +4827,12 @@ g6
 VCommander, any unfriendly encounters?
 p1324
 sg8
-g40
+g29
 sg10
 VALEXANDER
 p1325
 sg12
-g9
+g29
 sa(dp1326
 g6
 VWell done, Commander. Thank you.
@@ -4843,7 +4843,7 @@ sg10
 VBARTLET
 p1328
 sg12
-g15
+g13
 sa(dp1329
 g6
 VGeneral, can you get me a number for Captain Zeretsky's family?
@@ -4871,7 +4871,7 @@ g6
 VOut of the building.
 p1336
 sg8
-g15
+g13
 sg10
 VMARGARET
 p1337
@@ -4882,7 +4882,7 @@ g6
 VWhere out of the building?
 p1339
 sg8
-g15
+g13
 sg10
 VJOSH
 p1340
@@ -4904,18 +4904,18 @@ g6
 VI was worried about you.
 p1345
 sg8
-g40
+g29
 sg10
 VLEO
 p1346
 sg12
-g9
+g29
 sa(dp1347
 g6
 VI talked to Hunt. I know a bit about what's going on. He's just trying to score cheap political points off of our friendship. Get his face on the cover of the Journal.
 p1348
 sg8
-g15
+g13
 sg10
 VLEO
 p1349
@@ -4937,12 +4937,12 @@ g6
 VI'm sorry. I got you into this mess. He wouldn't be making rain out of it if it weren't for me.
 p1354
 sg8
-g40
+g29
 sg10
 VLEO
 p1355
 sg12
-g9
+g29
 sa(dp1356
 g6
 VI told him if he tried to drag you up in front of Armed Services he'd have to haul me up there first.
@@ -4959,7 +4959,7 @@ g6
 VAll the times you've come in under budget, all the times you've delivered projects on schedule under impossible deadlines...
 p1360
 sg8
-g40
+g29
 sg10
 VLEO
 p1361
@@ -5003,7 +5003,7 @@ g6
 VThis was about money?
 p1372
 sg8
-g15
+g13
 sg10
 VLEO
 p1373
@@ -5030,7 +5030,7 @@ sg10
 VLEO
 p1379
 sg12
-g40
+g29
 sa(dp1380
 g6
 VNah. How much with bonuses?
@@ -5041,7 +5041,7 @@ sg10
 VLEO
 p1382
 sg12
-g40
+g29
 sa(dp1383
 g6
 VYou okay?
@@ -5063,13 +5063,13 @@ sg10
 VLEO
 p1388
 sg12
-g9
+g29
 sa(dp1389
 g6
 VJosh told me. [pause] We got the Hawkeye crew out. All five of them. We lost one of the SEALs.
 p1390
 sg8
-g40
+g29
 sg10
 VBARTLET
 p1391
@@ -5080,18 +5080,18 @@ g6
 VWhat's-what's this music?
 p1393
 sg8
-g15
+g13
 sg10
 VLEO
 p1394
 sg12
-g9
+g13
 sa(dp1395
 g6
 VCrosby, Stills and Nash came by. They're getting the National Medal for the Arts; gave me this tape. It's beautiful, huh?
 p1396
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1397
@@ -5102,7 +5102,7 @@ g6
 VWe were out in the jungle for three days. Kenny carried me on his back; hid me under piles of leaves while he went to find us water. I was delirious, I lost a lot of blood. He could have left me; He should have left me.
 p1399
 sg8
-g40
+g29
 sg10
 VLEO
 p1400
@@ -5113,7 +5113,7 @@ g6
 V[speaks Latin] Corruptio optimi pessima. 'Corruption of the best is the worst.' You've done more, much more, all on your own to honor their sacrifice, Leo. They'd be as proud to know you as I am.
 p1402
 sg8
-g15
+g13
 sg10
 VBARTLET
 p1403

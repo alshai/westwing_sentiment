@@ -79,7 +79,7 @@ sg10
 VC.J.
 p28
 sg12
-g24
+g9
 sa(dp29
 g6
 VYes.
@@ -113,7 +113,7 @@ sg10
 VMARGARET
 p38
 sg12
-g9
+g32
 sa(dp39
 g6
 VNot to be unpatriotic, but they do realize this is a Fisheries bill.
@@ -146,7 +146,7 @@ sg10
 VC.J.
 p47
 sg12
-g9
+g24
 sa(dp48
 g6
 V...little flags.
@@ -157,7 +157,7 @@ sg10
 VMARGARET
 p50
 sg12
-g24
+g9
 sa(dp51
 g6
 VThank you.
@@ -201,7 +201,7 @@ sg10
 VC.J.
 p62
 sg12
-g9
+g24
 sa(dp63
 g6
 VNot so much.
@@ -300,7 +300,7 @@ sg10
 VTOBY
 p89
 sg12
-g9
+g24
 sa(dp90
 g6
 VI think the President and White House Council want it out.
@@ -410,7 +410,7 @@ sg10
 VSANTOS
 p119
 sg12
-g9
+g32
 sa(dp120
 g6
 VHey, you're here all night again?
@@ -531,7 +531,7 @@ sg10
 VJOSH
 p152
 sg12
-g9
+g24
 sa(dp153
 g6
 VFrom today on, every speech, every public event - box number two.
@@ -586,7 +586,7 @@ sg10
 VJOSH
 p167
 sg12
-g9
+g24
 sa(dp168
 g6
 VTell it to CNN.
@@ -597,7 +597,7 @@ sg10
 VNED
 p170
 sg12
-g9
+g32
 sa(dp171
 g6
 VOperator, get me Toby Ziegler, now.
@@ -630,7 +630,7 @@ sg10
 VTOBY
 p179
 sg12
-g9
+g32
 sa(dp180
 g6
 VIt'll look like Democrats don't care if there are felons in the Sit Room!
@@ -707,7 +707,7 @@ sg10
 VJOSH
 p200
 sg12
-g24
+g9
 sa(dp201
 g6
 VI've got half a dozen media consultants coming in a half an hour, I'm flying out this afternoon.
@@ -938,7 +938,7 @@ sg10
 VJOSH
 p263
 sg12
-g32
+g9
 sa(dp264
 g6
 VIt was a legal decision.
@@ -971,7 +971,7 @@ sg10
 VTOBY
 p272
 sg12
-g9
+g32
 sa(dp273
 g6
 VSkip the Kentucky leg. We'll hit it through  Cincinnati media. Move this photo above the fold. And every time we talk about gun control, we have to say we respect the rights of hunters and sportsmen. Hunters and sportsmen, right up front.
@@ -1048,7 +1048,7 @@ sg10
 VNED
 p293
 sg12
-g9
+g32
 sa(dp294
 g6
 VTargeted tax credits, preferably indexed to inflation.
@@ -1059,7 +1059,7 @@ sg10
 VJOSH
 p296
 sg12
-g9
+g24
 sa(dp297
 g6
 VWhen's the last time you went on a date?
@@ -1125,7 +1125,7 @@ sg10
 VJOSH
 p314
 sg12
-g24
+g9
 sa(dp315
 g6
 VThere's goes half our budget on Italian loafers and mini-bar tabs.
@@ -1158,7 +1158,7 @@ sg10
 VJOSH
 p323
 sg12
-g9
+g24
 sa(dp324
 g6
 VThey're kids. Not a single one of these non-shavers would challenge my assumptions, stand up to me in a meeting.
@@ -1191,7 +1191,7 @@ sg10
 VJOSH
 p332
 sg12
-g9
+g24
 sa(dp333
 g6
 VI mean, this isn't summer camp; we're not making tie racks out of plywood. Not everybody has the savvy to play the big game. This is your desk. Sit with Payroll and Personnel. Diane will give you some business cards. Policy working group starts at 3:00.
@@ -1323,7 +1323,7 @@ sg10
 VJOSH
 p368
 sg12
-g9
+g32
 sa(dp369
 g6
 VWe didn't have a full convention to define ourselves. We're trying to run a positive campaign, especially while the voters are learning about us now. If you will look at the handout...
@@ -1367,7 +1367,7 @@ sg10
 VLOU
 p380
 sg12
-g9
+g24
 sa(dp381
 g6
 VAnd why's that?
@@ -1378,7 +1378,7 @@ sg10
 VJOSH
 p383
 sg12
-g9
+g24
 sa(dp384
 g6
 VBecause you don't have one.
@@ -1389,7 +1389,7 @@ sg10
 VLOU
 p386
 sg12
-g9
+g24
 sa(dp387
 g6
 VI'm not talking about ten-point plans or Leo McGarry's love of egg whites. I'm talking about the iconic, the symbolic, something that you can put on a bumper sticker that tells people who Matt Santos is. 'Cause eight days after the nominating convention, I still don't have a clue.
@@ -1422,7 +1422,7 @@ sg10
 VLOU
 p395
 sg12
-g9
+g24
 sa(dp396
 g6
 VYou and I haven't always been on the same side.
@@ -1477,7 +1477,7 @@ sg10
 VJOSH
 p410
 sg12
-g9
+g24
 sa(dp411
 g6
 VIsn't connecting with the electorate, I know.
@@ -1488,7 +1488,7 @@ sg10
 VLOU
 p413
 sg12
-g9
+g24
 sa(dp414
 g6
 VReducing human complexities to a box of soap flakes, no.
@@ -1521,7 +1521,7 @@ sg10
 VJOSH
 p422
 sg12
-g9
+g24
 sa(dp423
 g6
 VThat's such a good bumper sticker. You don't need me.
@@ -1554,7 +1554,7 @@ sg10
 VLOU
 p431
 sg12
-g32
+g24
 sa(dp432
 g6
 V'Cause we have different approaches to campaigns.
@@ -1620,7 +1620,7 @@ sg10
 VJOSH
 p449
 sg12
-g9
+g24
 sa(dp450
 g6
 VHow about moving the conversation to the fact that while Santos was serving in the Gulf, Vinick was serving himself Chardonnay. That Santos is still serving in the Reserves as a Congressman. He's been in the Senate for, like, 90 years. He was practically born in a committee hearing. If you're not using the phrase "Beltway Arnie" in every press release...
@@ -1664,7 +1664,7 @@ sg10
 VNED
 p461
 sg12
-g9
+g24
 sa(dp462
 g6
 VHow many press calls?
@@ -1675,7 +1675,7 @@ sg10
 VJOSH
 p464
 sg12
-g9
+g24
 sa(dp465
 g6
 V113.
@@ -1697,7 +1697,7 @@ sg10
 VJOSH
 p470
 sg12
-g9
+g24
 sa(dp471
 g6
 VPlus, New York Post still thinks today's lunch was cancelled because we're hiding from the leak story.
@@ -1730,7 +1730,7 @@ sg10
 VLOU
 p479
 sg12
-g9
+g24
 sa(dp480
 g6
 VHang on.
@@ -1785,7 +1785,7 @@ sg10
 VRONNA
 p494
 sg12
-g9
+g32
 sa(dp495
 g6
 VShe'll have the raw meat.
@@ -1796,7 +1796,7 @@ sg10
 VJOSH
 p497
 sg12
-g9
+g32
 sa(dp498
 g6
 VI want you to come to California and Florida with me. You can pick up a bag on the way to Dulles. If the Congressman signs off, I'm hiring you as Director of Communications answering directly to me.
@@ -1818,7 +1818,7 @@ sg10
 VLOU
 p503
 sg12
-g9
+g24
 sa(dp504
 g6
 VI'm talking about the future of civilization here.
@@ -1840,7 +1840,7 @@ sg10
 VLOU
 p509
 sg12
-g9
+g24
 sa(dp510
 g6
 VI am asking you to meet with the next President of the United States.
@@ -1994,7 +1994,7 @@ sg10
 VJOSH
 p551
 sg12
-g9
+g32
 sa(dp552
 g6
 VAfter you write about the tax credit.
@@ -2082,7 +2082,7 @@ sg10
 VJOSH
 p575
 sg12
-g9
+g32
 sa(dp576
 g6
 VYou heard about the siesta story.
@@ -2148,7 +2148,7 @@ sg10
 VJOSH
 p593
 sg12
-g9
+g24
 sa(dp594
 g6
 VSo how are we going to deal with this?
@@ -2236,7 +2236,7 @@ sg10
 VJOSH
 p617
 sg12
-g9
+g24
 sa(dp618
 g6
 VYou don't think someone's got the tabloids out looking for them?
@@ -2269,7 +2269,7 @@ sg10
 VJOSH
 p626
 sg12
-g9
+g24
 sa(dp627
 g6
 VOh, don't tell me there's another...
@@ -2280,7 +2280,7 @@ sg10
 VJOSH
 p629
 sg12
-g9
+g24
 sa(dp630
 g6
 VSo, is this covered under Josh's press memo?
@@ -2335,7 +2335,7 @@ sg10
 VSANTOS
 p644
 sg12
-g9
+g32
 sa(dp645
 g6
 VShe probably won't do it, but she is what we need in the Communications shop - aggressive, out-of-the-box. Obviously, her ideas will be heavily filtered through me, but anything you can do to get her on board.
@@ -2401,7 +2401,7 @@ sg10
 VSANTOS
 p662
 sg12
-g9
+g24
 sa(dp663
 g6
 VYou're a Presidential candidate; from now on, you're going to be the last one to read a lot of your mail. Congressman, it's Christmas in July; "Deck the halls with guns and ammo." This is everything we couldn't do in the convention. You in fatigues, wind in your hair, trench knife in your teeth. This is an annual required thing, right?
@@ -2423,7 +2423,7 @@ sg10
 VSANTOS
 p668
 sg12
-g9
+g32
 sa(dp669
 g6
 VWith very big guns. Guns are very big.
@@ -2434,7 +2434,7 @@ sg10
 VJOSH
 p671
 sg12
-g9
+g24
 sa(dp672
 g6
 VIt won't look like a stunt?
@@ -2478,7 +2478,7 @@ sg10
 VJOSH
 p683
 sg12
-g9
+g32
 sa(dp684
 g6
 VHey, remember me?
@@ -2654,7 +2654,7 @@ sg10
 VTOBY
 p731
 sg12
-g24
+g9
 sa(dp732
 g6
 VA lot of them, actually, on why we ended this internal investigation and how we plan to deal with it now...
@@ -2687,7 +2687,7 @@ sg10
 VCAROL
 p740
 sg12
-g9
+g32
 sa(dp741
 g6
 VWe're walling this off from the rest of the White House so we can do some governing around here.
@@ -2742,7 +2742,7 @@ sg10
 VTOBY
 p755
 sg12
-g9
+g24
 sa(dp756
 g6
 VHow's it playing out there?
@@ -2951,7 +2951,7 @@ sg10
 VSANTOS
 p812
 sg12
-g9
+g32
 sa(dp813
 g6
 VLouise is fine.
@@ -2984,7 +2984,7 @@ sg10
 VLOU
 p821
 sg12
-g9
+g24
 sa(dp822
 g6
 VThat's just a funny line.
@@ -3006,7 +3006,7 @@ sg10
 VLOU
 p827
 sg12
-g9
+g24
 sa(dp828
 g6
 VI've got the Council Chair after this, we could go egg her house. Was there anything that you did like about the town hall?
@@ -3039,7 +3039,7 @@ sg10
 VSANTOS
 p836
 sg12
-g9
+g32
 sa(dp837
 g6
 VI am.
@@ -3050,7 +3050,7 @@ sg10
 VLOU
 p839
 sg12
-g9
+g24
 sa(dp840
 g6
 VDo you think I have one?
@@ -3116,7 +3116,7 @@ sg10
 VGIRL
 p857
 sg12
-g24
+g9
 sa(dp858
 g6
 VNed says he's postponed his Reserve drilling about a third of the time.
@@ -3171,7 +3171,7 @@ sg10
 VEDIE
 p872
 sg12
-g9
+g24
 sa(dp873
 g6
 VWell, you're going to be good at this; I can tell.
@@ -3215,7 +3215,7 @@ sg10
 VEDIE
 p884
 sg12
-g9
+g24
 sa(dp885
 g6
 VNo on option one.
@@ -3259,7 +3259,7 @@ sg10
 VJOSH
 p896
 sg12
-g9
+g24
 sa(dp897
 g6
 VCongressman.
@@ -3314,7 +3314,7 @@ sg10
 VJOSH
 p911
 sg12
-g9
+g24
 sa(dp912
 g6
 VYeah, there's just one small condition.
@@ -3578,7 +3578,7 @@ sg10
 VJOSH
 p983
 sg12
-g9
+g24
 sa(dp984
 g6
 VWait a minute.
@@ -3622,7 +3622,7 @@ sg10
 VBRAM
 p995
 sg12
-g9
+g24
 sa(dp996
 g6
 VBox number three. Fifteen years I've been doing this, I've never been stuck in box number three.
@@ -3655,7 +3655,7 @@ sg10
 VBRAM
 p1004
 sg12
-g9
+g32
 sa(dp1005
 g6
 VDemolished it?
@@ -3666,7 +3666,7 @@ sg10
 VLOU
 p1007
 sg12
-g9
+g24
 sa(dp1008
 g6
 VIt was his wife's only night on the road. It was old, wooden bed; slats, hand-cranks, what have you.
@@ -3743,7 +3743,7 @@ sg10
 VLOU
 p1028
 sg12
-g9
+g32
 sa(dp1029
 g6
 VHurricane Santos.
@@ -3842,7 +3842,7 @@ sg10
 VLOU
 p1055
 sg12
-g9
+g24
 sa(dp1056
 g6
 V41% of the time.
@@ -3930,7 +3930,7 @@ sg10
 VLOU
 p1079
 sg12
-g9
+g24
 sa(dp1080
 g6
 VYou're my new Communications director; you're supposed to help me solve this problem.
@@ -4029,7 +4029,7 @@ sg10
 VC.J.
 p1106
 sg12
-g24
+g32
 sa(dp1107
 g6
 VYes. But...
@@ -4084,7 +4084,7 @@ sg10
 VMARGARET
 p1121
 sg12
-g9
+g24
 sa(dp1122
 g6
 VThink again.
@@ -4095,7 +4095,7 @@ sg10
 VC.J.
 p1124
 sg12
-g9
+g32
 sa(dp1125
 g6
 VWe're both professionals. We're both under investigation by professionals. It's bad enough that you're plastered all over my call sheet and Congress has every scrap of paper aside from my half-finished crossword puzzles. Would you please leave this office before I call in an armored division?
@@ -4172,7 +4172,7 @@ sg10
 VC.J.
 p1145
 sg12
-g9
+g24
 sa(dp1146
 g6
 VHe refused to stay the contempt; at least 18 months. I have to appeal from behind bars. You don't have to worry about your call sheet for a while.
@@ -4183,7 +4183,7 @@ sg10
 VBROCK
 p1148
 sg12
-g9
+g24
 sa(dp1149
 g6
 VJust name your source.
@@ -4205,7 +4205,7 @@ sg10
 VBROCK
 p1154
 sg12
-g9
+g32
 sa(dp1155
 g6
 VHe's already late for the State Party reception downstairs.
@@ -4260,7 +4260,7 @@ sg10
 VJOSH
 p1169
 sg12
-g9
+g32
 sa(dp1170
 g6
 VYou haven't given anybody an alternative formulation on who he is, so he's taking body blow after body blow.
@@ -4326,7 +4326,7 @@ sg10
 VJOSH
 p1187
 sg12
-g9
+g32
 sa(dp1188
 g6
 VThat's why he seems like his little infant cousin. I'm sure you've never even presented him with that argument.
@@ -4425,7 +4425,7 @@ sg10
 VSANTOS
 p1214
 sg12
-g9
+g24
 sa(dp1215
 g6
 VThat you are ready to be President of the United States. That we have a civilian-led military and you are threw playing G.I. Joe.
@@ -4524,7 +4524,7 @@ sg10
 VJOSH
 p1241
 sg12
-g9
+g24
 sa(dp1242
 g6
 VI interpret the facts; I read the data; which is why you need me, and also why you resent me. I am not a Bartlet-ista and I'm not a Santos-ista. I am completely untethered to your cult of personality.
@@ -4546,7 +4546,7 @@ sg10
 VJOSH
 p1247
 sg12
-g9
+g32
 sa(dp1248
 g6
 VWhat is unethical about say Jed Bartlet is a great President; make way on Mount Rushmore. But in this one instance, in this lapse in security, he goofed. Someone in your White House goofed.
@@ -4601,7 +4601,7 @@ sg10
 VSANTOS
 p1262
 sg12
-g9
+g24
 sa(dp1263
 g6
 VPolling question from last night's track.
@@ -4634,7 +4634,7 @@ sg10
 VJOSH
 p1271
 sg12
-g9
+g24
 sa(dp1272
 g6
 VHi. I know you guys have got a job to do whether I like it or not, so I'm not going to pretend that the afternoon naps and the bedside shrapnel don't make for good news copy. So, I'm going to address this once, just this once, and that'll be the end of it, okay: No way was that bed steel-reinforced.
@@ -4678,7 +4678,7 @@ sg10
 VC.J.
 p1283
 sg12
-g32
+g9
 sa(dp1284
 g6
 VYeah.
@@ -4711,7 +4711,7 @@ sg10
 VTOBY
 p1292
 sg12
-g9
+g32
 sa(dp1293
 g6
 VThe Fisheries bill signing. They think our message should be a row of American flags.
@@ -4733,7 +4733,7 @@ sg10
 VTOBY
 p1298
 sg12
-g9
+g24
 sa(dp1299
 g6
 VA row of flags?
@@ -4799,7 +4799,7 @@ sg10
 VBRAM
 p1316
 sg12
-g9
+g24
 sa(dp1317
 g6
 VI appreciate what you said about the President today. I've been thinking about the Reserve drill. I think you should do it. Get the past postponements out today ahead of the letter. If they slam us for it, we'll deal...
@@ -5008,7 +5008,7 @@ sg10
 VLOU
 p1373
 sg12
-g9
+g24
 sa(dp1374
 g6
 VYeah, welcome to the cult of personality. Otto, I need that brochure copy on his military record. Edie, get Helen's schedule. We want her on the road with the Congressman at least three days when he gets back from Texas. Ronna, Ned, foreign policy events, best idea gets an extra fortune cookie.

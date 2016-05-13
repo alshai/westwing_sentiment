@@ -46,7 +46,7 @@ sg10
 VC.J.
 p19
 sg12
-g9
+g18
 sa(dp20
 g6
 VThe first gun.
@@ -135,7 +135,7 @@ sg10
 VWILL
 p44
 sg12
-g9
+g18
 sa(dp45
 g6
 VYou see the little brass plaques with the names of media outlets on the front of the seats?
@@ -157,7 +157,7 @@ sg10
 VWILL
 p50
 sg12
-g9
+g34
 sa(dp51
 g6
 VFind a seat in back.
@@ -168,7 +168,7 @@ sg10
 VC.J.
 p53
 sg12
-g9
+g18
 sa(dp54
 g6
 VFifteen minutes into the service, Daryl Bechtell, B-E-C-H-T-E-L-L, walked into the sanctuary. Reports indicate he was looking for his estranged wife. He fired off a round -- that was from the .38 -- missing his wife and hitting Harold Winter in the left shoulder. Mr. Winter is 65 and currently undergoing surgery at Abilene Regional Medical Center.
@@ -234,7 +234,7 @@ sg10
 VARTHUR
 p71
 sg12
-g9
+g18
 sa(dp72
 g6
 VAgain, I'll have the Sheriff's Office speak to that, but I'll tell you that it only prohibits it if the church or synagogue posts such a prohibition in plain sight.
@@ -322,7 +322,7 @@ sg10
 VSAM
 p95
 sg12
-g9
+g18
 sa(dp96
 g6
 VI appreciate this.
@@ -355,7 +355,7 @@ sg10
 VDONNA
 p104
 sg12
-g9
+g18
 sa(dp105
 g6
 VNo, he's not.
@@ -366,7 +366,7 @@ sg10
 VSAM
 p107
 sg12
-g9
+g18
 sa(dp108
 g6
 VHe's... Yeah, he is.
@@ -388,7 +388,7 @@ sg10
 VSAM
 p113
 sg12
-g9
+g18
 sa(dp114
 g6
 VHe doesn't say anything.
@@ -399,7 +399,7 @@ sg10
 VDONNA
 p116
 sg12
-g9
+g18
 sa(dp117
 g6
 VAll right.
@@ -498,7 +498,7 @@ sg10
 VCHARLIE
 p143
 sg12
-g9
+g34
 sa(dp144
 g6
 VOakland over Dallas!
@@ -575,7 +575,7 @@ sg10
 VSAM
 p164
 sg12
-g9
+g18
 sa(dp165
 g6
 VI didn't say that.
@@ -586,7 +586,7 @@ sg10
 VCHARLIE
 p167
 sg12
-g9
+g18
 sa(dp168
 g6
 VYou said it with your eyes.
@@ -619,7 +619,7 @@ sg10
 VSAM
 p176
 sg12
-g34
+g9
 sa(dp177
 g6
 VI'm writing it down.
@@ -630,7 +630,7 @@ sg10
 VCHARLIE
 p179
 sg12
-g9
+g18
 sa(dp180
 g6
 VWrite it down. Wait. No. Give me Oakland over Dallas.
@@ -696,7 +696,7 @@ sg10
 VCHARLIE
 p197
 sg12
-g9
+g18
 sa(dp198
 g6
 VWrite it down. [leaves]
@@ -707,7 +707,7 @@ sg10
 VSAM
 p200
 sg12
-g9
+g18
 sa(dp201
 g6
 VGood afternoon.
@@ -718,7 +718,7 @@ sg10
 VCHARLIE
 p203
 sg12
-g9
+g34
 sa(dp204
 g6
 VHi, Charlie.
@@ -740,7 +740,7 @@ sg10
 VCHARLIE
 p209
 sg12
-g9
+g34
 sa(dp210
 g6
 V[mumbles] It sucked.
@@ -795,7 +795,7 @@ sg10
 VBARTLET
 p224
 sg12
-g9
+g18
 sa(dp225
 g6
 V[follows them a pace behind] What was the problem?
@@ -817,7 +817,7 @@ sg10
 VABBEY
 p230
 sg12
-g9
+g34
 sa(dp231
 g6
 VIt did lack penache.
@@ -828,7 +828,7 @@ sg10
 VBARTLET
 p233
 sg12
-g9
+g18
 sa(dp234
 g6
 VIt was a perfectly lovely homily on Ephesians 5:21. "Husbands, love your wives, as Christ loved the church and gave himself up for her."
@@ -861,7 +861,7 @@ sg10
 VABBEY
 p242
 sg12
-g9
+g18
 sa(dp243
 g6
 VWhy?
@@ -971,7 +971,7 @@ sg10
 VBARTLET
 p272
 sg12
-g9
+g18
 sa(dp273
 g6
 VOh, God, no.
@@ -982,7 +982,7 @@ sg10
 VABBEY
 p275
 sg12
-g9
+g18
 sa(dp276
 g6
 VWords, when spoken out loud for the sake of performance, are music. They have rhythm, and pitch, and timbre, and volume. These are the properties of music, and music has the ability to find us and move us, and lift us up in ways that literal meanings can't. Do you see?
@@ -993,7 +993,7 @@ sg10
 VBARTLET
 p278
 sg12
-g9
+g34
 sa(dp279
 g6
 VYou are an oratorical snob.
@@ -1004,7 +1004,7 @@ sg10
 VABBEY
 p281
 sg12
-g9
+g18
 sa(dp282
 g6
 VYes, I am. And God loves me for it.
@@ -1015,7 +1015,7 @@ sg10
 VBARTLET
 p284
 sg12
-g9
+g18
 sa(dp285
 g6
 VYou said he was sending you to hell.
@@ -1048,7 +1048,7 @@ sg10
 VABBEY
 p293
 sg12
-g9
+g34
 sa(dp294
 g6
 VNo, it's not about me! Well, yes, it is about me, but tomorrow it'll be about somebody else. We'll watch Larry King and see who. [shouts] All hacks, off the stage! Right now! That's a national security order.
@@ -1081,7 +1081,7 @@ sg10
 VBARTLET
 p302
 sg12
-g9
+g18
 sa(dp303
 g6
 VPeace be with you. [turns to leave]
@@ -1092,7 +1092,7 @@ sg10
 VABBEY
 p305
 sg12
-g9
+g34
 sa(dp306
 g6
 V[sings] You make me egg foo yung...
@@ -1103,7 +1103,7 @@ sg10
 VBARTLET
 p308
 sg12
-g9
+g18
 sa(dp309
 g6
 VGood morning, Mr. President.
@@ -1125,7 +1125,7 @@ sg10
 VBARTLET
 p314
 sg12
-g9
+g34
 sa(dp315
 g6
 V[to C.J.] He's feisty. Please, don't ask him about church.
@@ -1158,7 +1158,7 @@ sg10
 VBARTLET
 p323
 sg12
-g9
+g34
 sa(dp324
 g6
 VAh, damn. Charlie, can I see Leo?
@@ -1268,7 +1268,7 @@ sg10
 VBARTLET
 p353
 sg12
-g9
+g18
 sa(dp354
 g6
 VYeah, but you don't want to walk too far into that.
@@ -1301,7 +1301,7 @@ sg10
 VLEO
 p362
 sg12
-g9
+g34
 sa(dp363
 g6
 VYou heard?
@@ -1334,7 +1334,7 @@ sg10
 VBARTLET
 p371
 sg12
-g9
+g18
 sa(dp372
 g6
 VI would.
@@ -1345,7 +1345,7 @@ sg10
 VLEO
 p374
 sg12
-g9
+g18
 sa(dp375
 g6
 VYeah.
@@ -1367,7 +1367,7 @@ sg10
 VC.J.
 p380
 sg12
-g34
+g9
 sa(dp381
 g6
 VBe subject to one another, Leo. What can I do to be of subject to you?
@@ -1389,7 +1389,7 @@ sg10
 VLEO
 p386
 sg12
-g9
+g18
 sa(dp387
 g6
 VYeah?
@@ -1411,7 +1411,7 @@ sg10
 VLEO
 p392
 sg12
-g9
+g18
 sa(dp393
 g6
 VOkay.
@@ -1433,7 +1433,7 @@ sg10
 VLEO
 p398
 sg12
-g9
+g18
 sa(dp399
 g6
 VHe's not going to want to do it.
@@ -1477,7 +1477,7 @@ sg10
 VLEO
 p410
 sg12
-g9
+g18
 sa(dp411
 g6
 VWhat about?
@@ -1532,7 +1532,7 @@ sg10
 VBARTLET
 p425
 sg12
-g9
+g18
 sa(dp426
 g6
 VYeah.
@@ -1653,7 +1653,7 @@ sg10
 VWOMAN
 p458
 sg12
-g9
+g18
 sa(dp459
 g6
 VCounsel?
@@ -1675,7 +1675,7 @@ sg10
 VCOUNSEL
 p464
 sg12
-g9
+g18
 sa(dp465
 g6
 VI'd also like to express the Committee appreciation to the witness appearing on a Sunday. Ms. Moss, are you here voluntarily or as a result of a subpoena?
@@ -1697,7 +1697,7 @@ sg10
 VDONNA
 p470
 sg12
-g9
+g18
 sa(dp471
 g6
 VNo need to thank me. [beat] Donna, this is going to be easy, you can laugh. Were you recently asked to help organize documents pursuant to this Committee current investigation?
@@ -1730,7 +1730,7 @@ sg10
 VCLIFF
 p479
 sg12
-g9
+g18
 sa(dp480
 g6
 VOn instructions from Joshua Lyman and the White House Counsel's office, I took over a storage room at the OEOB and began sorting through any interoffice or interdepartmental documents, both from the campaign and from the West Wing.
@@ -1774,7 +1774,7 @@ sg10
 VCLIFF
 p491
 sg12
-g34
+g9
 sa(dp492
 g6
 V[very seriously] We won.
@@ -1785,7 +1785,7 @@ sg10
 VDONNA
 p494
 sg12
-g9
+g18
 sa(dp495
 g6
 VOkay. [beat] My colleagues are going to ask you some questions. Then we'll get back to me and finish up.
@@ -1818,7 +1818,7 @@ sg10
 VMAN
 p503
 sg12
-g34
+g9
 sa(dp504
 g6
 VNo.
@@ -1840,7 +1840,7 @@ sg10
 VMAN
 p509
 sg12
-g34
+g9
 sa(dp510
 g6
 VI'm sorry. Uh... I keep photographs, I don't have them in an album.
@@ -1851,7 +1851,7 @@ sg10
 VDONNA
 p512
 sg12
-g9
+g18
 sa(dp513
 g6
 VOkay. Do you keep a scrapbook?
@@ -1862,7 +1862,7 @@ sg10
 VMAN
 p515
 sg12
-g34
+g9
 sa(dp516
 g6
 VNo.
@@ -1961,7 +1961,7 @@ sg10
 VCLIFF
 p542
 sg12
-g9
+g34
 sa(dp543
 g6
 VDo you receive gifts from anyone who's currently working at the White House?
@@ -1983,7 +1983,7 @@ sg10
 VC.J.
 p548
 sg12
-g34
+g9
 sa(dp549
 g6
 VGood.
@@ -1994,7 +1994,7 @@ sg10
 VWILL
 p551
 sg12
-g9
+g34
 sa(dp552
 g6
 VYou're sitting in my chair.
@@ -2016,7 +2016,7 @@ sg10
 VWILL
 p557
 sg12
-g9
+g18
 sa(dp558
 g6
 V[chuckles] Oh, I've missed you.
@@ -2027,7 +2027,7 @@ sg10
 VC.J.
 p560
 sg12
-g34
+g9
 sa(dp561
 g6
 VYeah. [stands and finds another chair across C.J.'s desk]
@@ -2104,7 +2104,7 @@ sg10
 VWILL
 p581
 sg12
-g9
+g18
 sa(dp582
 g6
 VWell, is there a third world country you haven't been kicked out of?
@@ -2126,7 +2126,7 @@ sg10
 VWILL
 p587
 sg12
-g9
+g34
 sa(dp588
 g6
 VWhy'd they kick you out?
@@ -2170,7 +2170,7 @@ sg10
 VWILL
 p599
 sg12
-g9
+g18
 sa(dp600
 g6
 VYeah?
@@ -2192,7 +2192,7 @@ sg10
 VWILL
 p605
 sg12
-g9
+g18
 sa(dp606
 g6
 VUntil?
@@ -2225,7 +2225,7 @@ sg10
 VC.J.
 p614
 sg12
-g9
+g34
 sa(dp615
 g6
 VYeah.
@@ -2247,7 +2247,7 @@ sg10
 VC.J.
 p620
 sg12
-g34
+g9
 sa(dp621
 g6
 VThe State Department came and got me.
@@ -2291,7 +2291,7 @@ sg10
 VC.J.
 p632
 sg12
-g18
+g9
 sa(dp633
 g6
 VThanks.
@@ -2467,7 +2467,7 @@ sg10
 VC.J.
 p680
 sg12
-g9
+g18
 sa(dp681
 g6
 VPeople lose all track of time and space when I'm not around.
@@ -2511,7 +2511,7 @@ sg10
 VGINGER
 p692
 sg12
-g9
+g18
 sa(dp693
 g6
 VIt's 30 billion in School Modernization Bonds.
@@ -2544,7 +2544,7 @@ sg10
 VTERRY
 p701
 sg12
-g9
+g18
 sa(dp702
 g6
 VRoof repairs, heating and cooling systems, electrical wiring. The point is we think we need the Congressman's vote to get it out of the full Appropriations Committee and on the floor.
@@ -2566,7 +2566,7 @@ sg10
 VTERRY
 p707
 sg12
-g9
+g34
 sa(dp708
 g6
 VThat's what I thought.
@@ -2643,7 +2643,7 @@ sg10
 VSAM
 p728
 sg12
-g9
+g18
 sa(dp729
 g6
 VIt would permanently halt production of the penny.
@@ -2676,7 +2676,7 @@ sg10
 VTERRY
 p737
 sg12
-g34
+g18
 sa(dp738
 g6
 VYeah.
@@ -2731,7 +2731,7 @@ sg10
 VSAM
 p752
 sg12
-g9
+g18
 sa(dp753
 g6
 VNo, you can't. They cost a nickel.
@@ -2775,7 +2775,7 @@ sg10
 VSAM
 p764
 sg12
-g9
+g18
 sa(dp765
 g6
 VYou want your $30 billion in school repairs?
@@ -2819,7 +2819,7 @@ sg10
 VSAM
 p776
 sg12
-g9
+g34
 sa(dp777
 g6
 VCharlie!
@@ -2929,7 +2929,7 @@ sg10
 VCHARLIE
 p806
 sg12
-g9
+g34
 sa(dp807
 g6
 VHey, John.
@@ -2951,7 +2951,7 @@ sg10
 VHOYNES
 p812
 sg12
-g9
+g34
 sa(dp813
 g6
 VDo you know this church?
@@ -3006,7 +3006,7 @@ sg10
 VBARTLET
 p827
 sg12
-g34
+g18
 sa(dp828
 g6
 VNo, I'm fine.
@@ -3017,7 +3017,7 @@ sg10
 VHOYNES
 p830
 sg12
-g9
+g18
 sa(dp831
 g6
 VOn Sundays, when we got back from church, my father would let my brother and me split a beer. It got to be a habit.
@@ -3083,7 +3083,7 @@ sg10
 VHOYNES
 p848
 sg12
-g9
+g18
 sa(dp849
 g6
 VIt's what Texans do. [beat] You know, a decade ago, we passed a few national gun control laws, and the gun lobby turned its back on Congress and started focusing on the states. [Hoynes sits] The NRA systematically worked the legislatures to weaken conceal-and-carry laws, the effect of which is to increase gun sales and pad its own membership.
@@ -3105,7 +3105,7 @@ sg10
 VHOYNES
 p854
 sg12
-g9
+g18
 sa(dp855
 g6
 VThe National Conference on State Legislatures is meeting this weekend at the Convention Center in San Antonio.
@@ -3215,7 +3215,7 @@ sg10
 VLEO
 p884
 sg12
-g9
+g18
 sa(dp885
 g6
 VThanks for taking the time.
@@ -3237,7 +3237,7 @@ sg10
 VLEO
 p890
 sg12
-g9
+g18
 sa(dp891
 g6
 VIt was a good trip. I met with, uh, Hassan, and I met with the Aviation Prince.
@@ -3369,7 +3369,7 @@ sg10
 VLEO
 p926
 sg12
-g9
+g34
 sa(dp927
 g6
 V[reads from a file] "At the close of the last World War, our nation was instrumental in the creation of both the United Nations and the Nuremberg War Crimes Tribunal. Now, at the dawn of the millennium, we cannot betray that tradition of moral leadership." He's made up his mind.
@@ -3468,7 +3468,7 @@ sg10
 VC.J.
 p953
 sg12
-g9
+g18
 sa(dp954
 g6
 V[covers his face with the newspaper] I'm not.
@@ -3490,7 +3490,7 @@ sg10
 VC.J.
 p959
 sg12
-g9
+g18
 sa(dp960
 g6
 VClearly, I'm here, but I-I-I'm not open for business. I heard the President was meeting with Hoynes, so I-I-I wanted to see how-how it goes.
@@ -3556,7 +3556,7 @@ sg10
 VC.J.
 p977
 sg12
-g9
+g18
 sa(dp978
 g6
 VWill Sawyer's in Myanmar.
@@ -3699,7 +3699,7 @@ sg10
 VCLIFF
 p1016
 sg12
-g34
+g9
 sa(dp1017
 g6
 VHow'd you get here before me?
@@ -3710,7 +3710,7 @@ sg10
 VDONNA
 p1019
 sg12
-g9
+g18
 sa(dp1020
 g6
 VI drove.
@@ -3721,7 +3721,7 @@ sg10
 VCLIFF
 p1022
 sg12
-g9
+g18
 sa(dp1023
 g6
 VShould you be here?
@@ -3798,7 +3798,7 @@ sg10
 VDONNA
 p1043
 sg12
-g9
+g18
 sa(dp1044
 g6
 VI saw your diary. When I was over that night. You keep a diary. Why'd you say you didn't?
@@ -3820,7 +3820,7 @@ sg10
 VDONNA
 p1049
 sg12
-g9
+g18
 sa(dp1050
 g6
 VI saw it.
@@ -3831,7 +3831,7 @@ sg10
 VCLIFF
 p1052
 sg12
-g9
+g18
 sa(dp1053
 g6
 VYou didn't 'cause there is no diary.
@@ -3842,7 +3842,7 @@ sg10
 VDONNA
 p1055
 sg12
-g9
+g18
 sa(dp1056
 g6
 VDonna. [stands] It's me and you. Now what's in it that you had to lie to the Committee?
@@ -3897,7 +3897,7 @@ sg10
 VCLIFF
 p1070
 sg12
-g9
+g18
 sa(dp1071
 g6
 VThere is no diary.
@@ -3908,7 +3908,7 @@ sg10
 VDONNA
 p1073
 sg12
-g9
+g18
 sa(dp1074
 g6
 V18 U.S.C., 1-0-0-1. Lying to Congress: 10,000 dollars and not more than five years in prison.
@@ -3930,7 +3930,7 @@ sg10
 VDONNA
 p1079
 sg12
-g9
+g18
 sa(dp1080
 g6
 V18 U.S.C., 1-5-0-5. Obstruction of proceedings before departments, agencies, and committees: Not more than five years. Two U.S.C., 192. Contempt of Congress: A thousand dollars and imprisonment in a common jail for not more than 12 months. It was a perfectly innocent mistake. Now let me talk to your lawyer and help you walk this back.
@@ -4007,7 +4007,7 @@ sg10
 VJOSH
 p1100
 sg12
-g9
+g18
 sa(dp1101
 g6
 VHe doesn't want to abolish it, as much as he wants to give his boss a reason why we can't.
@@ -4029,7 +4029,7 @@ sg10
 VJOSH
 p1106
 sg12
-g9
+g18
 sa(dp1107
 g6
 VYeah, but the thing is it isn't really.
@@ -4040,7 +4040,7 @@ sg10
 VSAM
 p1109
 sg12
-g9
+g18
 sa(dp1110
 g6
 VReally?
@@ -4084,7 +4084,7 @@ sg10
 VSAM
 p1121
 sg12
-g9
+g34
 sa(dp1122
 g6
 VNo, it's not.
@@ -4095,7 +4095,7 @@ sg10
 VJOSH
 p1124
 sg12
-g9
+g18
 sa(dp1125
 g6
 V[stands] The Mint gets letters with pennies taped on notebook paper. Letters from citizens who found the pennies on the street and mailed them back to the Treasury to help pay down the debt.
@@ -4205,7 +4205,7 @@ sg10
 VJOSH
 p1154
 sg12
-g9
+g18
 sa(dp1155
 g6
 VBefore she left. [sits]
@@ -4260,7 +4260,7 @@ sg10
 VSAM
 p1169
 sg12
-g9
+g18
 sa(dp1170
 g6
 VThe penny?
@@ -4282,7 +4282,7 @@ sg10
 VSAM
 p1175
 sg12
-g9
+g18
 sa(dp1176
 g6
 VWhy can you use it in Illinois?
@@ -4304,7 +4304,7 @@ sg10
 VSAM
 p1181
 sg12
-g9
+g34
 sa(dp1182
 g6
 VNo, it's not. [walks off]
@@ -4315,7 +4315,7 @@ sg10
 VJOSH
 p1184
 sg12
-g9
+g18
 sa(dp1185
 g6
 VHey.
@@ -4370,7 +4370,7 @@ sg10
 VC.J.
 p1199
 sg12
-g9
+g34
 sa(dp1200
 g6
 VNo.
@@ -4403,7 +4403,7 @@ sg10
 VWILL
 p1208
 sg12
-g9
+g18
 sa(dp1209
 g6
 VOh.
@@ -4436,7 +4436,7 @@ sg10
 VC.J.
 p1217
 sg12
-g34
+g18
 sa(dp1218
 g6
 VUsing my Palm Pilot, I convinced the Bau I had the power to make the gods' writing appear at will, and more significantly, predict the next day's weather.
@@ -4480,7 +4480,7 @@ sg10
 VC.J.
 p1229
 sg12
-g9
+g18
 sa(dp1230
 g6
 VNo, you're too tall.
@@ -4568,7 +4568,7 @@ sg10
 VC.J.
 p1253
 sg12
-g9
+g34
 sa(dp1254
 g6
 VWhy?
@@ -4590,7 +4590,7 @@ sg10
 VC.J.
 p1259
 sg12
-g34
+g18
 sa(dp1260
 g6
 VYeah.
@@ -4634,7 +4634,7 @@ sg10
 VC.J.
 p1271
 sg12
-g9
+g18
 sa(dp1272
 g6
 VYeah.
@@ -4821,7 +4821,7 @@ sg10
 VBARTLET
 p1322
 sg12
-g9
+g18
 sa(dp1323
 g6
 VMr. President, we're not gonna get anywhere by treating gun owners like psychopaths, and particularly in the South, where guns are a tradition and a heritage that's passed on from father to son. You can't...
@@ -4920,7 +4920,7 @@ sg10
 VBARTLET
 p1349
 sg12
-g34
+g18
 sa(dp1350
 g6
 VI'm playing devil's advocate.
@@ -4931,7 +4931,7 @@ sg10
 VHOYNES
 p1352
 sg12
-g9
+g18
 sa(dp1353
 g6
 VTighter ax control.
@@ -4942,7 +4942,7 @@ sg10
 VBARTLET
 p1355
 sg12
-g9
+g18
 sa(dp1356
 g6
 VYou come down on firearms, you come down on tobacco, you come down on alcohol, but you let Griffith run around talking about legalizing marijuana.
@@ -4964,7 +4964,7 @@ sg10
 VBARTLET
 p1361
 sg12
-g9
+g18
 sa(dp1362
 g6
 VSir?
@@ -5030,7 +5030,7 @@ sg10
 VADAMLEY
 p1379
 sg12
-g9
+g34
 sa(dp1380
 g6
 VThe UN made up its mind in 1948, when they recognized the crime of genocide.
@@ -5118,7 +5118,7 @@ sg10
 VADAMLEY
 p1403
 sg12
-g9
+g18
 sa(dp1404
 g6
 VAnd you don't think that'll undercut the UN's campaign against war crimes?
@@ -5140,7 +5140,7 @@ sg10
 VSAM
 p1409
 sg12
-g9
+g18
 sa(dp1410
 g6
 VHey, Sam.
@@ -5151,7 +5151,7 @@ sg10
 VADAMLEY
 p1412
 sg12
-g9
+g34
 sa(dp1413
 g6
 VMargaret wasn't out here.
@@ -5162,7 +5162,7 @@ sg10
 VSAM
 p1415
 sg12
-g9
+g18
 sa(dp1416
 g6
 VWhat do you need?
@@ -5195,7 +5195,7 @@ sg10
 VADAMLEY
 p1424
 sg12
-g9
+g18
 sa(dp1425
 g6
 VEliminating the penny. So I'll come back.
@@ -5228,7 +5228,7 @@ sg10
 VADAMLEY
 p1433
 sg12
-g9
+g34
 sa(dp1434
 g6
 VHey.
@@ -5261,7 +5261,7 @@ sg10
 VSAM
 p1442
 sg12
-g9
+g18
 sa(dp1443
 g6
 VIt went fine.
@@ -5283,7 +5283,7 @@ sg10
 VSAM
 p1448
 sg12
-g9
+g34
 sa(dp1449
 g6
 VIt was fine. Is Josh in his office?
@@ -5349,7 +5349,7 @@ sg10
 VSAM
 p1466
 sg12
-g9
+g18
 sa(dp1467
 g6
 VFine.
@@ -5371,7 +5371,7 @@ sg10
 VJOSH
 p1472
 sg12
-g9
+g18
 sa(dp1473
 g6
 VI really need to talk to you for a second.
@@ -5415,7 +5415,7 @@ sg10
 VGINGER
 p1484
 sg12
-g9
+g18
 sa(dp1485
 g6
 VFine.
@@ -5448,7 +5448,7 @@ sg10
 VDONNA
 p1493
 sg12
-g9
+g18
 sa(dp1494
 g6
 VWhy did you say you didn't?
@@ -5459,7 +5459,7 @@ sg10
 VJOSH
 p1496
 sg12
-g34
+g9
 sa(dp1497
 g6
 VI don't know.
@@ -5470,7 +5470,7 @@ sg10
 VDONNA
 p1499
 sg12
-g9
+g18
 sa(dp1500
 g6
 VWhat do you mean you don't know?
@@ -5547,7 +5547,7 @@ sg10
 VDONNA
 p1520
 sg12
-g9
+g18
 sa(dp1521
 g6
 VYou don't get to decide that! You don't get to decide what's material and what isn't, Donna!
@@ -5569,7 +5569,7 @@ sg10
 VDONNA
 p1526
 sg12
-g9
+g34
 sa(dp1527
 g6
 VThis is how it happens. They got nothing on the President with MS. They're trolling, then you go in and hand them a...
@@ -5591,7 +5591,7 @@ sg10
 VDONNA
 p1532
 sg12
-g9
+g18
 sa(dp1533
 g6
 VYou were subpoenaed! You were under oath! You answer the damn question!
@@ -5635,7 +5635,7 @@ sg10
 VDONNA
 p1544
 sg12
-g9
+g18
 sa(dp1545
 g6
 VDo nothing. Do absolutely nothing.
@@ -5679,7 +5679,7 @@ sg10
 VSAM
 p1556
 sg12
-g9
+g18
 sa(dp1557
 g6
 V[sighs] Yeah... You're a good deputy, Sam.
@@ -5756,7 +5756,7 @@ sg10
 VTOBY
 p1577
 sg12
-g9
+g34
 sa(dp1578
 g6
 VModernization Bill, yeah.
@@ -5767,7 +5767,7 @@ sg10
 VSAM
 p1580
 sg12
-g9
+g34
 sa(dp1581
 g6
 VWe can't support it 'cause it'll never get to the floor.
@@ -5778,7 +5778,7 @@ sg10
 VTOBY
 p1583
 sg12
-g9
+g18
 sa(dp1584
 g6
 VWhy not?
@@ -5789,7 +5789,7 @@ sg10
 VSAM
 p1586
 sg12
-g9
+g18
 sa(dp1587
 g6
 VWhere's the Speaker of the House from?
@@ -5855,7 +5855,7 @@ sg10
 VSAM
 p1604
 sg12
-g9
+g34
 sa(dp1605
 g6
 VSure. They start walking up the stairs again.
@@ -5954,7 +5954,7 @@ sg10
 VWILL
 p1631
 sg12
-g9
+g18
 sa(dp1632
 g6
 VYes, I did... Well, Toby made the remark in response to some new polling data. It was offhand. Obviously, he meant it as a joke. He regrets it.
@@ -5965,7 +5965,7 @@ sg10
 VC.J.
 p1634
 sg12
-g9
+g18
 sa(dp1635
 g6
 VOkay.
@@ -6020,7 +6020,7 @@ sg10
 VWILL
 p1649
 sg12
-g9
+g18
 sa(dp1650
 g6
 VYou're not gonna let Toby explain himself?
@@ -6042,7 +6042,7 @@ sg10
 VWILL
 p1655
 sg12
-g9
+g18
 sa(dp1656
 g6
 VWhy not?
@@ -6053,7 +6053,7 @@ sg10
 VC.J.
 p1658
 sg12
-g9
+g18
 sa(dp1659
 g6
 V[mildly indignant] It's not news.
@@ -6097,7 +6097,7 @@ sg10
 VC.J.
 p1670
 sg12
-g9
+g34
 sa(dp1671
 g6
 VI'll see you in there.
@@ -6108,7 +6108,7 @@ sg10
 VWILL
 p1673
 sg12
-g9
+g34
 sa(dp1674
 g6
 VYou weren't joking before, were you?
@@ -6119,7 +6119,7 @@ sg10
 VC.J.
 p1676
 sg12
-g9
+g18
 sa(dp1677
 g6
 VWhen?
@@ -6218,7 +6218,7 @@ sg10
 VADAMLEY
 p1703
 sg12
-g9
+g18
 sa(dp1704
 g6
 VWhat doesn't?
@@ -6229,7 +6229,7 @@ sg10
 VLEO
 p1706
 sg12
-g9
+g18
 sa(dp1707
 g6
 VThere're already extreme Republicans who are attaching amendments to bills cutting off military aid to any NATO member that signs the treaty...
@@ -6251,7 +6251,7 @@ sg10
 VLEO
 p1712
 sg12
-g9
+g18
 sa(dp1713
 g6
 V...and committing the U.S. to forcibly rescue any American soldier held and tried in such a court. Leo, this commits the United States to a scenario...where we'd be invading Holland!
@@ -6306,7 +6306,7 @@ sg10
 VADAMLEY
 p1727
 sg12
-g9
+g34
 sa(dp1728
 g6
 V...we looked the other way, while SS officers followed right behind, protected by American intelligence services, 'cause they were gonna help us with the Communists. Oh, please, Alan...So how much of this is hedging our bets?
@@ -6339,7 +6339,7 @@ sg10
 VLEO
 p1736
 sg12
-g9
+g18
 sa(dp1737
 g6
 V[opens the file] September 1966?
@@ -6438,7 +6438,7 @@ sg10
 VLEO
 p1763
 sg12
-g34
+g18
 sa(dp1764
 g6
 VBecause you could be charged and tried for a war crime.
@@ -6526,7 +6526,7 @@ sg10
 VLEO
 p1787
 sg12
-g9
+g34
 sa(dp1788
 g6
 VI appreciate that.
@@ -6537,7 +6537,7 @@ sg10
 VADAMLEY
 p1790
 sg12
-g9
+g18
 sa(dp1791
 g6
 V[stands and sighs heavily] Thank you.
@@ -6548,7 +6548,7 @@ sg10
 VLEO
 p1793
 sg12
-g9
+g34
 sa(dp1794
 g6
 VThank you. [leaves]
@@ -6625,7 +6625,7 @@ sg10
 VHOYNES
 p1814
 sg12
-g9
+g18
 sa(dp1815
 g6
 VYou don't know?
@@ -6636,7 +6636,7 @@ sg10
 VBARTLET
 p1817
 sg12
-g9
+g18
 sa(dp1818
 g6
 VNo, sir. I suppose the concern has more to do with the threat to the Second Amendment.
@@ -6658,7 +6658,7 @@ sg10
 VBARTLET
 p1823
 sg12
-g9
+g18
 sa(dp1824
 g6
 V[wearily] Sir...
@@ -6669,7 +6669,7 @@ sg10
 VHOYNES
 p1826
 sg12
-g9
+g18
 sa(dp1827
 g6
 VThere's no need for a citizen militia.
@@ -6680,7 +6680,7 @@ sg10
 VBARTLET
 p1829
 sg12
-g9
+g18
 sa(dp1830
 g6
 VI agree with you.
@@ -6702,7 +6702,7 @@ sg10
 VBARTLET
 p1835
 sg12
-g9
+g18
 sa(dp1836
 g6
 VForty percent of Americans have a gun in their home.
@@ -6746,7 +6746,7 @@ sg10
 VBARTLET
 p1847
 sg12
-g9
+g18
 sa(dp1848
 g6
 VIf what, sir?
@@ -6757,7 +6757,7 @@ sg10
 VHOYNES
 p1850
 sg12
-g9
+g34
 sa(dp1851
 g6
 VNothing.
@@ -6845,7 +6845,7 @@ sg10
 VBARTLET
 p1874
 sg12
-g34
+g18
 sa(dp1875
 g6
 VYes, it was!
@@ -7021,7 +7021,7 @@ sg10
 VHOYNES
 p1922
 sg12
-g34
+g9
 sa(dp1923
 g6
 VThere's a coffee shop across the street. You can read it there. You've got an hour. I haven't read it, but if anything bothers you, you'll issue a subpoena in the morning. You'll have it back before the end of the day. If not, that's that.
@@ -7087,7 +7087,7 @@ sg10
 VCLIFF
 p1940
 sg12
-g9
+g34
 sa(dp1941
 g6
 V[shivering, sighs] It's starting to get cold already.
@@ -7098,7 +7098,7 @@ sg10
 VJOSH
 p1943
 sg12
-g9
+g18
 sa(dp1944
 g6
 VIt's gonna be fine.

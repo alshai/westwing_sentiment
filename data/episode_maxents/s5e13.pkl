@@ -23,30 +23,30 @@ VBARTLET
 p11
 sS'maxent_score'
 p12
-S'positive'
-p13
-sa(dp14
+g9
+sa(dp13
 g6
 VGood morning.
-p15
+p14
 sg8
 g9
 sg10
 VBARTLET
-p16
+p15
 sg12
-g9
+S'positive'
+p16
 sa(dp17
 g6
 VGood morning, sir.
 p18
 sg8
-g13
+g16
 sg10
 VALL
 p19
 sg12
-g9
+g16
 sa(dp20
 g6
 VOr whatever 3:00 am is. Please.
@@ -86,7 +86,7 @@ g6
 VOver the north central Indian Ocean, sir. Not near anything.
 p31
 sg8
-g13
+g16
 sg10
 VHUTCHINSON
 p32
@@ -108,12 +108,12 @@ g6
 VAll atmospheric detonations produce that unique signature, sir; an initial one-millisecond flash, the fireball, which is then overtaken and obscured by the expanding shock front.
 p37
 sg8
-g13
+g16
 sg10
 VALEXANDER
 p38
 sg12
-g9
+g16
 sa(dp39
 g6
 VSo, it couldn't be anything else?
@@ -124,7 +124,7 @@ sg10
 VBARTLET
 p41
 sg12
-g9
+g23
 sa(dp42
 g6
 VNo.
@@ -146,7 +146,7 @@ sg10
 VALEXANDER
 p47
 sg12
-g9
+g23
 sa(dp48
 g6
 VOther sensors?
@@ -207,7 +207,7 @@ g6
 VThe Russians and the Chinese have satellite detection capability for an atmospheric NUDET.
 p64
 sg8
-g13
+g16
 sg10
 VALEXANDER
 p65
@@ -218,12 +218,12 @@ g6
 VNuclear detonation, sir.
 p67
 sg8
-g13
+g16
 sg10
 VHUTCHINSON
 p68
 sg12
-g9
+g16
 sa(dp69
 g6
 VYeah.
@@ -273,7 +273,7 @@ g6
 VThe CIA director called. He's been held...
 p82
 sg8
-g13
+g16
 sg10
 VCHARLIE
 p83
@@ -289,7 +289,7 @@ sg10
 VLEO
 p86
 sg12
-g9
+g23
 sa(dp87
 g6
 VThat's the theory.
@@ -328,23 +328,23 @@ g6
 VThey agree about keeping this quiet.
 p97
 sg8
-g13
+g16
 sg10
 VSLATTERY
 p98
 sg12
-g9
+g16
 sa(dp99
 g6
 VWhoever this was, they knew we'd pick it up.
 p100
 sg8
-g13
+g16
 sg10
 VBARTLET
 p101
 sg12
-g9
+g23
 sa(dp102
 g6
 VLikely suspects?
@@ -394,7 +394,7 @@ g6
 VWell, "sure" is a word we don't throw around at Langley.
 p115
 sg8
-g13
+g16
 sg10
 VSLIGER
 p116
@@ -432,13 +432,13 @@ sg10
 VSLIGER
 p125
 sg12
-g9
+g23
 sa(dp126
 g6
 VThere's that other word: "know".
 p127
 sg8
-g13
+g16
 sg10
 VSLIGER
 p128
@@ -449,7 +449,7 @@ g6
 VWhat we know and are sure of is this happened. We're going to need to focus less on semantic distinctions and more on how this caught us so completely by surprise. We need to make contact. The Chinese for North Korea?
 p130
 sg8
-g13
+g16
 sg10
 VBARTLET
 p131
@@ -482,7 +482,7 @@ g6
 VNo good. We don't want them in the loop.
 p139
 sg8
-g13
+g16
 sg10
 VLEO
 p140
@@ -531,18 +531,18 @@ sg10
 VBARTLET
 p152
 sg12
-g13
+g16
 sa(dp153
 g6
 VThank you, sir.
 p154
 sg8
-g13
+g16
 sg10
 VALL
 p155
 sg12
-g13
+g16
 sa(dp156
 g6
 VLittle rough with the Director?
@@ -614,7 +614,7 @@ g6
 VWe act, we'll need a statement.
 p175
 sg8
-g13
+g16
 sg10
 VLEO
 p176
@@ -641,7 +641,7 @@ sg10
 VLEO
 p182
 sg12
-g9
+g16
 sa(dp183
 g6
 VOh, God.
@@ -713,12 +713,12 @@ g6
 VMorning. So this meeting's a breakfast.
 p202
 sg8
-g13
+g16
 sg10
 VDONNA
 p203
 sg12
-g9
+g16
 sa(dp204
 g6
 VOkay.
@@ -735,7 +735,7 @@ g6
 VSo you have to eat something.
 p208
 sg8
-g13
+g16
 sg10
 VDONNA
 p209
@@ -751,7 +751,7 @@ sg10
 VJOSH
 p212
 sg12
-g9
+g23
 sa(dp213
 g6
 VOr else it's rude.
@@ -773,7 +773,7 @@ sg10
 VJOSH
 p218
 sg12
-g9
+g23
 sa(dp219
 g6
 VOr else it's rude.
@@ -795,7 +795,7 @@ sg10
 VJOSH
 p224
 sg12
-g9
+g23
 sa(dp225
 g6
 VI'm sure they're not geeks. I'm sure they're not all geeks, and it's to discuss administration space priorities. Do we even have space priorities?
@@ -839,7 +839,7 @@ sg10
 VKARL
 p236
 sg12
-g9
+g16
 sa(dp237
 g6
 VYou have nametags?
@@ -878,7 +878,7 @@ g6
 VI recommend the scones. They're...
 p247
 sg8
-g13
+g16
 sg10
 VKARL
 p248
@@ -927,7 +927,7 @@ sg10
 VLEO
 p260
 sg12
-g13
+g16
 sa(dp261
 g6
 VWhat's up?
@@ -944,7 +944,7 @@ g6
 VSir, this is to be kept in the strictest of confidence. At approximately 2:17 am eastern time, an atmospheric nuclear detonation was detected by a DSP satellite over the Indian Ocean.
 p265
 sg8
-g13
+g16
 sg10
 VLEO
 p266
@@ -966,7 +966,7 @@ g6
 VNo, sir. This was a test.
 p271
 sg8
-g13
+g16
 sg10
 VLEO
 p272
@@ -988,7 +988,7 @@ g6
 VIt wasn't Pakistan. If you'll just let me finish. No nation has claimed credit. We're trying to ascertain who was responsible, but it appears there's a new player on the nuclear stage.
 p277
 sg8
-g13
+g16
 sg10
 VLEO
 p278
@@ -1015,7 +1015,7 @@ sg10
 VLEO
 p284
 sg12
-g9
+g23
 sa(dp285
 g6
 VBut, I don't...
@@ -1076,7 +1076,7 @@ g6
 VHe gets any more persistent, they're going to open a case file. Can I just tell him you're not worth it?
 p301
 sg8
-g13
+g16
 sg10
 VCAROL
 p302
@@ -1098,12 +1098,12 @@ g6
 VFeeling frisky?
 p307
 sg8
-g13
+g16
 sg10
 VTOBY
 p308
 sg12
-g9
+g16
 sa(dp309
 g6
 VRemembrance of things past.
@@ -1175,7 +1175,7 @@ g6
 VEndangered species, powdered horn considered an aphrodisiac. That were the word "horny" come from?
 p328
 sg8
-g13
+g16
 sg10
 VC.J.
 p329
@@ -1219,7 +1219,7 @@ g6
 V'We're happy to stay out of that particular slap-fight in the schoolyard.'
 p340
 sg8
-g13
+g16
 sg10
 VC.J.
 p341
@@ -1235,7 +1235,7 @@ sg10
 VTOBY
 p344
 sg12
-g9
+g16
 sa(dp345
 g6
 VThanks, Leo. Don't hesitate to call on me if I can be useful in any way.
@@ -1246,13 +1246,13 @@ sg10
 VRUSSELL
 p347
 sg12
-g9
+g23
 sa(dp348
 g6
 VBe sure to let you know, sir.
 p349
 sg8
-g13
+g16
 sg10
 VLEO
 p350
@@ -1285,7 +1285,7 @@ g6
 VI've been thinking. To build the VP's issue profile, I'm wondering if there's some policy area the administration could give him.
 p358
 sg8
-g13
+g16
 sg10
 VWILL
 p359
@@ -1362,7 +1362,7 @@ g6
 VListen, I... appreciate your coming in, but you may be meeting with the wrong guy. My knowledge about space is like the old joke about the official announcing a new program. He says, 'We're going to go where no one has ever been. We're going to land on... the sun!' Reporter says, 'But, sir, the sun's a burning mass of fire.' The official replies, 'Ah! Thought of that. That's why we're going to go at night.' What I know is politics. Public perception. And the image of NASA is not good. Telescopes launched that can't focus. Planetary probes that crashed because engineers mixed up meters and feet. The only time NASA makes the front page anymore, is when something goes wrong. You need to get off the front page. This administration has only one space priority: that you guys stop screwing up. Thanks for your time.
 p379
 sg8
-g13
+g16
 sg10
 VJOSH
 p380
@@ -1417,7 +1417,7 @@ g6
 VNo, I mean actual potholes, on - I don't know - the interstate.
 p394
 sg8
-g13
+g16
 sg10
 VTOBY
 p395
@@ -1472,7 +1472,7 @@ g6
 VWhen I briefed him, he kind of tilted his head. I'll update him after.
 p409
 sg8
-g13
+g16
 sg10
 VLEO
 p410
@@ -1543,7 +1543,7 @@ sg10
 VSLIGER
 p428
 sg12
-g9
+g16
 sa(dp429
 g6
 VPlease let that be the bad news.
@@ -1554,13 +1554,13 @@ sg10
 VTOBY
 p431
 sg12
-g9
+g23
 sa(dp432
 g6
 V'Cause we also believe their technology's so advanced they don't need to perform tests.
 p433
 sg8
-g13
+g16
 sg10
 VSLIGER
 p434
@@ -1576,7 +1576,7 @@ sg10
 VBARTLET
 p437
 sg12
-g9
+g23
 sa(dp438
 g6
 VMoscow doesn't think so.
@@ -1587,7 +1587,7 @@ sg10
 VHUTCHINSON
 p440
 sg12
-g9
+g23
 sa(dp441
 g6
 VThey might just be covering their own ass.
@@ -1648,7 +1648,7 @@ g6
 VAll right, let's put our cards on the table. What helped keep the Cold War cold was a sense of moral restraint that these weapons were to terrible to use.
 p457
 sg8
-g13
+g16
 sg10
 VBARTLET
 p458
@@ -1659,7 +1659,7 @@ g6
 VThat restraint won't exist in jihadists who strap bombs to their chests and enter nightclubs.
 p460
 sg8
-g13
+g16
 sg10
 VLEO
 p461
@@ -1670,7 +1670,7 @@ g6
 VThere are moderate elements on the ascendancy in Iran.
 p463
 sg8
-g13
+g16
 sg10
 VSLIGER
 p464
@@ -1708,7 +1708,7 @@ sg10
 VSLATTERY
 p473
 sg12
-g13
+g9
 sa(dp474
 g6
 VThank you, all.
@@ -1725,12 +1725,12 @@ g6
 VThank you, sir.
 p478
 sg8
-g13
+g16
 sg10
 VALL
 p479
 sg12
-g13
+g16
 sa(dp480
 g6
 VLyle?
@@ -1763,7 +1763,7 @@ sg10
 VC.J.
 p488
 sg12
-g9
+g16
 sa(dp489
 g6
 VWell, is the administration contemplating a more forceful expression of disapproval?
@@ -1780,7 +1780,7 @@ g6
 VWe continue to urge every party in the region to take every step to reduce tensions. Steve?
 p493
 sg8
-g13
+g16
 sg10
 VC.J.
 p494
@@ -1873,7 +1873,7 @@ sg10
 VC.J.
 p518
 sg12
-g9
+g23
 sa(dp519
 g6
 VWhat about going to the U.N.?
@@ -1895,7 +1895,7 @@ sg10
 VLEO
 p524
 sg12
-g9
+g16
 sa(dp525
 g6
 VIsn't that what it's there for?
@@ -1906,13 +1906,13 @@ sg10
 VTOBY
 p527
 sg12
-g9
+g23
 sa(dp528
 g6
 VYeah. But this isn't the room where you talk about that.
 p529
 sg8
-g13
+g16
 sg10
 VLEO
 p530
@@ -1934,12 +1934,12 @@ g6
 VYes, sir. We're still gathering data on precise yield and type.
 p535
 sg8
-g13
+g16
 sg10
 VHUTCHINSON
 p536
 sg12
-g9
+g16
 sa(dp537
 g6
 VOptions, General.
@@ -1950,7 +1950,7 @@ sg10
 VBARTLET
 p539
 sg12
-g9
+g16
 sa(dp540
 g6
 VNorth Korea's nuclear facilities and weapons are stored in tunnels a half mile underground. Unreachable by air power. And they've threatened nuclear retaliation in the event of attack, presumably against the South, but also conceivably against Australia or Japan.
@@ -1983,7 +1983,7 @@ sg10
 VALEXANDER
 p548
 sg12
-g9
+g23
 sa(dp549
 g6
 VThe downside is a potential retaliatory nuclear strike at Israel.
@@ -1994,7 +1994,7 @@ sg10
 VHUTCHINSON
 p551
 sg12
-g9
+g23
 sa(dp552
 g6
 VYou're sending up a new telescope.
@@ -2016,7 +2016,7 @@ sg10
 VMOREAU
 p557
 sg12
-g9
+g16
 sa(dp558
 g6
 VEvery news story noted it'll be too far out for the Shuttle to fix if it's all screwed up, like the Hubble was. I prepare even for meetings I don't' want to go to. I wasn't improvising. You guys are lost in space.
@@ -2176,7 +2176,7 @@ g6
 VUntil you get a good look at what's up there, you only think you're prepared. Pick you up at 8:00.
 p601
 sg8
-g13
+g16
 sg10
 VMOREAU
 p602
@@ -2247,7 +2247,7 @@ sg10
 VWILL
 p620
 sg12
-g13
+g16
 sa(dp621
 g6
 VI spoke to Leo. I got the Vice President a policy focus.
@@ -2258,7 +2258,7 @@ sg10
 VTOBY
 p623
 sg12
-g9
+g23
 sa(dp624
 g6
 VGreat.
@@ -2269,7 +2269,7 @@ sg10
 VWILL
 p626
 sg12
-g9
+g16
 sa(dp627
 g6
 VGood government.
@@ -2280,7 +2280,7 @@ sg10
 VTOBY
 p629
 sg12
-g9
+g16
 sa(dp630
 g6
 VNot that chestnut. "Reducing bureaucracy, rewriting regulations into plain English."
@@ -2297,12 +2297,12 @@ g6
 VExtremely important.
 p634
 sg8
-g13
+g16
 sg10
 VTOBY
 p635
 sg12
-g9
+g16
 sa(dp636
 g6
 VAnd incredibly boring.
@@ -2313,7 +2313,7 @@ sg10
 VWILL
 p638
 sg12
-g9
+g23
 sa(dp639
 g6
 VAs is the Vice President. A match made in heaven.
@@ -2341,18 +2341,18 @@ g6
 VYou asked, and ye have received.
 p646
 sg8
-g13
+g16
 sg10
 VTOBY
 p647
 sg12
-g9
+g16
 sa(dp648
 g6
 VAnd, yet, my joy is less than full. "Revoking the franking privilege".
 p649
 sg8
-g13
+g16
 sg10
 VWILL
 p650
@@ -2368,7 +2368,7 @@ sg10
 VTOBY
 p653
 sg12
-g23
+g9
 sa(dp654
 g6
 VClose the door.
@@ -2379,7 +2379,7 @@ sg10
 VTOBY
 p656
 sg12
-g9
+g23
 sa(dp657
 g6
 VThe Swiss like nice things.
@@ -2396,7 +2396,7 @@ g6
 VYou can afford them when you don't have to pay for a national defense.
 p661
 sg8
-g13
+g16
 sg10
 VLEO
 p662
@@ -2434,7 +2434,7 @@ sg10
 VASSISTANT
 p671
 sg12
-g13
+g9
 sa(dp672
 g6
 VNo thank you, ma'am.
@@ -2445,7 +2445,7 @@ sg10
 VLEO
 p674
 sg12
-g13
+g9
 sa(dp675
 g6
 VNational Security Advisor McNally, Assistant Secretary of State Slattery. I hope the trip down wasn't too inconvenient.
@@ -2467,7 +2467,7 @@ sg10
 VAMBASSADOR
 p680
 sg12
-g9
+g23
 sa(dp681
 g6
 VPlease.
@@ -2495,7 +2495,7 @@ g6
 VWe've agreed to IAEA inspections, suspended production on enriched uranium.
 p688
 sg8
-g13
+g16
 sg10
 VAMBASSADOR
 p689
@@ -2544,7 +2544,7 @@ sg10
 VLEO
 p701
 sg12
-g13
+g16
 sa(dp702
 g6
 VFor reactor fuel, for power generation, as our European friends recognize is our sovereign right.
@@ -2572,7 +2572,7 @@ g6
 VIt is necessary, because of rising domestic consumption rates, and our desire to preserve oil and gas to generate foreign currency.
 p709
 sg8
-g13
+g16
 sg10
 VAMBASSADOR
 p710
@@ -2583,18 +2583,18 @@ g6
 VAnd we enjoy and anticipate stable relations with Saudi Arabia, Pakistan, Turkey, Afghanistan. These are the nations within range of this missile.
 p712
 sg8
-g13
+g16
 sg10
 VAMBASSADOR
 p713
 sg12
-g9
+g16
 sa(dp714
 g6
 VAnd Israel, I understand. Sir, we believe your country has been engaged in developing nuclear weapons.
 p715
 sg8
-g13
+g16
 sg10
 VLEO
 p716
@@ -2665,7 +2665,7 @@ sg10
 VAMBASSADOR
 p734
 sg12
-g9
+g23
 sa(dp735
 g6
 VAnd I know what concerns Iran: a Jewish bomb.
@@ -2797,7 +2797,7 @@ sg10
 VLEO
 p770
 sg12
-g9
+g23
 sa(dp771
 g6
 VChris Aldrich of the Sun wants ten minutes, and Danny Concannon left a message.
@@ -2819,18 +2819,18 @@ sg10
 VC.J.
 p776
 sg12
-g9
+g16
 sa(dp777
 g6
 VI'm not sure I can do it justice.
 p778
 sg8
-g13
+g16
 sg10
 VCAROL
 p779
 sg12
-g9
+g23
 sa(dp780
 g6
 VCarol...
@@ -2896,7 +2896,7 @@ sg10
 VLEO
 p797
 sg12
-g9
+g23
 sa(dp798
 g6
 VNo smoking gun.
@@ -2907,7 +2907,7 @@ sg10
 VHUTCHINSON
 p800
 sg12
-g9
+g23
 sa(dp801
 g6
 VRecommendations. If it's North Korea.
@@ -2940,7 +2940,7 @@ sg10
 VSLIGER
 p809
 sg12
-g9
+g23
 sa(dp810
 g6
 VIran, then. General?
@@ -2951,7 +2951,7 @@ sg10
 VBARTLET
 p812
 sg12
-g9
+g23
 sa(dp813
 g6
 VSurgical air strikes on enrichment sites.
@@ -2995,7 +2995,7 @@ sg10
 VALEXANDER
 p824
 sg12
-g9
+g23
 sa(dp825
 g6
 VGet the B-2s in the air, General.
@@ -3012,12 +3012,12 @@ g6
 VYes, sir.
 p829
 sg8
-g13
+g16
 sg10
 VALEXANDER
 p830
 sg12
-g13
+g16
 sa(dp831
 g6
 VWe go the minute, and I mean the minute, we're certain.
@@ -3039,7 +3039,7 @@ sg10
 VALL
 p836
 sg12
-g13
+g9
 sa(dp837
 g6
 VCurtailing Congressional junkets, shuttering archaic agricultural field offices...
@@ -3050,7 +3050,7 @@ sg10
 VWILL
 p839
 sg12
-g9
+g23
 sa(dp840
 g6
 VYou don't think I should do it?
@@ -3061,7 +3061,7 @@ sg10
 VRUSSELL
 p842
 sg12
-g9
+g23
 sa(dp843
 g6
 VIt buries you in minutia. The public's all for it, but they'd rather chug sewage than have to hear anyone discuss it.
@@ -3089,7 +3089,7 @@ g6
 VReason enough to beg off. You don't fully agree with the administration's stance.
 p850
 sg8
-g13
+g16
 sg10
 VWILL
 p851
@@ -3116,13 +3116,13 @@ sg10
 VRUSSELL
 p857
 sg12
-g13
+g23
 sa(dp858
 g6
 VYeah, of course, sir.
 p859
 sg8
-g13
+g16
 sg10
 VWILL
 p860
@@ -3188,7 +3188,7 @@ g6
 VYou'd just keep it alive. Old newspaper adage: "Never pick a fight with someone who buys ink by the barrel."
 p877
 sg8
-g13
+g16
 sg10
 VTOBY
 p878
@@ -3232,12 +3232,12 @@ g6
 VExcuse me, sir.
 p889
 sg8
-g13
+g16
 sg10
 VCHARLIE
 p890
 sg12
-g9
+g16
 sa(dp891
 g6
 VI know. I've got to get dressed for the HHS thing.
@@ -3248,7 +3248,7 @@ sg10
 VBARTLET
 p893
 sg12
-g9
+g23
 sa(dp894
 g6
 VMr. President, you should cancel. It's been a long day, sir.
@@ -3270,13 +3270,13 @@ sg10
 VBARTLET
 p899
 sg12
-g9
+g23
 sa(dp900
 g6
 VYou should get some rest.
 p901
 sg8
-g13
+g16
 sg10
 VCHARLIE
 p902
@@ -3303,7 +3303,7 @@ sg10
 VBARTLET
 p908
 sg12
-g9
+g23
 sa(dp909
 g6
 VYes, Mr. President.
@@ -3314,7 +3314,7 @@ sg10
 VCHARLIE
 p911
 sg12
-g13
+g16
 sa(dp912
 g6
 VYeah.
@@ -3336,7 +3336,7 @@ sg10
 VLEO
 p917
 sg12
-g9
+g23
 sa(dp918
 g6
 VB-2s have taken off. Their targets are five uranium enrichment sites in Iran.
@@ -3353,12 +3353,12 @@ g6
 VWe've confirmed it was them?
 p922
 sg8
-g13
+g16
 sg10
 VTOBY
 p923
 sg12
-g9
+g23
 sa(dp924
 g6
 VIt's not a go till we're sure.
@@ -3369,7 +3369,7 @@ sg10
 VLEO
 p926
 sg12
-g9
+g23
 sa(dp927
 g6
 VIs this the room?
@@ -3397,7 +3397,7 @@ g6
 VWhere we talk about the U.N. So far, I'm the only one bringing it up.
 p934
 sg8
-g13
+g16
 sg10
 VTOBY
 p935
@@ -3424,13 +3424,13 @@ sg10
 VTOBY
 p941
 sg12
-g13
+g16
 sa(dp942
 g6
 VHave a statement ready.
 p943
 sg8
-g13
+g16
 sg10
 VLEO
 p944
@@ -3441,7 +3441,7 @@ g6
 VComplacency--who knows? It's like asking why the sky's blue.
 p946
 sg8
-g13
+g16
 sg10
 VJOSH
 p947
@@ -3463,12 +3463,12 @@ g6
 VWhy the sky's blue.
 p952
 sg8
-g13
+g16
 sg10
 VMOREAU
 p953
 sg12
-g9
+g16
 sa(dp954
 g6
 V[into phone] Yeah. ... Can this wait till tomorrow? ... Put him on. ... Yes, Mr. Vice President.
@@ -3485,12 +3485,12 @@ g6
 VThis is good.
 p958
 sg8
-g13
+g16
 sg10
 VMOREAU
 p959
 sg12
-g9
+g16
 sa(dp960
 g6
 VHere, could you...?
@@ -3523,7 +3523,7 @@ sg10
 VMOREAU
 p968
 sg12
-g13
+g16
 sa(dp969
 g6
 VOkay. When you said... I thought we were going to some big observatory.
@@ -3573,7 +3573,7 @@ g6
 VThere's one named after me up there. The Josh and Linda star.
 p982
 sg8
-g13
+g16
 sg10
 VJOSH
 p983
@@ -3633,7 +3633,7 @@ sg10
 VMOREAU
 p998
 sg12
-g13
+g23
 sa(dp999
 g6
 VSexy. Player. Dumped you.
@@ -3644,18 +3644,18 @@ sg10
 VJOSH
 p1001
 sg12
-g13
+g16
 sa(dp1002
 g6
 VOkay, not such a long story. Go ahead.
 p1003
 sg8
-g13
+g16
 sg10
 VMOREAU
 p1004
 sg12
-g13
+g9
 sa(dp1005
 g6
 VJupiter. The dots on either side are the four Galilean moons. You're seeing what Galileo saw 400 years ago.
@@ -3688,7 +3688,7 @@ sg10
 VMOREAU
 p1013
 sg12
-g9
+g16
 sa(dp1014
 g6
 V61?!
@@ -3705,7 +3705,7 @@ g6
 VGo ahead.
 p1018
 sg8
-g13
+g16
 sg10
 VMOREAU
 p1019
@@ -3721,7 +3721,7 @@ sg10
 VJOSH
 p1022
 sg12
-g9
+g23
 sa(dp1023
 g6
 VThe Orion Nebula. Gas and dust. Stars are born in that. Well, born and die, actually. Everything, every atom in our bodies comes from exploding stars. I guess Joni Mitchell was right. We are stardust.
@@ -3743,7 +3743,7 @@ sg10
 VJOSH
 p1028
 sg12
-g13
+g23
 sa(dp1029
 g6
 VIs that...?
@@ -3782,12 +3782,12 @@ g6
 VGood evening, sir.
 p1039
 sg8
-g13
+g16
 sg10
 VLEO
 p1040
 sg12
-g9
+g16
 sa(dp1041
 g6
 VOne thing about this job: it's hard to unobtrusively slip out of a party.
@@ -3798,7 +3798,7 @@ sg10
 VBARTLET
 p1043
 sg12
-g9
+g23
 sa(dp1044
 g6
 VMr. Vice President, would you tell everyone what you told me?
@@ -3831,7 +3831,7 @@ sg10
 VALEXANDER
 p1052
 sg12
-g9
+g16
 sa(dp1053
 g6
 VGuy was drunk.
@@ -3842,7 +3842,7 @@ sg10
 VHUTCHINSON
 p1055
 sg12
-g9
+g23
 sa(dp1056
 g6
 VIsrael's nuclear capability's been an open secret for years. Why would they perform a test now?
@@ -3859,7 +3859,7 @@ g6
 VGetting nuclear warheads on submarine-based missiles requires miniaturization technology that could need to be tested.
 p1060
 sg8
-g13
+g16
 sg10
 VRUSSELL
 p1061
@@ -3881,7 +3881,7 @@ g6
 VI know. That's not a word your fond of at Langley. Let the man talk.
 p1066
 sg8
-g13
+g16
 sg10
 VBARTLET
 p1067
@@ -3892,7 +3892,7 @@ g6
 VIsrael's been developing advanced fusion-boosted technology. This technology is extremely difficult and requires testing to produce warheads that are capable of being shrunk to the size needed to be placed on submarine-based cruise missiles.
 p1069
 sg8
-g13
+g16
 sg10
 VRUSSELL
 p1070
@@ -3914,7 +3914,7 @@ g6
 VThree hours out of Missouri, sir. They'll be over their targets in Iran in 14 hours.
 p1075
 sg8
-g13
+g16
 sg10
 VALEXANDER
 p1076
@@ -3925,7 +3925,7 @@ g6
 VTell the Israeli ambassador to get his Prime Minister on a plane.
 p1078
 sg8
-g13
+g16
 sg10
 VBARTLET
 p1079
@@ -3936,12 +3936,12 @@ g6
 VYes, sir.
 p1081
 sg8
-g13
+g16
 sg10
 VSLATTERY
 p1082
 sg12
-g13
+g16
 sa(dp1083
 g6
 VGeneral.
@@ -3958,12 +3958,12 @@ g6
 VYes, sir?
 p1087
 sg8
-g13
+g16
 sg10
 VALEXANDER
 p1088
 sg12
-g13
+g16
 sa(dp1089
 g6
 VPut a hold on the bombers.
@@ -3980,12 +3980,12 @@ g6
 VYes, sir.
 p1093
 sg8
-g13
+g16
 sg10
 VALEXANDER
 p1094
 sg12
-g13
+g16
 sa(dp1095
 g6
 VLeo, Mr. Vice President.
@@ -4018,13 +4018,13 @@ sg10
 VALL
 p1103
 sg12
-g13
+g9
 sa(dp1104
 g6
 VWe'll need a cover story for the visit.
 p1105
 sg8
-g13
+g16
 sg10
 VLEO
 p1106
@@ -4106,7 +4106,7 @@ sg10
 VMOREAU
 p1127
 sg12
-g9
+g16
 sa(dp1128
 g6
 VOver ten years. It's the cost of one weapon's system.
@@ -4134,7 +4134,7 @@ g6
 VWe launch a crew directly there, like we went to the Moon, and use the resources there to make the fuel to get back.
 p1135
 sg8
-g13
+g16
 sg10
 VMOREAU
 p1136
@@ -4167,7 +4167,7 @@ g6
 VThe Israeli Prime Minister is flying in today to discuss their new settlement activity.
 p1144
 sg8
-g13
+g16
 sg10
 VTOBY
 p1145
@@ -4205,7 +4205,7 @@ sg10
 VC.J.
 p1154
 sg12
-g9
+g23
 sa(dp1155
 g6
 VYeah.
@@ -4260,13 +4260,13 @@ sg10
 VRUSSELL
 p1169
 sg12
-g9
+g23
 sa(dp1170
 g6
 VDue respect, it's not a serious policy brief. You have to get the West Wing to start treating you with more respect.
 p1171
 sg8
-g13
+g16
 sg10
 VWILL
 p1172
@@ -4299,12 +4299,12 @@ g6
 VDid you get some sleep, sir?
 p1180
 sg8
-g13
+g16
 sg10
 VCHARLIE
 p1181
 sg12
-g9
+g16
 sa(dp1182
 g6
 VNot much.
@@ -4348,7 +4348,7 @@ sg10
 VDONNA
 p1193
 sg12
-g13
+g16
 sa(dp1194
 g6
 VHow long have you been there?
@@ -4359,7 +4359,7 @@ sg10
 VJOSH
 p1196
 sg12
-g9
+g23
 sa(dp1197
 g6
 VLong enough.
@@ -4409,7 +4409,7 @@ g6
 VSuddenly this consuming interest in space just because some NASA administrator batted eyes at you?
 p1210
 sg8
-g13
+g16
 sg10
 VDONNA
 p1211
@@ -4425,7 +4425,7 @@ sg10
 VJOSH
 p1214
 sg12
-g9
+g23
 sa(dp1215
 g6
 VWhat was your first hint?
@@ -4458,7 +4458,7 @@ sg10
 VJOSH
 p1223
 sg12
-g13
+g23
 sa(dp1224
 g6
 VInspiring start.
@@ -4491,7 +4491,7 @@ sg10
 VJOSH
 p1232
 sg12
-g9
+g16
 sa(dp1233
 g6
 VNeeds something.
@@ -4508,12 +4508,12 @@ g6
 VYeah, that inspiration thing.
 p1237
 sg8
-g13
+g16
 sg10
 VJOSH
 p1238
 sg12
-g9
+g16
 sa(dp1239
 g6
 VPrime Minister, thank you for coming.
@@ -4535,7 +4535,7 @@ sg10
 VDONNA
 p1244
 sg12
-g9
+g23
 sa(dp1245
 g6
 VThank you for coming, Mr. Prime Minister. You've had a long flight and I've had a long last day and a half. Let's not waste any time with veiled questions and coy answers. Your government conducted a atmospheric nuclear test over the Indian Ocean 36 hours ago. This action poses enormous problems for the region, for the world.
@@ -4557,7 +4557,7 @@ sg10
 VBARTLET
 p1250
 sg12
-g9
+g16
 sa(dp1251
 g6
 VProliferation breeds proliferation. China's bomb produced India's. India's begat Pakistan's.
@@ -4596,7 +4596,7 @@ g6
 VThere's a reason its acronym was MAD.
 p1261
 sg8
-g13
+g16
 sg10
 VBARTLET
 p1262

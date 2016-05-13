@@ -34,609 +34,609 @@ sg10
 VBARTLET
 p15
 sg12
-g9
-sa(dp16
+S'negative'
+p16
+sa(dp17
 g6
 VWe spoke several times about Kashmir, and she assured me they're working towards a peaceful resolution. We also had a spirited conversation about chess.
-p17
+p18
 sg8
 S'positive'
-p18
+p19
 sg10
 VBARTLET
-p19
+p20
 sg12
 g9
-sa(dp20
+sa(dp21
 g6
 VChess was invented in India. Somewhere around 600 A.D., a gigantic chessboard was constructed at Fatehpur Sikri which was the capital a long time ago, and human figures were used as chess pieces.
-p21
+p22
 sg8
-g18
+g19
 sg10
 VBARTLET
-p22
+p23
 sg12
 g9
-sa(dp23
+sa(dp24
 g6
 V[indicating phone] C.J.
-p24
+p25
 sg8
 g9
 sg10
 VMARGARET
-p25
+p26
 sg12
 g9
-sa(dp26
+sa(dp27
 g6
 VC.J.?
-p27
+p28
 sg8
 g9
 sg10
 VLEO
-p28
+p29
 sg12
 g9
-sa(dp29
+sa(dp30
 g6
 V[on phone] Hey, Leo.
-p30
+p31
 sg8
 g9
 sg10
 VC.J.
-p31
+p32
 sg12
 g9
-sa(dp32
+sa(dp33
 g6
 VWhat's he doing?
-p33
+p34
 sg8
 g9
 sg10
 VLEO
-p34
+p35
 sg12
 g9
-sa(dp35
+sa(dp36
 g6
 VThe history of chess by Dr. Josiah Bartlet.
-p36
+p37
 sg8
 g9
 sg10
 VC.J.
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VGet him in the car.
-p39
+p40
 sg8
 g9
 sg10
 VLEO
-p40
+p41
 sg12
 g9
-sa(dp41
+sa(dp42
 g6
 VWhat's going on?
-p42
+p43
 sg8
 g9
 sg10
 VC.J.
-p43
+p44
 sg12
 g9
-sa(dp44
+sa(dp45
 g6
 VAnd get the press pool back here too.
-p45
+p46
 sg8
-g18
+g19
 sg10
 VLEO
-p46
+p47
 sg12
 g9
-sa(dp47
+sa(dp48
 g6
 VWhat's going on?
-p48
+p49
 sg8
 g9
 sg10
 VC.J.
-p49
+p50
 sg12
 g9
-sa(dp50
+sa(dp51
 g6
 VChina.
-p51
+p52
 sg8
 g9
 sg10
 VLEO
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VOkay.
-p54
+p55
 sg8
 g9
 sg10
 VC.J.
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 V[to the press] In sandlewood, and a laquered classic Stanton in boxwood.
-p57
+p58
 sg8
-g18
+g19
 sg10
 VBARTLET
-p58
+p59
 sg12
-g9
-sa(dp59
+g19
+sa(dp60
 g6
 V[approaching] Thank you, everybody.
-p60
+p61
 sg8
 g9
 sg10
 VC.J.
-p61
+p62
 sg12
-g18
-sa(dp62
+g19
+sa(dp63
 g6
 V[over his shoulder as she leads him away] Hey, don't forget! [checks watch] Hartsfield votes in three hours and 21 minutes! We're gonna find out who the next President is.
-p63
+p64
 sg8
 g9
 sg10
 VBARTLET
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VI'm gonna give some of the chess sets out as gifts, did you see them?
-p66
+p67
 sg8
 g9
 sg10
 VBARTLET
-p67
+p68
 sg12
 g9
-sa(dp68
+sa(dp69
 g6
 VLeo needs you in the car.
-p69
+p70
 sg8
 g9
 sg10
 VC.J.
-p70
+p71
 sg12
 g9
-sa(dp71
+sa(dp72
 g6
 VDid he say-?
-p72
+p73
 sg8
 g9
 sg10
 VBARTLET
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VChina.
-p75
+p76
 sg8
 g9
 sg10
 VC.J.
-p76
+p77
 sg12
 g9
-sa(dp77
+sa(dp78
 g6
 VYeah?
-p78
+p79
 sg8
 g9
 sg10
 VBARTLET
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 VWhat's going on?
-p81
+p82
 sg8
 g9
 sg10
 VBARTLET
-p82
+p83
 sg12
 g9
-sa(dp83
+sa(dp84
 g6
 VIntel says Taiwan's getting ready to test fire three Patriots.
-p84
+p85
 sg8
 g9
 sg10
 VLEO
-p85
+p86
 sg12
-g9
-sa(dp86
+g16
+sa(dp87
 g6
 VWhere?
-p87
+p88
 sg8
 g9
 sg10
 VBARTLET
-p88
+p89
 sg12
 g9
-sa(dp89
+sa(dp90
 g6
 VA base on a island in the Pingdong region.
-p90
+p91
 sg8
 g9
 sg10
 VLEO
-p91
+p92
 sg12
 g9
-sa(dp92
+sa(dp93
 g6
 VWhat's China's reaction?
-p93
+p94
 sg8
 g9
 sg10
 VBARTLET
-p94
+p95
 sg12
 g9
-sa(dp95
+sa(dp96
 g6
 VAn acceleration of integrated military exercises.
-p96
+p97
 sg8
 g9
 sg10
 VLEO
-p97
+p98
 sg12
 g9
-sa(dp98
+sa(dp99
 g6
 VBig?
-p99
+p100
 sg8
 g9
 sg10
 VBARTLET
-p100
+p101
 sg12
 g9
-sa(dp101
+sa(dp102
 g6
 VYeah.
-p102
+p103
 sg8
 g9
 sg10
 VLEO
-p103
+p104
 sg12
 g9
-sa(dp104
+sa(dp105
 g6
 VHow big?
-p105
+p106
 sg8
 g9
 sg10
 VBARTLET
-p106
+p107
 sg12
 g9
-sa(dp107
+sa(dp108
 g6
 VUnprecedented. Shall we tell Taiwan not to test the missles? Sir?
-p108
+p109
 sg8
 g9
 sg10
 VLEO
-p109
+p110
 sg12
 g9
-sa(dp110
+sa(dp111
 g6
 VNo. I mean, we could try, but they're not gonna go for it.
-p111
+p112
 sg8
 g9
 sg10
 VBARTLET
-p112
+p113
 sg12
 g9
-sa(dp113
+sa(dp114
 g6
 VThey might.
-p114
+p115
 sg8
 g9
 sg10
 VLEO
-p115
+p116
 sg12
 g9
-sa(dp116
+sa(dp117
 g6
 VWhat are they asking for?
-p117
+p118
 sg8
 g9
 sg10
 VBARTLET
-p118
+p119
 sg12
 g9
-sa(dp119
+sa(dp120
 g6
 VThey want us to put some hardware in the Taiwan Strait.
-p120
+p121
 sg8
 g9
 sg10
 VLEO
-p121
+p122
 sg12
 g9
-sa(dp122
+sa(dp123
 g6
 VTonight?
-p123
+p124
 sg8
 g9
 sg10
 VBARTLET
-p124
+p125
 sg12
 g9
-sa(dp125
+sa(dp126
 g6
 VYes, sir.
-p126
+p127
 sg8
-g18
+g19
 sg10
 VLEO
-p127
+p128
 sg12
-g18
-sa(dp128
+g19
+sa(dp129
 g6
 VI'm assuming Nancy and Fitzwallace and the Chiefs...
-p129
+p130
 sg8
 g9
 sg10
 VBARTLET
-p130
+p131
 sg12
 g9
-sa(dp131
+sa(dp132
 g6
 VEveryone concurs, Mr. President.
-p132
+p133
 sg8
 g9
 sg10
 VLEO
-p133
+p134
 sg12
 g9
-sa(dp134
+sa(dp135
 g6
 VYou?
-p135
+p136
 sg8
 g9
 sg10
 VBARTLET
-p136
+p137
 sg12
 g9
-sa(dp137
+sa(dp138
 g6
 VYes, sir.
-p138
+p139
 sg8
-g18
+g19
 sg10
 VLEO
-p139
+p140
 sg12
-g18
-sa(dp140
+g19
+sa(dp141
 g6
 VWe have a pretty good sense of the worst-case scenario?
-p141
+p142
 sg8
-g18
+g19
 sg10
 VBARTLET
-p142
+p143
 sg12
-g9
-sa(dp143
+g19
+sa(dp144
 g6
 VWe end up sending the largest US naval armada to South-East Asia since the end of Vietnam.
-p144
+p145
 sg8
 g9
 sg10
 VLEO
-p145
+p146
 sg12
 g9
-sa(dp146
+sa(dp147
 g6
 VThat sounds right.
-p147
+p148
 sg8
 g9
 sg10
 VBARTLET
-p148
+p149
 sg12
-g9
-sa(dp149
+g19
+sa(dp150
 g6
 V[after a moment] Sir?
-p150
+p151
 sg8
 g9
 sg10
 VLEO
-p151
+p152
 sg12
 g9
-sa(dp152
+sa(dp153
 g6
 VAll right, we know the play.
-p153
+p154
 sg8
 g9
 sg10
 VBARTLET
-p154
+p155
 sg12
 g9
-sa(dp155
+sa(dp156
 g6
 VWe're going to assemble in the Sit Room.
-p156
+p157
 sg8
 g9
 sg10
 VLEO
-p157
+p158
 sg12
 g9
-sa(dp158
+sa(dp159
 g6
 VShe gave me these beautiful chess sets.
-p159
+p160
 sg8
-g18
+g19
 sg10
 VBARTLET
-p160
+p161
 sg12
 g9
-sa(dp161
+sa(dp162
 g6
 VThe Prime Minister?
-p162
+p163
 sg8
 g9
 sg10
 VLEO
-p163
+p164
 sg12
 g9
-sa(dp164
+sa(dp165
 g6
 VYeah. I'm on my way. Let Fitzwallace know I'm gonna order the Seventh Fleet into the Taiwan Strait.
-p165
+p166
 sg8
 g9
 sg10
 VBARTLET
-p166
+p167
 sg12
 g9
-sa(dp167
+sa(dp168
 g6
 VYes, sir.
-p168
+p169
 sg8
-g18
+g19
 sg10
 VLEO
-p169
+p170
 sg12
-g18
-sa(dp170
+g19
+sa(dp171
 g6
 V[to the driver] Let's go.
-p171
+p172
 sg8
 g9
 sg10
 VBARTLET
-p172
+p173
 sg12
 g9
-sa(dp173
+sa(dp174
 g6
 VGood evening.
-p174
+p175
 sg8
 g9
 sg10
 VBARTLET
-p175
+p176
 sg12
-g9
-sa(dp176
+g19
+sa(dp177
 g6
 VGood evening, Mr. President.
-p177
+p178
 sg8
 g9
 sg10
 VALL
-p178
+p179
 sg12
 g9
-sa(dp179
+sa(dp180
 g6
 VListen, they start voting in Hartsfield's landing in about two and a half hours, so this may end up being somebody else's problem. [General laughter. Everyone sits.] The scale of the war games is unprecedented?
-p180
-sg8
-S'negative'
 p181
+sg8
+g16
 sg10
 VBARTLET
 p182
@@ -647,7 +647,7 @@ g6
 VIt's a simulation of an invasion of Penghu Islands, and it includes battle-stance intervention by foreign aircraft carriers.
 p184
 sg8
-g181
+g16
 sg10
 VNANCY
 p185
@@ -669,7 +669,7 @@ g6
 VAll armed forces are on heightened alert. The War Minister asked for an emergency Cabinet meeting.
 p190
 sg8
-g181
+g16
 sg10
 VNANCY
 p191
@@ -696,7 +696,7 @@ sg10
 VNANCY
 p197
 sg12
-g9
+g19
 sa(dp198
 g6
 V[to Bartlet] Super Cobras.
@@ -746,7 +746,7 @@ g6
 VWhat other assets can be moved in?
 p211
 sg8
-g18
+g19
 sg10
 VLEO
 p212
@@ -817,7 +817,7 @@ sg10
 VNANCY
 p230
 sg12
-g9
+g19
 sa(dp231
 g6
 VAfter our next move comes their next move.
@@ -878,7 +878,7 @@ g6
 VI'm not in a position to say what's provoking the war games. Chris?
 p247
 sg8
-g181
+g16
 sg10
 VC.J.
 p248
@@ -900,7 +900,7 @@ g6
 VActually, under the '79 Act we agreed to provide Taiwan with sufficient capability to defend itself, but we're getting way ahead of ourselves. There's gonna be a Pentagon briefing at 10 AM.
 p253
 sg8
-g18
+g19
 sg10
 VC.J.
 p254
@@ -922,7 +922,7 @@ g6
 VHartsfield's Landing is a town in New Hampshire, population 63. While the rest of New Hampshire goes to the polls at 8 AM tomorrow, all of the 42 registered voters of Hartsfield vote at one minute past midnight or... [checks watch] a little over two hours from now. Hartsfield has accurately predicted the winner in every Presidential election since William Howard Taft, who, by the way, was the founder of the seventh inning stretch wherein we sing "Take Me Out to the Ballgame", music and lyrics by Jack Norworth and Albert VonTilzer. [general laughter] It's all part of the service here at Claudia's house of useless knowledge. That's a full lid, thank you very much.
 p259
 sg8
-g18
+g19
 sg10
 VC.J.
 p260
@@ -955,7 +955,7 @@ g6
 VIronically, neither of them had ever been to a major league baseball game when they wrote that song. The other song they were famous for was?
 p268
 sg8
-g18
+g19
 sg10
 VC.J.
 p269
@@ -966,12 +966,12 @@ g6
 VI didn't even know they were famous for that one.
 p271
 sg8
-g18
+g19
 sg10
 VCAROL
 p272
 sg12
-g9
+g16
 sa(dp273
 g6
 V"Shine on Harvest Moon".
@@ -1004,13 +1004,13 @@ sg10
 VCHARLIE
 p281
 sg12
-g9
+g16
 sa(dp282
 g6
 VI need a copy of the President's private schedule.
 p283
 sg8
-g181
+g16
 sg10
 VC.J.
 p284
@@ -1037,7 +1037,7 @@ sg10
 VC.J.
 p290
 sg12
-g9
+g16
 sa(dp291
 g6
 VYou gotta sign it out.
@@ -1059,7 +1059,7 @@ sg10
 VC.J.
 p296
 sg12
-g9
+g16
 sa(dp297
 g6
 VYou gotta sign it out and then sign it back in. It can't be photocopied, and it can't leave the building.
@@ -1081,13 +1081,13 @@ sg10
 VC.J.
 p302
 sg12
-g9
+g16
 sa(dp303
 g6
 VFor the third time in two months, a copy of the private schedule wound up in the press room. I've got to crack down.
 p304
 sg8
-g181
+g16
 sg10
 VCHARLIE
 p305
@@ -1103,7 +1103,7 @@ sg10
 VC.J.
 p308
 sg12
-g9
+g16
 sa(dp309
 g6
 VAnd sign it back in.
@@ -1131,7 +1131,7 @@ g6
 VYou do a nice job.
 p316
 sg8
-g18
+g19
 sg10
 VCHARLIE
 p317
@@ -1142,12 +1142,12 @@ g6
 VGimme the damn schedule
 p319
 sg8
-g181
+g16
 sg10
 VC.J.
 p320
 sg12
-g9
+g16
 sa(dp321
 g6
 V[handing her a clipboard] Sign it out, and sign it back in.
@@ -1180,7 +1180,7 @@ sg10
 VCHARLIE
 p329
 sg12
-g9
+g16
 sa(dp330
 g6
 VDonna!
@@ -1235,7 +1235,7 @@ sg10
 VDONNA
 p344
 sg12
-g9
+g16
 sa(dp345
 g6
 VYou were taking your time.
@@ -1252,12 +1252,12 @@ g6
 VI don't have warp speed.
 p349
 sg8
-g181
+g16
 sg10
 VDONNA
 p350
 sg12
-g181
+g16
 sa(dp351
 g6
 VDo you remember Jennifer Flender, the daughter of the mom and pop who have the tackle shop?
@@ -1279,7 +1279,7 @@ sg10
 VDONNA
 p356
 sg12
-g9
+g19
 sa(dp357
 g6
 VYes.
@@ -1290,7 +1290,7 @@ sg10
 VJOSH
 p359
 sg12
-g18
+g19
 sa(dp360
 g6
 VThe Flenders.
@@ -1307,7 +1307,7 @@ g6
 VThe daughter just e-mailed me and told me her parents are voting for Ritchie.
 p364
 sg8
-g18
+g19
 sg10
 VJOSH
 p365
@@ -1334,7 +1334,7 @@ sg10
 VJOSH
 p371
 sg12
-g9
+g19
 sa(dp372
 g6
 VWhy?
@@ -1389,7 +1389,7 @@ sg10
 VDONNA
 p386
 sg12
-g9
+g16
 sa(dp387
 g6
 VHe lives in New Hampshire.
@@ -1439,7 +1439,7 @@ g6
 VI'm not kidding. Two votes could be the margin.
 p400
 sg8
-g181
+g16
 sg10
 VJOSH
 p401
@@ -1477,7 +1477,7 @@ sg10
 VDONNA
 p410
 sg12
-g9
+g16
 sa(dp411
 g6
 VWe're not.
@@ -1488,7 +1488,7 @@ sg10
 VJOSH
 p413
 sg12
-g9
+g16
 sa(dp414
 g6
 VIt's 42 votes.
@@ -1505,7 +1505,7 @@ g6
 VThat are cast at 12:01 and counted at 12:07. The rest of New Hampshire doesn't come in until nine PM. That's 21 hours of the news having nothing to report but the winner at Hartsfield's Landing. I want it to be us. You have to get on the phone and talk to the Flenders. [sits]
 p418
 sg8
-g18
+g19
 sg10
 VJOSH
 p419
@@ -1521,7 +1521,7 @@ sg10
 VDONNA
 p422
 sg12
-g9
+g16
 sa(dp423
 g6
 VThey liked you. They took you in, they fed you.
@@ -1538,12 +1538,12 @@ g6
 VYou make me sound pathetic.
 p427
 sg8
-g181
+g16
 sg10
 VDONNA
 p428
 sg12
-g9
+g16
 sa(dp429
 g6
 VYou were pretty pathetic, and the Fenders fed you.
@@ -1554,18 +1554,18 @@ sg10
 VJOSH
 p431
 sg12
-g9
+g19
 sa(dp432
 g6
 V[standing] Flenders.
 p433
 sg8
-g18
+g19
 sg10
 VDONNA
 p434
 sg12
-g9
+g19
 sa(dp435
 g6
 VSee, you remember their name. There's obviously a connection.
@@ -1615,7 +1615,7 @@ g6
 VThank you. Get on the phone, find out what their problem with the President is, and solve it.
 p448
 sg8
-g181
+g16
 sg10
 VJOSH
 p449
@@ -1631,7 +1631,7 @@ sg10
 VDONNA
 p452
 sg12
-g9
+g16
 sa(dp453
 g6
 VWhy?
@@ -1648,18 +1648,18 @@ g6
 VIt's a government phone, I can't use it to intimidate voters.
 p457
 sg8
-g181
+g16
 sg10
 VDONNA
 p458
 sg12
-g9
+g16
 sa(dp459
 g6
 VSad but true. You know what I'm thinking?
 p460
 sg8
-g18
+g19
 sg10
 VJOSH
 p461
@@ -1675,7 +1675,7 @@ sg10
 VDONNA
 p464
 sg12
-g18
+g19
 sa(dp465
 g6
 VCell phone, Lafayette Park, and a warm coat.
@@ -1692,23 +1692,23 @@ g6
 VI'm taking your coat. [heads over to grab it]
 p469
 sg8
-g181
+g16
 sg10
 VDONNA
 p470
 sg12
-g9
+g16
 sa(dp471
 g6
 VIt's a good coat.
 p472
 sg8
-g18
+g19
 sg10
 VJOSH
 p473
 sg12
-g9
+g19
 sa(dp474
 g6
 V[leaving] I'm taking it.
@@ -1719,18 +1719,18 @@ sg10
 VDONNA
 p476
 sg12
-g18
+g16
 sa(dp477
 g6
 VI'm cool.
 p478
 sg8
-g18
+g19
 sg10
 VJOSH
 p479
 sg12
-g9
+g16
 sa(dp480
 g6
 VExcuse me.
@@ -1741,7 +1741,7 @@ sg10
 VBARTLET
 p482
 sg12
-g9
+g16
 sa(dp483
 g6
 V[looking up] Mr. President, welcome back.
@@ -1763,18 +1763,18 @@ sg10
 VBARTLET
 p488
 sg12
-g18
+g19
 sa(dp489
 g6
 VI'm fine, sir, I was just... someone gave me this chess set.
 p490
 sg8
-g18
+g19
 sg10
 VSAM
 p491
 sg12
-g9
+g16
 sa(dp492
 g6
 VYeah, it's from me.
@@ -1785,7 +1785,7 @@ sg10
 VBARTLET
 p494
 sg12
-g9
+g16
 sa(dp495
 g6
 VYou're kidding?
@@ -1813,7 +1813,7 @@ g6
 VI'm really overwhelmed by this, Mr. President.
 p502
 sg8
-g181
+g16
 sg10
 VSAM
 p503
@@ -1835,12 +1835,12 @@ g6
 VThank you again, sir.
 p508
 sg8
-g18
+g19
 sg10
 VSAM
 p509
 sg12
-g18
+g19
 sa(dp510
 g6
 VThis one's a Lotus set, hand-carved camel-bone. She told me it came to her from a direct descendent of Tan Sen. You know who that was?
@@ -1928,7 +1928,7 @@ sg10
 VSAM
 p533
 sg12
-g9
+g16
 sa(dp534
 g6
 VWhy?
@@ -1967,7 +1967,7 @@ g6
 V[opening his hand] You're white, but don't ever touch me.
 p544
 sg8
-g18
+g19
 sg10
 VBARTLET
 p545
@@ -1978,12 +1978,12 @@ g6
 VI'm sorry, sir.
 p547
 sg8
-g18
+g19
 sg10
 VSAM
 p548
 sg12
-g9
+g16
 sa(dp549
 g6
 VI was kidding.
@@ -1994,13 +1994,13 @@ sg10
 VBARTLET
 p551
 sg12
-g9
+g16
 sa(dp552
 g6
 VAh, the Fibonacci opening. Very interesting.
 p553
 sg8
-g18
+g19
 sg10
 VBARTLET
 p554
@@ -2011,12 +2011,12 @@ g6
 VYou're just gonna mess with me this whole time, right?
 p556
 sg8
-g181
+g16
 sg10
 VSAM
 p557
 sg12
-g9
+g16
 sa(dp558
 g6
 VYeah.
@@ -2066,12 +2066,12 @@ g6
 VA billion dollars at the Export-Import Bank didn't hurt.
 p571
 sg8
-g181
+g16
 sg10
 VBARTLET
 p572
 sg12
-g9
+g16
 sa(dp573
 g6
 VI suppose.
@@ -2082,7 +2082,7 @@ sg10
 VSAM
 p575
 sg12
-g9
+g16
 sa(dp576
 g6
 VThree billion in direct foreign investment to the forty-four billion China gets. You're an American, where would you rather put your money?
@@ -2143,7 +2143,7 @@ g6
 VDo you mind my asking how bad it's getting out there tonight?
 p592
 sg8
-g181
+g16
 sg10
 VSAM
 p593
@@ -2154,7 +2154,7 @@ g6
 VIt's bad. If Kashmir's the most dangerous place on earth, the second most dangerous is the Taiwan Strait. Taiwan's got four hundred thousand troops on high alert; the size of China's war games is unprecedented.
 p595
 sg8
-g181
+g16
 sg10
 VBARTLET
 p596
@@ -2181,13 +2181,13 @@ sg10
 VBARTLET
 p602
 sg12
-g9
+g16
 sa(dp603
 g6
 VNo, sir.
 p604
 sg8
-g18
+g19
 sg10
 VSAM
 p605
@@ -2203,13 +2203,13 @@ sg10
 VBARTLET
 p608
 sg12
-g9
+g16
 sa(dp609
 g6
 VBecause China's if got three hundred missiles pointed at Taiwan, why shouldn't they be able to defend themselves?
 p610
 sg8
-g18
+g19
 sg10
 VSAM
 p611
@@ -2236,7 +2236,7 @@ sg10
 VSAM
 p617
 sg12
-g181
+g16
 sa(dp618
 g6
 VAre you ready to come inside?
@@ -2253,12 +2253,12 @@ g6
 VYes, sir.
 p622
 sg8
-g18
+g19
 sg10
 VSAM
 p623
 sg12
-g18
+g19
 sa(dp624
 g6
 VBy the end of the week, Taiwan's going to announce they are holding their first free elections.
@@ -2324,7 +2324,7 @@ sg10
 VNANCY
 p641
 sg12
-g9
+g19
 sa(dp642
 g6
 VAnd unnecessarily militarizing-
@@ -2335,13 +2335,13 @@ sg10
 VNANCY
 p644
 sg12
-g9
+g16
 sa(dp645
 g6
 VUnnecessarily militarizing on such a large scale is, in fact, reckless.
 p646
 sg8
-g181
+g16
 sg10
 VNANCY
 p647
@@ -2352,7 +2352,7 @@ g6
 VOur battle carrier groups are in international waters. Are you claiming jurisdiction?
 p649
 sg8
-g181
+g16
 sg10
 VLEO
 p650
@@ -2368,13 +2368,13 @@ sg10
 VLEO
 p653
 sg12
-g9
+g16
 sa(dp654
 g6
 VSays that there is but one China, and that Taiwan is a part of China, and the United States government does not challenge that position. The US is only interested in a peaceful settlement of the Taiwan question by the Chinese themselves.
 p655
 sg8
-g18
+g19
 sg10
 VNANCY
 p656
@@ -2412,7 +2412,7 @@ sg10
 VJOSH
 p665
 sg12
-g9
+g16
 sa(dp666
 g6
 VThey're not voting for us.
@@ -2451,7 +2451,7 @@ g6
 VIt's been five years, and why is it our fault?
 p676
 sg8
-g181
+g16
 sg10
 VJOSH
 p677
@@ -2462,7 +2462,7 @@ g6
 V'Cause instead of protecting American jobs we're letting Canadian pulp importers take over their market share.
 p679
 sg8
-g18
+g19
 sg10
 VDONNA
 p680
@@ -2495,7 +2495,7 @@ g6
 V[rubbing his face] Didn't you... talk up our accomplishments?
 p688
 sg8
-g18
+g19
 sg10
 VJOSH
 p689
@@ -2511,7 +2511,7 @@ sg10
 VDONNA
 p692
 sg12
-g9
+g16
 sa(dp693
 g6
 VDonna.
@@ -2555,13 +2555,13 @@ sg10
 VDONNA
 p704
 sg12
-g18
+g19
 sa(dp705
 g6
 VNo! You- We're not making a trade commitment to the Flenders! We're not for protectionism, and neither are the Republicans. Tell them the President's been good for the ecomony overall.
 p706
 sg8
-g18
+g19
 sg10
 VJOSH
 p707
@@ -2572,7 +2572,7 @@ g6
 VThey say he's been bad for the economy.
 p709
 sg8
-g181
+g16
 sg10
 VDONNA
 p710
@@ -2682,7 +2682,7 @@ g6
 VYou haven't by any chance seen my copy of the President's private schedule, have you?
 p739
 sg8
-g181
+g16
 sg10
 VCHARLIE
 p740
@@ -2698,7 +2698,7 @@ sg10
 VDONNA
 p743
 sg12
-g9
+g16
 sa(dp744
 g6
 VIt's stamped D12.
@@ -2748,7 +2748,7 @@ g6
 VListen. You haven't seen my copy of President's private schedule, have you?
 p757
 sg8
-g181
+g16
 sg10
 VCHARLIE
 p758
@@ -2770,7 +2770,7 @@ g6
 V[sighs] I'm trying to retrace where I've been within the last hour. I was here, I was in the mess, I went back to my desk... [realizes] Excuse me.
 p763
 sg8
-g181
+g16
 sg10
 VCHARLIE
 p764
@@ -2803,7 +2803,7 @@ g6
 VYou wouldn't happen to know where my copy of the private schedule is, would you?
 p772
 sg8
-g181
+g16
 sg10
 VCHARLIE
 p773
@@ -2814,12 +2814,12 @@ g6
 VDid you lose it?
 p775
 sg8
-g181
+g16
 sg10
 VC.J.
 p776
 sg12
-g18
+g16
 sa(dp777
 g6
 VI don't believe I did, no.
@@ -2830,7 +2830,7 @@ sg10
 VCHARLIE
 p779
 sg12
-g9
+g16
 sa(dp780
 g6
 VYet you don't have it.
@@ -2841,7 +2841,7 @@ sg10
 VC.J.
 p782
 sg12
-g9
+g16
 sa(dp783
 g6
 VOdd.
@@ -2874,7 +2874,7 @@ sg10
 VC.J.
 p791
 sg12
-g18
+g19
 sa(dp792
 g6
 VWhere is it?
@@ -2896,7 +2896,7 @@ sg10
 VC.J.
 p797
 sg12
-g9
+g16
 sa(dp798
 g6
 VWhere is it?
@@ -2913,7 +2913,7 @@ g6
 VI just hope you didn't leave the building with it.
 p802
 sg8
-g18
+g19
 sg10
 VC.J.
 p803
@@ -2935,7 +2935,7 @@ g6
 V[laughing] Think you're going to want to talk nicer to me than that, because when a reporter finds it, they're going to come to me, and that thing is stamped D12, and you signed out D12, and rules are rules.
 p808
 sg8
-g18
+g19
 sg10
 VC.J.
 p809
@@ -2973,7 +2973,7 @@ sg10
 VCHARLIE
 p818
 sg12
-g18
+g16
 sa(dp819
 g6
 VHow about that?
@@ -2990,7 +2990,7 @@ g6
 VI don't really want to know what he's going to find in his filing cabinet, do you?
 p823
 sg8
-g18
+g19
 sg10
 VLARRY
 p824
@@ -3028,7 +3028,7 @@ sg10
 VALL
 p833
 sg12
-g18
+g9
 sa(dp834
 g6
 VC.J.
@@ -3072,7 +3072,7 @@ sg10
 VC.J.
 p845
 sg12
-g9
+g16
 sa(dp846
 g6
 VMr. President.
@@ -3166,12 +3166,12 @@ g6
 V[waving a note] I think this note was delivered to me by mistake.
 p871
 sg8
-g181
+g16
 sg10
 VTOBY
 p872
 sg12
-g9
+g16
 sa(dp873
 g6
 VWhat's it say?
@@ -3221,18 +3221,18 @@ g6
 VThat was a joke. Not so funny, huh?
 p886
 sg8
-g181
+g16
 sg10
 VBARTLET
 p887
 sg12
-g9
+g16
 sa(dp888
 g6
 VThat's a beautiful chess set.
 p889
 sg8
-g18
+g19
 sg10
 VTOBY
 p890
@@ -3243,12 +3243,12 @@ g6
 VIt's a gift, for you.
 p892
 sg8
-g18
+g19
 sg10
 VBARTLET
 p893
 sg12
-g9
+g19
 sa(dp894
 g6
 V[after a moment's silence] Really?
@@ -3281,7 +3281,7 @@ sg10
 VTOBY
 p902
 sg12
-g9
+g16
 sa(dp903
 g6
 VNah, she didn't, we just boosted it from the palace on our way out. I've got some little bottles of shampoo and conditioner, too.
@@ -3298,12 +3298,12 @@ g6
 V[uncomfortably] Well, it's a beautiful gift, sir.
 p907
 sg8
-g18
+g19
 sg10
 VTOBY
 p908
 sg12
-g9
+g19
 sa(dp909
 g6
 VSit down.
@@ -3314,7 +3314,7 @@ sg10
 VBARTLET
 p911
 sg12
-g9
+g16
 sa(dp912
 g6
 VI wouldn't want to take your time tonight.
@@ -3331,7 +3331,7 @@ g6
 V[removing his jacket] Come on, now. You were out of line, I was a jackass - let's call a truce.
 p916
 sg8
-g18
+g19
 sg10
 VBARTLET
 p917
@@ -3342,12 +3342,12 @@ g6
 VWell, I certainly apologise, sir.
 p919
 sg8
-g18
+g19
 sg10
 VTOBY
 p920
 sg12
-g9
+g19
 sa(dp921
 g6
 V[sitting down] Let's play chess.
@@ -3397,12 +3397,12 @@ g6
 VYeah. You take white.
 p934
 sg8
-g18
+g19
 sg10
 VBARTLET
 p935
 sg12
-g9
+g19
 sa(dp936
 g6
 V[taking a seat opposite Bartlet] Lord Mountbatten used to play with this set?
@@ -3419,7 +3419,7 @@ g6
 VWith Jawaharlal Nehru when they came to an agreement on the necessity of India's independence.
 p940
 sg8
-g18
+g19
 sg10
 VBARTLET
 p941
@@ -3435,7 +3435,7 @@ sg10
 VTOBY
 p944
 sg12
-g9
+g19
 sa(dp945
 g6
 VYeah.
@@ -3468,13 +3468,13 @@ sg10
 VTOBY
 p953
 sg12
-g9
+g16
 sa(dp954
 g6
 VA variation of the Giuoco Piano opening, named after a British sea captain, W.D. Evans, who invented it in 1820 - don't tell me chess moves.
 p955
 sg8
-g18
+g19
 sg10
 VBARTLET
 p956
@@ -3485,12 +3485,12 @@ g6
 VI moved my pawn.
 p958
 sg8
-g181
+g16
 sg10
 VTOBY
 p959
 sg12
-g9
+g16
 sa(dp960
 g6
 VWell, it's as popular today as it was back then.
@@ -3501,7 +3501,7 @@ sg10
 VBARTLET
 p962
 sg12
-g9
+g16
 sa(dp963
 g6
 VWhat is-
@@ -3523,7 +3523,7 @@ sg10
 VBARTLET
 p968
 sg12
-g9
+g16
 sa(dp969
 g6
 VWhat is our topic?
@@ -3534,7 +3534,7 @@ sg10
 VTOBY
 p971
 sg12
-g9
+g19
 sa(dp972
 g6
 VRe-election and the Bartlet Psychosis.
@@ -3545,7 +3545,7 @@ sg10
 VBARTLET
 p974
 sg12
-g9
+g19
 sa(dp975
 g6
 V[nodding slightly] Seems to me the last time we were here, we didn't do very well.
@@ -3573,12 +3573,12 @@ g6
 VI was out of line sir, I really do apologize.
 p982
 sg8
-g18
+g19
 sg10
 VTOBY
 p983
 sg12
-g9
+g16
 sa(dp984
 g6
 VYou apologized already, so let's get back on the horse.
@@ -3600,13 +3600,13 @@ sg10
 VTOBY
 p989
 sg12
-g18
+g9
 sa(dp990
 g6
 VThat makes it more likely we'll learn something.
 p991
 sg8
-g18
+g19
 sg10
 VBARTLET
 p992
@@ -3661,12 +3661,12 @@ g6
 VTake your time. [beat] See the whole board. [beat] Think happy thoughts...
 p1006
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1007
 sg12
-g9
+g19
 sa(dp1008
 g6
 VSir...
@@ -3688,7 +3688,7 @@ sg10
 VBARTLET
 p1013
 sg12
-g9
+g16
 sa(dp1014
 g6
 VThe Spanish brought chess to the court of Charlemagne in 760 AD. Charlemagne is French for Charles the Great. The Charles is a river in Boston. The Hudson River is actually not a river at all...
@@ -3705,7 +3705,7 @@ g6
 VI'm taking your rook. [makes a haste movement on the board]
 p1018
 sg8
-g181
+g16
 sg10
 VSAM
 p1019
@@ -3732,7 +3732,7 @@ sg10
 VSAM
 p1025
 sg12
-g9
+g16
 sa(dp1026
 g6
 VIt is in the Catskills, but once it gets to Manhattan, it's a tidal estuary.
@@ -3771,7 +3771,7 @@ g6
 VYou mind my asking how the meeting with the Chinese ambassador went?
 p1036
 sg8
-g18
+g19
 sg10
 VSAM
 p1037
@@ -3853,7 +3853,7 @@ sg10
 VBARTLET
 p1058
 sg12
-g9
+g19
 sa(dp1059
 g6
 VBut we're not going to stop arming Taiwan.
@@ -3980,7 +3980,7 @@ g6
 VRight. [takes one of Sam's chess pieces] I gotta go back to Toby in the other room. He's trying a Balducci attack. [walks out]
 p1093
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1094
@@ -3996,7 +3996,7 @@ sg10
 VSAM
 p1097
 sg12
-g9
+g19
 sa(dp1098
 g6
 VSee the whole board!
@@ -4051,7 +4051,7 @@ sg10
 VJOSH
 p1112
 sg12
-g9
+g16
 sa(dp1113
 g6
 V45 minutes till Hartsfield's Landing!
@@ -4068,7 +4068,7 @@ g6
 VWe're working the room.
 p1117
 sg8
-g18
+g19
 sg10
 VJOSH
 p1118
@@ -4084,7 +4084,7 @@ sg10
 VC.J.
 p1121
 sg12
-g9
+g19
 sa(dp1122
 g6
 VIt is absurd that 42 people have this kind of power.
@@ -4106,7 +4106,7 @@ sg10
 VC.J.
 p1127
 sg12
-g9
+g16
 sa(dp1128
 g6
 VDo you?
@@ -4117,13 +4117,13 @@ sg10
 VJOSH
 p1130
 sg12
-g18
+g9
 sa(dp1131
 g6
 V[gets her wallet from her purse] I think it's democracy at its purest. They all gather at once...
 p1132
 sg8
-g18
+g19
 sg10
 VC.J.
 p1133
@@ -4145,7 +4145,7 @@ g6
 VIt's not a gas station, it's nice. [counts her money] There's a registrar or voters, the names are called in the alphabetical order, they put a folded piece of paper into a box. See, this is the difference between you and me.
 p1138
 sg8
-g18
+g19
 sg10
 VC.J.
 p1139
@@ -4156,7 +4156,7 @@ g6
 VYou're a sap?
 p1141
 sg8
-g181
+g16
 sg10
 VJOSH
 p1142
@@ -4167,12 +4167,12 @@ g6
 VThose 42 people are teaching us something about ourselves: that freedom is the glory of God, that democracy is its birthright, and that our vote matters.
 p1144
 sg8
-g18
+g19
 sg10
 VC.J.
 p1145
 sg12
-g9
+g19
 sa(dp1146
 g6
 VYou're getting the pizza?
@@ -4189,12 +4189,12 @@ g6
 VYeah, I should call ahead.
 p1150
 sg8
-g18
+g19
 sg10
 VC.J.
 p1151
 sg12
-g9
+g16
 sa(dp1152
 g6
 VHe crazy-glued my phone.
@@ -4205,7 +4205,7 @@ sg10
 VC.J.
 p1154
 sg12
-g9
+g16
 sa(dp1155
 g6
 VWho?
@@ -4249,13 +4249,13 @@ sg10
 VJOSH
 p1166
 sg12
-g9
+g16
 sa(dp1167
 g6
 VI told them about the trade adjustment assistance.
 p1168
 sg8
-g18
+g19
 sg10
 VDONNA
 p1169
@@ -4271,13 +4271,13 @@ sg10
 VJOSH
 p1172
 sg12
-g9
+g16
 sa(dp1173
 g6
 VThey're not wild about the Canadian pulp thing but their real problem is the tax policy. They want to go from an income tax to a sales tax.
 p1174
 sg8
-g181
+g16
 sg10
 VDONNA
 p1175
@@ -4293,7 +4293,7 @@ sg10
 VJOSH
 p1178
 sg12
-g181
+g9
 sa(dp1179
 g6
 VI'm just telling you...
@@ -4304,13 +4304,13 @@ sg10
 VDONNA
 p1181
 sg12
-g18
+g16
 sa(dp1182
 g6
 VTell them a national sales tax is regressive. Poor people pay a much higher percentage of their income. [They start walking down the hall.] Tell them we'll study it.
 p1183
 sg8
-g18
+g19
 sg10
 VJOSH
 p1184
@@ -4365,7 +4365,7 @@ g6
 VMackey's sister's friend lives in Oregon.
 p1198
 sg8
-g18
+g19
 sg10
 VDONNA
 p1199
@@ -4376,7 +4376,7 @@ g6
 VTell them we haven't made a decision on the salmon runs. Tell them salmon restoration is important to the economy.
 p1201
 sg8
-g18
+g19
 sg10
 VJOSH
 p1202
@@ -4453,7 +4453,7 @@ g6
 VThey're really prefer it if we ruled it out.
 p1222
 sg8
-g18
+g19
 sg10
 VDONNA
 p1223
@@ -4464,7 +4464,7 @@ g6
 V[grabs a fat book off his shelf] Here. 'Bartlet for New Hampshire.' Gives all the reasons why Bartlet's for the people of New Hampshire, the Flenders, everybody, all... 17 of them or... whatever the hell goes on out there. Why are you wearing my coat?
 p1225
 sg8
-g181
+g16
 sg10
 VJOSH
 p1226
@@ -4585,7 +4585,7 @@ g6
 VThey need 400,000 troops on high alert for thinking about holding an election. 400,000 troops and a battery of Patriot missiles for thinking about having an election.
 p1258
 sg8
-g181
+g16
 sg10
 VLEO
 p1259
@@ -4629,12 +4629,12 @@ g6
 V[on phone] Yeah, it's me. I just want to remind you that child support collection is up 37%.
 p1270
 sg8
-g18
+g19
 sg10
 VJOSH
 p1271
 sg12
-g9
+g16
 sa(dp1272
 g6
 VWhat?
@@ -4678,7 +4678,7 @@ sg10
 VJOSH
 p1283
 sg12
-g181
+g16
 sa(dp1284
 g6
 VYeah?
@@ -4695,7 +4695,7 @@ g6
 VHe's talking about Tawian, he's saying 400,000 troops and a battery of Patriot missiles just to think about holding free elections. You know, it was one of those things...
 p1288
 sg8
-g181
+g16
 sg10
 VJOSH
 p1289
@@ -4722,13 +4722,13 @@ sg10
 VJOSH
 p1295
 sg12
-g9
+g19
 sa(dp1296
 g6
 VLet me tell you, you're really showing me something tonight. A lot of spunk, a lot of pluck, this game isn't all about size, you know. There's a little thing called heart, and you've got it, my friend.
 p1297
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1298
@@ -4739,7 +4739,7 @@ g6
 VYou know what, old man? The very minute they swear in the next guy, you and I are going round and round.
 p1300
 sg8
-g18
+g19
 sg10
 VTOBY
 p1301
@@ -4761,7 +4761,7 @@ g6
 V[sighs] How did you get good?
 p1306
 sg8
-g18
+g19
 sg10
 VTOBY
 p1307
@@ -4772,7 +4772,7 @@ g6
 VI had a friend in school who taught me. He was good. He was ranked 18 and under. He was a really nice guy, everybody liked him.
 p1309
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1310
@@ -4810,13 +4810,13 @@ sg10
 VTOBY
 p1319
 sg12
-g9
+g19
 sa(dp1320
 g6
 VHe went on to Princeton and Christmas vacation, he'd saved up to go to San Francisco and he was on the wharf and he saw a guy beating a woman up and he went in to stop it and the guy stabbed him to death.
 p1321
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1322
@@ -4832,7 +4832,7 @@ sg10
 VTOBY
 p1325
 sg12
-g9
+g19
 sa(dp1326
 g6
 VSo you know, I had this historic stretch of sleeplessness after our last meeting?
@@ -4854,13 +4854,13 @@ sg10
 VTOBY
 p1331
 sg12
-g9
+g16
 sa(dp1332
 g6
 VGot so bad Leo brought in a guy from ATVA who worked with Josh.
 p1333
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1334
@@ -4882,7 +4882,7 @@ g6
 VYeah, but we know him, and I figured he had to go to school for everything, so... Anyway, we brought him in late at night.
 p1339
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1340
@@ -4904,12 +4904,12 @@ g6
 VHe said it was your fault. He said you shouldn't bother me so much.
 p1345
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1346
 sg12
-g9
+g16
 sa(dp1347
 g6
 VI really am sorry about that.
@@ -4920,7 +4920,7 @@ sg10
 VTOBY
 p1349
 sg12
-g9
+g16
 sa(dp1350
 g6
 VI'm kidding.
@@ -4931,13 +4931,13 @@ sg10
 VBARTLET
 p1352
 sg12
-g9
+g16
 sa(dp1353
 g6
 VYeah. I forgot for a second that you're hilarious.
 p1354
 sg8
-g18
+g19
 sg10
 VTOBY
 p1355
@@ -4948,7 +4948,7 @@ g6
 VLet's go ahead and say the Republicans nominate Ritchie.
 p1357
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1358
@@ -4992,12 +4992,12 @@ g6
 VThat's true.
 p1369
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1370
 sg12
-g9
+g19
 sa(dp1371
 g6
 V[moves a chess piece] Check.
@@ -5014,7 +5014,7 @@ g6
 V[responds with a move] You think the strike against me is nobody likes the smartest kid in the class.
 p1375
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1376
@@ -5025,7 +5025,7 @@ g6
 VI don't know, sir. Being a smartest kid in the class is a pretty good pitch, it's not a strike unless you watch it as it sails by.
 p1378
 sg8
-g18
+g19
 sg10
 VTOBY
 p1379
@@ -5041,7 +5041,7 @@ sg10
 VBARTLET
 p1382
 sg12
-g9
+g16
 sa(dp1383
 g6
 VCheck.
@@ -5058,12 +5058,12 @@ g6
 VAnd I'm not a snob.
 p1387
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1388
 sg12
-g9
+g16
 sa(dp1389
 g6
 VI don't believe you are.
@@ -5080,7 +5080,7 @@ g6
 VIf a guy is a good neighbor, if he puts in a day, if every once in a while he laughs, if every once in a while he thinks about somebody else and, above all else, if he can find his way to compassion and, and tolerance, then he's my brother, I don't give a damn if he didn't get past finger-painting. What I can't stomach are people who're out to convince people that the educated are soft and privileged and out to make them feel like they're less, then, you know, 'he may be educated, but I'm plain-spoken, just like you!' Especially when we know that education can be a silver bullet, it can be the silver bullet, Toby! For crime, poverty, unemployment, drugs, hate...
 p1393
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1394
@@ -5091,7 +5091,7 @@ g6
 VWho are you trying to convince?
 p1396
 sg8
-g18
+g19
 sg10
 VTOBY
 p1397
@@ -5107,7 +5107,7 @@ sg10
 VBARTLET
 p1400
 sg12
-g9
+g16
 sa(dp1401
 g6
 VCheck.
@@ -5135,18 +5135,18 @@ g6
 VWas an idiot.
 p1408
 sg8
-g181
+g16
 sg10
 VTOBY
 p1409
 sg12
-g9
+g16
 sa(dp1410
 g6
 V[beat] Can we talk... God, can we talk about, please, can we talk about my father with some respect? The man's gone, can we... he's my father, he wasn't a Dickens character!
 p1411
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1412
@@ -5157,12 +5157,12 @@ g6
 VYes, sir.
 p1414
 sg8
-g18
+g19
 sg10
 VTOBY
 p1415
 sg12
-g18
+g19
 sa(dp1416
 g6
 V[walks in] Mr. President?
@@ -5217,18 +5217,18 @@ sg10
 VBARTLET
 p1430
 sg12
-g9
+g16
 sa(dp1431
 g6
 VDon't cheat. I know exactly where the pieces on the board are. I know exactly where the pieces are on Sam's board. I know exactly where the pieces still are on David Wheaton's. [leaves]
 p1432
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1433
 sg12
-g9
+g16
 sa(dp1434
 g6
 VSir, the carriers are 35 minutes from the Strait now.
@@ -5245,7 +5245,7 @@ g6
 VAll right. [to Leo] You can bring the ambassador back now and get Beijing.
 p1438
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1439
@@ -5256,12 +5256,12 @@ g6
 VI'm sorry, sir, it's a formality, but...
 p1441
 sg8
-g18
+g19
 sg10
 VNANCY
 p1442
 sg12
-g9
+g19
 sa(dp1443
 g6
 VShe needs the order.
@@ -5289,18 +5289,18 @@ g6
 VYes, sir. Just out of curiosity, what if that doesn't work?
 p1450
 sg8
-g18
+g19
 sg10
 VNANCY
 p1451
 sg12
-g9
+g19
 sa(dp1452
 g6
 VI don't know, but for sure we're gonna blame you.
 p1453
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1454
@@ -5311,12 +5311,12 @@ g6
 VYes, sir. [walks out]
 p1456
 sg8
-g18
+g19
 sg10
 VNANCY
 p1457
 sg12
-g9
+g19
 sa(dp1458
 g6
 VWhat's going on?
@@ -5338,7 +5338,7 @@ sg10
 VBARTLET
 p1463
 sg12
-g9
+g16
 sa(dp1464
 g6
 VWhat pitch?
@@ -5349,7 +5349,7 @@ sg10
 VLEO
 p1466
 sg12
-g9
+g16
 sa(dp1467
 g6
 VI soften... I smooth myself out publicly. It's not a put-on, by the way, I'm honestly folksy.
@@ -5360,7 +5360,7 @@ sg10
 VBARTLET
 p1469
 sg12
-g9
+g16
 sa(dp1470
 g6
 VYeah.
@@ -5399,7 +5399,7 @@ g6
 VYou agree with him?
 p1480
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1481
@@ -5415,7 +5415,7 @@ sg10
 VLEO
 p1484
 sg12
-g9
+g16
 sa(dp1485
 g6
 VI don't.
@@ -5426,18 +5426,18 @@ sg10
 VBARTLET
 p1487
 sg12
-g9
+g16
 sa(dp1488
 g6
 VI think you foul it off.
 p1489
 sg8
-g181
+g16
 sg10
 VLEO
 p1490
 sg12
-g18
+g16
 sa(dp1491
 g6
 VYeah, well, he keeps coming back at me.
@@ -5492,7 +5492,7 @@ sg10
 VBARTLET
 p1505
 sg12
-g9
+g16
 sa(dp1506
 g6
 VWould you stay right there!
@@ -5525,7 +5525,7 @@ sg10
 VTOMMY
 p1514
 sg12
-g9
+g19
 sa(dp1515
 g6
 VIt must be bent or something.
@@ -5624,13 +5624,13 @@ sg10
 VTOMMY
 p1541
 sg12
-g181
+g9
 sa(dp1542
 g6
 VC.J., what the hell...
 p1543
 sg8
-g181
+g16
 sg10
 VLEO
 p1544
@@ -5679,7 +5679,7 @@ sg10
 VLEO
 p1556
 sg12
-g9
+g19
 sa(dp1557
 g6
 VAn appointment?!
@@ -5718,7 +5718,7 @@ g6
 VRoberta... Roberta, those are all good points and perfectly valid areas of disagreement, but what I don't understand... I was saying, what I don't understand is you guys were such fans of the President, you loved him when he was governor, [stops at the gate] you worked so hard from when he was campaigning... Yeah. Yeah. Well, he didn't lie. No, he didn't lie, Mackey, and I'll... and I'll tell you what else: the man just accepted a Congressional censure, and I think it's time... And he should be held to a higher standard, and believe me he holds himself to a higher standard, but sometimes you can't meet it because Presidents aren't kings. This one's an economist from New Hampshire and I think it's time for you to get off your horse!
 p1567
 sg8
-g181
+g16
 sg10
 VDONNA
 p1568
@@ -5740,7 +5740,7 @@ g6
 V[sighs in exasperation] I... I'm standing out here in the middle of the night... Hold on, please. [to Josh] You know, I've kind of had it now, too: they're shocked and appalled and disappointed but really, they're none of those things, they just wish they were. So, never miss an opportunity to feel morally superior... I don't know. What do you want me to do now?
 p1573
 sg8
-g18
+g19
 sg10
 VDONNA
 p1574
@@ -5767,7 +5767,7 @@ sg10
 VDONNA
 p1580
 sg12
-g9
+g16
 sa(dp1581
 g6
 VI came out here to tell you to let them vote.
@@ -5784,7 +5784,7 @@ g6
 V[into phone] Yeah, this is Josh Lyman. We just wanted to call and thank you again for all your work and remind you that the polls in Hartsfield's Landing open in fourteen minutes. Get the chains in the truck, Mack? Okay, listen, tell your sister in Oregon I'm gonna try and learn something about salmon. Right now, all I know is they're good on a bagel. Good night.
 p1585
 sg8
-g18
+g19
 sg10
 VJOSH
 p1586
@@ -5795,7 +5795,7 @@ g6
 V[to Donna] Maybe they are morally superior. Anyway, they get to vote.
 p1588
 sg8
-g18
+g19
 sg10
 VJOSH
 p1589
@@ -5806,7 +5806,7 @@ g6
 VIt's freezing out here. Can I have my coat back?
 p1591
 sg8
-g181
+g16
 sg10
 VJOSH
 p1592
@@ -5817,7 +5817,7 @@ g6
 VAbbey told me this story once. She said you were at a party once where you were bending the guy's ear. You were telling him that Ellie had mastered her multiplication tables and she was in third grade reading at a fifth-grade level and she loved books and she scored two goals for her soccer team the week before, you were going on and on... And what made that story remarkable was that the party you were at was in Stockholm and the man you were talking you was King Gustav, who two hours earlier had given you the Nobel Prize in economics. [laughs] I mean, my god, you just won the Nobel Prize and all you wanted to talk about to the King of Sweden was Ellie's multiplication tables!
 p1594
 sg8
-g18
+g19
 sg10
 VTOBY
 p1595
@@ -5839,12 +5839,12 @@ g6
 VYou're a good father, you don't have to act like it. You're the President, you don't have to act like it. You're a good man, you don't have to act like it. You're not just folks, you're not plain-spoken... Do not n do not n do not act like it!
 p1600
 sg8
-g18
+g19
 sg10
 VTOBY
 p1601
 sg12
-g9
+g16
 sa(dp1602
 g6
 VI don't want to be killed.
@@ -5855,13 +5855,13 @@ sg10
 VBARTLET
 p1604
 sg12
-g9
+g16
 sa(dp1605
 g6
 VThen make this election about smart, and not... Make it about engaged, and not. Qualified, and not. Make it about a heavyweight. You're a heavyweight. And you've been holding me up for too many rounds.
 p1606
 sg8
-g18
+g19
 sg10
 VTOBY
 p1607
@@ -5872,7 +5872,7 @@ g6
 VPick your king up. We're not done playing yet.
 p1609
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1610
@@ -5899,13 +5899,13 @@ sg10
 VCHARLIE
 p1616
 sg12
-g18
+g9
 sa(dp1617
 g6
 VYou really want to dance with me?
 p1618
 sg8
-g18
+g19
 sg10
 VC.J.
 p1619
@@ -5916,7 +5916,7 @@ g6
 VWouldn't it have been a lot easier to respect the rules and regulations?
 p1621
 sg8
-g18
+g19
 sg10
 VCHARLIE
 p1622
@@ -5960,7 +5960,7 @@ g6
 VWhat the hell??!
 p1633
 sg8
-g181
+g16
 sg10
 VLEO
 p1634
@@ -5971,7 +5971,7 @@ g6
 VI want a copy of the daily schedule and Maryann the librarian over here told me I had to sign it out...
 p1636
 sg8
-g181
+g16
 sg10
 VC.J.
 p1637
@@ -5982,7 +5982,7 @@ g6
 VYou sign out a copy and this copy doesn't leave the building, when C.J. decides she's above all that...
 p1639
 sg8
-g181
+g16
 sg10
 VCHARLIE
 p1640
@@ -6042,7 +6042,7 @@ sg10
 VCAROL
 p1655
 sg12
-g9
+g16
 sa(dp1656
 g6
 VYeah.
@@ -6081,7 +6081,7 @@ g6
 VSo, how long do you usually make people your bitch?
 p1666
 sg8
-g181
+g16
 sg10
 VC.J.
 p1667
@@ -6119,7 +6119,7 @@ sg10
 VBARTLET
 p1676
 sg12
-g181
+g16
 sa(dp1677
 g6
 VNo, it's fine.
@@ -6147,7 +6147,7 @@ g6
 VYou know, sir, I looked something up while you were gone. Eisenhower, it seemed, at all costs wanted to avoid sending ships to resupply Quemoy and Matsu, 'cause they'd be less then a mile from the Chinese army. A private could... well, everybody was a private in Mao's army, but a private could fire on a ship and that'd be it. We'd be at war. We'd have to be.
 p1684
 sg8
-g181
+g16
 sg10
 VSAM
 p1685
@@ -6174,7 +6174,7 @@ sg10
 VSAM
 p1691
 sg12
-g9
+g16
 sa(dp1692
 g6
 VNo.
@@ -6196,7 +6196,7 @@ sg10
 VSAM
 p1697
 sg12
-g18
+g19
 sa(dp1698
 g6
 VLook at the whole board.
@@ -6218,7 +6218,7 @@ sg10
 VSAM
 p1703
 sg12
-g9
+g16
 sa(dp1704
 g6
 VYou're not.
@@ -6306,7 +6306,7 @@ sg10
 VSAM
 p1727
 sg12
-g181
+g16
 sa(dp1728
 g6
 VSir.
@@ -6328,13 +6328,13 @@ sg10
 VBARTLET
 p1733
 sg12
-g181
+g16
 sa(dp1734
 g6
 VTurn them around. I'll make some calls and thank people.
 p1735
 sg8
-g181
+g16
 sg10
 VBARTLET
 p1736
@@ -6345,12 +6345,12 @@ g6
 VYes, sir.
 p1738
 sg8
-g18
+g19
 sg10
 VLEO
 p1739
 sg12
-g18
+g19
 sa(dp1740
 g6
 VThank you, by the way.
@@ -6361,7 +6361,7 @@ sg10
 VBARTLET
 p1742
 sg12
-g9
+g19
 sa(dp1743
 g6
 VYou, too. [leaves]
@@ -6372,7 +6372,7 @@ sg10
 VLEO
 p1745
 sg12
-g9
+g19
 sa(dp1746
 g6
 VI'd like to try it without looking at the note.
@@ -6394,13 +6394,13 @@ sg10
 VBARTLET
 p1751
 sg12
-g9
+g16
 sa(dp1752
 g6
 VChina agrees to stand down the war games.
 p1753
 sg8
-g181
+g16
 sg10
 VSAM
 p1754
@@ -6422,12 +6422,12 @@ g6
 VAnd they agree to let Taiwan test the Patriots. One Patriot.
 p1759
 sg8
-g18
+g19
 sg10
 VSAM
 p1760
 sg12
-g9
+g19
 sa(dp1761
 g6
 VYes.
@@ -6438,13 +6438,13 @@ sg10
 VBARTLET
 p1763
 sg12
-g18
+g19
 sa(dp1764
 g6
 VAnd we... Please, I want to be right about this. We agree not to sell Taiwan the Aegis Destroyers for a period of... I don't know... five years.
 p1765
 sg8
-g18
+g19
 sg10
 VSAM
 p1766
@@ -6466,7 +6466,7 @@ g6
 VSir, the Aegis... the Aegis radar technology isn't something that... I mean, what if Taiwan did fall to China? Now they have n plus these ships cost something like $800 million apiece. Buying four of them would eat half of Taiwan's defense budget.
 p1771
 sg8
-g18
+g19
 sg10
 VSAM
 p1772
@@ -6482,7 +6482,7 @@ sg10
 VBARTLET
 p1775
 sg12
-g9
+g16
 sa(dp1776
 g6
 VYou never were going to sell them the destroyers.
@@ -6499,7 +6499,7 @@ g6
 V[shakes his head] But everybody wakes up alive in the morning and saves a little face.
 p1780
 sg8
-g18
+g19
 sg10
 VBARTLET
 p1781
@@ -6510,12 +6510,12 @@ g6
 V[amazed] I don't know how you... I don't know the word, I... don't know how you do it.
 p1783
 sg8
-g18
+g19
 sg10
 VSAM
 p1784
 sg12
-g9
+g16
 sa(dp1785
 g6
 VYou have a lot of help. You listen to everybody and then you call the play. [rises to his feet] Sam. You're gonna run for President one day. Don't be scared. You can do it. I believe in you. [looks at the board] That's checkmate.
@@ -6532,7 +6532,7 @@ g6
 V[on TV] Two roads, no traffic lights and Town Hall's a filing cabinet and a countertop in the clerk's basement. But Hartsfield's Landing, New Hampshire, is where democracy begins for the world's only superpower. It's 12:01am, and the registrar of voters who's also the principal and only teacher at the Hartsfield's school, calls the roll of voters.
 p1789
 sg8
-g18
+g19
 sg10
 VREPORTER
 p1790

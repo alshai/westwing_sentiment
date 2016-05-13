@@ -35,7 +35,7 @@ sg10
 VDEBBIE
 p16
 sg12
-g13
+g9
 sa(dp17
 g6
 VReal reason I went for a second term: couple more years between this gig, the Gridiron, and the Alfalfa Club, I'll be ready for the Def Comedy circuit.
@@ -57,14 +57,14 @@ sg10
 VDEBBIE
 p22
 sg12
-g13
-sa(dp23
+S'negative'
+p23
+sa(dp24
 g6
 VMy first Correspondent's Dinner was a nightmare. Bombed.
-p24
-sg8
-S'negative'
 p25
+sg8
+g23
 sg10
 VBARTLET
 p26
@@ -80,7 +80,7 @@ sg10
 VLEO
 p29
 sg12
-g9
+g13
 sa(dp30
 g6
 VI killed.
@@ -91,18 +91,18 @@ sg10
 VBARTLET
 p32
 sg12
-g13
+g23
 sa(dp33
 g6
 VThey laughed till they cried. They're still crying.
 p34
 sg8
-g25
+g23
 sg10
 VBARTLET
 p35
 sg12
-g9
+g13
 sa(dp36
 g6
 VHonestly, sir, in my case, it's the pollen count. But for an Anglo-Saxon, you were darn funny.
@@ -179,7 +179,7 @@ sg10
 VBARTLET
 p56
 sg12
-g9
+g13
 sa(dp57
 g6
 VGave it up a year ago.
@@ -240,7 +240,7 @@ g6
 VNo, you shouldn't. I'm the idiot who... It's an Ohio thing. If it's going to be thrown away...
 p73
 sg8
-g25
+g23
 sg10
 VC.J.
 p74
@@ -278,7 +278,7 @@ sg10
 VWILL
 p83
 sg12
-g13
+g23
 sa(dp84
 g6
 VI'm not going to even be around this weekend to enjoy them.
@@ -322,7 +322,7 @@ sg10
 VDONNA
 p95
 sg12
-g13
+g23
 sa(dp96
 g6
 VThe point is the line worked. I liked it, the President liked it. He had nine laugh-out-louds; he could have had ten.
@@ -344,7 +344,7 @@ sg10
 VDONNA
 p101
 sg12
-g13
+g9
 sa(dp102
 g6
 VLook it up.
@@ -372,23 +372,23 @@ g6
 VNSC? The NSC killed my Panama joke?
 p109
 sg8
-g25
+g23
 sg10
 VJOSH
 p110
 sg12
-g13
+g23
 sa(dp111
 g6
 VWas it a joke about warheads?
 p112
 sg8
-g25
+g23
 sg10
 VDONNA
 p113
 sg12
-g13
+g23
 sa(dp114
 g6
 VCall Colonel Klink over there. I want to know what happened.
@@ -421,7 +421,7 @@ sg10
 VJOSH
 p122
 sg12
-g13
+g23
 sa(dp123
 g6
 VJosh Lyman's office for Commander Harper, please.
@@ -498,7 +498,7 @@ sg10
 VCHARLIE
 p143
 sg12
-g13
+g23
 sa(dp144
 g6
 VGrading on a curve, yes.
@@ -509,7 +509,7 @@ sg10
 VDEBBIE
 p146
 sg12
-g13
+g9
 sa(dp147
 g6
 VBut...
@@ -520,7 +520,7 @@ sg10
 VCHARLIE
 p149
 sg12
-g25
+g23
 sa(dp150
 g6
 VYou can't tell him.
@@ -619,7 +619,7 @@ sg10
 VDEBBIE
 p176
 sg12
-g13
+g23
 sa(dp177
 g6
 VKind of looks like an allergy.
@@ -636,12 +636,12 @@ g6
 VYou just tell me your hot water's turned back on so I won't worry about you all weekend.
 p181
 sg8
-g25
+g23
 sg10
 VDEBBIE
 p182
 sg12
-g13
+g23
 sa(dp183
 g6
 VMy hot water is back on. It will be.
@@ -696,7 +696,7 @@ sg10
 VCHARLIE
 p197
 sg12
-g13
+g23
 sa(dp198
 g6
 VWhat happened to your hot water?
@@ -724,7 +724,7 @@ g6
 VAre you falling behind on your bills, Char?
 p205
 sg8
-g25
+g23
 sg10
 VBARTLET
 p206
@@ -850,7 +850,7 @@ sg10
 VBARTLET
 p239
 sg12
-g25
+g13
 sa(dp240
 g6
 VNo, sir. The Environmental Hazard Detector's picking up and unusual pattern of airborne particles.
@@ -867,7 +867,7 @@ g6
 VWe've had a couple of false alarms for anthrax since the last patch.
 p244
 sg8
-g25
+g23
 sg10
 VBARTLET
 p245
@@ -883,7 +883,7 @@ sg10
 VAGENT
 p248
 sg12
-g9
+g23
 sa(dp249
 g6
 VJust do what she says.
@@ -894,7 +894,7 @@ sg10
 VBARTLET
 p251
 sg12
-g13
+g23
 sa(dp252
 g6
 VLook who it is. Nice rod.
@@ -966,7 +966,7 @@ g6
 VYou know how many Bob Russell jokes were told tonight? 32. I almost lost count. I was gonna carve notches on my belt.
 p271
 sg8
-g25
+g23
 sg10
 VWILL
 p272
@@ -999,7 +999,7 @@ g6
 VThat Bob Russell's corrupt.
 p280
 sg8
-g25
+g23
 sg10
 VTOBY
 p281
@@ -1153,18 +1153,18 @@ g6
 VExcuse me. I'm just gonna grab one of these.
 p322
 sg8
-g25
+g23
 sg10
 VHARPER
 p323
 sg12
-g13
+g23
 sa(dp324
 g6
 VYou thirsty?
 p325
 sg8
-g25
+g23
 sg10
 VJOSH
 p326
@@ -1180,7 +1180,7 @@ sg10
 VHARPER
 p329
 sg12
-g9
+g13
 sa(dp330
 g6
 VNo, thanks. I'm about to head out.
@@ -1191,7 +1191,7 @@ sg10
 VJOSH
 p332
 sg12
-g13
+g23
 sa(dp333
 g6
 VWe're crashed, Mr. Lyman.
@@ -1235,7 +1235,7 @@ sg10
 VJOSH
 p344
 sg12
-g13
+g23
 sa(dp345
 g6
 VI need you to stay where you are.
@@ -1257,7 +1257,7 @@ sg10
 VJOSH
 p350
 sg12
-g13
+g9
 sa(dp351
 g6
 VIt's a simple question, yes or no. Was the Vice President happy with his speech tonight?
@@ -1290,7 +1290,7 @@ sg10
 VBRODER
 p359
 sg12
-g13
+g23
 sa(dp360
 g6
 VCome again?
@@ -1301,7 +1301,7 @@ sg10
 VTOBY
 p362
 sg12
-g13
+g23
 sa(dp363
 g6
 VThe building's on lockdown. I need you to stay put we know what's up.
@@ -1334,7 +1334,7 @@ sg10
 VC.J.
 p371
 sg12
-g13
+g23
 sa(dp372
 g6
 VAgain?
@@ -1345,7 +1345,7 @@ sg10
 VDONNA
 p374
 sg12
-g13
+g23
 sa(dp375
 g6
 VMs. Moss, would you mind stepping in?
@@ -1367,7 +1367,7 @@ sg10
 VDONNA
 p380
 sg12
-g25
+g23
 sa(dp381
 g6
 VDid Jack make it out?
@@ -1384,7 +1384,7 @@ g6
 VJack left in a huff.
 p385
 sg8
-g25
+g23
 sg10
 VDONNA
 p386
@@ -1400,7 +1400,7 @@ sg10
 VC.J.
 p389
 sg12
-g13
+g23
 sa(dp390
 g6
 VPress Secretary in Congressman DeSanto's office. Oh, it's you. You're going on the CODEL.
@@ -1428,7 +1428,7 @@ g6
 VYou bumped Jack. He was doing Press Detail. He's probably making a voodoo doll of you right now.
 p397
 sg8
-g25
+g23
 sg10
 VC.J.
 p398
@@ -1439,7 +1439,7 @@ g6
 VI... I don't want to kick him off the trip. Josh didn't say anything about...
 p400
 sg8
-g25
+g23
 sg10
 VDONNA
 p401
@@ -1450,7 +1450,7 @@ g6
 VWhite House only gets one rep. But don't worry: you're not his first voodoo doll, and they rarely work.
 p403
 sg8
-g25
+g23
 sg10
 VC.J.
 p404
@@ -1477,7 +1477,7 @@ sg10
 VC.J.
 p410
 sg12
-g13
+g9
 sa(dp411
 g6
 VIs it your birthday?
@@ -1499,7 +1499,7 @@ sg10
 VC.J.
 p416
 sg12
-g13
+g23
 sa(dp417
 g6
 VWhat about automatic bank drafts?
@@ -1521,7 +1521,7 @@ sg10
 VCHARLIE
 p422
 sg12
-g25
+g13
 sa(dp423
 g6
 VMr. President, how are you feeling?
@@ -1565,7 +1565,7 @@ sg10
 VBARTLET
 p434
 sg12
-g13
+g23
 sa(dp435
 g6
 VUh, no, sir.
@@ -1576,7 +1576,7 @@ sg10
 VCHARLIE
 p437
 sg12
-g13
+g23
 sa(dp438
 g6
 VMeet my lucky staff: Charlie Young, Deborah Fidderer.
@@ -1587,7 +1587,7 @@ sg10
 VBARTLET
 p440
 sg12
-g25
+g13
 sa(dp441
 g6
 VHow you doing?
@@ -1598,7 +1598,7 @@ sg10
 VCHARLIE
 p443
 sg12
-g9
+g13
 sa(dp444
 g6
 VNice to meet you.
@@ -1609,7 +1609,7 @@ sg10
 VDEBBIE
 p446
 sg12
-g13
+g9
 sa(dp447
 g6
 VYou need to keep on your masks.
@@ -1659,7 +1659,7 @@ g6
 VOnce. They usually turn us around at the bottom of the stairs.
 p460
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p461
@@ -1670,7 +1670,7 @@ g6
 VMr. President, I'm going to take your blood pressure.
 p463
 sg8
-g25
+g23
 sg10
 VGORDON
 p464
@@ -1703,7 +1703,7 @@ g6
 VNot at all. What are you hearing, agent?
 p472
 sg8
-g25
+g23
 sg10
 VBARTLET
 p473
@@ -1785,7 +1785,7 @@ sg10
 VCHARLIE
 p494
 sg12
-g13
+g9
 sa(dp495
 g6
 VSo, you're aware of what's coming next?
@@ -1807,7 +1807,7 @@ sg10
 VCHARLIE
 p500
 sg12
-g13
+g9
 sa(dp501
 g6
 VDoes it have anything to do with nasal swabs?
@@ -1818,7 +1818,7 @@ sg10
 VDEBBIE
 p503
 sg12
-g25
+g13
 sa(dp504
 g6
 VAfraid that's affirmative.
@@ -1829,7 +1829,7 @@ sg10
 VGORDON
 p506
 sg12
-g13
+g9
 sa(dp507
 g6
 VServing at the pleasure of the President just gets better and better.
@@ -1851,13 +1851,13 @@ sg10
 VDEBBIE
 p512
 sg12
-g13
+g9
 sa(dp513
 g6
 VHave we confirmed anything? ... So, unless there's a problem... ... I will hold my location, yeah. ... I'm aware of that. ... I will not leave the Residence.
 p514
 sg8
-g25
+g23
 sg10
 VLEO
 p515
@@ -1873,7 +1873,7 @@ sg10
 VABBEY
 p518
 sg12
-g13
+g9
 sa(dp519
 g6
 VForty minutes tops, assuming no other developments.
@@ -1912,12 +1912,12 @@ g6
 VHey, you okay? I saw you slip out early.
 p529
 sg8
-g25
+g23
 sg10
 VLEO
 p530
 sg12
-g13
+g23
 sa(dp531
 g6
 VGot a shift; I had to change my clothes.
@@ -1950,7 +1950,7 @@ sg10
 VABBEY
 p539
 sg12
-g13
+g23
 sa(dp540
 g6
 VThe First Lady leaves before the President's speech?
@@ -1989,12 +1989,12 @@ g6
 VHello. This is Dr. Bartlet. Would you tell Jerry I'm running late? Thanks.
 p550
 sg8
-g25
+g23
 sg10
 VABBEY
 p551
 sg12
-g9
+g23
 sa(dp552
 g6
 VWhat are you doing at this hour?
@@ -2060,7 +2060,7 @@ sg10
 VABBEY
 p569
 sg12
-g13
+g23
 sa(dp570
 g6
 VI'm saying...
@@ -2071,7 +2071,7 @@ sg10
 VLEO
 p572
 sg12
-g13
+g23
 sa(dp573
 g6
 VI know what you're saying.
@@ -2093,7 +2093,7 @@ sg10
 VLEO
 p578
 sg12
-g13
+g23
 sa(dp579
 g6
 VI talked to the President. He didn't tell you I was working night?
@@ -2104,7 +2104,7 @@ sg10
 VABBEY
 p581
 sg12
-g13
+g23
 sa(dp582
 g6
 VNo.
@@ -2126,13 +2126,13 @@ sg10
 VABBEY
 p587
 sg12
-g13
+g23
 sa(dp588
 g6
 VYou're upset because the VP didn't use any of your jokes.
 p589
 sg8
-g25
+g23
 sg10
 VWILL
 p590
@@ -2154,12 +2154,12 @@ g6
 VVolcanic ash.
 p595
 sg8
-g25
+g23
 sg10
 VWILL
 p596
 sg12
-g13
+g23
 sa(dp597
 g6
 VWhat?
@@ -2176,12 +2176,12 @@ g6
 VRome burned. Pompeii was blanketed in volcanic ash.
 p601
 sg8
-g25
+g23
 sg10
 VWILL
 p602
 sg12
-g13
+g23
 sa(dp603
 g6
 VI want to know if Bob Russell's happy he upstaged the President.
@@ -2198,7 +2198,7 @@ g6
 VThe Vice President spent three hours as a pin cushion: dull jokes, stiff jokes, agribusiness jokes, unpreparedness jokes, immovable hairline jokes. He provided plenty of humor to the proceedings. He thinks these are serious times and he didn't want to bow and scrape and tell knock-knock jokes to all establishment in Washington. You're damn right he was happy.
 p607
 sg8
-g25
+g23
 sg10
 VWILL
 p608
@@ -2220,7 +2220,7 @@ g6
 VFirst of all, no. Second, you're mad he didn't use any of your jokes.
 p613
 sg8
-g25
+g23
 sg10
 VWILL
 p614
@@ -2242,12 +2242,12 @@ g6
 VThe problem with Bob Russell jokes is he doesn't think they're funny and no one else thinks they're jokes.
 p619
 sg8
-g25
+g23
 sg10
 VTOBY
 p620
 sg12
-g13
+g23
 sa(dp621
 g6
 VThese are serious times.
@@ -2291,7 +2291,7 @@ sg10
 VTOBY
 p632
 sg12
-g25
+g23
 sa(dp633
 g6
 VExcuse me.
@@ -2302,7 +2302,7 @@ sg10
 VTOBY
 p635
 sg12
-g13
+g23
 sa(dp636
 g6
 VYou need to close the door.
@@ -2357,7 +2357,7 @@ sg10
 VBRODER
 p650
 sg12
-g9
+g13
 sa(dp651
 g6
 VI'm not staying with this guy. You can...
@@ -2368,7 +2368,7 @@ sg10
 VTOBY
 p653
 sg12
-g25
+g23
 sa(dp654
 g6
 VI'm sorry, Mr. Ziegler.
@@ -2390,7 +2390,7 @@ sg10
 VBRODER
 p659
 sg12
-g13
+g9
 sa(dp660
 g6
 VOh, man.
@@ -2412,7 +2412,7 @@ sg10
 VBARTLET
 p665
 sg12
-g25
+g9
 sa(dp666
 g6
 VThe office was sealed in less than eight minutes. While the alarm's being verified, the scanner began a DNA diagnostic.
@@ -2434,7 +2434,7 @@ sg10
 VBARTLET
 p671
 sg12
-g13
+g9
 sa(dp672
 g6
 VYes. But while we rule out system error, hazmat moves ahead with a sweep of the area.
@@ -2467,7 +2467,7 @@ sg10
 VDEBBIE
 p680
 sg12
-g13
+g23
 sa(dp681
 g6
 VOw!
@@ -2500,7 +2500,7 @@ sg10
 VCHARLIE
 p689
 sg12
-g13
+g23
 sa(dp690
 g6
 VDo you feel any kind of burning sensation on your skin or eyes?
@@ -2561,7 +2561,7 @@ g6
 VYou'd hate for them to get lost.
 p706
 sg8
-g25
+g23
 sg10
 VDEBBIE
 p707
@@ -2599,7 +2599,7 @@ sg10
 VGORDON
 p716
 sg12
-g13
+g23
 sa(dp717
 g6
 VRunning more than burning, but that's from the cloud of Chanel at dinner.
@@ -2621,7 +2621,7 @@ sg10
 VCHARLIE
 p722
 sg12
-g13
+g9
 sa(dp723
 g6
 VWas anything actually sprayed on you at this dinner?
@@ -2676,7 +2676,7 @@ sg10
 VBARTLET
 p737
 sg12
-g13
+g9
 sa(dp738
 g6
 VI'm sorry, Agent Butterfield, no one leaves.
@@ -2687,7 +2687,7 @@ sg10
 VGORDON
 p740
 sg12
-g9
+g23
 sa(dp741
 g6
 VWhat?
@@ -2720,13 +2720,13 @@ sg10
 VBUTTERFIELD
 p749
 sg12
-g13
+g23
 sa(dp750
 g6
 VFiderer was sprayed with an unknown agent in proximity to the President. It's causing edema and burning in the eyes. I'm going to have to ask everyone to take a decontamination rinse in the shower, starting with the President.
 p751
 sg8
-g25
+g23
 sg10
 VGORDON
 p752
@@ -2759,12 +2759,12 @@ g6
 VI'm all for the protocol, Major, but this is absurd.
 p760
 sg8
-g25
+g23
 sg10
 VBARTLET
 p761
 sg12
-g13
+g23
 sa(dp762
 g6
 VMy apologies.
@@ -2781,12 +2781,12 @@ g6
 VWe've got an oversensitive, overpriced piece of equipment that's overreacting.
 p766
 sg8
-g25
+g23
 sg10
 VBARTLET
 p767
 sg12
-g13
+g23
 sa(dp768
 g6
 VYes, sir. You'll find written instructions in the shower. Make sure you scrub vigorously and rinse your eyes.
@@ -2830,7 +2830,7 @@ sg10
 VBARTLET
 p779
 sg12
-g13
+g9
 sa(dp780
 g6
 VMr. President, get in the shower.
@@ -2852,7 +2852,7 @@ sg10
 VC.J.
 p785
 sg12
-g9
+g13
 sa(dp786
 g6
 VJosh's door is closed. He's not picking up?
@@ -2918,7 +2918,7 @@ sg10
 VJOSH
 p803
 sg12
-g13
+g23
 sa(dp804
 g6
 VWell, ask her why we can't throw a little money at the system and do something about these false alarms.
@@ -2962,7 +2962,7 @@ sg10
 VJOSH
 p815
 sg12
-g13
+g9
 sa(dp816
 g6
 VDid you know I'm taking Jack Sosa's place on the trip?
@@ -2995,7 +2995,7 @@ sg10
 VDONNA
 p824
 sg12
-g13
+g23
 sa(dp825
 g6
 VBring him back a keychain with a pyramid on it or something. Whoops, I got another line beeping. What do I do?
@@ -3017,7 +3017,7 @@ sg10
 VDONNA
 p830
 sg12
-g13
+g9
 sa(dp831
 g6
 VWeren't you getting a drink with that guy from the Post-Intelligencer?
@@ -3039,7 +3039,7 @@ sg10
 VDONNA
 p836
 sg12
-g13
+g23
 sa(dp837
 g6
 VHe was cute.
@@ -3050,7 +3050,7 @@ sg10
 VC.J.
 p839
 sg12
-g13
+g9
 sa(dp840
 g6
 VEh, he'll call.
@@ -3138,7 +3138,7 @@ sg10
 VTOBY
 p863
 sg12
-g13
+g23
 sa(dp864
 g6
 VMy cell phone's out in my coat pocket, and since your scrubbing of my old office included the phone... He was fast, that guy. You think that was judo?
@@ -3155,12 +3155,12 @@ g6
 VThere are sodas in here. They're cold.
 p868
 sg8
-g25
+g23
 sg10
 VWILL
 p869
 sg12
-g13
+g23
 sa(dp870
 g6
 VI'm not putting a soda on my head.
@@ -3171,7 +3171,7 @@ sg10
 VTOBY
 p872
 sg12
-g13
+g23
 sa(dp873
 g6
 VOkay. There's gonna be a bump.
@@ -3182,7 +3182,7 @@ sg10
 VWILL
 p875
 sg12
-g13
+g23
 sa(dp876
 g6
 VI don't know Major Gordon. Do we like him?
@@ -3193,7 +3193,7 @@ sg10
 VABBEY
 p878
 sg12
-g13
+g23
 sa(dp879
 g6
 VHe didn't laugh at my Social Security joke.
@@ -3204,7 +3204,7 @@ sg10
 VBARTLET
 p881
 sg12
-g13
+g23
 sa(dp882
 g6
 VI think we can count on Dr. Gordon's sobriety.
@@ -3226,7 +3226,7 @@ sg10
 VBARTLET
 p887
 sg12
-g13
+g9
 sa(dp888
 g6
 VDon't get too bored.
@@ -3237,7 +3237,7 @@ sg10
 VBARTLET
 p890
 sg12
-g13
+g23
 sa(dp891
 g6
 VLeo's still in the building?
@@ -3298,7 +3298,7 @@ g6
 VUntil he gets whisked away to some undisclosed location, I'm gonna run with the false alarm story.
 p907
 sg8
-g25
+g23
 sg10
 VABBEY
 p908
@@ -3358,7 +3358,7 @@ sg10
 VLEO
 p923
 sg12
-g13
+g23
 sa(dp924
 g6
 VYeah.
@@ -3391,7 +3391,7 @@ sg10
 VLEO
 p932
 sg12
-g13
+g23
 sa(dp933
 g6
 VBetter to have you here making sure I behave.
@@ -3402,7 +3402,7 @@ sg10
 VABBEY
 p935
 sg12
-g13
+g23
 sa(dp936
 g6
 VIf it comes to that, have you got any of those to spare? Or are you hoarding the good stuff?
@@ -3452,7 +3452,7 @@ g6
 VSo, why'd you get the water? You went out and got a case right before the agent showed up.
 p949
 sg8
-g25
+g23
 sg10
 VJOSH
 p950
@@ -3512,7 +3512,7 @@ sg10
 VHARPER
 p965
 sg12
-g13
+g23
 sa(dp966
 g6
 VWhere was that?
@@ -3523,7 +3523,7 @@ sg10
 VJOSH
 p968
 sg12
-g13
+g23
 sa(dp969
 g6
 VOverseas.
@@ -3573,7 +3573,7 @@ g6
 VI got a power bar, too, if things get ugly.
 p982
 sg8
-g25
+g23
 sg10
 VHARPER
 p983
@@ -3589,7 +3589,7 @@ sg10
 VJOSH
 p986
 sg12
-g13
+g23
 sa(dp987
 g6
 VNot this code, you don't.
@@ -3606,12 +3606,12 @@ g6
 VSo why'd you kill my Panama joke?
 p991
 sg8
-g25
+g23
 sg10
 VJOSH
 p992
 sg12
-g9
+g23
 sa(dp993
 g6
 VWhat?
@@ -3639,12 +3639,12 @@ g6
 VNo threat.
 p1000
 sg8
-g25
+g23
 sg10
 VHARPER
 p1001
 sg12
-g13
+g23
 sa(dp1002
 g6
 VNo?
@@ -3666,7 +3666,7 @@ sg10
 VHARPER
 p1007
 sg12
-g13
+g23
 sa(dp1008
 g6
 VYou don't really like Russell.
@@ -3677,7 +3677,7 @@ sg10
 VTOBY
 p1010
 sg12
-g13
+g23
 sa(dp1011
 g6
 VNo, you don't. And your dislike isn't professional, it's personal.
@@ -3688,7 +3688,7 @@ sg10
 VWILL
 p1013
 sg12
-g13
+g23
 sa(dp1014
 g6
 VIt's not personal. Visceral.
@@ -3699,7 +3699,7 @@ sg10
 VTOBY
 p1016
 sg12
-g13
+g23
 sa(dp1017
 g6
 VHe's not inconsiderable once you spend some time with him.
@@ -3732,13 +3732,13 @@ sg10
 VWILL
 p1025
 sg12
-g13
+g23
 sa(dp1026
 g6
 VDon't say heir apparent when we've got men in moon suits hermetically sealing the Oval. This is Russell's only shot, by the way. A night like this. You're comfortable with that?
 p1027
 sg8
-g25
+g23
 sg10
 VTOBY
 p1028
@@ -3771,7 +3771,7 @@ g6
 VOnly shot.
 p1036
 sg8
-g25
+g23
 sg10
 VWILL
 p1037
@@ -3787,7 +3787,7 @@ sg10
 VTOBY
 p1040
 sg12
-g13
+g9
 sa(dp1041
 g6
 VYeah, I see.
@@ -3798,13 +3798,13 @@ sg10
 VWILL
 p1043
 sg12
-g13
+g23
 sa(dp1044
 g6
 VOr a mob hit would also work.
 p1045
 sg8
-g25
+g23
 sg10
 VTOBY
 p1046
@@ -3815,7 +3815,7 @@ g6
 VSomeday there's going to be a newer, younger political operative moving on to your landscape. Somebody up through the ranks from the domestic policy shop, and you'll be able to foist all your jealousy and resentment onto his unsuspecting shoulders and you'll give me a break for three consecutive minutes.
 p1048
 sg8
-g25
+g23
 sg10
 VWILL
 p1049
@@ -3831,7 +3831,7 @@ sg10
 VTOBY
 p1052
 sg12
-g13
+g9
 sa(dp1053
 g6
 VYou've had one win in your career, one. And you're looking sunset in the face, and I'm just getting started, and that's eating you apart like some psychological melanoma.
@@ -3848,7 +3848,7 @@ g6
 VMy jealousy of you?
 p1057
 sg8
-g25
+g23
 sg10
 VTOBY
 p1058
@@ -3886,7 +3886,7 @@ sg10
 VDONNA
 p1067
 sg12
-g13
+g23
 sa(dp1068
 g6
 VThe plan was to hit the road by 11:00, get there by 1:00, pitch a tent by starlight, and wake up in the green world.
@@ -3908,7 +3908,7 @@ sg10
 VDONNA
 p1073
 sg12
-g13
+g9
 sa(dp1074
 g6
 VThere's going to be post-mortem on this.
@@ -3925,18 +3925,18 @@ g6
 VI doubt it.
 p1078
 sg8
-g25
+g23
 sg10
 VDONNA
 p1079
 sg12
-g13
+g23
 sa(dp1080
 g6
 V"Why the system's on the fritz. Is the White House crippled by its own protection?"
 p1081
 sg8
-g25
+g23
 sg10
 VC.J.
 p1082
@@ -3980,18 +3980,18 @@ g6
 VHi. I'm still here. We've got a little bit of a situation. I'm afraid our little getaway isn't going to work. I'm really sorry.
 p1093
 sg8
-g25
+g23
 sg10
 VC.J.
 p1094
 sg12
-g13
+g23
 sa(dp1095
 g6
 VAllergies have been a pain my whole life, but this is a new low.
 p1096
 sg8
-g25
+g23
 sg10
 VDEBBIE
 p1097
@@ -4007,7 +4007,7 @@ sg10
 VBARTLET
 p1100
 sg12
-g13
+g9
 sa(dp1101
 g6
 VFor all we know, you probably saved our lives.
@@ -4029,7 +4029,7 @@ sg10
 VBARTLET
 p1106
 sg12
-g13
+g9
 sa(dp1107
 g6
 VOh, yes, sir. I'm so digging the polyester.
@@ -4051,7 +4051,7 @@ sg10
 VCHARLIE
 p1112
 sg12
-g13
+g9
 sa(dp1113
 g6
 VCipro?
@@ -4073,7 +4073,7 @@ sg10
 VGORDON
 p1118
 sg12
-g13
+g9
 sa(dp1119
 g6
 VLet me guess: protocol.
@@ -4084,13 +4084,13 @@ sg10
 VBARTLET
 p1121
 sg12
-g25
+g23
 sa(dp1122
 g6
 VThe cultures will be back in 48 hours. If it's negative for anthrax, we'll stop the regimen.
 p1123
 sg8
-g25
+g23
 sg10
 VGORDON
 p1124
@@ -4101,12 +4101,12 @@ g6
 VSo, we haven't ruled out anthrax?
 p1126
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p1127
 sg12
-g13
+g23
 sa(dp1128
 g6
 VWe haven't ruled out anything.
@@ -4117,7 +4117,7 @@ sg10
 VGORDON
 p1130
 sg12
-g13
+g23
 sa(dp1131
 g6
 VActually, we have. Mr. President?
@@ -4167,18 +4167,18 @@ g6
 VIs that a virus?
 p1144
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1145
 sg12
-g13
+g23
 sa(dp1146
 g6
 VTularemia is a bacterium. It occurs rarely in insects and rodents. Theoretically, in an aerosolized form, it could be used as a weapon.
 p1147
 sg8
-g25
+g23
 sg10
 VGORDON
 p1148
@@ -4211,7 +4211,7 @@ g6
 VNo. We can eliminate that scenario. This bacteria was released in the office; probably within 10 to 15 minutes of the alarm sounding.
 p1156
 sg8
-g25
+g23
 sg10
 VBUTTERFIELD
 p1157
@@ -4249,7 +4249,7 @@ sg10
 VGORDON
 p1166
 sg12
-g13
+g23
 sa(dp1167
 g6
 VIf it had gone undetected?
@@ -4266,29 +4266,29 @@ g6
 VTularemia's likely to manifest as a severe respiratory infection: pneumonia, eventually systemic.
 p1171
 sg8
-g25
+g23
 sg10
 VGORDON
 p1172
 sg12
-g13
+g23
 sa(dp1173
 g6
 VSounds bad.
 p1174
 sg8
-g25
+g23
 sg10
 VCHARLIE
 p1175
 sg12
-g13
+g23
 sa(dp1176
 g6
 VIn the world of known pathogens, tularemia is closest to... well, in fact, it is plague.
 p1177
 sg8
-g25
+g23
 sg10
 VGORDON
 p1178
@@ -4304,7 +4304,7 @@ sg10
 VTOBY
 p1181
 sg12
-g13
+g23
 sa(dp1182
 g6
 VHalf an hour.
@@ -4348,7 +4348,7 @@ sg10
 VTOBY
 p1193
 sg12
-g13
+g23
 sa(dp1194
 g6
 V"Hell is other people."
@@ -4370,7 +4370,7 @@ sg10
 VTOBY
 p1199
 sg12
-g13
+g9
 sa(dp1200
 g6
 VWe're stuck in a lockdown every time some frat boy on a hazing dare tries to jump the fence. You know how many undergraduate institutions there are in this town?
@@ -4403,7 +4403,7 @@ sg10
 VJOSH
 p1208
 sg12
-g13
+g9
 sa(dp1209
 g6
 VIt's not the fence.
@@ -4425,7 +4425,7 @@ sg10
 VJOSH
 p1214
 sg12
-g13
+g23
 sa(dp1215
 g6
 VIt's a possible airborne contaminant.
@@ -4447,7 +4447,7 @@ sg10
 VJOSH
 p1220
 sg12
-g9
+g13
 sa(dp1221
 g6
 VThe ventilation system's off, which the do either in the event of a fire or they do in the event of a potential airborne contaminant. In the event of a fire I like to think they'll lock us outside the building.
@@ -4475,12 +4475,12 @@ g6
 VCould be anthrax, smallpox, botulism. Though it's hard to aerosolize, so it's probably not botulism. Sarin and VX kill you within minutes, so we can rule them out. Mustard's unlikely 'cause we'd smell it, and there'd be blistering...
 p1228
 sg8
-g25
+g23
 sg10
 VHARPER
 p1229
 sg12
-g13
+g23
 sa(dp1230
 g6
 VOkay.
@@ -4524,7 +4524,7 @@ sg10
 VCHARLIE
 p1241
 sg12
-g13
+g9
 sa(dp1242
 g6
 VHow can they not have a deck of cards?
@@ -4546,7 +4546,7 @@ sg10
 VBARTLET
 p1247
 sg12
-g13
+g23
 sa(dp1248
 g6
 VThe sprung for Boggle, they could have thrown in a deck of cards.
@@ -4590,7 +4590,7 @@ sg10
 VBARTLET
 p1259
 sg12
-g13
+g23
 sa(dp1260
 g6
 VJust a moment, sir.
@@ -4601,7 +4601,7 @@ sg10
 VBUTTERFIELD
 p1262
 sg12
-g13
+g9
 sa(dp1263
 g6
 VRon is on the phone.
@@ -4634,7 +4634,7 @@ sg10
 VDEBBIE
 p1271
 sg12
-g13
+g23
 sa(dp1272
 g6
 VAny changes in the last five minutes?
@@ -4662,12 +4662,12 @@ g6
 VNot bad, considering.
 p1279
 sg8
-g25
+g23
 sg10
 VDEBBIE
 p1280
 sg12
-g13
+g23
 sa(dp1281
 g6
 VYeah. You'd have thought the word "plague" alone would have spiked us all into the stratosphere.
@@ -4733,7 +4733,7 @@ sg10
 VBUTTERFIELD
 p1298
 sg12
-g9
+g13
 sa(dp1299
 g6
 VTo me?
@@ -4744,7 +4744,7 @@ sg10
 VCHARLIE
 p1301
 sg12
-g13
+g23
 sa(dp1302
 g6
 VTo your home address. Did you bring in any mail from home?
@@ -4766,7 +4766,7 @@ sg10
 VCHARLIE
 p1307
 sg12
-g13
+g23
 sa(dp1308
 g6
 VFiderer.
@@ -4865,7 +4865,7 @@ sg10
 VWILL
 p1334
 sg12
-g9
+g23
 sa(dp1335
 g6
 VMyself. An ode to my sunset years.
@@ -4882,7 +4882,7 @@ g6
 VAll right, I'm sorry. That was a gross exaggeration.
 p1339
 sg8
-g25
+g23
 sg10
 VWILL
 p1340
@@ -4893,7 +4893,7 @@ g6
 VNo, I love it that I live in your imagination crippled by jealousy and in my decline. That speech Russell gave tonight...
 p1342
 sg8
-g25
+g23
 sg10
 VTOBY
 p1343
@@ -4931,7 +4931,7 @@ sg10
 VLEO
 p1352
 sg12
-g13
+g9
 sa(dp1353
 g6
 VThey're understaffed. They asked me to pitch in.
@@ -4942,7 +4942,7 @@ sg10
 VABBEY
 p1355
 sg12
-g13
+g23
 sa(dp1356
 g6
 VBelieve me, I love the idea of you ministering to the wayward and unwashed. I don't love you becoming a de facto spokesperson for a load of issues we can't support.
@@ -4964,7 +4964,7 @@ sg10
 VABBEY
 p1361
 sg12
-g13
+g23
 sa(dp1362
 g6
 V"Hello. My name is Clarissa Ponsissa. I'm 14 and sexually active. But I know it's okay, 'cause I got my condoms from the First Lady." Fox News is throwing a party.
@@ -5036,7 +5036,7 @@ g6
 VIt's colorless, odorless, could be stored in a sealed envelope. But it's sensitive to ultraviolet light. It is contagious. Some nut could have mailed it to Charlie.
 p1381
 sg8
-g25
+g23
 sg10
 VDEBBIE
 p1382
@@ -5047,7 +5047,7 @@ g6
 VDebbie, you'll drive yourself crazy with this.
 p1384
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1385
@@ -5063,7 +5063,7 @@ sg10
 VDEBBIE
 p1388
 sg12
-g13
+g23
 sa(dp1389
 g6
 VThen what?
@@ -5096,7 +5096,7 @@ sg10
 VBARTLET
 p1397
 sg12
-g13
+g9
 sa(dp1398
 g6
 VIn this world, Mr. President.
@@ -5113,7 +5113,7 @@ g6
 VWhen I came into office, we knew the word "terrorist." It was in the daily briefing. But we pictured guys with turbans in the desert or some mad survivalist in a cabin in Montana. That party's over. Now anyone with high school chemistry is a potential threat.
 p1402
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1403
@@ -5129,7 +5129,7 @@ sg10
 VDEBBIE
 p1406
 sg12
-g13
+g9
 sa(dp1407
 g6
 VToo many.
@@ -5162,7 +5162,7 @@ sg10
 VBARTLET
 p1415
 sg12
-g13
+g23
 sa(dp1416
 g6
 VAlong with ballistic allergy shots.
@@ -5234,12 +5234,12 @@ g6
 VI just don't know how much I can report if I'm in the copy room.
 p1435
 sg8
-g25
+g23
 sg10
 VDONNA
 p1436
 sg12
-g13
+g23
 sa(dp1437
 g6
 VFitz is going to fill them in.
@@ -5261,7 +5261,7 @@ sg10
 VDONNA
 p1442
 sg12
-g13
+g23
 sa(dp1443
 g6
 VThe Israeli embassy is going to give you four people, so for that leg of the trip you can sit in on a couple of meetings.
@@ -5311,12 +5311,12 @@ g6
 VJosh Lyman needs a smack in the head.
 p1456
 sg8
-g25
+g23
 sg10
 VC.J.
 p1457
 sg12
-g13
+g23
 sa(dp1458
 g6
 VWhy?
@@ -5338,7 +5338,7 @@ sg10
 VC.J.
 p1463
 sg12
-g13
+g9
 sa(dp1464
 g6
 VNot at all. He's gone out of his way to give me every opportunity he can.
@@ -5371,7 +5371,7 @@ sg10
 VDONNA
 p1472
 sg12
-g13
+g23
 sa(dp1473
 g6
 VAbsolutely.
@@ -5410,23 +5410,23 @@ g6
 VIt's not a false alarm. It wouldn't take this long.
 p1483
 sg8
-g25
+g23
 sg10
 VDONNA
 p1484
 sg12
-g13
+g23
 sa(dp1485
 g6
 VI wish I had filled this damn canteen.
 p1486
 sg8
-g25
+g23
 sg10
 VC.J.
 p1487
 sg12
-g25
+g23
 sa(dp1488
 g6
 VYon know, you can't blame Josh. It's not his job to...
@@ -5443,7 +5443,7 @@ g6
 VI don't blame Josh, it takes two of you. You choose to stay.
 p1492
 sg8
-g25
+g23
 sg10
 VC.J.
 p1493
@@ -5481,13 +5481,13 @@ sg10
 VDONNA
 p1502
 sg12
-g13
+g23
 sa(dp1503
 g6
 VWhy didn't you get a drink with the guy from the Post-Intelligencer? You knew what was on your desk, you knew what was on Josh's desk. It wouldn't wait until Monday?
 p1504
 sg8
-g25
+g23
 sg10
 VC.J.
 p1505
@@ -5498,7 +5498,7 @@ g6
 VWhy did you cancel your camping trip? We're going to be out of here in a few minutes, you're going home to a rerun of Lettermen. I'm sorry. I just...
 p1507
 sg8
-g25
+g23
 sg10
 VDONNA
 p1508
@@ -5591,7 +5591,7 @@ sg10
 VDONNA
 p1532
 sg12
-g13
+g23
 sa(dp1533
 g6
 VWhat you wrote for Russell tonight was profoundly disturbing.
@@ -5657,7 +5657,7 @@ sg10
 VWILL
 p1550
 sg12
-g13
+g23
 sa(dp1551
 g6
 VOf course you were.
@@ -5668,7 +5668,7 @@ sg10
 VTOBY
 p1553
 sg12
-g9
+g13
 sa(dp1554
 g6
 VChuck McGill, they golf.
@@ -5679,7 +5679,7 @@ sg10
 VWILL
 p1556
 sg12
-g25
+g9
 sa(dp1557
 g6
 VIn a room full of 600 reporters McGill's not a golf buddy, he's Chairman of Ways and Means. You made a calculation, you positioned him brilliantly. It never for a second crossed my mind before, but if you keep this up he might win.
@@ -5784,7 +5784,7 @@ g6
 VYou only hit it once, and maybe never again.
 p1585
 sg8
-g25
+g23
 sg10
 VWILL
 p1586
@@ -5899,7 +5899,7 @@ sg10
 VBUTTERFIELD
 p1616
 sg12
-g13
+g9
 sa(dp1617
 g6
 VThat's the all-clear?
@@ -5954,7 +5954,7 @@ sg10
 VBUTTERFIELD
 p1631
 sg12
-g13
+g23
 sa(dp1632
 g6
 VWhy?
@@ -5971,7 +5971,7 @@ g6
 VI need to brief the President, then I'd like to speak to all of you in the Mural Room. If you run into anyone on the way up, we'd like you to treat this as a false alarm.
 p1636
 sg8
-g25
+g23
 sg10
 VBUTTERFIELD
 p1637
@@ -5982,12 +5982,12 @@ g6
 VFalse alarm.
 p1639
 sg8
-g25
+g23
 sg10
 VLEO
 p1640
 sg12
-g13
+g23
 sa(dp1641
 g6
 VRight.
@@ -6009,7 +6009,7 @@ sg10
 VLEO
 p1646
 sg12
-g25
+g23
 sa(dp1647
 g6
 VI'm on my way out.
@@ -6020,7 +6020,7 @@ sg10
 VABBEY
 p1649
 sg12
-g13
+g23
 sa(dp1650
 g6
 VIf this is about Jed, there must be other ways.
@@ -6053,7 +6053,7 @@ sg10
 VLEO
 p1658
 sg12
-g13
+g23
 sa(dp1659
 g6
 VHe's not running again. It's about saving lives now.
@@ -6086,13 +6086,13 @@ sg10
 VABBEY
 p1667
 sg12
-g13
+g9
 sa(dp1668
 g6
 VSomebody snaps the wrong photo of you with a junkie or somebody sees you pop a Xanax...
 p1669
 sg8
-g25
+g23
 sg10
 VLEO
 p1670
@@ -6108,7 +6108,7 @@ sg10
 VABBEY
 p1673
 sg12
-g13
+g23
 sa(dp1674
 g6
 VI never had to tell you this before. You always knew when something was over the line.
@@ -6130,7 +6130,7 @@ sg10
 VABBEY
 p1679
 sg12
-g13
+g23
 sa(dp1680
 g6
 VOkay, forget that. That was... that was... I'm saying, as your friend, I'm saying, as a person who had a close personal relationship with Valium for more years than I care to remember, it's dicey. It starts at "As needed". Then you need a little more.
@@ -6147,12 +6147,12 @@ g6
 VI don't have a problem. Unless having a husband who spends evenings in an underground bunker counts.
 p1684
 sg8
-g25
+g23
 sg10
 VABBEY
 p1685
 sg12
-g13
+g23
 sa(dp1686
 g6
 VIt's hard on you.
@@ -6207,7 +6207,7 @@ sg10
 VABBEY
 p1700
 sg12
-g13
+g23
 sa(dp1701
 g6
 VI may not be Jack LaLane...
@@ -6295,7 +6295,7 @@ sg10
 VAGENT
 p1724
 sg12
-g13
+g9
 sa(dp1725
 g6
 VDo we know what happened?
@@ -6312,12 +6312,12 @@ g6
 VFalse alarm.
 p1729
 sg8
-g25
+g23
 sg10
 VAGENT
 p1730
 sg12
-g13
+g23
 sa(dp1731
 g6
 VI'm going to need a report from your supervisor for the briefing. Donna.
@@ -6372,7 +6372,7 @@ sg10
 VJOSH
 p1745
 sg12
-g13
+g9
 sa(dp1746
 g6
 VWhat'd he say?
@@ -6389,12 +6389,12 @@ g6
 VFalse alarm.
 p1750
 sg8
-g25
+g23
 sg10
 VHARPER
 p1751
 sg12
-g13
+g23
 sa(dp1752
 g6
 VHe said that before. He didn't say anything else?
@@ -6405,7 +6405,7 @@ sg10
 VJOSH
 p1754
 sg12
-g13
+g23
 sa(dp1755
 g6
 VNot really.
@@ -6416,7 +6416,7 @@ sg10
 VHARPER
 p1757
 sg12
-g13
+g23
 sa(dp1758
 g6
 VYou just talked to him for five minutes.
@@ -6438,7 +6438,7 @@ sg10
 VHARPER
 p1763
 sg12
-g13
+g9
 sa(dp1764
 g6
 VYou know, you're not a spy in a Ukrainian nuke lab anymore. We talk about stuff here.
@@ -6499,7 +6499,7 @@ g6
 VYour joke.
 p1780
 sg8
-g25
+g23
 sg10
 VHARPER
 p1781
@@ -6576,7 +6576,7 @@ g6
 VHave a seat. Where'd we fall short?
 p1801
 sg8
-g25
+g23
 sg10
 VBARTLET
 p1802
@@ -6587,7 +6587,7 @@ g6
 VOne channel of the ventilation system failed to deactivate. If this had been a live infection, we'd have had a contamination in the communications area...
 p1804
 sg8
-g25
+g23
 sg10
 VBUTTERFIELD
 p1805
@@ -6669,13 +6669,13 @@ sg10
 VDEBBIE
 p1826
 sg12
-g13
+g9
 sa(dp1827
 g6
 VWas a stimulant - without harmful properties - that was planted in Charlie's recycle bin.
 p1828
 sg8
-g25
+g23
 sg10
 VBUTTERFIELD
 p1829
@@ -6691,7 +6691,7 @@ sg10
 VCHARLIE
 p1832
 sg12
-g13
+g9
 sa(dp1833
 g6
 VYou were both participants of a top secret exercise tonight, and for the time being it's going to have to remain top secret. If I'm ever looking this in the face, I hope I've got folks beside me like the two of you.
@@ -6724,7 +6724,7 @@ sg10
 VDEBBIE
 p1841
 sg12
-g9
+g13
 sa(dp1842
 g6
 VThey didn't question it.
@@ -6746,7 +6746,7 @@ sg10
 VBARTLET
 p1847
 sg12
-g13
+g23
 sa(dp1848
 g6
 VYou didn't know it would be tonight, sir.
@@ -6757,7 +6757,7 @@ sg10
 VBUTTERFIELD
 p1850
 sg12
-g13
+g23
 sa(dp1851
 g6
 VI knew it when you showed up. And it was worth it if we learned something useful. Did we learn anything, Ron?
@@ -6790,7 +6790,7 @@ sg10
 VBARTLET
 p1859
 sg12
-g13
+g9
 sa(dp1860
 g6
 VThey have a chemist under surveillance who tried to order bacteria from the CDC. Tularemia won't get through again.
@@ -6895,12 +6895,12 @@ g6
 VAre they sticking with false alarm?
 p1888
 sg8
-g25
+g23
 sg10
 VTOBY
 p1889
 sg12
-g25
+g23
 sa(dp1890
 g6
 VYeah.
@@ -6950,7 +6950,7 @@ g6
 VIt's me. ... Am I calling too late? ... I'm just getting out, I'm thinking Thai. ... Why, why would you be worried about me? ... Oh, yeah. True, the pollen count has been wicked.
 p1903
 sg8
-g25
+g23
 sg10
 VDEBBIE
 p1904

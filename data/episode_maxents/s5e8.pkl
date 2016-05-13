@@ -23,301 +23,301 @@ VBARTLET
 p11
 sS'maxent_score'
 p12
-g9
-sa(dp13
+S'negative'
+p13
+sa(dp14
 g6
 VLet's be clear sir. You'll be held responsible for shutting down the federal government.
-p14
+p15
 sg8
 S'positive'
-p15
+p16
 sg10
 VHAFFLEY
-p16
+p17
 sg12
 g9
-sa(dp17
+sa(dp18
 g6
 VThen shut it down.
-p18
+p19
 sg8
 g9
 sg10
 VBARTLET
-p19
+p20
 sg12
-g9
-sa(dp20
+g13
+sa(dp21
 g6
 VMr. President.
-p21
+p22
 sg8
 g9
 sg10
 VHAFFLEY
-p22
+p23
 sg12
 g9
-sa(dp23
+sa(dp24
 g6
 VMr. Speaker.
-p24
+p25
 sg8
 g9
 sg10
 VBARTLET
-p25
+p26
 sg12
 g9
-sa(dp26
+sa(dp27
 g6
 VHere they come.
-p27
+p28
 sg8
 g9
 sg10
 VBONNIE
-p28
+p29
 sg12
 g9
-sa(dp29
+sa(dp30
 g6
 VSix minutes. The meeting lasted six minutes. That's good, right?
-p30
+p31
 sg8
-g15
+g16
 sg10
 VWILL
-p31
+p32
 sg12
-g9
-sa(dp32
+g16
+sa(dp33
 g6
 VMaybe not.
-p33
+p34
 sg8
 g9
 sg10
 VWILL
-p34
+p35
 sg12
-g9
-sa(dp35
+g13
+sa(dp36
 g6
 VWhat happened?
-p36
+p37
 sg8
 g9
 sg10
 VTOBY
-p37
+p38
 sg12
 g9
-sa(dp38
+sa(dp39
 g6
 VThere's no agreement.
-p39
+p40
 sg8
-g15
+g16
 sg10
 VDONNA
-p40
+p41
 sg12
-g9
-sa(dp41
+g13
+sa(dp42
 g6
 VHow far apart are we?
-p42
+p43
 sg8
 g9
 sg10
 VJOSH
-p43
+p44
 sg12
-g9
-sa(dp44
+g16
+sa(dp45
 g6
 VThey're leaving the building.
-p45
+p46
 sg8
-g15
+g16
 sg10
 VDONNA
-p46
+p47
 sg12
 g9
-sa(dp47
+sa(dp48
 g6
 VWithout a continuing resolution?
-p48
+p49
 sg8
 g9
 sg10
 VWILL
-p49
+p50
 sg12
-g9
-sa(dp50
+g16
+sa(dp51
 g6
 VHaffley said the only way he could see it was with a three percent cut.
-p51
+p52
 sg8
 g9
 sg10
 VDONNA
-p52
+p53
 sg12
 g9
-sa(dp53
+sa(dp54
 g6
 VWe had a deal at one percent!
-p54
+p55
 sg8
-g15
+g16
 sg10
 VTOBY
-p55
+p56
 sg12
 g9
-sa(dp56
+sa(dp57
 g6
 VHe's bluffing.
-p57
+p58
 sg8
 g9
 sg10
 VJOSH
-p58
+p59
 sg12
 g9
-sa(dp59
+sa(dp60
 g6
 VWe'll never know because the President ended the meeting. Will?
-p60
+p61
 sg8
 g9
 sg10
 VRUSSELL
-p61
+p62
 sg12
 g9
-sa(dp62
+sa(dp63
 g6
 VIt's only 8:30. We'll get a deal before midnight.
-p63
+p64
 sg8
-g15
+g16
 sg10
 VJOSH
-p64
+p65
 sg12
 g9
-sa(dp65
+sa(dp66
 g6
 VI don't know.
-p66
+p67
 sg8
 g9
 sg10
 VDONNA
-p67
+p68
 sg12
-g9
-sa(dp68
+g13
+sa(dp69
 g6
 VI'm gonna... [walks off]
-p69
+p70
 sg8
 g9
 sg10
 VTOBY
-p70
+p71
 sg12
-g9
-sa(dp71
+g13
+sa(dp72
 g6
 VYeah.
-p72
+p73
 sg8
 g9
 sg10
 VJOSH
-p73
+p74
 sg12
 g9
-sa(dp74
+sa(dp75
 g6
 VNo no. Christmas came early this year.
-p75
+p76
 sg8
 g9
 sg10
 VHAFFLEY
-p76
+p77
 sg12
 g9
-sa(dp77
+sa(dp78
 g6
 VSir, you want to talk about what just happened?
-p78
+p79
 sg8
-g15
+g16
 sg10
 VLEO
-p79
+p80
 sg12
 g9
-sa(dp80
+sa(dp81
 g6
 V[signing some papers] You were there. Make sure Nancy sees me in the morning about the ? in Indonesia. I don't want any training East of Kupan. Anything else?
-p81
+p82
 sg8
 g9
 sg10
 VBARTLET
-p82
+p83
 sg12
 g9
-sa(dp83
+sa(dp84
 g6
 VWe need a continuing resolution by midnight of 940,000 federal employees aren't going to show up in the morning.
-p84
+p85
 sg8
 g9
 sg10
 VLEO
-p85
+p86
 sg12
 g9
-sa(dp86
+sa(dp87
 g6
 VGive them your shirt, they want your built.
-p87
+p88
 sg8
 g9
 sg10
 VBARTLET
-p88
+p89
 sg12
 g9
-sa(dp89
+sa(dp90
 g6
 V[forcefully] We have to get them back in.
-p90
+p91
 sg8
 g9
 sg10
 VANGELA
-p91
+p92
 sg12
 g9
-sa(dp92
+sa(dp93
 g6
 VNot tonight. [checks his watch] Damn! I probably missed the first half. Providence is going to get a whopping from my fighting Irish.
-p93
-sg8
-S'negative'
 p94
+sg8
+g13
 sg10
 VBARTLET
 p95
@@ -355,13 +355,13 @@ sg10
 VCHARLIE
 p104
 sg12
-g94
+g16
 sa(dp105
 g6
 VWhat the hell happened?
 p106
 sg8
-g94
+g13
 sg10
 VJOSH
 p107
@@ -399,7 +399,7 @@ sg10
 VLEO
 p116
 sg12
-g9
+g13
 sa(dp117
 g6
 V[on T.V.] I went to the White House to pass a continuing resolution while we work through our differences. But this President couldn't find three percent of a 1.2 trillion budget to cut to keep the government open and working.
@@ -421,7 +421,7 @@ sg10
 VLEO
 p122
 sg12
-g94
+g13
 sa(dp123
 g6
 V[yelling] Hey people, shut up!
@@ -438,7 +438,7 @@ g6
 V[to Charlie] Thank you. [to the room] Effective immediately, the U.S. government is shut down. We have no operating budget, so all non-essential personnel, anyone below special assistant, non-national security and public safety, go home until further notice. The President thanks you for your hard work and service. Questions?
 p127
 sg8
-g15
+g16
 sg10
 VLEO
 p128
@@ -465,7 +465,7 @@ sg10
 VLEO
 p134
 sg12
-g9
+g13
 sa(dp135
 g6
 VMaybe a couple days?
@@ -520,7 +520,7 @@ sg10
 VC.J.
 p149
 sg12
-g94
+g13
 sa(dp150
 g6
 VI sure as hell hope so.
@@ -531,13 +531,13 @@ sg10
 VTOBY
 p152
 sg12
-g94
+g13
 sa(dp153
 g6
 VAmtrak, the courts, federal prisons, border patrol, national weather service, all open, and meat inspectors will remain on the job.
 p154
 sg8
-g15
+g16
 sg10
 VC.J.
 p155
@@ -575,13 +575,13 @@ sg10
 VTOBY
 p164
 sg12
-g9
+g13
 sa(dp165
 g6
 V[putting on her suit jacket] We had agreed to a one percent cut on a 30 day continuing resolution, but the Speaker pulled a bait-and-switch.
 p166
 sg8
-g15
+g16
 sg10
 VC.J.
 p167
@@ -603,18 +603,18 @@ g6
 VThree percent equals X dollars, which is Y flu vaccinations, Z school lunches.
 p172
 sg8
-g94
+g13
 sg10
 VC.J.
 p173
 sg12
-g9
+g13
 sa(dp174
 g6
 VIt's more convincing with numbers. Carol!
 p175
 sg8
-g15
+g16
 sg10
 VC.J.
 p176
@@ -636,7 +636,7 @@ g6
 V[sighing] I'll get you the numbers.
 p181
 sg8
-g15
+g16
 sg10
 VTOBY
 p182
@@ -647,7 +647,7 @@ g6
 V[incredulous] He's on the front lawn?!
 p184
 sg8
-g94
+g13
 sg10
 VC.J.
 p185
@@ -663,7 +663,7 @@ sg10
 VCAROL
 p188
 sg12
-g9
+g16
 sa(dp189
 g6
 VIs there anyone left?
@@ -685,18 +685,18 @@ sg10
 VCAROL
 p194
 sg12
-g9
+g16
 sa(dp195
 g6
 VShould I wait for Haffley to finish?
 p196
 sg8
-g94
+g13
 sg10
 VC.J.
 p197
 sg12
-g9
+g13
 sa(dp198
 g6
 VWe gotta start reclaiming some ground.
@@ -707,18 +707,18 @@ sg10
 VTOBY
 p200
 sg12
-g9
+g13
 sa(dp201
 g6
 VOkay, but I need some numbers fast, maybe some garlic and a crucifix.
 p202
 sg8
-g15
+g16
 sg10
 VC.J.
 p203
 sg12
-g15
+g16
 sa(dp204
 g6
 V[to Toby] What should I...?
@@ -729,7 +729,7 @@ sg10
 VCAROL
 p206
 sg12
-g9
+g13
 sa(dp207
 g6
 V[following C.J.] Go home.
@@ -746,7 +746,7 @@ g6
 VGood evening everybody. Katie, get back here. Let's start with the good news. National security and public safety will not be affected.
 p211
 sg8
-g15
+g16
 sg10
 VC.J.
 p212
@@ -757,12 +757,12 @@ g6
 VThis is so unfair. We're already understaffed.
 p214
 sg8
-g94
+g13
 sg10
 VDONNA
 p215
 sg12
-g9
+g13
 sa(dp216
 g6
 VYeah.
@@ -784,13 +784,13 @@ sg10
 VDONNA
 p221
 sg12
-g9
+g16
 sa(dp222
 g6
 VYou do realize you're not a special assistant.
 p223
 sg8
-g15
+g16
 sg10
 VJOSH
 p224
@@ -812,7 +812,7 @@ g6
 V[interrupting] Donna, listen carefully. You have to go home.
 p229
 sg8
-g15
+g16
 sg10
 VJOSH
 p230
@@ -834,12 +834,12 @@ g6
 VSo, Leo said everyone below special assistant.
 p235
 sg8
-g15
+g16
 sg10
 VDONNA
 p236
 sg12
-g9
+g16
 sa(dp237
 g6
 VHe meant you.
@@ -850,7 +850,7 @@ sg10
 VJOSH
 p239
 sg12
-g15
+g16
 sa(dp240
 g6
 VYour phones are ringing.
@@ -889,7 +889,7 @@ g6
 VWatching basketball.
 p250
 sg8
-g15
+g16
 sg10
 VLEO
 p251
@@ -911,18 +911,18 @@ g6
 VI think it was pretty spontaneous.
 p256
 sg8
-g15
+g16
 sg10
 VLEO
 p257
 sg12
-g9
+g13
 sa(dp258
 g6
 V[sounding frustrated] If it doesn't end now, it'll become a referendum on the Bartlet Presidency.
 p259
 sg8
-g94
+g13
 sg10
 VTOBY
 p260
@@ -938,13 +938,13 @@ sg10
 VLEO
 p263
 sg12
-g9
+g13
 sa(dp264
 g6
 VDo you want me to talk to him?
 p265
 sg8
-g15
+g16
 sg10
 VTOBY
 p266
@@ -960,7 +960,7 @@ sg10
 VLEO
 p269
 sg12
-g15
+g9
 sa(dp270
 g6
 VC.J.! C.J.!
@@ -999,7 +999,7 @@ g6
 VWell, I can't speak for Congress, but the President will not cut essential services, which is what their CR does.
 p280
 sg8
-g15
+g16
 sg10
 VC.J.
 p281
@@ -1010,7 +1010,7 @@ g6
 VIsn't it irresponsible of the President to refuse to sign, disrupting people's lives and paychecks, over three percent...
 p283
 sg8
-g94
+g13
 sg10
 VKATIE
 p284
@@ -1021,7 +1021,7 @@ g6
 V[checking her notes] Three percent equals more than a billion dollars in education funding, clean energy funding, highway safety, to name a few. I'll get you exact figures.
 p286
 sg8
-g15
+g16
 sg10
 VC.J.
 p287
@@ -1054,7 +1054,7 @@ g6
 VIf these services are so vital, why isn't the President still negotiating?
 p295
 sg8
-g15
+g16
 sg10
 VREPORTER
 p296
@@ -1081,7 +1081,7 @@ sg10
 VJOSH
 p302
 sg12
-g9
+g13
 sa(dp303
 g6
 VBecause I don't have a computer. Can I take a computer with me?
@@ -1092,7 +1092,7 @@ sg10
 VDONNA
 p305
 sg12
-g9
+g13
 sa(dp306
 g6
 VNot unless you want three federal agents trailing you home.
@@ -1109,18 +1109,18 @@ g6
 VDo I get to pick which three?
 p310
 sg8
-g15
+g16
 sg10
 VDONNA
 p311
 sg12
-g9
+g13
 sa(dp312
 g6
 VI can survive for a day.
 p313
 sg8
-g15
+g16
 sg10
 VJOSH
 p314
@@ -1147,13 +1147,13 @@ sg10
 VJOSH
 p320
 sg12
-g15
+g16
 sa(dp321
 g6
 VStart a tally of programs affected by the shutdown, and email it to me as you go. Don't read anything in the folder marked "private."
 p322
 sg8
-g15
+g16
 sg10
 VJOSH
 p323
@@ -1169,7 +1169,7 @@ sg10
 VJOSH
 p326
 sg12
-g15
+g13
 sa(dp327
 g6
 V[sticking his head in the office] You coming? War room. [exits]
@@ -1213,13 +1213,13 @@ sg10
 VDONNA
 p338
 sg12
-g9
+g13
 sa(dp339
 g6
 VRemember when I went to Atlantic City and I came back complaining that all the pro poker players suck all the fun out of the game, no cigars, no pizza, no beer.
 p340
 sg8
-g15
+g16
 sg10
 VJOSH
 p341
@@ -1241,7 +1241,7 @@ g6
 VThose guys, they bet the bank when they have a good hand. And you either fold, or you go in all the way with them. I think the President's gonna stay in.
 p346
 sg8
-g15
+g16
 sg10
 VJOSH
 p347
@@ -1252,12 +1252,12 @@ g6
 VAnd how good is Haffley?
 p349
 sg8
-g15
+g16
 sg10
 VDONNA
 p350
 sg12
-g9
+g16
 sa(dp351
 g6
 VHe's better than anyone we've seen on the other side of the table in a long time.
@@ -1274,7 +1274,7 @@ g6
 VI figured they'd negotiate us down to two, but a shutdown? They're not prepared for this.
 p355
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p356
@@ -1318,7 +1318,7 @@ g6
 VWhy would we? He thinks people want big government. Let's show them how well the American people can get by without the deputy director of regulatory intrusion.
 p367
 sg8
-g94
+g13
 sg10
 VHAFFLEY
 p368
@@ -1362,7 +1362,7 @@ g6
 V[rolling up his sleeves] So long as they blink first, it doesn't matter who calls.
 p379
 sg8
-g94
+g13
 sg10
 VHAFFLEY
 p380
@@ -1400,13 +1400,13 @@ sg10
 VJOSH
 p389
 sg12
-g9
+g16
 sa(dp390
 g6
 VYeah. Treasury is worried about the debt ceiling.
 p391
 sg8
-g94
+g13
 sg10
 VLEO
 p392
@@ -1417,7 +1417,7 @@ g6
 VI left word with violence prevention and business roundtable, but what about the address to the NAACP tomorrow? Should we cancel? It's non-governmental, we'll need advance.
 p394
 sg8
-g15
+g16
 sg10
 VJOSH
 p395
@@ -1433,13 +1433,13 @@ sg10
 VLEO
 p398
 sg12
-g15
+g9
 sa(dp399
 g6
 V[rolling up his sleeves] What kind of agreement?
 p400
 sg8
-g15
+g16
 sg10
 VTOBY
 p401
@@ -1466,7 +1466,7 @@ sg10
 VLEO
 p407
 sg12
-g9
+g13
 sa(dp408
 g6
 VDepends on how it plays in the morning papers.
@@ -1494,7 +1494,7 @@ g6
 V[evenly] The President has a full schedule tomorrow, Josh. Go make sure everyone knows he intends to keep it.
 p415
 sg8
-g15
+g16
 sg10
 VLEO
 p416
@@ -1527,7 +1527,7 @@ g6
 VI may be having some kind of mental logjam, but why did the President snap?
 p424
 sg8
-g15
+g16
 sg10
 VWILL
 p425
@@ -1549,7 +1549,7 @@ g6
 VBut it's also a negotiation. You don't shoot a duck for quacking.
 p430
 sg8
-g94
+g13
 sg10
 VWILL
 p431
@@ -1571,12 +1571,12 @@ g6
 VThe quacking thing kind of gives it away, doesn't it?
 p436
 sg8
-g15
+g16
 sg10
 VWILL
 p437
 sg12
-g9
+g13
 sa(dp438
 g6
 VHelp.
@@ -1598,18 +1598,18 @@ sg10
 VLEO
 p443
 sg12
-g9
+g13
 sa(dp444
 g6
 VOkay, but the enemy's advancing, and you better give me more than a squirt gun before the sun comes up.
 p445
 sg8
-g94
+g13
 sg10
 VC.J.
 p446
 sg12
-g9
+g13
 sa(dp447
 g6
 VWe need some coffee. Anyone know where we can get coffee?
@@ -1620,18 +1620,18 @@ sg10
 VWILL
 p449
 sg12
-g9
+g13
 sa(dp450
 g6
 VThe mess is closed. There's no coffee.
 p451
 sg8
-g94
+g13
 sg10
 VTOBY
 p452
 sg12
-g9
+g13
 sa(dp453
 g6
 VStarbucks closes at 7:00. Try Swaine's at 17th and G.
@@ -1681,12 +1681,12 @@ g6
 VIt's a state dinner, 216 guests, formal attire...
 p466
 sg8
-g15
+g16
 sg10
 VC.J.
 p467
 sg12
-g9
+g16
 sa(dp468
 g6
 VJosh can handle it. What else?
@@ -1697,24 +1697,24 @@ sg10
 VLEO
 p470
 sg12
-g9
+g13
 sa(dp471
 g6
 VWe can put together a strategy, but Leo, there isn't anything else until we sign a deal.
 p472
 sg8
-g15
+g16
 sg10
 VTOBY
 p473
 sg12
-g9
+g13
 sa(dp474
 g6
 VYou have to talk the President down of the ledge tonight. If I go back and hammer out a deal at two percent, he has to sign it.
 p475
 sg8
-g15
+g16
 sg10
 VANGELA
 p476
@@ -1736,40 +1736,40 @@ g6
 VGood evening, sir.
 p481
 sg8
-g15
+g16
 sg10
 VLEO
 p482
 sg12
-g9
+g16
 sa(dp483
 g6
 VHey, grab a seat.
 p484
 sg8
-g94
+g13
 sg10
 VBARTLET
 p485
 sg12
-g9
+g13
 sa(dp486
 g6
 VWhat's the score?
 p487
 sg8
-g15
+g16
 sg10
 VLEO
 p488
 sg12
-g9
+g16
 sa(dp489
 g6
 VDoesn't matter. The game is won or lost in the last five minutes.
 p490
 sg8
-g94
+g13
 sg10
 VBARTLET
 p491
@@ -1835,7 +1835,7 @@ g6
 VDammit! They've got a seven foot center and best power center in the game. Why zone?
 p508
 sg8
-g15
+g16
 sg10
 VBARTLET
 p509
@@ -1846,7 +1846,7 @@ g6
 VIt's not always enough to be right sir.
 p511
 sg8
-g15
+g16
 sg10
 VLEO
 p512
@@ -1857,7 +1857,7 @@ g6
 VIt's not fair! We drove all the way from to see grandma and the Constitution. Now we only get to see Grandma!
 p514
 sg8
-g15
+g16
 sg10
 VCHILD
 p515
@@ -1890,7 +1890,7 @@ g6
 VThis thing will be won or lost depending on how it plays on TV.
 p523
 sg8
-g94
+g13
 sg10
 VLEO
 p524
@@ -1906,7 +1906,7 @@ sg10
 VC.J.
 p527
 sg12
-g15
+g9
 sa(dp528
 g6
 VAny change in the overnights?
@@ -1923,7 +1923,7 @@ g6
 VThey keep saying they're Scrooge, denying the needy. They say we're addicted to spending. Both our negatives are up, but ours more.
 p532
 sg8
-g94
+g13
 sg10
 VC.J.
 p533
@@ -1972,7 +1972,7 @@ sg10
 VLEO
 p545
 sg12
-g9
+g13
 sa(dp546
 g6
 VSo what's the plan?
@@ -2022,18 +2022,18 @@ g6
 VHe's fighting a cold.
 p559
 sg8
-g94
+g13
 sg10
 VLEO
 p560
 sg12
-g9
+g13
 sa(dp561
 g6
 VThink it's about time for me to talk to a few of my former colleagues in the House?
 p562
 sg8
-g15
+g16
 sg10
 VRUSSELL
 p563
@@ -2044,12 +2044,12 @@ g6
 VMmm, not yet sir, no.
 p565
 sg8
-g15
+g16
 sg10
 VLEO
 p566
 sg12
-g15
+g13
 sa(dp567
 g6
 VI served on energy with Haffley.
@@ -2071,7 +2071,7 @@ sg10
 VLEO
 p572
 sg12
-g9
+g13
 sa(dp573
 g6
 VI sang in the Congressional Quartet with the majority whip. I've gotten drunk on fact-finding with most of the guys...
@@ -2088,7 +2088,7 @@ g6
 V[interrupting] With all due respect sir, we can't send mixed signals.
 p577
 sg8
-g15
+g16
 sg10
 VLEO
 p578
@@ -2099,7 +2099,7 @@ g6
 VYou saw their deal two days ago and turned them down. If you're waiting for Haffley to call, you've misjudged your man. You can't treat the Speaker like...
 p580
 sg8
-g15
+g16
 sg10
 VRUSSELL
 p581
@@ -2121,7 +2121,7 @@ g6
 VNo, he won't! Like it or not, we have a Republican Congress. They get to write the budget. The President only gets to edit it a bit. You want to blame someone, call James Madison.
 p586
 sg8
-g94
+g13
 sg10
 VRUSSELL
 p587
@@ -2132,7 +2132,7 @@ g6
 V[politely sarcastic] Thanks for the history lesson, sir. I'll be sure to pass it on to the President.
 p589
 sg8
-g15
+g16
 sg10
 VLEO
 p590
@@ -2143,7 +2143,7 @@ g6
 VYou know what they call a leader with no followers? Just a guy talking a walk.
 p592
 sg8
-g15
+g16
 sg10
 VRUSSELL
 p593
@@ -2159,7 +2159,7 @@ sg10
 VMARINA
 p596
 sg12
-g9
+g16
 sa(dp597
 g6
 VExcuse me?
@@ -2170,7 +2170,7 @@ sg10
 VTOBY
 p599
 sg12
-g9
+g13
 sa(dp600
 g6
 VI compiled clippings over at Energy.
@@ -2187,12 +2187,12 @@ g6
 V[laughs in surprise] No, thank you, I've got it.
 p604
 sg8
-g15
+g16
 sg10
 VTOBY
 p605
 sg12
-g9
+g16
 sa(dp606
 g6
 VSorry, we should have cleaned up the room yesterday.
@@ -2209,12 +2209,12 @@ g6
 VOh, no no. it's not a problem.
 p610
 sg8
-g94
+g13
 sg10
 VMARINA
 p611
 sg12
-g9
+g13
 sa(dp612
 g6
 VSo, where are we?
@@ -2253,7 +2253,7 @@ g6
 VUm, excuse me? Do any of you know where the dumpsters are?
 p622
 sg8
-g94
+g13
 sg10
 VMARINA
 p623
@@ -2286,18 +2286,18 @@ g6
 V[whispering] A walking lawsuit.
 p631
 sg8
-g94
+g13
 sg10
 VTOBY
 p632
 sg12
-g9
+g13
 sa(dp633
 g6
 VWhere are we on the state dinner?
 p634
 sg8
-g15
+g16
 sg10
 VC.J.
 p635
@@ -2319,7 +2319,7 @@ g6
 VExcept we don't have food, chefs, or help.
 p640
 sg8
-g15
+g16
 sg10
 VC.J.
 p641
@@ -2346,7 +2346,7 @@ sg10
 VANGELA
 p647
 sg12
-g9
+g16
 sa(dp648
 g6
 VNot according to Time.
@@ -2374,7 +2374,7 @@ g6
 VStill got her for one more day but she's threatening to cut bait.
 p655
 sg8
-g94
+g13
 sg10
 VANGELA
 p656
@@ -2385,7 +2385,7 @@ g6
 VIf we lose her the House Dems will start lobbying the Speaker instead of us for table craps.
 p658
 sg8
-g94
+g13
 sg10
 VWILL
 p659
@@ -2396,18 +2396,18 @@ g6
 VAnd Haffley is running the government.
 p661
 sg8
-g94
+g13
 sg10
 VTOBY
 p662
 sg12
-g9
+g13
 sa(dp663
 g6
 VOkay. Today is the day. [to Will] Work the V.P. [to Angela] and the minority leader and contact Haffley to make sure we can still get a deal at three percent.
 p664
 sg8
-g15
+g16
 sg10
 VLEO
 p665
@@ -2440,12 +2440,12 @@ g6
 VAnd that has the rare quality of also being true.
 p673
 sg8
-g15
+g16
 sg10
 VTOBY
 p674
 sg12
-g9
+g16
 sa(dp675
 g6
 VI want a continuing resolution by the close of business.
@@ -2473,7 +2473,7 @@ g6
 VYup. The Vice President is working with the minority leader. We're going to get a CR today.
 p682
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p683
@@ -2539,7 +2539,7 @@ g6
 VWe can get a much better deal on the budget if they sign our CR.
 p700
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p701
@@ -2550,7 +2550,7 @@ g6
 VThey caved, we won. How much more leverage do we need before we start governing again?
 p703
 sg8
-g15
+g16
 sg10
 VROYCE
 p704
@@ -2594,7 +2594,7 @@ g6
 VIt's a good deal. Three percent on the CR, and we live to fight another day.
 p715
 sg8
-g15
+g16
 sg10
 VLEO
 p716
@@ -2605,7 +2605,7 @@ g6
 VOne percent like we'd agreed.
 p718
 sg8
-g15
+g16
 sg10
 VBARTLET
 p719
@@ -2649,7 +2649,7 @@ g6
 VWe had a deal, Leo.
 p730
 sg8
-g15
+g16
 sg10
 VBARTLET
 p731
@@ -2676,7 +2676,7 @@ sg10
 VMARINA
 p737
 sg12
-g15
+g16
 sa(dp738
 g6
 VSure, thanks. Rina, right?
@@ -2687,7 +2687,7 @@ sg10
 VJOSH
 p740
 sg12
-g9
+g16
 sa(dp741
 g6
 VYeah, it's short for Marina.
@@ -2720,7 +2720,7 @@ sg10
 VMARINA
 p749
 sg12
-g9
+g13
 sa(dp750
 g6
 VHow'd you get here?
@@ -2753,7 +2753,7 @@ sg10
 VJOSH
 p758
 sg12
-g15
+g13
 sa(dp759
 g6
 VOh. My program wasn't affected. [pointing to the lamp] I'll see what I can scrounge up.
@@ -2764,7 +2764,7 @@ sg10
 VMARINA
 p761
 sg12
-g9
+g13
 sa(dp762
 g6
 VJosh Lyman's office.
@@ -2797,7 +2797,7 @@ sg10
 VJOSH
 p770
 sg12
-g9
+g16
 sa(dp771
 g6
 VYeah, the one about the elks over-populating is true. They stopped issuing hunting licenses.
@@ -2869,7 +2869,7 @@ g6
 VOh, but it's not coercion to work on a cell phone and run to Kinko's every ten minutes to send you faxes and emails?
 p790
 sg8
-g94
+g13
 sg10
 VDONNA
 p791
@@ -2880,18 +2880,18 @@ g6
 VAARP considers you essential.
 p793
 sg8
-g15
+g16
 sg10
 VJOSH
 p794
 sg12
-g9
+g16
 sa(dp795
 g6
 VWhen do you think I'll get my essential paycheck? Rent's due at the end of the month.
 p796
 sg8
-g15
+g16
 sg10
 VDONNA
 p797
@@ -2902,18 +2902,18 @@ g6
 VI'll lend you money.
 p799
 sg8
-g15
+g16
 sg10
 VJOSH
 p800
 sg12
-g15
+g16
 sa(dp801
 g6
 VYeah, but wouldn't that just be emblematic of all these stop-gap continuing resolutions, taking out a loan, begging for an extension rather than grappling with the hard reality of...
 p802
 sg8
-g94
+g13
 sg10
 VDONNA
 p803
@@ -2935,7 +2935,7 @@ g6
 VI want to come in and do my job.
 p808
 sg8
-g15
+g16
 sg10
 VDONNA
 p809
@@ -2951,13 +2951,13 @@ sg10
 VJOSH
 p812
 sg12
-g9
+g13
 sa(dp813
 g6
 VStop being a baby and just go. Leo's not going to send you an engraved invitation.
 p814
 sg8
-g15
+g16
 sg10
 VDONNA
 p815
@@ -2973,7 +2973,7 @@ sg10
 VJOSH
 p818
 sg12
-g94
+g13
 sa(dp819
 g6
 VWell, yeah. Bye.
@@ -2984,7 +2984,7 @@ sg10
 VDONNA
 p821
 sg12
-g9
+g16
 sa(dp822
 g6
 VSocial security's an entitlement.
@@ -2995,7 +2995,7 @@ sg10
 VWILL
 p824
 sg12
-g9
+g16
 sa(dp825
 g6
 VThat's what the people who get their checks every month think.
@@ -3012,7 +3012,7 @@ g6
 VWell, that's one way to make the shutdown seem real to the country: don't mail 11 million checks.
 p829
 sg8
-g15
+g16
 sg10
 VC.J.
 p830
@@ -3028,7 +3028,7 @@ sg10
 VWILL
 p833
 sg12
-g9
+g13
 sa(dp834
 g6
 VFDR will rise from the dead.
@@ -3067,7 +3067,7 @@ g6
 VThousands of grannies in walkers, tens of thousands of ancient veterans on oxygen, singing "We Shall Overcome."
 p844
 sg8
-g94
+g13
 sg10
 VWILL
 p845
@@ -3089,7 +3089,7 @@ g6
 VWe still have their offer.
 p850
 sg8
-g15
+g16
 sg10
 VLEO
 p851
@@ -3127,7 +3127,7 @@ sg10
 VLEO
 p860
 sg12
-g15
+g16
 sa(dp861
 g6
 VYeah, but will he?
@@ -3138,18 +3138,18 @@ sg10
 VTOBY
 p863
 sg12
-g9
+g16
 sa(dp864
 g6
 VDesperate times call for desperate measures. I made a call.
 p865
 sg8
-g94
+g13
 sg10
 VLEO
 p866
 sg12
-g9
+g13
 sa(dp867
 g6
 VTo whom?
@@ -3199,7 +3199,7 @@ g6
 VWhat the hell you all been doing around here while I've been gone?
 p880
 sg8
-g94
+g13
 sg10
 VABBEY
 p881
@@ -3210,12 +3210,12 @@ g6
 VA bit desperate, Jed. Shutting down the government just to get me back here.
 p883
 sg8
-g94
+g13
 sg10
 VABBEY
 p884
 sg12
-g9
+g13
 sa(dp885
 g6
 VApparently it worked.
@@ -3226,13 +3226,13 @@ sg10
 VBARTLET
 p887
 sg12
-g9
+g13
 sa(dp888
 g6
 VPeanut butter and jelly. That's what you're having for dinner?
 p889
 sg8
-g15
+g16
 sg10
 VABBEY
 p890
@@ -3243,7 +3243,7 @@ g6
 VThe mess is closed. When this is gone, I'm going to have to start in on the grandkid's elbow macaroni.
 p892
 sg8
-g94
+g13
 sg10
 VBARTLET
 p893
@@ -3254,12 +3254,12 @@ g6
 VYou sound stuffy.
 p895
 sg8
-g94
+g13
 sg10
 VABBEY
 p896
 sg12
-g9
+g13
 sa(dp897
 g6
 VYeah, there's something going around. They said your motorcade arrived an hour ago. Where you been?
@@ -3276,7 +3276,7 @@ g6
 VDownstairs, in your war room.
 p901
 sg8
-g94
+g13
 sg10
 VABBEY
 p902
@@ -3309,7 +3309,7 @@ g6
 VHaffley reneged on the deal.
 p910
 sg8
-g15
+g16
 sg10
 VBARTLET
 p911
@@ -3331,7 +3331,7 @@ g6
 VYour staff wants to bring you an offer.
 p916
 sg8
-g15
+g16
 sg10
 VABBEY
 p917
@@ -3342,18 +3342,18 @@ g6
 V[sounding excited] Haffley came to us with a deal?
 p919
 sg8
-g15
+g16
 sg10
 VBARTLET
 p920
 sg12
-g9
+g16
 sa(dp921
 g6
 VDammit, I told Leo no! Did he go ahead and contract the leadership?
 p922
 sg8
-g15
+g16
 sg10
 VABBEY
 p923
@@ -3386,7 +3386,7 @@ g6
 VDepends on how long it takes your damn government to get back up and running.
 p931
 sg8
-g94
+g13
 sg10
 VABBEY
 p932
@@ -3408,7 +3408,7 @@ g6
 VThe President wants you back in the war room.
 p937
 sg8
-g94
+g13
 sg10
 VLEO
 p938
@@ -3419,18 +3419,18 @@ g6
 VWell, we're supposed to get a $200 fuel subsidy from the government. I called the hotline. Nobody answered.
 p940
 sg8
-g94
+g13
 sg10
 VMAN
 p941
 sg12
-g9
+g13
 sa(dp942
 g6
 VI never thought this administration would abandon us. I mean, it's going to be 10 degrees tonight, and we have three kids.
 p943
 sg8
-g94
+g13
 sg10
 VWOMAN
 p944
@@ -3457,7 +3457,7 @@ sg10
 VTOBY
 p950
 sg12
-g9
+g13
 sa(dp951
 g6
 VI don't think I'm going to bring that up. Josh still in there with Leo and Angela?
@@ -3468,7 +3468,7 @@ sg10
 VC.J.
 p953
 sg12
-g9
+g13
 sa(dp954
 g6
 VOr maybe it's twelve or thirteen, I've lost count.
@@ -3485,7 +3485,7 @@ g6
 VToby, we've all been assuming this is the President not understanding what's really going on. He's been so out of it since Zoey, you know, and we've all been protecting him, you, me, Leo. But what if it's something else?
 p958
 sg8
-g15
+g16
 sg10
 VC.J.
 p959
@@ -3501,7 +3501,7 @@ sg10
 VTOBY
 p962
 sg12
-g9
+g13
 sa(dp963
 g6
 VBut what if it is?
@@ -3540,7 +3540,7 @@ g6
 VThe President's already said that three percent is unacceptable.
 p973
 sg8
-g94
+g13
 sg10
 VJOSH
 p974
@@ -3562,7 +3562,7 @@ g6
 VThree days, three years, it's still unacceptable!
 p979
 sg8
-g94
+g13
 sg10
 VJOSH
 p980
@@ -3600,7 +3600,7 @@ sg10
 VJOSH
 p989
 sg12
-g9
+g13
 sa(dp990
 g6
 VRoyce is never going to take on Haffley and Haffley is convinced he's already won. Only because we blinked! [angrily] Of course we blinked, we lost all meaningful support in Congress. And the public is blaming this mess on us. [lowers his voice] The President is going to be down here any minute, Josh, I need unanimity, this is the "come to Jesus" meeting.
@@ -3639,12 +3639,12 @@ g6
 VMr. President, it's a gift.
 p1000
 sg8
-g15
+g16
 sg10
 VANGELA
 p1001
 sg12
-g9
+g16
 sa(dp1002
 g6
 VToby?
@@ -3661,18 +3661,18 @@ g6
 VPeople are frustrated with both parties. It's a plague on both our houses.
 p1006
 sg8
-g94
+g13
 sg10
 VTOBY
 p1007
 sg12
-g9
+g16
 sa(dp1008
 g6
 VWe gave it three days to turn in our favor, sir. It didn't.
 p1009
 sg8
-g15
+g16
 sg10
 VLEO
 p1010
@@ -3705,7 +3705,7 @@ g6
 VI want to be able to govern.
 p1018
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1019
@@ -3716,7 +3716,7 @@ g6
 VOur bargaining position is weakening every day. There's a deal on the table, Repbulican leadership are in their conference room, waiting for our reply.
 p1021
 sg8
-g15
+g16
 sg10
 VANGELA
 p1022
@@ -3738,12 +3738,12 @@ g6
 VWe can't go to the Hill. We'll look even more desperate.
 p1027
 sg8
-g94
+g13
 sg10
 VTOBY
 p1028
 sg12
-g9
+g13
 sa(dp1029
 g6
 VThe country's waiting for someone to step up. It should be us.
@@ -3754,13 +3754,13 @@ sg10
 VJOSH
 p1031
 sg12
-g9
+g13
 sa(dp1032
 g6
 VSir, if we go to Haffley's office it will set a dangerous precedent for future negotiations.
 p1033
 sg8
-g94
+g13
 sg10
 VLEO
 p1034
@@ -3771,12 +3771,12 @@ g6
 V[smiling at Josh] Let's go.
 p1036
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1037
 sg12
-g9
+g16
 sa(dp1038
 g6
 VMr. President, you have a video conference with Admiral Vackey of Pac-com at 5:00.
@@ -3809,7 +3809,7 @@ sg10
 VANGELA
 p1046
 sg12
-g15
+g9
 sa(dp1047
 g6
 VGo.
@@ -3903,12 +3903,12 @@ g6
 VIt's cold out here.
 p1072
 sg8
-g94
+g13
 sg10
 VMARK
 p1073
 sg12
-g9
+g13
 sa(dp1074
 g6
 VYou want me to comment on the weather?
@@ -3952,7 +3952,7 @@ sg10
 VC.J.
 p1085
 sg12
-g15
+g13
 sa(dp1086
 g6
 V[into phone] Yeah?
@@ -3974,7 +3974,7 @@ sg10
 VJOSH
 p1091
 sg12
-g15
+g13
 sa(dp1092
 g6
 VI just finished the gaggle.
@@ -3985,13 +3985,13 @@ sg10
 VC.J.
 p1094
 sg12
-g9
+g13
 sa(dp1095
 g6
 VGet back to the press corps. POTUS is going up to the Hill. We're gonna pay a surprise visit to Haffley. C.J., did you hear me?
 p1096
 sg8
-g15
+g16
 sg10
 VJOSH
 p1097
@@ -4007,13 +4007,13 @@ sg10
 VC.J.
 p1100
 sg12
-g15
+g16
 sa(dp1101
 g6
 VIf I have to suffer through Haffley pontificating on Congressional powers and the role of federalism...
 p1102
 sg8
-g94
+g13
 sg10
 VANGELA
 p1103
@@ -4035,7 +4035,7 @@ g6
 VEvery thing this guy has done has taken us by surprise.
 p1108
 sg8
-g15
+g16
 sg10
 VANGELA
 p1109
@@ -4068,18 +4068,18 @@ g6
 V[smiling and waving] Hello!
 p1117
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1118
 sg12
-g9
+g16
 sa(dp1119
 g6
 VThey'll have a few things to talk about when they get home.
 p1120
 sg8
-g15
+g16
 sg10
 VANGELA
 p1121
@@ -4134,23 +4134,23 @@ g6
 VYeah, the bus says Kansas... Blue Jays, Jayhawks, whatever the hell.
 p1135
 sg8
-g94
+g13
 sg10
 VJOSH
 p1136
 sg12
-g9
+g13
 sa(dp1137
 g6
 VYou wait another 30 seconds and he'll also be addressing NBC, ABC, and CNN.
 p1138
 sg8
-g94
+g13
 sg10
 VC.J.
 p1139
 sg12
-g9
+g13
 sa(dp1140
 g6
 VYeah?
@@ -4167,7 +4167,7 @@ g6
 VNext to you, they're going to interrupt "Days of our Lives."
 p1144
 sg8
-g94
+g13
 sg10
 VC.J.
 p1145
@@ -4200,7 +4200,7 @@ g6
 VSecret Service's going to love this.
 p1153
 sg8
-g15
+g16
 sg10
 VJOSH
 p1154
@@ -4238,7 +4238,7 @@ sg10
 VBARTLET
 p1163
 sg12
-g9
+g13
 sa(dp1164
 g6
 VThe Capitol is just a five or ten minute walk from here. Care to stretch your legs?
@@ -4299,7 +4299,7 @@ g6
 VWhat do you say we walk the rest of the way?
 p1180
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1181
@@ -4310,7 +4310,7 @@ g6
 VYes, sir. [into his walkie talkie] Counter-assault team deploy east. I need two forward positions along Pennsylvania. POTUS is on foot.
 p1183
 sg8
-g15
+g16
 sg10
 VGRANVILLE
 p1184
@@ -4359,24 +4359,24 @@ sg10
 VJOSH
 p1196
 sg12
-g9
+g13
 sa(dp1197
 g6
 VThen we'll just have to wait.
 p1198
 sg8
-g94
+g13
 sg10
 VBARTLET
 p1199
 sg12
-g9
+g13
 sa(dp1200
 g6
 VIt's a stunt! People will see through it, give them some credit!
 p1201
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1202
@@ -4392,7 +4392,7 @@ sg10
 VROYCE
 p1205
 sg12
-g9
+g13
 sa(dp1206
 g6
 VHe's desperate, he wants a deal. Let's bring him in, see what he's got.
@@ -4409,18 +4409,18 @@ g6
 VWe exchange niceties and then what, he counters our offer? We're missing something.
 p1210
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1211
 sg12
-g9
+g13
 sa(dp1212
 g6
 VHold on! Wait! Dammit! We don't go out there until we agree on a game plan!
 p1213
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1214
@@ -4431,12 +4431,12 @@ g6
 VSeven minutes. We've been waiting seven minutes. This is a disaster.
 p1216
 sg8
-g94
+g13
 sg10
 VANGELA
 p1217
 sg12
-g9
+g13
 sa(dp1218
 g6
 VNo. This is great.
@@ -4497,7 +4497,7 @@ g6
 VThen let's get the leader of the free world.
 p1234
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1235
@@ -4530,7 +4530,7 @@ g6
 VThis doesn't change anything. We still get our budget, our caps gain cut.
 p1243
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1244
@@ -4541,12 +4541,12 @@ g6
 VYou better hope so.
 p1246
 sg8
-g15
+g16
 sg10
 VROYCE
 p1247
 sg12
-g9
+g16
 sa(dp1248
 g6
 VC.J.!
@@ -4590,7 +4590,7 @@ sg10
 VC.J.
 p1259
 sg12
-g15
+g16
 sa(dp1260
 g6
 VCan you tell them the First Lady's making chicken?
@@ -4618,7 +4618,7 @@ g6
 VTonight's state dinner will be just the British Prime Minister and his wife, joining us in the Residence. Coronation chicken, the Queen's own recipe. I thought someone in the press pool might want to watch me dress a nice bird.
 p1267
 sg8
-g15
+g16
 sg10
 VABBEY
 p1268
@@ -4629,18 +4629,18 @@ g6
 VYes, ma'am. Mrs. Bartlet, it's good to have you back.
 p1270
 sg8
-g15
+g16
 sg10
 VC.J.
 p1271
 sg12
-g9
+g16
 sa(dp1272
 g6
 V[to the press pool] The Bartlets will also be serving their guests a Colorado beet salad and California green beans.
 p1273
 sg8
-g15
+g16
 sg10
 VC.J.
 p1274
@@ -4673,7 +4673,7 @@ g6
 VA new Gallup/CNN poll shows the President's popularity ticked up slightly overnight. Do you attribute that to his visit to the Hill?
 p1282
 sg8
-g15
+g16
 sg10
 VMARK
 p1283
@@ -4684,7 +4684,7 @@ g6
 VI attribute it to the President's sincere desire to reach a settlement. Shirley?
 p1285
 sg8
-g15
+g16
 sg10
 VC.J.
 p1286
@@ -4706,7 +4706,7 @@ g6
 VOh, sorry, I was going to try to clean up a little before any one got here.
 p1291
 sg8
-g15
+g16
 sg10
 VMARINA
 p1292
@@ -4717,7 +4717,7 @@ g6
 VGo ahead.
 p1294
 sg8
-g15
+g16
 sg10
 VTOBY
 p1295
@@ -4728,12 +4728,12 @@ g6
 VAmeriCorps, that's that program where they pay you to volunteer, right?
 p1297
 sg8
-g15
+g16
 sg10
 VMARINA
 p1298
 sg12
-g9
+g16
 sa(dp1299
 g6
 VYeah.
@@ -4750,12 +4750,12 @@ g6
 VThat seems weird. I mean, paying you to volunteer? Isn't it just a job if you get paid?
 p1303
 sg8
-g15
+g16
 sg10
 VMARINA
 p1304
 sg12
-g9
+g13
 sa(dp1305
 g6
 VIt went over something like 50 million bucks, didn't it?
@@ -4794,7 +4794,7 @@ g6
 VIt's a successful program. That's what happens when something succeeds.
 p1315
 sg8
-g15
+g16
 sg10
 VTOBY
 p1316
@@ -4816,7 +4816,7 @@ g6
 VPeople should get combat pay, they go into inner cities to teach children, with no parents, work in soup kitchens, try to get addicts off the streets.
 p1321
 sg8
-g15
+g16
 sg10
 VTOBY
 p1322
@@ -4832,7 +4832,7 @@ sg10
 VMARINA
 p1325
 sg12
-g9
+g13
 sa(dp1326
 g6
 VRoyce isn't coming.
@@ -4843,7 +4843,7 @@ sg10
 VLEO
 p1328
 sg12
-g9
+g13
 sa(dp1329
 g6
 VAre you sure?
@@ -4860,7 +4860,7 @@ g6
 VHe told the Vice President it would be more productive if Haffley met with the Vice President one on one.
 p1333
 sg8
-g15
+g16
 sg10
 VWILL
 p1334
@@ -4876,13 +4876,13 @@ sg10
 VTOBY
 p1337
 sg12
-g9
+g16
 sa(dp1338
 g6
 VDon't know. But Haffley's not going to surrender just because we walked to his office. Leo, is the President up for this?
 p1339
 sg8
-g94
+g13
 sg10
 VANGELA
 p1340
@@ -4898,7 +4898,7 @@ sg10
 VLEO
 p1343
 sg12
-g9
+g13
 sa(dp1344
 g6
 VExcuse me, Mr. President. Hello, Abbey.
@@ -4964,7 +4964,7 @@ sg10
 VBARTLET
 p1361
 sg12
-g9
+g13
 sa(dp1362
 g6
 VYou sure you want to do this one on one?
@@ -4986,13 +4986,13 @@ sg10
 VBARTLET
 p1367
 sg12
-g9
+g13
 sa(dp1368
 g6
 VYou can expect him to be very...
 p1369
 sg8
-g15
+g16
 sg10
 VLEO
 p1370
@@ -5008,7 +5008,7 @@ sg10
 VBARTLET
 p1373
 sg12
-g9
+g13
 sa(dp1374
 g6
 VLeo? These last months, thank you. Thank you for everything.
@@ -5074,18 +5074,18 @@ sg10
 VBARTLET
 p1391
 sg12
-g15
+g16
 sa(dp1392
 g6
 V[coughing] I think I'm coming down with a cold.
 p1393
 sg8
-g94
+g13
 sg10
 VHAFFLEY
 p1394
 sg12
-g9
+g13
 sa(dp1395
 g6
 VYeah, it's been going around.
@@ -5102,7 +5102,7 @@ g6
 VWell, we should get started. Abbey's having the Prime Minister and his wife over for dinner, and I promised to be on time.
 p1399
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1400
@@ -5135,7 +5135,7 @@ g6
 VThis room was designed to throw people off-balance. Wyeth's intent was to inspire the English notion of...
 p1408
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1409
@@ -5157,7 +5157,7 @@ g6
 VHistorically, the Commander-in-chief's purview is foreign policy, while Congress attended to their constituents at home. That's why the Constitution put Congress in charge of the budget.
 p1414
 sg8
-g94
+g13
 sg10
 VHAFFLEY
 p1415
@@ -5168,7 +5168,7 @@ g6
 V[looking amused] And gave the President the veto. Fortunately, your Congress put together a budget. I understand more than 2000 people worked with interest groups, unions, industry, and 535 elected officials to arrive at that 15,000 page document over there. [gestures to the huge budget appropriations bill at the other end of his desk] All 14 appropriations bills, exactly as we left them four days ago. It took us what, ten months to work out our differences on those bills.
 p1417
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1418
@@ -5190,7 +5190,7 @@ g6
 VI agree. I want you to cut agriculture subsidies, and you want me to cut Medicaid, again. You know I'll veto any Medicaid cuts, and I know you won't give me any agriculture cuts. So, here we are.
 p1423
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1424
@@ -5201,18 +5201,18 @@ g6
 VThen we're back to a continuing resolution, sir, which I can probably pass with a two percent...
 p1426
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1427
 sg12
-g9
+g13
 sa(dp1428
 g6
 V[forcefully] No. We were 100 billion apart, and I met you halfway, at 50 billion. Then we were 50 billion apart, and I suspect if I'd gone down to 25, we'd be 12 billion apart.
 p1429
 sg8
-g94
+g13
 sg10
 VBARTLET
 p1430
@@ -5223,7 +5223,7 @@ g6
 VA billion here, a billion there. We dole it out like candy to children. Welfare
 p1432
 sg8
-g94
+g13
 sg10
 VHAFFELY
 p1433
@@ -5234,18 +5234,18 @@ g6
 VThis administration has created the greatest amount of wealth in history.
 p1435
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1436
 sg12
-g9
+g16
 sa(dp1437
 g6
 VWhich is a testament to the resilience of the American spirit! Not Washington bureaucrats.
 p1438
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1439
@@ -5256,7 +5256,7 @@ g6
 VNot everyone can pull themselves up by their bootstraps, Mr. Speaker.
 p1441
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1442
@@ -5267,7 +5267,7 @@ g6
 VI couldn't agree more. But the solution is for government to get off of people's backs! We could give every student in America 10,000 dollars a year, but instead, we fund the Department of Education.
 p1444
 sg8
-g15
+g16
 sg10
 VHAFFLEY
 p1445
@@ -5278,7 +5278,7 @@ g6
 V[angrily] You're not going to demonize the millions of selfless teachers and public servants who are...
 p1447
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1448
@@ -5300,7 +5300,7 @@ g6
 VWell, I'm not going to negotiate with anyone who holds a gun to my head! We had a deal! I don't care if my approval ratings drop into single digits. I am the President of the United States and I will leave this government shut down until we reach an equitable agreement!
 p1453
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1454
@@ -5316,7 +5316,7 @@ sg10
 VWILL
 p1457
 sg12
-g9
+g16
 sa(dp1458
 g6
 VCould mean anything.
@@ -5327,13 +5327,13 @@ sg10
 VTOBY
 p1460
 sg12
-g9
+g13
 sa(dp1461
 g6
 VIt's a good thing.
 p1462
 sg8
-g15
+g16
 sg10
 VJOSH
 p1463
@@ -5360,7 +5360,7 @@ sg10
 VDONNA
 p1469
 sg12
-g9
+g13
 sa(dp1470
 g6
 VSo you're the one who saved Social Security.
@@ -5393,7 +5393,7 @@ sg10
 VDONNA
 p1478
 sg12
-g9
+g13
 sa(dp1479
 g6
 VYou hear about the NBA rookie who pulled his first rebound the night Wilt Chamberlain pulled 55?
@@ -5437,7 +5437,7 @@ sg10
 VDONNA
 p1490
 sg12
-g9
+g13
 sa(dp1491
 g6
 VYou pulled 11 million.
@@ -5459,7 +5459,7 @@ sg10
 VDONNA
 p1496
 sg12
-g9
+g13
 sa(dp1497
 g6
 VNo, you're the rookie.
@@ -5492,7 +5492,7 @@ sg10
 VLEO
 p1505
 sg12
-g9
+g13
 sa(dp1506
 g6
 VWhat did we get? Another continuing resolution?
@@ -5520,7 +5520,7 @@ g6
 VTheir cap gains tax cut?
 p1513
 sg8
-g94
+g13
 sg10
 VC.J.
 p1514
@@ -5553,7 +5553,7 @@ g6
 VNo, but it's a tax cut. Republicans are always in favor of tax cuts, so if we can find a way to make it revenue-neutral next year, it stays.
 p1522
 sg8
-g94
+g13
 sg10
 VBARTLET
 p1523
@@ -5564,7 +5564,7 @@ g6
 VThe 50 billion gap?
 p1525
 sg8
-g94
+g13
 sg10
 VANGELA
 p1526
@@ -5575,7 +5575,7 @@ g6
 VWe'd already done our part, so the Speaker graciously agreed to do his.
 p1528
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1529
@@ -5597,7 +5597,7 @@ g6
 VOkay, Abbey says I have about five minutes before dinner. What's next?
 p1534
 sg8
-g15
+g16
 sg10
 VBARTLET
 p1535
