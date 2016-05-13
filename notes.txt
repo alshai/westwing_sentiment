@@ -45,3 +45,31 @@ accuracies:
 120000 bow vs gold: 0.71499339498
 
 Some reading on features: http://www.cs.columbia.edu/~julia/papers/Agarwaletal11.pdf
+
+
+accuracies with neutral=0:
+10000 max_ent vs gold: 0.387054161162
+10000 bow vs gold: 0.391017173052
+20000 max_ent vs gold: 0.387054161162
+20000 bow vs gold: 0.391017173052
+30000 max_ent vs gold: 0.387054161162
+30000 bow vs gold: 0.391017173052
+40000 max_ent vs gold: 0.387054161162
+40000 bow vs gold: 0.391017173052
+50000 max_ent vs gold: 0.387054161162
+50000 bow vs gold: 0.391017173052
+60000 max_ent vs gold: 0.387054161162
+60000 bow vs gold: 0.391017173052
+70000 max_ent vs gold: 0.38177014531
+70000 bow vs gold: 0.391017173052
+80000 max_ent vs gold: 0.406869220608
+80000 bow vs gold: 0.391017173052
+90000 max_ent vs gold: 0.384412153236
+90000 bow vs gold: 0.391017173052
+100000 max_ent vs gold: 0.404227212682
+100000 bow vs gold: 0.391017173052
+110000 max_ent vs gold: 0.392338177015
+110000 bow vs gold: 0.391017173052
+120000 max_ent vs gold: 0.392338177015
+120000 bow vs gold: 0.391017173052
+

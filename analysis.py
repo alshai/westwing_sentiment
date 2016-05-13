@@ -10,6 +10,18 @@ import matplotlib.pyplot as plt
 
 
 def compare_scores(episode, score1="maxent_score", score2="gold_score"):
+    """ episode is a dictionary of format 
+    {'season': int, 
+    'episode': int,
+    'script': [{'maxent_score': 'positive'|'negative'|'neutral',
+               'gold_score': 'positive'|'negative'|'neutral',
+               'bow_score': 'positive'|'negative'|'neutral'}, ...] 
+    }
+    score1, score2 specify which score types are being compared
+
+    returns: the percentage of times score1 and score2 agree over all the lines
+    """
+
     script = episode['script']
     agreement = 0.0
     total = 0.0
@@ -23,40 +35,57 @@ def compare_scores(episode, score1="maxent_score", score2="gold_score"):
             agreement += 0.0
     return agreement/total
 
-def test_features():
+def evaluate_features():
+    """
+    calculates percent accuracy of our maxent algorithm with varying lengths of
+    weights lists (sorted in descending order)
+    """
+    # training set is from Stanford Sentiment Training Set
     training_set = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt", "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
+    # train weights for maxent model
     weights = train_maxent(training_set)
+    # sort weights in descending order
     sorted_weights = {sentiment: sorted(weights[sentiment].iteritems(), key=lambda x:x[1], reverse=True) for sentiment in weights}
+
+    # evaluate model for the  top i weights, in this range (There should be # ~130000 weights total)
     for i in range(10000, 130000, 10000):
+        # get the top i weights
         new_weights = {"positive": {}, "negative": {}, "neutral": {}}
         for sentiment in sorted_weights:
             new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] for w in sorted_weights[sentiment][:i-1]}
 
-        # testing
+        # load the episode that has gold standard features already assigned
         episode = parse_goldstandard("data/s1e9_gold.txt", 1, 9)
-        # bag of words
+        # calculate bag of words sentiments
         word_sentiments = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
         bag_of_words(episode, word_sentiments)
-        # maxent
+        # calculate maxent sentiments
         run_maxent(episode, new_weights)
 
+        # evaulate maxent and bag_of_words sentiments against baseline
         print "%s max_ent vs gold: %s" % (i, compare_scores(episode, score1="maxent_score", score2="gold_score"))
         print "%s bow vs gold: %s" % (i, compare_scores(episode, "bow_score", score2="gold_score"))
 
 
-def train_weights():
+def save_weights():
+    """ calculate the weights for the maxent model using the Staford senitment
+    training set and save the weights to a pickle file"""
     training_set = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt", "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
     weights = train_maxent(training_set)
     sorted_weights = {sentiment: sorted(weights[sentiment].iteritems(), key=lambda x:x[1], reverse=True) for sentiment in weights}
     new_weights = {"positive": {}, "negative": {}, "neutral": {}}
+    # get only the top 70000 weights (as determined in evaluate_features())
     for sentiment in sorted_weights:
         new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] for w in sorted_weights[sentiment][:70000]}
     pickle.dump(new_weights, open("weights_optimized.pkl", "wb"))
 
 
 def test_wwscripts():
+    """ assigns labels to all episodes of The West Wing """
     wwscripts = parse_episodes("data/wwscripts.json")
     weights = pickle.load(open("weights_optimized.pkl", "rb"))
+    # word_sentiments is a map of words to "positive" or "negative" and is used
+    # for the bag_of_words classifier
     word_sentiments = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
     for episode in wwscripts:
         run_maxent(episode, weights)
@@ -65,6 +94,15 @@ def test_wwscripts():
 
 
 def character_sentiment_in_episode(character, episode_script, score="maxent_score"):
+    """ 
+    character is a string
+    episode_script is a list of the format 
+    [{"character": string, "text": string, score:"positive"|"negative"|"neutral"},...]
+    
+    returns the number of positive, neutral and negative lines said by a
+    character in a given episode 
+    
+    """
     positive = 0.0
     negative = 0.0
     neutral = 0.0
@@ -82,6 +120,13 @@ def character_sentiment_in_episode(character, episode_script, score="maxent_scor
 
 
 def get_episode_sentiment(episode_script, score='maxent_score'):
+    """ 
+    episode_script is a list of the format 
+    [{"character": string, "text": string, score:"positive"|"negative"|"neutral"},...]
+
+    returns the number of positive, neutral and negative lines within a
+    given episode
+    """
     pos = 0
     neg = 0
     neu = 0
@@ -96,6 +141,12 @@ def get_episode_sentiment(episode_script, score='maxent_score'):
 
 
 def get_season_sentiment(season, score='maxent_score'):
+    """
+    season is of the format
+    { episode: [{"character": string, "text": string, score:"positive"|"negative"|"neutral"},...]}
+
+    returns the number of positive, neutral and negative lines within a given season
+    """
     pos_neg_ratios = []
     pos = 0
     neg = 0
@@ -169,8 +220,8 @@ def all_seasons_sentiment_figure():
 
 
 if __name__ == "__main__":
-    # train_weights()
     # test_wwscripts()
     # weights = pickle.load(open("weights_optimized.pkl", "rb"))
     # single_season_sentiment_figure()
-    all_seasons_sentiment_figure()
+    # all_seasons_sentiment_figure()
+    evaluate_features()
