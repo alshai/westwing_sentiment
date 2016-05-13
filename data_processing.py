@@ -1,10 +1,17 @@
-# all the methods used to parse our data files
+"""
+data_processing.py
+This file describes the all the code needed to parse our data files
+"""
 from collections import defaultdict
 from nltk.tokenize import word_tokenize
 import json
 import re
 
 def parse_NRC(fname):
+    """ 
+    process the NRC emotion lexicon and convert to a dictionary.
+    Returns: {string: "positive"|"negative"|"neutral"}
+    """
     f = open(fname)
     word_sentiments = defaultdict(lambda: str("neutral"))
     '''
@@ -27,6 +34,8 @@ def parse_NRC(fname):
 
 
 def parse_stanford(dictionary_fname, labels_fname):
+    """ Parses the Stanford Sentiment database, given the dictionary and labels
+    file"""
     dictionary = {}
     labels = {}
 
@@ -59,6 +68,15 @@ def parse_stanford(dictionary_fname, labels_fname):
 
 
 def parse_episodes(wwscripts_json):
+    """
+    reads a json file of scripts of "The West Wing" and returns them 
+    
+    Returns: a list of dictionaries of the form 
+        {'episode': X, 
+        'season': X,
+        'script': [{ "character": NAME, "text": LINE_STRING }, ... ]
+        }
+    """
     wwscripts = json.load(open(wwscripts_json))
     new_wwscripts = []
     for episode in wwscripts:
@@ -88,6 +106,10 @@ def parse_episodes(wwscripts_json):
 
 
 def parse_goldstandard(filename, season_num, episode_num):
+    """
+    parses a west wing script that contains gold standard labels
+    returns: an episode instance appended with gold_scores
+    """
     f = open(filename).read().split("\n\n")
     episode = {"episode": episode_num, 
             "season": season_num,
@@ -116,4 +138,4 @@ if __name__ == "__main__":
     # s = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
     # d = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt",
     #        "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
-    print parse_goldstandard("data/s1e9_gold.txt", 1, 9)
+    # print parse_goldstandard("data/s1e9_gold.txt", 1, 9)

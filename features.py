@@ -1,3 +1,8 @@
+"""
+features.py
+to be used with maxent.py
+describes functions needed to extract "features" from strings of text
+"""
 # defines functions that extract feature values from strings
 # ASSUME "text" IS TOKENIZED
 from word_polarities import pos_words, neg_words

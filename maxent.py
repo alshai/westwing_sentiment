@@ -1,3 +1,7 @@
+"""
+maxent.py
+Describes all the functions used to model a MaxEnt classifier
+"""
 from data_processing import parse_stanford
 from collections import defaultdict
 from features import calculate_features
@@ -6,6 +10,21 @@ import pickle
 
 
 def most_probable_class(text, weights):
+    """ 
+    text is a string
+    weights is a dictionary of form
+    { 'positive': {key: float},
+    'negative': {key: float},
+    'neutral': {key: float} }
+
+    given weights corresponding to three classes (positive, negative, neutral),
+    this function calculates the feature values for the given text and uses
+    them and the three kinds of weights to find which class is the most
+    probable for the text.
+
+    probability(class|text) = argmax_c (weights_c dot features)
+    """
+
     pos_weights = weights['positive']
     neg_weights = weights['negative']
     neu_weights = weights['neutral']
@@ -34,24 +53,37 @@ def most_probable_class(text, weights):
 
 
 def train_maxent(training_set):
-    # trains maxent weights give a dictionary of sentences mapped to labels
+    """
+    training set is of the form [string: positive|negative|neutral
+
+    trains weights for the maxent classifier by calculating the features for
+    every phrase in the training set, and then using a Maximum Likelihood
+    Estimate for calculating the optimum weights for each class for the
+    classifier
+    """
+    # calculate features
     feature_counts = {}
     for phrase in training_set:
         features = calculate_features(phrase)
-        polarity = training_set[phrase]
+        sentiment = training_set[phrase]
+        # f is a feature name
         for f in features:
             if f not in feature_counts:
                 feature_counts[f] = defaultdict(float)
-                feature_counts[f][polarity] = features[f]
+                feature_counts[f][sentiment] = features[f]
             else:
-                feature_counts[f][polarity] += features[f]
+                # tally up the total sum of this specific feature for this
+                # sentiment
+                feature_counts[f][sentiment] += features[f]
     posweights = defaultdict(float)
     negweights = defaultdict(float)
     neuweights = defaultdict(float)
     for f in feature_counts:
-        posweights[f] = feature_counts[f]["positive"] / (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
-        negweights[f] = feature_counts[f]["negative"] / (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
-        neuweights[f] = feature_counts[f]["neutral"] / (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
+        # maximum likelihood estimate 
+        denominator = (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
+        posweights[f] = feature_counts[f]["positive"] / denominator
+        negweights[f] = feature_counts[f]["negative"] / denominator
+        neuweights[f] = feature_counts[f]["neutral"] / denominator
             
 
     return {"positive": posweights,
@@ -61,7 +93,15 @@ def train_maxent(training_set):
 
 
 def run_maxent(episode, weights):
-    # updates the episode with maxent scores
+    """ 
+    uses maxent weights to classify an episode
+    episode is of the format 
+    { 'season': int,
+      'episode': int,
+      'script': [{"character": string, 
+                  "text": string, 
+                  score: "positive"|"negative"|"neutral"},...]
+    """
     script = episode['script']
     for i, line in enumerate(script):
         line = line['text']

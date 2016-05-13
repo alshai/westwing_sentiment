@@ -1,3 +1,7 @@
+"""
+analysis.py
+describes all the functions used in the sentiment analysis of The West Wing
+"""
 from data_processing import parse_stanford, parse_goldstandard, parse_NRC, parse_episodes
 from maxent import train_maxent, run_maxent
 from bag_of_words import bag_of_words
@@ -10,7 +14,8 @@ import matplotlib.pyplot as plt
 
 
 def compare_scores(episode, score1="maxent_score", score2="gold_score"):
-    """ episode is a dictionary of format 
+    """ 
+    episode is a dictionary of format 
     {'season': int, 
     'episode': int,
     'script': [{'maxent_score': 'positive'|'negative'|'neutral',
@@ -41,18 +46,23 @@ def evaluate_features():
     weights lists (sorted in descending order)
     """
     # training set is from Stanford Sentiment Training Set
-    training_set = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt", "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
+    training_set = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt", 
+                                  "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
     # train weights for maxent model
     weights = train_maxent(training_set)
     # sort weights in descending order
-    sorted_weights = {sentiment: sorted(weights[sentiment].iteritems(), key=lambda x:x[1], reverse=True) for sentiment in weights}
+    sorted_weights = { sentiment: sorted(weights[sentiment].iteritems(), 
+                                         key=lambda x:x[1], 
+                                         reverse=True) 
+                       for sentiment in weights}
 
     # evaluate model for the  top i weights, in this range (There should be # ~130000 weights total)
     for i in range(10000, 130000, 10000):
         # get the top i weights
         new_weights = {"positive": {}, "negative": {}, "neutral": {}}
         for sentiment in sorted_weights:
-            new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] for w in sorted_weights[sentiment][:i-1]}
+            new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] 
+                                      for w in sorted_weights[sentiment][:i-1]}
 
         # load the episode that has gold standard features already assigned
         episode = parse_goldstandard("data/s1e9_gold.txt", 1, 9)
@@ -63,20 +73,31 @@ def evaluate_features():
         run_maxent(episode, new_weights)
 
         # evaulate maxent and bag_of_words sentiments against baseline
-        print "%s max_ent vs gold: %s" % (i, compare_scores(episode, score1="maxent_score", score2="gold_score"))
-        print "%s bow vs gold: %s" % (i, compare_scores(episode, "bow_score", score2="gold_score"))
+        print "%s max_ent vs gold: %s" % (i, compare_scores(episode, 
+                                                            score1="maxent_score", 
+                                                            score2="gold_score"))
+        print "%s bow vs gold: %s" % (i, compare_scores(episode, 
+                                                        "bow_score", 
+                                                        score2="gold_score"))
 
 
 def save_weights():
-    """ calculate the weights for the maxent model using the Staford senitment
-    training set and save the weights to a pickle file"""
-    training_set = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt", "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
+    """ 
+    calculate the weights for the maxent model using the Staford senitment
+    training set and save the weights to a pickle file
+    """
+    training_set = parse_stanford("data/stanfordSentimentTreebank/stanfordSentimentTreebank/dictionary.txt", 
+                                  "data/stanfordSentimentTreebank/stanfordSentimentTreebank/sentiment_labels.txt")
     weights = train_maxent(training_set)
-    sorted_weights = {sentiment: sorted(weights[sentiment].iteritems(), key=lambda x:x[1], reverse=True) for sentiment in weights}
-    new_weights = {"positive": {}, "negative": {}, "neutral": {}}
-    # get only the top 70000 weights (as determined in evaluate_features())
+    sorted_weights = {sentiment: sorted(weights[sentiment].iteritems(), 
+                                        key=lambda x:x[1], 
+                                        reverse=True) 
+                      for sentiment in weights}
+    new_weights = {}
+    # get only the top 80000 weights (as determined in evaluate_features())
     for sentiment in sorted_weights:
-        new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] for w in sorted_weights[sentiment][:80000]}
+        new_weights[sentiment] = {w[0]:weights[sentiment][w[0]] 
+                                  for w in sorted_weights[sentiment][:80000]}
     pickle.dump(new_weights, open("weights_optimized.pkl", "wb"))
 
 
@@ -90,17 +111,22 @@ def test_wwscripts():
     for episode in wwscripts:
         run_maxent(episode, weights)
         bag_of_words(episode, word_sentiments)
-        pickle.dump(episode, open("data/episode_maxents/s%se%s.pkl" % (episode['season'], episode['episode']), "w"))
+        pickle.dump(episode, 
+                    open("data/episode_maxents/s%se%s.pkl" % (episode['season'], 
+                                                              episode['episode']), 
+                         "w"))
 
 
 def character_sentiment_in_episode(character, episode_script, score="maxent_score"):
     """ 
     character is a string
     episode_script is a list of the format 
-    [{"character": string, "text": string, score:"positive"|"negative"|"neutral"},...]
+    [{"character": string, 
+      "text": string, 
+      score:"positive"|"negative"|"neutral" },...]
     
-    returns the number of positive, neutral and negative lines said by a
-    character in a given episode 
+    returns: the number of positive, neutral and negative lines said by a
+             character in a given episode 
     
     """
     positive = 0.0
@@ -120,10 +146,12 @@ def character_sentiment_in_episode(character, episode_script, score="maxent_scor
 def get_episode_sentiment(episode_script, score='maxent_score'):
     """ 
     episode_script is a list of the format 
-    [{"character": string, "text": string, score:"positive"|"negative"|"neutral"},...]
+    [{"character": string, 
+      "text": string, 
+      score:"positive"|"negative"|"neutral"},...]
 
-    returns the number of positive, neutral and negative lines within a
-    given episode
+    returns: the number of positive, neutral and negative lines within a given
+             episode
     """
     pos = 0
     neg = 0
@@ -141,9 +169,12 @@ def get_episode_sentiment(episode_script, score='maxent_score'):
 def get_season_sentiment(season, score='maxent_score'):
     """
     season is of the format
-    { episode: [{"character": string, "text": string, score:"positive"|"negative"|"neutral"},...]}
+    { episode: [{"character": string, 
+                 "text": string, 
+                 score:"positive"|"negative"|"neutral"},...]}
 
-    returns the number of positive, neutral and negative lines within a given season
+    returns: the number of positive, neutral and negative lines within a given
+             season
     """
     pos_neg_ratios = []
     pos = 0
@@ -176,12 +207,19 @@ def load_episodes():
 
 
 def single_season_sentiment_figure():
+    """ 
+    creates a figure mapping the pos/neg sentiment ratio of each episode of a
+    season
+    """
     episodes = load_episodes()
-    # plot pos/neg ratio over the course of season 1
     pos_neg_ratios = []
+
+    # get the ratios
     for episode in sorted(episodes[1].keys()):
         sentiments = get_episode_sentiment(episodes[1][episode])
         pos_neg_ratios.append(100 * sentiments[0]/ float(sentiments[0] + sentiments[2]))
+
+    # plot the figure
     fig = plt.figure()
     ax = fig.add_subplot(111)
     ax.scatter(range(1, len(episodes[1]) + 1), pos_neg_ratios)
@@ -196,12 +234,17 @@ def single_season_sentiment_figure():
     plt.savefig("figures/season_1_posneg_ratios.png")
 
 def all_seasons_sentiment_figure():
+    """ creates a figure mapping the pos/neg sentiment ratio of each season
+    over a series"""
     episodes = load_episodes()
     # plot pos/neg ratio over the course of all seasons
     season_sentiments = []
+
+    # get the ratios
     for i in range(5):
         season_sentiments.append(100* get_season_sentiment(episodes[i+1]))
 
+    # plot the figure
     width = 0.35
     fig = plt.figure()
     ax = fig.add_subplot(111)
@@ -217,6 +260,11 @@ def all_seasons_sentiment_figure():
 
 
 def character_figures(characters, series):
+    """ 
+    plots the pos/neg sentiment ratio of lines specific to a list of
+    characters over a season
+    """
+    # gather the sentiments specific to each character
     character_sentiments = {}
     for character in characters:
         character_sentiment = {}
@@ -230,6 +278,7 @@ def character_figures(characters, series):
                     character_sentiment[season][episode] = 0
         character_sentiments[character] = character_sentiment
     
+    # plot the figures
     for season in series:
         fig = plt.figure()
         ax = fig.add_subplot(111)
@@ -238,9 +287,11 @@ def character_figures(characters, series):
         ax.set_title("Pos/Neg Sentiment Ratio for %s for Season %s" % (','.join(characters), season))
         for character in characters:
             character_sentiment = character_sentiments[character]
-            sorted_season = sorted(character_sentiment[season].iteritems(), key=lambda x: x[0])
+            sorted_season = sorted(character_sentiment[season].iteritems(),
+                                   key=lambda x: x[0])
             ax.scatter(zip(*sorted_season)[0], zip(*sorted_season)[1])
-            ax.plot(zip(*sorted_season)[0], zip(*sorted_season)[1], label=character)
+            ax.plot(zip(*sorted_season)[0], zip(*sorted_season)[1],
+                                                label=character)
             # ax.set_xlim(0, max(zip(*sorted_season)[0]))
 
         ax.set_xlim(1, len(series[season]))
@@ -259,5 +310,4 @@ if __name__ == "__main__":
     # evaluate_features()
     # save_weights()
     # test_wwscripts()
-    series = load_episodes()
-    character_figures(["TOBY"], series)
+    # series = load_episodes()

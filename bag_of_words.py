@@ -1,3 +1,8 @@
+""" 
+bag_of_words.py
+This file contains all functions related to building a "bag of words" model
+for sentiment analysis
+"""
 from data_processing import parse_NRC
 from nltk.tokenize import word_tokenize
 import pickle
@@ -7,35 +12,11 @@ unknown_token = "<UNK>"
 start_token = "<S>"
 end_token = "</S>"
 
-def build_vocabulary(data):
-    # takes in a dictionary of data
-    # returns a set of words
-    return set(data.keys())
-
-def preprocess_text(episode, vocabulary):
-    script = episode["script"]
-    new_episode = {
-            "episode": episode["episode"],
-            "season": episode["season"],
-            "script": []
-            }
-    for line in script:
-        character = line["character"]
-        text = line["text"] # a string
-        new_text = text.split(" ") # a list
-        for i, word in enumerate(new_text):
-            if word not in vocabulary:
-                new_text[i] = unknown_token
-        new_line = {
-                "character": character,
-                "text": new_text
-                }
-        new_episode["script"].append(new_line)
-
-    return new_episode
-        
 
 def convert_to_sentiment(score):
+    """
+    converts values in the range [0,1] to sentiments
+    """
     if score > 0.5:
         return "positive"
     elif score < 0.5:
@@ -45,6 +26,23 @@ def convert_to_sentiment(score):
 
 
 def bag_of_words(episode, word_sentiments):
+    """
+    bag_of_words classifier for sentiment analysis
+    episode is a dictionary of format 
+    {'season': int, 
+    'episode': int,
+    'script': [{'text': string}, ...  ]
+    }
+    word_sentiments is a dictiony of format
+    {string: 'positive'|'negative'}
+
+
+    The bag of words classifier simply averages the amount of positive,
+    negative and neutral words found in a string of text and returns the
+    sentiment associated with the average. 
+    sentiments of value > 0.5 are positive, < 0.5 are negative and == 0.5 are
+    neutral
+    """
     script = episode["script"]
     for i, line in enumerate(script):
         score = 0.0
@@ -62,17 +60,8 @@ def bag_of_words(episode, word_sentiments):
         episode['script'][i]['bow_score'] = convert_to_sentiment(score)
 
 
-def character_scores(episode, character, score_type='bow_score'):
-    script = episode['script']
-    for line in script:
-        if line["character"] == character:
-            print line[score_type]
-
-
 if __name__ == "__main__":
     episodes = pickle.load(open("test_scripts.pkl", "rb"))
     word_sentiments = parse_NRC("data/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-v0.92/NRC-emotion-lexicon-wordlevel-alphabetized-v0.92.txt")
     bag_of_words(episodes[0], word_sentiments)
-    print character_scores(preprocessed_episodes[0],
-            "TOBY", "bow_score")
 

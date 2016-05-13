@@ -1,3 +1,7 @@
+"""
+This script reads a json file containing episodes of the west wing and saves
+them to a pickle file
+"""
 import json
 import re
 import pickle
