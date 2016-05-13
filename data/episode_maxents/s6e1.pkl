@@ -1,0 +1,3716 @@
+(dp0
+S'season'
+p1
+I6
+sS'episode'
+p2
+I1
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VWe can't let the Chairman bully us into having a summit, sir.
+p7
+sS'character'
+p8
+VKATE
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VWho's going to know?
+p13
+sg8
+VBARTLET
+p14
+sg10
+g11
+sa(dp15
+g6
+VPeople at State know; at the Pentagon.
+p16
+sg8
+VLEO
+p17
+sg10
+g11
+sa(dp18
+g6
+VAnd the Israelis know. IF we try to force them into hosting a summit they may leak it.
+p19
+sg8
+VKATE
+p20
+sg10
+g11
+sa(dp21
+g6
+VThat's so bad? The Chairman wants a peace summit. Isn't that a start?
+p22
+sg8
+VABBEY
+p23
+sg10
+g11
+sa(dp24
+g6
+VHe invited himself to Camp David. What's he going to do next, raid the icebox at the Council of Foreign Relations?
+p25
+sg8
+VKATE
+p26
+sg10
+g11
+sa(dp27
+g6
+VSir, we need to focus on military action; retaliation for the deaths of our people in Gaza.
+p28
+sg8
+VLEO
+p29
+sg10
+g11
+sa(dp30
+g6
+VI've got a guy who says he wants to come to a peace table and I've got a table.
+p31
+sg8
+VBARTLET
+p32
+sg10
+g11
+sa(dp33
+g6
+VTell Farad he can have his summit if it can double as his retirement party. I'll spring for the watch.
+p34
+sg8
+VLEO
+p35
+sg10
+g11
+sa(dp36
+g6
+VWhat do I need from him to get the Israelis to Camp David?
+p37
+sg8
+VBARTLET
+p38
+sg10
+g11
+sa(dp39
+g6
+VHe'd have to promise to arrest the leaders of Hamas, put the Palestinian security services under Mukarat and the moderates, and adopt a new PLO charter that gives up that portion of historical  Palestine he's going to recognize as Israel.
+p40
+sg8
+VKATE
+p41
+sg10
+g11
+sa(dp42
+g6
+VPlus the watch?
+p43
+sg8
+VABBEY
+p44
+sg10
+g11
+sa(dp45
+g6
+VMr. President, this way, please.
+p46
+sg8
+VCHARLIE
+p47
+sg10
+g11
+sa(dp48
+g6
+VSir. I feel as if my council is largely responsible for this mess.
+p49
+sg8
+VKATE
+p50
+sg10
+g11
+sa(dp51
+g6
+VI get lots of council, Ms. Harper. What I choose to do with it is my responsibility.
+p52
+sg8
+VBARTLET
+p53
+sg10
+g11
+sa(dp54
+g6
+VTed Harper called from 60 Minutes, says he's got a Congressional widow on camera demanding the President avenge her husband's death.
+p55
+sg8
+VCAROL
+p56
+sg10
+g11
+sa(dp57
+g6
+VWhich one?
+p58
+sg8
+VC.J.
+p59
+sg10
+S'positive'
+p60
+sa(dp61
+g6
+VTom Korb's. They're hoping the President will go on camera to respond.
+p62
+sg8
+VCAROL
+p63
+sg10
+g11
+sa(dp64
+g6
+VAnd what? Defend his tie-died, hippie dippie, blowin'-in-the-wind, peacenik pipe-dream while the grieving widow rends her garments?
+p65
+sg8
+VC.J.
+p66
+sg10
+g11
+sa(dp67
+g6
+VYou want me to see if I can get you a couple minutes in the Oval right away?
+p68
+sg8
+VCAROL
+p69
+sg10
+g11
+sa(dp70
+g6
+VI thought the President won't be back in the building until this afternoon.
+p71
+sg8
+VC.J.
+p72
+sg10
+g11
+sa(dp73
+g6
+VThe Israelis won't get in a room with Farad again. I'm surprised the Prime Minister hasn't already said so in about three different languages.
+p74
+sg8
+VWILL
+p75
+sg10
+g11
+sa(dp76
+g6
+VThe President asked him not to.
+p77
+sg8
+VC.J.
+p78
+sg10
+g11
+sa(dp79
+g6
+VFarad doesn't want to deal. Last time Israel offered up Gaza, 96% of the West Bank, half of Jerusalem, sovereignty over the Temple Mount, and the lead role in the Temple Bethel Koram play. He walked away.
+p80
+sg8
+VWILL
+p81
+sg10
+g11
+sa(dp82
+g6
+VWhat do you need, Will?
+p83
+sg8
+VC.J.
+p84
+sg10
+g11
+sa(dp85
+g6
+VThe President should prepare to respond to the murder of two Congressmen. The Vice President can't support the President on this.
+p86
+sg8
+VWILL
+p87
+sg10
+g11
+sa(dp88
+g6
+VIs he planning on saying so publicly?
+p89
+sg8
+VC.J.
+p90
+sg10
+g11
+sa(dp91
+g6
+VHe's speaking at the Israel Policy Forum Gala on Friday. I think it might come up.
+p92
+sg8
+VWILL
+p93
+sg10
+g11
+sa(dp94
+g6
+VHe can't be convinced to come down with a nasty bout of the flu?
+p95
+sg8
+VC.J.
+p96
+sg10
+g11
+sa(dp97
+g6
+VHe's a pretty healthy guy.
+p98
+sg8
+VWILL
+p99
+sg10
+g11
+sa(dp100
+g6
+VThe President knows, right? You guys are telling him?
+p101
+sg8
+VWILL
+p102
+sg10
+g11
+sa(dp103
+g6
+VKnows what?
+p104
+sg8
+VC.J.
+p105
+sg10
+g11
+sa(dp106
+g6
+VThat there is no viable alternative. He's going to have to bomb Palestinians.
+p107
+sg8
+VWILL
+p108
+sg10
+g11
+sa(dp109
+g6
+VBlessed are the merciful, for they shall obtain mercy. Blessed are they which are persecuted for righteousness' sake, for theirs will be the Kingdom of Heaven.
+p110
+sg8
+VBARTLET
+p111
+sg10
+g11
+sa(dp112
+g6
+VAnd blessed are the peacemakers, for they shall be called the children of God.
+p113
+sg8
+VBARTLET
+p114
+sg10
+g11
+sa(dp115
+g6
+VWe have no choice but to retaliate.
+p116
+sg8
+VALEXANDER
+p117
+sg10
+g11
+sa(dp118
+g6
+VKhalil Nasan is still in Gaza?
+p119
+sg8
+VLEO
+p120
+sg10
+g11
+sa(dp121
+g6
+VYes, but we've been able to link Nasan's bombing of our Congressional delegation to the Khanjari Martyrs. And the Martyrs are using the Ein Hawa camp near Damascus as their base of operations.
+p122
+sg8
+VGEORGE
+p123
+sg10
+g11
+sa(dp124
+g6
+VIn Syria?
+p125
+sg8
+VBARTLET
+p126
+sg10
+g11
+sa(dp127
+g6
+VE-mail and cellular communications indicate that they supplied the munitions and the technical support for Nasan.
+p128
+sg8
+VGEORGE
+p129
+sg10
+g11
+sa(dp130
+g6
+VWhat are you proposing, General?
+p131
+sg8
+VLEO
+p132
+sg10
+g11
+sa(dp133
+g6
+VSyria and Iran are the primary supporters of the Martyrs. The Lincoln battle group is moving into strike range. We can use Slammer missiles against the Ein Hawa camp and the two terrorist training camps in norther Iran, east of Birjan.
+p134
+sg8
+VALEXANDER
+p135
+sg10
+g11
+sa(dp136
+g6
+VAnd blow the summit out of the water.
+p137
+sg8
+VKATE
+p138
+sg10
+g11
+sa(dp139
+g6
+VOh, what summit? The Israelis aren't going to meet with Farad.
+p140
+sg8
+VGEORGE
+p141
+sg10
+g11
+sa(dp142
+g6
+VThe region's already a powder keg.
+p143
+sg8
+VKATE
+p144
+sg10
+g11
+sa(dp145
+g6
+VName one day in the last 20 centuries when it wasn't.
+p146
+sg8
+VLEO
+p147
+sg10
+g11
+sa(dp148
+g6
+VEgypt, Jordan, and the Saudis will help us craft a deal with Farad if they think it's fair. But the whole thing will fall apart if we start bombing Syria and Iran.
+p149
+sg8
+VKATE
+p150
+sg10
+g11
+sa(dp151
+g6
+VThe only way to prevent attacks against Americans abroad is to show we're willing to respond when provoked.
+p152
+sg8
+VLEO
+p153
+sg10
+g11
+sa(dp154
+g6
+VBombing Syria and Iran sends a powerful message, Mr. President.
+p155
+sg8
+VALEXANDER
+p156
+sg10
+g11
+sa(dp157
+g6
+VDo we have any evidence linking Iran to Nasan?
+p158
+sg8
+VBARTLET
+p159
+sg10
+g11
+sa(dp160
+g6
+VIf we take this opportunity to strike Iranian terrorist camps, believe me, sir, we'll find a way to link the attacks on our people back to them later.
+p161
+sg8
+VGEORGE
+p162
+sg10
+g11
+sa(dp163
+g6
+VAre you suggesting we use the attack on our Congressional delegation as a pretext to attack another country we don't know to be responsible?
+p164
+sg8
+VBARTLET
+p165
+sg10
+g11
+sa(dp166
+g6
+VSir, I'm not suggesting that, but it's clear...
+p167
+sg8
+VGEORGE
+p168
+sg10
+g11
+sa(dp169
+g6
+VThen what the hell are you suggesting?
+p170
+sg8
+VBARTLET
+p171
+sg10
+g11
+sa(dp172
+g6
+VMr. President.
+p173
+sg8
+VLEO
+p174
+sg10
+g11
+sa(dp175
+g6
+VThere's ample intelligence to indicate...
+p176
+sg8
+VGEORGE
+p177
+sg10
+g11
+sa(dp178
+g6
+VI'm not using Admiral Fitzwallace's death and the death of our Congressmen as a pretext to attack another country we don't happen to like.
+p179
+sg8
+VBARTLET
+p180
+sg10
+g11
+sa(dp181
+g6
+VThe Ambassador is here.
+p182
+sg8
+VLEO
+p183
+sg10
+g11
+sa(dp184
+g6
+VI want to see what we have linking Nasan to the Martyrs in Syria.
+p185
+sg8
+VBARTLET
+p186
+sg10
+g11
+sa(dp187
+g6
+VAnd if you come up with any credible, verifiable evidence dragging Iran into this mess, I'll take a look at that, too.
+p188
+sg8
+VBARTLET
+p189
+sg10
+g11
+sa(dp190
+g6
+VI'm not bombing half the Middle East just because it's going to make us all feel better.
+p191
+sg8
+VBARTLET
+p192
+sg10
+g11
+sa(dp193
+g6
+VThey're on your side.
+p194
+sg8
+VLEO
+p195
+sg10
+g11
+sa(dp196
+g6
+VReally? I was having a hard time believing that a few minutes ago.
+p197
+sg8
+VBARTLET
+p198
+sg10
+g11
+sa(dp199
+g6
+VSir, you can't delay any longer. There are no rabbits left in this hat.
+p200
+sg8
+VLEO
+p201
+sg10
+g11
+sa(dp202
+g6
+VI'm not prepared to accept that.
+p203
+sg8
+VBARTLET
+p204
+sg10
+g11
+sa(dp205
+g6
+VYou're going to have to, sir.
+p206
+sg8
+VLEO
+p207
+sg10
+g11
+sa(dp208
+g6
+VThe Ambassador's waiting.
+p209
+sg8
+VBARTLET
+p210
+sg10
+g11
+sa(dp211
+g6
+VLooks like your boy's got himself into a bit of trouble.
+p212
+sg8
+VCOLIN
+p213
+sg10
+g11
+sa(dp214
+g6
+VMy boy?
+p215
+sg8
+VJOSH
+p216
+sg10
+g11
+sa(dp217
+g6
+VBartlet.
+p218
+sg8
+VCOLIN
+p219
+sg10
+g11
+sa(dp220
+g6
+VHe's been President Bartlet for six years; he hasn't been a boy for about 50.
+p221
+sg8
+VJOSH
+p222
+sg10
+g11
+sa(dp223
+g6
+VIsraelis are never gonna meet with Farad. Why should they? They've got him surrounded in the West Bank. What does Bartlet think they're going to do, knock on the door of his compound and say, "I'm so sorry about the tanks and stuff, but would you like to pop over to America and have a nice wee chat and sort this out?"?
+p224
+sg8
+VCOLIN
+p225
+sg10
+g11
+sa(dp226
+g6
+VWhere are you from?
+p227
+sg8
+VJOSH
+p228
+sg10
+g11
+sa(dp229
+g6
+VBelfast.
+p230
+sg8
+VCOLIN
+p231
+sg10
+g11
+sa(dp232
+g6
+VYou guys are really the model on how to work things out over there.
+p233
+sg8
+VJOSH
+p234
+sg10
+g11
+sa(dp235
+g6
+VYeah, we are, actually.
+p236
+sg8
+VCOLIN
+p237
+sg10
+g11
+sa(dp238
+g6
+VThe Israelis have every right to protect themselves from terrorists.
+p239
+sg8
+VJOSH
+p240
+sg10
+g11
+sa(dp241
+g6
+VThey don't occupy a force to oppress...
+p242
+sg8
+VCOLIN
+p243
+sg10
+g11
+sa(dp244
+g6
+VThey're citizen soldiers trying to keep their sisters from getting blown up on a bus.
+p245
+sg8
+VJOSH
+p246
+sg10
+g11
+sa(dp247
+g6
+VYou Jewish?
+p248
+sg8
+VCOLIN
+p249
+sg10
+g11
+sa(dp250
+g6
+VWhy? You anti-Semitic?
+p251
+sg8
+VJOSH
+p252
+sg10
+g11
+sa(dp253
+g6
+VAnyone who thinks the Palestinians have a point is anti-Semitic.
+p254
+sg8
+VCOLIN
+p255
+sg10
+g11
+sa(dp256
+g6
+VAnd anyone who thinks the Jews don't after being chased and exiled and persecuted for centuries is either an idiot or a fool, probably both.
+p257
+sg8
+VJOSH
+p258
+sg10
+g11
+sa(dp259
+g6
+VMadame Ambassador.
+p260
+sg8
+VBARTLET
+p261
+sg10
+g11
+sa(dp262
+g6
+VPleasure.
+p263
+sg8
+VLEO
+p264
+sg10
+g11
+sa(dp265
+g6
+VThank you.
+p266
+sg8
+VGALIT
+p267
+sg10
+g60
+sa(dp268
+g6
+VPlease.
+p269
+sg8
+VBARTLET
+p270
+sg10
+g11
+sa(dp271
+g6
+VAdmiral Fitzwallace was a great man. All Israelis mourn his loss.
+p272
+sg8
+VGALIT
+p273
+sg10
+g11
+sa(dp274
+g6
+VIsrael can not agree to attend a summit with Chairman Farad while our citizens are being brutally murdered every day.
+p275
+sg8
+VGALIT
+p276
+sg10
+g11
+sa(dp277
+g6
+VWhether we like it or not, Farad is in charge.
+p278
+sg8
+VBARTLET
+p279
+sg10
+g11
+sa(dp280
+g6
+VThe United States has sought regime change in dictatorships around the world. Is Israel to be held to a higher standard?
+p281
+sg8
+VGALIT
+p282
+sg10
+g11
+sa(dp283
+g6
+VIsrael was created to be a land free from oppression. Whether Israel is Palestinian, Jewish, Jordanian, or Judean, the people who live in the territories are oppressed: by their own leadership, by the neglect of Arab neighbors, and, yes, by Israel.
+p284
+sg8
+VBARTLET
+p285
+sg10
+g11
+sa(dp286
+g6
+VI'm sorry, Mr. President.
+p287
+sg8
+VGALIT
+p288
+sg10
+g11
+sa(dp289
+g6
+VChairman Farad is interested in only one thing: murdering Israelis. And, apparently, he's decided it's now time to start murdering Americans as well. We won't participate in any discussions which include Chairman Farad. If you'll excuse me, sir.
+p290
+sg8
+VGALIT
+p291
+sg10
+g11
+sa(dp292
+g6
+VGordon.
+p293
+sg8
+VC.J.
+p294
+sg10
+g11
+sa(dp295
+g6
+VRepublicans are on their way to the White House this afternoon to meet with the President. Any idea what they're planning to say?
+p296
+sg8
+VGORDON
+p297
+sg10
+g11
+sa(dp298
+g6
+VI'm sure the Republican leadership is going to do what they always do: express their unanimous and unqualified support of the President's policies.
+p299
+sg8
+VC.J.
+p300
+sg10
+g11
+sa(dp301
+g6
+VIt's not just the Republicans. The Democrats are saying they don't understand why the President is wringing his hands while the Israelis send tanks.
+p302
+sg8
+VGORDON
+p303
+sg10
+g11
+sa(dp304
+g6
+VWe're working closely with leaders of both parties on this. They know the President is determined to act.
+p305
+sg8
+VC.J.
+p306
+sg10
+g11
+sa(dp307
+g6
+VNo, they don't, C.J., neither do the American people. Gallup is saying 82% support immediate military action in response to Gaza.
+p308
+sg8
+VGORDON
+p309
+sg10
+g11
+sa(dp310
+g6
+VThe President doesn't make security decisions based on opinion polls. Chris?
+p311
+sg8
+VC.J.
+p312
+sg10
+g11
+sa(dp313
+g6
+VHave the Israelis agreed to participate in a summit with the Palestinians? Israeli officials are saying, privately, they won't attend if Farad is invited.
+p314
+sg8
+VCHRIS
+p315
+sg10
+g11
+sa(dp316
+g6
+VWe're discussing the specifics of any possible talks with members of the Palestinian authority and members of the Israeli government. These conversations are ongoing.
+p317
+sg8
+VC.J.
+p318
+sg10
+g11
+sa(dp319
+g6
+VHow's she doing?
+p320
+sg8
+VTOBY
+p321
+sg10
+g11
+sa(dp322
+g6
+VOkay, considering she's human chum. Anything from Josh?
+p323
+sg8
+VLEO
+p324
+sg10
+g11
+sa(dp325
+g6
+VYeah. Donna's back in surgery. Something about a pulmonary embolism.
+p326
+sg8
+VTOBY
+p327
+sg10
+g11
+sa(dp328
+g6
+VMargaret!
+p329
+sg8
+VLEO
+p330
+sg10
+g11
+sa(dp331
+g6
+VYeah. C.J. told me this morning. [to Margaret] See if you can reach Josh.
+p332
+sg8
+VLEO
+p333
+sg10
+g11
+sa(dp334
+g6
+VWe need to get to Alicia DeSantos.
+p335
+sg8
+VTOBY
+p336
+sg10
+g11
+sa(dp337
+g6
+VI can call. You don't have to let the President know...
+p338
+sg8
+VTOBY
+p339
+sg10
+g11
+sa(dp340
+g6
+VNot today, okay, Toby. I've got enough problems...
+p341
+sg8
+VLEO
+p342
+sg10
+g11
+sa(dp343
+g6
+VWhat's the President doing, Leo? A summit? He's already got a Nobel Prize. What's he need a second one for, book ends?
+p344
+sg8
+VTOBY
+p345
+sg10
+g11
+sa(dp346
+g6
+VThe Speaker's here.
+p347
+sg8
+VMARGARET
+p348
+sg10
+g11
+sa(dp349
+g6
+VLet the President's office know, then show 'em in.
+p350
+sg8
+VLEO
+p351
+sg10
+g11
+sa(dp352
+g6
+VHe brought half of Congress with him. Don't think they'll all fit.
+p353
+sg8
+VMARGARET
+p354
+sg10
+g11
+sa(dp355
+g6
+VMr. Speaker, nice to see you. Richard, David, Leslie. Sheila, surprised to see you running with this crowd.
+p356
+sg8
+VLEO
+p357
+sg10
+g11
+sa(dp358
+g6
+VThis isn't a partisan issue.
+p359
+sg8
+VSHEILA
+p360
+sg10
+g11
+sa(dp361
+g6
+VWe thought a show of unity would be helpful to the White House.
+p362
+sg8
+VHAFFLEY
+p363
+sg10
+g11
+sa(dp364
+g6
+VThe President's finishing something up in the Oval. He'll be right with us.
+p365
+sg8
+VLEO
+p366
+sg10
+g11
+sa(dp367
+g6
+VHave you been listening to the radio?
+p368
+sg8
+VHAFFLEY
+p369
+sg10
+g11
+sa(dp370
+g6
+VI've been a little busy.
+p371
+sg8
+VLEO
+p372
+sg10
+S'negative'
+p373
+sa(dp374
+g6
+VHave you been listening to the radio?
+p375
+sg8
+VHAFFLEY
+p376
+sg10
+g11
+sa(dp377
+g6
+VOldies radio, traffic report?
+p378
+sg8
+VTOBY
+p379
+sg10
+g11
+sa(dp380
+g6
+VThe nation's taking the announcement of these peace talks badly. Many people believe you sent Congressmen into harm's way.
+p381
+sg8
+VHAFFLEY
+p382
+sg10
+g11
+sa(dp383
+g6
+VAre these the same right-wing, turkey-basters that said I faked MS to get the sympathy vote in the last election? Nice to see everyone. Please, sit down.
+p384
+sg8
+VBARTLET
+p385
+sg10
+g11
+sa(dp386
+g6
+VMembers of Congress were killed, Mr. President. Instead of seeking justice, you're typing up name tags and inviting them to play dodgeball at Camp David.
+p387
+sg8
+VHAFFLEY
+p388
+sg10
+g11
+sa(dp389
+g6
+VYou're ignoring the sacrifice these men made for their country.
+p390
+sg8
+VSHEILA
+p391
+sg10
+g11
+sa(dp392
+g6
+VOn the contrary, I'm trying to honor it.
+p393
+sg8
+VBARTLET
+p394
+sg10
+g11
+sa(dp395
+g6
+VYou're appeasing terrorists by rewarding them with a peace summit.
+p396
+sg8
+VHAFFLEY
+p397
+sg10
+g11
+sa(dp398
+g6
+VIf the issue here is Congressional consultation, we can assure you...
+p399
+sg8
+VLEO
+p400
+sg10
+g11
+sa(dp401
+g6
+VMr. President, you have to go on national television, admit your mistake, and retract those invitations. You've insulted these men and their memories. You have to put this summit back into the cereal box it came in.
+p402
+sg8
+VHAFFLEY
+p403
+sg10
+g11
+sa(dp404
+g6
+VI didn't come here to play games.
+p405
+sg8
+VBARTLET
+p406
+sg10
+g11
+sa(dp407
+g6
+VI'm trying to find a way to make peace. And when I do, you can go on TV and explain why you're against it.
+p408
+sg8
+VBARTLET
+p409
+sg10
+g11
+sa(dp410
+g6
+VMs. Moss was experiencing shortness of breath and chest pain. Her chest CT revealed a blood clot in her right lung. She asked if she could see you for a moment before we put her under.
+p411
+sg8
+VDOCTOR
+p412
+sg10
+g11
+sa(dp413
+g6
+VMe?
+p414
+sg8
+VCOLIN
+p415
+sg10
+g11
+sa(dp416
+g6
+VUh, no. Mr. Lyman.
+p417
+sg8
+VDOCTOR
+p418
+sg10
+g11
+sa(dp419
+g6
+VI just talked to the doctor; they said it's no big deal.
+p420
+sg8
+VJOSH
+p421
+sg10
+g11
+sa(dp422
+g6
+VYeah. Stylish, huh. They tell you what they're going to do?
+p423
+sg8
+VJOSH
+p424
+sg10
+g11
+sa(dp425
+g6
+VIt's gonna be a snap.
+p426
+sg8
+VJOSH
+p427
+sg10
+g11
+sa(dp428
+g6
+VYeah. Don't be. You're going to be fine, okay?
+p429
+sg8
+VJOSH
+p430
+sg10
+g11
+sa(dp431
+g6
+VOkay, Donna, here we go.
+p432
+sg8
+VDOCTOR
+p433
+sg10
+g11
+sa(dp434
+g6
+VThe strike force can launch in six hours. It's two hours to the targets in Syria, same to Gaza. Air-to-ground smart munitions against both, back on the deck in four hours.
+p435
+sg8
+VALEXANDER
+p436
+sg10
+g11
+sa(dp437
+g6
+VIntel still has Khalil Nasan at the same location in Gaza?
+p438
+sg8
+VLEO
+p439
+sg10
+g11
+sa(dp440
+g6
+VSo far. We just have to hope he stays there until midmorning. [pause] You'll talk to him?
+p441
+sg8
+VALEXANDER
+p442
+sg10
+g11
+sa(dp443
+g6
+VYeah.
+p444
+sg8
+VLEO
+p445
+sg10
+g11
+sa(dp446
+g6
+VWe lose track of Nasan now, who knows where we pick him up again.
+p447
+sg8
+VALEXANDER
+p448
+sg10
+g11
+sa(dp449
+g6
+VThank you, General.
+p450
+sg8
+VLEO
+p451
+sg10
+g60
+sa(dp452
+g6
+VLeo, do you have a minute?
+p453
+sg8
+VKATE
+p454
+sg10
+g11
+sa(dp455
+g6
+VYeah, sure.
+p456
+sg8
+VLEO
+p457
+sg10
+g373
+sa(dp458
+g6
+VI encouraged the President to pursue a meeting with Mukarat. I should have anticipated Chairman Farad...
+p459
+sg8
+VKATE
+p460
+sg10
+g11
+sa(dp461
+g6
+VDid you bury a mortar shell on the roadside in Gaza two days ago?
+p462
+sg8
+VLEO
+p463
+sg10
+g11
+sa(dp464
+g6
+VNo, sir. I just feel that in hindsight...
+p465
+sg8
+VKATE
+p466
+sg10
+g11
+sa(dp467
+g6
+VThe President heard what he wanted to hear and went where he wanted to go. He's over 21. Don't flatter yourself, Commander, you're not changing the course of history.
+p468
+sg8
+VLEO
+p469
+sg10
+g11
+sa(dp470
+g6
+VI won't take up any more of your time.
+p471
+sg8
+VKATE
+p472
+sg10
+g11
+sa(dp473
+g6
+VHe doesn't like chaos. We bomb some apartment building in Gaza or a camp in Syria there'll be consequences. And we can't tell him what they're going to be. Will we get drawn into a war in the Middle East? Will suicide bombers be climbing onto buses in Pasaic, New Jersey, instead of Haifa and Tel Aviv?
+p474
+sg8
+VLEO
+p475
+sg10
+g11
+sa(dp476
+g6
+VExcuse me, Leo. The President's asking for you and Ms. Harper in the Oval.
+p477
+sg8
+VMARGARET
+p478
+sg10
+g11
+sa(dp479
+g6
+VThe President's looking for answers and we don't have them.
+p480
+sg8
+VLEO
+p481
+sg10
+g11
+sa(dp482
+g6
+VNo idea is too stupid or outrageous: party clowns; piatas; I'd build a mosque out of jello if I thought... I need ideas, new ideas, come on. Just throw things out and we'll see if anything comes of it.
+p483
+sg8
+VBARTLET
+p484
+sg10
+g11
+sa(dp485
+g6
+VSir, I think we need to shift the conversation back to the military...
+p486
+sg8
+VTOBY
+p487
+sg10
+g11
+sa(dp488
+g6
+VCome on, who else?
+p489
+sg8
+VBARTLET
+p490
+sg10
+g11
+sa(dp491
+g6
+VIs the FBI any closer to...?
+p492
+sg8
+VC.J.
+p493
+sg10
+g11
+sa(dp494
+g6
+VI'm serious, Farad and the Israelis: how to get them into a room together.
+p495
+sg8
+VBARTLET
+p496
+sg10
+g11
+sa(dp497
+g6
+VWell, sir, previous peace plans have focused on getting Chairman Farad to crack down on Hamas and other terrorist groups...
+p498
+sg8
+VC.J.
+p499
+sg10
+g11
+sa(dp500
+g6
+VFarad's not powerful enough.
+p501
+sg8
+VTOBY
+p502
+sg10
+g11
+sa(dp503
+g6
+VNo idea is too stupid or outrageous...
+p504
+sg8
+VBARTLET
+p505
+sg10
+g11
+sa(dp506
+g6
+VWe let Chairman Farad come to Camp David...
+p507
+sg8
+VWILL
+p508
+sg10
+g11
+sa(dp509
+g6
+VThere's no one else in the region with an interest in ending the violence...
+p510
+sg8
+VC.J.
+p511
+sg10
+g11
+sa(dp512
+g6
+V...sticking their necks out...
+p513
+sg8
+VWILL
+p514
+sg10
+g11
+sa(dp515
+g6
+VIf there was some way to add credibility to the summit, something both the Israelis and the Palestinians would...
+p516
+sg8
+VC.J.
+p517
+sg10
+g11
+sa(dp518
+g6
+VReally stupid ideas?
+p519
+sg8
+VKATE
+p520
+sg10
+g373
+sa(dp521
+g6
+VYes, absolutely.
+p522
+sg8
+VBARTLET
+p523
+sg10
+g60
+sa(dp524
+g6
+VWe ignore everything that's happened in the last 24 hours. Yesterday, Farad was cooperating with us, planning to arrest Nasan and the other perpetrators of the CODEL bombing. Then the Israelis surrounded his compound in the West Bank and his people in Gaza refused to arrest Nasan, right?
+p525
+sg8
+VKATE
+p526
+sg10
+g11
+sa(dp527
+g6
+VYeah, so?
+p528
+sg8
+VWILL
+p529
+sg10
+g11
+sa(dp530
+g6
+VSo we hold Farad to his earlier promise. Tell him if he wants a summit that he has to arrest Nasan. Show us and the Israelis he's serious about punishing terrorists.
+p531
+sg8
+VKATE
+p532
+sg10
+g11
+sa(dp533
+g6
+VHow's he supposed to do that, when his compound is surrounded by Israeli tanks?
+p534
+sg8
+VTOBY
+p535
+sg10
+g11
+sa(dp536
+g6
+VFarad was never going to do it himself. The Palestinian Authority was just waiting for his okay to proceed.
+p537
+sg8
+VKATE
+p538
+sg10
+g11
+sa(dp539
+g6
+VThe Israelis turned off his power. His cell phone's dead.
+p540
+sg8
+VC.J.
+p541
+sg10
+g11
+sa(dp542
+g6
+VGet him a new one. The Israelis aren't going to stop the American consulate from giving him a new battery.
+p543
+sg8
+VKATE
+p544
+sg10
+g11
+sa(dp545
+g6
+VThey might.
+p546
+sg8
+VWILL
+p547
+sg10
+g11
+sa(dp548
+g6
+VA cell phone?
+p549
+sg8
+VTOBY
+p550
+sg10
+g11
+sa(dp551
+g6
+VHe can use mine, if he wants.
+p552
+sg8
+VKATE
+p553
+sg10
+g11
+sa(dp554
+g6
+VYou're right, it's a stupid idea.
+p555
+sg8
+VTOBY
+p556
+sg10
+g11
+sa(dp557
+g6
+VWhy?
+p558
+sg8
+VKATE
+p559
+sg10
+g11
+sa(dp560
+g6
+VWho cares if he has a phone? He's not going to punish Nasan. He's rounded up terrorists before. He walks them past Al Jazerra for show and then puts them under house arrest in a palace with a squash court and high-speed internet access.
+p561
+sg8
+VTOBY
+p562
+sg10
+g11
+sa(dp563
+g6
+VTell him he has to turn Nasan over to us.
+p564
+sg8
+VC.J.
+p565
+sg10
+g11
+sa(dp566
+g6
+VHe won't do it.
+p567
+sg8
+VWILL
+p568
+sg10
+g11
+sa(dp569
+g6
+VHow do you know?
+p570
+sg8
+VC.J.
+p571
+sg10
+g60
+sa(dp572
+g6
+VHe won't. Half his followers think Nasan's a hero for blowing up Americans. He's going to turn the guy over to the Great Satan?
+p573
+sg8
+VTOBY
+p574
+sg10
+g11
+sa(dp575
+g6
+VIf he says no or equivocates, we go public. Say we wanted Nasan for a summit, but when we identified the killer we asked Farad to turn him over, he refused. We look reasonable, measured. Farad has no one to blame but himself.
+p576
+sg8
+VC.J.
+p577
+sg10
+g11
+sa(dp578
+g6
+VAnd if he does turn over Nasan we go to the Israelis and say, hey, look, he's serious this time.
+p579
+sg8
+VKATE
+p580
+sg10
+g11
+sa(dp581
+g6
+VCan it work?
+p582
+sg8
+VBARTLET
+p583
+sg10
+g11
+sa(dp584
+g6
+VNo.
+p585
+sg8
+VTOBY
+p586
+sg10
+g11
+sa(dp587
+g6
+VNo.
+p588
+sg8
+VWILL
+p589
+sg10
+g11
+sa(dp590
+g6
+VMaybe.
+p591
+sg8
+VKATE
+p592
+sg10
+g11
+sa(dp593
+g6
+VMaybe.
+p594
+sg8
+VC.J.
+p595
+sg10
+g11
+sa(dp596
+g6
+VOkay. Somebody get the man a cell phone and tell him to expect a call from the President. Thanks everyone.
+p597
+sg8
+VLEO
+p598
+sg10
+g11
+sa(dp599
+g6
+VLeo. You're okay...?
+p600
+sg8
+VKATE
+p601
+sg10
+g11
+sa(dp602
+g6
+VCoordinate with State.
+p603
+sg8
+VLEO
+p604
+sg10
+g11
+sa(dp605
+g6
+VThank you.
+p606
+sg8
+VKATE
+p607
+sg10
+g60
+sa(dp608
+g6
+VCongress is drafting a resolution demanding that you take military action.
+p609
+sg8
+VLEO
+p610
+sg10
+g60
+sa(dp611
+g6
+VYeah.
+p612
+sg8
+VBARTLET
+p613
+sg10
+g11
+sa(dp614
+g6
+VSir, the Lincoln battle group will be in position sometime tonight. They're awaiting your go order to strike Nasan and the Syrian camps in the morning.
+p615
+sg8
+VLEO
+p616
+sg10
+g11
+sa(dp617
+g6
+VWhat?
+p618
+sg8
+VBARTLET
+p619
+sg10
+g11
+sa(dp620
+g6
+VWe can't wait for Farad. The risk of losing Khalil Nasan is too great. We have intel linking Iran to the Martyrs. It's sketchy in spots, but overall it's a compelling case. I'm recommending you include Iran in the attacks.
+p621
+sg8
+VLEO
+p622
+sg10
+g11
+sa(dp623
+g6
+VGeneral Alexander went ahead with plans for these bombings?
+p624
+sg8
+VBARTLET
+p625
+sg10
+g11
+sa(dp626
+g6
+VAt your request.
+p627
+sg8
+VLEO
+p628
+sg10
+g11
+sa(dp629
+g6
+VI said I'd consider it when the time was appropriate. I did not ask...
+p630
+sg8
+VBARTLET
+p631
+sg10
+g11
+sa(dp632
+g6
+VHe was trying to anticipate your eventual need, sir, at my urging. Mr. President, please. Congress, the Joint Chiefs, the American public, your own staff, everyone disagrees with your assessment of the situation.
+p633
+sg8
+VLEO
+p634
+sg10
+g11
+sa(dp635
+g6
+VKilling Palestinians isn't going to make us feel safer. They'll kill more of us, we'll kill more of them. It's Russian roulette with a fully-loaded gun.
+p636
+sg8
+VBARTLET
+p637
+sg10
+g11
+sa(dp638
+g6
+VWe can't allow terrorists to murder our citizens without...
+p639
+sg8
+VLEO
+p640
+sg10
+g11
+sa(dp641
+g6
+VWhy would they do it? Why would Palestinians murders American government officials? They never have before. They're deliberately provoking us, Leo. They know that we have to retaliate. They've studied us. They want us to overreact.
+p642
+sg8
+VBARTLET
+p643
+sg10
+g11
+sa(dp644
+g6
+VThis isn't overreacting. It's the appropriate, balanced...
+p645
+sg8
+VLEO
+p646
+sg10
+g11
+sa(dp647
+g6
+VTell me how this ends, Leo! You want me to start something that may have serious repercussions on American foreign policy for decades, but you don't know how it ends.
+p648
+sg8
+VBARTLET
+p649
+sg10
+g11
+sa(dp650
+g6
+V[shouting] We don't always know how it ends! [calmer] The Lincoln will be in position in a few hours and then you are going to have to give the go ahead for the bombings.
+p651
+sg8
+VLEO
+p652
+sg10
+g11
+sa(dp653
+g6
+VOr what? [pause] Let me know when Chairman Farad calls. I'll be in the Residence.
+p654
+sg8
+VBARTLET
+p655
+sg10
+g11
+sa(dp656
+g6
+VThank you, Mr. President.
+p657
+sg8
+VLEO
+p658
+sg10
+g60
+sa(dp659
+g6
+VIt's late.
+p660
+sg8
+VABBEY
+p661
+sg10
+g11
+sa(dp662
+g6
+VI'm sorry. Did I wake you?
+p663
+sg8
+VBARTLET
+p664
+sg10
+g60
+sa(dp665
+g6
+VHmm. No. Still nothing?
+p666
+sg8
+VABBEY
+p667
+sg10
+g11
+sa(dp668
+g6
+VMaybe I'm wrong.
+p669
+sg8
+VBARTLET
+p670
+sg10
+g11
+sa(dp671
+g6
+VMaybe.
+p672
+sg8
+VABBEY
+p673
+sg10
+g11
+sa(dp674
+g6
+VYou think so?
+p675
+sg8
+VBARTLET
+p676
+sg10
+g11
+sa(dp677
+g6
+VAm I that predictable now?
+p678
+sg8
+VBARTLET
+p679
+sg10
+g11
+sa(dp680
+g6
+VYou were always that predictable.
+p681
+sg8
+VABBEY
+p682
+sg10
+g11
+sa(dp683
+g6
+VI could do what they want; make everyone feel better for a few days. Some nice aerial shots of things blowing up on CNN, a few charred bodies, it'd be a hell of a lot easier.
+p684
+sg8
+VBARTLET
+p685
+sg10
+g11
+sa(dp686
+g6
+VYou want easier?
+p687
+sg8
+VABBEY
+p688
+sg10
+g11
+sa(dp689
+g6
+VI want Fitz to walk through my door tomorrow and give me a hard time about the Celtics.
+p690
+sg8
+VBARTLET
+p691
+sg10
+g11
+sa(dp692
+g6
+VYou think they have a chance this year?
+p693
+sg8
+VABBEY
+p694
+sg10
+g373
+sa(dp695
+g6
+VWho?
+p696
+sg8
+VBARTLET
+p697
+sg10
+g11
+sa(dp698
+g6
+VThe Celtics.
+p699
+sg8
+VABBEY
+p700
+sg10
+g11
+sa(dp701
+g6
+VThey still need a big man and a reliable point-guard, but they might make a run for it.
+p702
+sg8
+VBARTLET
+p703
+sg10
+g11
+sa(dp704
+g6
+VFor a moment there I was worried.
+p705
+sg8
+VABBEY
+p706
+sg10
+g11
+sa(dp707
+g6
+VHey.
+p708
+sg8
+VC.J.
+p709
+sg10
+g11
+sa(dp710
+g6
+VI nabbed the last two packages of crackers out of the machine. It was that, or an old egg salad sandwich.
+p711
+sg8
+VC.J.
+p712
+sg10
+g11
+sa(dp713
+g6
+VI thought you went home.
+p714
+sg8
+VTOBY
+p715
+sg10
+g11
+sa(dp716
+g6
+VAnd pass up the Sixteenth Street smorgasbord? I wouldn't have been able to sleep anyway. Catching up on some work.
+p717
+sg8
+VC.J.
+p718
+sg10
+g11
+sa(dp719
+g6
+VHere. You'll need some water. Maybe a fire hose.
+p720
+sg8
+VC.J.
+p721
+sg10
+g11
+sa(dp722
+g6
+VOr a local reservoir.
+p723
+sg8
+VTOBY
+p724
+sg10
+g11
+sa(dp725
+g6
+VHow the hell do we always get dragged into these things? Why can't I just sit on my patio, barbeque some chicken, and drink my Diet Dr. Pepper in peace. You going to finish those?
+p726
+sg8
+VC.J.
+p727
+sg10
+g11
+sa(dp728
+g6
+VBe my guest.
+p729
+sg8
+VTOBY
+p730
+sg10
+g11
+sa(dp731
+g6
+VDo you ever look around and say if we're the ones in charge, this country's in a hell of a lot of trouble?
+p732
+sg8
+VC.J.
+p733
+sg10
+g11
+sa(dp734
+g6
+VUntil I spend time with the other guys.
+p735
+sg8
+VTOBY
+p736
+sg10
+g11
+sa(dp737
+g6
+VThey got a phone to Farad. The President's talking to him now.
+p738
+sg8
+VWILL
+p739
+sg10
+g11
+sa(dp740
+g6
+VI'm afraid that's unacceptable, Mr. Chairman. If your security forces were to capture Nasan, we want him turned over to us.
+p741
+sg8
+VBARTLET
+p742
+sg10
+g11
+sa(dp743
+g6
+VThe territories aren't a state.
+p744
+sg8
+VLEO
+p745
+sg10
+g11
+sa(dp746
+g6
+VTrying Nasan in an American court shows there are other means of seeking justice than Israeli missile strikes.
+p747
+sg8
+VBARTLET
+p748
+sg10
+g11
+sa(dp749
+g6
+VWhat Palestinian court? It three guys with loaded pistols and a magic eight ball.
+p750
+sg8
+VTOBY
+p751
+sg10
+g11
+sa(dp752
+g6
+VMr. Chairman, capturing Nasan and then turning him over to us would demonstrate to the Israelis and the world that you're tough on terror. That you know the difference between fighting for the Palestinian cause and randomly attacking Americans.
+p753
+sg8
+VBARTLET
+p754
+sg10
+g11
+sa(dp755
+g6
+VAmericans were killed, Mr. Chairman. This falls under our jurisdiction. Even if you were to detain Nasan, we would ask that you extradite him. [pause] Mr. Chairman?
+p756
+sg8
+VBARTLET
+p757
+sg10
+g11
+sa(dp758
+g6
+VThere won't be any talks if Khalil Nasan isn't delivered into United States custody.
+p759
+sg8
+VBARTLET
+p760
+sg10
+g11
+sa(dp761
+g6
+VMr. Chairman, if your security forces were to detain Nasan and then turn him over to us secretly, we'd be happy to say that he was apprehended by the FBI. [pause] Mr. Chairman?
+p762
+sg8
+VBARTLET
+p763
+sg10
+g11
+sa(dp764
+g6
+VAnd you'll seriously consider it?
+p765
+sg8
+VBARTLET
+p766
+sg10
+g11
+sa(dp767
+g6
+VThank you for your time, Mr. Chairman.
+p768
+sg8
+VBARTLET
+p769
+sg10
+g11
+sa(dp770
+g6
+VWas that a yes or a no?
+p771
+sg8
+VC.J.
+p772
+sg10
+g373
+sa(dp773
+g6
+VMembers of my government? I think he was talking about two sock puppets and a beanie baby.
+p774
+sg8
+VWILL
+p775
+sg10
+g11
+sa(dp776
+g6
+VHe won't do it. He can't do it.
+p777
+sg8
+VTOBY
+p778
+sg10
+g11
+sa(dp779
+g6
+VSounded like he was considering it.
+p780
+sg8
+VKATE
+p781
+sg10
+g11
+sa(dp782
+g6
+VHe was distracted, looking up Nasan's number so he can warn him to get the hell out of Gaza.
+p783
+sg8
+VWILL
+p784
+sg10
+g11
+sa(dp785
+g6
+VThere's no evidence linking Nasan to Farad or his government.
+p786
+sg8
+VKATE
+p787
+sg10
+g11
+sa(dp788
+g6
+VThat's only because we haven't interrogated him yet.
+p789
+sg8
+VWILL
+p790
+sg10
+g11
+sa(dp791
+g6
+VSo now all Palestinians are terrorists?
+p792
+sg8
+VKATE
+p793
+sg10
+g11
+sa(dp794
+g6
+VIf the kaffiat fits...
+p795
+sg8
+VWILL
+p796
+sg10
+g11
+sa(dp797
+g6
+VThat's enough. Thank you, everybody. Go home, try to get some sleep.
+p798
+sg8
+VLEO
+p799
+sg10
+g11
+sa(dp800
+g6
+VNow what?
+p801
+sg8
+VLEO
+p802
+sg10
+g11
+sa(dp803
+g6
+VWe wait.
+p804
+sg8
+VBARTLET
+p805
+sg10
+g11
+sa(dp806
+g6
+VThe Lincoln battle group is almost...
+p807
+sg8
+VLEO
+p808
+sg10
+g11
+sa(dp809
+g6
+VWe wait, Leo.
+p810
+sg8
+VBARTLET
+p811
+sg10
+g11
+sa(dp812
+g6
+VSo you fly halfway around the world at a moment's notice to rush to a woman's beside when the White House is facing off a biblical apocalypse?
+p813
+sg8
+VCOLIN
+p814
+sg10
+g11
+sa(dp815
+g6
+VWe work together.
+p816
+sg8
+VJOSH
+p817
+sg10
+g11
+sa(dp818
+g6
+VPast alliances gone bad or tragically unconsummated love kept at arm's length by puritanical American workplace ethics.
+p819
+sg8
+VCOLIN
+p820
+sg10
+g11
+sa(dp821
+g6
+VWhat are you talking about?
+p822
+sg8
+VJOSH
+p823
+sg10
+g11
+sa(dp824
+g6
+VThere was this girl when I was 16. No, 17.
+p825
+sg8
+VCOLIN
+p826
+sg10
+g373
+sa(dp827
+g6
+VSo, you're a bagman for the IRA?
+p828
+sg8
+VJOSH
+p829
+sg10
+g11
+sa(dp830
+g6
+VShe was mad about me, worshipped me, really, and I liked her, but I was off to the University in Dublin and she was going to stay in Belfast, work in a night shop.
+p831
+sg8
+VCOLIN
+p832
+sg10
+g11
+sa(dp833
+g6
+VThis is taking too long. Isn't this taking too long?
+p834
+sg8
+VJOSH
+p835
+sg10
+g11
+sa(dp836
+g6
+VShe wrote to me every single day, and she called weekends and she was always there. And I took her for granted, you know?
+p837
+sg8
+VCOLIN
+p838
+sg10
+g11
+sa(dp839
+g6
+VMr. Lyman.
+p840
+sg8
+VDOCTOR
+p841
+sg10
+g11
+sa(dp842
+g6
+VHow's she doing?
+p843
+sg8
+VJOSH
+p844
+sg10
+g11
+sa(dp845
+g6
+VWe encountered a few difficulties during the procedure. She lost a substantial amount of blood. We had to transfuse and call in a vascular surgeon to repair the tear.
+p846
+sg8
+VDOCTOR
+p847
+sg10
+g11
+sa(dp848
+g6
+VIs she going to be all right?
+p849
+sg8
+VCOLIN
+p850
+sg10
+g11
+sa(dp851
+g6
+VShe's still unconscious. As soon as she's stable we'll send her off for an MRI. Between the anemia and the low blood pressure she may have suffered hypoxic brain injury. Decreased oxygen delivery can result in brain damage.
+p852
+sg8
+VDOCTOR
+p853
+sg10
+g11
+sa(dp854
+g6
+VThey had to do some sort of operation and there were complications. I spoke to Josh. He was pretty upset.
+p855
+sg8
+VLEO
+p856
+sg10
+g11
+sa(dp857
+g6
+VCan you get me Donna's parents?
+p858
+sg8
+VBARTLET
+p859
+sg10
+g11
+sa(dp860
+g6
+VYes, sir.
+p861
+sg8
+VCHARLIE
+p862
+sg10
+g60
+sa(dp863
+g6
+VWe've heard nothing from Chairman Farad for over seven hours. General Alexander is waiting in the Sit Room. The Lincoln Carrier group is in place.
+p864
+sg8
+VLEO
+p865
+sg10
+g11
+sa(dp866
+g6
+VExcuse me, Mr. President.
+p867
+sg8
+VGEORGE
+p868
+sg10
+g11
+sa(dp869
+g6
+VWhat do you need, George?
+p870
+sg8
+VLEO
+p871
+sg10
+g11
+sa(dp872
+g6
+VOur FBI team in Gaza was just contacted by the Palestinian security forces. They have Khalil Nasan in custody and they'd like to turn him over to us.
+p873
+sg8
+VGEORGE
+p874
+sg10
+g11
+sa(dp875
+g6
+VDid it pass?
+p876
+sg8
+VLEO
+p877
+sg10
+g11
+sa(dp878
+g6
+VHouse was 317 to 116; Senate was 62 to 37. [reading] 'Whereas acts of treacherous and unprovoked violence have been committed against United States citizens.'
+p879
+sg8
+VTOBY
+p880
+sg10
+g11
+sa(dp881
+g6
+VJust skip ahead to the parts that are gonna piss me off.
+p882
+sg8
+VLEO
+p883
+sg10
+g11
+sa(dp884
+g6
+VThat's gonna be all of it, really. [reading] 'Whereas an action further threatens the national security of these United States, and there can be no meaningful peace in the Middle East so long as such acts are sanctioned and committed.'
+p885
+sg8
+VTOBY
+p886
+sg10
+g11
+sa(dp887
+g6
+VHere it comes.
+p888
+sg8
+VLEO
+p889
+sg10
+g11
+sa(dp890
+g6
+V[reading] 'And whereas the President has both the authority and the imperative to address and prevent such acts of terror against the United States.'
+p891
+sg8
+VTOBY
+p892
+sg10
+g11
+sa(dp893
+g6
+V'The President has both the authority and the imperative'?
+p894
+sg8
+VLEO
+p895
+sg10
+g11
+sa(dp896
+g6
+VThat doesn't sound so bad.
+p897
+sg8
+VCHARLIE
+p898
+sg10
+g11
+sa(dp899
+g6
+VIt's the Oxford Debating Society's way of telling the President to get off his ass and do something, you feckless wimp.
+p900
+sg8
+VTOBY
+p901
+sg10
+g11
+sa(dp902
+g6
+VIs she here?
+p903
+sg8
+VBARTLET
+p904
+sg10
+g11
+sa(dp905
+g6
+VYes, sir. And the Prime Minister is waiting for your call in Tel Aviv.
+p906
+sg8
+VCHARLIE
+p907
+sg10
+g11
+sa(dp908
+g6
+VIt passed?
+p909
+sg8
+VBARTLET
+p910
+sg10
+g11
+sa(dp911
+g6
+VYes, sir.
+p912
+sg8
+VTOBY
+p913
+sg10
+g60
+sa(dp914
+g6
+VHow many Democrats against us?
+p915
+sg8
+VBARTLET
+p916
+sg10
+g11
+sa(dp917
+g6
+VToo many.
+p918
+sg8
+VTOBY
+p919
+sg10
+g11
+sa(dp920
+g6
+VBut we swept the Vermont delegation, am I right?
+p921
+sg8
+VBARTLET
+p922
+sg10
+g11
+sa(dp923
+g6
+VActually, no.
+p924
+sg8
+VTOBY
+p925
+sg10
+g11
+sa(dp926
+g6
+V'Both the authority and the imperative'?
+p927
+sg8
+VBARTLET
+p928
+sg10
+g11
+sa(dp929
+g6
+VYes, sir.
+p930
+sg8
+VTOBY
+p931
+sg10
+g60
+sa(dp932
+g6
+VThey want peace, but I have to blow something up first?
+p933
+sg8
+VBARTLET
+p934
+sg10
+g11
+sa(dp935
+g6
+VI think they're willing to haggle on the peace part.
+p936
+sg8
+VLEO
+p937
+sg10
+g11
+sa(dp938
+g6
+VThat usually work in the past?
+p939
+sg8
+VBARTLET
+p940
+sg10
+g11
+sa(dp941
+g6
+VHow's my tie?
+p942
+sg8
+VBARTLET
+p943
+sg10
+g11
+sa(dp944
+g6
+VI would have gone with the blue, sir.
+p945
+sg8
+VKATE
+p946
+sg10
+g11
+sa(dp947
+g6
+VCharlie, get the Prime Minister on the phone. Ms. Harper, head on in and look unhappy.
+p948
+sg8
+VBARTLET
+p949
+sg10
+g11
+sa(dp950
+g6
+VToby, I want you to call every Democrat that supported this resolution and tell them that if they ever want White House support for another rubber-chicken fundraiser, they had better start singing a rousing chorus of 'Hail to the Chief'.
+p951
+sg8
+VBARTLET
+p952
+sg10
+g11
+sa(dp953
+g6
+VLeo, head down to the Sit Room and tell the generals to keep their pistols in there pockets for the time being. You don't believe in this, Leo, and they're not going to want to do it. I can't have them picking up any signals from you that we disagree.
+p954
+sg8
+VBARTLET
+p955
+sg10
+g11
+sa(dp956
+g6
+VNo, sir.
+p957
+sg8
+VLEO
+p958
+sg10
+g11
+sa(dp959
+g6
+VSo, uh, Fields voted for it?
+p960
+sg8
+VJOSH
+p961
+sg10
+g11
+sa(dp962
+g6
+VWow! Goffman?
+p963
+sg8
+VJOSH
+p964
+sg10
+g11
+sa(dp965
+g6
+VDonna any better?
+p966
+sg8
+VTOBY
+p967
+sg10
+g11
+sa(dp968
+g6
+VYou're on with Josh?
+p969
+sg8
+VC.J.
+p970
+sg10
+g11
+sa(dp971
+g6
+VThey can't tell if there's neurological damage for a couple of days.
+p972
+sg8
+VJOSH
+p973
+sg10
+g11
+sa(dp974
+g6
+VHow is she?
+p975
+sg8
+VC.J.
+p976
+sg10
+g11
+sa(dp977
+g6
+VThey won't know anything for a couple of days.
+p978
+sg8
+VTOBY
+p979
+sg10
+g11
+sa(dp980
+g6
+VSir?
+p981
+sg8
+VNURSE
+p982
+sg10
+g11
+sa(dp983
+g6
+VOh, God, really? I don't have a pacemaker or anything.
+p984
+sg8
+VJOSH
+p985
+sg10
+g11
+sa(dp986
+g6
+VTurn it off know, sir.
+p987
+sg8
+VNURSE
+p988
+sg10
+g11
+sa(dp989
+g6
+VOK, sure, Lieutenant.
+p990
+sg8
+VJOSH
+p991
+sg10
+g373
+sa(dp992
+g6
+VNurse Ratchett. I got to hang up. I'll call back in a couple hours.
+p993
+sg8
+VJOSH
+p994
+sg10
+g11
+sa(dp995
+g6
+VThe Palestinian Authority has detained Khalil Nasan and is prepared to turn him over to our FBI.
+p996
+sg8
+VBARTLET
+p997
+sg10
+g11
+sa(dp998
+g6
+VIt's a show of good faith on Chairman Farad's part; an example of his renewed willingness to address the peace process. Mr. Prime Minister, the territories are undermining your legitimacy as a modern Democracy and sapping your moral authority in the eyes of the world.
+p999
+sg8
+VBARTLET
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VSir, you cannot hold yourself out as the Promised Land while occupying the territories and oppressing other peoples.
+p1002
+sg8
+VBARTLET
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VSir, Chairman Farad says you're almost done building the fence in the West Bank. He's about to lose half the Jordan Valley to unilateral settlements.
+p1005
+sg8
+VKATE
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VIf you agree to come to a summit with Farad and he still refuses to reach an agreement, the United States is willing to publicly support Israeli actions to secure your homeland, including the building of the fence. [pause] Eli, why not sit down and talk again?
+p1008
+sg8
+VBARTLET
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VThank you, Mr. Prime Minister.
+p1011
+sg8
+VBARTLET
+p1012
+sg10
+g60
+sa(dp1013
+g6
+VMadame Ambassador.
+p1014
+sg8
+VBARTLET
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VMr. President.
+p1017
+sg8
+VGALIT
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VI think we've got ourselves a ballgame.
+p1020
+sg8
+VBARTLET
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VHave you ever been to NSF Thurmont before?
+p1023
+sg8
+VTOBY
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VCamp David? No, I haven't.
+p1026
+sg8
+VKATE
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VEver been on Marine One?
+p1029
+sg8
+VTOBY
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VNo, I haven't.
+p1032
+sg8
+VKATE
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VYou like helicopters?
+p1035
+sg8
+VTOBY
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VNo, not really. I get airsick.
+p1038
+sg8
+VKATE
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VOkay, you can sit with Will.
+p1041
+sg8
+VTOBY
+p1042
+sg10
+g60
+sa(dp1043
+g6
+VI want you to stay here, hold down the fort. I'll call you when things heat up.
+p1044
+sg8
+VBARTLET
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VOf course, Mr. President.
+p1047
+sg8
+VLEO
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VYou still think this is a mistake?
+p1050
+sg8
+VBARTLET
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VYes, sir, I do.
+p1053
+sg8
+VLEO
+p1054
+sg10
+g60
+sa(dp1055
+g6
+VAs soon as the Palestinian delegation is on the ground at Andrews, give Alexander the go.
+p1056
+sg8
+VBARTLET
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VSir?
+p1059
+sg8
+VLEO
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VTell the general to hit the Ein Hawa camps near Damascus.
+p1062
+sg8
+VBARTLET
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VWhat about Iran?
+p1065
+sg8
+VLEO
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VI looked at the Intel file. I'm still not convinced. You get something more, show it to me and we'll discuss it.
+p1068
+sg8
+VBARTLET
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VThank you, Mr. President.
+p1071
+sg8
+VLEO
+p1072
+sg10
+g60
+sa(dp1073
+g6
+VWill Bailey.
+p1074
+sg8
+VWILL
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VAnd missiles and marshmallows.
+p1077
+sg8
+VWILL
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VThe President loves a good camp fire. I should warn you: all his horror stories are about the Crusades.
+p1080
+sg8
+VC.J.
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VThe Palestinians are wheels-up.
+p1083
+sg8
+VC.J.
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VLeo's looking for you.
+p1086
+sg8
+VCAROL
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VTry and get him up at Camp David.
+p1089
+sg8
+VC.J.
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VHe's not at Camp David. He's in his office.
+p1092
+sg8
+VCAROL
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VI thought you went up yesterday with the President.
+p1095
+sg8
+VC.J.
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VCouple of loose ends. We want the Press Corps down here.
+p1098
+sg8
+VLEO
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VWe're not going to the Cozy Inn?
+p1101
+sg8
+VC.J.
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VThe President doesn't want either side negotiating in print. You walk them through a daily schedule and that's it.
+p1104
+sg8
+VLEO
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VNo pool spray?
+p1107
+sg8
+VC.J.
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VThey go to Camp David, all they're going to get is shots of tinted windows and enough furrowed brows to start a Yiddish theater group.
+p1110
+sg8
+VLEO
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VThey're ready for you.
+p1113
+sg8
+VMARGARET
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VWe might have an announcement in a couple of hours.
+p1116
+sg8
+VLEO
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VWhat announcement?
+p1119
+sg8
+VC.J.
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VI'll find you when it's time.
+p1122
+sg8
+VLEO
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VHow far?
+p1125
+sg8
+VKATE
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VI only have legs for five miles.
+p1128
+sg8
+VWILL
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VBuy a carton of Luckys, you can stay in bed next time.
+p1131
+sg8
+VKATE
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VSo much for permanent press. The prep groups about to start up on the lower porch.
+p1134
+sg8
+VKATE
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VMr. President, they're on their way.
+p1137
+sg8
+VCHARLIE
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VDid you come to a consensus?
+p1140
+sg8
+VABBEY
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VOnly that Toby would give half his salary for piece of asphalt he could use to pummel the State Department.
+p1143
+sg8
+VBARTLET
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VYou're making a mess of it. Give me that. What's the sticking point?
+p1146
+sg8
+VABBEY
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VWhat isn't? If we can't agree, how do we expect them to?
+p1149
+sg8
+VBARTLET
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VThe Israelis just cleared our airspace.
+p1152
+sg8
+VCHARLIE
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VOkay.
+p1155
+sg8
+VABBEY
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VGo get 'em, Cassius.
+p1158
+sg8
+VABBEY
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VThank you.
+p1161
+sg8
+VBARTLET
+p1162
+sg10
+g60
+sa(dp1163
+g6
+VMr. Prime Minister, welcome and thank you for coming.
+p1164
+sg8
+VBARTLET
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VMr. President.
+p1167
+sg8
+VZAHAVY
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VMaya. Good to see you again.
+p1170
+sg8
+VBARTLET
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VMr. President.
+p1173
+sg8
+VGALIT
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VMadame Galit.
+p1176
+sg8
+VBARTLET
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VHave you met Defense Minister Massar?
+p1179
+sg8
+VGALIT
+p1180
+sg10
+g60
+sa(dp1181
+g6
+VWhere are we, General?
+p1182
+sg8
+VLEO
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VSpecial Forces are in place to paint the targets; the planes are on the deck.
+p1185
+sg8
+VALEXANDER
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VFirst wave includes radar-jamming Prowlers, the Hawkeye, in-flight refueling, and an ST Viking.
+p1188
+sg8
+VALEXANDER
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VHow long till they reach the targets?
+p1191
+sg8
+VLEO
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VThey're at Mach 1.7, they'll be dropping ordinance in 90 minutes.
+p1194
+sg8
+VALEXANDER
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VRound Two.
+p1197
+sg8
+VBARTLET
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VPrime Minister Mukarat, thank you so much for coming.
+p1200
+sg8
+VBARTLET
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VMy pleasure.
+p1203
+sg8
+VMUKARAT
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VChairman Farad, welcome.
+p1206
+sg8
+VBARTLET
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VMr. President.
+p1209
+sg8
+VFARAD
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VChairman.
+p1212
+sg8
+VABBEY
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VPlease join us here.
+p1215
+sg8
+VBARTLET
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VThey're 30 minutes out, sir. Do we have the go? That's a go. You going up to Camp David later?
+p1218
+sg8
+VALEXANDER
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VMaybe tomorrow.
+p1221
+sg8
+VLEO
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VIf you don't mind my saying so, sir, I hope the President knows how lucky he is to have you.
+p1224
+sg8
+VALEXANDER
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VLadies and Gentlemen, thank you for coming.
+p1227
+sg8
+VBARTLET
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VJosh?
+p1230
+sg8
+VDONNA
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VJosh? Josh.
+p1233
+sg8
+VDONNA
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VHey, you're awake. Your mom is here. Colin took her downstairs for some... I don't know, some schnitzel, or something.
+p1236
+sg8
+VJOSH
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VYou're still here.
+p1239
+sg8
+VDONNA
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VYeah. I'm still here.
+p1242
+sg8
+VJOSH
+p1243
+sg10
+g373
+sas.

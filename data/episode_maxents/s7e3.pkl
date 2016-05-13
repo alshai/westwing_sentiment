@@ -1,0 +1,4103 @@
+(dp0
+S'season'
+p1
+I7
+sS'episode'
+p2
+I3
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VAnd that's why Ray Sullivan and I are working so hard to take back the White House for the Republican Party. And with your help, we're gonna do it!
+p7
+sS'character'
+p8
+VVINICK
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VBig Sur is on the move. Secure Room ready?
+p13
+sg8
+VAGENT
+p14
+sg10
+g11
+sa(dp15
+g6
+VHi. Good to see you. How are you? Hi. How are you?
+p16
+sg8
+VVINICK
+p17
+sg10
+g11
+sa(dp18
+g6
+VSantos picked up two points in our tracking poll.
+p19
+sg8
+VDAN
+p20
+sg10
+g11
+sa(dp21
+g6
+VSenator. This is the Secure Room, sir.
+p22
+sg8
+VAGENT
+p23
+sg10
+g11
+sa(dp24
+g6
+VPerfect.
+p25
+sg8
+VVINICK
+p26
+sg10
+g11
+sa(dp27
+g6
+VMorning, Senator. I'm Charles Frost and I'll be handling your daily intelligence briefing.
+p28
+sg8
+VFROST
+p29
+sg10
+g11
+sa(dp30
+g6
+VAre you with the Agency or the NSC?
+p31
+sg8
+VVINICK
+p32
+sg10
+g11
+sa(dp33
+g6
+VWell, actually, I am an Agency employee, but I have been assigned to the NSC for the last six months, so technically, I...
+p34
+sg8
+VFROST
+p35
+sg10
+g11
+sa(dp36
+g6
+VGreat. You mind if I multitask?
+p37
+sg8
+VVINICK
+p38
+sg10
+g11
+sa(dp39
+g6
+VGo ahead.
+p40
+sg8
+VVINICK
+p41
+sg10
+g11
+sa(dp42
+g6
+VWell, there's a situation in Kazakhstan
+p43
+sg8
+VFROST
+p44
+sg10
+g11
+sa(dp45
+g6
+VHe should resign the Senate now so we can't be forced into any more difficult votes.
+p46
+sg8
+VBRUNO
+p47
+sg10
+g11
+sa(dp48
+g6
+VHe'd be breaking his promise to Californian voters to serve his full six-year term.
+p49
+sg8
+VSHEILA
+p50
+sg10
+g11
+sa(dp51
+g6
+VWe've already got enough problems with his voting record.
+p52
+sg8
+VBRUNO
+p53
+sg10
+g11
+sa(dp54
+g6
+VHey, I'm proud of my voting record. Well, most of it. I'd quit the Senate in a second if I thought it'd help us win. Now it would just look like a cheap stunt.
+p55
+sg8
+VVINICK
+p56
+sg10
+g11
+sa(dp57
+g6
+VI'm just saying...
+p58
+sg8
+VBRUNO
+p59
+sg10
+g11
+sa(dp60
+g6
+VForget it. I'm not quitting the Senate.
+p61
+sg8
+VVINICK
+p62
+sg10
+g11
+sa(dp63
+g6
+VWe'll just have to turn the Senate into an advantage.
+p64
+sg8
+VSHEILA
+p65
+sg10
+g11
+sa(dp66
+g6
+VNo senator has won the Presidency since 1960. There is a reason for that.
+p67
+sg8
+VBRUNO
+p68
+sg10
+g11
+sa(dp69
+g6
+VSheila, will you please tell Bruno that when I make a decision, that's the end of the discussion.
+p70
+sg8
+VVINICK
+p71
+sg10
+g11
+sa(dp72
+g6
+VFraternal Order of Police.
+p73
+sg8
+VSHEILA
+p74
+sg10
+g11
+sa(dp75
+g6
+VIt's only a couple of blocks, but the Secret Service wanted us to drive.
+p76
+sg8
+VBRUNO
+p77
+sg10
+g11
+sa(dp78
+g6
+VDo I give them the stump?
+p79
+sg8
+VVINICK
+p80
+sg10
+g11
+sa(dp81
+g6
+VThe stump plus.
+p82
+sg8
+VSHEILA
+p83
+sg10
+g11
+sa(dp84
+g6
+VHomeland Security, the death penalty... a little extra law and order.
+p85
+sg8
+VSHEILA
+p86
+sg10
+g11
+sa(dp87
+g6
+VAre they ever going to stop showing these shots of Santos in uniform?
+p88
+sg8
+VVINICK
+p89
+sg10
+g11
+sa(dp90
+g6
+VThat's what I call a stunt.
+p91
+sg8
+VBRUNO
+p92
+sg10
+g11
+sa(dp93
+g6
+VYeah? Pretty great stunt.
+p94
+sg8
+VVINICK
+p95
+sg10
+g11
+sa(dp96
+g6
+VYou're going to be surrounded by uniforms today, too.
+p97
+sg8
+VSHEILA
+p98
+sg10
+g11
+sa(dp99
+g6
+VYeah, except I won't be wearing one.
+p100
+sg8
+VVINICK
+p101
+sg10
+g11
+sa(dp102
+g6
+VOkay, got to go.
+p103
+sg8
+VBRUNO
+p104
+sg10
+g11
+sa(dp105
+g6
+VHey, Leon; this is Bruno.
+p106
+sg8
+VVINICK
+p107
+sg10
+S'negative'
+p108
+sa(dp109
+g6
+VIn six short years in the House of Representatives, Congressman Matthew Santos has voted for higher taxes 47 times.
+p110
+sg8
+VSPEAKER
+p111
+sg10
+g11
+sa(dp112
+g6
+VMust be his committee votes against all the tax cut amendments.
+p113
+sg8
+VVINICK
+p114
+sg10
+g11
+sa(dp115
+g6
+V... so it's no surprise that Matt Santos opposes the tax cut that Arnold Vinick thinks you deserve. How much will Matt Santos...?
+p116
+sg8
+VSPEAKER
+p117
+sg10
+g11
+sa(dp118
+g6
+VIs this all you guys know how to do? Attack ads?
+p119
+sg8
+VBRUNO
+p120
+sg10
+g11
+sa(dp121
+g6
+VHey...
+p122
+sg8
+VLEON
+p123
+sg10
+g11
+sa(dp124
+g6
+VHave you seen any of the ads I've written for this campaign? Anyone with half a brain...
+p125
+sg8
+VBRUNO
+p126
+sg10
+g11
+sa(dp127
+g6
+VLeon's not with the RNC. He's one of us. He ran my California operations for years.
+p128
+sg8
+VVINICK
+p129
+sg10
+g11
+sa(dp130
+g6
+VAnd I don't write TV ads. I leave that for the people with half a brain.
+p131
+sg8
+VLEON
+p132
+sg10
+g11
+sa(dp133
+g6
+VHave Sheila go over to party headquarters and tell them again we're not going negative. Yet.
+p134
+sg8
+VVINICK
+p135
+sg10
+g11
+sa(dp136
+g6
+VThey get that, they just don't think you mean they shouldn't go negative either.
+p137
+sg8
+VLEON
+p138
+sg10
+g11
+sa(dp139
+g6
+VThe press knows you get to approve party ads.
+p140
+sg8
+VBRUNO
+p141
+sg10
+g11
+sa(dp142
+g6
+VIt's a good ad.
+p143
+sg8
+VVINICK
+p144
+sg10
+g11
+sa(dp145
+g6
+VIt's a great ad; if you're ten points down.
+p146
+sg8
+VBRUNO
+p147
+sg10
+g11
+sa(dp148
+g6
+VSantos is gaining on us.
+p149
+sg8
+VVINICK
+p150
+sg10
+g11
+sa(dp151
+g6
+VReserve duty sure worked.
+p152
+sg8
+VLEON
+p153
+sg10
+g108
+sa(dp154
+g6
+VYou still have a lock on the Electoral College. A Democrat can't win without California and most of this country can't imagine Matt Santos as President.
+p155
+sg8
+VBRUNO
+p156
+sg10
+g11
+sa(dp157
+g6
+V'Cause he's Latino?
+p158
+sg8
+VLEON
+p159
+sg10
+g11
+sa(dp160
+g6
+VLatino, inexperienced - take your pick. You don't need this ad.
+p161
+sg8
+VBRUNO
+p162
+sg10
+g11
+sa(dp163
+g6
+VTell the RNC to shelve this one for now. But if Santos says one word about my voting record - just one word - tell the RNC to carpet-bomb the swing states with that ad. I've got to go kiss some babies.
+p164
+sg8
+VVINICK
+p165
+sg10
+g11
+sa(dp166
+g6
+VStronger.
+p167
+sg8
+VBRUNO
+p168
+sg10
+g11
+sa(dp169
+g6
+VI'm Arnold Vinick, and I approved this message.
+p170
+sg8
+VVINICK
+p171
+sg10
+g11
+sa(dp172
+g6
+VSofter.
+p173
+sg8
+VBRUNO
+p174
+sg10
+g11
+sa(dp175
+g6
+VI'm Arnold Vinick, and I'll be the nicest President, ever, I promise.
+p176
+sg8
+VVINICK
+p177
+sg10
+g11
+sa(dp178
+g6
+VQuiet. Quiet. Everybody, be quiet. Please, Senator, once again.
+p179
+sg8
+VBRUNO
+p180
+sg10
+S'positive'
+p181
+sa(dp182
+g6
+VI'm, uh...
+p183
+sg8
+VVINICK
+p184
+sg10
+g11
+sa(dp185
+g6
+VArnold Vinick.
+p186
+sg8
+VLEON
+p187
+sg10
+g11
+sa(dp188
+g6
+VRight. Thank you, Leon.
+p189
+sg8
+VVINICK
+p190
+sg10
+g181
+sa(dp191
+g6
+VOK, that's it. Out! Everyone, out of here.
+p192
+sg8
+VBRUNO
+p193
+sg10
+g11
+sa(dp194
+g6
+VRelax, Bruno. Let them stay. I'll get it right. I'm Arnold Vinick, and I approved this message.
+p195
+sg8
+VVINICK
+p196
+sg10
+g11
+sa(dp197
+g6
+VGood. One more.
+p198
+sg8
+VBRUNO
+p199
+sg10
+g11
+sa(dp200
+g6
+VI'm Arnold Vinick, and I approved this message. Wait, one more. I'm Arnold Vinick, and I approved this message. I think we got it.
+p201
+sg8
+VVINICK
+p202
+sg10
+g11
+sa(dp203
+g6
+VYep, we got it.
+p204
+sg8
+VBRUNO
+p205
+sg10
+g11
+sa(dp206
+g6
+VWhen's the meeting with the American Christian Assembly?
+p207
+sg8
+VVINICK
+p208
+sg10
+g11
+sa(dp209
+g6
+VWe're still working on it.
+p210
+sg8
+VWOMAN
+p211
+sg10
+g11
+sa(dp212
+g6
+VThey want to do it at their headquarters in  Atlanta; Sheila wants to do it at our headquarters, or on neutral territory.
+p213
+sg8
+VLEON
+p214
+sg10
+g11
+sa(dp215
+g6
+VMaybe in Philadelphia, tomorrow, after the VFW speech.
+p216
+sg8
+VWOMAN
+p217
+sg10
+g11
+sa(dp218
+g6
+VCNN just released a new poll.
+p219
+sg8
+VDAN
+p220
+sg10
+g181
+sa(dp221
+g6
+VOh. A five-point lead?
+p222
+sg8
+VVINICK
+p223
+sg10
+g11
+sa(dp224
+g6
+VEvery poll out there has Santos gaining.
+p225
+sg8
+VLEON
+p226
+sg10
+g11
+sa(dp227
+g6
+VBecause he put on his old uniform for a weekend.
+p228
+sg8
+VVINICK
+p229
+sg10
+g11
+sa(dp230
+g6
+VThere's a three-point margin of error. So really, we could be up by as much as eight.
+p231
+sg8
+VDAN
+p232
+sg10
+g11
+sa(dp233
+g6
+VMargin of error goes both ways. It could be pretty much a tie.
+p234
+sg8
+VLEON
+p235
+sg10
+g11
+sa(dp236
+g6
+VNo time for questions.
+p237
+sg8
+VDAN
+p238
+sg10
+g11
+sa(dp239
+g6
+VA stunt? No, that was... that was devotion to duty. That's what makes the American military the greatest fighting force in the history of the world. And I hope Congressman Santos continues to do his duty when I'm Commander-in-Chief.
+p240
+sg8
+VVINICK
+p241
+sg10
+g11
+sa(dp242
+g6
+VI'll take any sentence that has Santos and do his duty in it.
+p243
+sg8
+VSANTOS
+p244
+sg10
+g11
+sa(dp245
+g6
+VBig mistake. Vinick should have changed the subject.
+p246
+sg8
+VJOSH
+p247
+sg10
+g11
+sa(dp248
+g6
+VLive in Sacremento in five.
+p249
+sg8
+VPRODUCER
+p250
+sg10
+g11
+sa(dp251
+g6
+VYou think the uniform got to him?
+p252
+sg8
+VSANTOS
+p253
+sg10
+g11
+sa(dp254
+g6
+VI know it did.
+p255
+sg8
+VJOSH
+p256
+sg10
+g11
+sa(dp257
+g6
+VOh, no, Bill. Of course it wasn't a stunt. I've always answered my country's call to duty and I always will.
+p258
+sg8
+VSANTOS
+p259
+sg10
+g11
+sa(dp260
+g6
+VYou had to do it, didn't you? You had to take a shot at Santos for getting into that uniform.
+p261
+sg8
+VSHEILA
+p262
+sg10
+g11
+sa(dp263
+g6
+VIt was a cheap stunt. Santos could have delayed his Reserve duty until after the campaign.
+p264
+sg8
+VVINICK
+p265
+sg10
+g11
+sa(dp266
+g6
+VWell, your little quip is keeping the Santos story alive. He's going to get another news cycle out of that cheap stunt. Which, if you ask me, was a pretty great stunt.
+p267
+sg8
+VSHEILA
+p268
+sg10
+g11
+sa(dp269
+g6
+VWe need to be setting the agenda for this campaign. Santos should be chasing me, not the other way around.
+p270
+sg8
+VVINICK
+p271
+sg10
+g11
+sa(dp272
+g6
+VSantos is going to have some good days. You can't let it get to you.
+p273
+sg8
+VBRUNO
+p274
+sg10
+g11
+sa(dp275
+g6
+VSheila, hold on.
+p276
+sg8
+VVINICK
+p277
+sg10
+g11
+sa(dp278
+g6
+VPut this thing on speakerphone.
+p279
+sg8
+VVINICK
+p280
+sg10
+g11
+sa(dp281
+g6
+VGo ahead.
+p282
+sg8
+VLEON
+p283
+sg10
+g11
+sa(dp284
+g6
+VGuy was mayor of Houston; he can't get his cops' endorsement? That's got to drive Santos up the wall.
+p285
+sg8
+VDAN
+p286
+sg10
+g11
+sa(dp287
+g6
+VHave they ever endorsed a Democrat?
+p288
+sg8
+VLEON
+p289
+sg10
+g11
+sa(dp290
+g6
+VThis is going to be a very good week for us, Senator. Maybe next week we can do something.
+p291
+sg8
+VBRUNO
+p292
+sg10
+g11
+sa(dp293
+g6
+VWe've got to shake this up now. This is not business as usual.
+p294
+sg8
+VVINICK
+p295
+sg10
+g11
+sa(dp296
+g6
+VSantos got a polling bump from the Reserve thing. That is gonna disappear just as fast...
+p297
+sg8
+VBRUNO
+p298
+sg10
+g11
+sa(dp299
+g6
+VSantos is not the standard-issue Democratic candidate.
+p300
+sg8
+VVINICK
+p301
+sg10
+g11
+sa(dp302
+g6
+VYeah, he's weaker than the standard-issue Democratic candidate.
+p303
+sg8
+VDAN
+p304
+sg10
+g11
+sa(dp305
+g6
+VMatt Santos is a lot smarter and tougher than you think. We've got to take it to him. We've got to put Santos in a jam. We can't just cross our fingers and hope for the Houston Police Union to do it for us.
+p306
+sg8
+VVINICK
+p307
+sg10
+g11
+sa(dp308
+g6
+VFirst one to go negative is a show of weakness.
+p309
+sg8
+VLEON
+p310
+sg10
+g11
+sa(dp311
+g6
+VI want to knock him off message without ever mentioning his name.
+p312
+sg8
+VVINICK
+p313
+sg10
+g11
+sa(dp314
+g6
+VLook, we can find ways that can surprise him.
+p315
+sg8
+VBRUNO
+p316
+sg10
+g11
+sa(dp317
+g6
+VGo to Hawaii?
+p318
+sg8
+VLEON
+p319
+sg10
+g11
+sa(dp320
+g6
+VTake a vacation? Yeah, that will shock him.
+p321
+sg8
+VBRUNO
+p322
+sg10
+g11
+sa(dp323
+g6
+VGo to a blue state they don't expect us to compete in. Make them waste some money and time in Hawaii.
+p324
+sg8
+VLEON
+p325
+sg10
+g11
+sa(dp326
+g6
+VSantos can read that play.
+p327
+sg8
+VVINICK
+p328
+sg10
+g11
+sa(dp329
+g6
+VGo after the Latino vote?
+p330
+sg8
+VDAN
+p331
+sg10
+g11
+sa(dp332
+g6
+VMm-hmm.
+p333
+sg8
+VBRUNO
+p334
+sg10
+g11
+sa(dp335
+g6
+VDo-do I actually have to say how insane that is?
+p336
+sg8
+VBRUNO
+p337
+sg10
+g11
+sa(dp338
+g6
+VI've always won the Latino vote in California. Why should I give up on that now?
+p339
+sg8
+VVINICK
+p340
+sg10
+g11
+sa(dp341
+g6
+VWell, I don't know. Let me think. Well, maybe because you're running against a Latino candidate who's going to get about 2,000 percent of the Latino vote.
+p342
+sg8
+VBRUNO
+p343
+sg10
+g11
+sa(dp344
+g6
+VWithout ever opening his mouth on Latino issues?
+p345
+sg8
+VVINICK
+p346
+sg10
+g11
+sa(dp347
+g6
+VHe's got the Latino community locked up.
+p348
+sg8
+VLEON
+p349
+sg10
+g11
+sa(dp350
+g6
+VWhat if we just do policy announcements on Latino issues?
+p351
+sg8
+VDAN
+p352
+sg10
+g11
+sa(dp353
+g6
+VBruno, if you're the Santos campaign, how would you respond?
+p354
+sg8
+VVINICK
+p355
+sg10
+g11
+sa(dp356
+g6
+VI don't know.
+p357
+sg8
+VBRUNO
+p358
+sg10
+g11
+sa(dp359
+g6
+VThat's the whole point: knock him off his game. Santos will never know what I'm going to do next.
+p360
+sg8
+VVINICK
+p361
+sg10
+g11
+sa(dp362
+g6
+VIt's too risky. Are we going to look unpredictable or are we going to look desperate?
+p363
+sg8
+VSHEILA
+p364
+sg10
+g11
+sa(dp365
+g6
+VAll right, we're changing the message of the week. We're canceling Philadelphia.
+p366
+sg8
+VVINICK
+p367
+sg10
+g11
+sa(dp368
+g6
+VI am not a veteran of a foreign war. It's going to look like I'm playing Santos's game. Surrounding myself with military people.
+p369
+sg8
+VVINICK
+p370
+sg10
+g11
+sa(dp371
+g6
+VIf you cancel the VFW...
+p372
+sg8
+VSHEILA
+p373
+sg10
+g11
+sa(dp374
+g6
+VCancel it. We regroup at headquarters, tonight. We plan a new message of the week. We're taking it to him, starting right now.
+p375
+sg8
+VVINICK
+p376
+sg10
+g11
+sa(dp377
+g6
+VUh, no. The earliest I can get him back to Cleveland is... let me see... Tuesday. ... No, not tomorrow, next Tuesday. ... Yeah, but Pennsylvania is a swing state, too. It'll take me at least four hours door-to-door to fly the candidate and the traveling press from Pittsburgh to Cleveland.
+p378
+sg8
+VJOSH
+p379
+sg10
+g11
+sa(dp380
+g6
+VI can't do this meeting right now.
+p381
+sg8
+VJOSH
+p382
+sg10
+g11
+sa(dp383
+g6
+VVFW says Vinick just cancelled tomorrow's speech.
+p384
+sg8
+VBRAM
+p385
+sg10
+g11
+sa(dp386
+g6
+VHold on.
+p387
+sg8
+VJOSH
+p388
+sg10
+g11
+sa(dp389
+g6
+VHe cancelled the VFW?
+p390
+sg8
+VJOSH
+p391
+sg10
+g11
+sa(dp392
+g6
+VVFW's offering us the slot if we want it.
+p393
+sg8
+VBRAM
+p394
+sg10
+g11
+sa(dp395
+g6
+VOf course we want it. I'll get him out of New York early; have him in Philadelphia by noon.
+p396
+sg8
+VJOSH
+p397
+sg10
+g11
+sa(dp398
+g6
+VNew CNN poll: Vinick's lead is down to five.
+p399
+sg8
+VBRAM
+p400
+sg10
+g108
+sa(dp401
+g6
+VFive?!
+p402
+sg8
+VJOSH
+p403
+sg10
+g11
+sa(dp404
+g6
+VAnd the Zogby poll just gave us the lead in  Maine.
+p405
+sg8
+VBRAM
+p406
+sg10
+g11
+sa(dp407
+g6
+VWe've got momentum, baby!
+p408
+sg8
+VJOSH
+p409
+sg10
+g11
+sa(dp410
+g6
+VWe've got the big mo!
+p411
+sg8
+VJOSH
+p412
+sg10
+g11
+sa(dp413
+g6
+VUh, okay. If I drive him to Akron, can you guarantee me Cleveland press? ... Great. That's the plan.
+p414
+sg8
+VJOSH
+p415
+sg10
+g11
+sa(dp416
+g6
+VWhy would he cancel the VFW? What is he, sick?
+p417
+sg8
+VJOSH
+p418
+sg10
+g11
+sa(dp419
+g6
+VThey haven't released the schedule for tomorrow yet.
+p420
+sg8
+VBRAM
+p421
+sg10
+g11
+sa(dp422
+g6
+VThey can't have anything better to do. There's nothing better than the VFW if you're a Republican.
+p423
+sg8
+VJOSH
+p424
+sg10
+g11
+sa(dp425
+g6
+VOh, and we got some movement on the debate negotiations.
+p426
+sg8
+VBRAM
+p427
+sg10
+g11
+sa(dp428
+g6
+VYou mean the negotiations about the negotiations?
+p429
+sg8
+VJOSH
+p430
+sg10
+g11
+sa(dp431
+g6
+VRight. The Vinick camp has agreed to our demand.
+p432
+sg8
+VBRAM
+p433
+sg10
+g11
+sa(dp434
+g6
+VNo.
+p435
+sg8
+VJOSH
+p436
+sg10
+g11
+sa(dp437
+g6
+VYeah.
+p438
+sg8
+VBRAM
+p439
+sg10
+g11
+sa(dp440
+g6
+VThey're willing to come here to begin negotiations?
+p441
+sg8
+VJOSH
+p442
+sg10
+g11
+sa(dp443
+g6
+VAnd why is that bad?
+p444
+sg8
+VBRAM
+p445
+sg10
+g11
+sa(dp446
+g6
+VBecause then we don't get to blame them for dragging their feet on debate negotiations.
+p447
+sg8
+VJOSH
+p448
+sg10
+g11
+sa(dp449
+g6
+VThe Zogby poll just came out. Same as CNN.
+p450
+sg8
+VDAN
+p451
+sg10
+g11
+sa(dp452
+g6
+VJosh is going to start pushing the press to do Santos momentum stories.
+p453
+sg8
+VBRUNO
+p454
+sg10
+g11
+sa(dp455
+g6
+VHe ain't got the big mo yet.
+p456
+sg8
+VDAN
+p457
+sg10
+g181
+sa(dp458
+g6
+VHe's got something.
+p459
+sg8
+VBRUNO
+p460
+sg10
+g11
+sa(dp461
+g6
+VWe're losing Maine?
+p462
+sg8
+VBRUNO
+p463
+sg10
+g11
+sa(dp464
+g6
+VZogby poll says Santos pulled ahead by two points in Maine.
+p465
+sg8
+VLEON
+p466
+sg10
+g11
+sa(dp467
+g6
+VI don't give a damn what Zogby says. We change our board when our tracking poll tells us to.
+p468
+sg8
+VBRUNO
+p469
+sg10
+g11
+sa(dp470
+g6
+VHang on.
+p471
+sg8
+VWOMAN
+p472
+sg10
+g11
+sa(dp473
+g6
+VActually, that was... our own tracking in Maine now has Santos ahead by three.
+p474
+sg8
+VWOMAN
+p475
+sg10
+g11
+sa(dp476
+g6
+VGeorge, I'm telling you, he would love to meet with the reverends but there's no way I can pull him off the campaign trail and get him to Atlanta. ... Georgia's not a swing state. He's ahead by 20 points there. ... I understand: the reverends don't want to look like they're begging. ... Right, but you have to understand my position here.
+p477
+sg8
+VSHEILA
+p478
+sg10
+g11
+sa(dp479
+g6
+VI just got you out of a meeting with the reverends.
+p480
+sg8
+VSHEILA
+p481
+sg10
+g11
+sa(dp482
+g6
+VAh, have I told you how much I love you?
+p483
+sg8
+VVINICK
+p484
+sg10
+g11
+sa(dp485
+g6
+VBut you're going to have to do a meeting with George Rohr.
+p486
+sg8
+VSHEILA
+p487
+sg10
+g11
+sa(dp488
+g6
+VThat vicious little... Geez, I'd rather meet with the entire American Christian Assembly.
+p489
+sg8
+VVINICK
+p490
+sg10
+g11
+sa(dp491
+g6
+VNo, you wouldn't. George is a political professional and the reverends follow his advice. You are going to be very nice to him.
+p492
+sg8
+VSHEILA
+p493
+sg10
+g11
+sa(dp494
+g6
+VYou're the devil, aren't you? I have the devil running my campaign, don't I?
+p495
+sg8
+VVINICK
+p496
+sg10
+g11
+sa(dp497
+g6
+VOkay, what do we got?
+p498
+sg8
+VVINICK
+p499
+sg10
+g11
+sa(dp500
+g6
+VWe're changing the message of the week to Immigration issues. It's the last thing Santos wants to talk about. Not just because he's Latino, but also...
+p501
+sg8
+VSHEILA
+p502
+sg10
+g11
+sa(dp503
+g6
+VWould we be doing this if he wasn't Latino?
+p504
+sg8
+VLEON
+p505
+sg10
+g11
+sa(dp506
+g6
+VRepublicans have been going after the Latino vote for years now. You've made a good living helping them do it.
+p507
+sg8
+VSHEILA
+p508
+sg10
+g11
+sa(dp509
+g6
+VThe press is going to ask if you're doing this because he's Latino.
+p510
+sg8
+VLEON
+p511
+sg10
+g11
+sa(dp512
+g6
+VAnd the answer is these are important national issues that belong in this campaign.
+p513
+sg8
+VSHEILA
+p514
+sg10
+g11
+sa(dp515
+g6
+VWe're going to have to do better than that.
+p516
+sg8
+VLEON
+p517
+sg10
+g11
+sa(dp518
+g6
+VWhat's the plan?
+p519
+sg8
+VVINICK
+p520
+sg10
+g11
+sa(dp521
+g6
+VDan.
+p522
+sg8
+VSHEILA
+p523
+sg10
+g11
+sa(dp524
+g6
+VDay 1; tomorrow; policy announcement; double the border patrol. Obviously appeals to our Republican base. A photo-op in El Paso, at the border, and a photo-op with the Minutemen. You know, the civilians who are helping patrol the border down there.
+p525
+sg8
+VDAN
+p526
+sg10
+g11
+sa(dp527
+g6
+VYou mean the vigilantes?
+p528
+sg8
+VLEON
+p529
+sg10
+g11
+sa(dp530
+g6
+VThey're not hurting anybody.
+p531
+sg8
+VDAN
+p532
+sg10
+g11
+sa(dp533
+g6
+VA bunch of nuts patrolling the border with guns? Someone's going to get hurt.
+p534
+sg8
+VLEON
+p535
+sg10
+g11
+sa(dp536
+g6
+VIs there a local chapter of the Klan? Maybe we could do a drop by.
+p537
+sg8
+VBRUNO
+p538
+sg10
+g11
+sa(dp539
+g6
+VThe Minutemen have got a lot of national press. Our base loves them. It's a good photo-op.
+p540
+sg8
+VDAN
+p541
+sg10
+g11
+sa(dp542
+g6
+VOkay.
+p543
+sg8
+VVINICK
+p544
+sg10
+g11
+sa(dp545
+g6
+VWe finish day one with a dinner speech to the El Paso Chamber of Commerce. It's a day of saturation coverage in Texas, a must-win state for Santos.
+p546
+sg8
+VDAN
+p547
+sg10
+g11
+sa(dp548
+g6
+VNext.
+p549
+sg8
+VVINICK
+p550
+sg10
+g11
+sa(dp551
+g6
+VDay two, policy announcement. The Vinick Guest Worker Program. Legal status for illegals already here doing jobs Americans don't want.
+p552
+sg8
+VDAN
+p553
+sg10
+g11
+sa(dp554
+g6
+VOkay, this I like. Good cross-over appeal for Democrats and Independents.
+p555
+sg8
+VBRUNO
+p556
+sg10
+g11
+sa(dp557
+g6
+VEspecially if we sell it as one of our sensible solutions.
+p558
+sg8
+VSHEILA
+p559
+sg10
+g11
+sa(dp560
+g6
+VWe haven't got the events for this one worked out yet. Probably just a speech; not sure where to do it.
+p561
+sg8
+VDAN
+p562
+sg10
+g11
+sa(dp563
+g6
+VWe can do it anywhere. The point is: get it out there and force Santos to respond.
+p564
+sg8
+VSHEILA
+p565
+sg10
+g11
+sa(dp566
+g6
+VBecause he's Latino.
+p567
+sg8
+VLEON
+p568
+sg10
+g11
+sa(dp569
+g6
+VWe're not...
+p570
+sg8
+VSHEILA
+p571
+sg10
+g11
+sa(dp572
+g6
+VThe Latino community is going to know what you're doing.
+p573
+sg8
+VLEON
+p574
+sg10
+g11
+sa(dp575
+g6
+VIt's got to be more than just a speech.
+p576
+sg8
+VVINICK
+p577
+sg10
+g11
+sa(dp578
+g6
+VLike...?
+p579
+sg8
+VDAN
+p580
+sg10
+g11
+sa(dp581
+g6
+VIntroduce a bill.
+p582
+sg8
+VVINICK
+p583
+sg10
+g11
+sa(dp584
+g6
+VIn the Senate?
+p585
+sg8
+VDAN
+p586
+sg10
+g11
+sa(dp587
+g6
+VI still have a job there, don't I?
+p588
+sg8
+VVINICK
+p589
+sg10
+g108
+sa(dp590
+g6
+VIt's a good way to turn the Senate into an advantage.
+p591
+sg8
+VBRUNO
+p592
+sg10
+g11
+sa(dp593
+g6
+VLeon, take the speech over to Leg Counsel's office and have them turn it into legislative language. The details are up to you just make sure it really is one of our sensible solutions. Sheila, start working on getting me co-sponsors and a hearing date. What's day three?
+p594
+sg8
+VVINICK
+p595
+sg10
+g11
+sa(dp596
+g6
+VCentral America Free Trade Agreement.
+p597
+sg8
+VDAN
+p598
+sg10
+g11
+sa(dp599
+g6
+VThat's old news. We passed that... we passed that months ago.
+p600
+sg8
+VVINICK
+p601
+sg10
+g11
+sa(dp602
+g6
+VSantos has a problem with it.
+p603
+sg8
+VDAN
+p604
+sg10
+g11
+sa(dp605
+g6
+VWhat, did he split with the Democrats on it?
+p606
+sg8
+VVINICK
+p607
+sg10
+g11
+sa(dp608
+g6
+VWorse. He split with himself.
+p609
+sg8
+VSHEILA
+p610
+sg10
+g11
+sa(dp611
+g6
+VHe voted for it in committee then voted against it on the floor.
+p612
+sg8
+VDAN
+p613
+sg10
+g11
+sa(dp614
+g6
+VHe's not going to know what hit him.
+p615
+sg8
+VVINICK
+p616
+sg10
+g11
+sa(dp617
+g6
+VAfter the day in Texas we've got to get him back to DC to introduce the Guest Worker bill. That way, we can keep the afternoon and evening schedule we have in Ohio.
+p618
+sg8
+VSHEILA
+p619
+sg10
+g11
+sa(dp620
+g6
+VI'm going to need him back in the studio for another TV spot.
+p621
+sg8
+VBRUNO
+p622
+sg10
+g11
+sa(dp623
+g6
+VI can give him to you for an hour on Friday morning.
+p624
+sg8
+VLEON
+p625
+sg10
+g11
+sa(dp626
+g6
+VGeorge Rohr is here, waiting in the conference room.
+p627
+sg8
+VWOMAN
+p628
+sg10
+g11
+sa(dp629
+g6
+VLet's go.
+p630
+sg8
+VSHEILA
+p631
+sg10
+g11
+sa(dp632
+g6
+VHey, George, how you doing?
+p633
+sg8
+VDAN
+p634
+sg10
+g11
+sa(dp635
+g6
+VGee, you look great. Private sector's been good to you.
+p636
+sg8
+VDAN
+p637
+sg10
+g11
+sa(dp638
+g6
+V"Private sector"? Is that what you guys call religion?
+p639
+sg8
+VROHR
+p640
+sg10
+g11
+sa(dp641
+g6
+VI mean not working for the Speaker anymore, not stuck in the Capitol all night listening to the wit and wisdom of the House of Representatives.
+p642
+sg8
+VDAN
+p643
+sg10
+g11
+sa(dp644
+g6
+VI do thank God for that.
+p645
+sg8
+VROHR
+p646
+sg10
+g11
+sa(dp647
+g6
+VGeorge Rohr is here.
+p648
+sg8
+VSHEILA
+p649
+sg10
+g108
+sa(dp650
+g6
+VIf I win this election, George Rohr never sets foot in the White House. You got that? I mean, not even a tour.
+p651
+sg8
+VVINICK
+p652
+sg10
+g11
+sa(dp653
+g6
+VGeorge is going to try to jam you on judges. You've got to be receptive but not committal. "I would certainly welcome your inputs on judicial appointments, blah-blah-blah.
+p654
+sg8
+VSHEILA
+p655
+sg10
+g11
+sa(dp656
+g6
+VHey, George. Great to see you.
+p657
+sg8
+VVINICK
+p658
+sg10
+g11
+sa(dp659
+g6
+VGood to see you, Senator.
+p660
+sg8
+VROHR
+p661
+sg10
+g11
+sa(dp662
+g6
+VSorry I couldn't make it to Atlanta to meet with the full group, but this campaign schedule is so tight you try to change one hour of it and the whole thing comes apart.
+p663
+sg8
+VVINICK
+p664
+sg10
+g11
+sa(dp665
+g6
+VI understand. We appreciate you taking the time.
+p666
+sg8
+VROHR
+p667
+sg10
+g11
+sa(dp668
+g6
+VWhy don't we clear out the staffs so George and I can talk alone?
+p669
+sg8
+VVINICK
+p670
+sg10
+g11
+sa(dp671
+g6
+VCan I get you anything? I think we might have a couple of slices of pepperoni here.
+p672
+sg8
+VVINICK
+p673
+sg10
+g11
+sa(dp674
+g6
+VI'm good.
+p675
+sg8
+VROHR
+p676
+sg10
+g11
+sa(dp677
+g6
+VSo what's up, George?
+p678
+sg8
+VVINICK
+p679
+sg10
+g11
+sa(dp680
+g6
+VWell, uh, as you can imagine, the Council is very, very concerned about...
+p681
+sg8
+VROHR
+p682
+sg10
+g11
+sa(dp683
+g6
+VSorry. The campaign's the only excuse left for someone my age to eat junk food. Please, go ahead. I'm listening.
+p684
+sg8
+VVINICK
+p685
+sg10
+g11
+sa(dp686
+g6
+VThe Council's just plain worried about judges, Senator. The reverends are all afraid of the kind of judges you'd appoint.
+p687
+sg8
+VROHR
+p688
+sg10
+g11
+sa(dp689
+g6
+VWe're going to need a guarantee on judges; we're going to need...
+p690
+sg8
+VROHR
+p691
+sg10
+g11
+sa(dp692
+g6
+VGeorge, when I'm President I'm going to be very eager for input from you and the group on judicial nominations. I'm going to make the Vice President my point man on judges. You know Ray Sullivan.
+p693
+sg8
+VVINICK
+p694
+sg10
+g11
+sa(dp695
+g6
+VHe's a great man, great governor. He's going to make a great VP.
+p696
+sg8
+VROHR
+p697
+sg10
+g11
+sa(dp698
+g6
+VAnd you know that Ray shares your views on everything that's important to your organization.
+p699
+sg8
+VVINICK
+p700
+sg10
+g11
+sa(dp701
+g6
+VYou mean "to my religion."
+p702
+sg8
+VROHR
+p703
+sg10
+g11
+sa(dp704
+g6
+VYeah.
+p705
+sg8
+VVINICK
+p706
+sg10
+g11
+sa(dp707
+g6
+VWe're not worried about Ray Sullivan. We're worried about you.
+p708
+sg8
+VROHR
+p709
+sg10
+g11
+sa(dp710
+g6
+VRay likes the judges you like and I'm going to rely on Ray's recommendation.
+p711
+sg8
+VVINICK
+p712
+sg10
+g11
+sa(dp713
+g6
+VA pro-life VP making recommendations isn't enough, Senator. We need you to commit to appointing pro-life judges.
+p714
+sg8
+VROHR
+p715
+sg10
+g11
+sa(dp716
+g6
+VLook, Santos voted for partial-birth abortion. At least I'm with you on that.
+p717
+sg8
+VVINICK
+p718
+sg10
+g11
+sa(dp719
+g6
+VReverend Butler and the others think that just means that Santos wants to kill a few hundred more babies a year than you do.
+p720
+sg8
+VROHR
+p721
+sg10
+g11
+sa(dp722
+g6
+VYou think I want to kill babies, George?
+p723
+sg8
+VVINICK
+p724
+sg10
+g11
+sa(dp725
+g6
+VSenator, Santos is closing the gap with you. If our voters stay at home, you lose. I came to tell you how to get our voters. I came here to help you.
+p726
+sg8
+VROHR
+p727
+sg10
+g11
+sa(dp728
+g6
+VOkay. Can we speak confidentially?
+p729
+sg8
+VVINICK
+p730
+sg10
+g11
+sa(dp731
+g6
+VSantos picked up another point in our tracking poll. We're down to a four-point lead.
+p732
+sg8
+VDAN
+p733
+sg10
+g11
+sa(dp734
+g6
+VIf that.
+p735
+sg8
+VLEON
+p736
+sg10
+g11
+sa(dp737
+g6
+VThat's why I want to double the border patrol, double the man-power down here; give you guys what you need to get the job done. The easiest way for a terrorist to get into this country is to cross this border. This isn't just an immigration issue; this is a Homeland Security issue. We have to get control of our borders.
+p738
+sg8
+VVINICK
+p739
+sg10
+g11
+sa(dp740
+g6
+VHey, Vinick just proposed doubling the border patrol at the Mexican border. Any comment?
+p741
+sg8
+VKATIE
+p742
+sg10
+g11
+sa(dp743
+g6
+VNo, I was not surprised that Santos's VFW speech was interrupted by applause 18 times. Matt Santos is a combat veteran who understands...
+p744
+sg8
+VLOU
+p745
+sg10
+g11
+sa(dp746
+g6
+VVinick says the border is a security issue. "Got to stop Al-Queda at the Rio Grande."
+p747
+sg8
+VKATIE
+p748
+sg10
+g11
+sa(dp749
+g6
+VI'll get back to you on that.
+p750
+sg8
+VLOU
+p751
+sg10
+g11
+sa(dp752
+g6
+VReally?
+p753
+sg8
+VKATIE
+p754
+sg10
+g11
+sa(dp755
+g6
+VNo.
+p756
+sg8
+VLOU
+p757
+sg10
+g11
+sa(dp758
+g6
+VVinick's proposing doubling the border patrol.
+p759
+sg8
+VLOU
+p760
+sg10
+g11
+sa(dp761
+g6
+VHmm, how's Vinick going to pay for it if he's cutting taxes?
+p762
+sg8
+VSANTOS
+p763
+sg10
+g11
+sa(dp764
+g6
+VSave it for the debates. We don't need to fan that flame today. You need to keep chipping away at Vinick's lead on national security issues.
+p765
+sg8
+VLOU
+p766
+sg10
+g11
+sa(dp767
+g6
+VYou know he might as well be saying "elect a Latino and there'll be a Mexican family sleeping on your front lawn."
+p768
+sg8
+VSANTOS
+p769
+sg10
+g11
+sa(dp770
+g6
+VDon't let him get to you.
+p771
+sg8
+VLOU
+p772
+sg10
+g11
+sa(dp773
+g6
+VThat's easy for you to say.
+p774
+sg8
+VSANTOS
+p775
+sg10
+g11
+sa(dp776
+g6
+VYeah. You ready for the one-on-ones?
+p777
+sg8
+VLOU
+p778
+sg10
+g11
+sa(dp779
+g6
+VYep.
+p780
+sg8
+VSANTOS
+p781
+sg10
+g11
+sa(dp782
+g6
+VOkay, we picked up another point in our tracking; story of the day: momentum, momentum, momentum.
+p783
+sg8
+VLOU
+p784
+sg10
+g11
+sa(dp785
+g6
+VCome on in, Ellen. This is Ellen Trayers of the Boston Globe.
+p786
+sg8
+VLOU
+p787
+sg10
+g11
+sa(dp788
+g6
+VGood morning, Ellen. Come on in. Have a seat.
+p789
+sg8
+VSANTOS
+p790
+sg10
+g11
+sa(dp791
+g6
+VEllen, every poll shows up closing the gap, gaining momentum. So suddenly you're going to hear all sorts of new proposals from the other side. But what the American people are going to hear from me is a consistent message on national security. I told the VFW today, "Keeping this country safe is my top priority." And I intend on sticking with that.
+p792
+sg8
+VSANTOS
+p793
+sg10
+g11
+sa(dp794
+g6
+VI thought you had to get over to Santos headquarters for debate negotiations.
+p795
+sg8
+VSHEILA
+p796
+sg10
+g11
+sa(dp797
+g6
+VYou have to see this.
+p798
+sg8
+VBRUNO
+p799
+sg10
+g11
+sa(dp800
+g6
+VGet me the Senator.
+p801
+sg8
+VSHEILA
+p802
+sg10
+g11
+sa(dp803
+g6
+VSheila.
+p804
+sg8
+VLEON
+p805
+sg10
+g11
+sa(dp806
+g6
+VYeah.
+p807
+sg8
+VVINICK
+p808
+sg10
+g11
+sa(dp809
+g6
+VJust a heads-up: crazy Internet thing; Drudge is reporting that sources close to the American Christian Assembly...
+p810
+sg8
+VSHEILA
+p811
+sg10
+g11
+sa(dp812
+g6
+VI've got the Minutemen waiting for me here. Can we talk about this later?
+p813
+sg8
+VVINICK
+p814
+sg10
+g11
+sa(dp815
+g6
+VHold off on that denial.
+p816
+sg8
+VVINICK
+p817
+sg10
+g11
+sa(dp818
+g6
+VYou didn't promise them anything, did you?
+p819
+sg8
+VSHEILA
+p820
+sg10
+g11
+sa(dp821
+g6
+VWe'll talk about this later.
+p822
+sg8
+VVINICK
+p823
+sg10
+g11
+sa(dp824
+g6
+VWhat'd he say?
+p825
+sg8
+VBRUNO
+p826
+sg10
+g11
+sa(dp827
+g6
+VNothing.
+p828
+sg8
+VSHEILA
+p829
+sg10
+g11
+sa(dp830
+g6
+VWe've got a problem, right?
+p831
+sg8
+VBRUNO
+p832
+sg10
+g11
+sa(dp833
+g6
+VHi, how are you? Hi. Good to see you.
+p834
+sg8
+VVINICK
+p835
+sg10
+g11
+sa(dp836
+g6
+VHi, how are you?
+p837
+sg8
+VVINICK
+p838
+sg10
+g11
+sa(dp839
+g6
+VWhat's your name?
+p840
+sg8
+VVINICK
+p841
+sg10
+g11
+sa(dp842
+g6
+VHarley Parker.
+p843
+sg8
+VHARLEY
+p844
+sg10
+g181
+sa(dp845
+g6
+VHave you caught anybody yet, Harley?
+p846
+sg8
+VVINICK
+p847
+sg10
+g181
+sa(dp848
+g6
+VWell, there's a lot of publicity about us being out here. So, you know, they're probably going to find another spot to cross.
+p849
+sg8
+VHARLEY
+p850
+sg10
+g11
+sa(dp851
+g6
+VYeah, that's why we've got to get tough about this.
+p852
+sg8
+VVINICK
+p853
+sg10
+g11
+sa(dp854
+g6
+VSenator, are you saying the Minutemen should get tough?
+p855
+sg8
+VREPORTER
+p856
+sg10
+g11
+sa(dp857
+g6
+VWe've got a 2,000-mile border here. And most of it is unprotected most of the time. We can't have real Homeland Security if we can't secure our borders.
+p858
+sg8
+VVINICK
+p859
+sg10
+g11
+sa(dp860
+g6
+VSenator, the Border Patrol has asked the Minutemen to stop operations. Why do you support the Minutemen?
+p861
+sg8
+VREPORTER
+p862
+sg10
+g11
+sa(dp863
+g6
+VI understand why the Minutemen are here. I understand their frustration. And I share their goals. But I agree with the Border Patrol: we should leave law enforcement to the professionals. The Minutemen are showing you why we need to double the Border Patrol. What you see here today is going to continue if the government fails to police this border. We're going to have more and more vigilantes coming here to do it themselves, and that's not the American way.
+p864
+sg8
+VVINICK
+p865
+sg10
+g11
+sa(dp866
+g6
+VThis is a great example of how we can strengthen national security and strengthen our economy at the same time. The Air Force urgently needs more C-17's and the American workers are ready, willing, and able to do the job.
+p867
+sg8
+VSANTOS
+p868
+sg10
+g11
+sa(dp869
+g6
+VSenator Vinick says the men patrolling the Mexican border are vigilantes. Do you agree?
+p870
+sg8
+VELLEN
+p871
+sg10
+g11
+sa(dp872
+g6
+VEllen, I'm here to see the job that these workers are doing for America; how they're doing their part for the economy and for national security.
+p873
+sg8
+VSANTOS
+p874
+sg10
+g11
+sa(dp875
+g6
+VThe C-17 is our most advanced military cargo...
+p876
+sg8
+VSANTOS
+p877
+sg10
+g11
+sa(dp878
+g6
+VCongressman, you're from a border state; what do you think we need to do to secure the border?
+p879
+sg8
+VELLEN
+p880
+sg10
+g11
+sa(dp881
+g6
+VI don't see how you can afford to double the border patrol budget if you're going to cut taxes.
+p882
+sg8
+VSANTOS
+p883
+sg10
+g11
+sa(dp884
+g6
+VDoubling the border patrol is not going to solve the problem.
+p885
+sg8
+VSANTOS
+p886
+sg10
+g11
+sa(dp887
+g6
+VCongressman, do you agree with Senator Vinick that the Minutemen are vigilantes.
+p888
+sg8
+VELLEN
+p889
+sg10
+g11
+sa(dp890
+g6
+VYes, I do.
+p891
+sg8
+VSANTOS
+p892
+sg10
+g181
+sa(dp893
+g6
+VWe're ready in the conference room.
+p894
+sg8
+VBRAM
+p895
+sg10
+g11
+sa(dp896
+g6
+VVinick's killing our VFW coverage with his Mexican border junk.
+p897
+sg8
+VJOSH
+p898
+sg10
+g11
+sa(dp899
+g6
+VThey sent Bruno.
+p900
+sg8
+VBRAM
+p901
+sg10
+g11
+sa(dp902
+g6
+VOf course they did.
+p903
+sg8
+VJOSH
+p904
+sg10
+g108
+sa(dp905
+g6
+VWhat are you doing here?
+p906
+sg8
+VJOSH
+p907
+sg10
+g11
+sa(dp908
+g6
+VI believe the agenda is debate negotiations.
+p909
+sg8
+VBRUNO
+p910
+sg10
+g11
+sa(dp911
+g6
+VI mean what are you doing here representing a Republican candidate.
+p912
+sg8
+VJOSH
+p913
+sg10
+g11
+sa(dp914
+g6
+VGreat guy; you'd love him.
+p915
+sg8
+VBRUNO
+p916
+sg10
+g11
+sa(dp917
+g6
+VCome on, he's a Republican!
+p918
+sg8
+VJOSH
+p919
+sg10
+g11
+sa(dp920
+g6
+VI noticed that.
+p921
+sg8
+VBRUNO
+p922
+sg10
+g11
+sa(dp923
+g6
+VSo, did you switch parties?
+p924
+sg8
+VJOSH
+p925
+sg10
+g181
+sa(dp926
+g6
+VJust this once.
+p927
+sg8
+VBRUNO
+p928
+sg10
+g181
+sa(dp929
+g6
+VCareer on the slide, you figured you grab a few headlines by signing up with the enemy. You taking a salary or a percentage of the ad buy?
+p930
+sg8
+VJOSH
+p931
+sg10
+g11
+sa(dp932
+g6
+VI made so much money on your campaigns, I might just do this one for free. [pause] Whenever you're ready.
+p933
+sg8
+VBRUNO
+p934
+sg10
+g11
+sa(dp935
+g6
+VHe came here so he could hold a press conference at our front door.
+p936
+sg8
+VJOSH
+p937
+sg10
+g11
+sa(dp938
+g6
+VPretend there's no difference between Santos and Vinick.
+p939
+sg8
+VBRAM
+p940
+sg10
+g11
+sa(dp941
+g6
+VSlimy, sleezy, backstabbing, mother...
+p942
+sg8
+VJOSH
+p943
+sg10
+g11
+sa(dp944
+g6
+VYou got any new numbers yet?
+p945
+sg8
+VDAN
+p946
+sg10
+g11
+sa(dp947
+g6
+VI had no idea.
+p948
+sg8
+VDAN
+p949
+sg10
+g11
+sa(dp950
+g6
+VHe keeps avoiding the subject with me. I'm going to try to corner him after this thing.
+p951
+sg8
+VDAN
+p952
+sg10
+g11
+sa(dp953
+g6
+VYeah, well, it's page one of the Atlantic Constitution today, so...
+p954
+sg8
+VBRUNO
+p955
+sg10
+g11
+sa(dp956
+g6
+VGood morning. I've returned to the Senate today to introduce S.1103.
+p957
+sg8
+VVINICK
+p958
+sg10
+g11
+sa(dp959
+g6
+VGuest worker visa?
+p960
+sg8
+VJOSH
+p961
+sg10
+g11
+sa(dp962
+g6
+VThis guy's unbelievable.
+p963
+sg8
+VBRAM
+p964
+sg10
+g11
+sa(dp965
+g6
+VYeah.
+p966
+sg8
+VJOSH
+p967
+sg10
+g11
+sa(dp968
+g6
+VHey, I just got a question about a guest worker program Vinick's going to propose.
+p969
+sg8
+VLOU
+p970
+sg10
+g11
+sa(dp971
+g6
+VHe's introducing the bill in the Senate right now.
+p972
+sg8
+VJOSH
+p973
+sg10
+g11
+sa(dp974
+g6
+VSounds like he's coming at us from the left today.
+p975
+sg8
+VLOU
+p976
+sg10
+g11
+sa(dp977
+g6
+VThe only problem is when the Congressman hears about it he's going to want to be a co-sponsor of Vinick's bill.
+p978
+sg8
+VJOSH
+p979
+sg10
+g11
+sa(dp980
+g6
+VYou know, I introduced a guest worker program the first year I was in Congress. I couldn't even get a hearing on it. Vinick opens his mouth about it once, it's like he's parting the Red Sea.
+p981
+sg8
+VSANTOS
+p982
+sg10
+g11
+sa(dp983
+g6
+VIf you agree with it you're going to look like a follower, not a leader.
+p984
+sg8
+VLOU
+p985
+sg10
+g11
+sa(dp986
+g6
+VIt won't look like it; not now. We can't be chasing reporters around with a six-year old page from the Congressional Record to prove you got there first.
+p987
+sg8
+VLOU
+p988
+sg10
+g11
+sa(dp989
+g6
+VYeah, well, I shouldn't have been hiding on these issues. I didn't want to be the brown candidate. I didn't want to be stereotyped. Josh was right: I should have gotten out in front of all this stuff during the primaries.
+p990
+sg8
+VSANTOS
+p991
+sg10
+g11
+sa(dp992
+g6
+VYou were great in the primaries. You won the nomination.
+p993
+sg8
+VLOU
+p994
+sg10
+g11
+sa(dp995
+g6
+VVinick is going to have some good days.
+p996
+sg8
+VLOU
+p997
+sg10
+g11
+sa(dp998
+g6
+VWe're giving him too many good days.
+p999
+sg8
+VSANTOS
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VOh, I've made it very clear where I stand, Chris.
+p1002
+sg8
+VVINICK
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VPerfect.
+p1005
+sg8
+VDAN
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VSenator, where have you been on these issues? Why haven't you talked about the border patrol budget before? Why haven't you come up with a guest worker program before? Aren't you suddenly leaning on these Mexican border issues because your opponent is Latino and you figure he can't talk tough about the border patrol, or risk saying anything that sounds like amnesty for illegals?
+p1008
+sg8
+VMATTHEWS
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VYeah! Welcome to Hardball, Arnie.
+p1011
+sg8
+VJOSH
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VI think I counted five questions that time, Chris.
+p1014
+sg8
+VVINICK
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VVinick's on the ropes now.
+p1017
+sg8
+VJOSH
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VCome on, Senator, you're trying to jam Santos, right?
+p1020
+sg8
+VMATTHEWS
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VCome on, Chris. Baby, keep slugging.
+p1023
+sg8
+VJOSH
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VI'm from California; I've had to live with these problems for a long time and I've worked hard on them in the Senate. But a Senator can only do so much. I want to be President because these are the kinds of problems that Presidential leadership can solve.
+p1026
+sg8
+VVINICK
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VSenator, we're running out of time, but I want to ask you about the story that you have secretly pledged to appoint pro-life judges. Is that true?
+p1029
+sg8
+VMATTHEWS
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VWell, Chris, the selection of federal judges and Supreme Court justices is one of the most important Presidential powers. And I hope to have a broad range of input...
+p1032
+sg8
+VVINICK
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VSenator, we're running out of time. Will you appoint pro-life judges?
+p1035
+sg8
+VMATTHEWS
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VChris, the Founding Fathers could have...
+p1038
+sg8
+VVINICK
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VOkay. No litmus test for judges. That's all the time we have. Thank you, Senator Vinick.
+p1041
+sg8
+VMATTHEWS
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VThank you, Chris.
+p1044
+sg8
+VVINICK
+p1045
+sg10
+g181
+sa(dp1046
+g6
+VYeah.
+p1047
+sg8
+VSANTOS
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VMorning.
+p1050
+sg8
+VJOSH
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VWhat are you doing here?
+p1053
+sg8
+VSANTOS
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VI just thought I'd see what it was like out on the road.
+p1056
+sg8
+VJOSH
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VThe candidate's exhausted.
+p1059
+sg8
+VSANTOS
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VWell, I'll see what I can do about that.
+p1062
+sg8
+VJOSH
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VMm-hmm. Lou called you here so you could double-team me, huh; keep me on message?
+p1065
+sg8
+VSANTOS
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VActually we were hoping to tweak the message a little bit today by adding a couple of paragraphs about the Supreme Court to the stump. The next President's probably going to put a couple of judges on the Court. A woman's right to choose is at stake, stuff like that. The more you talk about the Court, the more the press will hammer Vinick on the judges rumor.
+p1068
+sg8
+VJOSH
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VDo you actually think he'd promise the reverends pro-life judges?
+p1071
+sg8
+VSANTOS
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VI think he wants to win.
+p1074
+sg8
+VJOSH
+p1075
+sg10
+g11
+sa(dp1076
+g6
+V'Cause I can't believe he'd go that far.
+p1077
+sg8
+VSANTOS
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VYeah, well, we use the story to put pressure on Vinick. Get the press to jam him with questions about the judges instead of him jamming us with questions about the border.
+p1080
+sg8
+VJOSH
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VHe's killing me on that stuff. I have to find ways to challenge him on it.
+p1083
+sg8
+VSANTOS
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VFirst, we have to put him on the defensive about the judges so we can get control of our message again. We've been scoring on National Security. We can get the momentum back if we...
+p1086
+sg8
+VJOSH
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VStay on message.
+p1089
+sg8
+VSANTOS
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VIf someone goes on the record saying Vinick promised pro-life judges, the story's going to explode. We'll be in the driver's seat.
+p1092
+sg8
+VJOSH
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VKiss of death for a conservative.
+p1095
+sg8
+VDAN
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VNew York has 31 electoral votes.
+p1098
+sg8
+VLEON
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VI'm just saying...
+p1101
+sg8
+VDAN
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VLeon, do you have the talking points on CAFTA?
+p1104
+sg8
+VVINICK
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VGeorge Rohr called me before breakfast today. He watched you on Hardball last night; he thinks you two need to have a clarifying meeting.
+p1107
+sg8
+VSHEILA
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VLet Ray Sullivan talk to him; he knows how to talk to those people.
+p1110
+sg8
+VVINICK
+p1111
+sg10
+g11
+sa(dp1112
+g6
+V"Those people" can take this election away from you'd better...
+p1113
+sg8
+VSHEILA
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VI can't meet with him.
+p1116
+sg8
+VVINICK
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VWell, he somehow got the idea that you promised him approval of judges.
+p1119
+sg8
+VSHEILA
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VThat's because I did.
+p1122
+sg8
+VVINICK
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VYou promised them judges?
+p1125
+sg8
+VBRUNO
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VYeah. I lied.
+p1128
+sg8
+VVINICK
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VYou lied?
+p1131
+sg8
+VSHEILA
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VYeah, so did George Rohr. He promised to keep it secret and then the first thing he does is leak it to Drudge.
+p1134
+sg8
+VVINICK
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VYou lied to George?!
+p1137
+sg8
+VSHEILA
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VI lied to a liar.
+p1140
+sg8
+VVINICK
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VHe's what's wrong with this party. He's the problem, not me!
+p1143
+sg8
+VVINICK
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VGeez.
+p1146
+sg8
+VSHEILA
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VTell that lying little creep that the United States Senate gets to advise and consent on judges, not the clergy. If his gang wants to have a say in picking judges, tell him to run for the Senate.
+p1149
+sg8
+VVINICK
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VAre you done?
+p1152
+sg8
+VSHEILA
+p1153
+sg10
+g181
+sa(dp1154
+g6
+VYeah. You?
+p1155
+sg8
+VVINICK
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VOh, yeah.
+p1158
+sg8
+VSHEILA
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VI was just trying to get through the meeting. He had me cornered. So I figured, what the hell, I'll tell him what he wants to hear and then ignore him when I'm in the White House.
+p1161
+sg8
+VVINICK
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VIf you had checked with me I would have told that wouldn't work; that he would leak it and then you'd be forced to confirm or deny; either of which would hurt us with a very large block of voters!
+p1164
+sg8
+VSHEILA
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VI thought you said you were done.
+p1167
+sg8
+VVINICK
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VI lied.
+p1170
+sg8
+VSHEILA
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VLooks like it's time to call Ray Sullivan out of the bullpen.
+p1173
+sg8
+VBRUNO
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VToday, I am introducing a sense of the Senate resolution urging the President to expedite implementation of the Central American Free Trade Agreement because it is an essential component to securing the Mexican border. Increasing trade with Central America is good for our economy and it's good for their economy. More jobs in Central America means less illegal immigration in this country. It's that simple.
+p1176
+sg8
+VVINICK
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VHe did? I thought he voted for it. I'm not sure how he voted. You can check on that. I certainly was surprised that so many Democrats in the House voted against helping impoverished Central American countries to build their economies, especially when it's good for our economy, too.
+p1179
+sg8
+VVINICK
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VThis is the Senate press briefing room. This isn't the place for campaign questions. Next.
+p1182
+sg8
+VVINICK
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VYou're probably going to get a question about CAFTA.
+p1185
+sg8
+VJOSH
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VBecause Vinick said something about CAFTA?
+p1188
+sg8
+VSANTOS
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VStill, we should...
+p1191
+sg8
+VJOSH
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VDamn, he's good.
+p1194
+sg8
+VSANTOS
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VLet's not play Vinick's game on CAFTA. The voters don't care about it.
+p1197
+sg8
+VLOU
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VOkay, let's do it.
+p1200
+sg8
+VSANTOS
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VI get some sleep after this, right?
+p1203
+sg8
+VSANTOS
+p1204
+sg10
+g108
+sa(dp1205
+g6
+VTwo hours, I promise.
+p1206
+sg8
+VJOSH
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VTed Zukoski, Chicago Tribune.
+p1209
+sg8
+VLOU
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VThank you.
+p1212
+sg8
+VTED
+p1213
+sg10
+g181
+sa(dp1214
+g6
+VCongressman, today Senator Vinick said he was surprised that so many Democrats voted against CAFTA. Now, do you think...
+p1215
+sg8
+VTED
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VInternational trade agreements are an important component of our National Security plan because nations who buy from each other usually don't shoot at each other; which is why our trade relationships with China are every bit important to our...
+p1218
+sg8
+VSANTOS
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VWhy did you vote against CAFTA?
+p1221
+sg8
+VTED
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VIt was a complicated bill.
+p1224
+sg8
+VSANTOS
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VWell, Senator Vinick says that the more jobs there are in Central America, the fewer people who'll be trying to get into America illegally.
+p1227
+sg8
+VTED
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VWell, that's true. Look, I'm for free trade, I'm for fair trade; but CAFTA was not a fair deal for us or for Central America.
+p1230
+sg8
+VSANTOS
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VAre you saying that CAFTA won't help Central America at all?
+p1233
+sg8
+VTED
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VOf course it will, but not as much as it could have. Look, I voted for CAFTA before I voted against it. I voted for it in committee when it was a good bill. And then the special interest started hacking away at it and it was mess by the time it got to the floor. So, I voted against it.
+p1236
+sg8
+VSANTOS
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VWe have to let him loose on CAFTA; get him into a town-hall setting, let him explain his thinking to real people, not reporters. I mean, the press is never going to let him explain voting for it and then voting against it, so we're going to have to...
+p1239
+sg8
+VJOSH
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VWe just got our tracking.
+p1242
+sg8
+VLOU
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VHow bad?
+p1245
+sg8
+VJOSH
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VWe've got Vinick up by 12.
+p1248
+sg8
+VLOU
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VHey. I hear Vinick's tracking has him up by ten.
+p1251
+sg8
+VELLEN
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VThat's not what we have.
+p1254
+sg8
+VJOSH
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VGeorge, great to see you.
+p1257
+sg8
+VSULLIVAN
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VGood to see you, Governor.
+p1260
+sg8
+VROHR
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VI don't know why they bother to keep giving me hotel rooms: this campaign doesn't actually let the VP candidate sleep. Coffee?
+p1263
+sg8
+VSULLIVAN
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VUh, no thanks. We've got a serious problem.
+p1266
+sg8
+VROHR
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VGeorge, I understand why you'd like the Senator to make a public commitment on judges but you've never asked a nominee to do that before.
+p1269
+sg8
+VSULLIVAN
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VWe've never had a pro-choice nominee before. He's got to give us a reason to support him.
+p1272
+sg8
+VROHR
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VThat reason's sitting right here.
+p1275
+sg8
+VSULLIVAN
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VAll due respect, Governor, but that's not enough. Now, he promises me he'll appoint pro-life judges, I tell the reverends that, and then I see him, on TV, doing the no-litmus-test bit. He humiliated me. Some of our people are begging me to release a statement saying he lied to me.
+p1278
+sg8
+VROHR
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VAnd I'm asking you not to do that as a personal favor to me.
+p1281
+sg8
+VSULLIVAN
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VThis is bigger than that.
+p1284
+sg8
+VROHR
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VNothing's bigger that personal favors; not to me. You're looking at the next Vice President or the next front-runner for the Republican nomination for President. You want to be my friend, George. Believe me, being my friend's a lot better than being my enemy.
+p1287
+sg8
+VSULLIVAN
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VWe have no problem with you, Governor.
+p1290
+sg8
+VROHR
+p1291
+sg10
+g11
+sa(dp1292
+g6
+VYou've been promised a lot of things by a lot of politicians over the years. How many of them have ever come through for you?
+p1293
+sg8
+VSULLIVAN
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VNot a lot.
+p1296
+sg8
+VROHR
+p1297
+sg10
+g181
+sa(dp1298
+g6
+VIf you want Arnie Vinick to listen to you about judges, threatening him isn't going to work. He already told you who he's going to listen to: me. You already know what kind of judges I want. You've seen the judges I've appointed as governor. You've approved every one of them. Now you've got a choice. You can cause trouble for us and it'll just help elect Matt Santos and Leo McGarry or you can be a team player - the Vinick/Sullivan team. And I'll make sure President Vinick listens to you and me about judges. [pause] I appreciate your coming, George.
+p1299
+sg8
+VSULLIVAN
+p1300
+sg10
+g11
+sa(dp1301
+g6
+VIf anyone in your organization has a problem with the Vinick/Sullivan ticket, I'll sit down with them anywhere, anytime to talk it through. You know what the worst thing about the campaign trail is?
+p1302
+sg8
+VSULLIVAN
+p1303
+sg10
+g11
+sa(dp1304
+g6
+VSurprises. I don't want any. You got that?
+p1305
+sg8
+VSULLIVAN
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VSenator?
+p1308
+sg8
+VLEON
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VI'm going back to D.C. tonight.
+p1311
+sg8
+VLEON
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VWhat's this?
+p1314
+sg8
+VVINICK
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VIt's my letter of resignation.
+p1317
+sg8
+VLEON
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VWhat?
+p1320
+sg8
+VVINICK
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VYeah. The letter is to thank you for everything from when I started in the mail room to...
+p1323
+sg8
+VLEON
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VWhat's this about? What, problems with Bruno?
+p1326
+sg8
+VVINICK
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VI need to spend some more time with my family.
+p1329
+sg8
+VLEON
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VLeon, come on.
+p1332
+sg8
+VVINICK
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VI never thought it was going to be Santos. He didn't have a chance at the nomination. Now we're three weeks into this and I can't do it. I can't be working all day and night to beat the first Latino nominee for President. And now that we're using his heritage against him...
+p1335
+sg8
+VLEON
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VThat's not what I'm doing. I'm talking policy. That's fair.
+p1338
+sg8
+VVINICK
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VPlease, Senator, I was in the meeting.
+p1341
+sg8
+VLEON
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VIf Santos is afraid to lead the country on these issues then he doesn't deserve to be President. The voters have a right to hear from the Latino candidate about Latino issues. He ought to be way out ahead of me on this stuff.
+p1344
+sg8
+VVINICK
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VThe twins are two and a half now. My mother-in-law just taught them how to say the word "Santos." Some day they're going to ask me what I did on this campaign. I can't tell them I did this. I can't do it.
+p1347
+sg8
+VLEON
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VSenator, they're ready for you.
+p1350
+sg8
+VMAN
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VRay.
+p1353
+sg8
+VVINICK
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VHey, Arnie. Back up by ten? We're really sticking it to him. This border stuff is killing Santos.
+p1356
+sg8
+VSULLIVAN
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VHow did it go with George Rohr?
+p1359
+sg8
+VVINICK
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VI got him back in his cage for now.
+p1362
+sg8
+VSULLIVAN
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VYou promise him anything?
+p1365
+sg8
+VVINICK
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VI'll tell you after the election.
+p1368
+sg8
+VSULLIVAN
+p1369
+sg10
+g11
+sa(dp1370
+g6
+VThe next President and Vice President of the United States, Arnold Vinick and Ray Sullivan!
+p1371
+sg8
+VANNOUNCER
+p1372
+sg10
+g11
+sas.

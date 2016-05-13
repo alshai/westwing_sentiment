@@ -1,0 +1,4130 @@
+(dp0
+S'season'
+p1
+I7
+sS'episode'
+p2
+I14
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VHey! ... I need your help on Election Day, all right? ... Hey, thank you. ... Hey, I need your help on Election Day.
+p7
+sS'character'
+p8
+VVINICK
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VSenator.
+p13
+sg8
+VBOB
+p14
+sg10
+g11
+sa(dp15
+g6
+VAlways opposed?
+p16
+sg8
+VVINICK
+p17
+sg10
+g11
+sa(dp18
+g6
+VStill sore?
+p19
+sg8
+VBRUNO
+p20
+sg10
+g11
+sa(dp21
+g6
+VIt feels like it's going to fall off.
+p22
+sg8
+VVINICK
+p23
+sg10
+g11
+sa(dp24
+g6
+VOnly five thousand more handshakes until the election.
+p25
+sg8
+VBOB
+p26
+sg10
+g11
+sa(dp27
+g6
+VHow could I always be opposed to something I never heard about until a few years ago?
+p28
+sg8
+VVINICK
+p29
+sg10
+g11
+sa(dp30
+g6
+VShe is not helping.
+p31
+sg8
+VBRUNO
+p32
+sg10
+g11
+sa(dp33
+g6
+VShe stabilized our numbers.
+p34
+sg8
+VBOB
+p35
+sg10
+g11
+sa(dp36
+g6
+VKeeping us locked in a tie with two weeks left to go is what I call not helping.
+p37
+sg8
+VBRUNO
+p38
+sg10
+g11
+sa(dp39
+g6
+VShe stopped the slippage in the South.
+p40
+sg8
+VBOB
+p41
+sg10
+g11
+sa(dp42
+g6
+VShe's scaring away independents.
+p43
+sg8
+VBRUNO
+p44
+sg10
+g11
+sa(dp45
+g6
+VWe lost independents because a nuclear power plant almost had a meltdown after I said nuclear power was completely safe.
+p46
+sg8
+VVINICK
+p47
+sg10
+g11
+sa(dp48
+g6
+VThat is water under the bridge. Now we've got to...
+p49
+sg8
+VBRUNO
+p50
+sg10
+g11
+sa(dp51
+g6
+VIf it's water under the bridge, how come I'm still ducking reporters on the campaign trail?
+p52
+sg8
+VVINICK
+p53
+sg10
+g11
+sa(dp54
+g6
+VOur next event: Small Business Forum of Chicago. And we've got to get out of there fast because Santos is scheduled to speak right after us.
+p55
+sg8
+VBOB
+p56
+sg10
+g11
+sa(dp57
+g6
+VThat's happening a lot lately.
+p58
+sg8
+VVINICK
+p59
+sg10
+g11
+sa(dp60
+g6
+VThis is the way it always happens the last couple of weeks in swing states.
+p61
+sg8
+VBRUNO
+p62
+sg10
+g11
+sa(dp63
+g6
+VChicago would like be a lot better if I'd stayed in Florida and let the Santos motorcade create all the traffic jams.
+p64
+sg8
+VVINICK
+p65
+sg10
+g11
+sa(dp66
+g6
+VWe don't have any time for questions. We're already behind schedule.
+p67
+sg8
+VBRUNO
+p68
+sg10
+g11
+sa(dp69
+g6
+VCan you bend all the fingers?
+p70
+sg8
+VDOCTOR
+p71
+sg10
+g11
+sa(dp72
+g6
+VYeah, a little bit.
+p73
+sg8
+VVINICK
+p74
+sg10
+S'negative'
+p75
+sa(dp76
+g6
+VTry to extend the fingers straight out.
+p77
+sg8
+VDOCTOR
+p78
+sg10
+g11
+sa(dp79
+g6
+VNo!
+p80
+sg8
+VVINICK
+p81
+sg10
+g11
+sa(dp82
+g6
+VDoes it hurt when you do that?
+p83
+sg8
+VDOCTOR
+p84
+sg10
+g11
+sa(dp85
+g6
+VNo. It doesn't hurt me when I do that. It kills me when I do that.
+p86
+sg8
+VVINICK
+p87
+sg10
+g11
+sa(dp88
+g6
+VWe really need a set of X-rays.
+p89
+sg8
+VDOCTOR
+p90
+sg10
+g11
+sa(dp91
+g6
+VNo!
+p92
+sg8
+VVINICK
+p93
+sg10
+g11
+sa(dp94
+g6
+VNo, no, no. Doctor, we've got a bus-load of reporters following us. We stop for an X-ray the headline's going to read "Handshake breaks Vinick's hand."
+p95
+sg8
+VBRUNO
+p96
+sg10
+g11
+sa(dp97
+g6
+VI can't say for sure without an X-ray, but I think you've got a metacarpal fracture and you're going to need a cast.
+p98
+sg8
+VDOCTOR
+p99
+sg10
+g11
+sa(dp100
+g6
+VNo cast.
+p101
+sg8
+VVINICK
+p102
+sg10
+g11
+sa(dp103
+g6
+VSenator, you have to...
+p104
+sg8
+VDOCTOR
+p105
+sg10
+g11
+sa(dp106
+g6
+VI can't look like an old man falling apart on the campaign trail.
+p107
+sg8
+VVINICK
+p108
+sg10
+g11
+sa(dp109
+g6
+VHe's got a crowd waiting for him in Pittsburg, right now.
+p110
+sg8
+VBRUNO
+p111
+sg10
+g11
+sa(dp112
+g6
+VI guess I can realign the bone and give him a cast that he can take off when he's in public.
+p113
+sg8
+VDOCTOR
+p114
+sg10
+g11
+sa(dp115
+g6
+VWelcome to politics, doctor.
+p116
+sg8
+VBRUNO
+p117
+sg10
+S'positive'
+p118
+sa(dp119
+g6
+VIf anyone asks you what you were doing in the car with me, we were discussing health care policy.
+p120
+sg8
+VVINICK
+p121
+sg10
+g11
+sa(dp122
+g6
+VWell actually, I do have some suggestions about Medicare.
+p123
+sg8
+VDOCTOR
+p124
+sg10
+g11
+sa(dp125
+g6
+VAnd now it's my honor to introduce the Democratic Candidate for President of the United States, Congressman Matthew Santos!
+p126
+sg8
+VMATT
+p127
+sg10
+g11
+sa(dp128
+g6
+VChicago, how you doing?
+p129
+sg8
+VSANTOS
+p130
+sg10
+g11
+sa(dp131
+g6
+VWe can't leave him in Ohio for two days.
+p132
+sg8
+VJOSH
+p133
+sg10
+g11
+sa(dp134
+g6
+VWe've got a full day in Cleveland tomorrow, plus promises to keep in Columbus and Dayton.
+p135
+sg8
+VEDIE
+p136
+sg10
+g11
+sa(dp137
+g6
+VI want him out of Ohio by midnight tomorrow, and on the set of "Good Morning, Miami," at 7 am.
+p138
+sg8
+VJOSH
+p139
+sg10
+g11
+sa(dp140
+g6
+VYeah.
+p141
+sg8
+VEDIE
+p142
+sg10
+g11
+sa(dp143
+g6
+VYeah. Right there.
+p144
+sg8
+VJOSH
+p145
+sg10
+g11
+sa(dp146
+g6
+VUh, no. On top of the other pile. [to Edie] Then after a full day in Florida...
+p147
+sg8
+VJOSH
+p148
+sg10
+g11
+sa(dp149
+g6
+VSomeone named "Bob" for you?
+p150
+sg8
+VEDIE
+p151
+sg10
+g11
+sa(dp152
+g6
+VTwice in one week.
+p153
+sg8
+VJOSH
+p154
+sg10
+g11
+sa(dp155
+g6
+VWhat are your latest numbers in California?
+p156
+sg8
+VTOBY
+p157
+sg10
+g11
+sa(dp158
+g6
+VYou should have new numbers by now. Check, will you?
+p159
+sg8
+VTOBY
+p160
+sg10
+g11
+sa(dp161
+g6
+VDo we have the new California numbers?
+p162
+sg8
+VJOSH
+p163
+sg10
+g11
+sa(dp164
+g6
+VYeah. We just got them.
+p165
+sg8
+VEDIE
+p166
+sg10
+g11
+sa(dp167
+g6
+VWe're up by two, but that includes all the leaners. So, basically, we're tied.
+p168
+sg8
+VJOSH
+p169
+sg10
+g11
+sa(dp170
+g6
+VYou've got to get Santos out there right now.
+p171
+sg8
+VTOBY
+p172
+sg10
+g11
+sa(dp173
+g6
+VCalifornia's the whole ball game. So...
+p174
+sg8
+VTOBY
+p175
+sg10
+g11
+sa(dp176
+g6
+VYeah, but California...
+p177
+sg8
+VTOBY
+p178
+sg10
+g11
+sa(dp179
+g6
+VRetail politics doesn't work in California. The place is too big.
+p180
+sg8
+VJOSH
+p181
+sg10
+g11
+sa(dp182
+g6
+VI'm not talking about retail politics.
+p183
+sg8
+VTOBY
+p184
+sg10
+g11
+sa(dp185
+g6
+VTV is the only way to reach those voters.
+p186
+sg8
+VJOSH
+p187
+sg10
+g11
+sa(dp188
+g6
+VExactly. That's why I'm...
+p189
+sg8
+VTOBY
+p190
+sg10
+g11
+sa(dp191
+g6
+VJosh!
+p192
+sg8
+VTOBY
+p193
+sg10
+g11
+sa(dp194
+g6
+VJosh, Josh, Josh! Listen to me.
+p195
+sg8
+VTOBY
+p196
+sg10
+g11
+sa(dp197
+g6
+VNow take a deep breath and listen to me for one second!
+p198
+sg8
+VTOBY
+p199
+sg10
+g11
+sa(dp200
+g6
+VOkay, I'm listening.
+p201
+sg8
+VJOSH
+p202
+sg10
+g11
+sa(dp203
+g6
+VYou can win this thing if you get him out to California right now.
+p204
+sg8
+VTOBY
+p205
+sg10
+g11
+sa(dp206
+g6
+VI thought you were going to stay at headquarters.
+p207
+sg8
+VVINICK
+p208
+sg10
+g11
+sa(dp209
+g6
+VI got tired of being ignored.
+p210
+sg8
+VJANE
+p211
+sg10
+g11
+sa(dp212
+g6
+VAnnie, have you got that thing the doctor gave me?
+p213
+sg8
+VVINICK
+p214
+sg10
+g11
+sa(dp215
+g6
+VUh, yeah.
+p216
+sg8
+VANNIE
+p217
+sg10
+g11
+sa(dp218
+g6
+VYou know, while you're out there shaking your hand off, Matt Santos is running his new game plan and it's working - criss-crossing the swing states, talking nothing but energy policy. He throws in a line about the nuclear accident to keep pressure...
+p219
+sg8
+VJANE
+p220
+sg10
+g11
+sa(dp221
+g6
+VWe're going to have Pittsburg all to ourselves this afternoon, but we're going to cross paths with Santos tonight in Philadelphia. He's speaking at the Constitution Center just before us.
+p222
+sg8
+VBOB
+p223
+sg10
+g11
+sa(dp224
+g6
+VTell Advance no rope lines in Pittsburg or Philly.
+p225
+sg8
+VBRUNO
+p226
+sg10
+g11
+sa(dp227
+g6
+VOkay.
+p228
+sg8
+VANNIE
+p229
+sg10
+g11
+sa(dp230
+g6
+VTell them no one gets to shake the Senator's hand. Not the police chief, not the mayor...
+p231
+sg8
+VBRUNO
+p232
+sg10
+g11
+sa(dp233
+g6
+VHow are they supposed to enforce that?
+p234
+sg8
+VANNIE
+p235
+sg10
+g11
+sa(dp236
+g6
+VTell Advance to figure it out.
+p237
+sg8
+VBRUNO
+p238
+sg10
+g75
+sa(dp239
+g6
+VTwo weeks out, we've lost our lead.
+p240
+sg8
+VJANE
+p241
+sg10
+g11
+sa(dp242
+g6
+VWe?
+p243
+sg8
+VVINICK
+p244
+sg10
+g11
+sa(dp245
+g6
+VYou. You have lost your lead and we still don't have a strategy to get it back.
+p246
+sg8
+VJANE
+p247
+sg10
+g11
+sa(dp248
+g6
+VI thought the gay marriage nonsense was the new strategy.
+p249
+sg8
+VVINICK
+p250
+sg10
+g11
+sa(dp251
+g6
+VYou're opposed to gay marriage. There's nothing wrong with letting your values voters know that.
+p252
+sg8
+VJANE
+p253
+sg10
+g11
+sa(dp254
+g6
+VThe federal government has nothing to do with marriage law. Nothing. No one should care what I think of gay marriage.
+p255
+sg8
+VVINICK
+p256
+sg10
+g11
+sa(dp257
+g6
+VAnd no one should care how tall you are and what kind of hair you have, but you know they do, so let's...
+p258
+sg8
+VJANE
+p259
+sg10
+g11
+sa(dp260
+g6
+VI'm not going to win this thing on gay marriage.
+p261
+sg8
+VVINICK
+p262
+sg10
+g11
+sa(dp263
+g6
+VYou don't know that.
+p264
+sg8
+VJANE
+p265
+sg10
+g11
+sa(dp266
+g6
+VGay marriage is a state issue. It's not a federal...
+p267
+sg8
+VVINICK
+p268
+sg10
+g11
+sa(dp269
+g6
+VSpare me the political science lecture. Bruno's 50-state strategy was ridiculous even before the accident.
+p270
+sg8
+VJANE
+p271
+sg10
+g11
+sa(dp272
+g6
+VRepublicans have won 49 states twice in the last 100 years.
+p273
+sg8
+VBRUNO
+p274
+sg10
+g11
+sa(dp275
+g6
+VYeah, I've heard you say that 1000 times on TV. So you think nothing's changed in the last 20 years in the Republican Party?
+p276
+sg8
+VJANE
+p277
+sg10
+g11
+sa(dp278
+g6
+VYeah. People like you have taken over.
+p279
+sg8
+VBRUNO
+p280
+sg10
+g11
+sa(dp281
+g6
+VPeople like me think a win's a win. 51% is plenty for us. People like you want to get into the campaign hall of fame.
+p282
+sg8
+VJANE
+p283
+sg10
+g11
+sa(dp284
+g6
+VNo one is talking about a 50-state strategy anymore, not since the nuclear thing, okay?
+p285
+sg8
+VBRUNO
+p286
+sg10
+g11
+sa(dp287
+g6
+VIf you hadn't wasted the last five months trying to win Massachusetts, we wouldn't be behind in the South.
+p288
+sg8
+VJANE
+p289
+sg10
+g11
+sa(dp290
+g6
+VOkay.
+p291
+sg8
+VBRUNO
+p292
+sg10
+g11
+sa(dp293
+g6
+VWe had every Southern state before the nuclear accident.
+p294
+sg8
+VBOB
+p295
+sg10
+g11
+sa(dp296
+g6
+VYeah, but you didn't have any goodwill there. You were the lesser of two evils. If they'd actually liked you, they wouldn't have abandoned you so fast.
+p297
+sg8
+VJANE
+p298
+sg10
+g11
+sa(dp299
+g6
+VThey haven't abandoned us. They've moved us into the Undecided column. No one outside of Texas has moved from us to Santos.
+p300
+sg8
+VBOB
+p301
+sg10
+g11
+sa(dp302
+g6
+VOh, well, Texas only has 34 Electoral Votes, so why worry about that.
+p303
+sg8
+VJANE
+p304
+sg10
+g11
+sa(dp305
+g6
+VYou think we're not worried?
+p306
+sg8
+VBOB
+p307
+sg10
+g11
+sa(dp308
+g6
+VWe were never counting on winning Santos' home state. Latino registration...
+p309
+sg8
+VBRUNO
+p310
+sg10
+g11
+sa(dp311
+g6
+VAre you counting on winning Vinick's home state?
+p312
+sg8
+VJANE
+p313
+sg10
+g11
+sa(dp314
+g6
+VWe'll bounce back in California.
+p315
+sg8
+VBRUNO
+p316
+sg10
+g11
+sa(dp317
+g6
+VWhen?
+p318
+sg8
+VJANE
+p319
+sg10
+g11
+sa(dp320
+g6
+VWe're okay in California. We're only two points behind Santos. And that's after a nuclear accident that scared half the state...
+p321
+sg8
+VBOB
+p322
+sg10
+g11
+sa(dp323
+g6
+VNothing is okay in California. The nuclear accident cost you that state. You don't have the time or the money to win it back.
+p324
+sg8
+VJANE
+p325
+sg10
+g11
+sa(dp326
+g6
+VI'm not going to win back California by going to the right. For every voter you win me in Alabama, I lose two in California.
+p327
+sg8
+VVINICK
+p328
+sg10
+g11
+sa(dp329
+g6
+VThat's why we should be back in the South this week, especially Florida.
+p330
+sg8
+VJANE
+p331
+sg10
+g11
+sa(dp332
+g6
+VWe followed your advice. We spent all last week in the South. Where did it get us?
+p333
+sg8
+VVINICK
+p334
+sg10
+g11
+sa(dp335
+g6
+VIt stopped the bleeding. And if you were still in the South right now talking tax cuts, strong on national defense, tough on crime in front of flag-waving crowds, I wouldn't have to be on TV trying to talk to the Republican Base and I could shut up about gay marriage. I'm saying we stay in the South until we get a solid lead. Then we spend a week, maybe ten days, closing the deal in Missouri, Pennsylvania and Ohio.
+p336
+sg8
+VJANE
+p337
+sg10
+g11
+sa(dp338
+g6
+VYeah.
+p339
+sg8
+VVINICK
+p340
+sg10
+g11
+sa(dp341
+g6
+VCan I come in?
+p342
+sg8
+VBRUNO
+p343
+sg10
+g11
+sa(dp344
+g6
+VJust you.
+p345
+sg8
+VVINICK
+p346
+sg10
+g118
+sa(dp347
+g6
+VDoes your hand feel better in that thing?
+p348
+sg8
+VBRUNO
+p349
+sg10
+g11
+sa(dp350
+g6
+VThey say replacing Sheila was a sign of weakness.
+p351
+sg8
+VVINICK
+p352
+sg10
+g11
+sa(dp353
+g6
+VInside baseball: no one cares except the press.
+p354
+sg8
+VBRUNO
+p355
+sg10
+g11
+sa(dp356
+g6
+VI shouldn't have let Sheila quit. She said it would send a message, give the campaign a new start.
+p357
+sg8
+VVINICK
+p358
+sg10
+g11
+sa(dp359
+g6
+VSheila was right.
+p360
+sg8
+VBRUNO
+p361
+sg10
+g11
+sa(dp362
+g6
+VWe should have just put Jane out there in front of the cameras and let her energize the base and then ignore her.
+p363
+sg8
+VVINICK
+p364
+sg10
+g11
+sa(dp365
+g6
+VWe are ignoring her.
+p366
+sg8
+VBRUNO
+p367
+sg10
+g11
+sa(dp368
+g6
+VThe press is doing Santos' work for him. Santos could take a vacation, just let the press keep hammering me on this nuclear thing and he wins. The President sends troops into Kazakhstan and that's still not enough to get this nuclear power quote out of the news. When is old news going to be old news?
+p369
+sg8
+VVINICK
+p370
+sg10
+g11
+sa(dp371
+g6
+VYou know what I really hate about Jane? She's not always wrong. We need a new strategy for the last two weeks.
+p372
+sg8
+VBRUNO
+p373
+sg10
+g11
+sa(dp374
+g6
+VSo, what do you got?
+p375
+sg8
+VVINICK
+p376
+sg10
+g11
+sa(dp377
+g6
+VI wish I could tell you I have a better idea than Jane. CUT TO: INT. - CONSTITUTION CENTER - NIGHT       PHILADELPHIA , PA
+p378
+sg8
+VBRUNO
+p379
+sg10
+g11
+sa(dp380
+g6
+VCalifornia?
+p381
+sg8
+VSANTOS
+p382
+sg10
+g11
+sa(dp383
+g6
+VYeah.
+p384
+sg8
+VJOSH
+p385
+sg10
+g11
+sa(dp386
+g6
+VI thought you said we weren't going to California because it was too big for us.
+p387
+sg8
+VSANTOS
+p388
+sg10
+g11
+sa(dp389
+g6
+VYeah, that was then.
+p390
+sg8
+VJOSH
+p391
+sg10
+g11
+sa(dp392
+g6
+VYeah, that was yesterday.
+p393
+sg8
+VSANTOS
+p394
+sg10
+g11
+sa(dp395
+g6
+VRight. Then I rethought the whole thing.
+p396
+sg8
+VJOSH
+p397
+sg10
+g11
+sa(dp398
+g6
+VYou rethought it?
+p399
+sg8
+VSANTOS
+p400
+sg10
+g11
+sa(dp401
+g6
+VYeah, you know, I talked it over.
+p402
+sg8
+VJOSH
+p403
+sg10
+g118
+sa(dp404
+g6
+VWith who?
+p405
+sg8
+VSANTOS
+p406
+sg10
+g11
+sa(dp407
+g6
+VUsual suspects, party people, experience campaign types, and we agree that because California media is way more expensive than Ohio...
+p408
+sg8
+VJOSH
+p409
+sg10
+g11
+sa(dp410
+g6
+VExcuse me, I'm sorry. Can we have the room, please?
+p411
+sg8
+VJOSH
+p412
+sg10
+g11
+sa(dp413
+g6
+VIt's going to be a lot cheaper for us to campaign in California and buy TV time in Ohio and Florida.
+p414
+sg8
+VJOSH
+p415
+sg10
+g11
+sa(dp416
+g6
+VYou'll get five minutes for free on every local station all over California instead of spending big bucks on one 30-second commercial.
+p417
+sg8
+VLOU
+p418
+sg10
+g11
+sa(dp419
+g6
+VIf we can push up a few more points in California, get your lead outside the margin, the press is going to explode with stories about Vinick losing his home state. It's going to build momentum for us everywhere else.
+p420
+sg8
+VJOSH
+p421
+sg10
+g11
+sa(dp422
+g6
+VYeah, knock Vinick off his game.
+p423
+sg8
+VSANTOS
+p424
+sg10
+g11
+sa(dp425
+g6
+VHe's off his game! Now we've got to knock him out of the game.
+p426
+sg8
+VLOU
+p427
+sg10
+g11
+sa(dp428
+g6
+VCalifornia's the key. You get a real lead there, Vinick's going to have to give up on his home state, bet everything on a Southern strategy. Now, he didn't play well in the South when he was riding high. He's sure as hell not going to play any better now that he's desperate.
+p429
+sg8
+VJOSH
+p430
+sg10
+g11
+sa(dp431
+g6
+VOkay, get me there tonight. But I want a full schedule of California events from breakfast to lights out.
+p432
+sg8
+VSANTOS
+p433
+sg10
+g11
+sa(dp434
+g6
+VIt'll be full.
+p435
+sg8
+VJOSH
+p436
+sg10
+g11
+sa(dp437
+g6
+VWhen do I go on?
+p438
+sg8
+VVINICK
+p439
+sg10
+g11
+sa(dp440
+g6
+VThey're going to start you're intro in a couple of minutes.
+p441
+sg8
+VANNIE
+p442
+sg10
+g11
+sa(dp443
+g6
+VTell them I'm not going on until he's out of the building. I don't want the cameras covering his press conference while I'm doing my speech.
+p444
+sg8
+VVINICK
+p445
+sg10
+g11
+sa(dp446
+g6
+VI want to hear what he has to say.
+p447
+sg8
+VVINICK
+p448
+sg10
+g11
+sa(dp449
+g6
+VSure you don't.
+p450
+sg8
+VVINICK
+p451
+sg10
+g11
+sa(dp452
+g6
+V[sarcastically] Saint Santos.
+p453
+sg8
+VBRUNO
+p454
+sg10
+g11
+sa(dp455
+g6
+VHe'll side-step that one.
+p456
+sg8
+VBOB
+p457
+sg10
+g118
+sa(dp458
+g6
+VWe're not going to figure out how to run this campaign by watching the Santos campaign. This is the time you ignore the other guy and sprint to the finish line. You keep pushing your tax cut message...
+p459
+sg8
+VJANE
+p460
+sg10
+g11
+sa(dp461
+g6
+VThe press won't let me. They're not going to let up on this nuclear accident.
+p462
+sg8
+VVINICK
+p463
+sg10
+g11
+sa(dp464
+g6
+VForget about the press.
+p465
+sg8
+VJANE
+p466
+sg10
+g11
+sa(dp467
+g6
+VThat's not how I got this far. I don't duck the tough questions. I say what I think. That's how I get elected.
+p468
+sg8
+VVINICK
+p469
+sg10
+g11
+sa(dp470
+g6
+VLook, senator, I love the straight-talk thing, but it doesn't work in every situation.
+p471
+sg8
+VJANE
+p472
+sg10
+g11
+sa(dp473
+g6
+VThat isn't me out there campaigning now. That's the problem.
+p474
+sg8
+VVINICK
+p475
+sg10
+g11
+sa(dp476
+g6
+VWe're going to get past the nuclear accident.
+p477
+sg8
+VBRUNO
+p478
+sg10
+g11
+sa(dp479
+g6
+VNo, we're not, not unless we deal with it.
+p480
+sg8
+VVINICK
+p481
+sg10
+g11
+sa(dp482
+g6
+VIf we open the whole nuclear-power can of worms...
+p483
+sg8
+VJANE
+p484
+sg10
+g11
+sa(dp485
+g6
+VIt's already open - wide open. I've got to close it. I've got to start answering their questions.
+p486
+sg8
+VVINICK
+p487
+sg10
+g11
+sa(dp488
+g6
+VThere is no one in this campaign - no one in this party - that thinks you should be talking about nuclear power now.
+p489
+sg8
+VJANE
+p490
+sg10
+g11
+sa(dp491
+g6
+VWe insert a new energy paragraph in the stump speech; something about safe energy sources - you wouldn't have to nuclear.
+p492
+sg8
+VBOB
+p493
+sg10
+g11
+sa(dp494
+g6
+VThat's not going to work.
+p495
+sg8
+VVINICK
+p496
+sg10
+g11
+sa(dp497
+g6
+VWhat are you going to do? Go out there and say you were wrong about nuclear power?
+p498
+sg8
+VBOB
+p499
+sg10
+g11
+sa(dp500
+g6
+VNo! I still think we need nuclear power.
+p501
+sg8
+VVINICK
+p502
+sg10
+g11
+sa(dp503
+g6
+VThis is the worst possible time to say that.
+p504
+sg8
+VJANE
+p505
+sg10
+g11
+sa(dp506
+g6
+VI should to a "Til They Drop" press conference on the nuclear accident.
+p507
+sg8
+VVINICK
+p508
+sg10
+g11
+sa(dp509
+g6
+VIt's a big mistake.
+p510
+sg8
+VJANE
+p511
+sg10
+g11
+sa(dp512
+g6
+VExplain my role in getting the plant built. Talk about where we go from here on nuclear power. Answer every reporter's question. Stay at the microphone until I bore them to death.
+p513
+sg8
+VVINICK
+p514
+sg10
+g11
+sa(dp515
+g6
+VThat'll look desperate.
+p516
+sg8
+VBRUNO
+p517
+sg10
+g11
+sa(dp518
+g6
+VWorked for Andrews in the Senate race when he had that problem with is tax returns.
+p519
+sg8
+VBOB
+p520
+sg10
+g11
+sa(dp521
+g6
+VWe're going to California tomorrow. I'm going to do a press conference in front of the San Andreo nuclear plant.
+p522
+sg8
+VVINICK
+p523
+sg10
+g11
+sa(dp524
+g6
+VOkay. My work's done here.
+p525
+sg8
+VJANE
+p526
+sg10
+g11
+sa(dp527
+g6
+VWhat, you're quitting?
+p528
+sg8
+VBOB
+p529
+sg10
+g11
+sa(dp530
+g6
+VIt's been fun. Good luck.
+p531
+sg8
+VJANE
+p532
+sg10
+g11
+sa(dp533
+g6
+VWhoa, whoa. Jane, hold on, please.
+p534
+sg8
+VBRUNO
+p535
+sg10
+g11
+sa(dp536
+g6
+VI can't afford to get blamed for the mistakes this campaign is making.
+p537
+sg8
+VJANE
+p538
+sg10
+g11
+sa(dp539
+g6
+VAnd we can't afford to have another story about trouble with the Vinick campaign staff. It would look like we're completely out of control.
+p540
+sg8
+VBRUNO
+p541
+sg10
+g11
+sa(dp542
+g6
+VI don't want you to quit.
+p543
+sg8
+VVINICK
+p544
+sg10
+g11
+sa(dp545
+g6
+VI have a reputation to protect.
+p546
+sg8
+VJANE
+p547
+sg10
+g75
+sa(dp548
+g6
+VQuitter?
+p549
+sg8
+VVINICK
+p550
+sg10
+g11
+sa(dp551
+g6
+VBetter than loser.
+p552
+sg8
+VJAVE
+p553
+sg10
+g11
+sa(dp554
+g6
+VThen don't lose.
+p555
+sg8
+VVINICK
+p556
+sg10
+g11
+sa(dp557
+g6
+VThe press conference is a mistake. Campaigning in your home state is a mistake.
+p558
+sg8
+VJANE
+p559
+sg10
+g11
+sa(dp560
+g6
+VI let them ask me every nuclear question they can think of. We get one more round of stories on this and then it's behind us.
+p561
+sg8
+VVINICK
+p562
+sg10
+g11
+sa(dp563
+g6
+VIt's a sign of weakness.
+p564
+sg8
+VJANE
+p565
+sg10
+g11
+sa(dp566
+g6
+VIf I win the election you're going to get all the credit. You came on to a sinking ship and you saved the day.
+p567
+sg8
+VVINICK
+p568
+sg10
+g11
+sa(dp569
+g6
+VIf you lose?
+p570
+sg8
+VJANE
+p571
+sg10
+g11
+sa(dp572
+g6
+VThen you came onto a sinking ship and it sank. It's not your fault. How about we go with my strategy tomorrow, and then we go with your strategy for the rest of the campaign.
+p573
+sg8
+VVINICK
+p574
+sg10
+g11
+sa(dp575
+g6
+VAnd if you disagree with my strategy?
+p576
+sg8
+VJANE
+p577
+sg10
+g11
+sa(dp578
+g6
+VThen we'll fight about it.
+p579
+sg8
+VVINICK
+p580
+sg10
+g11
+sa(dp581
+g6
+VAnd we'll end up doing it your way.
+p582
+sg8
+VJANE
+p583
+sg10
+g11
+sa(dp584
+g6
+VYou'll win some and you'll lose some.
+p585
+sg8
+VVINICK
+p586
+sg10
+g11
+sa(dp587
+g6
+VThey're ready for you on stage.
+p588
+sg8
+VANNIE
+p589
+sg10
+g11
+sa(dp590
+g6
+VThe party is going to flood California with surrogate speakers after your day of free media.
+p591
+sg8
+VLOU
+p592
+sg10
+g11
+sa(dp593
+g6
+VGood.
+p594
+sg8
+VSANTOS
+p595
+sg10
+g11
+sa(dp596
+g6
+VYour speech for San Francisco.
+p597
+sg8
+VBRAM
+p598
+sg10
+g11
+sa(dp599
+g6
+VCan I get my briefcase?
+p600
+sg8
+VSANTOS
+p601
+sg10
+g11
+sa(dp602
+g6
+VIt's not in here?
+p603
+sg8
+VBRAM
+p604
+sg10
+g11
+sa(dp605
+g6
+VUh, no.
+p606
+sg8
+VSANTOS
+p607
+sg10
+g11
+sa(dp608
+g6
+VOkay, I'll get it.
+p609
+sg8
+VBRAM
+p610
+sg10
+g11
+sa(dp611
+g6
+VThe Congressman needs his briefcase.
+p612
+sg8
+VBRAM
+p613
+sg10
+g11
+sa(dp614
+g6
+VI thought you had it.
+p615
+sg8
+VOTTO
+p616
+sg10
+g11
+sa(dp617
+g6
+VNo, I had it in Chicago. You had it in Philadelphia.
+p618
+sg8
+VBRAM
+p619
+sg10
+g11
+sa(dp620
+g6
+VNo, I had it in Pittsburg and then I put it back in his cabin for the flight to Philly.
+p621
+sg8
+VOTTO
+p622
+sg10
+g11
+sa(dp623
+g6
+VWell, it's not there now.
+p624
+sg8
+VBRAM
+p625
+sg10
+g11
+sa(dp626
+g6
+VDid we take it to the event in California?
+p627
+sg8
+VOTTO
+p628
+sg10
+g11
+sa(dp629
+g6
+VI don't know. I had my arms full of stuff. I don't remember the briefcase in Philadelphia.
+p630
+sg8
+VBRAM
+p631
+sg10
+g11
+sa(dp632
+g6
+VDid you notice the Congressman's briefcase in Philadelphia?
+p633
+sg8
+VBRAM
+p634
+sg10
+g11
+sa(dp635
+g6
+VNo, but the candidate wasn't carrying anything.
+p636
+sg8
+VSTAFFER
+p637
+sg10
+g11
+sa(dp638
+g6
+VDoes he need it right now?
+p639
+sg8
+VOTTO
+p640
+sg10
+g11
+sa(dp641
+g6
+VHe asked for it. That means "right now" to me.
+p642
+sg8
+VBRAM
+p643
+sg10
+g11
+sa(dp644
+g6
+VWe can't tell him we lost it.
+p645
+sg8
+VOTTO
+p646
+sg10
+g11
+sa(dp647
+g6
+VWell, you were the last one who had it.
+p648
+sg8
+VBRAM
+p649
+sg10
+g11
+sa(dp650
+g6
+VHe asked you for it. Tell him we're searching every compartment. Worst-case scenario: it somehow got slipped into checked baggage, we'll have it to him by the time we get to the hotel.
+p651
+sg8
+VOTTO
+p652
+sg10
+g11
+sa(dp653
+g6
+VGet the L.A. schedule to the press right away so they can schedule news satellite trucks to cover us live.
+p654
+sg8
+VLOU
+p655
+sg10
+g11
+sa(dp656
+g6
+VYou get my briefcase?
+p657
+sg8
+VSANTOS
+p658
+sg10
+g11
+sa(dp659
+g6
+VNot exactly. I thought Otto had it, he thought it was in here. We're searching under the seats and in the overheads right now.
+p660
+sg8
+VBRAM
+p661
+sg10
+g11
+sa(dp662
+g6
+VYou lost my briefcase?
+p663
+sg8
+VSANTOS
+p664
+sg10
+g11
+sa(dp665
+g6
+VWorst-case: it got slipped into checked baggage. We'll have it for you by the time you get back to your room.
+p666
+sg8
+VBRAM
+p667
+sg10
+g11
+sa(dp668
+g6
+VCall Philadelphia an retrace our steps. Check the cars we used and check the rooms that we were in.
+p669
+sg8
+VSANTOS
+p670
+sg10
+g11
+sa(dp671
+g6
+VI left my wallet in that thing.
+p672
+sg8
+VSANTOS
+p673
+sg10
+g11
+sa(dp674
+g6
+VI hope you don't have any super-secret strategy memos in that briefcase.
+p675
+sg8
+VLOU
+p676
+sg10
+g11
+sa(dp677
+g6
+VWe have super-secret strategy memos?
+p678
+sg8
+VSANTOS
+p679
+sg10
+g75
+sa(dp680
+g6
+VI wish we did.
+p681
+sg8
+VLOU
+p682
+sg10
+g11
+sa(dp683
+g6
+VMSNBC, right now.
+p684
+sg8
+VTOBY
+p685
+sg10
+g11
+sa(dp686
+g6
+VShe's a terrible liar, isn't she?
+p687
+sg8
+VJOSH
+p688
+sg10
+g11
+sa(dp689
+g6
+VThey're trying to steal our free media. Get the local TV cameras to abandon Santos and cover Vinick.
+p690
+sg8
+VJOSH
+p691
+sg10
+g11
+sa(dp692
+g6
+VIt won't work if you spin it as Vinick trying to chase Santos out of California.
+p693
+sg8
+VTOBY
+p694
+sg10
+g11
+sa(dp695
+g6
+VThen every Vinick story becomes a story about the Santos surge in California?
+p696
+sg8
+VJOSH
+p697
+sg10
+g11
+sa(dp698
+g6
+VI need Lou on the plane.
+p699
+sg8
+VJOSH
+p700
+sg10
+g11
+sa(dp701
+g6
+VThank you.
+p702
+sg8
+VLOU
+p703
+sg10
+g118
+sa(dp704
+g6
+VYeah?
+p705
+sg8
+VLOU
+p706
+sg10
+g11
+sa(dp707
+g6
+VHey, it looks like Vinick is going to follow you out to California tomorrow.
+p708
+sg8
+VJOSH
+p709
+sg10
+g11
+sa(dp710
+g6
+VHow desperate is that?
+p711
+sg8
+VLOU
+p712
+sg10
+g11
+sa(dp713
+g6
+VOkay, I'll start working the press cabin now. Hey, Josh?
+p714
+sg8
+VLOU
+p715
+sg10
+g11
+sa(dp716
+g6
+VThe Congressman's briefcase: what's inside there?
+p717
+sg8
+VLOU
+p718
+sg10
+g11
+sa(dp719
+g6
+VRoad stuff, toothbrush, electric razor, sometimes a wallet. Why?
+p720
+sg8
+VJOSH
+p721
+sg10
+g11
+sa(dp722
+g6
+VWe seem to have lost it and he seems kind of worried.
+p723
+sg8
+VLOU
+p724
+sg10
+g11
+sa(dp725
+g6
+VSo, there's nothing bad in there.
+p726
+sg8
+VLOU
+p727
+sg10
+g11
+sa(dp728
+g6
+V[sarcastically] I don't know: heroin, porn?
+p729
+sg8
+VLOU
+p730
+sg10
+g75
+sa(dp731
+g6
+V[sarcastically] No, that's all mine.
+p732
+sg8
+VJOSH
+p733
+sg10
+g11
+sa(dp734
+g6
+VSan Andreo press conference is set for 12 noon. News networks are going to cover it live.
+p735
+sg8
+VANNIE
+p736
+sg10
+g11
+sa(dp737
+g6
+VYou've got two choices for the evening event: San Diego and L.A. The problem with the L.A. thing is that Santos is going to be there.
+p738
+sg8
+VBOB
+p739
+sg10
+g11
+sa(dp740
+g6
+VI thought he was going to be in Florida tomorrow.
+p741
+sg8
+VVINICK
+p742
+sg10
+g11
+sa(dp743
+g6
+VHe put out a press advisory about a half hour ago. They're going to do a California swing tomorrow: San Francisco, San Jose, Fresno and L.A.
+p744
+sg8
+VBOB
+p745
+sg10
+g11
+sa(dp746
+g6
+VHe thinks he can take my state away from me in a day.
+p747
+sg8
+VVINICK
+p748
+sg10
+g11
+sa(dp749
+g6
+VThe mayor's going to introduce Santos and the L.A. event, so San Diego probably.
+p750
+sg8
+VBOB
+p751
+sg10
+g11
+sa(dp752
+g6
+VNo. L.A. I want to get in his face. I want Santos to see if he's going to take California, he's going to have to rip it out of my hands.
+p753
+sg8
+VVINICK
+p754
+sg10
+g11
+sa(dp755
+g6
+VThe story's going to be Vinick chases Santos to California. If he skips Florida tomorrow, then that's where we should be.
+p756
+sg8
+VJANE
+p757
+sg10
+g11
+sa(dp758
+g6
+VWe already announced the trip. We can't change our public schedule again.
+p759
+sg8
+VBOB
+p760
+sg10
+g11
+sa(dp761
+g6
+VNo, but we can get out of California as quick as we can.
+p762
+sg8
+VJANE
+p763
+sg10
+g11
+sa(dp764
+g6
+VNo.
+p765
+sg8
+VVINICK
+p766
+sg10
+g11
+sa(dp767
+g6
+VWe could have Florida all to ourselves. We could...
+p768
+sg8
+VJANE
+p769
+sg10
+g11
+sa(dp770
+g6
+VIf Santos takes California, game over.
+p771
+sg8
+VVINICK
+p772
+sg10
+g11
+sa(dp773
+g6
+VA Republican can win the Presidency without winning California.
+p774
+sg8
+VJANE
+p775
+sg10
+g11
+sa(dp776
+g6
+VAnd a Democrat can't. This isn't some sentimental, home-state thing. This is about winning. I don't have a 50-state strategy anymore. I have a one-state strategy: the one state that has everything - big cities, small towns, mountains, deserts, farms, factories, fishermen, surfers, all races, all religions, gay, straight - everything this country has. There's more real America in California than anywhere else. If I can win California, I can win the Country.
+p777
+sg8
+VVINICK
+p778
+sg10
+g11
+sa(dp779
+g6
+VThat's a nice speech, just don't say it into any microphones because everyone else in the 49 other states thinks California is a giant psycho ward.
+p780
+sg8
+VJANE
+p781
+sg10
+g11
+sa(dp782
+g6
+VCalifornia hasn't been competitive in a Presidential race in 25 years. They don't know how to campaign there. I do.
+p783
+sg8
+VVINICK
+p784
+sg10
+g11
+sa(dp785
+g6
+VAll right, let's just get out there and see how it goes.
+p786
+sg8
+VBOB
+p787
+sg10
+g11
+sa(dp788
+g6
+VOkay. Just please, forget about the power plant. Go home to Santa Paola. Remind the country, especially the South, of your hometown roots in a farming community.
+p789
+sg8
+VJANE
+p790
+sg10
+g11
+sa(dp791
+g6
+VI can't go to California without dealing with the nuclear power incident.
+p792
+sg8
+VVINICK
+p793
+sg10
+g11
+sa(dp794
+g6
+VTake questions about the nuclear thing but in your hometown, surrounded by friends where you'll actually get some applause instead of standing in front of a radioactive danger zone where property values have just collapsed and everyone's ready to vote for anyone but Vinick.
+p795
+sg8
+VJANE
+p796
+sg10
+g11
+sa(dp797
+g6
+VI've got to be there to show them that I believe we've contained the leak, that it's safe, that the clean-up is working.
+p798
+sg8
+VVINICK
+p799
+sg10
+g11
+sa(dp800
+g6
+VStanding in front of the power plant says the accident was my fault. Blame me.
+p801
+sg8
+VJANE
+p802
+sg10
+g11
+sa(dp803
+g6
+VWe'll talk about Florida tomorrow night. If you're right, then they'll be chasing me out of California by then. Annie, I want an updated briefing book on the clean-up, tomorrow morning on the plane.
+p804
+sg8
+VVINICK
+p805
+sg10
+g11
+sa(dp806
+g6
+VOkay.
+p807
+sg8
+VANNIE
+p808
+sg10
+g11
+sa(dp809
+g6
+VIs your hand any better?
+p810
+sg8
+VBRUNO
+p811
+sg10
+g11
+sa(dp812
+g6
+VDo I sound crazy to you?
+p813
+sg8
+VVINICK
+p814
+sg10
+g11
+sa(dp815
+g6
+VIt's been a tough couple of weeks.
+p816
+sg8
+VBRUNO
+p817
+sg10
+g11
+sa(dp818
+g6
+VTough? I've been in tough campaigns before. This is way beyond tough. This is a nightmare. That nuclear power plant works perfectly for 24 years.
+p819
+sg8
+VVINICK
+p820
+sg10
+g11
+sa(dp821
+g6
+VThe race was going to tighten by now, even without that accident.
+p822
+sg8
+VBRUNO
+p823
+sg10
+g11
+sa(dp824
+g6
+VIt wasn't going to get this tight. We were heading for at least a five-point win and California was going to give us a big Electoral College win. We had this thing locked.
+p825
+sg8
+VVINICK
+p826
+sg10
+g11
+sa(dp827
+g6
+VWe still do.
+p828
+sg8
+VBRUNO
+p829
+sg10
+g11
+sa(dp830
+g6
+VNow you're starting to sound crazy.
+p831
+sg8
+VVINICK
+p832
+sg10
+g11
+sa(dp833
+g6
+VThat isn't mine.
+p834
+sg8
+VVINICK
+p835
+sg10
+g11
+sa(dp836
+g6
+VI know. It belongs to Matt Santos.
+p837
+sg8
+VBRUNO
+p838
+sg10
+g11
+sa(dp839
+g6
+VYeah, very funny.
+p840
+sg8
+VVINICK
+p841
+sg10
+g11
+sa(dp842
+g6
+VI'm not kidding.
+p843
+sg8
+VBRUNO
+p844
+sg10
+g11
+sa(dp845
+g6
+VI don't know this joke. What am I supposed to say now?
+p846
+sg8
+VVINICK
+p847
+sg10
+g11
+sa(dp848
+g6
+VIt's not a joke.
+p849
+sg8
+VBRUNO
+p850
+sg10
+g11
+sa(dp851
+g6
+VThat's Matt Santos' briefcase.
+p852
+sg8
+VVINICK
+p853
+sg10
+g11
+sa(dp854
+g6
+VYeah.
+p855
+sg8
+VBRUNO
+p856
+sg10
+g11
+sa(dp857
+g6
+VAnd how did you get it? You win it in a raffle?
+p858
+sg8
+VVINICK
+p859
+sg10
+g11
+sa(dp860
+g6
+VI was the last one out of the holding room tonight. I saw it, I thought it was one of ours. There was no name on it. I opened it up...
+p861
+sg8
+VBRUNO
+p862
+sg10
+g11
+sa(dp863
+g6
+VThat's really Matt Santos' briefcase?
+p864
+sg8
+VVINICK
+p865
+sg10
+g11
+sa(dp866
+g6
+VYeah.
+p867
+sg8
+VBRUNO
+p868
+sg10
+g11
+sa(dp869
+g6
+VI don't want to know any more about this. I want to be able to say I had nothing to do with this. I didn't know anything about it. [pause] You stole Matt Santos' briefcase?
+p870
+sg8
+VVINICK
+p871
+sg10
+g11
+sa(dp872
+g6
+VI didn't steal it; I found it.
+p873
+sg8
+VBRUNO
+p874
+sg10
+g11
+sa(dp875
+g6
+VBut you didn't give it back. You could have gotten it back to him easily. You could have given it to the Secret Service.
+p876
+sg8
+VVINICK
+p877
+sg10
+g11
+sa(dp878
+g6
+VI didn't think of that.
+p879
+sg8
+VBRUNO
+p880
+sg10
+g11
+sa(dp881
+g6
+VYes, you did. And you would have done it in a second unless you found something in there, something that would hurt Santos.
+p882
+sg8
+VVINICK
+p883
+sg10
+g11
+sa(dp884
+g6
+VYou just told me you didn't want to know anymore about it.
+p885
+sg8
+VBRUNO
+p886
+sg10
+g11
+sa(dp887
+g6
+VWho else knows about this?
+p888
+sg8
+VVINICK
+p889
+sg10
+g11
+sa(dp890
+g6
+VNo one. [pause] It could make you President.
+p891
+sg8
+VBRUNO
+p892
+sg10
+g118
+sa(dp893
+g6
+VI need to talk to a lawyer. I need to think this through.
+p894
+sg8
+VVINICK
+p895
+sg10
+g11
+sa(dp896
+g6
+VAs soon as that information comes out - the Santos campaign: it's over. So, you do not have to go to California tomorrow and do that painful press conference which is going to play as if that nuclear accident was somehow your fault. And you do not have to draw any more attention to the fact that your polls aren't looking so good right now. And you can keep campaigning in the South and Midwest - look like you're driving your own train instead of jumping on Santos' train.
+p897
+sg8
+VBRUNO
+p898
+sg10
+g11
+sa(dp899
+g6
+VThat briefcase can kill us.
+p900
+sg8
+VVINICK
+p901
+sg10
+g11
+sa(dp902
+g6
+VIt's got a sort of a journal in there.
+p903
+sg8
+VBRUNO
+p904
+sg10
+g11
+sa(dp905
+g6
+VI said don't tell me.
+p906
+sg8
+VVINICK
+p907
+sg10
+g11
+sa(dp908
+g6
+VIt's a day-planner. It has notes about meetings, people, lots of stuff that can be embarrassing - what he really thinks about the Vice President, how bad a campaigner Leo McGarry is. And he also has a checkbook in there. It's a strange one. It just says "M. Santos." It's not a joint account with the wife, there's no address on the checks. He just uses it for ATM withdrawals and one check each month, same amount, made out to someone named Anita Morales. There is an Anita Morales - 29 years old, never married, one child, seven-year old girl - she's a clerk in Houston, hired seven years ago by Mayor Matt Santos. Come on, we've all heard the rumors about Matt Santos.
+p909
+sg8
+VBRUNO
+p910
+sg10
+g11
+sa(dp911
+g6
+VThere are rumors about all of us.
+p912
+sg8
+VVINICK
+p913
+sg10
+g11
+sa(dp914
+g6
+VDo you have a checkbook like that? Child support payments for a kid nobody knows about? Hush money for an affair?
+p915
+sg8
+VBRUNO
+p916
+sg10
+g11
+sa(dp917
+g6
+VYou have to give back that briefcase.
+p918
+sg8
+VVINICK
+p919
+sg10
+g11
+sa(dp920
+g6
+VIf this comes out he's going to have to take a DNA test. He's going to have to prove that he did not have an affair, or a child, with a woman he's been making monthly payments to for who knows how long.
+p921
+sg8
+VBRUNO
+p922
+sg10
+g11
+sa(dp923
+g6
+VWe can't do this. I can't do it.
+p924
+sg8
+VVINICK
+p925
+sg10
+g75
+sa(dp926
+g6
+VI work for you. I am not going to do anything you do not want me to do.
+p927
+sg8
+VBRUNO
+p928
+sg10
+g11
+sa(dp929
+g6
+VGive this thing to the Secret Service right now. And tell them... I don't know you tell them but you just give it to them.
+p930
+sg8
+VVINICK
+p931
+sg10
+g11
+sa(dp932
+g6
+VJust think about what other secrets this guy might have. This may be the tip of the iceberg about what we don't know about him. [pause] Look: how about I keep the briefcase, we sleep on it, and we'll talk about it tomorrow.
+p933
+sg8
+VBRUNO
+p934
+sg10
+g11
+sa(dp935
+g6
+VJust tell me what you want me to do, Senator.
+p936
+sg8
+VBRUNO
+p937
+sg10
+g11
+sa(dp938
+g6
+VKeep it.
+p939
+sg8
+VVINICK
+p940
+sg10
+g11
+sa(dp941
+g6
+VOh, yeah, we had a huge crowd in San Francisco this morning. The Silicon Valley event was bigger than we anticipated. Right now, Fresno's going nuts for him. California loves our guy.
+p942
+sg8
+VLOU
+p943
+sg10
+g11
+sa(dp944
+g6
+VThe news networks aren't giving you any live coverage yet. You got enough cameras out there?
+p945
+sg8
+VJOSH
+p946
+sg10
+g11
+sa(dp947
+g6
+VWe are going to rule the 6 o'clock news all over the state.
+p948
+sg8
+VLOU
+p949
+sg10
+g11
+sa(dp950
+g6
+VStill no word on the briefcase?
+p951
+sg8
+VOTTO
+p952
+sg10
+g11
+sa(dp953
+g6
+VIt wasn't in the checked baggage.
+p954
+sg8
+VBRAM
+p955
+sg10
+g11
+sa(dp956
+g6
+VDid you tell the Congressman yet?
+p957
+sg8
+VOTTO
+p958
+sg10
+g118
+sa(dp959
+g6
+VI'm gonna wait until he asks.
+p960
+sg8
+VBRAM
+p961
+sg10
+g11
+sa(dp962
+g6
+VThat's very brave.
+p963
+sg8
+VOTTO
+p964
+sg10
+g11
+sa(dp965
+g6
+VHey, if he's not worried about it, why remind him?
+p966
+sg8
+VBRAM
+p967
+sg10
+g11
+sa(dp968
+g6
+VIn a surprise move, the Vinick campaign followed the Santos campaign to California and we're going to go to live coverage from our sister station, KRAC, in San Andreo, where Senator Arnold Vinick...
+p969
+sg8
+VANCHOR
+p970
+sg10
+g11
+sa(dp971
+g6
+VCall me from L.A.
+p972
+sg8
+VJOSH
+p973
+sg10
+g11
+sa(dp974
+g6
+VHey, Bram's on line two. He says it's urgent.
+p975
+sg8
+VEDIE
+p976
+sg10
+g11
+sa(dp977
+g6
+VHang on, Lou.
+p978
+sg8
+VJOSH
+p979
+sg10
+g11
+sa(dp980
+g6
+VYeah, Bram. ... They cut to Vinick?
+p981
+sg8
+VJOSH
+p982
+sg10
+g11
+sa(dp983
+g6
+VLou, Fresno TV is going live with Vinick. Get Santos onto the stage right now. Tell the Fresno camera crews they have to stay live with the guy who actually came to Fresno.
+p984
+sg8
+VJOSH
+p985
+sg10
+g11
+sa(dp986
+g6
+VMaybe not.
+p987
+sg8
+VJOSH
+p988
+sg10
+g11
+sa(dp989
+g6
+VYes, I do. I just spent two hours inside the plant, so I'm convinced it's safe.
+p990
+sg8
+VVINICK
+p991
+sg10
+g11
+sa(dp992
+g6
+VCompletely safe?
+p993
+sg8
+VELLEN
+p994
+sg10
+g11
+sa(dp995
+g6
+VObviously, I never should have said that nuclear power is completely safe. I said that in the heat of a debate. Nothing is completely safe.
+p996
+sg8
+VVINICK
+p997
+sg10
+g11
+sa(dp998
+g6
+VLiving near a nuclear power plant is a lot safer than driving a car.
+p999
+sg8
+VVINICK
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VThis is one area where I think we need more federal regulation and more strictly enforced safety standards.
+p1002
+sg8
+VVINICK
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VI'm not blaming anyone. President Bartlet did everything he could within current law to maintain safety at these plants. When I'm President, I'm going to strengthen those safety regulations.
+p1005
+sg8
+VVINICK
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VThat wasn't your position when this plant was being built. You wrote several letters to the Nuclear Regulatory Commission, urging them to expedite the approval of this plant.
+p1008
+sg8
+VELLEN
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VYes, I did.
+p1011
+sg8
+VVINICK
+p1012
+sg10
+g118
+sa(dp1013
+g6
+VAnd in one of those letters, you complained the project was being delayed because of what you called "burdensome regulations."
+p1014
+sg8
+VELLEN
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VI was very eager to make sure that California had an adequate supply of low-cost electricity. You know the governor and most of the states Congressional Delegation supported the building of the plant.
+p1017
+sg8
+VVINICK
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VI don't do anything half-heartedly.
+p1020
+sg8
+VVINICK
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VSo you no longer think regulation of nuclear power plants is burdensome?
+p1023
+sg8
+VELLEN
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VNo.
+p1026
+sg8
+VVINICK
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VDo you regret saying it was?
+p1029
+sg8
+VELLEN
+p1030
+sg10
+g118
+sa(dp1031
+g6
+VI wouldn't write that letter today.
+p1032
+sg8
+VVINICK
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VDo you regret it?
+p1035
+sg8
+VELLEN
+p1036
+sg10
+g118
+sa(dp1037
+g6
+VThat was 25 years ago. We've all learned a lot since then.
+p1038
+sg8
+VVINICK
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VDo you regret writing the letter, Senator?
+p1041
+sg8
+VELLEN
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VYes. Next question.
+p1044
+sg8
+VVINICK
+p1045
+sg10
+g118
+sa(dp1046
+g6
+VWhat the hell is he doing?
+p1047
+sg8
+VJOSH
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VIf he does a "till-they-drop" press conference, it just might work.
+p1050
+sg8
+VTOBY
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VIf he does a "Don't worry, be happy" routine, he's going to look nuts.
+p1053
+sg8
+VJOSH
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VIf this works...
+p1056
+sg8
+VJOSH
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VYeah, whose bright idea was that? I forget.
+p1059
+sg8
+VJOSH
+p1060
+sg10
+g118
+sa(dp1061
+g6
+VVinick's got to wrap this thing up.
+p1062
+sg8
+VLOU
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VHow long has he been on?
+p1065
+sg8
+VSANTOS
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VOver an hour - doesn't look like he'll be quitting anytime soon.
+p1068
+sg8
+VLOU
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VYeah, he's cutting into our press coverage. Look at that.
+p1071
+sg8
+VSANTOS
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VYeah, we'll try it now. [to Santos] Josh wants us to go back inside, set up a quick press conference, see if we can get some cameras turned on you.
+p1074
+sg8
+VLOU
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VDueling press conferences? No.
+p1077
+sg8
+VSANTOS
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VHey, I'd love to tell you I had a better idea.
+p1080
+sg8
+VLOU
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VFresno! I love you guys. Thanks for coming out. Come on inside. We're going to talk some more.
+p1083
+sg8
+VSANTOS
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VTwo hours and 48 minutes.
+p1086
+sg8
+VJANE
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VHe's just getting warmed up.
+p1089
+sg8
+VBRUNO
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VWhy didn't you fight him on this? You know this is a bad idea.
+p1092
+sg8
+VJANE
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VI think he may have a better feel for California politics than we do.
+p1095
+sg8
+VBRUNO
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VAre you drinking the Vinick kool-aid this morning? If he goes on much longer he's going to turn this into a mini-series.
+p1098
+sg8
+VJANE
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VThere's no way we're going to be able to spin this.
+p1101
+sg8
+VJANE
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VOver a 26-year career in public service, I'd probably do a lot of things differently if I could do them over again. But my job is to make the best decision I can with the information at the time.
+p1104
+sg8
+VVINICK
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VAnyone?
+p1107
+sg8
+VVINICK
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VEllen?
+p1110
+sg8
+VVINICK
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VNope.
+p1113
+sg8
+VELLEN
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VDamn, this guy is good.
+p1116
+sg8
+VTOBY
+p1117
+sg10
+g75
+sa(dp1118
+g6
+VSon of a bitch.
+p1119
+sg8
+VBRUNO
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VJane, Speaker Haffley on line two.
+p1122
+sg8
+VSTAFFER
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VYes, Mr. Speaker.
+p1125
+sg8
+VJANE
+p1126
+sg10
+g118
+sa(dp1127
+g6
+VWhat's the word on the street?
+p1128
+sg8
+VBRUNO
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VThe Speaker thinks the press conference was brilliant.
+p1131
+sg8
+VJANE
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VI hope you took full credit.
+p1134
+sg8
+VBRUNO
+p1135
+sg10
+g118
+sa(dp1136
+g6
+VMSNBC wants someone from the campaign to go live right now.
+p1137
+sg8
+VSTAFFER
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VI can do it.
+p1140
+sg8
+VJANE
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VSenator.
+p1143
+sg8
+VBOB
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VHow are we doing on time?
+p1146
+sg8
+VVINICK
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VNot bad; about 20 minutes late. Better for us - Santos will be out of the building by the time we get there.
+p1149
+sg8
+VBOB
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VBob.
+p1152
+sg8
+VVINICK
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VYeah?
+p1155
+sg8
+VBOB
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VTell the Secret Service I want to get five minutes with Santos before he leaves. Alone.
+p1158
+sg8
+VVINICK
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VAre you serious? They're going to want to know what it's about.
+p1161
+sg8
+VBOB
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VJust tell them... it's personal.
+p1164
+sg8
+VVINICK
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VYes, Larry. I think he has put this issue behind him. He answered every questions, didn't duck the tough ones.
+p1167
+sg8
+VJANE
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VYeah?
+p1170
+sg8
+VBRUNO
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VWhat's this about your guy wanting a meeting with Santos at the L.A. thing?
+p1173
+sg8
+VJOSH
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VWhat's this about?
+p1176
+sg8
+VJOSH
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VFirst I've heard about it.
+p1179
+sg8
+VBRUNO
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VThe message we got said it's something personal. What's that supposed to mean?
+p1182
+sg8
+VJOSH
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VMaybe it means it's personal.
+p1185
+sg8
+VBRUNO
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VI'm not sending my guy to a meeting if we don't know what it's about.
+p1188
+sg8
+VJOSH
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VWhat do you mean, good?
+p1191
+sg8
+VJOSH
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VI don't like sending my guy into a meeting I know nothing about. If you could stop it, I'd owe you one.
+p1194
+sg8
+VBRUNO
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VYeah.
+p1197
+sg8
+VVINICK
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VI just got a call from Josh. He wanted to know what the Santos meeting was about.
+p1200
+sg8
+VBRUNO
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VWhat'd you tell him?
+p1203
+sg8
+VVINICK
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VThe truth: that it was the first I'd heard of it.
+p1206
+sg8
+VBRUNO
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VYou think Santos will show up?
+p1209
+sg8
+VVINICK
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VNot if Josh has anything to say about it.
+p1212
+sg8
+VBRUNO
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VI want to give him back his briefcase.
+p1215
+sg8
+VVINICK
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VI figured.
+p1218
+sg8
+VBRUNO
+p1219
+sg10
+g11
+sa(dp1220
+g6
+V"When in doubt, do the right thing."
+p1221
+sg8
+VVINICK
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VWho said that? It must have been one of those Louisiana governors.
+p1224
+sg8
+VVINICK
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VYeah, probably from his jail cell. You know, Santos never got the vetting a front-runner gets. He was never supposed to get the nomination. The press gave him a free ride in the primaries. Until now, he's been running way behind you, so the press still hasn't done their digging on him. But they will now. So, it really doesn't matter what you do with that briefcase. It's going to come out. If it comes out while Santos is in the White House... I don't know what happens. All hell will break loose.
+p1227
+sg8
+VBRUNO
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VHe wouldn't be the first President with an illegitimate child.
+p1230
+sg8
+VVINICK
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VHow far do you think he's going to get with that defense?
+p1233
+sg8
+VBRUNO
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VYou know what, if I agreed with a candidate on the issues, and I was ready to vote for him, and something like this came out about him, I'd still vote for him.
+p1236
+sg8
+VVINICK
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VGood. That's you. And that's maybe most Santos voters. And it is every voter in France. But it is not this country, not yet. I don't want people wishing they could change their votes after this comes out. The voters have a right to know about it before making their voting decision.
+p1239
+sg8
+VBRUNO
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VCome on, Bruno. This is me you're talking to. Please don't try to turn mud-slinging into a "Respect the Voters" spiel.
+p1242
+sg8
+VVINICK
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VDon't tell anyone, but I don respect the voters. That's why I win. I find out what they care about. I don't try to tell them what they care about.
+p1245
+sg8
+VBRUNO
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VThat's not exactly my idea of leadership.
+p1248
+sg8
+VVINICK
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VIt's my idea of democracy. The voters get to set the terms of the elections, not us. They get to decide what's important, not us. That's why I think voters have a right to this information now instead of six months from now. They could be electing a President who's drowning in scandal when he's supposed to be trying to stop World War III from starting in Kazakhstan. And that is not the kind of guy most of the country wants to be the next Commander-In-Chief.
+p1251
+sg8
+VBRUNO
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VThank you! Thank you, very much.
+p1254
+sg8
+VSANTOS
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VWhat harm could it do?
+p1257
+sg8
+VSANTOS
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VIt's the principal of the thing.
+p1260
+sg8
+VLOU
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VWhich is?
+p1263
+sg8
+VSANTOS
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VWe like to know what a meeting is about before we agree to it.
+p1266
+sg8
+VLOU
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VFive minutes?
+p1269
+sg8
+VSANTOS
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VThat's what they say.
+p1272
+sg8
+VLOU
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VWhose idea was the press conference?
+p1275
+sg8
+VSANTOS
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VI couldn't let you have California all to yourself.
+p1278
+sg8
+VVINICK
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VAh, I should have known.
+p1281
+sg8
+VSANTOS
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VWell, I've got something for you.
+p1284
+sg8
+VVINICK
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VBruno found it in the holding room in Philadelphia.
+p1287
+sg8
+VVINICK
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VYou look through it?
+p1290
+sg8
+VSANTOS
+p1291
+sg10
+g75
+sa(dp1292
+g6
+VWell, no name tag on it.
+p1293
+sg8
+VVINICK
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VIt took 24 hours to get back to me. [pause] You find anything interesting in my notes?
+p1296
+sg8
+VSANTOS
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VI didn't read them.
+p1299
+sg8
+VVINICK
+p1300
+sg10
+g11
+sa(dp1301
+g6
+VBut Bruno did.
+p1302
+sg8
+VSANTOS
+p1303
+sg10
+g75
+sa(dp1304
+g6
+VYou don't have to worry about that.
+p1305
+sg8
+VVINICK
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VI don't?
+p1308
+sg8
+VSANTOS
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VNo one else knows about this.
+p1311
+sg8
+VVINICK
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VBruno, you and me?
+p1314
+sg8
+VSANTOS
+p1315
+sg10
+g118
+sa(dp1316
+g6
+VThat's it. And we're not going to tell anyone.
+p1317
+sg8
+VVINICK
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VOr maybe I should tell the press that Bruno stole my briefcase.
+p1320
+sg8
+VSANTOS
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VHe didn't steal it. He found it.
+p1323
+sg8
+VVINICK
+p1324
+sg10
+g118
+sa(dp1325
+g6
+VIt's not your notes you should be worrying about.
+p1326
+sg8
+VVINICK
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VThe checks you've been writing are a much bigger problem.
+p1329
+sg8
+VVINICK
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VYou think so.
+p1332
+sg8
+VSANTOS
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VWe're not going to tell anyone about the checks. But you should.
+p1335
+sg8
+VVINICK
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VSo that's what this meeting is all about? You just wanted to give me a little advice?
+p1338
+sg8
+VSANTOS
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VObviously, it's up to you how you handle this.
+p1341
+sg8
+VVINICK
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VThat's right. It's up to me.
+p1344
+sg8
+VSANTOS
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VWe're not going to use it. But it's going to come out eventually. The press is going to find out. They're going to find Anita Morales. Camera crews are going to follow her daughter to school.
+p1347
+sg8
+VVINICK
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VBruno really did his homework, huh?
+p1350
+sg8
+VSANTOS
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VYou think the people who work for you wouldn't have done exactly the same thing if they had found my briefcase? If the press finds out about this next week, then all that happens is you lose an election. But if you win and the press finds out next month or next year then I don't know what happens to you or your Presidency. That's what you have to think about. Right now, you have a responsibility to the voters to...
+p1353
+sg8
+VVINICK
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VDon't lecture me about responsibilities.
+p1356
+sg8
+VSANTOS
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VDo you really think you can handle this if it comes out while you're living in the White House with your family? Do you really want to put the country through that? Put your wife through that?
+p1359
+sg8
+VVINICK
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VMy wife knows all about it.
+p1362
+sg8
+VSANTOS
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VMy brother's never been good about living up to his responsibilities. He went out with Anita for a while and then disappeared like he always does. He's never really been able to hold onto a job. When I found out about the baby I figured somebody had to step up.
+p1365
+sg8
+VSANTOS
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VThat would have looked a lot better if you had given your brother the money and let him pay the child support.
+p1368
+sg8
+VVINICK
+p1369
+sg10
+g11
+sa(dp1370
+g6
+VYeah, well, I wish I could trust him to do that.
+p1371
+sg8
+VSANTOS
+p1372
+sg10
+g11
+sa(dp1373
+g6
+VYou don't believe me.
+p1374
+sg8
+VSANTOS
+p1375
+sg10
+g11
+sa(dp1376
+g6
+VIt doesn't matter what I believe. You know the truth.
+p1377
+sg8
+VVINICK
+p1378
+sg10
+g11
+sa(dp1379
+g6
+VThis is a family thing. This has nothing to do with what kind of President I would be.
+p1380
+sg8
+VSANTOS
+p1381
+sg10
+g11
+sas.

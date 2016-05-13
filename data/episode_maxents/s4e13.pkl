@@ -1,0 +1,3032 @@
+(dp0
+S'season'
+p1
+I4
+sS'episode'
+p2
+I13
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VAnd after the meeting with the council on Foriegn Relations, the President and the First Lady will be on their way to Camp David for the weekend, where the Governor of Nebraska will join them.
+p7
+sS'character'
+p8
+VC.J.
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VWasn't Josh Lyman scheduled to do the press briefings today and over the weekend?
+p13
+sg8
+VREPORTER
+p14
+sg10
+g11
+sa(dp15
+g6
+VYou have me, just me.
+p16
+sg8
+VC.J.
+p17
+sg10
+g11
+sa(dp18
+g6
+VYep. If that's all...
+p19
+sg8
+VC.J.
+p20
+sg10
+g11
+sa(dp21
+g6
+VHow did you know that?
+p22
+sg8
+VC.J.
+p23
+sg10
+g11
+sa(dp24
+g6
+VRight.
+p25
+sg8
+VC.J.
+p26
+sg10
+g11
+sa(dp27
+g6
+VCould you at least tell us what you think the promise of generation is, since you're chickening out?
+p28
+sg8
+VREPORTER
+p29
+sg10
+g11
+sa(dp30
+g6
+VI'm not really sure, but like pornography, I know it when I see it. They came up with the title and because it's high school, I felt it was an assignment and I couldn't say no. Unfortunately, my job prevents me from certain pleasures and I'm not chickening out.
+p31
+sg8
+VC.J.
+p32
+sg10
+g11
+sa(dp33
+g6
+VWe don't get Josh is what you're saying.
+p34
+sg8
+VREPORTER
+p35
+sg10
+g11
+sa(dp36
+g6
+VNo fresh meat for the lions.
+p37
+sg8
+VC.J.
+p38
+sg10
+g11
+sa(dp39
+g6
+VThat's a full lid.
+p40
+sg8
+VC.J.
+p41
+sg10
+g11
+sa(dp42
+g6
+VThank you, C.J.
+p43
+sg8
+VREPORTERS
+p44
+sg10
+S'positive'
+p45
+sa(dp46
+g6
+VThank you. I couldn't go out there. Like they had this sadistic, anticipatory glee.
+p47
+sg8
+VJOSH
+p48
+sg10
+g11
+sa(dp49
+g6
+VI agree. I have to stay.
+p50
+sg8
+VC.J.
+p51
+sg10
+g11
+sa(dp52
+g6
+VWhat are you still doing here?
+p53
+sg8
+VTOBY
+p54
+sg10
+g11
+sa(dp55
+g6
+VJosh can't do the briefings. Anyway, I missed the last flight to Dayton, so it's moot.
+p56
+sg8
+VC.J.
+p57
+sg10
+g11
+sa(dp58
+g6
+VNo, there's one at 7:50. You're booked on it.
+p59
+sg8
+VCAROL
+p60
+sg10
+g11
+sa(dp61
+g6
+VWell, there is. I dont make the schedules.
+p62
+sg8
+VCAROL
+p63
+sg10
+g11
+sa(dp64
+g6
+VGo. I'll do the briefings.
+p65
+sg8
+VTOBY
+p66
+sg10
+g11
+sa(dp67
+g6
+VGood luck.
+p68
+sg8
+VJOSH
+p69
+sg10
+g11
+sa(dp70
+g6
+VYou can't. It's not your schtick. You don't know who to call on, where to look, when to smile and interrupt...
+p71
+sg8
+VC.J.
+p72
+sg10
+g11
+sa(dp73
+g6
+VAre you scared of that promise thing?
+p74
+sg8
+VTOBY
+p75
+sg10
+g11
+sa(dp76
+g6
+VYes.
+p77
+sg8
+VC.J.
+p78
+sg10
+g45
+sa(dp79
+g6
+VNo, that can't be it. It's your dad. I, sorry. I... uh... How's he doing?
+p80
+sg8
+VTOBY
+p81
+sg10
+g11
+sa(dp82
+g6
+VYou're not allowed to use the words "Alzheimer's" or "doctors".
+p83
+sg8
+VC.J.
+p84
+sg10
+g11
+sa(dp85
+g6
+VNevertheless, those are the relevant words.
+p86
+sg8
+VTOBY
+p87
+sg10
+g11
+sa(dp88
+g6
+VHis wife scares me. The woman who takes care of him scares me. Molly, she was my English teacher. Believe me, she was a very tough grader.
+p89
+sg8
+VC.J.
+p90
+sg10
+g11
+sa(dp91
+g6
+VYou're scared of your high school English teacher.
+p92
+sg8
+VTOBY
+p93
+sg10
+g11
+sa(dp94
+g6
+VWell, she's also now my stepmother, so it's just a little bit fraught.
+p95
+sg8
+VC.J.
+p96
+sg10
+g11
+sa(dp97
+g6
+VDid you ever not get an "A" in her class? Nevertheless, Dayton awaits.
+p98
+sg8
+VTOBY
+p99
+sg10
+g11
+sa(dp100
+g6
+VPsst. Finish your speech.
+p101
+sg8
+VTOBY
+p102
+sg10
+g11
+sa(dp103
+g6
+VToby, a couple of things, very important. There's a draft of some notes for a speech on the National Endowment for the Arts and the President is going to ask for something maybe over the weekend, and also, Toby, the secion on embassy security...
+p104
+sg8
+VC.J.
+p105
+sg10
+g11
+sa(dp106
+g6
+V[to security guard] Thank you. [to Toby] No, not you.
+p107
+sg8
+VC.J.
+p108
+sg10
+g11
+sa(dp109
+g6
+VNo, I didn't mean that you had no social skills Toby. I'm sorry if you think I was being insensitive to your... I-I think your very... you're a very pretty girl, Toby. Oh, um, by the way, I have... I have notes about the SEC appointment speech.
+p110
+sg8
+VC.J.
+p111
+sg10
+g11
+sa(dp112
+g6
+VI can't do this. I'll call you later. I'm going to have a heart attack.
+p113
+sg8
+VC.J.
+p114
+sg10
+g11
+sa(dp115
+g6
+VToby, if you get this, there's also a errant draft of a briefing paper on the agricultural training exchange with the South African students and it has to pass through the... Um, I think I have been maybe cut off. I'll e-mail you.
+p116
+sg8
+VC.J.
+p117
+sg10
+g11
+sa(dp118
+g6
+VPardon me?
+p119
+sg8
+VC.J.
+p120
+sg10
+g11
+sa(dp121
+g6
+VYeah, you do. I didn't think you'd be coming. I feel slightly so much better now.
+p122
+sg8
+VMARCO
+p123
+sg10
+g11
+sa(dp124
+g6
+VI'm hearing Violent Femmes and thinking Quaaludes and detentions and... tacos?
+p125
+sg8
+VC.J.
+p126
+sg10
+g11
+sa(dp127
+g6
+VWell, there was a little bit more to it than that.
+p128
+sg8
+VMARCO
+p129
+sg10
+g11
+sa(dp130
+g6
+VMarco. Marco Arlens.
+p131
+sg8
+VC.J.
+p132
+sg10
+g11
+sa(dp133
+g6
+VWhere's your band?
+p134
+sg8
+VC.J.
+p135
+sg10
+g11
+sa(dp136
+g6
+VAh, alas. The Mollusk of Lust. I'm afraid we didn't make it.
+p137
+sg8
+VMARCO
+p138
+sg10
+g11
+sa(dp139
+g6
+VNor did your purple-and-magenta mohawk.
+p140
+sg8
+VC.J.
+p141
+sg10
+g11
+sa(dp142
+g6
+VYeah, but unlike the Mollusks mohawks are making a comeback, but as fauxhawks.
+p143
+sg8
+VMARCO
+p144
+sg10
+g11
+sa(dp145
+g6
+VAre you dreading this?
+p146
+sg8
+VC.J.
+p147
+sg10
+g11
+sa(dp148
+g6
+VYeah, but I'm not the one who's making a speech about...
+p149
+sg8
+VMARCO
+p150
+sg10
+g11
+sa(dp151
+g6
+V"Promise of a Generation." So what are you up to now?
+p152
+sg8
+VC.J.
+p153
+sg10
+g11
+sa(dp154
+g6
+VUh... sorta... living in Paris.
+p155
+sg8
+VMARCO
+p156
+sg10
+g11
+sa(dp157
+g6
+VParis? You were a baseball-playing punk rocker.
+p158
+sg8
+VC.J.
+p159
+sg10
+g11
+sa(dp160
+g6
+VAnd you were the smartest, funniest, saddest girl in Dayton.
+p161
+sg8
+VMARCO
+p162
+sg10
+g11
+sa(dp163
+g6
+VThank you. I think that might've been a compliment.
+p164
+sg8
+VC.J.
+p165
+sg10
+g11
+sa(dp166
+g6
+VHow's your dad-- Mr. Cregg-- he's not still teaching math, is he?
+p167
+sg8
+VMARCO
+p168
+sg10
+g11
+sa(dp169
+g6
+VOh, no. He has a new job now. He gets married. After my mom died-- twice, now to a lovely lady in the English Department. Her job is baking and hating me. Did you ever have Ms. Lapham?
+p170
+sg8
+VC.J.
+p171
+sg10
+g11
+sa(dp172
+g6
+VYeah, she hated me, too. So, she's your stepmom. Wow. So, it's just all fun, huh?
+p173
+sg8
+VMARCO
+p174
+sg10
+g11
+sa(dp175
+g6
+VWelcome home.
+p176
+sg8
+VC.J.
+p177
+sg10
+g11
+sa(dp178
+g6
+VOh, that's... that's my ride.
+p179
+sg8
+VMARCO
+p180
+sg10
+g11
+sa(dp181
+g6
+VHey... listen... at the risk of being... anything... you wouldn't want to go to this thing together, would you? I mean, we could get a vodka first, which helps with the fear, and a cracker, which helps with the bad food.
+p182
+sg8
+VMARCO
+p183
+sg10
+g11
+sa(dp184
+g6
+VSafety in numbers. That'd be great.
+p185
+sg8
+VC.J.
+p186
+sg10
+g11
+sa(dp187
+g6
+VI'll see you.
+p188
+sg8
+VMARCO
+p189
+sg10
+g45
+sa(dp190
+g6
+VI'm sorry. I, uh...
+p191
+sg8
+VC.J.
+p192
+sg10
+g11
+sa(dp193
+g6
+VCome on in. Come on. Come and have a Manhattan. Molly made cupcakes for us before retiring.
+p194
+sg8
+VTAL
+p195
+sg10
+g11
+sa(dp196
+g6
+VGreat.
+p197
+sg8
+VC.J.
+p198
+sg10
+g11
+sa(dp199
+g6
+VTell me everything. I want to know everything. Let's sit up all night and catch up. I don't seem to do much of that anymore. Ticking clocks, you know, and so much to do.
+p200
+sg8
+VTAL
+p201
+sg10
+g11
+sa(dp202
+g6
+VHow are you, daddy?
+p203
+sg8
+VC.J.
+p204
+sg10
+g11
+sa(dp205
+g6
+VWell, I've been a little blue lately because I haven't been able to go fishing.
+p206
+sg8
+VTAL
+p207
+sg10
+g11
+sa(dp208
+g6
+VIt's February.
+p209
+sg8
+VC.J.
+p210
+sg10
+g11
+sa(dp211
+g6
+VOh, I know that. I'm aware of that but I've got these new Italian flies I want to try out. They're really quite flirtatious. Would you go to the river with me in the morning for an hour?
+p212
+sg8
+VTAL
+p213
+sg10
+g11
+sa(dp214
+g6
+VYou want to go fishing tomorrow?
+p215
+sg8
+VC.J.
+p216
+sg10
+g11
+sa(dp217
+g6
+VI know. I know, it's going to be cold but I thought it might be bracing. I don't want to be at the mercy of the seasons, do I, at my age? Why let meteorology dictate? We used to go fishing, didn't we?
+p218
+sg8
+VTAL
+p219
+sg10
+g11
+sa(dp220
+g6
+VYes.
+p221
+sg8
+VC.J.
+p222
+sg10
+g45
+sa(dp223
+g6
+VThere you go, then.
+p224
+sg8
+VTAL
+p225
+sg10
+g11
+sa(dp226
+g6
+VOnce or twice.
+p227
+sg8
+VC.J.
+p228
+sg10
+g11
+sa(dp229
+g6
+VJust like the old days.
+p230
+sg8
+VTAL
+p231
+sg10
+g11
+sa(dp232
+g6
+VI actually don't recall lovi...
+p233
+sg8
+VC.J.
+p234
+sg10
+g11
+sa(dp235
+g6
+VYes, just like.
+p236
+sg8
+VC.J.
+p237
+sg10
+g11
+sa(dp238
+g6
+VYou know, when you get to a certain age the little things you use to do matter more and more. Old Mr., um... Moyers, from two doors down, after his Beth died, all he wanted to do was to be taken to the Astro dinette for tuna melts, which is what they'd done together every Thursday. And now... [turns music up louder] it's me taking him.
+p239
+sg8
+VTAL
+p240
+sg10
+g11
+sa(dp241
+g6
+VAre we going to wake up Molly?
+p242
+sg8
+VC.J.
+p243
+sg10
+g11
+sa(dp244
+g6
+VYou could blast Elgar in here with 25 speakers. You wouldn't wake up Molly.
+p245
+sg8
+VTAL
+p246
+sg10
+g11
+sa(dp247
+g6
+VHow is Molly?
+p248
+sg8
+VC.J.
+p249
+sg10
+g11
+sa(dp250
+g6
+VMarvelous. Funny. Fun. Lots of rules. Ex vice-principals can't give up there principles, can they? You hungry?
+p251
+sg8
+VTAL
+p252
+sg10
+g11
+sa(dp253
+g6
+VI'll be right there. I'm just going to put my bags down and wash my face.
+p254
+sg8
+VC.J.
+p255
+sg10
+g11
+sa(dp256
+g6
+VAbout Mr. Moyers. You think he... dad?
+p257
+sg8
+VC.J.
+p258
+sg10
+g11
+sa(dp259
+g6
+VMr. Moyers lived in Shaker Heights. The Astro's in Cleveland.
+p260
+sg8
+VC.J.
+p261
+sg10
+g11
+sa(dp262
+g6
+VWell, I know that. I meant Marianthall, not Moyers. Did I say Moyers? Yeah, I started smoking again. I'm not supposed to, but there it is.
+p263
+sg8
+VTAL
+p264
+sg10
+g11
+sa(dp265
+g6
+VUm, why is this kitchen such a mess?
+p266
+sg8
+VC.J.
+p267
+sg10
+S'negative'
+p268
+sa(dp269
+g6
+VWell, we have a nice lady that comes in, but... who knows when? [puts down his cigarette] In fact, I don't know where anything is in here.
+p270
+sg8
+VTAL
+p271
+sg10
+g11
+sa(dp272
+g6
+VDaddy, um, what do you...?
+p273
+sg8
+VC.J.
+p274
+sg10
+g11
+sa(dp275
+g6
+VLately, I've been perfecting a zabaglione. You know what that is?
+p276
+sg8
+VTAL
+p277
+sg10
+g11
+sa(dp278
+g6
+VUm... an Italian... custard sauce.
+p279
+sg8
+VC.J.
+p280
+sg10
+g11
+sa(dp281
+g6
+VCorrect, Miss Cregg. A custard... [strikes a match] ...fabled for its restorative properties. Somewhere in this kitchen is a copper pot with a curvy ass. I need it.
+p282
+sg8
+VTAL
+p283
+sg10
+g11
+sa(dp284
+g6
+VHere?
+p285
+sg8
+VC.J.
+p286
+sg10
+g11
+sa(dp287
+g6
+VYeah. Good. Good. Can't do it without that. It facilitates the whipping at a far greater rate. How's your job?
+p288
+sg8
+VTAL
+p289
+sg10
+g11
+sa(dp290
+g6
+VWe're happy. This is the time we...
+p291
+sg8
+VC.J.
+p292
+sg10
+g11
+sa(dp293
+g6
+VSomewhere in this hellhole of a kitchen is a really good bottle of Marsala wine.
+p294
+sg8
+VTAL
+p295
+sg10
+g11
+sa(dp296
+g6
+VWe get to.... we have a-a window. We get to.. we get to do... actual work for awhile.
+p297
+sg8
+VC.J.
+p298
+sg10
+g11
+sa(dp299
+g6
+VNo more campaigning. Got it.
+p300
+sg8
+VC.J.
+p301
+sg10
+g11
+sa(dp302
+g6
+VOh, good. You know, I-I like your man. His economic theories-- so generous, so good, but he-he hides his light under a bushel. Why is that?
+p303
+sg8
+VTAL
+p304
+sg10
+g11
+sa(dp305
+g6
+VYou already... Dad... He wanted to, uh... win. He did so with honor. We played clean.
+p306
+sg8
+VC.J.
+p307
+sg10
+g11
+sa(dp308
+g6
+VWell, that he did, that you did. I'm proud of you.
+p309
+sg8
+VTAL
+p310
+sg10
+g11
+sa(dp311
+g6
+VThank you. You're writing?
+p312
+sg8
+VC.J.
+p313
+sg10
+g11
+sa(dp314
+g6
+VYeah. A handbook for the teaching of mathematics to a generation of mathematically illiterate teachers.
+p315
+sg8
+VTAL
+p316
+sg10
+g11
+sa(dp317
+g6
+VThat's wonderful, Daddy.
+p318
+sg8
+VC.J.
+p319
+sg10
+g11
+sa(dp320
+g6
+VI was thinking of asking you to write a forward, but I suppose that's unethical, no?
+p321
+sg8
+VTAL
+p322
+sg10
+g11
+sa(dp323
+g6
+VNot at all. I'd be happy to.
+p324
+sg8
+VC.J.
+p325
+sg10
+g11
+sa(dp326
+g6
+VWell, it seems to me that everything is intrinsically unethical these days.
+p327
+sg8
+VTAL
+p328
+sg10
+g11
+sa(dp329
+g6
+VNumerical Idiocy. Cathy title.
+p330
+sg8
+VC.J.
+p331
+sg10
+g11
+sa(dp332
+g6
+VYeah, well, go to the supermarket. They can't make change. They can't tell you that if you drive at 40 miles an hour for three hours you've gone 260 miles.
+p333
+sg8
+VTAL
+p334
+sg10
+g11
+sa(dp335
+g6
+VDaddy, 120.
+p336
+sg8
+VC.J.
+p337
+sg10
+g11
+sa(dp338
+g6
+VI have found that this pot is the very most efficient way of making a custard and I can only surmise that it's because it doesn't allow the eggs to stay in one place long enough for them to get overcooked. [stops whipping the eggs]
+p339
+sg8
+VTAL
+p340
+sg10
+g11
+sa(dp341
+g6
+VI think you have to keep whipping.
+p342
+sg8
+VC.J.
+p343
+sg10
+g11
+sa(dp344
+g6
+VWhat? Hundred and twenty! Oh, God. Wow. Senior moment.
+p345
+sg8
+VTAL
+p346
+sg10
+g11
+sa(dp347
+g6
+VYeah, you have to...
+p348
+sg8
+VC.J.
+p349
+sg10
+g11
+sa(dp350
+g6
+VDad... maybe you need more help.
+p351
+sg8
+VC.J.
+p352
+sg10
+g11
+sa(dp353
+g6
+VEverybody needs more help.
+p354
+sg8
+VTAL
+p355
+sg10
+g11
+sa(dp356
+g6
+VYes, but I don't think you're doing as well as...
+p357
+sg8
+VC.J.
+p358
+sg10
+g45
+sa(dp359
+g6
+VI have to finish my book. Kids aren't being taught any of the important things: Inductive reasoning. Estimation. It's gone, it's all disappearing! Oh, stop staring at me, darling. You know you were brought up better than that.
+p360
+sg8
+VTAL
+p361
+sg10
+g11
+sa(dp362
+g6
+VDaddy?
+p363
+sg8
+VC.J.
+p364
+sg10
+g11
+sa(dp365
+g6
+VArchimedes is getting old.
+p366
+sg8
+VTAL
+p367
+sg10
+g11
+sa(dp368
+g6
+VWhere's Molly?
+p369
+sg8
+VC.J.
+p370
+sg10
+g11
+sa(dp371
+g6
+VWell, I mean... of course... she left.
+p372
+sg8
+VTAL
+p373
+sg10
+g11
+sa(dp374
+g6
+VShe left? What does that mean?
+p375
+sg8
+VC.J.
+p376
+sg10
+g11
+sa(dp377
+g6
+VThis obviously isn't much fun. Not what she signed on for.
+p378
+sg8
+VTAL
+p379
+sg10
+g11
+sa(dp380
+g6
+VBut this is what's happening. You don't just walk away. This is what's happening to you.
+p381
+sg8
+VC.J.
+p382
+sg10
+g11
+sa(dp383
+g6
+V40 miles an hour for 3 hours has always been... 120. I don't know what I was thinking.
+p384
+sg8
+VTAL
+p385
+sg10
+g11
+sa(dp386
+g6
+VYeah, so everything's going well here.
+p387
+sg8
+VTOBY
+p388
+sg10
+g11
+sa(dp389
+g6
+VIs it? Good.
+p390
+sg8
+VC.J.
+p391
+sg10
+g11
+sa(dp392
+g6
+VI, uh, where's the, uh...? I lost the, uh, uh, that NEA thing you wanted.
+p393
+sg8
+VTOBY
+p394
+sg10
+g11
+sa(dp395
+g6
+VLost it? It's notes. There's a file?
+p396
+sg8
+VC.J.
+p397
+sg10
+g11
+sa(dp398
+g6
+VYeah, you needed me to polish a draft?
+p399
+sg8
+VTOBY
+p400
+sg10
+g11
+sa(dp401
+g6
+VWell, there's no draft to polish. That's what I'm saying. There's notes. I don't have them here.
+p402
+sg8
+VC.J.
+p403
+sg10
+g11
+sa(dp404
+g6
+VI'm sure I can find it.
+p405
+sg8
+VTOBY
+p406
+sg10
+g11
+sa(dp407
+g6
+VI want to be clear about the briefing, Toby. What I meant when I said that you need to know who to look at and when to ask certain questions is avoid the calm ones. Get the anxious ones out of the way first, sweetie, to give the pros room to figure out what it is they really want. And avoid the ones who don't blink. They're power devils.
+p408
+sg8
+VC.J.
+p409
+sg10
+g11
+sa(dp410
+g6
+VI don't know what that is.
+p411
+sg8
+VTOBY
+p412
+sg10
+g11
+sa(dp413
+g6
+VYes you do. Is anything happening?
+p414
+sg8
+VC.J.
+p415
+sg10
+g45
+sa(dp416
+g6
+VThe usual chaos, but minus ten percent. How are things?
+p417
+sg8
+VTOBY
+p418
+sg10
+g11
+sa(dp419
+g6
+VUsual. Uneventful. Daytonesque.
+p420
+sg8
+VC.J.
+p421
+sg10
+g11
+sa(dp422
+g6
+VHow's you father?
+p423
+sg8
+VTOBY
+p424
+sg10
+g11
+sa(dp425
+g6
+VFine.
+p426
+sg8
+VC.J.
+p427
+sg10
+g11
+sa(dp428
+g6
+VAnd the wicked stepmother?
+p429
+sg8
+VTOBY
+p430
+sg10
+g11
+sa(dp431
+g6
+VEven finer.
+p432
+sg8
+VC.J.
+p433
+sg10
+g268
+sa(dp434
+g6
+VThe weather?
+p435
+sg8
+VTOBY
+p436
+sg10
+g11
+sa(dp437
+g6
+VPerfection.
+p438
+sg8
+VC.J.
+p439
+sg10
+g11
+sa(dp440
+g6
+VI'll call you later.
+p441
+sg8
+VTOBY
+p442
+sg10
+g11
+sa(dp443
+g6
+VHi, Lib.
+p444
+sg8
+VC.J.
+p445
+sg10
+g11
+sa(dp446
+g6
+VYou come for the reunion but are staying for the comfort and ease of home?
+p447
+sg8
+VLIBBY
+p448
+sg10
+g11
+sa(dp449
+g6
+VYep, 'fraid so.
+p450
+sg8
+VC.J.
+p451
+sg10
+g11
+sa(dp452
+g6
+VYou have to stop being beautiful sometime, sweetheart.
+p453
+sg8
+VLIBBY
+p454
+sg10
+g268
+sa(dp455
+g6
+VThat would be today.
+p456
+sg8
+VC.J.
+p457
+sg10
+g11
+sa(dp458
+g6
+VThe speech.
+p459
+sg8
+VLIBBY
+p460
+sg10
+g11
+sa(dp461
+g6
+V"The Promise of a Generation"? Really?
+p462
+sg8
+VC.J.
+p463
+sg10
+g11
+sa(dp464
+g6
+VYou going?
+p465
+sg8
+VC.J.
+p466
+sg10
+g11
+sa(dp467
+g6
+VNo. I think I know exactly why you're here at 7:05 AM. Your stepmom. She's moved right back in.
+p468
+sg8
+VLIBBY
+p469
+sg10
+g11
+sa(dp470
+g6
+VI prefer to think of your mother as my dad's third wife, Libby.
+p471
+sg8
+VC.J.
+p472
+sg10
+g11
+sa(dp473
+g6
+VYeah, well, let me tell you, it's been fun. Come on in, see if you can broker a deal. God knows I've tried.
+p474
+sg8
+VLIBBY
+p475
+sg10
+g11
+sa(dp476
+g6
+VI want "lemolaide"!
+p477
+sg8
+VHARRY
+p478
+sg10
+g11
+sa(dp479
+g6
+VYou'll get "lemolaide" after you wash your hands which have snail on them, Harry.
+p480
+sg8
+VLIBBY
+p481
+sg10
+g11
+sa(dp482
+g6
+VMolly...
+p483
+sg8
+VC.J.
+p484
+sg10
+g11
+sa(dp485
+g6
+VWhat happened?
+p486
+sg8
+VC.J.
+p487
+sg10
+g11
+sa(dp488
+g6
+VHave you been there? Have you seen...?
+p489
+sg8
+VMOLLY
+p490
+sg10
+g11
+sa(dp491
+g6
+VMom, nobody is...
+p492
+sg8
+VLIBBY
+p493
+sg10
+g11
+sa(dp494
+g6
+VI made a mistake. It was years of him being charming. You both know how... how charming the man can be.
+p495
+sg8
+VMOLLY
+p496
+sg10
+g11
+sa(dp497
+g6
+VYes, but...
+p498
+sg8
+VC.J.
+p499
+sg10
+g45
+sa(dp500
+g6
+VI'm in the English department, he's in the math. There were lunches. There were quiet lunches for years. And we wait, both of us, waiting for years. After your mom dies and I had married what's-his name, we were still two missed connections. Two withered, married, ancient people waiting...
+p501
+sg8
+VMOLLY
+p502
+sg10
+g11
+sa(dp503
+g6
+VWhy didn't you call me, Molly?
+p504
+sg8
+VC.J.
+p505
+sg10
+g45
+sa(dp506
+g6
+VI didn't get to spend time with your father. We never had an affair. I'm sorry, but I don't want to diaper...
+p507
+sg8
+VMOLLY
+p508
+sg10
+g11
+sa(dp509
+g6
+VShut up! Shut up. You were a wonderful teacher, Molly. You should be ashamed of yourself.
+p510
+sg8
+VC.J.
+p511
+sg10
+g11
+sa(dp512
+g6
+VWell, I am. And did you know what the nickname for the disease is? "The long goodbye."
+p513
+sg8
+VMOLLY
+p514
+sg10
+g11
+sa(dp515
+g6
+VWell, not in your case, though, is it? In your case, more accurately it's the short "see you later goodbye" isn't it?
+p516
+sg8
+VC.J.
+p517
+sg10
+g11
+sa(dp518
+g6
+VC.J....
+p519
+sg8
+VLIBBY
+p520
+sg10
+g11
+sa(dp521
+g6
+VWhat happened to reciprocity? Do you ever imagine in a million years if the roles were reversed he would ever do this to you? This is-- what you're doing right now-- invalidates everything that came before all the good, the years of teaching. This cancels a good and valuable life. He needs you.
+p522
+sg8
+VC.J.
+p523
+sg10
+g11
+sa(dp524
+g6
+VI need him! [turns and faces the sink] You came for the reunion? You're giving a speech aren't you? It was in the paper.
+p525
+sg8
+VMOLLY
+p526
+sg10
+g11
+sa(dp527
+g6
+V"The Promise of a Generation". We were going to go and stand in the back.
+p528
+sg8
+VMOLLY
+p529
+sg10
+g11
+sa(dp530
+g6
+VYou remember how to do this. It's not the wrist. It's the fulcrum and lever effect, sort of, and then let it drift, and then let it sink and, of course, then nothing happens, which is the fun part. How is she? You went to see her.
+p531
+sg8
+VTAL
+p532
+sg10
+g11
+sa(dp533
+g6
+VNo, no.
+p534
+sg8
+VC.J.
+p535
+sg10
+g11
+sa(dp536
+g6
+VOh, sweetie, I know when young people lie. Did she say how long she's been gone? It seems like weeks. Has it been weeks or just a few days?
+p537
+sg8
+VTAL
+p538
+sg10
+g11
+sa(dp539
+g6
+VDad, you know we need to get some help if Molly won't come back. We do.
+p540
+sg8
+VC.J.
+p541
+sg10
+g11
+sa(dp542
+g6
+VOh, someone to come in and referee me.
+p543
+sg8
+VTAL
+p544
+sg10
+g11
+sa(dp545
+g6
+VWe would figure something out.
+p546
+sg8
+VC.J.
+p547
+sg10
+g11
+sa(dp548
+g6
+VYou mean, more than a nice lady from Catholic family Services?
+p549
+sg8
+VTAL
+p550
+sg10
+g11
+sa(dp551
+g6
+VWell, we have to find some way because you being alone won't work out now.
+p552
+sg8
+VC.J.
+p553
+sg10
+g11
+sa(dp554
+g6
+VWhy not? I can work around the clock, there's so much to do. There's a whole chapter on "Women and Math Anxiety" because for years-- now, why is that women underperformed in math?
+p555
+sg8
+VTAL
+p556
+sg10
+g11
+sa(dp557
+g6
+VThe teachers were sexiest men?
+p558
+sg8
+VC.J.
+p559
+sg10
+g11
+sa(dp560
+g6
+VExactly. So there's blocked women to be helped.
+p561
+sg8
+VTAL
+p562
+sg10
+g11
+sa(dp563
+g6
+VHere. Let me help you. That's good. Now just... nice and easy. Nice and easy just like that. And...
+p564
+sg8
+VTAL
+p565
+sg10
+g11
+sa(dp566
+g6
+VThank you. You could hurt yourself.
+p567
+sg8
+VC.J.
+p568
+sg10
+g11
+sa(dp569
+g6
+VYou could hurt yourself. Look at that hook. Practically a nipple piercing.
+p570
+sg8
+VTAL
+p571
+sg10
+g11
+sa(dp572
+g6
+VYou will hurt yourself. We can afford it. I can afford it.
+p573
+sg8
+VC.J.
+p574
+sg10
+g11
+sa(dp575
+g6
+VMolly never liked to go fishing. She considered it devilish. I explained to her, "Well, we throw them back usually." Mostly I just like to stand and work the odds.
+p576
+sg8
+VTAL
+p577
+sg10
+g11
+sa(dp578
+g6
+VHave you... done... have you done anything, seen doctors?
+p579
+sg8
+VC.J.
+p580
+sg10
+g11
+sa(dp581
+g6
+VDoctors? Ach. My age smells of liniment and waiting rooms. No, I've researched. There's a new drug, Reminyl. Buys you a few months, they say.
+p582
+sg8
+VTAL
+p583
+sg10
+g11
+sa(dp584
+g6
+VWe could arrange to see someone. Lee Voight, he's your friend. He's a terrific neurologist.
+p585
+sg8
+VC.J.
+p586
+sg10
+g11
+sa(dp587
+g6
+VIt's such a beautiful day, Molly. I'd prefer not to screw it up with all that.
+p588
+sg8
+VTAL
+p589
+sg10
+g11
+sa(dp590
+g6
+VDad, I'm not...
+p591
+sg8
+VC.J.
+p592
+sg10
+g11
+sa(dp593
+g6
+VMolly, please, please! This nagging-- can't we just enjoy it here?
+p594
+sg8
+VTAL
+p595
+sg10
+g11
+sa(dp596
+g6
+VDad, I'm not Molly.
+p597
+sg8
+VC.J.
+p598
+sg10
+g11
+sa(dp599
+g6
+VYou're not Molly. You're not Molly.
+p600
+sg8
+VTAL
+p601
+sg10
+g11
+sa(dp602
+g6
+V[screaming] Who... Who the hell are you? Who the hell are you? Who the hell are you? Who are you? All these damn women hounding me! My mother, my mother calls this morning to remind me to fold the socks when I get back in. And my daughter just abandoned me! Mothers, wives, daughters, and none of them stay! All these damn women!
+p603
+sg8
+VTAL
+p604
+sg10
+g11
+sa(dp605
+g6
+VDad... you... cannot expect me to silently do nothing. You're going to require care.
+p606
+sg8
+VC.J.
+p607
+sg10
+g11
+sa(dp608
+g6
+VI wasn't built for it. You came for the prom, not for this.
+p609
+sg8
+VTAL
+p610
+sg10
+g11
+sa(dp611
+g6
+VReunion. I'm not going.
+p612
+sg8
+VC.J.
+p613
+sg10
+g11
+sa(dp614
+g6
+VCoward. That world, the expertise, the solicitude, no. No, thanks. I want to go down with some silence, with my music, with some grace.
+p615
+sg8
+VTAL
+p616
+sg10
+g11
+sa(dp617
+g6
+VI'll quit and take care of you.
+p618
+sg8
+VC.J.
+p619
+sg10
+g11
+sa(dp620
+g6
+V"We sail," said Pascal, "in a vast sphere," Claudia Jean, "ever drifting in uncertainty, driven from end to end." [caresses her cheek] I'd much rather see you on TV, darling, than sitting opposite me, watching a demolition derby going on in my brain.
+p621
+sg8
+VTAL
+p622
+sg10
+g11
+sa(dp623
+g6
+VI'm here under duress, Lee.
+p624
+sg8
+VTAL
+p625
+sg10
+g11
+sa(dp626
+g6
+VStop it, both of you. I'm very upset and I don't want to laugh.
+p627
+sg8
+VC.J.
+p628
+sg10
+g11
+sa(dp629
+g6
+VWhy on earth would a statistic like that comfort me?
+p630
+sg8
+VTAL
+p631
+sg10
+g11
+sa(dp632
+g6
+VI what? I used to play golf... and I stopped?
+p633
+sg8
+VTAL
+p634
+sg10
+g11
+sa(dp635
+g6
+VI know what the key is for and I know what the door is for and I think I'll use it.
+p636
+sg8
+VTAL
+p637
+sg10
+g11
+sa(dp638
+g6
+VThat lumps me in with several million other poor souls. Yay!
+p639
+sg8
+VTAL
+p640
+sg10
+g11
+sa(dp641
+g6
+VThere are new drugs.
+p642
+sg8
+VC.J.
+p643
+sg10
+g45
+sa(dp644
+g6
+VOh... good. He can slow it down. What a concept.
+p645
+sg8
+VTAL
+p646
+sg10
+g11
+sa(dp647
+g6
+VI'm not alone. I have my book and a cat, right? So, we have a little while, unfortunately, before I begin not to recognize you, Lee.
+p648
+sg8
+VTAL
+p649
+sg10
+g11
+sa(dp650
+g6
+VIt's, "quote" hard on the spouse, isn't it? I read that.
+p651
+sg8
+VTAL
+p652
+sg10
+g11
+sa(dp653
+g6
+VWe need to make plans, Lee.
+p654
+sg8
+VC.J.
+p655
+sg10
+g11
+sa(dp656
+g6
+V[chuckling] If only that were true, kids. [gets up and leaves]
+p657
+sg8
+VTAL
+p658
+sg10
+g11
+sa(dp659
+g6
+VHe's too smart, it's no good. He won't be handled.
+p660
+sg8
+VC.J.
+p661
+sg10
+g11
+sa(dp662
+g6
+VYes.
+p663
+sg8
+VC.J.
+p664
+sg10
+g45
+sa(dp665
+g6
+VShould we buy you a corsage for the prom?
+p666
+sg8
+VTAL
+p667
+sg10
+g11
+sa(dp668
+g6
+VReunion. I'm not going.
+p669
+sg8
+VC.J.
+p670
+sg10
+g11
+sa(dp671
+g6
+VYou damn well are. Your speech: "The Promise of a Generation". Awfully grand title, no?
+p672
+sg8
+VTAL
+p673
+sg10
+g11
+sa(dp674
+g6
+VThey came up with it. I agreed because I wanted to be here to see you.
+p675
+sg8
+VC.J.
+p676
+sg10
+g11
+sa(dp677
+g6
+VNo, you didn't.
+p678
+sg8
+VTAL
+p679
+sg10
+g45
+sa(dp680
+g6
+VYou could come and live in Washington with me. I have room.
+p681
+sg8
+VC.J.
+p682
+sg10
+g11
+sa(dp683
+g6
+VDo you? Can you imagine? Talk about ruining a good thing.
+p684
+sg8
+VTAL
+p685
+sg10
+g11
+sa(dp686
+g6
+VOkay, let's see. Is this uh... Lakeside or Grandview? [lights a cigarette]
+p687
+sg8
+VTAL
+p688
+sg10
+g11
+sa(dp689
+g6
+VI know why you started smoking again. It's because you use the time it gives you to work stuff out. You use the cigarettes to stall for time.
+p690
+sg8
+VC.J.
+p691
+sg10
+g11
+sa(dp692
+g6
+VNo, sweetie, I started smoking again because I forgot that 20 years ago I quit.
+p693
+sg8
+VTAL
+p694
+sg10
+g11
+sa(dp695
+g6
+VGreat, that's great.
+p696
+sg8
+VC.J.
+p697
+sg10
+g11
+sa(dp698
+g6
+VSee, I know exactly what I'm doing.
+p699
+sg8
+VTAL
+p700
+sg10
+g11
+sa(dp701
+g6
+VDad! Dad! [into cellphone] Hello?
+p702
+sg8
+VC.J.
+p703
+sg10
+g11
+sa(dp704
+g6
+VSo how's it going?
+p705
+sg8
+VTOBY
+p706
+sg10
+g11
+sa(dp707
+g6
+VPlease tell me everything's okay.
+p708
+sg8
+VC.J.
+p709
+sg10
+g11
+sa(dp710
+g6
+VAll quiet in the West Wing.
+p711
+sg8
+VTOBY
+p712
+sg10
+g11
+sa(dp713
+g6
+VWhat's all that honking? You in a parade? They having a parade for you?
+p714
+sg8
+VTOBY
+p715
+sg10
+g11
+sa(dp716
+g6
+VLet's talk later.
+p717
+sg8
+VC.J.
+p718
+sg10
+g11
+sa(dp719
+g6
+V[to Tal] Pull over, I'm driving. Pull over.
+p720
+sg8
+VC.J.
+p721
+sg10
+g11
+sa(dp722
+g6
+VWell, let's go, if we're going.
+p723
+sg8
+VTAL
+p724
+sg10
+g11
+sa(dp725
+g6
+VI mean... tell me... things like your checkbook, your money, things like that-- what do you propose to do? Tell me. You're smart, tell me.
+p726
+sg8
+VC.J.
+p727
+sg10
+g11
+sa(dp728
+g6
+VYou know I'm pretty good with numbers.
+p729
+sg8
+VTAL
+p730
+sg10
+g11
+sa(dp731
+g6
+VOh? If we drove for 3 hours at 40 miles an hour? I mean, tell me! You are holding on to something that...
+p732
+sg8
+VC.J.
+p733
+sg10
+g11
+sa(dp734
+g6
+VWhat am I holding on to? My consciousness? My identity?
+p735
+sg8
+VTAL
+p736
+sg10
+g11
+sa(dp737
+g6
+V...can't be willed away by sheer force of personality, dad.
+p738
+sg8
+VC.J.
+p739
+sg10
+g11
+sa(dp740
+g6
+VTell me, brilliant woman that you are, would you hand over those things without a fight? I need a little more time, C.J. If I let it in at it's own pace, it'll just get dark faster.
+p741
+sg8
+VTAL
+p742
+sg10
+g11
+sa(dp743
+g6
+V[on TV] The same is the same, and the same is true for the bailout of the iron industry. Nothing was said that has not been... that has consistently not been said and is still being not said. And what's, what's, what's not being said is often uh, more important than-than, uh, what's stated particularly by Congress.
+p744
+sg8
+VTOBY
+p745
+sg10
+g11
+sa(dp746
+g6
+V[to C.J.] That man lacks grace and charm.
+p747
+sg8
+VTAL
+p748
+sg10
+g11
+sa(dp749
+g6
+VDo you think?
+p750
+sg8
+VC.J.
+p751
+sg10
+g45
+sa(dp752
+g6
+VThey really need you.
+p753
+sg8
+VTAL
+p754
+sg10
+g45
+sa(dp755
+g6
+VYeah, they kind of do.
+p756
+sg8
+VC.J.
+p757
+sg10
+g11
+sa(dp758
+g6
+VDad! Dad, can you get the door?
+p759
+sg8
+VC.J.
+p760
+sg10
+g11
+sa(dp761
+g6
+VOh, yeah.
+p762
+sg8
+VTAL
+p763
+sg10
+g11
+sa(dp764
+g6
+VMr. Arlen. I heard you were back in town.
+p765
+sg8
+VTAL
+p766
+sg10
+g11
+sa(dp767
+g6
+VMr. Cregg, how's the algebra business?
+p768
+sg8
+VMARCO
+p769
+sg10
+g11
+sa(dp770
+g6
+VAbysmal mess, I hear. But, fortunately, as the waitresses like to say, "Not my table." Come on in.
+p771
+sg8
+VTAL
+p772
+sg10
+g11
+sa(dp773
+g6
+VThank you.
+p774
+sg8
+VMARCO
+p775
+sg10
+g45
+sa(dp776
+g6
+VYou're no longer a rabid punk rocker, I see.
+p777
+sg8
+VTAL
+p778
+sg10
+g11
+sa(dp779
+g6
+VHow could you possibly remember that? I was your student for one semester.
+p780
+sg8
+VMARCO
+p781
+sg10
+g11
+sa(dp782
+g6
+VOh, I remember the detentions and the ditching and the low test scores and your imperviousness to algorithms. Let's get you a drink.
+p783
+sg8
+VTAL
+p784
+sg10
+g11
+sa(dp785
+g6
+VScotch.
+p786
+sg8
+VMARCO
+p787
+sg10
+g11
+sa(dp788
+g6
+VYou were better-looking with the mohawk, son.
+p789
+sg8
+VTAL
+p790
+sg10
+g11
+sa(dp791
+g6
+VYeah, my mom thinks so, too.
+p792
+sg8
+VMARCO
+p793
+sg10
+g11
+sa(dp794
+g6
+VSo, what're you up to now?
+p795
+sg8
+VTAL
+p796
+sg10
+g11
+sa(dp797
+g6
+VI'm a horologist.
+p798
+sg8
+VMARCO
+p799
+sg10
+g11
+sa(dp800
+g6
+VYou fix watches. You were in trouble.
+p801
+sg8
+VTAL
+p802
+sg10
+g11
+sa(dp803
+g6
+VYeah, Yeah, I, uh, I spent a lot of time in detention.
+p804
+sg8
+VMARCO
+p805
+sg10
+g11
+sa(dp806
+g6
+VNo, no, After. You were in prison.
+p807
+sg8
+VTAL
+p808
+sg10
+g11
+sa(dp809
+g6
+VNo, Dad, no. [to Marco] He gets confused. Dad, no, wasn't... Marco... wasn't in prison.
+p810
+sg8
+VC.J.
+p811
+sg10
+g11
+sa(dp812
+g6
+VYes, I was. I did a year. It wasn't hard; I was younger. Stock tips. Anyway... I-I lost most of what I had and moved on.
+p813
+sg8
+VMARCO
+p814
+sg10
+g11
+sa(dp815
+g6
+VC'est la guerre, eh, son?
+p816
+sg8
+VTAL
+p817
+sg10
+g11
+sa(dp818
+g6
+VC'est la guerre.
+p819
+sg8
+VMARCO
+p820
+sg10
+g11
+sa(dp821
+g6
+VSo, what's the skinny? You good with the watches?
+p822
+sg8
+VTAL
+p823
+sg10
+g11
+sa(dp824
+g6
+VUh... yes, sir.
+p825
+sg8
+VMARCO
+p826
+sg10
+g11
+sa(dp827
+g6
+VWow! 1931 Hamilton. One of the few thoroughly American watches. Each piece, each part, handmade in the U.S. of A. Not many American watch-makers.
+p828
+sg8
+VMARCO
+p829
+sg10
+g11
+sa(dp830
+g6
+VMy dad's.
+p831
+sg8
+VTAL
+p832
+sg10
+g11
+sa(dp833
+g6
+VHuh. You're losing time, Mr. Cregg.
+p834
+sg8
+VMARCO
+p835
+sg10
+g11
+sa(dp836
+g6
+VThat, son, I am.
+p837
+sg8
+VTAL
+p838
+sg10
+g11
+sa(dp839
+g6
+VLet's have a look inside.
+p840
+sg8
+VMARCO
+p841
+sg10
+g11
+sa(dp842
+g6
+VReally?
+p843
+sg8
+VTAL
+p844
+sg10
+g11
+sa(dp845
+g6
+VUh, yeah.
+p846
+sg8
+VMARCO
+p847
+sg10
+g11
+sa(dp848
+g6
+VYeah, isochronism is out of beat.
+p849
+sg8
+VMARCO
+p850
+sg10
+g11
+sa(dp851
+g6
+VIs it?
+p852
+sg8
+VC.J.
+p853
+sg10
+g11
+sa(dp854
+g6
+VYeah. This is your balance cock and your hairspring. The fourth wheel and the third wheel here.
+p855
+sg8
+VMARCO
+p856
+sg10
+g11
+sa(dp857
+g6
+VThat's me.
+p858
+sg8
+VC.J.
+p859
+sg10
+g11
+sa(dp860
+g6
+VHmm. Oh, what am I thinking? You kids should get going.
+p861
+sg8
+VTAL
+p862
+sg10
+g11
+sa(dp863
+g6
+VMaybe we should.
+p864
+sg8
+VC.J.
+p865
+sg10
+g11
+sa(dp866
+g6
+VI've always cherished this thing. My father kept perfect time-- marked it, measured it with this-- the hellos and good-byes. It keeps faltering; nobody can do anything.
+p867
+sg8
+VTAL
+p868
+sg10
+g11
+sa(dp869
+g6
+VWell, I could retool it. It wants a timing machine. Send it to you in a few weeks from Paris.
+p870
+sg8
+VMARCO
+p871
+sg10
+g11
+sa(dp872
+g6
+VFrance? You're a convicted felon. How do I know you won't steal it?
+p873
+sg8
+VTAL
+p874
+sg10
+g11
+sa(dp875
+g6
+VI'm not a recidivist. It would be a pleasure, Mr. Cregg. After all, you taught me how to calculate the number of stones in the Great Pyramid.
+p876
+sg8
+VMARCO
+p877
+sg10
+g11
+sa(dp878
+g6
+VI did?
+p879
+sg8
+VTAL
+p880
+sg10
+g11
+sa(dp881
+g6
+VMm-hmm.
+p882
+sg8
+VMARCO
+p883
+sg10
+g11
+sa(dp884
+g6
+VHow do you do that? I can't remember anything. For days sometimes.
+p885
+sg8
+VTAL
+p886
+sg10
+g11
+sa(dp887
+g6
+VI... I can't remember who this is.
+p888
+sg8
+VTAL
+p889
+sg10
+g11
+sa(dp890
+g6
+VWe should be going, Mr. Cregg.
+p891
+sg8
+VMARCO
+p892
+sg10
+g11
+sa(dp893
+g6
+VForgive me.
+p894
+sg8
+VTAL
+p895
+sg10
+g11
+sa(dp896
+g6
+VAre we that old?
+p897
+sg8
+VC.J.
+p898
+sg10
+g11
+sa(dp899
+g6
+VDo you recognize anyone?
+p900
+sg8
+VMARCO
+p901
+sg10
+g45
+sa(dp902
+g6
+VOh... Bill Morton form debate. Julia Keller from Cheerleading. Liz Varney from tennis.
+p903
+sg8
+VC.J.
+p904
+sg10
+g11
+sa(dp905
+g6
+VBen Ehrenreich... he was sweet.
+p906
+sg8
+VMARCO
+p907
+sg10
+g11
+sa(dp908
+g6
+VTried to kiss me once.
+p909
+sg8
+VMARCO
+p910
+sg10
+g45
+sa(dp911
+g6
+VI don't think I can... face it right now.
+p912
+sg8
+VC.J.
+p913
+sg10
+g11
+sa(dp914
+g6
+VWhen do you give your speech?
+p915
+sg8
+VMARCO
+p916
+sg10
+g11
+sa(dp917
+g6
+VAfter dinner, before the scary dancing.
+p918
+sg8
+VC.J.
+p919
+sg10
+g11
+sa(dp920
+g6
+VAfter dinner?
+p921
+sg8
+VMARCO
+p922
+sg10
+g11
+sa(dp923
+g6
+VMmm! I'm like, I'm like on in a few minutes.
+p924
+sg8
+VC.J.
+p925
+sg10
+g11
+sa(dp926
+g6
+VNo, that, no, that... that clock's 20 minutes fast.
+p927
+sg8
+VMARCO
+p928
+sg10
+g11
+sa(dp929
+g6
+VOh.
+p930
+sg8
+VC.J.
+p931
+sg10
+g11
+sa(dp932
+g6
+VAnyway, you're about to find out.
+p933
+sg8
+VMARCO
+p934
+sg10
+g11
+sa(dp935
+g6
+VWhat am I about to find out?
+p936
+sg8
+VC.J.
+p937
+sg10
+g11
+sa(dp938
+g6
+VThe bittersweet thrill of high school popularity. There were days, some days, when... we'd played at a party. The Mollusks or we'd won a baseball game and... there was just that... thing, that...
+p939
+sg8
+VMARCO
+p940
+sg10
+g11
+sa(dp941
+g6
+VHmm.
+p942
+sg8
+VC.J.
+p943
+sg10
+g11
+sa(dp944
+g6
+V...everybody loving you in that moment.
+p945
+sg8
+VMARCO
+p946
+sg10
+g11
+sa(dp947
+g6
+VAre you saying you're one of those people who think like, in F. Scott Fitzgerald, their best years were 20 years prior?
+p948
+sg8
+VC.J.
+p949
+sg10
+g11
+sa(dp950
+g6
+VOh, God no. No, I think the best day's gotta be the next day. Life is all... "what's next?" It's like those billboards where, before the actual ad goes up, they put in, in big block letters... "Watch this space."
+p951
+sg8
+VMARCO
+p952
+sg10
+g11
+sa(dp953
+g6
+VMy name is C.J. Cregg. As you know, I work for the President of the United States. This is why I was asked to make a short speech for our reunion. It's a terrible subject, a terrible idea, "The Promise of a Generation." So bad, I was going to start out with a joke and fill the whole thing in with more jokes. But I find the topic has gotten under my skin while I wasn't paying attention, because every generation has promise, and every generation fails that promise in some respects. How can we not? What is promise if not something that's impossible to live up to? My boss had to recently make his case to the American people that he was worth re-electing, and it was... not an easy process, nor should it be. And in its wake, I've been thinking a lot about civility, civic duty, and kindness, and how pervasive and powerful they are, how enduringly persuasive those qualities are in American life, and how I see them all around me, day after day. America is a terribly difficult idea filled with promise and impossible to live up to. Promise is inchoate and promise is what binds us.
+p954
+sg8
+VC.J.
+p955
+sg10
+g11
+sa(dp956
+g6
+VSomething happened. Turn on CNN.
+p957
+sg8
+VTOBY
+p958
+sg10
+g11
+sa(dp959
+g6
+V[on phone] I hope it's monumental and not some joke timed for the exact moment I'm giving my speech, Toby.
+p960
+sg8
+VC.J.
+p961
+sg10
+g11
+sa(dp962
+g6
+VIt is. Two car bombs outside our embassies in Asia. One went off, one didn't. A message to expect more of the same within the next 24 hours: Four.
+p963
+sg8
+VTOBY
+p964
+sg10
+g11
+sa(dp965
+g6
+VOh, jeez. How many...?
+p966
+sg8
+VC.J.
+p967
+sg10
+g11
+sa(dp968
+g6
+VNo casualties, thank God. If you can try and-and get back, uh... There are no direct flights, but if you connect out of Chicago, you can be in, we think, at 6:30 in the morning.
+p969
+sg8
+VTOBY
+p970
+sg10
+g11
+sa(dp971
+g6
+VUm... let me get moving. I'll call you in a few minutes on my way to the airport.
+p972
+sg8
+VC.J.
+p973
+sg10
+g11
+sa(dp974
+g6
+VOkay.
+p975
+sg8
+VTOBY
+p976
+sg10
+g11
+sa(dp977
+g6
+VI'm sorry, I have to go. There's been... We have... I'm sorry. I...
+p978
+sg8
+VC.J.
+p979
+sg10
+g11
+sa(dp980
+g6
+VWhat happened?
+p981
+sg8
+VMARCO
+p982
+sg10
+g11
+sa(dp983
+g6
+VSome bombing threats to embassies. I'm sorry, I have to go. I have to ge to the airport and get back to D.C.
+p984
+sg8
+VC.J.
+p985
+sg10
+g11
+sa(dp986
+g6
+VI'll get the car.
+p987
+sg8
+VMARCO
+p988
+sg10
+g11
+sa(dp989
+g6
+VAre you all right?
+p990
+sg8
+VTAL
+p991
+sg10
+g11
+sa(dp992
+g6
+VI have to go. Tal, I-I don't know what to do about this situation.
+p993
+sg8
+VC.J.
+p994
+sg10
+g11
+sa(dp995
+g6
+VWell, nobody does; we'll just try and figure it out. I mean, between the lot of us, there's surely one superior mind still working; I don't know whose.
+p996
+sg8
+VTAL
+p997
+sg10
+g11
+sa(dp998
+g6
+VRight.
+p999
+sg8
+VC.J.
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VWe'll drive with you to the airport if you like.
+p1002
+sg8
+VMOLLY
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VC.J. Before I forget. Tell Marco, send it back to me soon. Please.
+p1005
+sg8
+VTAL
+p1006
+sg10
+g45
+sa(dp1007
+g6
+VAnd working. Time matters.
+p1008
+sg8
+VTAL
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VI'll see you next week.
+p1011
+sg8
+VC.J.
+p1012
+sg10
+g45
+sa(dp1013
+g6
+VYou can't keep flying back and forth.
+p1014
+sg8
+VTAL
+p1015
+sg10
+g11
+sas.

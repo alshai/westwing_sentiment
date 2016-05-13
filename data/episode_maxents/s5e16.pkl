@@ -1,0 +1,4643 @@
+(dp0
+S'season'
+p1
+I5
+sS'episode'
+p2
+I16
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VU.S. rates are 14%, whereas of patient volunteers we investigated, 48% tested positive for HPV.
+p7
+sS'character'
+p8
+VFOY
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VTake a message. And bring me the PCR data as well.
+p13
+sg8
+VFOY
+p14
+sg10
+g11
+sa(dp15
+g6
+VDr. Foy's office. ... I'm sorry. Dr. Foy's not available. ... Hold on a sec.
+p16
+sg8
+VTECHNICIAN
+p17
+sg10
+g11
+sa(dp18
+g6
+VHe's from Congressman Bentley's office, they're reviewing one of your NIH grants.
+p19
+sg8
+VTECHNICIAN
+p20
+sg10
+g11
+sa(dp21
+g6
+VThanks. [into phone] Lewis Foy. ... That's very nice. ... I'm sorry, which congressman? ... Which project? ... Let me put you on speaker so I can find my grants' file.
+p22
+sg8
+VFOY
+p23
+sg10
+g11
+sa(dp24
+g6
+VThe congressman is especially impressed with your work on, wait, I have it right here, "the Human Papilloma Virus in Commercial Sex Workers in San Juan, Puerto Rico."
+p25
+sg8
+VMAN
+p26
+sg10
+g11
+sa(dp27
+g6
+VBut why the interest in Puerto Rico? Why focus on sex workers? Is that really of scientific value?
+p28
+sg8
+VMAN
+p29
+sg10
+g11
+sa(dp30
+g6
+VI just submitted my non-competing renewal and there are three years left on my grant.
+p31
+sg8
+VFOY
+p32
+sg10
+g11
+sa(dp33
+g6
+VEllie, he needs you.
+p34
+sg8
+VTECHNICIAN
+p35
+sg10
+g11
+sa(dp36
+g6
+VCan you confirm your home address?
+p37
+sg8
+VMAN
+p38
+sg10
+g11
+sa(dp39
+g6
+VHow is that relevant?
+p40
+sg8
+VFOY
+p41
+sg10
+g11
+sa(dp42
+g6
+VThe address we have is 536 Washburn Lane. Are you a registered voter, sir? Our records indicate you're a registered Democrat.
+p43
+sg8
+VMAN
+p44
+sg10
+g11
+sa(dp45
+g6
+VI don't see how that's any of your business.
+p46
+sg8
+VFOY
+p47
+sg10
+g11
+sa(dp48
+g6
+VCan you tell me who you voted for?
+p49
+sg8
+VMAN
+p50
+sg10
+g11
+sa(dp51
+g6
+VMaybe.
+p52
+sg8
+VTOBY
+p53
+sg10
+g11
+sa(dp54
+g6
+VHe never mentioned her. He never made reference to her working in the lab at all.
+p55
+sg8
+VC.J.
+p56
+sg10
+g11
+sa(dp57
+g6
+VOkay.
+p58
+sg8
+VTOBY
+p59
+sg10
+g11
+sa(dp60
+g6
+VThe old let's-lift-up-this-rock-and-see-if-we-can-find-something-wiggling-underneath game.
+p61
+sg8
+VC.J.
+p62
+sg10
+g11
+sa(dp63
+g6
+VJust happened to be her rock.
+p64
+sg8
+VTOBY
+p65
+sg10
+g11
+sa(dp66
+g6
+VShe's so sensitive. You know she'd freak if anyone even hints at nepotism.
+p67
+sg8
+VC.J.
+p68
+sg10
+g11
+sa(dp69
+g6
+VTell me this is nothing to worry about.
+p70
+sg8
+VC.J.
+p71
+sg10
+g11
+sa(dp72
+g6
+VThis is nothing to worry about.
+p73
+sg8
+VTOBY
+p74
+sg10
+g11
+sa(dp75
+g6
+VToby.
+p76
+sg8
+VC.J.
+p77
+sg10
+g11
+sa(dp78
+g6
+VWhich Congressman was it?
+p79
+sg8
+VTOBY
+p80
+sg10
+g11
+sa(dp81
+g6
+VBentley.
+p82
+sg8
+VC.J.
+p83
+sg10
+g11
+sa(dp84
+g6
+VAs in House Reform? How many U.S. Research Labs come equipped with the President's daughter? Whether they invoked her or not, they wouldn't have called unless they had something. Somebody's out for blood and they're targeting Ellie Bartlet.
+p85
+sg8
+VTOBY
+p86
+sg10
+g11
+sa(dp87
+g6
+VBen will be here at 1:00. I got the back table at 1789, and I told him to wear the painter's pants so you won't be tempted to jump him. And he has a meeting at 3:00.
+p88
+sg8
+VCAROL
+p89
+sg10
+g11
+sa(dp90
+g6
+VNice work.
+p91
+sg8
+VC.J.
+p92
+sg10
+g11
+sa(dp93
+g6
+VThose would have to be some pretty hideous painter's pants.
+p94
+sg8
+VCAROL
+p95
+sg10
+g11
+sa(dp96
+g6
+VNow that you've slept on it, the call to Dr. Foy wasn't about Ellie Bartlet and I get to have a happy quiet day?
+p97
+sg8
+VC.J.
+p98
+sg10
+g11
+sa(dp99
+g6
+VNow that I've slept on it I think it's worse.
+p100
+sg8
+VTOBY
+p101
+sg10
+g11
+sa(dp102
+g6
+VWhen they were in the Governor's mansion, Ellie got $5 allowance for doing a boat-load of chores. The President isn't steering money to his daughter.
+p103
+sg8
+VC.J.
+p104
+sg10
+g11
+sa(dp105
+g6
+VNot the President. Us. Some overeager NIH lackey trying to curry favor and this whole conversation might be a little bit easier were I not fighting my way through a cloud of Obsession.
+p106
+sg8
+VTOBY
+p107
+sg10
+g11
+sa(dp108
+g6
+VThere's no cloud.
+p109
+sg8
+VC.J.
+p110
+sg10
+g11
+sa(dp111
+g6
+VIt's about to precipitate out. It's about to rain Obsession.
+p112
+sg8
+VTOBY
+p113
+sg10
+g11
+sa(dp114
+g6
+VI got a brief.
+p115
+sg8
+VC.J.
+p116
+sg10
+g11
+sa(dp117
+g6
+VI'll get a breakdown of Foy's research funding.
+p118
+sg8
+VTOBY
+p119
+sg10
+g11
+sa(dp120
+g6
+VHope like hell it hasn't gone up since Ellie Bartlet started working for him.
+p121
+sg8
+VC.J.
+p122
+sg10
+g11
+sa(dp123
+g6
+VI'll call Mike Raffer on the House Committee.
+p124
+sg8
+VTOBY
+p125
+sg10
+g11
+sa(dp126
+g6
+VThank you.
+p127
+sg8
+VC.J.
+p128
+sg10
+S'positive'
+p129
+sa(dp130
+g6
+VIt's not about you. I'll do pretty much anything to avoid using the words "Mr. President" and "your daughter" in the same sentence.
+p131
+sg8
+VTOBY
+p132
+sg10
+g11
+sa(dp133
+g6
+VYou keeping track of the Court these days?
+p134
+sg8
+VHAYDEN
+p135
+sg10
+g11
+sa(dp136
+g6
+VWhile I'm not color-coding the President's M&M's.
+p137
+sg8
+VJOSH
+p138
+sg10
+g11
+sa(dp139
+g6
+VYou still smarting I had to carry your ass through con law?
+p140
+sg8
+VHAYDEN
+p141
+sg10
+g11
+sa(dp142
+g6
+VYou did not carry...
+p143
+sg8
+VJOSH
+p144
+sg10
+g11
+sa(dp145
+g6
+VYou thought strict-scrutiny was a pick-up technique.
+p146
+sg8
+VHAYDEN
+p147
+sg10
+g11
+sa(dp148
+g6
+VHey, it worked on Pam Sussman.
+p149
+sg8
+VJOSH
+p150
+sg10
+g11
+sa(dp151
+g6
+VI mean, not that well. How is your lovely wife?
+p152
+sg8
+VJOSH
+p153
+sg10
+g11
+sa(dp154
+g6
+VShe's good.
+p155
+sg8
+VHAYDEN
+p156
+sg10
+g11
+sa(dp157
+g6
+VSo, Georgetown offered me dean of the law school.
+p158
+sg8
+VHAYDEN
+p159
+sg10
+g11
+sa(dp160
+g6
+VThat's great, except aren't you a judicial nominee for the Sixth Circuit?
+p161
+sg8
+VJOSH
+p162
+sg10
+g11
+sa(dp163
+g6
+VI've been a judicial nominee for the Sixth Circuit for 12 months.
+p164
+sg8
+VHAYDEN
+p165
+sg10
+g11
+sa(dp166
+g6
+VYou knew the confirmation process would be an uphill battle.
+p167
+sg8
+VJOSH
+p168
+sg10
+g11
+sa(dp169
+g6
+VUphill battle? It's more like a permanent gag order. I can't write, I can't publish. Hell, I can't even debate the cases with my students. Not to mention I've had a bull's-eye painted on my back for 12 months. They've called my wife, my brother, my ex-girlfriends.
+p170
+sg8
+VHAYDEN
+p171
+sg10
+g11
+sa(dp172
+g6
+VThese things take time.
+p173
+sg8
+VJOSH
+p174
+sg10
+g11
+sa(dp175
+g6
+VCome on. The Republicans have been blocking your nominations since Bartlet took office.
+p176
+sg8
+VHAYDEN
+p177
+sg10
+g11
+sa(dp178
+g6
+VYou drop out, you're going to close this door forever.
+p179
+sg8
+VJOSH
+p180
+sg10
+g11
+sa(dp181
+g6
+VI'm not sure this door was ever open.
+p182
+sg8
+VHAYDEN
+p183
+sg10
+S'negative'
+p184
+sa(dp185
+g6
+VWhen does Georgetown...
+p186
+sg8
+VJOSH
+p187
+sg10
+g11
+sa(dp188
+g6
+VDon't do this to me.
+p189
+sg8
+VHAYDEN
+p190
+sg10
+g184
+sa(dp191
+g6
+VWhen do they need to know?
+p192
+sg8
+VJOSH
+p193
+sg10
+g11
+sa(dp194
+g6
+VEnd of the week.
+p195
+sg8
+VHAYDEN
+p196
+sg10
+g11
+sa(dp197
+g6
+VGive me 'til then.
+p198
+sg8
+VJOSH
+p199
+sg10
+g11
+sa(dp200
+g6
+VTo do what?
+p201
+sg8
+VHAYDEN
+p202
+sg10
+g11
+sa(dp203
+g6
+VTo fix it.
+p204
+sg8
+VJOSH
+p205
+sg10
+g11
+sa(dp206
+g6
+VThey said they'd call back.
+p207
+sg8
+VRENA
+p208
+sg10
+g11
+sa(dp209
+g6
+VYou told Congressman Bentley the White House was calling? Toby Ziegler from the White House?
+p210
+sg8
+VTOBY
+p211
+sg10
+g11
+sa(dp212
+g6
+VMaybe you're running out of shizzle. I looked up his funding on the NIH's public website. The money for last year's the same as before Ellie Bartlet started working - okay, $14 more. Maybe they gave him a new trash can.
+p213
+sg8
+VRENA
+p214
+sg10
+g11
+sa(dp215
+g6
+VTry Bentley again and look into not-so-direct ways we could be sending money in Dr. Foy's direction. And please don't say "shizzle".
+p216
+sg8
+VTOBY
+p217
+sg10
+g11
+sa(dp218
+g6
+VMrs. Bartlet ditched the Board of Regent's meeting? What, did you find her smoking in the parking lot of the Smithsonian?
+p219
+sg8
+VC.J.
+p220
+sg10
+g11
+sa(dp221
+g6
+VShe was working at the clinic. And she sent a proxy, but Chairwoman Dorothea Langston Lodge is hopping mad and threatening to go to the press.
+p222
+sg8
+VLEO
+p223
+sg10
+g11
+sa(dp224
+g6
+VHopping mad she had to go the Board of Regent's meeting.
+p225
+sg8
+VC.J.
+p226
+sg10
+g11
+sa(dp227
+g6
+VWe've got an image problem. The stories aren't dying down. The press doesn't know what to do with the First Lady. Nobody does, including the President, which is why he'd like you to sit down with her.
+p228
+sg8
+VLEO
+p229
+sg10
+g11
+sa(dp230
+g6
+VHappy to help.
+p231
+sg8
+VC.J.
+p232
+sg10
+g11
+sa(dp233
+g6
+VShe's in the Mural Room.
+p234
+sg8
+VLEO
+p235
+sg10
+g11
+sa(dp236
+g6
+VNow? I have a... had a lunch. I'm just going to go cancel it.
+p237
+sg8
+VC.J.
+p238
+sg10
+g11
+sa(dp239
+g6
+VAre you wearing White Shoulders? My piano teacher used to wear White Shoulders.
+p240
+sg8
+VLEO
+p241
+sg10
+g11
+sa(dp242
+g6
+VNot as much.
+p243
+sg8
+VLEO
+p244
+sg10
+g11
+sa(dp245
+g6
+VHi.
+p246
+sg8
+VC.J.
+p247
+sg10
+g11
+sa(dp248
+g6
+VHi.
+p249
+sg8
+VBEN
+p250
+sg10
+g11
+sa(dp251
+g6
+VLong time.
+p252
+sg8
+VC.J.
+p253
+sg10
+g11
+sa(dp254
+g6
+VYeah. You look great.
+p255
+sg8
+VBEN
+p256
+sg10
+g11
+sa(dp257
+g6
+VYou, too. I'm sorry, Ben, I can't have lunch. And I don't have a lot of time. But... you did the dance. You paid your dues. I want you to know that I'm in.
+p258
+sg8
+VC.J.
+p259
+sg10
+g11
+sa(dp260
+g6
+VWhat?
+p261
+sg8
+VBEN
+p262
+sg10
+g11
+sa(dp263
+g6
+VCoy is a bad color on me. I'm ready. I'm on board. I want you to count me in because I'm in.
+p264
+sg8
+VC.J.
+p265
+sg10
+g11
+sa(dp266
+g6
+VI got to go. Call me later.
+p267
+sg8
+VC.J.
+p268
+sg10
+g11
+sa(dp269
+g6
+VDid you get Leo?
+p270
+sg8
+VJOSH
+p271
+sg10
+g11
+sa(dp272
+g6
+VHe's booked.
+p273
+sg8
+VDONNA
+p274
+sg10
+g11
+sa(dp275
+g6
+VTell Margaret I can talk so fast it won't actually take measurable time.
+p276
+sg8
+VJOSH
+p277
+sg10
+g11
+sa(dp278
+g6
+VI'm waiting for Rodney.
+p279
+sg8
+VDONNA
+p280
+sg10
+g11
+sa(dp281
+g6
+VWho's Rodney?
+p282
+sg8
+VJOSH
+p283
+sg10
+g11
+sa(dp284
+g6
+VRyan's roommate.
+p285
+sg8
+VDONNA
+p286
+sg10
+g11
+sa(dp287
+g6
+VRyan's got a roommate?
+p288
+sg8
+VJOSH
+p289
+sg10
+g11
+sa(dp290
+g6
+VHe's checking to see if Ryan's in his room because he didn't show up today and it's not like him.
+p291
+sg8
+VDONNA
+p292
+sg10
+g11
+sa(dp293
+g6
+VReally? 'Cause it seems exactly like him.
+p294
+sg8
+VJOSH
+p295
+sg10
+g11
+sa(dp296
+g6
+VHe's never late. He walks in like he's late, but he's not.
+p297
+sg8
+VDONNA
+p298
+sg10
+g11
+sa(dp299
+g6
+VLike when you're on a train and the train next to you is pulling away, only it's like...
+p300
+sg8
+VJOSH
+p301
+sg10
+g11
+sa(dp302
+g6
+VI wonder if he went back to sleep.
+p303
+sg8
+VDONNA
+p304
+sg10
+g11
+sa(dp305
+g6
+VThat, or he's dead now, too. Get me Leo.
+p306
+sg8
+VJOSH
+p307
+sg10
+g11
+sa(dp308
+g6
+VSo, what was it? Was it the tube top to meet the Queen of England or the low rise jeans for the North Korean delegation?
+p309
+sg8
+VABBEY
+p310
+sg10
+g11
+sa(dp311
+g6
+VMrs. Bartlet, the press didn't know what to make of you before the MS became public. You've never been the traditional hat-knitting President's wife.
+p312
+sg8
+VC.J.
+p313
+sg10
+g11
+sa(dp314
+g6
+VOh, shoot. Was that in the handbook? Maybe just get me a photographer and seven year's worth of yarn.
+p315
+sg8
+VABBEY
+p316
+sg10
+g11
+sa(dp317
+g6
+VCan you tell me why you decided to volunteer at the free clinic?
+p318
+sg8
+VC.J.
+p319
+sg10
+g11
+sa(dp320
+g6
+VBecause, instead of putting out a press release I decided to roll up my sleeves and help treat children.
+p321
+sg8
+VABBEY
+p322
+sg10
+g11
+sa(dp323
+g6
+VIs there any particular...
+p324
+sg8
+VC.J.
+p325
+sg10
+g11
+sa(dp326
+g6
+VThere are any number of children's health issues I'm concerned with, so I thought it was appropriate to go out and just see what was going on first-hand.
+p327
+sg8
+VABBEY
+p328
+sg10
+g11
+sa(dp329
+g6
+VGreat. But until the press understands that, they're going to fill in the blanks with self-aggrandizing, craven, vote-grabbing...
+p330
+sg8
+VC.J.
+p331
+sg10
+g11
+sa(dp332
+g6
+VWould you like me to do interviews with the press corps?
+p333
+sg8
+VABBEY
+p334
+sg10
+g11
+sa(dp335
+g6
+VGod, no! They're the most cynical bastards on the planet. You need to get beyond the Washington echo chamber and speak directly to the people.
+p336
+sg8
+VC.J.
+p337
+sg10
+g11
+sa(dp338
+g6
+VSo, what did you have in mind?
+p339
+sg8
+VABBEY
+p340
+sg10
+g11
+sa(dp341
+g6
+VI checked out the reject list from your invitation file and there are a few things in her I think you should reconsider: the first of which is Muppets.
+p342
+sg8
+VC.J.
+p343
+sg10
+g11
+sa(dp344
+g6
+VPardon.
+p345
+sg8
+VABBEY
+p346
+sg10
+g11
+sa(dp347
+g6
+VGoing on Sesame Street would give you an opportunity to reintroduce yourself as the First Lady who is also a working doctor and address the press's questions about your work at the clinic. Give a muppet a checkup. Get your message out.
+p348
+sg8
+VC.J.
+p349
+sg10
+g11
+sa(dp350
+g6
+VNo Meet the Press?
+p351
+sg8
+VABBEY
+p352
+sg10
+g11
+sa(dp353
+g6
+VMrs. Bartlet...
+p354
+sg8
+VC.J.
+p355
+sg10
+g11
+sa(dp356
+g6
+VYou don't think I could take Russert?
+p357
+sg8
+VABBEY
+p358
+sg10
+g11
+sa(dp359
+g6
+VWhy should you? Only five people are watching and it's the toughest interview on the planet. I want you on the Surgery channel, women's health magazines, the Today Show. Mrs. Russell's ratings bumped considerably when she did her cooking segment. Her chili was so good they're having her back for Christmas.
+p360
+sg8
+VC.J.
+p361
+sg10
+g11
+sa(dp362
+g6
+VC.J., you're trying to raise my competitive hackles.
+p363
+sg8
+VABBEY
+p364
+sg10
+g11
+sa(dp365
+g6
+VMrs. Bartlet, if I were trying to raise your competitive hackles, I'd make you watch Diane Sawyer's duet with Cookie Monster.
+p366
+sg8
+VC.J.
+p367
+sg10
+g11
+sa(dp368
+g6
+VMuppets.
+p369
+sg8
+VABBEY
+p370
+sg10
+g11
+sa(dp371
+g6
+VI want to set up a meeting...
+p372
+sg8
+VJOSH
+p373
+sg10
+g11
+sa(dp374
+g6
+VThat's a productive use of your time.
+p375
+sg8
+VLEO
+p376
+sg10
+g11
+sa(dp377
+g6
+VEric Hayden's going to withdraw from the nomination process. Sixth Circuit's got eight empty seats.
+p378
+sg8
+VJOSH
+p379
+sg10
+g11
+sa(dp380
+g6
+VEmpty for a year and a half.
+p381
+sg8
+VLEO
+p382
+sg10
+g11
+sa(dp383
+g6
+VBecause the Republican's have been holding up our nominations in committee.
+p384
+sg8
+VJOSH
+p385
+sg10
+g11
+sa(dp386
+g6
+VWhat else is new?
+p387
+sg8
+VLEO
+p388
+sg10
+g11
+sa(dp389
+g6
+VAt least four of those nominees, including Hayden, would be confirmed in a straight up or down vote if they got out of committee and onto the Senate floor. Meanwhile, over in the judicial branch, the seven remaining judges on the Sixth Circuit are completely overworked, and the number of cases keeps growing. If Hayden withdraws...
+p390
+sg8
+VJOSH
+p391
+sg10
+g11
+sa(dp392
+g6
+VYou want to make him the "Justice Held Hostage" poster boy?
+p393
+sg8
+VLEO
+p394
+sg10
+g11
+sa(dp395
+g6
+VI'm betting the Republicans on the Judiciary Committee don't. How can they afford to block a qualified...
+p396
+sg8
+VJOSH
+p397
+sg10
+g11
+sa(dp398
+g6
+VThey've been blocking our nominations since Roe. If a judge has half an opinion on the right to privacy, it's grounds for killing the nomination. You think you can just waltz in, knock on a few pipes and fix the plumbing?
+p399
+sg8
+VLEO
+p400
+sg10
+g11
+sa(dp401
+g6
+VThe Sixth Circuit...
+p402
+sg8
+VJOSH
+p403
+sg10
+g11
+sa(dp404
+g6
+VIt's one lousy appellate court.
+p405
+sg8
+VLEO
+p406
+sg10
+g11
+sa(dp407
+g6
+VEric Hayden and the eight empty seats epitomize the problem. You don't think it's time to do something?
+p408
+sg8
+VJOSH
+p409
+sg10
+g11
+sa(dp410
+g6
+VLunatics. I'm surrounded by lunatics.
+p411
+sg8
+VLEO
+p412
+sg10
+g11
+sa(dp413
+g6
+VI'm going to set up the meeting.
+p414
+sg8
+VJOSH
+p415
+sg10
+g11
+sa(dp416
+g6
+VI've got ten bucks says you're banging your head against the sink.
+p417
+sg8
+VLEO
+p418
+sg10
+g11
+sa(dp419
+g6
+VTwenty.
+p420
+sg8
+VJOSH
+p421
+sg10
+g11
+sa(dp422
+g6
+VThat's what I figured you'd say, Mike, but thanks for checking.
+p423
+sg8
+VTOBY
+p424
+sg10
+g11
+sa(dp425
+g6
+VYou're friend couldn't help?
+p426
+sg8
+VRENA
+p427
+sg10
+g11
+sa(dp428
+g6
+VMy friend's a Democrat, which means no one on House Reform who knows anything talks to him. What do you got?
+p429
+sg8
+VTOBY
+p430
+sg10
+g11
+sa(dp431
+g6
+VBubkiss.I mean, unless Dr. Foy got some of the $2 billion earmarked for HIV and AIDS research.
+p432
+sg8
+VRENA
+p433
+sg10
+g11
+sa(dp434
+g6
+VFoy's funding didn't come from that money.
+p435
+sg8
+VTOBY
+p436
+sg10
+g11
+sa(dp437
+g6
+VIf this is the President's brand of favoritism, Dr. Foy should find himself a new sugar daddy.
+p438
+sg8
+VRENA
+p439
+sg10
+g11
+sa(dp440
+g6
+VWhere's Bentley?
+p441
+sg8
+VTOBY
+p442
+sg10
+g11
+sa(dp443
+g6
+VI tried him again. His assistant promised she'd have him call you as soon as he gets off the floor.
+p444
+sg8
+VRENA
+p445
+sg10
+g11
+sa(dp446
+g6
+VHe's not on the floor. There's no more votes today.
+p447
+sg8
+VTOBY
+p448
+sg10
+g11
+sa(dp449
+g6
+VIt's Barbara Layton. And there's Bentley standing right next to her. Get C.J.
+p450
+sg8
+VTOBY
+p451
+sg10
+g11
+sa(dp452
+g6
+VI have a list...
+p453
+sg8
+VLAYTON
+p454
+sg10
+g184
+sa(dp455
+g6
+VC.J., it's Toby.
+p456
+sg8
+VCAROL
+p457
+sg10
+g11
+sa(dp458
+g6
+VTell him I'm already watching.
+p459
+sg8
+VC.J.
+p460
+sg10
+g11
+sa(dp461
+g6
+VDr. Gloria Buezo, $1,788,000. Dr. Lewis Foy...
+p462
+sg8
+VLAYTON
+p463
+sg10
+g11
+sa(dp464
+g6
+VDamn it.
+p465
+sg8
+VC.J.
+p466
+sg10
+g11
+sa(dp467
+g6
+VShe has a list. She made a list. Didn't lists go out with Joe McCarthy and hula-hoops? And haven't these 255 scientists had to go through a rigorous review process before getting a dollar?
+p468
+sg8
+VC.J.
+p469
+sg10
+g11
+sa(dp470
+g6
+VThey knew about Ellie. Bentley and Layton knew that if they questioned Dr. Foy, Ellie would contact us and we'd come knocking hard and fast, and I walked right into it. It's a full-frontal attack and Layton's not going to stop until she gets her televised investigation.
+p471
+sg8
+VTOBY
+p472
+sg10
+g11
+sa(dp473
+g6
+VYou think Layton doesn't care about science?
+p474
+sg8
+VC.J.
+p475
+sg10
+g11
+sa(dp476
+g6
+VShe didn't have an opinion on artistic expression then and she helped dismantle the NEA.
+p477
+sg8
+VTOBY
+p478
+sg10
+g11
+sa(dp479
+g6
+VLet's not even dignify it. Put out a neutral statement saying the White House has no role in the NIH review process. Refer all questions to the National Institutes of Health.
+p480
+sg8
+VC.J.
+p481
+sg10
+g11
+sa(dp482
+g6
+VWe might want the fight. We've just got to find out what it is first. [louder] Rena, get me a copy of that list.
+p483
+sg8
+VTOBY
+p484
+sg10
+g11
+sa(dp485
+g6
+VI'm right here.
+p486
+sg8
+VRENA
+p487
+sg10
+g184
+sa(dp488
+g6
+VFind out everything you can about the projects and the investigators. How the list was put together.
+p489
+sg8
+VTOBY
+p490
+sg10
+g11
+sa(dp491
+g6
+VOkay.
+p492
+sg8
+VRENA
+p493
+sg10
+g11
+sa(dp494
+g6
+VGet on the NIH's website. Look for keywords that appear in the project title; like "heroin", "men who sleep with men".
+p495
+sg8
+VTOBY
+p496
+sg10
+g11
+sa(dp497
+g6
+VThey're coming after us.
+p498
+sg8
+VC.J.
+p499
+sg10
+g129
+sa(dp500
+g6
+VYeah. We can't put our pieces on the board until we know what game we're playing. Just don't do anything. Just don't say anything. We can't... we don't want Ellie's name spilling out because we pressed the wrong button.
+p501
+sg8
+VTOBY
+p502
+sg10
+g11
+sa(dp503
+g6
+VIf we don't respond, it'll look like we have no response. I'm going to need a party line.
+p504
+sg8
+VC.J.
+p505
+sg10
+g11
+sa(dp506
+g6
+VI'll talk to Leo.
+p507
+sg8
+VTOBY
+p508
+sg10
+g11
+sa(dp509
+g6
+VNo, no, no. Not one of the daughters.
+p510
+sg8
+VLEO
+p511
+sg10
+g11
+sa(dp512
+g6
+VThey haven't involved Ellie yet.
+p513
+sg8
+VTOBY
+p514
+sg10
+g11
+sa(dp515
+g6
+VYou know what happens if the President finds out Ellie's being dragged into a political tar pit: we won't be able to get him to focus on his breakfast order because he'll be asking for the launch codes. What's C.J. think?
+p516
+sg8
+VLEO
+p517
+sg10
+g11
+sa(dp518
+g6
+VThat we should hang back with a neutral statement.
+p519
+sg8
+VTOBY
+p520
+sg10
+g11
+sa(dp521
+g6
+VHiding under the covers isn't going to work. Margaret! Set up a meeting with Toby and Layton for tomorrow morning. Let's see if we can't negotiate our way out.
+p522
+sg8
+VLEO
+p523
+sg10
+g11
+sa(dp524
+g6
+VA meeting's a statement. Our guys will think we've caved, her folks will crow. You know she's not sitting down unless she comes away with a pound of flesh.
+p525
+sg8
+VTOBY
+p526
+sg10
+g11
+sa(dp527
+g6
+VThat's why I gave you until tomorrow morning.
+p528
+sg8
+VLEO
+p529
+sg10
+g11
+sa(dp530
+g6
+VThe NSC principles are in the Sit Room.
+p531
+sg8
+VMARGARET
+p532
+sg10
+g11
+sa(dp533
+g6
+VThanks. [to Toby] I'm sorry, but can we really justify spending $800,000 on "A Bio-Cultural Approach to the Study of Female Sexual Fantasy and Genital Arousal"?
+p534
+sg8
+VLEO
+p535
+sg10
+g11
+sa(dp536
+g6
+VHow can we afford not to?
+p537
+sg8
+VTOBY
+p538
+sg10
+g11
+sa(dp539
+g6
+VAnd the President was wondering if you'll be joining him at the reception for Congressman Scaia.
+p540
+sg8
+VDEBBIE
+p541
+sg10
+g11
+sa(dp542
+g6
+VYou bet.
+p543
+sg8
+VABBEY
+p544
+sg10
+g11
+sa(dp545
+g6
+VMrs. Bartlet... people are talking and I was wondering if you could confirm...
+p546
+sg8
+VDEBBIE
+p547
+sg10
+g11
+sa(dp548
+g6
+VYes, Debbie. The Muppets are coming to our very own White House.
+p549
+sg8
+VABBEY
+p550
+sg10
+g11
+sa(dp551
+g6
+VI had the good fortune of seeing Judy Garland live at Carnegie Hall, but Miss Piggy--here... it's just too much.
+p552
+sg8
+VDEBBIE
+p553
+sg10
+g11
+sa(dp554
+g6
+VDebbie's a big fan.
+p555
+sg8
+VCHARLIE
+p556
+sg10
+g11
+sa(dp557
+g6
+VAnd your not?
+p558
+sg8
+VABBEY
+p559
+sg10
+g11
+sa(dp560
+g6
+VI'm crazy for Muppets. I'm just trying to act cool.
+p561
+sg8
+VCHARLIE
+p562
+sg10
+g11
+sa(dp563
+g6
+VMa'am, will Fozzie Bear be in the house?
+p564
+sg8
+VDEBBIE
+p565
+sg10
+g11
+sa(dp566
+g6
+VInterestingly, Fozzie and Miss Piggy aren't actually a part of the Sesame Street gang. They're from The Muppet Show.
+p567
+sg8
+VABBEY
+p568
+sg10
+g11
+sa(dp569
+g6
+VAnd what about Kermit?
+p570
+sg8
+VDEBBIE
+p571
+sg10
+g11
+sa(dp572
+g6
+VHe is the only crossover.
+p573
+sg8
+VABBEY
+p574
+sg10
+g11
+sa(dp575
+g6
+VOh.
+p576
+sg8
+VDEBBIE
+p577
+sg10
+g11
+sa(dp578
+g6
+VSet me a meeting with the judiciary chief of staff.
+p579
+sg8
+VJOSH
+p580
+sg10
+g11
+sa(dp581
+g6
+VLisa Wolfe?
+p582
+sg8
+VDONNA
+p583
+sg10
+g11
+sa(dp584
+g6
+VWe're gonna put butts in seats. I'm packing the court.
+p585
+sg8
+VJOSH
+p586
+sg10
+g11
+sa(dp587
+g6
+VBecause of Eric Hayden.
+p588
+sg8
+VDONNA
+p589
+sg10
+g11
+sa(dp590
+g6
+VBecause of Eric Hayden, because the Sixth Circuit's in crisis, because the judicial nomination process is a complete mess.
+p591
+sg8
+VJOSH
+p592
+sg10
+g11
+sa(dp593
+g6
+VIs this some kind of over-determined, do-something-impossible-to-impress-the-guy-who-impressed-you-stole-your-girlfriend-in-law-school kind of thing?
+p594
+sg8
+VDONNA
+p595
+sg10
+g11
+sa(dp596
+g6
+VHe didn't steal my girlfriend. I thought Pam was cute, but when I saw she had eyes for Hayden I bowed out like a gentleman. Also, there's nothing I take more seriously than getting judges on the federal bench.
+p597
+sg8
+VJOSH
+p598
+sg10
+g11
+sa(dp599
+g6
+VWhat about getting judges on the Supreme Court?
+p600
+sg8
+VDONNA
+p601
+sg10
+g11
+sa(dp602
+g6
+VYou see, this is the problem. It's all about the Supreme Court. Nine guys getting all the ink.
+p603
+sg8
+VJOSH
+p604
+sg10
+g11
+sa(dp605
+g6
+VActually, it's seven guys and two highly-qualified female jurists.
+p606
+sg8
+VDONNA
+p607
+sg10
+g11
+sa(dp608
+g6
+VThe Supreme Court sees 80 cases a year. These guys see close to 20,000. Circuit courts make 99% of judge-made law.
+p609
+sg8
+VJOSH
+p610
+sg10
+g11
+sa(dp611
+g6
+VOh, that is important. You should fix that. Ryan's still missing, by the way.
+p612
+sg8
+VDONNA
+p613
+sg10
+g11
+sa(dp614
+g6
+VWhat do C.J. and Big Bird have in common?
+p615
+sg8
+VWILL
+p616
+sg10
+g11
+sa(dp617
+g6
+VThis'll be fun because no one's ever made a joke about me and Big Bird before.
+p618
+sg8
+VC.J.
+p619
+sg10
+g11
+sa(dp620
+g6
+VYour heads are in Ohio and your feet are in  Florida.
+p621
+sg8
+VWILL
+p622
+sg10
+g11
+sa(dp623
+g6
+VWouldn't that make us not so much tall as crooked?
+p624
+sg8
+VC.J.
+p625
+sg10
+g11
+sa(dp626
+g6
+VOh. Maybe. Is this Layton thing going to stick?
+p627
+sg8
+VWILL
+p628
+sg10
+g11
+sa(dp629
+g6
+VToo soon to tell.
+p630
+sg8
+VC.J.
+p631
+sg10
+g11
+sa(dp632
+g6
+VIt's hard to imagine she'll get any kind of traction. If I had a nickel for every Republican demagogue bloviating about our pansy-assed priorities...
+p633
+sg8
+VWILL
+p634
+sg10
+g11
+sa(dp635
+g6
+VThey do like to bloviate. WILL I mean, isn't that what the floor is for? Anyway...
+p636
+sg8
+VC.J.
+p637
+sg10
+g11
+sa(dp638
+g6
+VDo you want insight into Layton? Toby's tangled with her.
+p639
+sg8
+VC.J.
+p640
+sg10
+g11
+sa(dp641
+g6
+VNo, I was just... Thanks.
+p642
+sg8
+VWILL
+p643
+sg10
+g11
+sa(dp644
+g6
+VHello, Lisa. Let's talk about the Sixth Circuit.
+p645
+sg8
+VJOSH
+p646
+sg10
+g11
+sa(dp647
+g6
+VNot much to talk about.
+p648
+sg8
+VWOLFE
+p649
+sg10
+g11
+sa(dp650
+g6
+VCourt's got eight empty seats.
+p651
+sg8
+VJOSH
+p652
+sg10
+g11
+sa(dp653
+g6
+VAnd not a single confirmable nominee.
+p654
+sg8
+VWOLFE
+p655
+sg10
+g11
+sa(dp656
+g6
+VReally? Seems like Eric Hayden's good for 53 "yea" votes on the Senate floor.
+p657
+sg8
+VJOSH
+p658
+sg10
+g11
+sa(dp659
+g6
+VThat seems unlikely.
+p660
+sg8
+VWOLFE
+p661
+sg10
+g11
+sa(dp662
+g6
+VSo you heard he's planning to withdraw?
+p663
+sg8
+VJOSH
+p664
+sg10
+g11
+sa(dp665
+g6
+VNo. But it wouldn't surprise me.
+p666
+sg8
+VWOLFE
+p667
+sg10
+g184
+sa(dp668
+g6
+VSurprised me. And I've got a feeling the American public's going to be shocked when they hear what the committee's doing to the Sixth Circuit.
+p669
+sg8
+VJOSH
+p670
+sg10
+g11
+sa(dp671
+g6
+VProtecting one of the most important courts in the land from being overrun by the Green Party?
+p672
+sg8
+VWOLFE
+p673
+sg10
+g11
+sa(dp674
+g6
+VWhoa, whoa. The Green Party?
+p675
+sg8
+VJOSH
+p676
+sg10
+g11
+sa(dp677
+g6
+VHayden gave a speech on gay rights five years ago in which he said the courts should make sodomy laws unconstitutional.
+p678
+sg8
+VWOLFE
+p679
+sg10
+g11
+sa(dp680
+g6
+VThe court just made sodomy laws unconstitutional.
+p681
+sg8
+VJOSH
+p682
+sg10
+g11
+sa(dp683
+g6
+VYes. Let me tell you, our base was thrilled with that decision.
+p684
+sg8
+VWOLFE
+p685
+sg10
+g11
+sa(dp686
+g6
+VThe press is already writing stories about the state of affairs on the Sixth Circuit. It's time to fix this thing. It's in both our interests.
+p687
+sg8
+VJOSH
+p688
+sg10
+g11
+sa(dp689
+g6
+VTalk more.
+p690
+sg8
+VWOLFE
+p691
+sg10
+g11
+sa(dp692
+g6
+VWe start with Hayden.
+p693
+sg8
+VJOSH
+p694
+sg10
+g11
+sa(dp695
+g6
+VAnd the Sixth Circuit.
+p696
+sg8
+VWOLFE
+p697
+sg10
+g11
+sa(dp698
+g6
+VYou guys show a little good faith we'll sit down, knock back a few beers, see what we can do to fix the greater problem.
+p699
+sg8
+VJOSH
+p700
+sg10
+g11
+sa(dp701
+g6
+VOkay. You want to convince the Republicans on the committee we're starting anew, you're going to need some new nominees.
+p702
+sg8
+VWOLFE
+p703
+sg10
+g11
+sa(dp704
+g6
+VConfirm Hayden and we'll discuss it.
+p705
+sg8
+VJOSH
+p706
+sg10
+g11
+sa(dp707
+g6
+VThey're going to have to fill some of those seats eventually.
+p708
+sg8
+VJOSH
+p709
+sg10
+g11
+sa(dp710
+g6
+VI don't think so.
+p711
+sg8
+VWOLFE
+p712
+sg10
+g11
+sa(dp713
+g6
+VThey can't hold out forever.
+p714
+sg8
+VJOSH
+p715
+sg10
+g11
+sa(dp716
+g6
+VThey can hold out for three years.
+p717
+sg8
+VWOLFE
+p718
+sg10
+g11
+sa(dp719
+g6
+VThey can't. It's half the court. For six months they've left half the seats on the Sixth Circuit...
+p720
+sg8
+VJOSH
+p721
+sg10
+g11
+sa(dp722
+g6
+VThe Sixth Circuit? How about 15% of the federal bench?
+p723
+sg8
+VWOLFE
+p724
+sg10
+g11
+sa(dp725
+g6
+VWhat?
+p726
+sg8
+VJOSH
+p727
+sg10
+g11
+sa(dp728
+g6
+V120 vacant seats. 120 empty robes during the last Republican presidency. Didn't hear Governor Bartlet complaining then. Do you think I like this? Do you think I think this is the way our government should function? I'm a Republican and I've spent every day of the past five years wondering whether judges shouldn't be appointed by executive decree. It's a political process. You want to fill the Sixth Circuit you've got to send us someone we can confirm.
+p729
+sg8
+VWOLFE
+p730
+sg10
+g11
+sa(dp731
+g6
+VThe staff assistants in Layton's office were so happy to give me the list I swear I heard a band playing. So, why should we be studying female sex-workers at truck stops?
+p732
+sg8
+VRENA
+p733
+sg10
+g11
+sa(dp734
+g6
+VWhat's the purpose of the study? To try to improve and protect the public's health, scientists have a responsibility to study whatever they think will lead them to answers.
+p735
+sg8
+VTOBY
+p736
+sg10
+g11
+sa(dp737
+g6
+VAnd we have to pay for it?
+p738
+sg8
+VRENA
+p739
+sg10
+g11
+sa(dp740
+g6
+VYeah, if they're conducted ethically and have merit.
+p741
+sg8
+VTOBY
+p742
+sg10
+g11
+sa(dp743
+g6
+VBut you said scientist's...
+p744
+sg8
+VRENA
+p745
+sg10
+g11
+sa(dp746
+g6
+V[reading] "Doesn't approve of HIV being spread through sexual contact. Drug addicts have made bad personal choices." One congresswoman doesn't get to appoint herself God. Anything else?
+p747
+sg8
+VTOBY
+p748
+sg10
+g11
+sa(dp749
+g6
+VYes. I did a Google search for all of those project titles and the same website kept coming up.
+p750
+sg8
+VRENA
+p751
+sg10
+g11
+sa(dp752
+g6
+VI'm sorry, so, I'm supposed to raise my kid on $650 a week and shell out for research of safe injection practices among heroin users?
+p753
+sg8
+VRENA
+p754
+sg10
+g11
+sa(dp755
+g6
+VYes. You have a kid?
+p756
+sg8
+VTOBY
+p757
+sg10
+g11
+sa(dp758
+g6
+VYeah, I have a little girl.
+p759
+sg8
+VRENA
+p760
+sg10
+g184
+sa(dp761
+g6
+VThe Traditional Values Alliance?
+p762
+sg8
+VTOBY
+p763
+sg10
+g11
+sa(dp764
+g6
+VThey represent a bunch of church groups.
+p765
+sg8
+VRENA
+p766
+sg10
+g11
+sa(dp767
+g6
+VYeah. Some 50,000 of them. It's the same list. Get me Mack McCall from the Traditional Values Alliance on the phone, now.
+p768
+sg8
+VTOBY
+p769
+sg10
+g11
+sa(dp770
+g6
+VWhere's my 20 bucks?
+p771
+sg8
+VLEO
+p772
+sg10
+g11
+sa(dp773
+g6
+VHow do you feel about executive decrees?
+p774
+sg8
+VJOSH
+p775
+sg10
+g11
+sa(dp776
+g6
+VLove 'em. I'm making one. I want my money.
+p777
+sg8
+VLEO
+p778
+sg10
+g11
+sa(dp779
+g6
+VHold on there. I want to talk about recess appointments.
+p780
+sg8
+VJOSH
+p781
+sg10
+g11
+sa(dp782
+g6
+VA recess appointment?
+p783
+sg8
+VLEO
+p784
+sg10
+g11
+sa(dp785
+g6
+VNot just one. Eight of 'em. Every vacant seat on the Sixth Circuit.
+p786
+sg8
+VJOSH
+p787
+sg10
+g11
+sa(dp788
+g6
+VUh-huh, fork it over.
+p789
+sg8
+VLEO
+p790
+sg10
+g11
+sa(dp791
+g6
+VLeo.
+p792
+sg8
+VJOSH
+p793
+sg10
+g11
+sa(dp794
+g6
+VThe appointments are only going to last for nine months, then we got to nominate these guys again and we're back to square one.
+p795
+sg8
+VLEO
+p796
+sg10
+g11
+sa(dp797
+g6
+VIt's not square one. We increase public awareness, we re-examine the process...
+p798
+sg8
+VJOSH
+p799
+sg10
+g11
+sa(dp800
+g6
+VWe have our own little Whiskey Rebellion on the floor of the Senate.
+p801
+sg8
+VLEO
+p802
+sg10
+g11
+sa(dp803
+g6
+VIn response to which we circulate a bio of every one of our new judges, let the country decide who's in the right. If we're going to have a national debate, it's got to be on our terms.
+p804
+sg8
+VJOSH
+p805
+sg10
+g11
+sa(dp806
+g6
+VSomebody's going to ask if it's constitutional.
+p807
+sg8
+VLEO
+p808
+sg10
+g11
+sa(dp809
+g6
+VChief Justice Warren thought so.
+p810
+sg8
+VJOSH
+p811
+sg10
+g11
+sa(dp812
+g6
+VEarl Warren approved?
+p813
+sg8
+VLEO
+p814
+sg10
+g11
+sa(dp815
+g6
+VEarl Warren was one. Along with Brennan and Potter Stewart.
+p816
+sg8
+VJOSH
+p817
+sg10
+g129
+sa(dp818
+g6
+VI'll run it up the flagpole.
+p819
+sg8
+VLEO
+p820
+sg10
+g11
+sa(dp821
+g6
+VHere you go.
+p822
+sg8
+VJOSH
+p823
+sg10
+g11
+sa(dp824
+g6
+VI don't know, Charlie, C.J. and Big Bird are so tall that what?
+p825
+sg8
+VC.J.
+p826
+sg10
+g11
+sa(dp827
+g6
+VWhen you do cartwheels...
+p828
+sg8
+VCHARLIE
+p829
+sg10
+g11
+sa(dp830
+g6
+V... we kick God in the chin. When we trip on a rock we hit our heads on the moon, when we do push-ups we burn our backs on the sun.
+p831
+sg8
+VC.J.
+p832
+sg10
+g11
+sa(dp833
+g6
+VAnd you read the Tall Street Journal.
+p834
+sg8
+VCHARLIE
+p835
+sg10
+g11
+sa(dp836
+g6
+VGo away.
+p837
+sg8
+VC.J.
+p838
+sg10
+g11
+sa(dp839
+g6
+VDems have scheduled special-order speeches in defense of pure science, pro-family groups are coming to Layton's defense. There's a letter signed by 237 members of the National Academy of Science calling the list "Scientific McCarthyism", and the head of the NIH just put out a statement.
+p840
+sg8
+VCAROL
+p841
+sg10
+g11
+sa(dp842
+g6
+V"I have order an immediate review of all relevant projects." Great.
+p843
+sg8
+VC.J.
+p844
+sg10
+g11
+sa(dp845
+g6
+VThere's a whole new world of Sesame Street since my girls were little. Gordon and Susan have gotten married. Maria has a daughter that's almost grown.
+p846
+sg8
+VABBEY
+p847
+sg10
+g11
+sa(dp848
+g6
+VWhat about Bob?
+p849
+sg8
+VC.J.
+p850
+sg10
+g11
+sa(dp851
+g6
+VBob is still there, he looks fantastic. You have a handsome man in your doorway.
+p852
+sg8
+VABBEY
+p853
+sg10
+g11
+sa(dp854
+g6
+VCarol.
+p855
+sg8
+VC.J.
+p856
+sg10
+g11
+sa(dp857
+g6
+VHe really needed to talk to you.
+p858
+sg8
+VCAROL
+p859
+sg10
+g11
+sa(dp860
+g6
+VHello. I'm Abbey Bartlet.
+p861
+sg8
+VABBEY
+p862
+sg10
+g11
+sa(dp863
+g6
+VBen Dryer, ma'am.
+p864
+sg8
+VBEN
+p865
+sg10
+g11
+sa(dp866
+g6
+VYes. But who are you to our C.J.?
+p867
+sg8
+VABBEY
+p868
+sg10
+g11
+sa(dp869
+g6
+VThat's an excellent question, Mrs. Bartlet.
+p870
+sg8
+VBEN
+p871
+sg10
+g11
+sa(dp872
+g6
+VWould you excuse us a moment?
+p873
+sg8
+VC.J.
+p874
+sg10
+g11
+sa(dp875
+g6
+VNice to meet you.
+p876
+sg8
+VABBEY
+p877
+sg10
+g11
+sa(dp878
+g6
+VWhatever this is, it isn't a good time.
+p879
+sg8
+VC.J.
+p880
+sg10
+g11
+sa(dp881
+g6
+VWhat... what does that mean, 'You're in"?
+p882
+sg8
+VBEN
+p883
+sg10
+g11
+sa(dp884
+g6
+VYou... me... together. BEN We haven't seen each other in six years. We haven't slept together in 15. So, what, are we engaged? I have a daughter. I have an ex-wife. I have and ex-wife's mother that I have to take care of. What, are we gonna have kids? Because we should probably get cracking.
+p885
+sg8
+VC.J.
+p886
+sg10
+g11
+sa(dp887
+g6
+VI didn't...
+p888
+sg8
+VC.J.
+p889
+sg10
+g11
+sa(dp890
+g6
+VYeah.
+p891
+sg8
+VBEN
+p892
+sg10
+g11
+sa(dp893
+g6
+VExcuse me. Hi. Hi. Sorry.
+p894
+sg8
+VTOBY
+p895
+sg10
+g11
+sa(dp896
+g6
+VI just got off the phone with Mack McCall of the Traditional Values Alliance. The $2 million earmarked for AIDS research is actually a "pseudo-scientific slush-fund for the President's daughter."
+p897
+sg8
+VTOBY
+p898
+sg10
+g11
+sa(dp899
+g6
+VShe doesn't work in HIV. They're kooks.
+p900
+sg8
+VC.J.
+p901
+sg10
+g11
+sa(dp902
+g6
+VWith a press conference that's gonna get coverage on national TV.
+p903
+sg8
+VTOBY
+p904
+sg10
+g11
+sa(dp905
+g6
+VOh, my God.
+p906
+sg8
+VC.J.
+p907
+sg10
+g11
+sa(dp908
+g6
+VAnd where is Ellie? The press is gonna be all over her.
+p909
+sg8
+VTOBY
+p910
+sg10
+g11
+sa(dp911
+g6
+VWe've got about thirty minutes to keep her under wraps.
+p912
+sg8
+VC.J.
+p913
+sg10
+g11
+sa(dp914
+g6
+VRon Butterfield.
+p915
+sg8
+VTOBY
+p916
+sg10
+g11
+sa(dp917
+g6
+VCarol, get me the Washington bureau chief.
+p918
+sg8
+VC.J.
+p919
+sg10
+g11
+sa(dp920
+g6
+VC.J.?
+p921
+sg8
+VCAROL
+p922
+sg10
+g11
+sa(dp923
+g6
+VToby.
+p924
+sg8
+VC.J.
+p925
+sg10
+g11
+sa(dp926
+g6
+VDr. Bartlet is, of course, the President's daughter, a post-doctoral fellow at Johns Hopkins where she studies Human Papilloma Virus, or HPV, in Puerto Rican sex workers...
+p927
+sg8
+VREPORTER
+p928
+sg10
+g11
+sa(dp929
+g6
+VSo, she okay?
+p930
+sg8
+VJOSH
+p931
+sg10
+g11
+sa(dp932
+g6
+VThe Secret Service was right there.
+p933
+sg8
+VC.J.
+p934
+sg10
+g11
+sa(dp935
+g6
+VOh my.
+p936
+sg8
+VC.J.
+p937
+sg10
+g11
+sa(dp938
+g6
+VI'd yell, too.
+p939
+sg8
+VTOBY
+p940
+sg10
+g11
+sa(dp941
+g6
+VHow can the Traditional Values Alliance link AIDS money to what Ellie does? Aren't AIDS and HPV different areas of research?
+p942
+sg8
+VJOSH
+p943
+sg10
+g11
+sa(dp944
+g6
+VThey're both below the waist.
+p945
+sg8
+VC.J.
+p946
+sg10
+g11
+sa(dp947
+g6
+VHPV is a sexually transmitted virus that's been linked to cervical cancer.
+p948
+sg8
+VDEBBIE
+p949
+sg10
+g11
+sa(dp950
+g6
+VCome on.
+p951
+sg8
+VLEO
+p952
+sg10
+g11
+sa(dp953
+g6
+VWhen the NIH was founded, the idea was simple: Identify the best research as defined by scientists themselves. And now these people, who are not even scientists, have answered all the questions before any science has been done? Have you seen one of these grant applications? We're lucky Einstein didn't have to fill one out or God knows what "E" would equal. [pause] So, tell me what you're doing with yourselves, 'cause right now I feel like I might as well let loose a bunch of buzzards in Ellie's apartment for all the good you're doing me.
+p954
+sg8
+VBARTLET
+p955
+sg10
+g11
+sa(dp956
+g6
+VWe're pretty sure Layton's known about Ellie since the beginning, but she's been covering her tracks by having Bentley call other researchers as well.
+p957
+sg8
+VC.J.
+p958
+sg10
+g11
+sa(dp959
+g6
+VWhat do you propose?
+p960
+sg8
+VLEO
+p961
+sg10
+g11
+sa(dp962
+g6
+VLet's just make a statement and call it what it is: "People who don't like you using you daughter as a partisan pinata."
+p963
+sg8
+VTOBY
+p964
+sg10
+g11
+sa(dp965
+g6
+VI don't want to engage with them.
+p966
+sg8
+VC.J.
+p967
+sg10
+g11
+sa(dp968
+g6
+VWe have to fight back.
+p969
+sg8
+VJOSH
+p970
+sg10
+g184
+sa(dp971
+g6
+VI'm not saying we shouldn't.
+p972
+sg8
+VC.J.
+p973
+sg10
+g11
+sa(dp974
+g6
+VThe public's health is at stake. We're going to sit back and let moralistic dogma replace scientific method? Penicillin, human genetics, Rogaine. These were all discovered with no practical objective in mind.
+p975
+sg8
+VJOSH
+p976
+sg10
+g11
+sa(dp977
+g6
+VIt's not about that.
+p978
+sg8
+VTOBY
+p979
+sg10
+g11
+sa(dp980
+g6
+VIt is, Toby, cause that's what's on the table.
+p981
+sg8
+VC.J.
+p982
+sg10
+g11
+sa(dp983
+g6
+VLet's get Layton over here. I'm not cooperating with any kind of investigation. [to C.J.] And I want you to pull the passes of every White House reporter who filed on this.
+p984
+sg8
+VBARTLET
+p985
+sg10
+g11
+sa(dp986
+g6
+VSir, I can only imagine how angry you must be.
+p987
+sg8
+VC.J.
+p988
+sg10
+g11
+sa(dp989
+g6
+VDamn it! Ellie's never sought or accepted public office! She's not running that lab, She's a research fellow! They can take all the shots they want at me, but these people have to understand when they attack my family, there's going to be consequences.
+p990
+sg8
+VBARTLET
+p991
+sg10
+g11
+sa(dp992
+g6
+VSir, if we punish the Congresswoman or the press, we make it more of a story.
+p993
+sg8
+VJOSH
+p994
+sg10
+g11
+sa(dp995
+g6
+VI think we can discredit Layton.
+p996
+sg8
+VTOBY
+p997
+sg10
+g11
+sa(dp998
+g6
+VHow's that?
+p999
+sg8
+VLEO
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VShe got her hit list from a political action group whose other website is "TheLordhateshomos.org."
+p1002
+sg8
+VTOBY
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VEllie's never asked for anything. Hell, I had to beg her to come to my first Inaugural Ball. She had some kind of exam. I talked to the professor, asked him to reschedule it. I think she's still mad at me. Abbey and I have been very clear: we won't use them, you can't, either. We've never even put the girls on a White House Christmas card.
+p1005
+sg8
+VBARTLET
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VDad, I'm sorry about all of this.
+p1008
+sg8
+VELLIE
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VWhat? I didn't support you?
+p1011
+sg8
+VTOBY
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VNo, I'm just tired. I thought I'd have somewhere to go tonight other than my office. I wore perfume.
+p1014
+sg8
+VC.J.
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VWhat happened with Ben?
+p1017
+sg8
+VTOBY
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VI wrecked it.
+p1020
+sg8
+VC.J.
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VWow. Is that a record?
+p1023
+sg8
+VTOBY
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VPersonal best.
+p1026
+sg8
+VC.J.
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VDid you like him?
+p1029
+sg8
+VTOBY
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VYeah.
+p1032
+sg8
+VC.J.
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VReally?
+p1035
+sg8
+VTOBY
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VYeah.
+p1038
+sg8
+VC.J.
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VGo fix it.
+p1041
+sg8
+VTOBY
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VUh...
+p1044
+sg8
+VC.J.
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VIt's all I've got.
+p1047
+sg8
+VTOBY
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VCall Layton's office. Tell 'em I'm coming over right now. [to Will] You need something?
+p1050
+sg8
+VTOBY
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VHow did Layton get the list?
+p1053
+sg8
+VWILL
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VRussell gonna weigh in on "Scientific McCarthyism"?
+p1056
+sg8
+VTOBY
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VNo. I need to find out...
+p1059
+sg8
+VWILL
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VNow's not good.
+p1062
+sg8
+VTOBY
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VThanks, Julie, you rock. You're all set to see Layton. They're expecting you any time.
+p1065
+sg8
+VRENA
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VPlease don't say "You rock."
+p1068
+sg8
+VTOBY
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VI didn't have much luck with the Judiciary Committee.
+p1071
+sg8
+VJOSH
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VI didn't expect you would.
+p1074
+sg8
+VHAYDEN
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VBut the President is seriously considering a number of recess appointments.
+p1077
+sg8
+VJOSH
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VA number?
+p1080
+sg8
+VHAYDEN
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VYou and the other seven nominees to the Sixth Circuit. It'll be bumpy, but once the public sees your credentials, we're confident that...
+p1083
+sg8
+VJOSH
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VYou think it'll give the President a nice lift in the polls?
+p1086
+sg8
+VHAYDEN
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VNo. I mean, I'm sure it can't hurt, but that's...
+p1089
+sg8
+VJOSH
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VI can't be your martyr, Josh.
+p1092
+sg8
+VHAYDEN
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VI'm not asking.
+p1095
+sg8
+VJOSH
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VThey didn't confirm me now, they're sure as hell not going to confirm me nine months from now. You think Georgetown's just going to wait around? I've got two kids, a wife, a mortgage.
+p1098
+sg8
+VHAYDEN
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VI'm just trying...
+p1101
+sg8
+VJOSH
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VYou're trying to win. In my first semester at Harvard, one of my students helped 30 retired steelworkers file a class-action suit, an action under ERISA. They were old men, just struggling to get by because the mill refused to award them their federally guaranteed pension. So six years later, ten of the plaintiffs have passed on and the court still hasn't gotten to their case. You throw dirt at them. They throw dirt at you. It's never going to stop!
+p1104
+sg8
+VHAYDEN
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VSo you're just going to hide at Georgetown and complain about it? Let's do something! We're firing a shot here. Maybe we won't win the war, but come on, Hayden, you are one of the brightest guys I have ever known. You got nine months. Let's show 'em what you can do.
+p1107
+sg8
+VJOSH
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VHey.
+p1110
+sg8
+VBARTLET
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VHey.
+p1113
+sg8
+VELLIE
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VDid you know that patents and copyrights were invented to encourage private patronage of science and technology? It didn't work, of course.
+p1116
+sg8
+VBARTLET
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VMaybe they should have thrown in a free football phone.
+p1119
+sg8
+VELLIE
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VI'm really sorry about today.
+p1122
+sg8
+VBARTLET
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VYeah, well, if I'd known I was going to be on TV I would have blow-dried.
+p1125
+sg8
+VELLIE
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VThere's always been tension between science and policy. You know, we used to terrible things to you people because we were never ready to hear what you had to say. I know of one guy they were ready to carve up with instruments of torture because he had this silly idea that the Earth revolved around the sun.
+p1128
+sg8
+VBARTLET
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VIf this is an object lesson about how scientists have it better today because there's no Inquisition...
+p1131
+sg8
+VELLIE
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VI enjoy talking about Galileo, and don't you start with me!
+p1134
+sg8
+VBARTLET
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VIt's apocryphal, Dad. A story for tourists. If Galileo had muttered "It still moves" after they made him recant his life's work, they would have killed him on the spot, and I don't know why I let you do this to me! [pause] I promised Dr. Foy I'd have this stuff to him by tonight.
+p1137
+sg8
+VELLIE
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VHe'll understand.
+p1140
+sg8
+VBARTLET
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VI hate that he has to. I don't want to ask him. I just want to go sit in my office and look at my data. What?
+p1143
+sg8
+VELLIE
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VI wish you could do that, too.
+p1146
+sg8
+VBARTLET
+p1147
+sg10
+g129
+sa(dp1148
+g6
+VBut I can't.
+p1149
+sg8
+VELLIE
+p1150
+sg10
+g184
+sa(dp1151
+g6
+VIf you believe in what you're doing, you have to speak up.
+p1152
+sg8
+VBARTLET
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VOur work speaks for itself.
+p1155
+sg8
+VELLIE
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VIt's not enough. I'm sorry you had the misfortune to be born in this family, but our business is politics.
+p1158
+sg8
+VBARTLET
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VThis whole thing started because I earmarked $2 billion dollars of the federal research budget for HIV/AIDS research.
+p1161
+sg8
+VBARTLET
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VWhat does that have to do with...?
+p1164
+sg8
+VELLIE
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VJust because you like what I earmarked doesn't mean I didn't politicize science just like Barbara Layton's trying to do. This is the real world. My enemies will never stop going after you. But if Dr. Foy is investigated, you need to be right by his side. And C.J. can help you with a statement.
+p1167
+sg8
+VBARTLET
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VNo.
+p1170
+sg8
+VELLIE
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VWhen Galileo said "Eppur si muove", it meant that he would continue no matter what to study and publish.
+p1173
+sg8
+VBARTLET
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VI get nosebleeds, Dad.
+p1176
+sg8
+VELLIE
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VEven though he had to live under house arrest and write in secret.
+p1179
+sg8
+VBARTLET
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VI couldn't stand up to a damn book report! It's easy for Zoey and Liz. You and Mom love the attention.
+p1182
+sg8
+VELLIE
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VScience can't wall itself off from controversy. It has to live by it!
+p1185
+sg8
+VBARTLET
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VIt's not me, Dad. It's not.
+p1188
+sg8
+VELLIE
+p1189
+sg10
+g11
+sa(dp1190
+g6
+V[to secretary] It's a red letter day and I just happened to be here to celebrate with you. Toby, hi.
+p1191
+sg8
+VLAYTON
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VCongresswoman.
+p1194
+sg8
+VTOBY
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VI'm sorry about the mess, but one of my assistants just had her thesis published.
+p1197
+sg8
+VLAYTON
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VPlease.
+p1200
+sg8
+VLAYTON
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VNobody wants to blow up the NIH here. I promise I won't even mention the Supercollider.
+p1203
+sg8
+VLAYTON
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VNo, you guys pretty much took care of that one already.
+p1206
+sg8
+VTOBY
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VI hope you will convey my deepest sympathy that the President's daughter has been dragged into all of this.
+p1209
+sg8
+VLAYTON
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VI'll do that. He'll be delighted to hear that we won't be seeing anything about Ellie Bartlet in your fundraising materials.
+p1212
+sg8
+VTOBY
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VIt wasn't my decision for her to go work in a lab doing questionable research on Uncle Sam's dime.
+p1215
+sg8
+VLAYTON
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VAnd you decide what's questionable?
+p1218
+sg8
+VTOBY
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VIt's my job. I'm on the authorizing committee for that money. There's nothing wrong with healthy scrutiny.
+p1221
+sg8
+VLAYTON
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VHealthy scrutiny, not subjective attack. Your list isn't about priorities. It's about imposing ideology and religious doctrine on the awarding of individual scientific grants.
+p1224
+sg8
+VTOBY
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VIt's the taxpayers' money.
+p1227
+sg8
+VLAYTON
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VYour disapproval of high-risk behaviour is justification for stifling the research to reduce it?
+p1230
+sg8
+VTOBY
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VI don't have a problem with homosexuals, or injection-drug users. But there is only one pie, and we're talking about using $2 billion dollars of it on the small percentage of the population with HIV, which will mean cutting funding on Alzheimer's, muscular dystrophy, and diabetes, multiple sclerosis.
+p1233
+sg8
+VLAYTON
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VOh, good. The MS card. This doesn't have to be one or the other.
+p1236
+sg8
+VTOBY
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VOne in eight women will get breast cancer and at least 15% of those aren't going to live five years after the diagnosis. Every dollar you spend on studies of Puerto Rican sex workers is one that you take away from cancer centers and clinical tests.
+p1239
+sg8
+VLAYTON
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VYou don't know that. You don't know where undirected research will lead. You're not a scientist and neither are the members of the Traditional Values Alliance. What are you doing in bed with these people?
+p1242
+sg8
+VTOBY
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VNo, I'm not.
+p1245
+sg8
+VLAYTON
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VI spoke with Mack McCall.
+p1248
+sg8
+VTOBY
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VOh, Mack McCall will take credit for anything that will get his name in the paper.
+p1251
+sg8
+VLAYTON
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VYou got your list from the Traditional Values Alliance.
+p1254
+sg8
+VTOBY
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VI didn't.
+p1257
+sg8
+VLAYTON
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VYour lists are identical.
+p1260
+sg8
+VTOBY
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VThere's a lot of people who care about this issue. A lot of prominent people, on both sides of the aisle. You'd be surprised, Toby. [pause] It was nice seeing you again.
+p1263
+sg8
+VLAYTON
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VI've got Muppets in, like, two minutes but I wanted to...
+p1266
+sg8
+VC.J.
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VLayton claims she didn't get her list from the Traditional Values Alliance.
+p1269
+sg8
+VTOBY
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VShe didn't. Rena?
+p1272
+sg8
+VC.J.
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VWhen I first checked Dr. Foy's research funding on the NIH website, it said he had $14 more this year.
+p1275
+sg8
+VRENA
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VRight... the trash can.
+p1278
+sg8
+VTOBY
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VRight. But when Layton's list came out, the extra $14 weren't there. Now there were other discrepancies between the two lists, but they were so small I figured it was just human error.
+p1281
+sg8
+VRENA
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VSo, Layton's list is up-to-date and the TVA's list isn't?
+p1284
+sg8
+VTOBY
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VWhich makes sense. It's a public website. Probably not updated regularly.
+p1287
+sg8
+VC.J.
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VBut the 14 bucks kept bugging me, so I checked Layton's list against our internal, NIH generated...
+p1290
+sg8
+VRENA
+p1291
+sg10
+g11
+sa(dp1292
+g6
+V... very un-public list. And...
+p1293
+sg8
+VC.J.
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VAnd... they're the same?
+p1296
+sg8
+VTOBY
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VYeah. See? No trash can.
+p1299
+sg8
+VRENA
+p1300
+sg10
+g11
+sa(dp1301
+g6
+VOur list was put out two weeks ago. She couldn't have gotten that information unless...
+p1302
+sg8
+VC.J.
+p1303
+sg10
+g11
+sa(dp1304
+g6
+V... unless whoever put this list together works inside the administration.
+p1305
+sg8
+VTOBY
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VAt first I thought it was Stephen James from HHS, because I know he hates the President. And then I thought it was the passive-aggressive recycling guy, and...
+p1308
+sg8
+VC.J.
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VYou know who it is?
+p1311
+sg8
+VC.J.
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VYeah.
+p1314
+sg8
+VTOBY
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VI have new pages.
+p1317
+sg8
+VCAROL
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VThis is not what we agreed on.
+p1320
+sg8
+VC.J.
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VI think the First Lady had some strong ideas about her character.
+p1323
+sg8
+VCAROL
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VI'll catch up.
+p1326
+sg8
+VWILL
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VIf I were the Vice President's Chief of Staff, gearing up for the next campaign, I might be doing some thinking about our own weaknesses, trying to imagine how-how our opposition might be viewing us, with regards to say... health care spending priorities.
+p1329
+sg8
+VTOBY
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VIt was for my eyes only. No one here knew about it except me.
+p1332
+sg8
+VWILL
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VYeah, well, the experiment got out of the lab, huh?
+p1335
+sg8
+VTOBY
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VYou didn't do opposition research in the last campaign?
+p1338
+sg8
+VWILL
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VThat's what vaults are for.
+p1341
+sg8
+VTOBY
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VI honestly have no idea how it got to the Congresswoman.
+p1344
+sg8
+VWILL
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VYeah?
+p1347
+sg8
+VTOBY
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VI came to talk to you about it yesterday, but you threw me out.
+p1350
+sg8
+VWILL
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VMaybe if you had started the conversation by saying, "I just outed the President's daughter on national TV". That would've gotten my attention.
+p1353
+sg8
+VTOBY
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VSo, you must be happy. Maybe if I had stuck around, I wouldn't be making amateur mistakes, committing career suicide.
+p1356
+sg8
+VWILL
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VI don't give a damn if you left opposition research in a FAX, did you or did you not willfully target the President's daughter?
+p1359
+sg8
+VTOBY
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VOf course not.
+p1362
+sg8
+VWILL
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VI'll take you at your word this was a mistake. Whatever the hell else you want to do about it is your own business.
+p1365
+sg8
+VTOBY
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VThank you.
+p1368
+sg8
+VWILL
+p1369
+sg10
+g129
+sa(dp1370
+g6
+VI never do this. I'm a little nervous.
+p1371
+sg8
+VDONNA
+p1372
+sg10
+g184
+sa(dp1373
+g6
+VOh, my God, that's so sweet. I actually need to get it cut, but thanks.
+p1374
+sg8
+VDONNA
+p1375
+sg10
+g11
+sa(dp1376
+g6
+VOh.
+p1377
+sg8
+VMUPPET
+p1378
+sg10
+g11
+sa(dp1379
+g6
+VIt's just that I thought, well, Kermit was going to be here, but you know, it's no big deal.
+p1380
+sg8
+VDEBBIE
+p1381
+sg10
+g11
+sa(dp1382
+g6
+VI didn't know you studied HPV.
+p1383
+sg8
+VDEBBIE
+p1384
+sg10
+g129
+sa(dp1385
+g6
+VYeah.
+p1386
+sg8
+VELLIE
+p1387
+sg10
+g11
+sa(dp1388
+g6
+VMy sister died of cervical cancer.
+p1389
+sg8
+VDEBBIE
+p1390
+sg10
+g11
+sa(dp1391
+g6
+VI'm so sorry.
+p1392
+sg8
+VELLIE
+p1393
+sg10
+g11
+sa(dp1394
+g6
+VShe was 37. It was really fast. We didn't know then. Nobody knew it was connected to HPV.
+p1395
+sg8
+VDEBBIE
+p1396
+sg10
+g11
+sa(dp1397
+g6
+VYeah.
+p1398
+sg8
+VELLIE
+p1399
+sg10
+g11
+sa(dp1400
+g6
+VI hear there's a vaccine coming.
+p1401
+sg8
+VDEBBIE
+p1402
+sg10
+g11
+sa(dp1403
+g6
+VYeah, that's what we've been working on.
+p1404
+sg8
+VELLIE
+p1405
+sg10
+g11
+sa(dp1406
+g6
+VWork harder.
+p1407
+sg8
+VDEBBIE
+p1408
+sg10
+g11
+sa(dp1409
+g6
+VBoy, going to a doctor is not so bad after all. [he laughs] Oh, that tickles!
+p1410
+sg8
+VELMO
+p1411
+sg10
+g11
+sa(dp1412
+g6
+VOkay, and one, two, three.
+p1413
+sg8
+VABBEY
+p1414
+sg10
+g11
+sa(dp1415
+g6
+VOh, that was fun. Do the other one.
+p1416
+sg8
+VELMO
+p1417
+sg10
+g11
+sa(dp1418
+g6
+VOk, Elmo. It's time for your vaccination and I'm going to give you a little injection.
+p1419
+sg8
+VABBEY
+p1420
+sg10
+g11
+sa(dp1421
+g6
+VBut Mrs. Doctor Abbey, First Lady Doctor, will it hurt Elmo?
+p1422
+sg8
+VELMO
+p1423
+sg10
+g11
+sa(dp1424
+g6
+VWell, maybe just a tiny little bit, but it's very important.
+p1425
+sg8
+VABBEY
+p1426
+sg10
+g11
+sa(dp1427
+g6
+VWait a minute. Didn't you give up your medical license?
+p1428
+sg8
+VELMO
+p1429
+sg10
+g11
+sa(dp1430
+g6
+VDo you have a diploma you could show Elmo?
+p1431
+sg8
+VELMO
+p1432
+sg10
+g11
+sa(dp1433
+g6
+VYeah. ... Let me know if there's anything I can do.
+p1434
+sg8
+VLEO
+p1435
+sg10
+g11
+sa(dp1436
+g6
+VHayden's on board.
+p1437
+sg8
+VJOSH
+p1438
+sg10
+g11
+sa(dp1439
+g6
+VHayden.
+p1440
+sg8
+VLEO
+p1441
+sg10
+g11
+sa(dp1442
+g6
+VI got him. He called Georgetown, he's ready to...
+p1443
+sg8
+VJOSH
+p1444
+sg10
+g11
+sa(dp1445
+g6
+VYeah, we're gonna have to put that on hold. We just lost a Supreme Court Justice...
+p1446
+sg8
+VLEO
+p1447
+sg10
+g11
+sa(dp1448
+g6
+VLost?
+p1449
+sg8
+VJOSH
+p1450
+sg10
+g11
+sa(dp1451
+g6
+VDead.
+p1452
+sg8
+VLEO
+p1453
+sg10
+g11
+sa(dp1454
+g6
+VJustice Ashland's dead?
+p1455
+sg8
+VJOSH
+p1456
+sg10
+g11
+sa(dp1457
+g6
+VJustice Brady. Owen Brady. Heart attack.
+p1458
+sg8
+VLEO
+p1459
+sg10
+g11
+sa(dp1460
+g6
+VWhat was he, 45?
+p1461
+sg8
+VJOSH
+p1462
+sg10
+g11
+sa(dp1463
+g6
+V52.
+p1464
+sg8
+VLEO
+p1465
+sg10
+g11
+sa(dp1466
+g6
+VJustice Brady. Republicans are gonna go nuts. I just saw him.
+p1467
+sg8
+VJOSH
+p1468
+sg10
+g11
+sa(dp1469
+g6
+VLeo. You've got the head of the Senate Judiciary Committee on line three.
+p1470
+sg8
+VMARGARET
+p1471
+sg10
+g11
+sa(dp1472
+g6
+VI'll take it.
+p1473
+sg8
+VLEO
+p1474
+sg10
+g129
+sa(dp1475
+g6
+VYou did well.
+p1476
+sg8
+VC.J.
+p1477
+sg10
+g11
+sa(dp1478
+g6
+VIf there's any kind of firestorm, I promise I'll handle it.
+p1479
+sg8
+VABBEY
+p1480
+sg10
+g11
+sa(dp1481
+g6
+VI know.
+p1482
+sg8
+VC.J.
+p1483
+sg10
+g11
+sa(dp1484
+g6
+VYour handsome man's back.
+p1485
+sg8
+VABBEY
+p1486
+sg10
+g11
+sa(dp1487
+g6
+VThank you for coming back.
+p1488
+sg8
+VC.J.
+p1489
+sg10
+g11
+sa(dp1490
+g6
+VThank you for calling.
+p1491
+sg8
+VBEN
+p1492
+sg10
+g11
+sa(dp1493
+g6
+VC.J., can you help me with something?
+p1494
+sg8
+VELLIE
+p1495
+sg10
+g11
+sa(dp1496
+g6
+VHe in there?
+p1497
+sg8
+VWILL
+p1498
+sg10
+g11
+sa(dp1499
+g6
+VGo on in.
+p1500
+sg8
+VSECRETARY
+p1501
+sg10
+g11
+sa(dp1502
+g6
+VWhat can I do for you, Will?
+p1503
+sg8
+VRUSSELL
+p1504
+sg10
+g11
+sa(dp1505
+g6
+VWe have to talk about the NIH list. I, uh, told them I'm the only one who's seen it. I thought the research would be useful. I thought it was a good idea.
+p1506
+sg8
+VWILL
+p1507
+sg10
+g11
+sa(dp1508
+g6
+VIt was a good idea. I heard you played "Bad Cop-Bad Cop" with the entire staff trying to find out who leaked it to Layton.
+p1509
+sg8
+VRUSSELL
+p1510
+sg10
+g11
+sa(dp1511
+g6
+VDoesn't one of your wife's charities have to do with breast cancer?
+p1512
+sg8
+VWILL
+p1513
+sg10
+g11
+sa(dp1514
+g6
+VThe National Foundation.
+p1515
+sg8
+VRUSSELL
+p1516
+sg10
+g11
+sa(dp1517
+g6
+VCongresswoman Layton's on the board of that foundation, too. Isn't she?
+p1518
+sg8
+VWILL
+p1519
+sg10
+g11
+sa(dp1520
+g6
+VWhat's your point?
+p1521
+sg8
+VRUSSELL
+p1522
+sg10
+g11
+sa(dp1523
+g6
+VThere may be speculation...
+p1524
+sg8
+VWILL
+p1525
+sg10
+g11
+sa(dp1526
+g6
+VMy wife feels very strongly about this work.
+p1527
+sg8
+VRUSSELL
+p1528
+sg10
+g11
+sa(dp1529
+g6
+VIs it possible she may have shared her information with Barbara Layton?
+p1530
+sg8
+VWILL
+p1531
+sg10
+g11
+sa(dp1532
+g6
+VBarb? Yeah. It's possible.
+p1533
+sg8
+VRUSSELL
+p1534
+sg10
+g11
+sa(dp1535
+g6
+VYou're going to need to tell the President, sir.
+p1536
+sg8
+VWILL
+p1537
+sg10
+g11
+sa(dp1538
+g6
+VAm I?
+p1539
+sg8
+VRUSSELL
+p1540
+sg10
+g11
+sa(dp1541
+g6
+VIt's going to come out, sir. The list is all over town.
+p1542
+sg8
+VWILL
+p1543
+sg10
+g11
+sa(dp1544
+g6
+VWell, maybe that's not so bad. It wasn't my plan, but it might be a happy accident. Just the thing we need to put a little distance between us and them. I wouldn't worry about.
+p1545
+sg8
+VRUSSELL
+p1546
+sg10
+g11
+sa(dp1547
+g6
+VI really wouldn't. That will be all.
+p1548
+sg8
+VRUSSELL
+p1549
+sg10
+g11
+sa(dp1550
+g6
+VYes, sir. Thank you, Mr. Vice President.
+p1551
+sg8
+VWILL
+p1552
+sg10
+g129
+sas.

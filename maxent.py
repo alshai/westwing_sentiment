@@ -6,19 +6,26 @@ import pickle
 
 
 def most_probable_class(text, weights):
-    pos_weights = weights[0]
-    neg_weights = weights[1]
-    neu_weights = weights[2]
+    pos_weights = weights['positive']
+    neg_weights = weights['negative']
+    neu_weights = weights['neutral']
     features = calculate_features(text)
     pos_numerator = 0.0
     neg_numerator = 0.0
     neu_numerator = 0.0
     denominator = 0.0
     for f in features:
-        pos_numerator += pos_weights[f] * features[f]
-        neg_numerator += neg_weights[f] * features[f]
-        neu_numerator += neu_weights[f] * features[f]
-        denominator += pos_numerator + neg_numerator + neu_numerator
+        if f in pos_weights and f in neg_weights and f in neu_weights:
+            pos_numerator += pos_weights[f] * features[f]
+            neg_numerator += neg_weights[f] * features[f]
+            neu_numerator += neu_weights[f] * features[f]
+            denominator += pos_numerator + neg_numerator + neu_numerator
+        else:
+            pos_numerator += 0
+            neg_numerator += 0
+            neu_numerator += 0
+            denominator += pos_numerator + neg_numerator + neu_numerator
+
     pos_prob = ("positive", exp(pos_numerator))# /exp(denominator))
     neg_prob = ("negative", exp(neg_numerator))# /exp(denominator))
     neu_prob = ("neutral", exp(neu_numerator))# /exp(denominator))
@@ -45,6 +52,7 @@ def train_maxent(training_set):
         posweights[f] = feature_counts[f]["positive"] / (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
         negweights[f] = feature_counts[f]["negative"] / (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
         neuweights[f] = feature_counts[f]["neutral"] / (feature_counts[f]["positive"]+ feature_counts[f]["negative"] + feature_counts[f]["neutral"])
+            
 
     return {"positive": posweights,
             "negative": negweights,

@@ -1,0 +1,3545 @@
+(dp0
+S'season'
+p1
+I6
+sS'episode'
+p2
+I2
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VWe will require a resolution that balances the needs of both with respect to the national identities and the religious beliefs of both, but I'm telling you there can be no lasting peace, no regional stability, without a strong and secure Israel, and there can be no lasting peace without a sovereign, viable state for the Palestinians.
+p7
+sS'character'
+p8
+VBARTLET
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VGood morning. Let me give you a rundown on what's happened so far at Camp David.
+p13
+sg8
+VC.J.
+p14
+sg10
+g11
+sa(dp15
+g6
+VMoments ago, FA-18 Hornets off the Abraham Lincoln in the Persian Gulf struck the Ein Hawa terrorist training camp, 32 kilometers southwest of Damascus in the Kingdom of Syria.
+p16
+sg8
+VALEXANDER
+p17
+sg10
+g11
+sa(dp18
+g6
+VWhether you choose to do this today or ten years from today, you will face the same geography, the same neighbors, the same ancient animosities. More years of bloodshed and pain will not change those facts. The only path to a real and lasting peace is through negotiation.
+p19
+sg8
+VBARTLET
+p20
+sg10
+g11
+sa(dp21
+g6
+VThe parties have agreed to break into subgroups this afternoon after Chairman Farad, Prime Minister Zahavy, and President Bartlet meet to agree on topics of discussion.
+p22
+sg8
+VTOBY
+p23
+sg10
+g11
+sa(dp24
+g6
+VExcuse me, Toby, if I may.
+p25
+sg8
+VBARTLET
+p26
+sg10
+g11
+sa(dp27
+g6
+VThey're not getting Jerusalem.
+p28
+sg8
+VWILL
+p29
+sg10
+g11
+sa(dp30
+g6
+VWe say that in our opening, Farad's not going to be here long enough to unpack his toothbrush.
+p31
+sg8
+VKATE
+p32
+sg10
+g11
+sa(dp33
+g6
+VGo back to your opening list, again.
+p34
+sg8
+VTOBY
+p35
+sg10
+g11
+sa(dp36
+g6
+VFarad gets security guarantees and takes tangible action against Hamas, and he ain't getting Jerusalem.
+p37
+sg8
+VWILL
+p38
+sg10
+g11
+sa(dp39
+g6
+VEnough with Jerusalem! Kate.
+p40
+sg8
+VTOBY
+p41
+sg10
+g11
+sa(dp42
+g6
+VIsrael allows the Palestinians to form a viable, sovereign state in the Territories. We need to discuss the right of return...
+p43
+sg8
+VKATE
+p44
+sg10
+g11
+sa(dp45
+g6
+VWe aren't going to get a deal on refugees.
+p46
+sg8
+VWILL
+p47
+sg10
+g11
+sa(dp48
+g6
+VThey have to go somewhere.
+p49
+sg8
+VKATE
+p50
+sg10
+g11
+sa(dp51
+g6
+VWell, I hear there's room in Montana. They can rent a cabin and try to secede from the Union.
+p52
+sg8
+VWILL
+p53
+sg10
+g11
+sa(dp54
+g6
+VCan we go inside. I got like flies or little gnats or something.
+p55
+sg8
+VTOBY
+p56
+sg10
+g11
+sa(dp57
+g6
+VAnd we need something on Jerusalem.
+p58
+sg8
+VKATE
+p59
+sg10
+g11
+sa(dp60
+g6
+VSo, do we finally have a draft?
+p61
+sg8
+VBARTLET
+p62
+sg10
+g11
+sa(dp63
+g6
+VNo.
+p64
+sg8
+VWILL
+p65
+sg10
+g11
+sa(dp66
+g6
+VYes.
+p67
+sg8
+VTOBY
+p68
+sg10
+S'positive'
+p69
+sa(dp70
+g6
+VThe Israelis aren't going to give up Jerusalem.
+p71
+sg8
+VWILL
+p72
+sg10
+g11
+sa(dp73
+g6
+VPalestinians aren't going to make a deal without it.
+p74
+sg8
+VKATE
+p75
+sg10
+g11
+sa(dp76
+g6
+VWe're back where we were last night?
+p77
+sg8
+VBARTLET
+p78
+sg10
+g11
+sa(dp79
+g6
+VDelegation's are on their way.
+p80
+sg8
+VCHARLIE
+p81
+sg10
+g11
+sa(dp82
+g6
+VWe punt on Jerusalem this morning, tackle it later, agreed?
+p83
+sg8
+VBARTLET
+p84
+sg10
+g11
+sa(dp85
+g6
+VMister "Share-your-gum-with-everyone" over here.
+p86
+sg8
+VWILL
+p87
+sg10
+g11
+sa(dp88
+g6
+VYeah.
+p89
+sg8
+VTOBY
+p90
+sg10
+g11
+sa(dp91
+g6
+VWhy isn't Leo up here?
+p92
+sg8
+VWILL
+p93
+sg10
+S'negative'
+p94
+sa(dp95
+g6
+VJosh lands in an hour.
+p96
+sg8
+VC.J.
+p97
+sg10
+g11
+sa(dp98
+g6
+VCNN's got the Speaker on an endless loop like a... Pink Floyd concert. It's their way of punishing us for cutting off access to Camp David.
+p99
+sg8
+VC.J.
+p100
+sg10
+g11
+sa(dp101
+g6
+VNatives restless?
+p102
+sg8
+VLEO
+p103
+sg10
+g11
+sa(dp104
+g6
+VThere might be a mutiny afoot. I heard a couple of them plotting to throw our Mr. Coffee's into the Potomac.
+p105
+sg8
+VC.J.
+p106
+sg10
+g11
+sa(dp107
+g6
+VSpeaker's on his way over. I doubt he'll miss the cameras on his way in or his way out.
+p108
+sg8
+VLEO
+p109
+sg10
+g11
+sa(dp110
+g6
+VYou were looking for me?
+p111
+sg8
+VC.J.
+p112
+sg10
+g11
+sa(dp113
+g6
+VWe're losing the media war. I want us on the morning shows, Crossfire, Dateline, book This Old House if we can figure out an angle.
+p114
+sg8
+VLEO
+p115
+sg10
+g11
+sa(dp116
+g6
+VWho goes?
+p117
+sg8
+VC.J.
+p118
+sg10
+g11
+sa(dp119
+g6
+VYou, me, the Assistant Deputy Secretary for Fishery Exploitation; I don't care. We've got to get our message out.
+p120
+sg8
+VLEO
+p121
+sg10
+g11
+sa(dp122
+g6
+VAnd what is our message?
+p123
+sg8
+VC.J.
+p124
+sg10
+g11
+sa(dp125
+g6
+V"Shut up while we're trying to get them to stop killing each other."
+p126
+sg8
+VLEO
+p127
+sg10
+g11
+sa(dp128
+g6
+VMr. President, how are your children? Your grandchildren? Everything is well, I hope.
+p129
+sg8
+VFARAD
+p130
+sg10
+g11
+sa(dp131
+g6
+VThey're all very well, thank you, Mr. Chairman. Please. Annie started high school last week. I've ordered some tea. Would anyone like anything else?
+p132
+sg8
+VBARTLET
+p133
+sg10
+g11
+sa(dp134
+g6
+VUh, tea is fine, thank you.
+p135
+sg8
+VZAHAVY
+p136
+sg10
+g69
+sa(dp137
+g6
+VThe same.
+p138
+sg8
+VFARAD
+p139
+sg10
+g11
+sa(dp140
+g6
+VWe need to agree on the topics of discussion for the subgroups. I've taken the liberty of coming up with a few things to help us get started. First, security for Israel after withdrawal from the Territories.
+p141
+sg8
+VBARTLET
+p142
+sg10
+g11
+sa(dp143
+g6
+VWe will need to maintain military presence in the Jordan...
+p144
+sg8
+VZAHAVY
+p145
+sg10
+g11
+sa(dp146
+g6
+VWhat sort of a message this sends to my people about sovereignty.
+p147
+sg8
+VFARAD
+p148
+sg10
+g11
+sa(dp149
+g6
+VPlease, excuse me. Discussion of these issues is for the subgroups. We're only suggesting topics now.
+p150
+sg8
+VBARTLET
+p151
+sg10
+g11
+sa(dp152
+g6
+VThank you. Second, Disposition of the settlements and the land apportioned to them. Third, right of return for refugees.
+p153
+sg8
+VBARTLET
+p154
+sg10
+g11
+sa(dp155
+g6
+VThough it is not "right" of return, it's a "claim" of return.
+p156
+sg8
+VZAHAVY
+p157
+sg10
+g11
+sa(dp158
+g6
+VFourth, how the Palestinian Authority will go about dismantling terrorist groups. Well, that's four topics. I guess we can catch a double-feature now.
+p159
+sg8
+VBARTLET
+p160
+sg10
+g11
+sa(dp161
+g6
+VWhat about Jerusalem?
+p162
+sg8
+VFARAD
+p163
+sg10
+g11
+sa(dp164
+g6
+VI thought we would put off discussion of Jerusalem until after...
+p165
+sg8
+VBARTLET
+p166
+sg10
+g11
+sa(dp167
+g6
+VWe will not give up control of Jerusalem.
+p168
+sg8
+VZAHAVY
+p169
+sg10
+g11
+sa(dp170
+g6
+VJerusalem is central to our topics here.
+p171
+sg8
+VFARAD
+p172
+sg10
+g11
+sa(dp173
+g6
+VGentlemen, please, let's begin on these four issues and see if we can reach an agreement...
+p174
+sg8
+VBARTLET
+p175
+sg10
+g11
+sa(dp176
+g6
+VWe should start with Jerusalem. If we can't resolve that, why are we spending time on the little things?
+p177
+sg8
+VFARAD
+p178
+sg10
+g11
+sa(dp179
+g6
+VLittle things? Like denouncing terrorism?
+p180
+sg8
+VZAHAVY
+p181
+sg10
+g11
+sa(dp182
+g6
+VOur capital must be Jerusalem.
+p183
+sg8
+VFARAD
+p184
+sg10
+g11
+sa(dp185
+g6
+VIsrael will not give up Jerusalem.
+p186
+sg8
+VZAHAVY
+p187
+sg10
+g11
+sa(dp188
+g6
+VThen why are we here? Why are any of us here?
+p189
+sg8
+VFARAD
+p190
+sg10
+g11
+sa(dp191
+g6
+VFor once, Mr. Farad, you are right. My apologies, Mr. President, there is no progress to be made here. I should never have accepted your invitation.
+p192
+sg8
+VZAHAVY
+p193
+sg10
+g11
+sa(dp194
+g6
+VSit back down, Eli.
+p195
+sg8
+VBARTLET
+p196
+sg10
+g11
+sa(dp197
+g6
+VNo, no. We will not negotiate sovereignty over the Temple Mount.
+p198
+sg8
+VZAHAVY
+p199
+sg10
+g11
+sa(dp200
+g6
+VThe Dome of the Rock stands on the site where the prophet Muhammad...
+p201
+sg8
+VFARAD
+p202
+sg10
+g11
+sa(dp203
+g6
+VStop it, both of you. Gentlemen, I have staked my personal credibility and the credibility of the United States on suggesting, perhaps foolishly, that the Israelis and the Palestinians are reasonable people who would like to at least try to resolve their differences peacefully: no one is going home after one hour of talks. Now then, the subgroups will begin on these four topics after lunch. Thank you.
+p204
+sg8
+VBARTLET
+p205
+sg10
+g11
+sa(dp206
+g6
+VExcuse me.
+p207
+sg8
+VFARAD
+p208
+sg10
+g11
+sa(dp209
+g6
+VThat went well, don't you think?
+p210
+sg8
+VBARTLET
+p211
+sg10
+g11
+sa(dp212
+g6
+VC.J.? I've got you booked on Meet the Press, Crossfire, and Taylor Reid.
+p213
+sg8
+VCAROL
+p214
+sg10
+g11
+sa(dp215
+g6
+VTaylor Reid?
+p216
+sg8
+VC.J.
+p217
+sg10
+g11
+sa(dp218
+g6
+VNobody else would do it.
+p219
+sg8
+VCAROL
+p220
+sg10
+g11
+sa(dp221
+g6
+VNow that's good staff work. Hey.
+p222
+sg8
+VJOSH
+p223
+sg10
+g11
+sa(dp224
+g6
+VHey.
+p225
+sg8
+VC.J.
+p226
+sg10
+g11
+sa(dp227
+g6
+VHow's Donna?
+p228
+sg8
+VC.J.
+p229
+sg10
+g11
+sa(dp230
+g6
+VShe threw me out. Her mother's driving her crazy and her IRA boyfriend is plotting sedition... or maybe it was seduction, probably both.
+p231
+sg8
+VJOSH
+p232
+sg10
+g11
+sa(dp233
+g6
+VThe dashing photojournalist?
+p234
+sg8
+VC.J.
+p235
+sg10
+g11
+sa(dp236
+g6
+VYeah. I think the professional term is "wanker."
+p237
+sg8
+VJOSH
+p238
+sg10
+g11
+sa(dp239
+g6
+VListen to you: too much BBC.
+p240
+sg8
+VC.J.
+p241
+sg10
+g94
+sa(dp242
+g6
+VToo much sauerbraten... Leo's still down here?
+p243
+sg8
+VJOSH
+p244
+sg10
+g11
+sa(dp245
+g6
+VYeah, he's in his office.
+p246
+sg8
+VC.J.
+p247
+sg10
+g11
+sa(dp248
+g6
+VWhy isn't he up at Camp David?
+p249
+sg8
+VJOSH
+p250
+sg10
+g11
+sa(dp251
+g6
+VSo, where do you want me?
+p252
+sg8
+VJOSH
+p253
+sg10
+g11
+sa(dp254
+g6
+VHow's Donna?
+p255
+sg8
+VLEO
+p256
+sg10
+g11
+sa(dp257
+g6
+VBetter. May be able to fly in a few days.
+p258
+sg8
+VJOSH
+p259
+sg10
+g11
+sa(dp260
+g6
+VGet up to Camp David. Toby's climbing the walls, thinks the President's going to give away the store.
+p261
+sg8
+VLEO
+p262
+sg10
+g11
+sa(dp263
+g6
+VWhen are you coming up?
+p264
+sg8
+VJOSH
+p265
+sg10
+g11
+sa(dp266
+g6
+VTomorrow. Maybe the day after.
+p267
+sg8
+VLEO
+p268
+sg10
+g11
+sa(dp269
+g6
+VEverything okay?
+p270
+sg8
+VJOSH
+p271
+sg10
+g11
+sa(dp272
+g6
+VThe Syrians are blowing enough gaskets to open a new subcontract. They want a resolution at the U.N.
+p273
+sg8
+VLEO
+p274
+sg10
+g11
+sa(dp275
+g6
+VI'll stop by my apartment, I'll pick up some clothes, I'll drive straight up.
+p276
+sg8
+VJOSH
+p277
+sg10
+g11
+sa(dp278
+g6
+VMargaret!
+p279
+sg8
+VLEO
+p280
+sg10
+g11
+sa(dp281
+g6
+VHave we heard anything from the President this morning?
+p282
+sg8
+VLEO
+p283
+sg10
+g11
+sa(dp284
+g6
+VNo, sir. You want me to call Debbie?
+p285
+sg8
+VMARGARET
+p286
+sg10
+g11
+sa(dp287
+g6
+VNo, thanks.
+p288
+sg8
+VLEO
+p289
+sg10
+g11
+sa(dp290
+g6
+VGood afternoon. The President, the Prime Minister met successfully this morning over coffee at Aspen to finalize the topics for today's discussions. Following lunch, the delegations are breaking into subgroups for this afternoon's talks on a variety of mutually-agreed-upon subjects. While it's too early to comment on the direction and tenor of the talks, I can tell you the luncheon buffet of Maryland crabcakes, baked New England cod, and Washington...
+p291
+sg8
+VC.J.
+p292
+sg10
+g11
+sa(dp293
+g6
+VWe must have a military presence in the Jordan Valley to secure the borders.
+p294
+sg8
+VMASSAR
+p295
+sg10
+g11
+sa(dp296
+g6
+VAnd how will that be different from the current occupation? How are we a sovereign nation with IDF units in our streets.
+p297
+sg8
+VMUKARAT
+p298
+sg10
+g11
+sa(dp299
+g6
+VWe're gonna have 4 million Palestinians living next door. Israel could be cut in two by tanks and artillery in about 15 minutes.
+p300
+sg8
+VMASSAR
+p301
+sg10
+g11
+sa(dp302
+g6
+VWhat tanks? What artillery? Even if every Palestinian man, woman, and child were given an Uzi, they'd be no match for your military.
+p303
+sg8
+VTOBY
+p304
+sg10
+g11
+sa(dp305
+g6
+VAnd we have no intention of allowing that to change.
+p306
+sg8
+VMASSAR
+p307
+sg10
+g11
+sa(dp308
+g6
+VWe must be allowed to defend ourselves.
+p309
+sg8
+VMUKARAT
+p310
+sg10
+g11
+sa(dp311
+g6
+VDefend yourselves? From who?
+p312
+sg8
+VZAHAVY
+p313
+sg10
+g11
+sa(dp314
+g6
+VHow about Hamas? How are we expected to argue there is no longer a reason to fight when your army is still there, exactly as before?
+p315
+sg8
+VMUKARAT
+p316
+sg10
+g11
+sa(dp317
+g6
+VWe cannot support a withdrawal from the territories without assurances of our security, and that, gentlemen, means our troops.
+p318
+sg8
+VMASSAR
+p319
+sg10
+g11
+sa(dp320
+g6
+VA million Palestinians were being forced from their homes, their...
+p321
+sg8
+VFARAD
+p322
+sg10
+g11
+sa(dp323
+g6
+VCloser to 700,000, and they weren't expelled. They left after being urged to do so by our...
+p324
+sg8
+VGALIT
+p325
+sg10
+g11
+sa(dp326
+g6
+VWe were being terrorized by Zionist troops who were threatening to torch every Arab village in the...
+p327
+sg8
+VFARAD
+p328
+sg10
+g11
+sa(dp329
+g6
+VYou accepted the Partition Plan in '47. Not a single Palestinian would become a refugee...
+p330
+sg8
+VGALIT
+p331
+sg10
+g11
+sa(dp332
+g6
+VIf I might interrupt...
+p333
+sg8
+VKATE
+p334
+sg10
+g11
+sa(dp335
+g6
+VThe Palestinians were being massacred. Even Israeli historians admit this.
+p336
+sg8
+VFARAD
+p337
+sg10
+g11
+sa(dp338
+g6
+VIt was war, only three years after the Holocaust. If we had lost there would have been another wholesale slaughter of Jews.
+p339
+sg8
+VGALIT
+p340
+sg10
+g11
+sa(dp341
+g6
+VMr. Chairman, Madame Ambassador, excuse me. It may be more productive to turn our attention to current problems rather than the events of 50 years ago.
+p342
+sg8
+VKATE
+p343
+sg10
+g11
+sa(dp344
+g6
+VIf there is room for a million Russian Jews in Israel, why isn't there room for Palestinians who simply wish to go home?
+p345
+sg8
+VFARAD
+p346
+sg10
+g11
+sa(dp347
+g6
+VGood afternoon. Let me give you a brief rundown of what's happened at Camp David this morning. The delegations continue to meet to discuss a number of issues. They will begin at 10:00 and will resume after lunch. They will end early, as it is Friday, and Prime Minister Zahavy has invited the President and First Lady to join the Israeli delegation for a Shabat dinner. I'll take a few questions. Katie?
+p348
+sg8
+VC.J.
+p349
+sg10
+g11
+sa(dp350
+g6
+VCan you tell us what issues are being discussed and is progress being made?
+p351
+sg8
+VKATIE
+p352
+sg10
+g11
+sa(dp353
+g6
+VThe talks include a broad range of issues and getting Israelis and Palestinians to sit in a room together without a combat unit or trial attorney is progress.
+p354
+sg8
+VC.J.
+p355
+sg10
+g11
+sa(dp356
+g6
+VThe Israelis will return the territories but they want a military presence.
+p357
+sg8
+VWILL
+p358
+sg10
+g11
+sa(dp359
+g6
+VThe Palestinians don't get how it's going to be their house if it comes furnished with Israeli tanks.
+p360
+sg8
+VTOBY
+p361
+sg10
+g11
+sa(dp362
+g6
+VHave you mentioned Germany? We've had troops there for 50 years.
+p363
+sg8
+VJOSH
+p364
+sg10
+g11
+sa(dp365
+g6
+VThey asked how many British troops were still stationed in Philadelphia after the American Revolution.
+p366
+sg8
+VTOBY
+p367
+sg10
+g11
+sa(dp368
+g6
+VPlenty. But they were, you know, shackled to the wall.
+p369
+sg8
+VJOSH
+p370
+sg10
+g11
+sa(dp371
+g6
+VWhat about settlements?
+p372
+sg8
+VBARTLET
+p373
+sg10
+g11
+sa(dp374
+g6
+VThe Israelis are hinting they'll abandon everything in Gaza but they want 75% of the West Bank settlements to remain. Mukarat might go for it if he gets Israeli land in exchange.
+p375
+sg8
+VKATE
+p376
+sg10
+g11
+sa(dp377
+g6
+VSounds promising.
+p378
+sg8
+VBARTLET
+p379
+sg10
+g11
+sa(dp380
+g6
+VYeah. Only, Mukarat wants twice as much area as the Israelis say the settlements actually sit on.
+p381
+sg8
+VKATE
+p382
+sg10
+g11
+sa(dp383
+g6
+VHow's he justifying that?
+p384
+sg8
+VABBEY
+p385
+sg10
+g11
+sa(dp386
+g6
+VHe says the Israelis took the best land. Wants 2-for-1 in exchange.
+p387
+sg8
+VKATE
+p388
+sg10
+g11
+sa(dp389
+g6
+VDismantling terror?
+p390
+sg8
+VBARTLET
+p391
+sg10
+g11
+sa(dp392
+g6
+VThe Israelis want Farad to renounce terrorism, but in Arabic on Al Jazerra. And they want more than just a promise to disarm Hamas, they want it to happen before they leave.
+p393
+sg8
+VWILL
+p394
+sg10
+g11
+sa(dp395
+g6
+VWhat do the Palestinians say?
+p396
+sg8
+VBARTLET
+p397
+sg10
+g11
+sa(dp398
+g6
+VThat Farad's renounced terrorism...
+p399
+sg8
+VTOBY
+p400
+sg10
+g11
+sa(dp401
+g6
+VIs that why he keeps calling for the "blood of a million martyrs," in all his speeches?
+p402
+sg8
+VJOSH
+p403
+sg10
+g11
+sa(dp404
+g6
+VI thought that was a problem with the interpretation.
+p405
+sg8
+VWILL
+p406
+sg10
+g11
+sa(dp407
+g6
+VRight of return?
+p408
+sg8
+VBARTLET
+p409
+sg10
+g11
+sa(dp410
+g6
+VFarad wants the right of return to apply to all Palestinians. The Israelis are understandably concerned about 3 million Palestinians moving back in.
+p411
+sg8
+VKATE
+p412
+sg10
+g11
+sa(dp413
+g6
+VGallop did some polling in the West Bank. Found that, while refugees wanted the right to come back, most wouldn't.
+p414
+sg8
+VJOSH
+p415
+sg10
+g11
+sa(dp416
+g6
+VThat's great. Then they won't be disappointed.
+p417
+sg8
+VWILL
+p418
+sg10
+g11
+sa(dp419
+g6
+VWell, look at the bright side: nobody shot anybody else the first day.
+p420
+sg8
+VABBEY
+p421
+sg10
+g11
+sa(dp422
+g6
+VOkay.
+p423
+sg8
+VBARTLET
+p424
+sg10
+g11
+sa(dp425
+g6
+VNice shot.
+p426
+sg8
+VWILL
+p427
+sg10
+g11
+sa(dp428
+g6
+VWe start small. See if we can get an agreement on anything, no matter how inconsequential. Something we can build on. I'll continue to sit out so I can jump in later, but one small move is all we need to get things rolling. Thanks, guys.
+p429
+sg8
+VBARTLET
+p430
+sg10
+g11
+sa(dp431
+g6
+VThank you, Mr. President.
+p432
+sg8
+VTOBY
+p433
+sg10
+g69
+sa(dp434
+g6
+VSir, is there anything else I can do to help?
+p435
+sg8
+VJOSH
+p436
+sg10
+g11
+sa(dp437
+g6
+VGo with Toby and Will; I think they need some positive reinforcement.
+p438
+sg8
+VBARTLET
+p439
+sg10
+g11
+sa(dp440
+g6
+VSir, should we be here?
+p441
+sg8
+VJOSH
+p442
+sg10
+g11
+sa(dp443
+g6
+VGlad you're back, Josh.
+p444
+sg8
+VBARTLET
+p445
+sg10
+g11
+sa(dp446
+g6
+VYes, sir.
+p447
+sg8
+VJOSH
+p448
+sg10
+g69
+sa(dp449
+g6
+VJed, where's Leo?
+p450
+sg8
+VABBEY
+p451
+sg10
+g11
+sa(dp452
+g6
+VThe Palestinians only became refugees when our Arab neighbors refused to accept them. 800,000 Jews were similarly expelled from Arab nations. 600,000 of them were resettled in Israel without compensation from Arab countries.
+p453
+sg8
+VGALIT
+p454
+sg10
+g11
+sa(dp455
+g6
+VMadame Ambassador, you bring up the issue of compensation. Would Israel be prepared...
+p456
+sg8
+VKATE
+p457
+sg10
+g11
+sa(dp458
+g6
+VWe are not asking for money. We want the right of return.
+p459
+sg8
+VFARAD
+p460
+sg10
+g11
+sa(dp461
+g6
+VWe can't allow 3 million refugees the right to freely reenter.
+p462
+sg8
+VGALIT
+p463
+sg10
+g11
+sa(dp464
+g6
+VOf course not! Since the 19th century, Zionist leaders have advocated a transfer of Arabs out of Palestine.
+p465
+sg8
+VFARAD
+p466
+sg10
+g11
+sa(dp467
+g6
+VWe can not accept an unlimited right of immigration.
+p468
+sg8
+VGALIT
+p469
+sg10
+g11
+sa(dp470
+g6
+VPerhaps we should take a break.
+p471
+sg8
+VKATE
+p472
+sg10
+g11
+sa(dp473
+g6
+VIf the Arab population had not been uprooted, no Jewish state could have arisen.
+p474
+sg8
+VGALIT
+p475
+sg10
+g11
+sa(dp476
+g6
+VSo, it was all right for Palestine to transfer its native population to establish a Jewish state?
+p477
+sg8
+VFARAD
+p478
+sg10
+g11
+sa(dp479
+g6
+VWe are prepared to sacrifice, yes, but not to formalize our dispossession. Excuse me.
+p480
+sg8
+VFARAD
+p481
+sg10
+g11
+sa(dp482
+g6
+VAnd the removal of our forces from the territories would create a power vacuum. How are we to prevent rocket attacks from Palestinian-controlled areas.
+p483
+sg8
+VZAHAVY
+p484
+sg10
+g11
+sa(dp485
+g6
+VIt would be our responsibility to gain control over our militants.
+p486
+sg8
+VMUKARAT
+p487
+sg10
+g11
+sa(dp488
+g6
+VWe've tried that before.
+p489
+sg8
+VMASSAR
+p490
+sg10
+g11
+sa(dp491
+g6
+VYou've never given us enough time to assert ourselves before you come rushing back in with your tanks.
+p492
+sg8
+VMUKARAT
+p493
+sg10
+g11
+sa(dp494
+g6
+VWell, it's almost 4:00, and we have to end early this evening for caballah shabat.
+p495
+sg8
+VMASSAR
+p496
+sg10
+g11
+sa(dp497
+g6
+VRight. Why don't we meet back here tomorrow morning at 10:00?
+p498
+sg8
+VTOBY
+p499
+sg10
+g11
+sa(dp500
+g6
+VExcuse me. Thank you.
+p501
+sg8
+VZAHAVY
+p502
+sg10
+g69
+sa(dp503
+g6
+VThey've done everything in their power to undermine moderate leadership. Don't they understand when the blow up leaders of Hamas with bombs, all those Palestinian homes, they only make them stronger? Boys and girls, they no longer want to be doctors, teachers, engineers. Now, they all want to be martyrs.
+p504
+sg8
+VMUKARAT
+p505
+sg10
+g11
+sa(dp506
+g6
+VSo, there's an opening on compensation for refugees?
+p507
+sg8
+VBARTLET
+p508
+sg10
+g11
+sa(dp509
+g6
+VMaybe. But Israel's not going to agree to an unlimited right of return. There might be a pitch for most of them going to the new Palestinian state and Israel agreeing to take in a few. Something like the 9% who told Gallop they might want to go.
+p510
+sg8
+VKATE
+p511
+sg10
+g11
+sa(dp512
+g6
+VOkay. Work on that. Toby?
+p513
+sg8
+VBARTLET
+p514
+sg10
+g11
+sa(dp515
+g6
+VNot much on security. The Israelis aren't ready to leave a West Bank that isn't protected militarily.
+p516
+sg8
+VTOBY
+p517
+sg10
+g11
+sa(dp518
+g6
+VAnd we're still far apart on any kind of land swap for the settlements.
+p519
+sg8
+VWILL
+p520
+sg10
+g11
+sa(dp521
+g6
+VAnd Mukarat's sticking at 10%.
+p522
+sg8
+VJOSH
+p523
+sg10
+g11
+sa(dp524
+g6
+VThe Israelis are saying 3%.
+p525
+sg8
+VTOBY
+p526
+sg10
+g11
+sa(dp527
+g6
+VAny ideas on how to break the logjam?
+p528
+sg8
+VBARTLET
+p529
+sg10
+g11
+sa(dp530
+g6
+VToo bad Congress isn't here. They'd just cook the books and hold a press conference.
+p531
+sg8
+VJOSH
+p532
+sg10
+g11
+sa(dp533
+g6
+VMr. President, you should get ready for dinner.
+p534
+sg8
+VCHARLIE
+p535
+sg10
+g11
+sa(dp536
+g6
+VAll right. We need some suggested solutions on security and settlements. That's tonight's homework.
+p537
+sg8
+VBARTLET
+p538
+sg10
+g11
+sa(dp539
+g6
+VOK. Rose Bud, after dinner. We solve world peace.
+p540
+sg8
+VTOBY
+p541
+sg10
+g11
+sa(dp542
+g6
+VHow's it going?
+p543
+sg8
+VLEO
+p544
+sg10
+g11
+sa(dp545
+g6
+VYeah.
+p546
+sg8
+VLEO
+p547
+sg10
+g11
+sa(dp548
+g6
+VYou going to talk to him?
+p549
+sg8
+VTOBY
+p550
+sg10
+g11
+sa(dp551
+g6
+VSomebody better do something, or this time next week, it's going to be us who lose our right to return.
+p552
+sg8
+VJOSH
+p553
+sg10
+g11
+sa(dp554
+g6
+V(speaks Arabic)
+p555
+sg8
+VFARAD
+p556
+sg10
+g11
+sa(dp557
+g6
+V(speaks Arabic)
+p558
+sg8
+VMAN
+p559
+sg10
+g11
+sa(dp560
+g6
+V(speaks Hebrew)
+p561
+sg8
+VMAYA
+p562
+sg10
+g11
+sa(dp563
+g6
+VAmen.
+p564
+sg8
+VALL
+p565
+sg10
+g11
+sa(dp566
+g6
+VShabat shalom.
+p567
+sg8
+VMAYA
+p568
+sg10
+g11
+sa(dp569
+g6
+VShabat shalom.
+p570
+sg8
+VALL
+p571
+sg10
+g11
+sa(dp572
+g6
+V(speaks Hebrew)
+p573
+sg8
+VZAHAVY
+p574
+sg10
+g11
+sa(dp575
+g6
+V(speaks Arabic)
+p576
+sg8
+VFARAD
+p577
+sg10
+g11
+sa(dp578
+g6
+VIt's beautiful, isn't it? That's the law. They have to do it five times a day.
+p579
+sg8
+VKATE
+p580
+sg10
+g11
+sa(dp581
+g6
+V(speaks Hebrew)
+p582
+sg8
+VZAHAVY
+p583
+sg10
+g11
+sa(dp584
+g6
+VAmen.
+p585
+sg8
+VALL
+p586
+sg10
+g11
+sa(dp587
+g6
+VThe tragedy is that the Palestinians and the Jews are so much alike.
+p588
+sg8
+VKATE
+p589
+sg10
+g11
+sa(dp590
+g6
+VHow's that?
+p591
+sg8
+VCHARLIE
+p592
+sg10
+g11
+sa(dp593
+g6
+VAll through history no one's wanted either of them.
+p594
+sg8
+VKATE
+p595
+sg10
+g11
+sa(dp596
+g6
+VThe President had a bilateral meeting with Prime Minister Zahavy. I think this was sometime after 10:00 pm. This was at the Prime Minister's cabin. The President then hosted Chairman Farad at his cabin. I won't say whether they played the obligatory game of twister.
+p597
+sg8
+VC.J.
+p598
+sg10
+g11
+sa(dp599
+g6
+VFixed positions won't work.
+p600
+sg8
+VTOBY
+p601
+sg10
+g11
+sa(dp602
+g6
+VHow long will they be there?
+p603
+sg8
+VJOSH
+p604
+sg10
+g94
+sa(dp605
+g6
+VI don't know, 4 years.
+p606
+sg8
+VKATE
+p607
+sg10
+g11
+sa(dp608
+g6
+VFarad's going to hate it, Zahavy's going to hate it even more.
+p609
+sg8
+VTOBY
+p610
+sg10
+g11
+sa(dp611
+g6
+VDo you have a better idea?
+p612
+sg8
+VKATE
+p613
+sg10
+g11
+sa(dp614
+g6
+VYeah: wait till they die. I'll be free the whole millennium.
+p615
+sg8
+VJOSH
+p616
+sg10
+g11
+sa(dp617
+g6
+VTwo old paleo-nationalists who have been clawing each other's eyes out for 50 years; they don't want to deal. What are they going to do for fun? Swap recipes for Matzapri?
+p618
+sg8
+VTOBY
+p619
+sg10
+g11
+sa(dp620
+g6
+VI hear the lawn-bowling's great in Tel Aviv.
+p621
+sg8
+VJOSH
+p622
+sg10
+g11
+sa(dp623
+g6
+VWith human pins, apparently.
+p624
+sg8
+VTOBY
+p625
+sg10
+g94
+sa(dp626
+g6
+VHow's it coming?
+p627
+sg8
+VLEO
+p628
+sg10
+g11
+sa(dp629
+g6
+VAre you alright? You're looking a little bit...
+p630
+sg8
+VJOSH
+p631
+sg10
+g11
+sa(dp632
+g6
+VThose left-over taquitos Will found in here last night. Anybody got an antacid, or maybe an aunt who knows how to cook?
+p633
+sg8
+VLEO
+p634
+sg10
+g11
+sa(dp635
+g6
+VKeep 'em. I got more back in the room.
+p636
+sg8
+VTOBY
+p637
+sg10
+g11
+sa(dp638
+g6
+VSo?
+p639
+sg8
+VLEO
+p640
+sg10
+g11
+sa(dp641
+g6
+VKate has an idea on security.
+p642
+sg8
+VJOSH
+p643
+sg10
+g11
+sa(dp644
+g6
+VIsraelis pull out of the West Bank but get to keep troops in fixed positions for three or four years. After that, they fall back to Israel but get to keep some sort of early warning post for monitoring.
+p645
+sg8
+VKATE
+p646
+sg10
+g11
+sa(dp647
+g6
+VOkay.
+p648
+sg8
+VLEO
+p649
+sg10
+g11
+sa(dp650
+g6
+VExcuse me?
+p651
+sg8
+VKATE
+p652
+sg10
+g11
+sa(dp653
+g6
+VI said okay.
+p654
+sg8
+VLEO
+p655
+sg10
+g11
+sa(dp656
+g6
+VWhere were you for the last three hours?
+p657
+sg8
+VKATE
+p658
+sg10
+g11
+sa(dp659
+g6
+VLet's take it out for a walk.
+p660
+sg8
+VLEO
+p661
+sg10
+g11
+sa(dp662
+g6
+VWalking a dog is a perfect analogy. KATE Toby's not a fan.
+p663
+sg8
+VTOBY
+p664
+sg10
+g11
+sa(dp665
+g6
+VWell, Zahavy may go for it, but every time we get close to anywhere, Massar jumps in.
+p666
+sg8
+VTOBY
+p667
+sg10
+g11
+sa(dp668
+g6
+VThe Defense Minister?
+p669
+sg8
+VLEO
+p670
+sg10
+g11
+sa(dp671
+g6
+VYou got to split 'em up.
+p672
+sg8
+VLEO
+p673
+sg10
+g11
+sa(dp674
+g6
+VHow are we supposed to do that?
+p675
+sg8
+VTOBY
+p676
+sg10
+g11
+sa(dp677
+g6
+VI don't know. You'll think of something.
+p678
+sg8
+VLEO
+p679
+sg10
+g11
+sa(dp680
+g6
+VI've always wanted to try skeet shooting. Do you shoot often.
+p681
+sg8
+VMASSAR
+p682
+sg10
+g11
+sa(dp683
+g6
+VYeah. You know, once or twice a week, when it's in season.
+p684
+sg8
+VTOBY
+p685
+sg10
+g11
+sa(dp686
+g6
+VHere we are, gentlemen.
+p687
+sg8
+VMAN
+p688
+sg10
+g11
+sa(dp689
+g6
+VSo, tell me Toby: how exactly does this work?
+p690
+sg8
+VMASSAR
+p691
+sg10
+g94
+sa(dp692
+g6
+VWell, they hurl a couple of clay pigeons, and we shoot 'em. Unless they hurl them the wrong direction, then we duck.
+p693
+sg8
+VTOBY
+p694
+sg10
+g11
+sa(dp695
+g6
+VYou know how to fire a gun, sir?
+p696
+sg8
+VMAN
+p697
+sg10
+g11
+sa(dp698
+g6
+VYeah. I'm fine.
+p699
+sg8
+VTOBY
+p700
+sg10
+g11
+sa(dp701
+g6
+VReady, Mr. Minister?
+p702
+sg8
+VMAN
+p703
+sg10
+g11
+sa(dp704
+g6
+VPull.
+p705
+sg8
+VMASSAR
+p706
+sg10
+g11
+sa(dp707
+g6
+VHow long were you in the Army?
+p708
+sg8
+VTOBY
+p709
+sg10
+g11
+sa(dp710
+g6
+VI still am. Every Israeli citizen is in the reserves. Your turn.
+p711
+sg8
+VMASSAR
+p712
+sg10
+g11
+sa(dp713
+g6
+VYou sure you know how to do this?
+p714
+sg8
+VMASSAR
+p715
+sg10
+g11
+sa(dp716
+g6
+VI know back in Israel you play this game with Cobra gunships, but I'm fine.
+p717
+sg8
+VTOBY
+p718
+sg10
+g11
+sa(dp719
+g6
+VWhat?
+p720
+sg8
+VTOBY
+p721
+sg10
+g11
+sa(dp722
+g6
+VYou may now want to rest like this, you have to stand more, you know, firm.
+p723
+sg8
+VMASSAR
+p724
+sg10
+g11
+sa(dp725
+g6
+VYeah, well, this is the way we do it in Brooklyn. Pull.
+p726
+sg8
+VTOBY
+p727
+sg10
+g11
+sa(dp728
+g6
+VThe fixed positions in the West Bank for four years?
+p729
+sg8
+VZAHAVY
+p730
+sg10
+g11
+sa(dp731
+g6
+VMaybe less, if things go well.
+p732
+sg8
+VKATE
+p733
+sg10
+g11
+sa(dp734
+g6
+VThen how many monitoring sights after?
+p735
+sg8
+VZAHAVY
+p736
+sg10
+g11
+sa(dp737
+g6
+VTwo or three, so you can keep an eye on the Jordanian border and the Palestinians.
+p738
+sg8
+VJOSH
+p739
+sg10
+g11
+sa(dp740
+g6
+VIt could be more than four years, if that's what you're...
+p741
+sg8
+VKATE
+p742
+sg10
+g11
+sa(dp743
+g6
+VWe would need a mechanism to deal with emergency developments.
+p744
+sg8
+VZAHAVY
+p745
+sg10
+g11
+sa(dp746
+g6
+VHe'll do it?
+p747
+sg8
+VBARTLET
+p748
+sg10
+g11
+sa(dp749
+g6
+VSome version of it, yes, sir.
+p750
+sg8
+VJOSH
+p751
+sg10
+g11
+sa(dp752
+g6
+VAnd Farad?
+p753
+sg8
+VBARTLET
+p754
+sg10
+g11
+sa(dp755
+g6
+VFarad'll be the last to sign on.
+p756
+sg8
+VKATE
+p757
+sg10
+g11
+sa(dp758
+g6
+VMukarat will probably support it if we can get him away from Farad.
+p759
+sg8
+VWILL
+p760
+sg10
+g11
+sa(dp761
+g6
+VWhere are we on right of return?
+p762
+sg8
+VBARTLET
+p763
+sg10
+g11
+sa(dp764
+g6
+VIsraelis won't do an unlimited right. Farad is standing on principle.
+p765
+sg8
+VWILL
+p766
+sg10
+g11
+sa(dp767
+g6
+VI can work on him. I think he likes me.
+p768
+sg8
+VKATE
+p769
+sg10
+g11
+sa(dp770
+g6
+VJosh, Will, get back in with Zahavy before Toby has to start feeding the clay pigeons and get him to commit on security. OK, let's go.
+p771
+sg8
+VBARTLET
+p772
+sg10
+g11
+sa(dp773
+g6
+VWe may just have our tennis match.
+p774
+sg8
+VBARTLET
+p775
+sg10
+g94
+sa(dp776
+g6
+VYou don't think so?
+p777
+sg8
+VBARTLET
+p778
+sg10
+g11
+sa(dp779
+g6
+VWe haven't got to the tough part.
+p780
+sg8
+VLEO
+p781
+sg10
+g11
+sa(dp782
+g6
+VWe're making progress.
+p783
+sg8
+VBARTLET
+p784
+sg10
+g11
+sa(dp785
+g6
+VYes, sir, you are and that's laudable.
+p786
+sg8
+VLEO
+p787
+sg10
+g11
+sa(dp788
+g6
+VLaudable? You make it sound like an honorarium from some two-bit chiropractic college in Arizona.
+p789
+sg8
+VBARTLET
+p790
+sg10
+g11
+sa(dp791
+g6
+VWhen are you planning to discuss Jerusalem?
+p792
+sg8
+VLEO
+p793
+sg10
+g11
+sa(dp794
+g6
+VThat'll be the last thing.
+p795
+sg8
+VBARTLET
+p796
+sg10
+g11
+sa(dp797
+g6
+VBecause it's the only thing that...
+p798
+sg8
+VLEO
+p799
+sg10
+g11
+sa(dp800
+g6
+VDamn it, don't you think I know that?
+p801
+sg8
+VBARTLET
+p802
+sg10
+g11
+sa(dp803
+g6
+VI'll go see if I can get Galit to give us a number on compensation.
+p804
+sg8
+VLEO
+p805
+sg10
+g11
+sa(dp806
+g6
+VMr. Chairman, I know how difficult it would be for you to even appear to be abandoning your principle. It's just not reasonable to ask the Israelis to allow an unlimited number of refugees to return.
+p807
+sg8
+VKATE
+p808
+sg10
+g11
+sa(dp809
+g6
+VI was born in the city of Safra. Do you know Safra? It's in the mountains of Habrigaly. I was eight years old when the leaders left. There were 52 Arabs in Safra but only a thousand three hundred Jews. Within a month, the Haganah had taken over the city. My eldest sister, Amira, was killed. The body of my brother, Aziz, was found hanging from a burned Cyprus tree. We fled to Syria; lived in tents, ate the United Nations handouts and surplus American cheese. I still remember the view of the valley from the roof of our house; the smell of the pomegranates; the sound of children playing in our orchard. The home of my father, of my aunts and uncles, they are now art galleries and bed and breakfasts. Will I get to go home, Ms. Harper?
+p810
+sg8
+VFARAD
+p811
+sg10
+g11
+sa(dp812
+g6
+VNo, sir, probably not. But is that worth not having any home at all?
+p813
+sg8
+VKATE
+p814
+sg10
+g11
+sa(dp815
+g6
+VYou got Farad to go along on right of return?
+p816
+sg8
+VJOSH
+p817
+sg10
+g11
+sa(dp818
+g6
+VI think it's doable.
+p819
+sg8
+VKATE
+p820
+sg10
+g11
+sa(dp821
+g6
+VI'm taking her with me the next time I buy a car.
+p822
+sg8
+VWILL
+p823
+sg10
+g11
+sa(dp824
+g6
+VThat leaves us with the big one.
+p825
+sg8
+VTOBY
+p826
+sg10
+g11
+sa(dp827
+g6
+VAny chance we can just give Jerusalem to the Swiss?
+p828
+sg8
+VKATE
+p829
+sg10
+g11
+sa(dp830
+g6
+VSo, who goes in?
+p831
+sg8
+VJOSH
+p832
+sg10
+g11
+sa(dp833
+g6
+VI do.
+p834
+sg8
+VBARTLET
+p835
+sg10
+g11
+sa(dp836
+g6
+VShared sovereignty of Jerusalem is the only realistic approach.
+p837
+sg8
+VBARTLET
+p838
+sg10
+g11
+sa(dp839
+g6
+VNo. If anyone led you to believe we could agree...
+p840
+sg8
+VFARAD
+p841
+sg10
+g11
+sa(dp842
+g6
+VMr. Chairman, do you really want to see your people oppressed for another generation? Shared custody of the city and its holy sites is the only...
+p843
+sg8
+VBARTLET
+p844
+sg10
+g11
+sa(dp845
+g6
+VWhy do you continue to support Israel? Hatred of America grows because of this, and not just in the Muslim countries.
+p846
+sg8
+VFARAD
+p847
+sg10
+g11
+sa(dp848
+g6
+VI've done more to support the Palestinian cause than anyone who's ever sat in my chair.
+p849
+sg8
+VBARTLET
+p850
+sg10
+g11
+sa(dp851
+g6
+VThe Haram Sharif, the Dome of the Rock, stands on the site where the prophet Mohammed landed in his divine journey from  Mecca to Jerusalem.
+p852
+sg8
+VFARAD
+p853
+sg10
+g11
+sa(dp854
+g6
+VMr. Chairman, there isn't a single member of your delegation who doesn't think turning down the offer of a Palestinian homeland in 1947 was lunacy, a colossal mistake. Please, do not make the same mistake today.
+p855
+sg8
+VBARTLET
+p856
+sg10
+g11
+sa(dp857
+g6
+VHe's not going to do it. Farad's elevated being a victim into an art form. What?
+p858
+sg8
+VJOSH
+p859
+sg10
+g11
+sa(dp860
+g6
+VNothing.
+p861
+sg8
+VTOBY
+p862
+sg10
+g11
+sa(dp863
+g6
+VCome on, you're not starting to buy what he's selling, too. He's a terrorist.
+p864
+sg8
+VJOSH
+p865
+sg10
+g11
+sa(dp866
+g6
+VWith some legitimate grievances.
+p867
+sg8
+VTOBY
+p868
+sg10
+g94
+sa(dp869
+g6
+VPlease.
+p870
+sg8
+VJOSH
+p871
+sg10
+g11
+sa(dp872
+g6
+VWhat, now suddenly you're Jewish. I don't remember seeing you at temple.
+p873
+sg8
+VTOBY
+p874
+sg10
+g11
+sa(dp875
+g6
+V1938, millions of men, women, and children running for their lives from gas chambers tried to seek refuge in any country that would take them; no one would, not even America.
+p876
+sg8
+VJOSH
+p877
+sg10
+g11
+sa(dp878
+g6
+VSo they settle in the middle of a region that still believes in public stonings and harems? The Palestinians are the Jews of the Arab world.
+p879
+sg8
+VTOBY
+p880
+sg10
+g11
+sa(dp881
+g6
+VEven with the bombs Israel is the one place it's okay to be Jewish.
+p882
+sg8
+VJOSH
+p883
+sg10
+g11
+sa(dp884
+g6
+VAnd here.
+p885
+sg8
+VTOBY
+p886
+sg10
+g94
+sa(dp887
+g6
+VGerman Jews in the '20s were mighty comfortable.
+p888
+sg8
+VJOSH
+p889
+sg10
+g11
+sa(dp890
+g6
+VWell, this isn't Germany. This is America.
+p891
+sg8
+VTOBY
+p892
+sg10
+g94
+sa(dp893
+g6
+VHome of the KKK.
+p894
+sg8
+VJOSH
+p895
+sg10
+g11
+sa(dp896
+g6
+VWhere you and I work in the White House to make sure the Justice department rips their Jew-hating hoods off.
+p897
+sg8
+VTOBY
+p898
+sg10
+g11
+sa(dp899
+g6
+VBartlet got Farad.
+p900
+sg8
+VWILL
+p901
+sg10
+g11
+sa(dp902
+g6
+VThe general principle would be that Arab areas are Palestinian and Jewish areas are Israeli; Israeli sovereignty over the Western Wall, Palestinian sovereignty over the Haram. There would have to be a firm commitment from both parties not to excavate under the Haram or behind the wall, of course.
+p903
+sg8
+VBARTLET
+p904
+sg10
+g11
+sa(dp905
+g6
+VYou have kept us here for five days, negotiating contriving little things we didn't want to do but we have tried, struggled to find a common ground because we value your friendship and that of the United States; but I have taken a solemn oath before God and my people not to give up Jerusalem. I told that on the first day. I told you.
+p906
+sg8
+VZAHAVY
+p907
+sg10
+g11
+sa(dp908
+g6
+VMr. Prime Minister, please listen.
+p909
+sg8
+VBARTLET
+p910
+sg10
+g69
+sa(dp911
+g6
+VNo, there have been enough thoughts, Mr. President. We are going home. Thank you.
+p912
+sg8
+VZAHAVY
+p913
+sg10
+g11
+sa(dp914
+g6
+VThey won't.
+p915
+sg8
+VWILL
+p916
+sg10
+g11
+sa(dp917
+g6
+VWe go to Mukarat, convince him to take something less than sovereignty over the Arab sections of the city.
+p918
+sg8
+VTOBY
+p919
+sg10
+g11
+sa(dp920
+g6
+VSomething less, like what?
+p921
+sg8
+VWILL
+p922
+sg10
+g11
+sa(dp923
+g6
+VI don't know some sort of custodial arrangement.
+p924
+sg8
+VTOBY
+p925
+sg10
+g11
+sa(dp926
+g6
+VHow about a floral arrangement? "Best wishes for the 93rd Interfadah."
+p927
+sg8
+VWILL
+p928
+sg10
+g11
+sa(dp929
+g6
+VState put off the Israeli departure until 8:00 in the morning.
+p930
+sg8
+VCHARLIE
+p931
+sg10
+g11
+sa(dp932
+g6
+VWhat'd they tell them?
+p933
+sg8
+VBARTLET
+p934
+sg10
+g11
+sa(dp935
+g6
+VThat State police needed 10 hours to secure the road.
+p936
+sg8
+VCHARLIE
+p937
+sg10
+g11
+sa(dp938
+g6
+VCall C.J. Tell her there'll be an announcement in the morning.
+p939
+sg8
+VBARTLET
+p940
+sg10
+g11
+sa(dp941
+g6
+VYeah.
+p942
+sg8
+VTOBY
+p943
+sg10
+g11
+sa(dp944
+g6
+VHave you started working on a statement?
+p945
+sg8
+VBARTLET
+p946
+sg10
+g11
+sa(dp947
+g6
+V"A cycle that cannot be broken overnight," "A step toward..." insert your favorite platitude here.
+p948
+sg8
+VTOBY
+p949
+sg10
+g11
+sa(dp950
+g6
+VThere's always regional calamity.
+p951
+sg8
+VABBEY
+p952
+sg10
+g11
+sa(dp953
+g6
+VAll right, everyone, let's get a good night's sleep.
+p954
+sg8
+VBARTLET
+p955
+sg10
+g11
+sa(dp956
+g6
+VThank you, Mr. President. Good night.
+p957
+sg8
+VTOBY
+p958
+sg10
+g69
+sa(dp959
+g6
+VI'll have C.J. work on some post-mortems, get our side of the story out; maybe a one-on-one with Times or Newsweek. [pause] They weren't ready. Goodnight, Mr. President.
+p960
+sg8
+VLEO
+p961
+sg10
+g11
+sa(dp962
+g6
+VCell phone service sucks up here.
+p963
+sg8
+VKATE
+p964
+sg10
+g94
+sa(dp965
+g6
+VYeah, not many good spots; this is usually one of them.
+p966
+sg8
+VJOSH
+p967
+sg10
+g11
+sa(dp968
+g6
+VWho are you trying to call at 2:00 in the morning? Someone you hate, I hope.
+p969
+sg8
+VKATE
+p970
+sg10
+g11
+sa(dp971
+g6
+VIt's Germany. It's morning over there already.
+p972
+sg8
+VJOSH
+p973
+sg10
+g11
+sa(dp974
+g6
+VIs your assistant doing better?
+p975
+sg8
+VKATE
+p976
+sg10
+g11
+sa(dp977
+g6
+VShe may fly back on Wednesday.
+p978
+sg8
+VJOSH
+p979
+sg10
+g11
+sa(dp980
+g6
+VIt's a search for two freedoms: for Israel, the freedom from terror; for the Palestinians, the freedom from Israel. That's what F.M. Nocman called it. His book on the Six-Day War was pretty...
+p981
+sg8
+VKATE
+p982
+sg10
+g11
+sa(dp983
+g6
+VWhat? Boring? Overwritten?
+p984
+sg8
+VJOSH
+p985
+sg10
+g11
+sa(dp986
+g6
+VFind Toby and Will. I'll meet you at Aspen.
+p987
+sg8
+VKATE
+p988
+sg10
+g11
+sa(dp989
+g6
+VWhat?
+p990
+sg8
+VJOSH
+p991
+sg10
+g11
+sa(dp992
+g6
+VGet Toby and Will.
+p993
+sg8
+VKATE
+p994
+sg10
+g11
+sa(dp995
+g6
+VAfter the Six-day War, the Israelis offered to give the U.N. diplomatic status and immunities in the holy sights in Jerusalem.
+p996
+sg8
+VKATE
+p997
+sg10
+g11
+sa(dp998
+g6
+VSo?
+p999
+sg8
+VWILL
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VSo if they were willing to do it in '67, why not now? They give the Muslim holy sights the status of diplomatic missions. The Israelis can keep all the sovereignty the want, they still can't enter without permission from the Palestinians.
+p1002
+sg8
+VKATE
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VSo the Palestinians would have a sovereign-like state that was inviolable like a foreign embassy.
+p1005
+sg8
+VBARTLET
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VThe Palestinians'll love it because it gives them the same custodial status over the Haram like the Saudis have over sights like Mecca and Medina. There's only one catch. When the Israelis offered it the first time they wanted peacekeepers as part of the deal, in Jerusalem and throughout the West Bank.
+p1008
+sg8
+VKATE
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VThe U.N. will cough up peacekeepers if it will solve the Middle-East crisis.
+p1011
+sg8
+VABBEY
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VIt can't be the U.N. U.N. peacekeepers have no credibility with the Israelis. They let Egypt attack Israel through the Sinai in '67. It's going to have to be us.
+p1014
+sg8
+VTOBY
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VHow many troops?
+p1017
+sg8
+VJOSH
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VThe Israelis have around 20,000 in the West Bank and Gaza.
+p1020
+sg8
+VWILL
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VThe Europeans will probably pitch in, maybe contribute 10%.
+p1023
+sg8
+VKATE
+p1024
+sg10
+g11
+sa(dp1025
+g6
+V18,000 American troops patrolling the PLO's backyard. [pause] Where the hell is Leo?
+p1026
+sg8
+VJOSH
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VHow are the other Arab nations going to feel about this?
+p1029
+sg8
+VWILL
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VThe King of Jordan will put up with some new neighbors. It'll give him peace and quiet in his own backyard.
+p1032
+sg8
+VABBEY
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VAnd folks in the West Bank are just going to roll out the welcome mat for G.I. Joe when he climbs out of his Humvee in Ramallah?
+p1035
+sg8
+VJOSH
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VWell, if we're going to stay up all night, I'm going to order some coffee and get dressed.
+p1038
+sg8
+VABBEY
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VIs this really our job? Sending American teenagers into that breech.
+p1041
+sg8
+VJOSH
+p1042
+sg10
+g94
+sa(dp1043
+g6
+VWhat are we talking about?
+p1044
+sg8
+VLEO
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VAbout putting an American peacekeeping force in the territories.
+p1047
+sg8
+VWILL
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VAnd we think that's a good idea?
+p1050
+sg8
+VLEO
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VSome of us do.
+p1053
+sg8
+VJOSH
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VThe Palestinians want the Israelis out of the territories and the Israelis don't want to leave the Palestinians there alone. We need an outside force to secure the borders, to ensure a smooth transition.
+p1056
+sg8
+VKATE
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VYou think Congress is going to authorize that?
+p1059
+sg8
+VLEO
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VThey've been asking for a show of force.
+p1062
+sg8
+VKATE
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VWe'd be throwing ourselves into a conflict we don't understand and give religious fanatics even more to scream about. Not to mention political capital, economic costs.
+p1065
+sg8
+VLEO
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VIt shouldn't be our job, but no one else can do it.
+p1068
+sg8
+VBARTLET
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VCan I speak to you privately for a moment?
+p1071
+sg8
+VLEO
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VI can't support this decision. For a short period we may be welcome but what happens when we have to start kicking in doors, declare martial law?
+p1074
+sg8
+VLEO
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VOnce they establish a rule of law and their economy settles down, they'll be fine.
+p1077
+sg8
+VBARTLET
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VThis isn't a romp in the desert, you're committing American lives to something that may go on for decades!
+p1080
+sg8
+VLEO
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VWe can't keep having this argument.
+p1083
+sg8
+VBARTLET
+p1084
+sg10
+g94
+sa(dp1085
+g6
+VNo, sir, we can't.
+p1086
+sg8
+VLEO
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VMy counsel is no longer of use to you. Perhaps it's time...
+p1089
+sg8
+VLEO
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VSo, if I disagree with your advice you have to threaten me.
+p1092
+sg8
+VBARTLET
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VThis is your own League of Nations. And it'll ruin you like it ruined Wilson.
+p1095
+sg8
+VLEO
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VOkay. I'll need your successor in place before you leave.
+p1098
+sg8
+VBARTLET
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VI'll get you some names.
+p1101
+sg8
+VLEO
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VYeah.
+p1104
+sg8
+VBARTLET
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VIs everything all right?
+p1107
+sg8
+VJOSH
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VYeah.
+p1110
+sg8
+VLEO
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VIs he still going to do it?
+p1113
+sg8
+VJOSH
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VYou should get back in there, find out what the President needs...
+p1116
+sg8
+VLEO
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VAre you sure you're okay?
+p1119
+sg8
+VJOSH
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VI just need some air. Go.
+p1122
+sg8
+VLEO
+p1123
+sg10
+g69
+sa(dp1124
+g6
+VGo.
+p1125
+sg8
+VLEO
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VJust a second, Mr. President.
+p1128
+sg8
+VMASSAR
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VThank you.
+p1131
+sg8
+VBARTLET
+p1132
+sg10
+g69
+sa(dp1133
+g6
+VZahavy. (speaks Hebrew)
+p1134
+sg8
+VMASSAR
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VGood morning, Mr. Prime Minister.
+p1137
+sg8
+VBARTLET
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VMr. President.
+p1140
+sg8
+VZAHAVY
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VThank you for seeing me.
+p1143
+sg8
+VBARTLET
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VOf course.
+p1146
+sg8
+VZAHAVY
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VCan we take a walk?
+p1149
+sg8
+VBARTLET
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VEli, I had another talk last night. The difficulty with...
+p1152
+sg8
+VBARTLET
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VGood morning, everybody, if you could settle down, please. I'm pleased to announce that this afternoon at 2:00 Prime Minister Zahavy, Chairman Farad, and President Bartlet...
+p1155
+sg8
+VC.J.
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VCongress won't approve it.
+p1158
+sg8
+VWILL
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VThey don't have to approve it; we're not declaring war. We're not even trying to build one of those aquatic history museums.
+p1161
+sg8
+VJOSH
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VThey still have to fund it.
+p1164
+sg8
+VWILL
+p1165
+sg10
+g94
+sa(dp1166
+g6
+VIt'll never get that far. Farad'll find some way to trip over his own shoes before we even get a chance to re-sew them.
+p1167
+sg8
+VTOBY
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VNo round trip on Marine One?
+p1170
+sg8
+VWILL
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VYeah, it's a shame.
+p1173
+sg8
+VKATE
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VYou talk to Leo this morning?
+p1176
+sg8
+VTOBY
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VI couldn't find him. He must've headed back early.
+p1179
+sg8
+VJOSH
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VAny idea how he wants us to handle this?
+p1182
+sg8
+VTOBY
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VNo. I'll try calling him.
+p1185
+sg8
+VJOSH
+p1186
+sg10
+g11
+sas.

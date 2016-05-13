@@ -1,0 +1,3842 @@
+(dp0
+S'season'
+p1
+I5
+sS'episode'
+p2
+I13
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+V[into phone] Yes? ... Please. ... Yeah, Leo.
+p7
+sS'character'
+p8
+VBARTLET
+p9
+sS'maxent_score'
+p10
+S'positive'
+p11
+sa(dp12
+g6
+VGood morning.
+p13
+sg8
+VBARTLET
+p14
+sg10
+S'neutral'
+p15
+sa(dp16
+g6
+VGood morning, sir.
+p17
+sg8
+VALL
+p18
+sg10
+g15
+sa(dp19
+g6
+VOr whatever 3:00 am is. Please.
+p20
+sg8
+VBARTLET
+p21
+sg10
+S'negative'
+p22
+sa(dp23
+g6
+VLet's have a look.
+p24
+sg8
+VBARTLET
+p25
+sg10
+g15
+sa(dp26
+g6
+VWhere?
+p27
+sg8
+VBARTLET
+p28
+sg10
+g15
+sa(dp29
+g6
+VOver the north central Indian Ocean, sir. Not near anything.
+p30
+sg8
+VHUTCHINSON
+p31
+sg10
+g15
+sa(dp32
+g6
+VAre you sure?
+p33
+sg8
+VBARTLET
+p34
+sg10
+g15
+sa(dp35
+g6
+VAll atmospheric detonations produce that unique signature, sir; an initial one-millisecond flash, the fireball, which is then overtaken and obscured by the expanding shock front.
+p36
+sg8
+VALEXANDER
+p37
+sg10
+g15
+sa(dp38
+g6
+VSo, it couldn't be anything else?
+p39
+sg8
+VBARTLET
+p40
+sg10
+g15
+sa(dp41
+g6
+VNo.
+p42
+sg8
+VHUTCHINSON
+p43
+sg10
+g15
+sa(dp44
+g6
+VAnd no false alarms have ever been ascribed to the NDS.
+p45
+sg8
+VALEXANDER
+p46
+sg10
+g15
+sa(dp47
+g6
+VOther sensors?
+p48
+sg8
+VLEO
+p49
+sg10
+g15
+sa(dp50
+g6
+VStill being analyzed. But both the X-ray and EMP detectors show readings consistent with atmospheric detonation.
+p51
+sg8
+VHUTCHINSON
+p52
+sg10
+g15
+sa(dp53
+g6
+VWho else knows?
+p54
+sg8
+VBARTLET
+p55
+sg10
+g15
+sa(dp56
+g6
+VSir?
+p57
+sg8
+VHUTCHINSON
+p58
+sg10
+g15
+sa(dp59
+g6
+VWho else in the world?
+p60
+sg8
+VLEO
+p61
+sg10
+g15
+sa(dp62
+g6
+VThe Russians and the Chinese have satellite detection capability for an atmospheric NUDET.
+p63
+sg8
+VALEXANDER
+p64
+sg10
+g15
+sa(dp65
+g6
+VNuclear detonation, sir.
+p66
+sg8
+VHUTCHINSON
+p67
+sg10
+g15
+sa(dp68
+g6
+VYeah.
+p69
+sg8
+VBARTLET
+p70
+sg10
+g15
+sa(dp71
+g6
+VThere's a new member of the club.
+p72
+sg8
+VLEO
+p73
+sg10
+g15
+sa(dp74
+g6
+VThe mess isn't open yet, sir. This is from the Secret Service command post.
+p75
+sg8
+VCHARLIE
+p76
+sg10
+g15
+sa(dp77
+g6
+VIf it's too hot, they wrestle it to the ground.
+p78
+sg8
+VBARTLET
+p79
+sg10
+g15
+sa(dp80
+g6
+VThe CIA director called. He's been held...
+p81
+sg8
+VCHARLIE
+p82
+sg10
+g15
+sa(dp83
+g6
+VTo avoid snarling traffic.
+p84
+sg8
+VLEO
+p85
+sg10
+g15
+sa(dp86
+g6
+VThat's the theory.
+p87
+sg8
+VSLIGER
+p88
+sg10
+g15
+sa(dp89
+g6
+VWe just started. Thanks, Charlie.
+p90
+sg8
+VBARTLET
+p91
+sg10
+g15
+sa(dp92
+g6
+VWe've talked to the Russians and the Chinese?
+p93
+sg8
+VBARTLET
+p94
+sg10
+g15
+sa(dp95
+g6
+VThey agree about keeping this quiet.
+p96
+sg8
+VSLATTERY
+p97
+sg10
+g15
+sa(dp98
+g6
+VWhoever this was, they knew we'd pick it up.
+p99
+sg8
+VBARTLET
+p100
+sg10
+g15
+sa(dp101
+g6
+VLikely suspects?
+p102
+sg8
+VLEO
+p103
+sg10
+g15
+sa(dp104
+g6
+VNorth Korea or Iran.
+p105
+sg8
+VHUTCHINSON
+p106
+sg10
+g15
+sa(dp107
+g6
+VYeah.
+p108
+sg8
+VBARTLET
+p109
+sg10
+g15
+sa(dp110
+g6
+VThey've both been heading down this road. We just didn't know they'd gotten this far.
+p111
+sg8
+VSLIGER
+p112
+sg10
+g22
+sa(dp113
+g6
+VWell, "sure" is a word we don't throw around at Langley.
+p114
+sg8
+VSLIGER
+p115
+sg10
+g15
+sa(dp116
+g6
+VThere've been strong indications the North has nuclear weapons.
+p117
+sg8
+VLEO
+p118
+sg10
+g15
+sa(dp119
+g6
+VWhat about Iran?
+p120
+sg8
+VBARTLET
+p121
+sg10
+g15
+sa(dp122
+g6
+VWell, the intel is sketchy.
+p123
+sg8
+VSLIGER
+p124
+sg10
+g15
+sa(dp125
+g6
+VThere's that other word: "know".
+p126
+sg8
+VSLIGER
+p127
+sg10
+g15
+sa(dp128
+g6
+VWhat we know and are sure of is this happened. We're going to need to focus less on semantic distinctions and more on how this caught us so completely by surprise. We need to make contact. The Chinese for North Korea?
+p129
+sg8
+VBARTLET
+p130
+sg10
+g15
+sa(dp131
+g6
+VIran?
+p132
+sg8
+VLEO
+p133
+sg10
+g15
+sa(dp134
+g6
+VUsually the Italians or the Swiss.
+p135
+sg8
+VSLATTERY
+p136
+sg10
+g15
+sa(dp137
+g6
+VNo good. We don't want them in the loop.
+p138
+sg8
+VLEO
+p139
+sg10
+g15
+sa(dp140
+g6
+VThe Russians, then. We can assume Moscow's not crazy about the idea of another nuclear state in their neighborhood.
+p141
+sg8
+VBARTLET
+p142
+sg10
+g15
+sa(dp143
+g6
+VA terror group?
+p144
+sg8
+VLEO
+p145
+sg10
+g15
+sa(dp146
+g6
+VNo terrorists have the capability for a test on this scale. Their nuclear event will be a suitcase bomb detonated in Manhattan.
+p147
+sg8
+VHUTCHINSON
+p148
+sg10
+g15
+sa(dp149
+g6
+VOr Pennsylvania Avenue. Thank you, everyone.
+p150
+sg8
+VBARTLET
+p151
+sg10
+g11
+sa(dp152
+g6
+VThank you, sir.
+p153
+sg8
+VALL
+p154
+sg10
+g11
+sa(dp155
+g6
+VLittle rough with the Director?
+p156
+sg8
+VLEO
+p157
+sg10
+g15
+sa(dp158
+g6
+VI'll send him a lollipop.
+p159
+sg8
+VBARTLET
+p160
+sg10
+g15
+sa(dp161
+g6
+VYou want your Intelligence head focused and at his best.
+p162
+sg8
+VLEO
+p163
+sg10
+g15
+sa(dp164
+g6
+VGuy couldn't find a clear route in at 4:00 in the morning. I'm not over-brimming with confidence. This is the nightmare. [pause] I thought when the Soviet Union fell, we could actually have disarmament. You go from trying to get rid of these weapons altogether to holding your breath one doesn't go off on your watch. Strike another goal off the list.
+p165
+sg8
+VBARTLET
+p166
+sg10
+g15
+sa(dp167
+g6
+VWe find out who this was, then what?
+p168
+sg8
+VLEO
+p169
+sg10
+g15
+sa(dp170
+g6
+VWe'll have to do something. I want a Defense briefing on contingency plans.
+p171
+sg8
+VBARTLET
+p172
+sg10
+g15
+sa(dp173
+g6
+VWe act, we'll need a statement.
+p174
+sg8
+VLEO
+p175
+sg10
+g15
+sa(dp176
+g6
+VToby?
+p177
+sg8
+VBARTLET
+p178
+sg10
+g15
+sa(dp179
+g6
+VSooner is better.
+p180
+sg8
+VLEO
+p181
+sg10
+g15
+sa(dp182
+g6
+VOh, God.
+p183
+sg8
+VBARTLET
+p184
+sg10
+g15
+sa(dp185
+g6
+VWhat?
+p186
+sg8
+VLEO
+p187
+sg10
+g15
+sa(dp188
+g6
+VThe Vice President.
+p189
+sg8
+VBARTLET
+p190
+sg10
+g15
+sa(dp191
+g6
+VYeah. I'll brief him.
+p192
+sg8
+VLEO
+p193
+sg10
+g15
+sa(dp194
+g6
+VApologize. Tell him... I don't know what the hell to tell him.
+p195
+sg8
+VBARTLET
+p196
+sg10
+g15
+sa(dp197
+g6
+VHey.
+p198
+sg8
+VJOSH
+p199
+sg10
+g15
+sa(dp200
+g6
+VMorning. So this meeting's a breakfast.
+p201
+sg8
+VDONNA
+p202
+sg10
+g15
+sa(dp203
+g6
+VOkay.
+p204
+sg8
+VJOSH
+p205
+sg10
+g15
+sa(dp206
+g6
+VSo you have to eat something.
+p207
+sg8
+VDONNA
+p208
+sg10
+g15
+sa(dp209
+g6
+VI already ate.
+p210
+sg8
+VJOSH
+p211
+sg10
+g15
+sa(dp212
+g6
+VOr else it's rude.
+p213
+sg8
+VDONNA
+p214
+sg10
+g15
+sa(dp215
+g6
+VI'm not hungry.
+p216
+sg8
+VJOSH
+p217
+sg10
+g15
+sa(dp218
+g6
+VOr else it's rude.
+p219
+sg8
+VDONNA
+p220
+sg10
+g15
+sa(dp221
+g6
+V[sighing] This order, as soon as I get back. Why am I even meeting with some geeks from NASA?
+p222
+sg8
+VJOSH
+p223
+sg10
+g15
+sa(dp224
+g6
+VI'm sure they're not geeks. I'm sure they're not all geeks, and it's to discuss administration space priorities. Do we even have space priorities?
+p225
+sg8
+VDONNA
+p226
+sg10
+g15
+sa(dp227
+g6
+VExactly.
+p228
+sg8
+VJOSH
+p229
+sg10
+g15
+sa(dp230
+g6
+VMorning.
+p231
+sg8
+VJOSH
+p232
+sg10
+g15
+sa(dp233
+g6
+VGood morning.
+p234
+sg8
+VKARL
+p235
+sg10
+g15
+sa(dp236
+g6
+VYou have nametags?
+p237
+sg8
+VJOSH
+p238
+sg10
+g15
+sa(dp239
+g6
+VHaven't been to the White House much these five years. Thought it'd help.
+p240
+sg8
+VKARL
+p241
+sg10
+g15
+sa(dp242
+g6
+VRight, "Karl".
+p243
+sg8
+VJOSH
+p244
+sg10
+g15
+sa(dp245
+g6
+VI recommend the scones. They're...
+p246
+sg8
+VKARL
+p247
+sg10
+g15
+sa(dp248
+g6
+VOut of this world?
+p249
+sg8
+VJOSH
+p250
+sg10
+g15
+sa(dp251
+g6
+VMr. Vice President.
+p252
+sg8
+VLEO
+p253
+sg10
+g15
+sa(dp254
+g6
+VPlease.
+p255
+sg8
+VRUSSELL
+p256
+sg10
+g15
+sa(dp257
+g6
+VThank you.
+p258
+sg8
+VLEO
+p259
+sg10
+g11
+sa(dp260
+g6
+VWhat's up?
+p261
+sg8
+VRUSSELL
+p262
+sg10
+g15
+sa(dp263
+g6
+VSir, this is to be kept in the strictest of confidence. At approximately 2:17 am eastern time, an atmospheric nuclear detonation was detected by a DSP satellite over the Indian Ocean.
+p264
+sg8
+VLEO
+p265
+sg10
+g15
+sa(dp266
+g6
+VPakistan's attacked  India.
+p267
+sg8
+VRUSSELL
+p268
+sg10
+g15
+sa(dp269
+g6
+VNo, sir. This was a test.
+p270
+sg8
+VLEO
+p271
+sg10
+g15
+sa(dp272
+g6
+VPakistan being provocative. Shot-across-the-bow sort of thing.
+p273
+sg8
+VRUSSELL
+p274
+sg10
+g15
+sa(dp275
+g6
+VIt wasn't Pakistan. If you'll just let me finish. No nation has claimed credit. We're trying to ascertain who was responsible, but it appears there's a new player on the nuclear stage.
+p276
+sg8
+VLEO
+p277
+sg10
+g15
+sa(dp278
+g6
+VIs India mobilizing?
+p279
+sg8
+VRUSSELL
+p280
+sg10
+g15
+sa(dp281
+g6
+VIt was 1,200 miles from India. India has no idea that it happened.
+p282
+sg8
+VLEO
+p283
+sg10
+g15
+sa(dp284
+g6
+VBut, I don't...
+p285
+sg8
+VRUSSELL
+p286
+sg10
+g22
+sa(dp287
+g6
+VLet me start again.
+p288
+sg8
+VLEO
+p289
+sg10
+g15
+sa(dp290
+g6
+V[into phone] Hang on.
+p291
+sg8
+VCAROL
+p292
+sg10
+g15
+sa(dp293
+g6
+VIt's him again.
+p294
+sg8
+VCAROL
+p295
+sg10
+g15
+sa(dp296
+g6
+VHim, who? Ben. Take a message.
+p297
+sg8
+VC.J.
+p298
+sg10
+g15
+sa(dp299
+g6
+VHe gets any more persistent, they're going to open a case file. Can I just tell him you're not worth it?
+p300
+sg8
+VCAROL
+p301
+sg10
+g15
+sa(dp302
+g6
+VWe used to date; he knows better.
+p303
+sg8
+VC.J.
+p304
+sg10
+g15
+sa(dp305
+g6
+VFeeling frisky?
+p306
+sg8
+VTOBY
+p307
+sg10
+g15
+sa(dp308
+g6
+VRemembrance of things past.
+p309
+sg8
+VC.J.
+p310
+sg10
+g15
+sa(dp311
+g6
+VThe briefing, two things to deflect. New Israeli settlement activity in the West Bank. You can do it.
+p312
+sg8
+VTOBY
+p313
+sg10
+g15
+sa(dp314
+g6
+V'We discourage new settlements; deplore Palestinian terror.' Balance but not too much balance. No moral equivalence...
+p315
+sg8
+VC.J.
+p316
+sg10
+g15
+sa(dp317
+g6
+VThe greatest hits.
+p318
+sg8
+VTOBY
+p319
+sg10
+g15
+sa(dp320
+g6
+VThe golden oldies. Second thing?
+p321
+sg8
+VC.J.
+p322
+sg10
+g15
+sa(dp323
+g6
+VRINOs.
+p324
+sg8
+VTOBY
+p325
+sg10
+g15
+sa(dp326
+g6
+VEndangered species, powdered horn considered an aphrodisiac. That were the word "horny" come from?
+p327
+sg8
+VC.J.
+p328
+sg10
+g15
+sa(dp329
+g6
+VNot precisely, it's... These aren't the animals. It's "Republicans In Name Only".
+p330
+sg8
+VTOBY
+p331
+sg10
+g15
+sa(dp332
+g6
+V"RINOs". Adorable.
+p333
+sg8
+VC.J.
+p334
+sg10
+g15
+sa(dp335
+g6
+VRight-wings new name for GOP members who voted with us. They're being targeted in the primaries, uh...
+p336
+sg8
+VTOBY
+p337
+sg10
+g15
+sa(dp338
+g6
+V'We're happy to stay out of that particular slap-fight in the schoolyard.'
+p339
+sg8
+VC.J.
+p340
+sg10
+g15
+sa(dp341
+g6
+VMake it 'sandbox'.
+p342
+sg8
+VTOBY
+p343
+sg10
+g15
+sa(dp344
+g6
+VThanks, Leo. Don't hesitate to call on me if I can be useful in any way.
+p345
+sg8
+VRUSSELL
+p346
+sg10
+g15
+sa(dp347
+g6
+VBe sure to let you know, sir.
+p348
+sg8
+VLEO
+p349
+sg10
+g15
+sa(dp350
+g6
+VLeo, anything I need to be aware of?
+p351
+sg8
+VWILL
+p352
+sg10
+g15
+sa(dp353
+g6
+VUh-uh.
+p354
+sg8
+VLEO
+p355
+sg10
+g15
+sa(dp356
+g6
+VI've been thinking. To build the VP's issue profile, I'm wondering if there's some policy area the administration could give him.
+p357
+sg8
+VWILL
+p358
+sg10
+g15
+sa(dp359
+g6
+VSuch as?
+p360
+sg8
+VLEO
+p361
+sg10
+g22
+sa(dp362
+g6
+VWell, I have some notions, certainly.
+p363
+sg8
+VWILL
+p364
+sg10
+g22
+sa(dp365
+g6
+VTake it up with Toby.
+p366
+sg8
+VLEO
+p367
+sg10
+g15
+sa(dp368
+g6
+VYeah, thing is, he and I, ever since...
+p369
+sg8
+VWILL
+p370
+sg10
+g15
+sa(dp371
+g6
+VTake it up with him. That's what he does. If you two have problems, work them out. I'm not a couple's therapist.
+p372
+sg8
+VLEO
+p373
+sg10
+g15
+sa(dp374
+g6
+VYeah.
+p375
+sg8
+VWILL
+p376
+sg10
+g15
+sa(dp377
+g6
+VListen, I... appreciate your coming in, but you may be meeting with the wrong guy. My knowledge about space is like the old joke about the official announcing a new program. He says, 'We're going to go where no one has ever been. We're going to land on... the sun!' Reporter says, 'But, sir, the sun's a burning mass of fire.' The official replies, 'Ah! Thought of that. That's why we're going to go at night.' What I know is politics. Public perception. And the image of NASA is not good. Telescopes launched that can't focus. Planetary probes that crashed because engineers mixed up meters and feet. The only time NASA makes the front page anymore, is when something goes wrong. You need to get off the front page. This administration has only one space priority: that you guys stop screwing up. Thanks for your time.
+p378
+sg8
+VJOSH
+p379
+sg10
+g15
+sa(dp380
+g6
+VUnfortunately, everything we have, we care about.
+p381
+sg8
+VTOBY
+p382
+sg10
+g15
+sa(dp383
+g6
+VWe've got to give him something.
+p384
+sg8
+VLEO
+p385
+sg10
+g15
+sa(dp386
+g6
+VWhat can he handle? Potholes.
+p387
+sg8
+VTOBY
+p388
+sg10
+g15
+sa(dp389
+g6
+VInfrastructure?
+p390
+sg8
+VLEO
+p391
+sg10
+g15
+sa(dp392
+g6
+VNo, I mean actual potholes, on - I don't know - the interstate.
+p393
+sg8
+VTOBY
+p394
+sg10
+g15
+sa(dp395
+g6
+VCome up with something low-profile and easy. Keep him out from under-foot.
+p396
+sg8
+VLEO
+p397
+sg10
+g15
+sa(dp398
+g6
+VWe've got trouble, Toby.
+p399
+sg8
+VLEO
+p400
+sg10
+g15
+sa(dp401
+g6
+VUh-huh?
+p402
+sg8
+VTOBY
+p403
+sg10
+g15
+sa(dp404
+g6
+VYou go see the Vice President?
+p405
+sg8
+VBARTLET
+p406
+sg10
+g15
+sa(dp407
+g6
+VWhen I briefed him, he kind of tilted his head. I'll update him after.
+p408
+sg8
+VLEO
+p409
+sg10
+g15
+sa(dp410
+g6
+VSir? Everyone's here.
+p411
+sg8
+VNANCY
+p412
+sg10
+g15
+sa(dp413
+g6
+VYou can come in.
+p414
+sg8
+VNANCY
+p415
+sg10
+g15
+sa(dp416
+g6
+VWhere are we?
+p417
+sg8
+VBARTLET
+p418
+sg10
+g15
+sa(dp419
+g6
+VThe Chinese have no indication North Korea did this.
+p420
+sg8
+VSLATTERY
+p421
+sg10
+g15
+sa(dp422
+g6
+VWhat do we think?
+p423
+sg8
+VBARTLET
+p424
+sg10
+g15
+sa(dp425
+g6
+VIt's good news and bad. We think North Korea's got two bombs, probably more.
+p426
+sg8
+VSLIGER
+p427
+sg10
+g15
+sa(dp428
+g6
+VPlease let that be the bad news.
+p429
+sg8
+VTOBY
+p430
+sg10
+g15
+sa(dp431
+g6
+V'Cause we also believe their technology's so advanced they don't need to perform tests.
+p432
+sg8
+VSLIGER
+p433
+sg10
+g15
+sa(dp434
+g6
+VWhy does the good news make me feel worse? Iran.
+p435
+sg8
+VBARTLET
+p436
+sg10
+g15
+sa(dp437
+g6
+VMoscow doesn't think so.
+p438
+sg8
+VHUTCHINSON
+p439
+sg10
+g15
+sa(dp440
+g6
+VThey might just be covering their own ass.
+p441
+sg8
+VLEO
+p442
+sg10
+g15
+sa(dp443
+g6
+VRumors.
+p444
+sg8
+VSLIGER
+p445
+sg10
+g15
+sa(dp446
+g6
+VThe IAEA reports Iran's had a secret nuclear program for the past 18 years.
+p447
+sg8
+VLEO
+p448
+sg10
+g15
+sa(dp449
+g6
+VIt makes more geographic sense. The Korean peninsula's 4,000 miles from the blast site.
+p450
+sg8
+VHUTCHINSON
+p451
+sg10
+g15
+sa(dp452
+g6
+VWhat it's near is Iran.
+p453
+sg8
+VLEO
+p454
+sg10
+g15
+sa(dp455
+g6
+VAll right, let's put our cards on the table. What helped keep the Cold War cold was a sense of moral restraint that these weapons were to terrible to use.
+p456
+sg8
+VBARTLET
+p457
+sg10
+g15
+sa(dp458
+g6
+VThat restraint won't exist in jihadists who strap bombs to their chests and enter nightclubs.
+p459
+sg8
+VLEO
+p460
+sg10
+g15
+sa(dp461
+g6
+VThere are moderate elements on the ascendancy in Iran.
+p462
+sg8
+VSLIGER
+p463
+sg10
+g15
+sa(dp464
+g6
+V"In the Koran, God commanded to kill the wicked and those who do not see the rights of the oppressed and to murder them. If we abide by the Koran, all of us should mobilize to kill." Televised address by President Alijani: Moderate.
+p465
+sg8
+VTOBY
+p466
+sg10
+g15
+sa(dp467
+g6
+VMr. Slattery, have the Iranian Ambassador to the U.N. fly down to the Swiss embassy to meet with you immediately.
+p468
+sg8
+VBARTLET
+p469
+sg10
+g15
+sa(dp470
+g6
+VThank you, Mr. President.
+p471
+sg8
+VSLATTERY
+p472
+sg10
+g11
+sa(dp473
+g6
+VThank you, all.
+p474
+sg8
+VBARTLET
+p475
+sg10
+g15
+sa(dp476
+g6
+VThank you, sir.
+p477
+sg8
+VALL
+p478
+sg10
+g11
+sa(dp479
+g6
+VLyle?
+p480
+sg8
+VC.J.
+p481
+sg10
+g15
+sa(dp482
+g6
+VWhat's the reaction to announcements of new Israeli settlements in the West Bank?
+p483
+sg8
+VLYLE
+p484
+sg10
+g15
+sa(dp485
+g6
+VOur position remains that we discourage such activities.
+p486
+sg8
+VC.J.
+p487
+sg10
+g15
+sa(dp488
+g6
+VWell, is the administration contemplating a more forceful expression of disapproval?
+p489
+sg8
+VLYLE
+p490
+sg10
+g15
+sa(dp491
+g6
+VWe continue to urge every party in the region to take every step to reduce tensions. Steve?
+p492
+sg8
+VC.J.
+p493
+sg10
+g15
+sa(dp494
+g6
+VDo you have a response to Taylor Reid?
+p495
+sg8
+VSTEVE
+p496
+sg10
+g15
+sa(dp497
+g6
+VThat's hard to say, never having heard of... Is it him or her?
+p498
+sg8
+VC.J.
+p499
+sg10
+g15
+sa(dp500
+g6
+VOn his new cable show last night, you were named "Chicken of the Week".
+p501
+sg8
+VSTEVE
+p502
+sg10
+g15
+sa(dp503
+g6
+VSorry?
+p504
+sg8
+VC.J.
+p505
+sg10
+g15
+sa(dp506
+g6
+VHis designation of the newsperson who he says is refusing to appear on his show.
+p507
+sg8
+VSTEVE
+p508
+sg10
+g15
+sa(dp509
+g6
+VWell, it's hard to refuse to appear on something you've never heard of.
+p510
+sg8
+VC.J.
+p511
+sg10
+g15
+sa(dp512
+g6
+VSo, you'd be willing to go on?
+p513
+sg8
+VSTEVE
+p514
+sg10
+g15
+sa(dp515
+g6
+VI have no idea. Though, truly, what girl can resist being referred to as poultry? Gail?
+p516
+sg8
+VC.J.
+p517
+sg10
+g15
+sa(dp518
+g6
+VWhat about going to the U.N.?
+p519
+sg8
+VTOBY
+p520
+sg10
+g15
+sa(dp521
+g6
+VIt'll be discussed.
+p522
+sg8
+VLEO
+p523
+sg10
+g15
+sa(dp524
+g6
+VIsn't that what it's there for?
+p525
+sg8
+VTOBY
+p526
+sg10
+g15
+sa(dp527
+g6
+VYeah. But this isn't the room where you talk about that.
+p528
+sg8
+VLEO
+p529
+sg10
+g15
+sa(dp530
+g6
+VFollow-up confirms it was a nuclear blast?
+p531
+sg8
+VBARTLET
+p532
+sg10
+g15
+sa(dp533
+g6
+VYes, sir. We're still gathering data on precise yield and type.
+p534
+sg8
+VHUTCHINSON
+p535
+sg10
+g15
+sa(dp536
+g6
+VOptions, General.
+p537
+sg8
+VBARTLET
+p538
+sg10
+g15
+sa(dp539
+g6
+VNorth Korea's nuclear facilities and weapons are stored in tunnels a half mile underground. Unreachable by air power. And they've threatened nuclear retaliation in the event of attack, presumably against the South, but also conceivably against Australia or Japan.
+p540
+sg8
+VALEXANDER
+p541
+sg10
+g15
+sa(dp542
+g6
+VAnd Iran?
+p543
+sg8
+VBARTLET
+p544
+sg10
+g15
+sa(dp545
+g6
+VThere are available nuclear targets for air strike.
+p546
+sg8
+VALEXANDER
+p547
+sg10
+g15
+sa(dp548
+g6
+VThe downside is a potential retaliatory nuclear strike at Israel.
+p549
+sg8
+VHUTCHINSON
+p550
+sg10
+g15
+sa(dp551
+g6
+VYou're sending up a new telescope.
+p552
+sg8
+VJOSH
+p553
+sg10
+g15
+sa(dp554
+g6
+VThe Webb, yes. Out past the moon.
+p555
+sg8
+VMOREAU
+p556
+sg10
+g15
+sa(dp557
+g6
+VEvery news story noted it'll be too far out for the Shuttle to fix if it's all screwed up, like the Hubble was. I prepare even for meetings I don't' want to go to. I wasn't improvising. You guys are lost in space.
+p558
+sg8
+VJOSH
+p559
+sg10
+g15
+sa(dp560
+g6
+VWell, I agree with you, NASA's lost purpose. But the problem isn't getting off the front page, its getting back on. The New York Times has never published a larger headline than when Neil Armstrong walked on the moon.
+p561
+sg8
+VMOREAU
+p562
+sg10
+g15
+sa(dp563
+g6
+VOnly, you don't do that anymore. Now, it's launches to service the pointless International Space Station - which should be re-christened the SS Good Money After Bad. It's all low-earth orbits. It like if, 30 years after Columbus, Spain expected people to get hot and bothered about a trip to Mallorca.
+p564
+sg8
+VJOSH
+p565
+sg10
+g15
+sa(dp566
+g6
+VThat's why we need to do this.
+p567
+sg8
+VMOREAU
+p568
+sg10
+g15
+sa(dp569
+g6
+VWhat's this?
+p570
+sg8
+VJOSH
+p571
+sg10
+g15
+sa(dp572
+g6
+V'Mars or Bust'. We want the government to commit to a manned mission to Mars.
+p573
+sg8
+VMOREAU
+p574
+sg10
+g15
+sa(dp575
+g6
+VThere aren't 20 votes for it in Congress. You couldn't get funding for the buttons.
+p576
+sg8
+VJOSH
+p577
+sg10
+g15
+sa(dp578
+g6
+VThe Republican Congress isn't the problem. It's liberals that killed the space program.
+p579
+sg8
+VMOREAU
+p580
+sg10
+g15
+sa(dp581
+g6
+VYeah, 'cause we like to use government money to, I don't know, help people.
+p582
+sg8
+VJOSH
+p583
+sg10
+g15
+sa(dp584
+g6
+VSpace travel's inspirational. You don't think that helps people?
+p585
+sg8
+VMOREAU
+p586
+sg10
+g15
+sa(dp587
+g6
+VNot like feeding them or getting them jobs.
+p588
+sg8
+VJOSH
+p589
+sg10
+g15
+sa(dp590
+g6
+VWell, you have to feed the soul, too. Ever look through a telescope?
+p591
+sg8
+VMOREAU
+p592
+sg10
+g15
+sa(dp593
+g6
+VIn school. Uh, a guy on my floor liked to aim one at the women's dorm. MOREAU What're you doing tonight?
+p594
+sg8
+VJOSH
+p595
+sg10
+g15
+sa(dp596
+g6
+VUh...
+p597
+sg8
+VJOSH
+p598
+sg10
+g15
+sa(dp599
+g6
+VUntil you get a good look at what's up there, you only think you're prepared. Pick you up at 8:00.
+p600
+sg8
+VMOREAU
+p601
+sg10
+g15
+sa(dp602
+g6
+VDonna, cancel my dinner with Bregstone tonight.
+p603
+sg8
+VJOSH
+p604
+sg10
+g15
+sa(dp605
+g6
+VStargazing?
+p606
+sg8
+VDONNA
+p607
+sg10
+g15
+sa(dp608
+g6
+VYou were listening?
+p609
+sg8
+VJOSH
+p610
+sg10
+g15
+sa(dp611
+g6
+VI'm right outside. [pause] Would you be going if she weren't attractive?
+p612
+sg8
+VDONNA
+p613
+sg10
+g15
+sa(dp614
+g6
+VWe'll never know.
+p615
+sg8
+VJOSH
+p616
+sg10
+g15
+sa(dp617
+g6
+V[clearing throat] Did you...
+p618
+sg8
+VWILL
+p619
+sg10
+g11
+sa(dp620
+g6
+VI spoke to Leo. I got the Vice President a policy focus.
+p621
+sg8
+VTOBY
+p622
+sg10
+g15
+sa(dp623
+g6
+VGreat.
+p624
+sg8
+VWILL
+p625
+sg10
+g15
+sa(dp626
+g6
+VGood government.
+p627
+sg8
+VTOBY
+p628
+sg10
+g15
+sa(dp629
+g6
+VNot that chestnut. "Reducing bureaucracy, rewriting regulations into plain English."
+p630
+sg8
+VWILL
+p631
+sg10
+g15
+sa(dp632
+g6
+VExtremely important.
+p633
+sg8
+VTOBY
+p634
+sg10
+g15
+sa(dp635
+g6
+VAnd incredibly boring.
+p636
+sg8
+VWILL
+p637
+sg10
+g15
+sa(dp638
+g6
+VAs is the Vice President. A match made in heaven.
+p639
+sg8
+VTOBY
+p640
+sg10
+g15
+sa(dp641
+g6
+VI don't think many theologians would stipulate Toby Ziegler's office as heaven.
+p642
+sg8
+VWILL
+p643
+sg10
+g15
+sa(dp644
+g6
+VYou asked, and ye have received.
+p645
+sg8
+VTOBY
+p646
+sg10
+g15
+sa(dp647
+g6
+VAnd, yet, my joy is less than full. "Revoking the franking privilege".
+p648
+sg8
+VWILL
+p649
+sg10
+g15
+sa(dp650
+g6
+VI have work to do.
+p651
+sg8
+VTOBY
+p652
+sg10
+g22
+sa(dp653
+g6
+VClose the door.
+p654
+sg8
+VTOBY
+p655
+sg10
+g15
+sa(dp656
+g6
+VThe Swiss like nice things.
+p657
+sg8
+VSLATTERY
+p658
+sg10
+g15
+sa(dp659
+g6
+VYou can afford them when you don't have to pay for a national defense.
+p660
+sg8
+VLEO
+p661
+sg10
+g15
+sa(dp662
+g6
+VMr. Ambassador.
+p663
+sg8
+VLEO
+p664
+sg10
+g15
+sa(dp665
+g6
+VMr. McGarry.
+p666
+sg8
+VAMBASSADOR
+p667
+sg10
+g15
+sa(dp668
+g6
+VDo you require anything else?
+p669
+sg8
+VASSISTANT
+p670
+sg10
+g11
+sa(dp671
+g6
+VNo thank you, ma'am.
+p672
+sg8
+VLEO
+p673
+sg10
+g11
+sa(dp674
+g6
+VNational Security Advisor McNally, Assistant Secretary of State Slattery. I hope the trip down wasn't too inconvenient.
+p675
+sg8
+VLEO
+p676
+sg10
+g15
+sa(dp677
+g6
+VThe summons was a bit abrupt.
+p678
+sg8
+VAMBASSADOR
+p679
+sg10
+g15
+sa(dp680
+g6
+VPlease.
+p681
+sg8
+VLEO
+p682
+sg10
+g15
+sa(dp683
+g6
+VWe'd like to discuss your nuclear program.
+p684
+sg8
+VLEO
+p685
+sg10
+g15
+sa(dp686
+g6
+VWe've agreed to IAEA inspections, suspended production on enriched uranium.
+p687
+sg8
+VAMBASSADOR
+p688
+sg10
+g15
+sa(dp689
+g6
+VTemporarily.
+p690
+sg8
+VLEO
+p691
+sg10
+g15
+sa(dp692
+g6
+VThe type that provides fuel for nuclear weapons in India and Pakistan.
+p693
+sg8
+VLEO
+p694
+sg10
+g15
+sa(dp695
+g6
+VThe Iranian exile organization NCR has identified other secret enrichment facilities: the Lashkar-Abad site near Hashtgerd, a site near Ramandeh village...
+p696
+sg8
+VSLATTERY
+p697
+sg10
+g15
+sa(dp698
+g6
+VWhy are you enriching uranium?
+p699
+sg8
+VLEO
+p700
+sg10
+g11
+sa(dp701
+g6
+VFor reactor fuel, for power generation, as our European friends recognize is our sovereign right.
+p702
+sg8
+VAMBASSADOR
+p703
+sg10
+g15
+sa(dp704
+g6
+VPower you don't need, with you oil and gas reserves.
+p705
+sg8
+VLEO
+p706
+sg10
+g15
+sa(dp707
+g6
+VIt is necessary, because of rising domestic consumption rates, and our desire to preserve oil and gas to generate foreign currency.
+p708
+sg8
+VAMBASSADOR
+p709
+sg10
+g15
+sa(dp710
+g6
+VAnd we enjoy and anticipate stable relations with Saudi Arabia, Pakistan, Turkey, Afghanistan. These are the nations within range of this missile.
+p711
+sg8
+VAMBASSADOR
+p712
+sg10
+g15
+sa(dp713
+g6
+VAnd Israel, I understand. Sir, we believe your country has been engaged in developing nuclear weapons.
+p714
+sg8
+VLEO
+p715
+sg10
+g15
+sa(dp716
+g6
+VThe Ayatollah has decreed their production to be haram - prohibited on religious grounds. We consider the development and use of such weapons to be immoral, inhumane, and against our basic Islamic beliefs. In contrast to the United States, which is not merely the only nation to ever employ such weapons--twice--but also brought the world to the brink of nuclear holocaust with the Cuban missile crisis.
+p717
+sg8
+VAMBASSADOR
+p718
+sg10
+g15
+sa(dp719
+g6
+VThe United States will not tolerate these weapons' further proliferation.
+p720
+sg8
+VLEO
+p721
+sg10
+g15
+sa(dp722
+g6
+VIt is disconcerting to be dictated to by the only transgressor in human history.
+p723
+sg8
+VAMBASSADOR
+p724
+sg10
+g15
+sa(dp725
+g6
+VLet me make myself plain, Mr. Ambassador. Evidence that Iran possesses or has tested a nuclear weapon will be greeted by the United States as a matter of gravest consequence.
+p726
+sg8
+VLEO
+p727
+sg10
+g15
+sa(dp728
+g6
+VAre we finished?
+p729
+sg8
+VAMBASSADOR
+p730
+sg10
+g15
+sa(dp731
+g6
+VI know what terrifies you: an Islamic bomb.
+p732
+sg8
+VAMBASSADOR
+p733
+sg10
+g15
+sa(dp734
+g6
+VAnd I know what concerns Iran: a Jewish bomb.
+p735
+sg8
+VLEO
+p736
+sg10
+g15
+sa(dp737
+g6
+VEinstein, Oppenheimer, Teller... They're all Jewish bombs.
+p738
+sg8
+VAMBASSADOR
+p739
+sg10
+g15
+sa(dp740
+g6
+VYou all right? You look tired.
+p741
+sg8
+VJOSH
+p742
+sg10
+g15
+sa(dp743
+g6
+VI've been tired five years.
+p744
+sg8
+VLEO
+p745
+sg10
+g15
+sa(dp746
+g6
+VTired... er.
+p747
+sg8
+VJOSH
+p748
+sg10
+g15
+sa(dp749
+g6
+VOne of those days.
+p750
+sg8
+VLEO
+p751
+sg10
+g15
+sa(dp752
+g6
+VSo, I had this meeting with NASA this morning.
+p753
+sg8
+VJOSH
+p754
+sg10
+g22
+sa(dp755
+g6
+VWhat a waste, since the moon. My generation never got the future it was promised.
+p756
+sg8
+VLEO
+p757
+sg10
+g15
+sa(dp758
+g6
+VWhat do you mean?
+p759
+sg8
+VJOSH
+p760
+sg10
+g15
+sa(dp761
+g6
+V35 years later, cars, air travel's the same. We don't even have the Concorde anymore. Technology stopped.
+p762
+sg8
+VLEO
+p763
+sg10
+g15
+sa(dp764
+g6
+VThe personal computer.
+p765
+sg8
+VJOSH
+p766
+sg10
+g15
+sa(dp767
+g6
+VA more efficient delivery system for gossip and pornography. Where's my jet pack, my colonies on the Moon? Just a waste.
+p768
+sg8
+VLEO
+p769
+sg10
+g15
+sa(dp770
+g6
+VChris Aldrich of the Sun wants ten minutes, and Danny Concannon left a message.
+p771
+sg8
+VCAROL
+p772
+sg10
+g15
+sa(dp773
+g6
+VAnd it is...?
+p774
+sg8
+VC.J.
+p775
+sg10
+g15
+sa(dp776
+g6
+VI'm not sure I can do it justice.
+p777
+sg8
+VCAROL
+p778
+sg10
+g15
+sa(dp779
+g6
+VCarol...
+p780
+sg8
+VC.J.
+p781
+sg10
+g15
+sa(dp782
+g6
+VOkay. It's "bawk, bawk-bawk, bawk". Chicken noises. This whole Taylor Reid show thing.
+p783
+sg8
+VCAROL
+p784
+sg10
+g15
+sa(dp785
+g6
+VGet me a copy of the show.
+p786
+sg8
+VC.J.
+p787
+sg10
+g15
+sa(dp788
+g6
+VCombing through spy satellite data going back a week, analyzing for any suspicious presence at the blast site.
+p789
+sg8
+VSLIGER
+p790
+sg10
+g15
+sa(dp791
+g6
+VU-2s are over Iran and North Korea, monitoring for any unusual activity.
+p792
+sg8
+VHUTCHINSON
+p793
+sg10
+g15
+sa(dp794
+g6
+VAny conclusions?
+p795
+sg8
+VLEO
+p796
+sg10
+g15
+sa(dp797
+g6
+VNo smoking gun.
+p798
+sg8
+VHUTCHINSON
+p799
+sg10
+g15
+sa(dp800
+g6
+VRecommendations. If it's North Korea.
+p801
+sg8
+VBARTLET
+p802
+sg10
+g15
+sa(dp803
+g6
+VIt's not. The Chinese don't think so, the CIA.
+p804
+sg8
+VHUTCHINSON
+p805
+sg10
+g15
+sa(dp806
+g6
+VWe can't say definitively, but no, it doesn't appear likely it was the Koreans.
+p807
+sg8
+VSLIGER
+p808
+sg10
+g15
+sa(dp809
+g6
+VIran, then. General?
+p810
+sg8
+VBARTLET
+p811
+sg10
+g15
+sa(dp812
+g6
+VSurgical air strikes on enrichment sites.
+p813
+sg8
+VALEXANDER
+p814
+sg10
+g15
+sa(dp815
+g6
+VWhich ones?
+p816
+sg8
+VLEO
+p817
+sg10
+g15
+sa(dp818
+g6
+VAll five. In for a penny.
+p819
+sg8
+VHUTCHINSON
+p820
+sg10
+g15
+sa(dp821
+g6
+VThey'll regret it.
+p822
+sg8
+VALEXANDER
+p823
+sg10
+g15
+sa(dp824
+g6
+VGet the B-2s in the air, General.
+p825
+sg8
+VBARTLET
+p826
+sg10
+g15
+sa(dp827
+g6
+VYes, sir.
+p828
+sg8
+VALEXANDER
+p829
+sg10
+g11
+sa(dp830
+g6
+VWe go the minute, and I mean the minute, we're certain.
+p831
+sg8
+VBARTLET
+p832
+sg10
+g15
+sa(dp833
+g6
+VThank you, Mr. President.
+p834
+sg8
+VALL
+p835
+sg10
+g11
+sa(dp836
+g6
+VCurtailing Congressional junkets, shuttering archaic agricultural field offices...
+p837
+sg8
+VWILL
+p838
+sg10
+g15
+sa(dp839
+g6
+VYou don't think I should do it?
+p840
+sg8
+VRUSSELL
+p841
+sg10
+g15
+sa(dp842
+g6
+VIt buries you in minutia. The public's all for it, but they'd rather chug sewage than have to hear anyone discuss it.
+p843
+sg8
+VWILL
+p844
+sg10
+g15
+sa(dp845
+g6
+VYou know, it's easy to characterize junkets as vacations at taxpayer's expense, but they serve a purpose. Contacts get made, frank exchanges take place that would never happen in the glare of Washington.
+p846
+sg8
+VRUSSELL
+p847
+sg10
+g15
+sa(dp848
+g6
+VReason enough to beg off. You don't fully agree with the administration's stance.
+p849
+sg8
+VWILL
+p850
+sg10
+g15
+sa(dp851
+g6
+VSir?
+p852
+sg8
+VWILL
+p853
+sg10
+g15
+sa(dp854
+g6
+VWill you excuse me?
+p855
+sg8
+VRUSSELL
+p856
+sg10
+g11
+sa(dp857
+g6
+VYeah, of course, sir.
+p858
+sg8
+VWILL
+p859
+sg10
+g15
+sa(dp860
+g6
+VI want to see where he calls you a chicken.
+p861
+sg8
+VTOBY
+p862
+sg10
+g15
+sa(dp863
+g6
+VBut can wait.
+p864
+sg8
+VTOBY
+p865
+sg10
+g22
+sa(dp866
+g6
+VI want a piece of that twerp.
+p867
+sg8
+VC.J.
+p868
+sg10
+g15
+sa(dp869
+g6
+VYou can't win.
+p870
+sg8
+VTOBY
+p871
+sg10
+g15
+sa(dp872
+g6
+V I'd mop the floor with him - smirk first.
+p873
+sg8
+VC.J.
+p874
+sg10
+g15
+sa(dp875
+g6
+VYou'd just keep it alive. Old newspaper adage: "Never pick a fight with someone who buys ink by the barrel."
+p876
+sg8
+VTOBY
+p877
+sg10
+g15
+sa(dp878
+g6
+VI've got to go.
+p879
+sg8
+VTOBY
+p880
+sg10
+g15
+sa(dp881
+g6
+VSomething going on?
+p882
+sg8
+VC.J.
+p883
+sg10
+g15
+sa(dp884
+g6
+VI'll see you in the morning.
+p885
+sg8
+VTOBY
+p886
+sg10
+g15
+sa(dp887
+g6
+VExcuse me, sir.
+p888
+sg8
+VCHARLIE
+p889
+sg10
+g15
+sa(dp890
+g6
+VI know. I've got to get dressed for the HHS thing.
+p891
+sg8
+VBARTLET
+p892
+sg10
+g15
+sa(dp893
+g6
+VMr. President, you should cancel. It's been a long day, sir.
+p894
+sg8
+VCHARLIE
+p895
+sg10
+g15
+sa(dp896
+g6
+VI'll be fine.
+p897
+sg8
+VBARTLET
+p898
+sg10
+g15
+sa(dp899
+g6
+VYou should get some rest.
+p900
+sg8
+VCHARLIE
+p901
+sg10
+g15
+sa(dp902
+g6
+VI'm not sure I could sleep.
+p903
+sg8
+VBARTLET
+p904
+sg10
+g22
+sa(dp905
+g6
+VI'm going to get dressed.
+p906
+sg8
+VBARTLET
+p907
+sg10
+g15
+sa(dp908
+g6
+VYes, Mr. President.
+p909
+sg8
+VCHARLIE
+p910
+sg10
+g11
+sa(dp911
+g6
+VYeah.
+p912
+sg8
+VTOBY
+p913
+sg10
+g15
+sa(dp914
+g6
+VShut the door.
+p915
+sg8
+VLEO
+p916
+sg10
+g15
+sa(dp917
+g6
+VB-2s have taken off. Their targets are five uranium enrichment sites in Iran.
+p918
+sg8
+VLEO
+p919
+sg10
+g15
+sa(dp920
+g6
+VWe've confirmed it was them?
+p921
+sg8
+VTOBY
+p922
+sg10
+g15
+sa(dp923
+g6
+VIt's not a go till we're sure.
+p924
+sg8
+VLEO
+p925
+sg10
+g15
+sa(dp926
+g6
+VIs this the room?
+p927
+sg8
+VTOBY
+p928
+sg10
+g15
+sa(dp929
+g6
+VWhat?
+p930
+sg8
+VLEO
+p931
+sg10
+g15
+sa(dp932
+g6
+VWhere we talk about the U.N. So far, I'm the only one bringing it up.
+p933
+sg8
+VTOBY
+p934
+sg10
+g15
+sa(dp935
+g6
+VThe U.N. doesn't want this. They want to wring their hands and censure us after, but they expect us to take care of things like this. And after they've exhausted themselves calling us warmongers and imperialists they'll go home and quietly drink toasts to their relief.
+p936
+sg8
+VLEO
+p937
+sg10
+g15
+sa(dp938
+g6
+VUnilateral air strikes.
+p939
+sg8
+VTOBY
+p940
+sg10
+g11
+sa(dp941
+g6
+VHave a statement ready.
+p942
+sg8
+VLEO
+p943
+sg10
+g15
+sa(dp944
+g6
+VComplacency--who knows? It's like asking why the sky's blue.
+p945
+sg8
+VJOSH
+p946
+sg10
+g15
+sa(dp947
+g6
+VThe colors that make up light have different wavelengths. The color with the shortest wavelength, blue, is the most easily dispersed. So, when sunlight hits the Earth's atmosphere, blue's what gets scattered most.
+p948
+sg8
+VMOREAU
+p949
+sg10
+g15
+sa(dp950
+g6
+VWhy the sky's blue.
+p951
+sg8
+VMOREAU
+p952
+sg10
+g15
+sa(dp953
+g6
+V[into phone] Yeah. ... Can this wait till tomorrow? ... Put him on. ... Yes, Mr. Vice President.
+p954
+sg8
+VLEO
+p955
+sg10
+g15
+sa(dp956
+g6
+VThis is good.
+p957
+sg8
+VMOREAU
+p958
+sg10
+g15
+sa(dp959
+g6
+VHere, could you...?
+p960
+sg8
+VMOREAU
+p961
+sg10
+g15
+sa(dp962
+g6
+VYou want me to carry that?
+p963
+sg8
+VJOSH
+p964
+sg10
+g15
+sa(dp965
+g6
+VYes, please.
+p966
+sg8
+VMOREAU
+p967
+sg10
+g11
+sa(dp968
+g6
+VOkay. When you said... I thought we were going to some big observatory.
+p969
+sg8
+VJOSH
+p970
+sg10
+g15
+sa(dp971
+g6
+VYou're not ready for that. You need to have the same experience nine-year-olds are having all across the country tonight.
+p972
+sg8
+VMOREAU
+p973
+sg10
+g15
+sa(dp974
+g6
+VAre they ruining their shoes, too?
+p975
+sg8
+VJOSH
+p976
+sg10
+g15
+sa(dp977
+g6
+VAmazing once you get away from the city lights.
+p978
+sg8
+VMOREAU
+p979
+sg10
+g15
+sa(dp980
+g6
+VThere's one named after me up there. The Josh and Linda star.
+p981
+sg8
+VJOSH
+p982
+sg10
+g15
+sa(dp983
+g6
+VThe International Star Registry. Romantic.
+p984
+sg8
+VMOREAU
+p985
+sg10
+g15
+sa(dp986
+g6
+VYeah. Name something that's going to be there for billions of years after two people who won't be speaking in six months.
+p987
+sg8
+VJOSH
+p988
+sg10
+g15
+sa(dp989
+g6
+VAlex and Guillermo.
+p990
+sg8
+VMOREAU
+p991
+sg10
+g15
+sa(dp992
+g6
+VGuillermo?
+p993
+sg8
+VJOSH
+p994
+sg10
+g15
+sa(dp995
+g6
+VYeah. Chilean. Long story.
+p996
+sg8
+VMOREAU
+p997
+sg10
+g11
+sa(dp998
+g6
+VSexy. Player. Dumped you.
+p999
+sg8
+VJOSH
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VOkay, not such a long story. Go ahead.
+p1002
+sg8
+VMOREAU
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VJupiter. The dots on either side are the four Galilean moons. You're seeing what Galileo saw 400 years ago.
+p1005
+sg8
+VMOREAU
+p1006
+sg10
+g15
+sa(dp1007
+g6
+VI remember studying Jupiter. It has 13 moons.
+p1008
+sg8
+VJOSH
+p1009
+sg10
+g15
+sa(dp1010
+g6
+VYeah, it has 61.
+p1011
+sg8
+VMOREAU
+p1012
+sg10
+g15
+sa(dp1013
+g6
+V61?!
+p1014
+sg8
+VJOSH
+p1015
+sg10
+g15
+sa(dp1016
+g6
+VGo ahead.
+p1017
+sg8
+VMOREAU
+p1018
+sg10
+g15
+sa(dp1019
+g6
+VWow. What is that?
+p1020
+sg8
+VJOSH
+p1021
+sg10
+g15
+sa(dp1022
+g6
+VThe Orion Nebula. Gas and dust. Stars are born in that. Well, born and die, actually. Everything, every atom in our bodies comes from exploding stars. I guess Joni Mitchell was right. We are stardust.
+p1023
+sg8
+VMOREAU
+p1024
+sg10
+g15
+sa(dp1025
+g6
+VOr, put another way, nuclear waste.
+p1026
+sg8
+VJOSH
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VIs that...?
+p1029
+sg8
+VJOSH
+p1030
+sg10
+g15
+sa(dp1031
+g6
+VMars. Since it's near its closest point, you are getting the best look at it anyone's had at it in 60,000 years.
+p1032
+sg8
+VMOREAU
+p1033
+sg10
+g15
+sa(dp1034
+g6
+VEveryone.
+p1035
+sg8
+VBARTLET
+p1036
+sg10
+g15
+sa(dp1037
+g6
+VGood evening, sir.
+p1038
+sg8
+VLEO
+p1039
+sg10
+g15
+sa(dp1040
+g6
+VOne thing about this job: it's hard to unobtrusively slip out of a party.
+p1041
+sg8
+VBARTLET
+p1042
+sg10
+g15
+sa(dp1043
+g6
+VMr. Vice President, would you tell everyone what you told me?
+p1044
+sg8
+VLEO
+p1045
+sg10
+g15
+sa(dp1046
+g6
+VI was on a Congressional junket to the Mideast last year. Wound up at a party on a boat cruising the Mediterranean. The combination of jet lag, booze, and choppy seas made some guests sick. As they leaned over the rail, one of our high-level government hosts came over to me and drunkenly mused he hoped they weren't puking on one of their nuclear subs. He winked and lurched off. And the host's country... was Israel.
+p1047
+sg8
+VRUSSELL
+p1048
+sg10
+g15
+sa(dp1049
+g6
+VIsraeli subs are diesel-powered.
+p1050
+sg8
+VALEXANDER
+p1051
+sg10
+g15
+sa(dp1052
+g6
+VGuy was drunk.
+p1053
+sg8
+VHUTCHINSON
+p1054
+sg10
+g15
+sa(dp1055
+g6
+VIsrael's nuclear capability's been an open secret for years. Why would they perform a test now?
+p1056
+sg8
+VSLIGER
+p1057
+sg10
+g15
+sa(dp1058
+g6
+VGetting nuclear warheads on submarine-based missiles requires miniaturization technology that could need to be tested.
+p1059
+sg8
+VRUSSELL
+p1060
+sg10
+g15
+sa(dp1061
+g6
+V'Could'...
+p1062
+sg8
+VSLIGER
+p1063
+sg10
+g15
+sa(dp1064
+g6
+VI know. That's not a word your fond of at Langley. Let the man talk.
+p1065
+sg8
+VBARTLET
+p1066
+sg10
+g15
+sa(dp1067
+g6
+VIsrael's been developing advanced fusion-boosted technology. This technology is extremely difficult and requires testing to produce warheads that are capable of being shrunk to the size needed to be placed on submarine-based cruise missiles.
+p1068
+sg8
+VRUSSELL
+p1069
+sg10
+g15
+sa(dp1070
+g6
+VWhere are the bombers, General?
+p1071
+sg8
+VBARTLET
+p1072
+sg10
+g15
+sa(dp1073
+g6
+VThree hours out of Missouri, sir. They'll be over their targets in Iran in 14 hours.
+p1074
+sg8
+VALEXANDER
+p1075
+sg10
+g15
+sa(dp1076
+g6
+VTell the Israeli ambassador to get his Prime Minister on a plane.
+p1077
+sg8
+VBARTLET
+p1078
+sg10
+g15
+sa(dp1079
+g6
+VYes, sir.
+p1080
+sg8
+VSLATTERY
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VGeneral.
+p1083
+sg8
+VBARTLET
+p1084
+sg10
+g15
+sa(dp1085
+g6
+VYes, sir?
+p1086
+sg8
+VALEXANDER
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VPut a hold on the bombers.
+p1089
+sg8
+VBARTLET
+p1090
+sg10
+g15
+sa(dp1091
+g6
+VYes, sir.
+p1092
+sg8
+VALEXANDER
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VLeo, Mr. Vice President.
+p1095
+sg8
+VBARTLET
+p1096
+sg10
+g15
+sa(dp1097
+g6
+VThank you, all.
+p1098
+sg8
+VBARTLET
+p1099
+sg10
+g15
+sa(dp1100
+g6
+VThank you, Mr. President.
+p1101
+sg8
+VALL
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VWe'll need a cover story for the visit.
+p1104
+sg8
+VLEO
+p1105
+sg10
+g15
+sa(dp1106
+g6
+VBrief Toby. Have him get with C.J. right away. Thank you, Bob.
+p1107
+sg8
+VBARTLET
+p1108
+sg10
+g15
+sa(dp1109
+g6
+VI'm, uh, I'm sure Leo's wondering how it is I know so much about all this. You know all those jokes about me being the Congressman from Western Colorado Mining. Colorado Plateau is this country's leading source of uranium. Good night, Mr. President. Leo.
+p1110
+sg8
+VRUSSELL
+p1111
+sg10
+g15
+sa(dp1112
+g6
+VOkay it's not going to happen, but tell me about going to Mars.
+p1113
+sg8
+VJOSH
+p1114
+sg10
+g15
+sa(dp1115
+g6
+VRight here?
+p1116
+sg8
+VMOREAU
+p1117
+sg10
+g22
+sa(dp1118
+g6
+VThe plan is called Mars Direct.
+p1119
+sg8
+VMOREAU
+p1120
+sg10
+g15
+sa(dp1121
+g6
+VWhat'll it cost?
+p1122
+sg8
+VJOSH
+p1123
+sg10
+g15
+sa(dp1124
+g6
+V$30, $40 billion.
+p1125
+sg8
+VMOREAU
+p1126
+sg10
+g15
+sa(dp1127
+g6
+VOver ten years. It's the cost of one weapon's system.
+p1128
+sg8
+VMOREAU
+p1129
+sg10
+g15
+sa(dp1130
+g6
+VGo on.
+p1131
+sg8
+VJOSH
+p1132
+sg10
+g15
+sa(dp1133
+g6
+VWe launch a crew directly there, like we went to the Moon, and use the resources there to make the fuel to get back.
+p1134
+sg8
+VMOREAU
+p1135
+sg10
+g15
+sa(dp1136
+g6
+VIs that doable?
+p1137
+sg8
+VJOSH
+p1138
+sg10
+g15
+sa(dp1139
+g6
+VIt's 19th century chemistry. It's all doable now. All we lack is the ambition and political will.
+p1140
+sg8
+VMOREAU
+p1141
+sg10
+g15
+sa(dp1142
+g6
+VThe Israeli Prime Minister is flying in today to discuss their new settlement activity.
+p1143
+sg8
+VTOBY
+p1144
+sg10
+g15
+sa(dp1145
+g6
+VYou mean the thing you had me shrug off yesterday as a non-story?
+p1146
+sg8
+VC.J.
+p1147
+sg10
+g15
+sa(dp1148
+g6
+VThat was yesterday.
+p1149
+sg8
+VTOBY
+p1150
+sg10
+g15
+sa(dp1151
+g6
+VI'm trying to decide if I'm gullible, an idiot, or being completely kept out of the loop.
+p1152
+sg8
+VC.J.
+p1153
+sg10
+g15
+sa(dp1154
+g6
+VYeah.
+p1155
+sg8
+VTOBY
+p1156
+sg10
+g15
+sa(dp1157
+g6
+VMr. Vice President.
+p1158
+sg8
+VWILL
+p1159
+sg10
+g15
+sa(dp1160
+g6
+VI've been thinking about this good government thing.
+p1161
+sg8
+VRUSSELL
+p1162
+sg10
+g15
+sa(dp1163
+g6
+VYou should speak directly to the President about your reasons for not going along.
+p1164
+sg8
+VWILL
+p1165
+sg10
+g15
+sa(dp1166
+g6
+VNo, I'm gonna do their bidding on this.
+p1167
+sg8
+VRUSSELL
+p1168
+sg10
+g15
+sa(dp1169
+g6
+VDue respect, it's not a serious policy brief. You have to get the West Wing to start treating you with more respect.
+p1170
+sg8
+VWILL
+p1171
+sg10
+g15
+sa(dp1172
+g6
+VI'm a team player. I do what's asked. And, Will, for the record, I'm not worried about having the President's respect.
+p1173
+sg8
+VRUSSELL
+p1174
+sg10
+g15
+sa(dp1175
+g6
+VThanks for your concern yesterday.
+p1176
+sg8
+VBARTLET
+p1177
+sg10
+g15
+sa(dp1178
+g6
+VDid you get some sleep, sir?
+p1179
+sg8
+VCHARLIE
+p1180
+sg10
+g15
+sa(dp1181
+g6
+VNot much.
+p1182
+sg8
+VBARTLET
+p1183
+sg10
+g22
+sa(dp1184
+g6
+V Some terrible choices have had to be made in this room, none more agonizing  that Hiroshima and Nagasaki.
+p1185
+sg8
+VBARTLET
+p1186
+sg10
+g15
+sa(dp1187
+g6
+V[yelling] Donna!
+p1188
+sg8
+VJOSH
+p1189
+sg10
+g15
+sa(dp1190
+g6
+V[calmly] Yes.
+p1191
+sg8
+VDONNA
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VHow long have you been there?
+p1194
+sg8
+VJOSH
+p1195
+sg10
+g15
+sa(dp1196
+g6
+VLong enough.
+p1197
+sg8
+VDONNA
+p1198
+sg10
+g22
+sa(dp1199
+g6
+VUh... I need a breakdown of NASA funding as a percentage of discretionary spending in five year increments starting in 1969. Hey, you want to hear something cool? Voyager I just crossed the termination shock eight billion miles away. First human-made object to leave the solar system.
+p1200
+sg8
+VJOSH
+p1201
+sg10
+g15
+sa(dp1202
+g6
+VFunny, I'm going through a little termination shock myself.
+p1203
+sg8
+VDONNA
+p1204
+sg10
+g22
+sa(dp1205
+g6
+VWhat?
+p1206
+sg8
+VJOSH
+p1207
+sg10
+g15
+sa(dp1208
+g6
+VSuddenly this consuming interest in space just because some NASA administrator batted eyes at you?
+p1209
+sg8
+VDONNA
+p1210
+sg10
+g15
+sa(dp1211
+g6
+VYou hate that I'm interested in this.
+p1212
+sg8
+VJOSH
+p1213
+sg10
+g15
+sa(dp1214
+g6
+VWhat was your first hint?
+p1215
+sg8
+VDONNA
+p1216
+sg10
+g15
+sa(dp1217
+g6
+VThat's perfect. Sit down. Sit. I need to play out an argument.
+p1218
+sg8
+VJOSH
+p1219
+sg10
+g15
+sa(dp1220
+g6
+VEveryone hates us.
+p1221
+sg8
+VJOSH
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VInspiring start.
+p1224
+sg8
+VDONNA
+p1225
+sg10
+g15
+sa(dp1226
+g6
+VWe're the most dominant nation on earth. But too often the face of our economic superiority...
+p1227
+sg8
+VJOSH
+p1228
+sg10
+g15
+sa(dp1229
+g6
+VNeeds work.
+p1230
+sg8
+VJOSH
+p1231
+sg10
+g15
+sa(dp1232
+g6
+VNeeds something.
+p1233
+sg8
+VDONNA
+p1234
+sg10
+g15
+sa(dp1235
+g6
+VYeah, that inspiration thing.
+p1236
+sg8
+VJOSH
+p1237
+sg10
+g15
+sa(dp1238
+g6
+VPrime Minister, thank you for coming.
+p1239
+sg8
+VBARTLET
+p1240
+sg10
+g15
+sa(dp1241
+g6
+VOkay, that got me.
+p1242
+sg8
+VDONNA
+p1243
+sg10
+g15
+sa(dp1244
+g6
+VThank you for coming, Mr. Prime Minister. You've had a long flight and I've had a long last day and a half. Let's not waste any time with veiled questions and coy answers. Your government conducted a atmospheric nuclear test over the Indian Ocean 36 hours ago. This action poses enormous problems for the region, for the world.
+p1245
+sg8
+VBARTLET
+p1246
+sg10
+g15
+sa(dp1247
+g6
+VYes. It undercuts our counterproliferation policy and makes us look at best, biased, and at worst, like outright hypocrites.
+p1248
+sg8
+VBARTLET
+p1249
+sg10
+g15
+sa(dp1250
+g6
+VProliferation breeds proliferation. China's bomb produced India's. India's begat Pakistan's.
+p1251
+sg8
+VBARTLET
+p1252
+sg10
+g15
+sa(dp1253
+g6
+VNo one disputes Israel lives under threat.
+p1254
+sg8
+VBARTLET
+p1255
+sg10
+g15
+sa(dp1256
+g6
+VThere's a fine line between deterrence and provocation.
+p1257
+sg8
+VBARTLET
+p1258
+sg10
+g15
+sa(dp1259
+g6
+VThere's a reason its acronym was MAD.
+p1260
+sg8
+VBARTLET
+p1261
+sg10
+g15
+sa(dp1262
+g6
+VWe can stop them. By force if it comes to that.
+p1263
+sg8
+VBARTLET
+p1264
+sg10
+g15
+sa(dp1265
+g6
+VYour argument boils down to asking the world to trust you.
+p1266
+sg8
+VBARTLET
+p1267
+sg10
+g15
+sa(dp1268
+g6
+VIt's telling that the physicists involved in the creation of  these weapons became the most fervid opponents of their use. Einstein, Oppenheimer, Szilard. Hans Bethe wrote: "If we fight a war and win it with H-bombs, what history will remember is not the ideas we were fighting for, but the methods we used to accomplish them. These methods will be compared to the warfare of Genghis Khan, who brutally killed every last inhabitant of Persia."
+p1269
+sg8
+VBARTLET
+p1270
+sg10
+g15
+sa(dp1271
+g6
+VHey.
+p1272
+sg8
+VTOBY
+p1273
+sg10
+g15
+sa(dp1274
+g6
+VIt's over. It was the Israelis. The bombers have turned back.
+p1275
+sg8
+VLEO
+p1276
+sg10
+g15
+sa(dp1277
+g6
+VIt's a hell of a dress rehearsal. This is our plan. This is our nuanced, reasoned... we bomb, then they nuke, then we nuke. This is the best we've gamed this out? The fate of the world just hung on a Bing Bob brainstorm. You want to live by those odds?
+p1278
+sg8
+VTOBY
+p1279
+sg10
+g15
+sa(dp1280
+g6
+VAs opposed to sanctions, inspections and never-ending talks while a Hezbollah martyr leads a donkey cart packed with plutonium smack into downtown Tel Aviv.
+p1281
+sg8
+VLEO
+p1282
+sg10
+g15
+sa(dp1283
+g6
+VIt's not over. And we need a better plan.
+p1284
+sg8
+VTOBY
+p1285
+sg10
+g15
+sas.

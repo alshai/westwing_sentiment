@@ -50,7 +50,7 @@ def num_exclamation_points(text, features):
             num_excl_points += 1
     features["exclamation_points"] = num_excl_points
 
-feat_funcs = [unigrams, bigrams, num_poswords, num_negwords,
+feat_funcs = [unigrams,  num_poswords, num_negwords, bigrams,
         num_emphatic_words, num_exclamation_points]
 
 

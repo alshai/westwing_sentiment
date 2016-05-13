@@ -1,0 +1,5210 @@
+(dp0
+S'season'
+p1
+I5
+sS'episode'
+p2
+I19
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VHey! Congratulations.
+p7
+sS'character'
+p8
+VWILL
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VThank you.
+p13
+sg8
+VJOSH
+p14
+sg10
+S'positive'
+p15
+sa(dp16
+g6
+VSo, Leo's turned you into a big-time trade negotiator.
+p17
+sg8
+VWILL
+p18
+sg10
+g11
+sa(dp19
+g6
+VNo different than baby-sitting or negotiating with Congress. You sit there and let them wear themselves out.
+p20
+sg8
+VJOSH
+p21
+sg10
+g11
+sa(dp22
+g6
+VThey're up to 200 tractors now.
+p23
+sg8
+VWILL
+p24
+sg10
+g11
+sa(dp25
+g6
+VYeah, I know.
+p26
+sg8
+VJOSH
+p27
+sg10
+g11
+sa(dp28
+g6
+V200 tractors, that doesn't worry you?
+p29
+sg8
+VWILL
+p30
+sg10
+g15
+sa(dp31
+g6
+VNot being a bale of hay.
+p32
+sg8
+VJOSH
+p33
+sg10
+g11
+sa(dp34
+g6
+VYou're flying to Brussels in nine hours, the place is surrounded by tractors, every pair of overalls in Europe has come out to protest your trade agreements.
+p35
+sg8
+VWILL
+p36
+sg10
+g11
+sa(dp37
+g6
+VI'll-I'll bring you back a straw hat.
+p38
+sg8
+VJOSH
+p39
+sg10
+g15
+sa(dp40
+g6
+VFor the joint press conference after the signing.
+p41
+sg8
+VLARRY
+p42
+sg10
+g11
+sa(dp43
+g6
+VThat's not the message.
+p44
+sg8
+VJOSH
+p45
+sg10
+g11
+sa(dp46
+g6
+V"Protecting intellectual property through international copyright enforcement."
+p47
+sg8
+VED
+p48
+sg10
+g11
+sa(dp49
+g6
+VOkay, I know what you're talking about, and I don't know what you're talking about.
+p50
+sg8
+VJOSH
+p51
+sg10
+g11
+sa(dp52
+g6
+VIsn't that what we...?
+p53
+sg8
+VLARRY
+p54
+sg10
+g11
+sa(dp55
+g6
+VFree trade creates jobs! It creates better, higher-paying jobs. We still have to pass this through Congress. Let's not outsmart ourselves - as if that were, you know, possible.
+p56
+sg8
+VJOSH
+p57
+sg10
+g11
+sa(dp58
+g6
+VThey're up to 200 tractors now; it's on TV.
+p59
+sg8
+VDONNA
+p60
+sg10
+g11
+sa(dp61
+g6
+VI know.
+p62
+sg8
+VJOSH
+p63
+sg10
+g11
+sa(dp64
+g6
+VBill Parsons called. What are European farmers so upset about?
+p65
+sg8
+VDONNA
+p66
+sg10
+g11
+sa(dp67
+g6
+VThat they can't cling to a dying way of life, that free trade means that some of them might have to wear neckties, that they can't beat Pentium chips back into plowshares. Take your pick.
+p68
+sg8
+VJOSH
+p69
+sg10
+g11
+sa(dp70
+g6
+VUSTR says India's signing on.
+p71
+sg8
+VDONNA
+p72
+sg10
+g11
+sa(dp73
+g6
+VYou're kidding.
+p74
+sg8
+VJOSH
+p75
+sg10
+g11
+sa(dp76
+g6
+VI barely know what that means, how could I be kidding.
+p77
+sg8
+VDONNA
+p78
+sg10
+g11
+sa(dp79
+g6
+VIndia has all kinds of problems with this trade deal, why would they...?
+p80
+sg8
+VJOSH
+p81
+sg10
+g11
+sa(dp82
+g6
+VUSTR says India's in.
+p83
+sg8
+VDONNA
+p84
+sg10
+g11
+sa(dp85
+g6
+VAsk Ed and Larry to poke around the India thing.
+p86
+sg8
+VJOSH
+p87
+sg10
+g11
+sa(dp88
+g6
+VI brought my luggage, too, you know.
+p89
+sg8
+VDONNA
+p90
+sg10
+g15
+sa(dp91
+g6
+VYeah, I'm still working on that.
+p92
+sg8
+VJOSH
+p93
+sg10
+g11
+sa(dp94
+g6
+VYou did a great job wrapping this up, I've sent a little something over to your office.
+p95
+sg8
+VBARTLET
+p96
+sg10
+g11
+sa(dp97
+g6
+VYou should have seen him. Like a pit bull crossed with a rottweiler crossed with a Fuller Brush salesman.
+p98
+sg8
+VLEO
+p99
+sg10
+g11
+sa(dp100
+g6
+VMonths of work by a lot of people, sir, I just tossed in some free combs.
+p101
+sg8
+VJOSH
+p102
+sg10
+g11
+sa(dp103
+g6
+VStart working on Congressional passage.
+p104
+sg8
+VBARTLET
+p105
+sg10
+g11
+sa(dp106
+g6
+VI'm meeting with the Speaker today. He could argue we gave too much to labor in these side agreements.
+p107
+sg8
+VJOSH
+p108
+sg10
+g11
+sa(dp109
+g6
+VWe'll need Republican votes, but there's plenty in here Democrats'll like. Sell it right and we'll squeak through.
+p110
+sg8
+VLEO
+p111
+sg10
+g11
+sa(dp112
+g6
+VReporters are waiting, sir.
+p113
+sg8
+VCHARLIE
+p114
+sg10
+g11
+sa(dp115
+g6
+VMr. President, you're doing five advance interviews on the Brussels Rounds: three domestic prints, plus CNN-FN, plus the International Herald Tribune.
+p116
+sg8
+VC.J.
+p117
+sg10
+g11
+sa(dp118
+g6
+VForeign press doesn't count.
+p119
+sg8
+VJOSH
+p120
+sg10
+g11
+sa(dp121
+g6
+VWe haven't globalized pandering yet?
+p122
+sg8
+VBARTLET
+p123
+sg10
+g11
+sa(dp124
+g6
+VOur audience is Congress, not the Finnish Parliament.
+p125
+sg8
+VLEO
+p126
+sg10
+g11
+sa(dp127
+g6
+VWhat do you say to the opponents of free trade, people who say it exports jobs?
+p128
+sg8
+VC.J.
+p129
+sg10
+g11
+sa(dp130
+g6
+VThat giant sucking sound.
+p131
+sg8
+VJOSH
+p132
+sg10
+g11
+sa(dp133
+g6
+VAny half-decent economist will tell you to wear earplugs...
+p134
+sg8
+VBARTLET
+p135
+sg10
+g11
+sa(dp136
+g6
+VSir...
+p137
+sg8
+VJOSH
+p138
+sg10
+g11
+sa(dp139
+g6
+V... then file immediately for unemployment.
+p140
+sg8
+VBARTLET
+p141
+sg10
+g11
+sa(dp142
+g6
+VSir, have you read the talking points?
+p143
+sg8
+VJOSH
+p144
+sg10
+g11
+sa(dp145
+g6
+VI'm an economist, some would say half-decent. I don't need a primer on this.
+p146
+sg8
+VBARTLET
+p147
+sg10
+g11
+sa(dp148
+g6
+VDue respect, sir, your answers on economic issues can be a bit...
+p149
+sg8
+VCHARLIE
+p150
+sg10
+g11
+sa(dp151
+g6
+VI was going to go with incomprehensible.
+p152
+sg8
+VLEO
+p153
+sg10
+g11
+sa(dp154
+g6
+VHey, listen: Any economic advancement involves what Schumpeter called "creative destruction."
+p155
+sg8
+VBARTLET
+p156
+sg10
+g11
+sa(dp157
+g6
+VNot a good answer.
+p158
+sg8
+VC.J.
+p159
+sg10
+g11
+sa(dp160
+g6
+VWhy?
+p161
+sg8
+VBARTLET
+p162
+sg10
+g11
+sa(dp163
+g6
+VBecause that word "destruction" will really mollify our critics.
+p164
+sg8
+VC.J.
+p165
+sg10
+g11
+sa(dp166
+g6
+VFree trade creates jobs.
+p167
+sg8
+VJOSH
+p168
+sg10
+g11
+sa(dp169
+g6
+VSelling our products to the world...
+p170
+sg8
+VC.J.
+p171
+sg10
+g11
+sa(dp172
+g6
+V... creates better, higher-paying jobs. It's got to be that simple, or we lose the argument.
+p173
+sg8
+VJOSH
+p174
+sg10
+g11
+sa(dp175
+g6
+VAnybody got any crayons so I can color in my Ph. D.?
+p176
+sg8
+VBARTLET
+p177
+sg10
+g11
+sa(dp178
+g6
+VJosh makes a point. We're losing old economy jobs in steel, and textiles, all across manufacturing...
+p179
+sg8
+VLEO
+p180
+sg10
+g11
+sa(dp181
+g6
+VAnd economics. Clearly, economics...
+p182
+sg8
+VBARTLET
+p183
+sg10
+g11
+sa(dp184
+g6
+VThat's why we fought so hard in this deal for copyright enforcement: to protect the fruits of the new economy. Technology, inventions, ideas; the stuff where America can't be beat, where they can't do it in Malaysia for a dollar a day.
+p185
+sg8
+VJOSH
+p186
+sg10
+g11
+sa(dp187
+g6
+VOkay.
+p188
+sg8
+VBARTLET
+p189
+sg10
+g11
+sa(dp190
+g6
+VWhat about these tractor protests in the streets of Brussels?
+p191
+sg8
+VC.J.
+p192
+sg10
+g11
+sa(dp193
+g6
+VGlobal economic forces are unstoppable, just like technology itself. Should we have banned ATMs, to protect bank tellers? Or digital watches, to prop up the guys who fix grandfather clocks?
+p194
+sg8
+VBARTLET
+p195
+sg10
+g11
+sa(dp196
+g6
+VIt's got to be that simple.
+p197
+sg8
+VJOSH
+p198
+sg10
+g11
+sa(dp199
+g6
+VThe President bashing the clock industry in there.
+p200
+sg8
+VJOSH
+p201
+sg10
+g11
+sa(dp202
+g6
+VIndia.
+p203
+sg8
+VDONNA
+p204
+sg10
+g11
+sa(dp205
+g6
+VWhat?
+p206
+sg8
+VJOSH
+p207
+sg10
+g11
+sa(dp208
+g6
+VThe Communications union was close to a new contract for 17,000 programmers.
+p209
+sg8
+VED
+p210
+sg10
+g11
+sa(dp211
+g6
+VJace Computer Networks broke of the talks.
+p212
+sg8
+VLARRY
+p213
+sg10
+g11
+sa(dp214
+g6
+VJCN.
+p215
+sg8
+VJOSH
+p216
+sg10
+g11
+sa(dp217
+g6
+VThe union thinks JCN is moving 17,000 computer programming jobs to India, and that's why India signed on.
+p218
+sg8
+VED
+p219
+sg10
+g11
+sa(dp220
+g6
+V17,000 jobs because of the deal I just negotiated?
+p221
+sg8
+VJOSH
+p222
+sg10
+g11
+sa(dp223
+g6
+VThat's what they think.
+p224
+sg8
+VED
+p225
+sg10
+g11
+sa(dp226
+g6
+VOkay. Who else knows about this?
+p227
+sg8
+VJOSH
+p228
+sg10
+g11
+sa(dp229
+g6
+VNo one.
+p230
+sg8
+VLARRY
+p231
+sg10
+g15
+sa(dp232
+g6
+VDon't...
+p233
+sg8
+VJOSH
+p234
+sg10
+g11
+sa(dp235
+g6
+VLeo. We may have a situation.
+p236
+sg8
+VJOSH
+p237
+sg10
+g11
+sa(dp238
+g6
+VCongress?
+p239
+sg8
+VLEO
+p240
+sg10
+g11
+sa(dp241
+g6
+VWhere were we?
+p242
+sg8
+VBARTLET
+p243
+sg10
+g11
+sa(dp244
+g6
+VCreating better, higher-paying jobs.
+p245
+sg8
+VC.J.
+p246
+sg10
+g11
+sa(dp247
+g6
+V17,000 programming jobs.
+p248
+sg8
+VLEO
+p249
+sg10
+g11
+sa(dp250
+g6
+VThat's what they're saying.
+p251
+sg8
+VJOSH
+p252
+sg10
+g11
+sa(dp253
+g6
+VBecause of the deal we just negotiated.
+p254
+sg8
+VLEO
+p255
+sg10
+g11
+sa(dp256
+g6
+VWe don't know that for sure yet.
+p257
+sg8
+VJOSH
+p258
+sg10
+g11
+sa(dp259
+g6
+VThose are new economy jobs.
+p260
+sg8
+VLEO
+p261
+sg10
+g11
+sa(dp262
+g6
+VYeah.
+p263
+sg8
+VJOSH
+p264
+sg10
+g11
+sa(dp265
+g6
+VNot like putting beads on an abacus.
+p266
+sg8
+VLEO
+p267
+sg10
+g11
+sa(dp268
+g6
+VWhich I'm going to say is a lot harder than it sounds.
+p269
+sg8
+VJOSH
+p270
+sg10
+g11
+sa(dp271
+g6
+VThis could kill the deal on the Hill.
+p272
+sg8
+VLEO
+p273
+sg10
+g11
+sa(dp274
+g6
+VIn this economic climate, I gotta think both parties are gonna run for the hills.
+p275
+sg8
+VJOSH
+p276
+sg10
+g11
+sa(dp277
+g6
+V"Send Your Job To Southeast Asia,"; not the best slogan for globalization.
+p278
+sg8
+VLEO
+p279
+sg10
+g11
+sa(dp280
+g6
+VThere's another problem: the programmers are represented by the Communications Workers of America.
+p281
+sg8
+VJOSH
+p282
+sg10
+g11
+sa(dp283
+g6
+VThe CWA.
+p284
+sg8
+VLEO
+p285
+sg10
+g11
+sa(dp286
+g6
+VYeah. I already got a message from Parsons. If this is real...
+p287
+sg8
+VJOSH
+p288
+sg10
+g11
+sa(dp289
+g6
+VYou've been working with JCN on these talks.
+p290
+sg8
+VLEO
+p291
+sg10
+g11
+sa(dp292
+g6
+VAll the tech companies. I can't believe they'd sandbag me like this.
+p293
+sg8
+VJOSH
+p294
+sg10
+g11
+sa(dp295
+g6
+VTalk to JCN. You did a great job on this. I was serious about the rottweiler thing.
+p296
+sg8
+VLEO
+p297
+sg10
+g11
+sa(dp298
+g6
+VThanks.
+p299
+sg8
+VJOSH
+p300
+sg10
+g11
+sa(dp301
+g6
+VHow are the President's interviews going?
+p302
+sg8
+VCAROL
+p303
+sg10
+g11
+sa(dp304
+g6
+VOh, let's see. He's used the phrase "market inelasticity" three times, "direct entitlement failure" two times; I was waiting for him to start waving a piece of chalk, maybe a piece of the Gross National Product.
+p305
+sg8
+VC.J.
+p306
+sg10
+g11
+sa(dp307
+g6
+VProfessor-in-Chief.
+p308
+sg8
+VCAROL
+p309
+sg10
+g11
+sa(dp310
+g6
+VMore like Professor Incoherent. What're we hearing from the press?
+p311
+sg8
+VC.J.
+p312
+sg10
+g11
+sa(dp313
+g6
+VHow come they're staying at a two-star hotel in Brussels, where are the Speaker and the Majority leader on this trade deal, plus Council sent some press guidance on the new FCC ruling.
+p314
+sg8
+VCAROL
+p315
+sg10
+g11
+sa(dp316
+g6
+VThe FCC reached a compromise with Congress on media consolidation; happened about an hour ago.
+p317
+sg8
+VWILL
+p318
+sg10
+g11
+sa(dp319
+g6
+VMedia consolidation?
+p320
+sg8
+VCAROL
+p321
+sg10
+g11
+sa(dp322
+g6
+VYou know, that plan to let corporations buy up more and more local TV stations.
+p323
+sg8
+VC.J.
+p324
+sg10
+g11
+sa(dp325
+g6
+VSo they backed off.
+p326
+sg8
+VWILL
+p327
+sg10
+S'negative'
+p328
+sa(dp329
+g6
+VYeah, 'cause who wants the same bunch of bigshots controlling the media.
+p330
+sg8
+VC.J.
+p331
+sg10
+g11
+sa(dp332
+g6
+VThose are talking points on the VP's energy speech, so you can help me... control the media.
+p333
+sg8
+VWILL
+p334
+sg10
+g11
+sa(dp335
+g6
+VSo, what's the compromise?
+p336
+sg8
+VC.J.
+p337
+sg10
+g11
+sa(dp338
+g6
+VInstead of letting one company own stations reaching 45% of all the viewers, the FCC's agreed they can only reach 39.37%.
+p339
+sg8
+VWILL
+p340
+sg10
+g11
+sa(dp341
+g6
+V39.37%?
+p342
+sg8
+VC.J.
+p343
+sg10
+g11
+sa(dp344
+g6
+VThese things can be very scientific.
+p345
+sg8
+VWILL
+p346
+sg10
+g11
+sa(dp347
+g6
+VI'm gonna need a slide rule during my briefing. 39.37%?
+p348
+sg8
+VC.J.
+p349
+sg10
+g11
+sa(dp350
+g6
+VOn the energy speech, if you get questions, you'll help me...
+p351
+sg8
+VWILL
+p352
+sg10
+g11
+sa(dp353
+g6
+VControl the media.
+p354
+sg8
+VC.J.
+p355
+sg10
+g11
+sa(dp356
+g6
+VThanks.
+p357
+sg8
+VWILL
+p358
+sg10
+g11
+sa(dp359
+g6
+VToday's my last day at the White House.
+p360
+sg8
+VRYAN
+p361
+sg10
+g11
+sa(dp362
+g6
+VThank you.
+p363
+sg8
+VJOSH
+p364
+sg10
+g15
+sa(dp365
+g6
+VI was hoping you'd give a toast at my going-away party.
+p366
+sg8
+VRYAN
+p367
+sg10
+g11
+sa(dp368
+g6
+VHow about a plaque, for best impersonation of a blue blazer?
+p369
+sg8
+VJOSH
+p370
+sg10
+g11
+sa(dp371
+g6
+VSo you're coming to the party?
+p372
+sg8
+VRYAN
+p373
+sg10
+g11
+sa(dp374
+g6
+VI'm having my own celebration with five cloves of garlic and the cast of The Exorcist.
+p375
+sg8
+VJOSH
+p376
+sg10
+g11
+sa(dp377
+g6
+VThe Speaker's coming in at 3:15, Parsons called again twice, plus the President sent you a gift.
+p378
+sg8
+VDONNA
+p379
+sg10
+g11
+sa(dp380
+g6
+VMake sure Ed and Larry are calling Democrats. I want some votes in my pocket when I meet with the Speaker. He's gonna hate these labor side agreements.
+p381
+sg8
+VJOSH
+p382
+sg10
+g11
+sa(dp383
+g6
+VMy charts... The JCN lobbyist is coming in. I need those charts on everything we gave tech versus light industry in this trade rounds.
+p384
+sg8
+VJOSH
+p385
+sg10
+g11
+sa(dp386
+g6
+VIf your all out of joint 'cause we favored tech over light industry...
+p387
+sg8
+VJOSH
+p388
+sg10
+g11
+sa(dp389
+g6
+VYour leaving in eight hours. Any progress getting me on the trip?
+p390
+sg8
+VDONNA
+p391
+sg10
+g11
+sa(dp392
+g6
+VYou don't want to go to Brussels.
+p393
+sg8
+VJOSH
+p394
+sg10
+g11
+sa(dp395
+g6
+VWhich is why I asked 15 times.
+p396
+sg8
+VDONNA
+p397
+sg10
+g11
+sa(dp398
+g6
+VIt's Presidential hand-holding. It's a motorcade to a hotel to a battle of the balding Belgian finance ministers. It's  Pittsburg with an accent.
+p399
+sg8
+VJOSH
+p400
+sg10
+g11
+sa(dp401
+g6
+VWhich I'd known if you'd taken me on the Pittsburg trip.
+p402
+sg8
+VDONNA
+p403
+sg10
+g11
+sa(dp404
+g6
+VThis isn't taxpayer-funded tourism. We got jobs to do.
+p405
+sg8
+VJOSH
+p406
+sg10
+g11
+sa(dp407
+g6
+VAnd I'm trying to grow in mine. I've been helping on these trade talks for months. How are you going to manage by yourself?
+p408
+sg8
+VDONNA
+p409
+sg10
+g11
+sa(dp410
+g6
+VI'll grab someone off the advance staff. I'll be fine. The charts?
+p411
+sg8
+VJOSH
+p412
+sg10
+g11
+sa(dp413
+g6
+VGrab someone off the advance staff, maybe they can help you find them.
+p414
+sg8
+VDONNA
+p415
+sg10
+g11
+sa(dp416
+g6
+VI didn't mean to... I'm busy, okay.
+p417
+sg8
+VJOSH
+p418
+sg10
+g11
+sa(dp419
+g6
+VMaybe if you shackled me to my desk, it'd speed up my typing.
+p420
+sg8
+VDONNA
+p421
+sg10
+g11
+sa(dp422
+g6
+VThis isn't a workers' collective. Don't get all Woodie Guthrie on me. I've got a situation here.
+p423
+sg8
+VJOSH
+p424
+sg10
+g11
+sa(dp425
+g6
+VYou're the oppressor.
+p426
+sg8
+VDONNA
+p427
+sg10
+g11
+sa(dp428
+g6
+VThat's Latin for "boss".
+p429
+sg8
+VJOSH
+p430
+sg10
+g11
+sa(dp431
+g6
+VI'm still not talking to you.
+p432
+sg8
+VDONNA
+p433
+sg10
+g11
+sa(dp434
+g6
+VFine.
+p435
+sg8
+VJOSH
+p436
+sg10
+g11
+sa(dp437
+g6
+VNice to meet you. The President's been running quite a bit late today.
+p438
+sg8
+VDEBBIE
+p439
+sg10
+g11
+sa(dp440
+g6
+VPlease call me Debbie.
+p441
+sg8
+VDEBBIE
+p442
+sg10
+g11
+sa(dp443
+g6
+VThank you, ma'am.
+p444
+sg8
+VHARPER
+p445
+sg10
+g15
+sa(dp446
+g6
+VUh, your locator box.
+p447
+sg8
+VHARPER
+p448
+sg10
+g11
+sa(dp449
+g6
+VWhy, yes. This is so we know where the first family is at all times.
+p450
+sg8
+VDEBBIE
+p451
+sg10
+g11
+sa(dp452
+g6
+VForgive me for... do you think you should have it facing out?
+p453
+sg8
+VHARPER
+p454
+sg10
+g11
+sa(dp455
+g6
+VExcuse me?
+p456
+sg8
+VDEBBIE
+p457
+sg10
+g11
+sa(dp458
+g6
+VSecret Service locator boxes are code-word clearance or higher. Guests in this wing of the building just need an absence of felony charges. Some Congressmen don't even meet that standard.
+p459
+sg8
+VHARPER
+p460
+sg10
+g11
+sa(dp461
+g6
+VJust trying to be helpful, ma'am. Debbie.
+p462
+sg8
+VHARPER
+p463
+sg10
+g11
+sa(dp464
+g6
+VOn second thought, feel free to call me ma'am.
+p465
+sg8
+VDEBBIE
+p466
+sg10
+g11
+sa(dp467
+g6
+VYes.
+p468
+sg8
+VDEBBIE
+p469
+sg10
+g15
+sa(dp470
+g6
+VSo nice to meet you.
+p471
+sg8
+VHARPER
+p472
+sg10
+g11
+sa(dp473
+g6
+VMm-hmm.
+p474
+sg8
+VDEBBIE
+p475
+sg10
+g11
+sa(dp476
+g6
+VLet's talk about India.
+p477
+sg8
+VJOSH
+p478
+sg10
+g11
+sa(dp479
+g6
+VThe CWA says you're shipping 17,000 computer programming jobs there.
+p480
+sg8
+VJOSH
+p481
+sg10
+g11
+sa(dp482
+g6
+VThat's proprietary information.
+p483
+sg8
+VLOBBYIST
+p484
+sg10
+g11
+sa(dp485
+g6
+VThen why's India signing this trade deal? India, which hated the agricultural provisions, hated the light industrial provisions...
+p486
+sg8
+VJOSH
+p487
+sg10
+g11
+sa(dp488
+g6
+VThere's a chance JCN'll be moving some jobs there.
+p489
+sg8
+VLOBBYIST
+p490
+sg10
+g11
+sa(dp491
+g6
+VYou can't do this. After everything I negotiated for you?
+p492
+sg8
+VJOSH
+p493
+sg10
+g11
+sa(dp494
+g6
+VYou toughened copyright enforcement. Now it's safer for us to move sensitive programming work overseas.
+p495
+sg8
+VLOBBYIST
+p496
+sg10
+g11
+sa(dp497
+g6
+VOver time, fine. But not overnight. We worked together for months without one word about this.
+p498
+sg8
+VJOSH
+p499
+sg10
+g11
+sa(dp500
+g6
+VIt's an internal business decision.
+p501
+sg8
+VLOBBYIST
+p502
+sg10
+g11
+sa(dp503
+g6
+VYet, somehow, the nation of India, population 1 billion and rising, slipped into a JCN board meeting?
+p504
+sg8
+VJOSH
+p505
+sg10
+g11
+sa(dp506
+g6
+VWe lobbied through our trade association. That's how these things work.
+p507
+sg8
+VLOBBYIST
+p508
+sg10
+g11
+sa(dp509
+g6
+VNo. When I help you on a trade deal, you don't lobby behind my back. That's how these things work.
+p510
+sg8
+VJOSH
+p511
+sg10
+g11
+sa(dp512
+g6
+VIt's economics.
+p513
+sg8
+VLOBBYIST
+p514
+sg10
+g11
+sa(dp515
+g6
+VIt's politics, and you know it! Now I got a union problem. When they go nuts, I got a Congressional problem.
+p516
+sg8
+VJOSH
+p517
+sg10
+g11
+sa(dp518
+g6
+VWe'll help you lobby. We're good at that.
+p519
+sg8
+VLOBBYIST
+p520
+sg10
+g11
+sa(dp521
+g6
+VIt's not gonna pass! 17,000 flesh-and-blood families, spread over who-knows-how-many Congressional districts.
+p522
+sg8
+VJOSH
+p523
+sg10
+g11
+sa(dp524
+g6
+VIt's more like 3.3 million jobs, over the next ten years. Industry-wide, of course.
+p525
+sg8
+VLOBBYIST
+p526
+sg10
+g11
+sa(dp527
+g6
+VYou're... You're... handing out pink slips when we're popping champagne corks and Brussels sprouts.
+p528
+sg8
+VJOSH
+p529
+sg10
+g11
+sa(dp530
+g6
+VWe can hold the announcement. But American programmers make 40 bucks an hour. In India, it's 10.
+p531
+sg8
+VLOBBYIST
+p532
+sg10
+g11
+sa(dp533
+g6
+VHow much would you save if you moved your CEO to India?
+p534
+sg8
+VJOSH
+p535
+sg10
+g11
+sa(dp536
+g6
+VThis is how free trade works. You can't be surprised jobs moving overseas.
+p537
+sg8
+VLOBBYIST
+p538
+sg10
+g11
+sa(dp539
+g6
+VThese jobs, yes; $80,000-a-year jobs, yes. The jobs this deal is supposed to create on the day we're leaving to sign it...?
+p540
+sg8
+VJOSH
+p541
+sg10
+g11
+sa(dp542
+g6
+VIf automakers innovated the way we do, today's cars would get 100,000 miles per gallon and cost 50 cents.
+p543
+sg8
+VLOBBYIST
+p544
+sg10
+g11
+sa(dp545
+g6
+VYeah, but they'd only be this big. I need you to spread the layoffs over a couple years.
+p546
+sg8
+VJOSH
+p547
+sg10
+g11
+sa(dp548
+g6
+VCan't do it.
+p549
+sg8
+VLOBBYIST
+p550
+sg10
+g11
+sa(dp551
+g6
+VRetrain 'em, shove 'em in a back office.
+p552
+sg8
+VJOSH
+p553
+sg10
+g11
+sa(dp554
+g6
+VWe're a business, not a halfway house.
+p555
+sg8
+VLOBBYIST
+p556
+sg10
+g11
+sa(dp557
+g6
+VIs that what you told the head of your union?
+p558
+sg8
+VJOSH
+p559
+sg10
+g11
+sa(dp560
+g6
+VNo. But feel free to tell him yourself. I'm sure he's on his way over here right now.
+p561
+sg8
+VLOBBYIST
+p562
+sg10
+g11
+sa(dp563
+g6
+VCan you and Josh spend some time with Reuters on the way to Brussels? They helped us with that steel story.
+p564
+sg8
+VTOBY
+p565
+sg10
+g11
+sa(dp566
+g6
+VYou think there's something funny about these new media ownership limits?
+p567
+sg8
+VC.J.
+p568
+sg10
+g11
+sa(dp569
+g6
+VWho's-on-first-funny?
+p570
+sg8
+VTOBY
+p571
+sg10
+g11
+sa(dp572
+g6
+VSomething's-rotten-in-the-state-of-Denmark-funny.
+p573
+sg8
+VC.J.
+p574
+sg10
+g11
+sa(dp575
+g6
+VLet's you and me never do a standup act.
+p576
+sg8
+VTOBY
+p577
+sg10
+g11
+sa(dp578
+g6
+VOr a local TV show, if I'm reading this correctly.
+p579
+sg8
+VC.J.
+p580
+sg10
+g11
+sa(dp581
+g6
+VOur press guidance says it's a victory. They were going to let conglomerates like MertMedia, Viacomm get into 45% of all homes.
+p582
+sg8
+VTOBY
+p583
+sg10
+g11
+sa(dp584
+g6
+VAnd now it's 39.37%, a number that ought to come with a decoder ring and a jar of Ovaltine.
+p585
+sg8
+VC.J.
+p586
+sg10
+g11
+sa(dp587
+g6
+VWhat do you want? There was a public outcry. They settled for a lower number.
+p588
+sg8
+VTOBY
+p589
+sg10
+g11
+sa(dp590
+g6
+VA number that no one can explain.
+p591
+sg8
+VC.J.
+p592
+sg10
+g15
+sa(dp593
+g6
+VThe FCC's completely independent. These companies are your constituents.
+p594
+sg8
+VTOBY
+p595
+sg10
+g11
+sa(dp596
+g6
+VNo, the public are my constituents, and when big business can soak up more and more local media...
+p597
+sg8
+VC.J.
+p598
+sg10
+g11
+sa(dp599
+g6
+VBen needs to stop by before you leave for Brussels.
+p600
+sg8
+VCAROL
+p601
+sg10
+g11
+sa(dp602
+g6
+VNo. Tell him it's a bad day. He can't. Tell him I'll call him from the plane.
+p603
+sg8
+VC.J.
+p604
+sg10
+g11
+sa(dp605
+g6
+VYou're going to Belgium. He wants to make sure you don't sample the endive.
+p606
+sg8
+VTOBY
+p607
+sg10
+g11
+sa(dp608
+g6
+VI can't become one of those women who wait by the phone, eyes a-fluttering.
+p609
+sg8
+VC.J.
+p610
+sg10
+g11
+sa(dp611
+g6
+V"Eyes a- fluttering"?
+p612
+sg8
+VTOBY
+p613
+sg10
+g11
+sa(dp614
+g6
+VYou know, parasol's a-twirling.
+p615
+sg8
+VC.J.
+p616
+sg10
+g11
+sa(dp617
+g6
+VAh.
+p618
+sg8
+VTOBY
+p619
+sg10
+g11
+sa(dp620
+g6
+VTell him I'll call him from the plane. How come no one can explain this number?
+p621
+sg8
+VC.J.
+p622
+sg10
+g11
+sa(dp623
+g6
+VWell, you are talking about deregulation. You want to crack that code? Follow the money.
+p624
+sg8
+VTOBY
+p625
+sg10
+g11
+sa(dp626
+g6
+VI'll take care of your Reuters things.
+p627
+sg8
+VC.J.
+p628
+sg10
+g11
+sa(dp629
+g6
+VCarol... pull the FCC's media ownership records from last year, will ya?
+p630
+sg8
+VC.J.
+p631
+sg10
+g11
+sa(dp632
+g6
+VIS this some kind of exclusive?
+p633
+sg8
+VCHRIS
+p634
+sg10
+g11
+sa(dp635
+g6
+VYes. And you could say Christmas came a bit early this year. I'm not normally in the business of doing your investigative reporting.
+p636
+sg8
+VC.J.
+p637
+sg10
+g11
+sa(dp638
+g6
+VAs opposed to blocking it.
+p639
+sg8
+VGEORGE
+p640
+sg10
+g11
+sa(dp641
+g6
+VChristmas, and you can throw in Arbor Day.
+p642
+sg8
+VC.J.
+p643
+sg10
+g11
+sa(dp644
+g6
+VIs this about the Brussels trip?
+p645
+sg8
+VBROCK
+p646
+sg10
+g11
+sa(dp647
+g6
+VThis is about the Federal Communications Commission. They just ruled that media conglomerates can buy stations reaching up to 39.37% of all TV viewers.
+p648
+sg8
+VC.J.
+p649
+sg10
+g11
+sa(dp650
+g6
+VWe wrote about this when they tried to make it 45%.
+p651
+sg8
+VCHRIS
+p652
+sg10
+g11
+sa(dp653
+g6
+VWhy do you think they're rolling it back?
+p654
+sg8
+VGEORGE
+p655
+sg10
+g11
+sa(dp656
+g6
+VAnd why, you might ask, to 39.37%? I have here the FCC media ownership records. Turns out, last year MertMedia illegally bought nine local TV stations, which brings them up to the magic number of - drum-roll please - 39.37%.
+p657
+sg8
+VC.J.
+p658
+sg10
+g11
+sa(dp659
+g6
+VAnd Viacomm's at 38.8%, and NewsCorp's at 37.8.
+p660
+sg8
+VC.J.
+p661
+sg10
+g11
+sa(dp662
+g6
+VIn other words, the FCC is bailing out - as in, posting bail - huge companies that were illegally gobbling up TV stations like greasy hors d'oeuvres. Would you like me to draw you a diagram?
+p663
+sg8
+VC.J.
+p664
+sg10
+g11
+sa(dp665
+g6
+VCan I ask about the Brussels trip?
+p666
+sg8
+VBROCK
+p667
+sg10
+g11
+sa(dp668
+g6
+VNo, you can't ask about the Brussels trip. This is a big story.
+p669
+sg8
+VC.J.
+p670
+sg10
+g11
+sa(dp671
+g6
+VMy business desk is handling it.
+p672
+sg8
+VBROCK
+p673
+sg10
+g11
+sa(dp674
+g6
+VThen bang on your editors. This isn't a technical business story. This is about diversity on the airwaves...
+p675
+sg8
+VC.J.
+p676
+sg10
+g11
+sa(dp677
+g6
+VThere are a million places to get news. We compete for every story.
+p678
+sg8
+VCHRIS
+p679
+sg10
+g11
+sa(dp680
+g6
+VLike you're competing for this one? Let me walk you through the numbers; talk to your editors. Trust me, this is a story.
+p681
+sg8
+VC.J.
+p682
+sg10
+g11
+sa(dp683
+g6
+VThe tractor protests are accelerating.
+p684
+sg8
+VED
+p685
+sg10
+g11
+sa(dp686
+g6
+VFrom four miles an hour to five?
+p687
+sg8
+VJOSH
+p688
+sg10
+g11
+sa(dp689
+g6
+VThey're up to 230 tractors.
+p690
+sg8
+VLARRY
+p691
+sg10
+g11
+sa(dp692
+g6
+VWhy do I get the feeling the soil's going untilled?
+p693
+sg8
+VJOSH
+p694
+sg10
+g11
+sa(dp695
+g6
+VAdvance is worried. They're blocking the Place de Brouckere.
+p696
+sg8
+VED
+p697
+sg10
+g11
+sa(dp698
+g6
+VJust keep the tractors away from the President. It's two centuries off our message. How we doing on Democratic votes?
+p699
+sg8
+VJOSH
+p700
+sg10
+g11
+sa(dp701
+g6
+VIt's tough in this economy.
+p702
+sg8
+VLARRY
+p703
+sg10
+g11
+sa(dp704
+g6
+VThey're terrified of losing jobs in there district.
+p705
+sg8
+VED
+p706
+sg10
+g11
+sa(dp707
+g6
+VWell, keep making calls. Tell them... talk about the labor side agreements.
+p708
+sg8
+VJOSH
+p709
+sg10
+g11
+sa(dp710
+g6
+VThe President's concerned Andy Wyatt and these Congressmen'll negotiate on their own.
+p711
+sg8
+VLEO
+p712
+sg10
+g11
+sa(dp713
+g6
+VThe President wants you to go. Someone's got to block them from moving the Israeli border and renaming the synagogues after prominent North Dakotans. Just meet with him on this.
+p714
+sg8
+VLEO
+p715
+sg10
+g11
+sa(dp716
+g6
+VOf course I'll meet with my President.
+p717
+sg8
+VFITZWALLACE
+p718
+sg10
+g11
+sa(dp719
+g6
+VWe'll get you in this afternoon. You know, I almost didn't recognize you without the hardware store on your chest.
+p720
+sg8
+VLEO
+p721
+sg10
+g11
+sa(dp722
+g6
+VHmm. Only way I could shed those extra pounds.
+p723
+sg8
+VFITZWALLACE
+p724
+sg10
+g11
+sa(dp725
+g6
+VJosh.
+p726
+sg8
+VFITZWALLACE
+p727
+sg10
+g11
+sa(dp728
+g6
+VAdmiral.
+p729
+sg8
+VJOSH
+p730
+sg10
+g11
+sa(dp731
+g6
+VHow'd it go with JCN?
+p732
+sg8
+VLEO
+p733
+sg10
+g11
+sa(dp734
+g6
+VGreat, if you write computer code and live in suburban Bombay.
+p735
+sg8
+VJOSH
+p736
+sg10
+g11
+sa(dp737
+g6
+VThey serious about the 17,000 jobs?
+p738
+sg8
+VLEO
+p739
+sg10
+g11
+sa(dp740
+g6
+VThey say it's going to be 3.3 million over ten years. The tech lobby screwed me on this. They were pressing India the whole time. Parsons and his guys from the CWA are coming here now. If I let you down on this, if I missed some...
+p741
+sg8
+VJOSH
+p742
+sg10
+g11
+sa(dp743
+g6
+VI sent you in there to close the deal. No one does it better.
+p744
+sg8
+VLEO
+p745
+sg10
+g11
+sa(dp746
+g6
+VWe need a strategy.
+p747
+sg8
+VJOSH
+p748
+sg10
+g11
+sa(dp749
+g6
+VFor Capitol Hill.
+p750
+sg8
+VLEO
+p751
+sg10
+g11
+sa(dp752
+g6
+VIf it becomes a story, yeah, I'm worried the Republicans aren't going to like this deal as it is, but that's not our biggest problem.
+p753
+sg8
+VJOSH
+p754
+sg10
+g11
+sa(dp755
+g6
+VWe don't run the computer industry.
+p756
+sg8
+VLEO
+p757
+sg10
+g11
+sa(dp758
+g6
+VNo. Look. We have to give something to Parsons, to the union, to balance this out.
+p759
+sg8
+VJOSH
+p760
+sg10
+g11
+sa(dp761
+g6
+VGive them what?
+p762
+sg8
+VLEO
+p763
+sg10
+g11
+sa(dp764
+g6
+VThe government only buys software that's made in America.
+p765
+sg8
+VJOSH
+p766
+sg10
+g11
+sa(dp767
+g6
+VFirst, foreign countries would retaliate against us. Second, we buy the lowest-cost goods or we burn taxpayers' money.
+p768
+sg8
+VLEO
+p769
+sg10
+g11
+sa(dp770
+g6
+VSo, we help a few taxpayers earn some money.
+p771
+sg8
+VJOSH
+p772
+sg10
+g11
+sa(dp773
+g6
+VCongress would laugh us out of the room, and it'd cost 15, 20 billion a year.
+p774
+sg8
+VLEO
+p775
+sg10
+g11
+sa(dp776
+g6
+VI'm talking short-term, till the effects of the trade deal kick in.
+p777
+sg8
+VJOSH
+p778
+sg10
+g11
+sa(dp779
+g6
+VWhere's your suit made?
+p780
+sg8
+VLEO
+p781
+sg10
+g11
+sa(dp782
+g6
+VI get this in Georgetown.
+p783
+sg8
+VJOSH
+p784
+sg10
+g11
+sa(dp785
+g6
+VWhere's it made?
+p786
+sg8
+VLEO
+p787
+sg10
+g11
+sa(dp788
+g6
+VMexico.
+p789
+sg8
+VJOSH
+p790
+sg10
+g11
+sa(dp791
+g6
+VI think those "Made in the USA" labels are sewn in Mexico now. You want to ask Congress and the OMB to do what no self-respecting clothes-horse would do. Let's see if this becomes a thing on the Hill.
+p792
+sg8
+VLEO
+p793
+sg10
+g11
+sa(dp794
+g6
+VI'm talking about the union.
+p795
+sg8
+VJOSH
+p796
+sg10
+g11
+sa(dp797
+g6
+VThe President's right, or Schumpeter, or whoever - sometimes you destroy to create.
+p798
+sg8
+VLEO
+p799
+sg10
+g11
+sa(dp800
+g6
+VThat's the danger...
+p801
+sg8
+VBARTLET
+p802
+sg10
+g11
+sa(dp803
+g6
+VYou're 11:00 is here, Mr. President.
+p804
+sg8
+VDEBBIE
+p805
+sg10
+g11
+sa(dp806
+g6
+VIt's quarter past 12:00. Would you please stop calling it my 11:00?
+p807
+sg8
+VBARTLET
+p808
+sg10
+g11
+sa(dp809
+g6
+VVery well, sir. Your 11:05 is waiting outside.
+p810
+sg8
+VDEBBIE
+p811
+sg10
+g11
+sa(dp812
+g6
+VThank you. Anyone has a stopwatch, we can boil some eggs.
+p813
+sg8
+VBARTLET
+p814
+sg10
+g11
+sa(dp815
+g6
+VYes, yes. I have your C.V. You're fluent in Arabic.
+p816
+sg8
+VBARTLET
+p817
+sg10
+g11
+sa(dp818
+g6
+VThank you. I always forget the punchline myself.
+p819
+sg8
+VBARTLET
+p820
+sg10
+g11
+sa(dp821
+g6
+VThank you, Nancy.
+p822
+sg8
+VBARTLET
+p823
+sg10
+g15
+sa(dp824
+g6
+VFour years in Naval Intelligence. You served at our embassy at Ulan Bator.
+p825
+sg8
+VBARTLET
+p826
+sg10
+g11
+sa(dp827
+g6
+VYes, Mr. President.
+p828
+sg8
+VHARPER
+p829
+sg10
+g15
+sa(dp830
+g6
+VAh... yes... So, we're off to Brussels. Nancy may have told you about this French bilateral I'm dreading. They're holding two documented terrorists, won't extradite them because they don't like our sentencing laws. We can't even interrogate bloodless murderers if we don't put the right crease in their linen napkin.
+p831
+sg8
+VBARTLET
+p832
+sg10
+g11
+sa(dp833
+g6
+VThat's one way of looking at it, sir.
+p834
+sg8
+VHARPER
+p835
+sg10
+g11
+sa(dp836
+g6
+VYou've got another way.
+p837
+sg8
+VBARTLET
+p838
+sg10
+g11
+sa(dp839
+g6
+VThat's not really my job, Mr. President.
+p840
+sg8
+VHARPER
+p841
+sg10
+g11
+sa(dp842
+g6
+VI'm asking you.
+p843
+sg8
+VBARTLET
+p844
+sg10
+g15
+sa(dp845
+g6
+VThere's a French side and an American side.
+p846
+sg8
+VHARPER
+p847
+sg10
+g11
+sa(dp848
+g6
+VI want your argument.
+p849
+sg8
+VBARTLET
+p850
+sg10
+g11
+sa(dp851
+g6
+VOfficially, I don't have an argument.
+p852
+sg8
+VHARPER
+p853
+sg10
+g328
+sa(dp854
+g6
+VYet we're having one right now.
+p855
+sg8
+VBARTLET
+p856
+sg10
+g11
+sa(dp857
+g6
+VWell, sir... I guess what I would say is that France has a body of law and a constitution and it's wrong to trample on either, let alone the extradition process.
+p858
+sg8
+VHARPER
+p859
+sg10
+g11
+sa(dp860
+g6
+VThey see it as imperialism and you do it at the risk of shredding and already fragile relationship. Officially, however...
+p861
+sg8
+VHARPER
+p862
+sg10
+g11
+sa(dp863
+g6
+VDebbie, would you bring in my 11:03, whatever the hell it was.
+p864
+sg8
+VBARTLET
+p865
+sg10
+g11
+sa(dp866
+g6
+VMr. President, I didn't mean...
+p867
+sg8
+VHARPER
+p868
+sg10
+g11
+sa(dp869
+g6
+VThanks for answering. It was nice meeting you, uh...
+p870
+sg8
+VBARTLET
+p871
+sg10
+g11
+sa(dp872
+g6
+VMa'am. I mean, Kate.
+p873
+sg8
+VHARPER
+p874
+sg10
+g11
+sa(dp875
+g6
+VNo.
+p876
+sg8
+VJOSH
+p877
+sg10
+g11
+sa(dp878
+g6
+VOkay. Second question.
+p879
+sg8
+VRYAN
+p880
+sg10
+g11
+sa(dp881
+g6
+VWhat?
+p882
+sg8
+VJOSH
+p883
+sg10
+g11
+sa(dp884
+g6
+VTrade. These Belgian farmers think it will cost them jobs.
+p885
+sg8
+VRYAN
+p886
+sg10
+g11
+sa(dp887
+g6
+VIt probably will, 'cause it let's in cheaper produce.
+p888
+sg8
+VJOSH
+p889
+sg10
+g11
+sa(dp890
+g6
+VBut Belgium's for it anyway?
+p891
+sg8
+VRYAN
+p892
+sg10
+g11
+sa(dp893
+g6
+VIt may be bad for their farmers, but it's good for their economy.
+p894
+sg8
+VJOSH
+p895
+sg10
+g11
+sa(dp896
+g6
+VThen who's their economy for?
+p897
+sg8
+VRYAN
+p898
+sg10
+g11
+sa(dp899
+g6
+VWould you please tell Josh...?
+p900
+sg8
+VDONNA
+p901
+sg10
+g15
+sa(dp902
+g6
+VHarpo speaks.
+p903
+sg8
+VJOSH
+p904
+sg10
+g11
+sa(dp905
+g6
+VWould you please tell Josh that Bill Parsons with the CWA will be here any minute, and his 3:30 with Congressman McKenna's been moved to 3:00?
+p906
+sg8
+VDONNA
+p907
+sg10
+g11
+sa(dp908
+g6
+VYour 3:30...
+p909
+sg8
+VRYAN
+p910
+sg10
+g11
+sa(dp911
+g6
+VMcKenna's lucky if I only keep him waiting a half hour out of spite.
+p912
+sg8
+VJOSH
+p913
+sg10
+g11
+sa(dp914
+g6
+VHe says Congressman McKenna...
+p915
+sg8
+VRYAN
+p916
+sg10
+g11
+sa(dp917
+g6
+VTell him the Social Office wants to remind him about your going away party.
+p918
+sg8
+VDONNA
+p919
+sg10
+g11
+sa(dp920
+g6
+VThe Social Secretary'd be mighty...
+p921
+sg8
+VRYAN
+p922
+sg10
+g11
+sa(dp923
+g6
+VTell Ms. Mozzarella that a pack of wild bison on stilts couldn't drag me to your party.
+p924
+sg8
+VJOSH
+p925
+sg10
+g11
+sa(dp926
+g6
+VHe says that actually he'd be quite tickled - stilts?
+p927
+sg8
+VRYAN
+p928
+sg10
+g11
+sa(dp929
+g6
+VTell him McKenna's got a problem with his beloved trade deal.
+p930
+sg8
+VDONNA
+p931
+sg10
+g11
+sa(dp932
+g6
+VTell her McKenna can take a check, and I can handle a ninth-string Congressman.
+p933
+sg8
+VJOSH
+p934
+sg10
+g11
+sa(dp935
+g6
+VTell him there's something he should know about that meeting and I've got half a mind...
+p936
+sg8
+VDONNA
+p937
+sg10
+g11
+sa(dp938
+g6
+VTell Donna wherever Skippy the translator's going, she should go, too.
+p939
+sg8
+VJOSH
+p940
+sg10
+g11
+sa(dp941
+g6
+VHe says give that dashing, young Ryan a great big...
+p942
+sg8
+VRYAN
+p943
+sg10
+g11
+sa(dp944
+g6
+VHarpo can hear, bright boy.
+p945
+sg8
+VDONNA
+p946
+sg10
+g11
+sa(dp947
+g6
+VNow can we talk about the Brussels trip?
+p948
+sg8
+VBROCK
+p949
+sg10
+g11
+sa(dp950
+g6
+VNo, we can't. Carol tells me you're not even pitching the FCC story.
+p951
+sg8
+VC.J.
+p952
+sg10
+g11
+sa(dp953
+g6
+VIt's a business story. Just 'cause I don't agree with your take on it...
+p954
+sg8
+VBROCK
+p955
+sg10
+g11
+sa(dp956
+g6
+VI... I don't have a "take". The FCC looked at how many stations were already owned by the six or seven biggest companies and used that as the number, so nobody'd have to sell anything.
+p957
+sg8
+VC.J.
+p958
+sg10
+g11
+sa(dp959
+g6
+VMedia monopolies are history. The Internet's exploding. TV's every guy with a camcorder and a digital uplink.
+p960
+sg8
+VBROCK
+p961
+sg10
+g11
+sa(dp962
+g6
+VYet, one company can now own stations in 199 of the nation's 210 markets. One company can influence the election of 98 senators, 382 House members...
+p963
+sg8
+VC.J.
+p964
+sg10
+g11
+sa(dp965
+g6
+VIt's a free country.
+p966
+sg8
+VBROCK
+p967
+sg10
+g11
+sa(dp968
+g6
+VUntil Comcast and ClearChannel puts a big bullhorn in every town square it is.
+p969
+sg8
+VC.J.
+p970
+sg10
+g11
+sa(dp971
+g6
+VA free country.
+p972
+sg8
+VC.J.
+p973
+sg10
+g11
+sa(dp974
+g6
+VI am not a media critic.
+p975
+sg8
+VBROCK
+p976
+sg10
+g11
+sa(dp977
+g6
+VNo one in the media is, that's the problem.
+p978
+sg8
+VC.J.
+p979
+sg10
+g11
+sa(dp980
+g6
+VYou're just trying to knock me off this story about job losses.
+p981
+sg8
+VBROCK
+p982
+sg10
+g11
+sa(dp983
+g6
+VThat isn't a story, it's an allegation.
+p984
+sg8
+VC.J.
+p985
+sg10
+g11
+sa(dp986
+g6
+VThose are white-collar jobs; those new-economy jobs the president brags about creating.
+p987
+sg8
+VBROCK
+p988
+sg10
+g11
+sa(dp989
+g6
+VPeople need to know this FCC thing isn't a victory - it's less, but by the exact amount the companies wanted.
+p990
+sg8
+VC.J.
+p991
+sg10
+g11
+sa(dp992
+g6
+VNow you're getting into glass-empty, glass-full territory.
+p993
+sg8
+VBROCK
+p994
+sg10
+g11
+sa(dp995
+g6
+VI'm trying to talk about who pours the water.
+p996
+sg8
+VC.J.
+p997
+sg10
+g11
+sa(dp998
+g6
+VThen let's talk about it, because when seats come open in your briefing room, I don't see you giving them to the Pennsauken Post, or radio free Botswana, or some guy with a digital uplink.
+p999
+sg8
+VBROCK
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VWe're not the ones buying up all the media.
+p1002
+sg8
+VC.J.
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VBut you're the ones giving them access. How many seats does MertMedia alone have in there? Three? How many companies are represented? Seven? Eight?
+p1005
+sg8
+VBROCK
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VYou want there to be even fewer?
+p1008
+sg8
+VC.J.
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VNo. I want to talk about Brussels, and you don't, and I'm on a deadline.
+p1011
+sg8
+VBROCK
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VBill, I don't know how this happened.
+p1014
+sg8
+VJOSH
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VI do. You were so desperate to help a bunch of soft-money-donating CEO's, that you sold us up the Ganges River.
+p1017
+sg8
+VPARSONS
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VI'm sorry, but I-TOBY got to ask you not to public with this yet. Hard as it seems, we're growing this economy...
+p1020
+sg8
+VJOSH
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VFor who? Foreign investors? I mean, what good is the economy without the people in it?
+p1023
+sg8
+VPARSONS
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VYou knew we were for free trade. You knew it when you endorsed us five years ago.
+p1026
+sg8
+VJOSH
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VYeah, 'cause you told us we might lose old economy jobs - shoe manufacturing - to some dirt-poor country, but if we trained ourselves we'd get better jobs. Now they're being vacuumed out of here, too.
+p1029
+sg8
+VPARSONS
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VWe're going to fight for more job training, more transition assistance...
+p1032
+sg8
+VJOSH
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VI have members on their third and fourth career. What are they supposed to train for now, nuclear physics? Cello playing? Or should they just give up and bag groceries for minimum wage?
+p1035
+sg8
+VPARSONS
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VWell, that'd still buy them a nice house in  Bangalore.
+p1038
+sg8
+VJOSH
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VWell, I've got three kids in college - little late for a transfer, isn't it.
+p1041
+sg8
+VMAN
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VYou'll have pension assistance, wage assistance, you name it.
+p1044
+sg8
+VJOSH
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VI don't want burial insurance. My career isn't over yet, I want to keep my job.
+p1047
+sg8
+VMAN
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VYou owe us that, Mr. Lyman.
+p1050
+sg8
+VWOMAN
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VYou made that promise five years ago, to my face, in the Wayfarer Hotel. They're going to stay right here till you tell them how you plan to honor it.
+p1053
+sg8
+VPARSONS
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VWhere are you going?
+p1056
+sg8
+VJOSH
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VTo your press room, then to Capitol Hill. One thing about the Communication Workers; we know how to communicate.
+p1059
+sg8
+VPARSONS
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VYou look a lot better on TV.
+p1062
+sg8
+VMAN
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VNo, Congressman... yes, of course... Yeah, I understand.
+p1065
+sg8
+VJOSH
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VWhat are you doing out here?
+p1068
+sg8
+VWILL
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VDonna's not talking to me, plus there's some soon-to-be-unemployed workers camped out in my office.
+p1071
+sg8
+VJOSH
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VWith tractors, I presume.
+p1074
+sg8
+VWILL
+p1075
+sg10
+g328
+sa(dp1076
+g6
+VSomething like that.
+p1077
+sg8
+VJOSH
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VThink this job story's true?
+p1080
+sg8
+VWILL
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VIt's proprietary.
+p1083
+sg8
+VJOSH
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VThink it'll give the GOP an excuse to squash this trade deal?
+p1086
+sg8
+VWILL
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VWith midterms coming up, what do you think? How'd you become a free-trader?
+p1089
+sg8
+VJOSH
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VAmerica has a quarter of the world's wealth and only two percent of the customers. You have to sell to others.
+p1092
+sg8
+VWILL
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VSo, how do you make that case to people who are about to lose their jobs?
+p1095
+sg8
+VJOSH
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VAsk them how often they go to Wal-Mart to buy cheap cardigans or drill-bits.
+p1098
+sg8
+VWILL
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VDrill-bits?
+p1101
+sg8
+VJOSH
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VI don't wear cardigans.
+p1104
+sg8
+VWILL
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VOkay.
+p1107
+sg8
+VJOSH
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VBut I like a nice drill-bit.
+p1110
+sg8
+VWILL
+p1111
+sg10
+g328
+sa(dp1112
+g6
+VSo it all comes down to cheap drill-bits.
+p1113
+sg8
+VJOSH
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VPay more for a drill-bit, you have less to spend on other things. Keep out cheap, foreign drill-bits, that country'll keep out cheap American something else. And that costs us jobs.
+p1116
+sg8
+VWILL
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VDo you ever wonder if we forget the human face of trade, the blood and muscle?
+p1119
+sg8
+VJOSH
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VYou have to go with what grows the economy for everyone. There's blood and muscle in India, too.
+p1122
+sg8
+VWILL
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VYeah.
+p1125
+sg8
+VJOSH
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VHoynes was pretty critical of free trade when you worked for him, wasn't he?
+p1128
+sg8
+VWILL
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VThat was mostly politics.
+p1131
+sg8
+VJOSH
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VSo how'd you become a free-trader?
+p1134
+sg8
+VWILL
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VI came to work for one. Did you need something?
+p1137
+sg8
+VJOSH
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VThe Vice President is going to distance himself from this trade deal. You did a great job. It's mostly politics.
+p1140
+sg8
+VWILL
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VThis leaving-on-a-jet-plane-can't-bear-to-be-without-you-for-36-hours bit.
+p1143
+sg8
+VC.J.
+p1144
+sg10
+g328
+sa(dp1145
+g6
+VOkay.
+p1146
+sg8
+VBEN
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VI've got labor leaders frothing at the mouth, making unverified claims, a media conspiracy run amok. I can't need to see you every 37 seconds to achieve completion as a human being.
+p1149
+sg8
+VC.J.
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VFine.
+p1152
+sg8
+VBEN
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VAre we clear on this?
+p1155
+sg8
+VC.J.
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VYou left your passport at my house. You left your wallet at my house. You left your driver's license and all your credit cards at my house. Have a safe flight.
+p1158
+sg8
+VBEN
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VAre you...?
+p1161
+sg8
+VC.J.
+p1162
+sg10
+g15
+sa(dp1163
+g6
+VThere's this nice little place... Can I interest you in a late lunch?
+p1164
+sg8
+VC.J.
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VJosh. Josh. This job story's killing us with the Democrats.
+p1167
+sg8
+VLARRY
+p1168
+sg10
+g15
+sa(dp1169
+g6
+VYeah.
+p1170
+sg8
+VJOSH
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VYou think the Speaker's gonna smell blood in the water and spike this thing? Belgian Prime Minister's letting the tractors into the Place de Palais.
+p1173
+sg8
+VED
+p1174
+sg10
+g11
+sa(dp1175
+g6
+V260 tractors, right mext to the ceremony site.
+p1176
+sg8
+VLARRY
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VIt's like the Hayseed Olympics out there.
+p1179
+sg8
+VED
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VMaybe if we plant a row of corn...
+p1182
+sg8
+VLARRY
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VStop mocking the farmers. They're just trying to scratch out a living.
+p1185
+sg8
+VJOSH
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VThis no-talking thing isn't working for me.
+p1188
+sg8
+VJOSH
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VYou have a 3:00. I need to brief you, and they won't leave your office.
+p1191
+sg8
+VDONNA
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VI know.
+p1194
+sg8
+VJOSH
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VI tried to move them. Do you want me to call Secret Service?
+p1197
+sg8
+VDONNA
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VNo.
+p1200
+sg8
+VJOSH
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VI just want to grow in my job, do something meaningful, do more than earn a paycheck until I die.
+p1203
+sg8
+VDONNA
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VWhy are you saying that?
+p1206
+sg8
+VJOSH
+p1207
+sg10
+g15
+sa(dp1208
+g6
+VI only have one career, and I want it to matter, or I might as well be a soda jerk. That's why I wanted...
+p1209
+sg8
+VDONNA
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VLet's go back to not talking for awhile.
+p1212
+sg8
+VJOSH
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VYou missed a great party.
+p1215
+sg8
+VRYAN
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VI've got bigger problems than your brass parachute.
+p1218
+sg8
+VJOSH
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VWhere you going?
+p1221
+sg8
+VRYAN
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VTo meet Congressman McKenna.
+p1224
+sg8
+VJOSH
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VThat's funny, actually...
+p1227
+sg8
+VRYAN
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VNo, it isn't funny. He's a two-bit jerk of a House member. He holds us hostage every time we have a budget or a trade deal, or enough discretionary authority to buy an ice cream cone. I've got the Speaker of the House in ten minutes. I'm gonna smile, bob my head, and stick him in the outbox.
+p1230
+sg8
+VJOSH
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VBeat it. I've got a meeting.
+p1233
+sg8
+VJOSH
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VSo do I's the thing.
+p1236
+sg8
+VRYAN
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VIt's just me and McKenna.
+p1239
+sg8
+VJOSH
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VI'm his new Legislative Director. Hi. He figured it'd be leverage enough that he's on two authorizing committees and can stall half your budget priorities. Is this the part where you smile and bob your head?
+p1242
+sg8
+VRYAN
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VMcKenna has a problem with the Brussels Round?
+p1245
+sg8
+VJOSH
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VHe just wants a seat on the plane.
+p1248
+sg8
+VRYAN
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VThat question you asked: who's an economy for...?
+p1251
+sg8
+VJOSH
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VI don't care about trade. If you taught me anything, it's that my view doesn't matter anyway. You take your boss's position, lock, stock, and sound bite, and you get what you came for. Am I right?
+p1254
+sg8
+VRYAN
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VWe have to do all the news mags. You know when they passed the laws that limit media ownership? In the 40s, as a response to fascism in Europe.
+p1257
+sg8
+VC.J.
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VI think I saw that on the Fascism Channel.
+p1260
+sg8
+VBEN
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VLaugh now, channel-boy, soon it'll be the only one left.
+p1263
+sg8
+VC.J.
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VHi, Leo McGarry. You must be Ben. C.J.'s just nuts about you.
+p1266
+sg8
+VLEO
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VNot really, actually.
+p1269
+sg8
+VC.J.
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VWhy are you hawking this FCC story? I got calls from two network heads.
+p1272
+sg8
+VLEO
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VOf course you have. Their crazy about this ruling, and the people who aren't can't get us on the phone.
+p1275
+sg8
+VC.J.
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VMy problem right now is I'm too easy to get on the phone. I need you to push back on the job losses. Our Caucus is going bananas.
+p1278
+sg8
+VLEO
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VThis is a bail-out for MertMedia and all the...
+p1281
+sg8
+VC.J.
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VThe President's against excessive media ownership. IF we think the FCC's not looking out for the little guy, use the Briefing Room to say it.
+p1284
+sg8
+VLEO
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VNo one's writing about it. They're all afraid of their media-mogul robber-baron bosses. This is the biggest media conspiracy since William Randolph Hearst was starting wars and crushing filmmakers.
+p1287
+sg8
+VC.J.
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VWe don't run the press. We certainly don't run the FCC. They made the ruling.
+p1290
+sg8
+VLEO
+p1291
+sg10
+g11
+sa(dp1292
+g6
+VLocal news is getting trampled. You think corporate media is gonna take on corporate polluters, describe mega-mergers as anything more than a rising stock price?
+p1293
+sg8
+VC.J.
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VWhen was the last time you watched local news? I mean, it's just high school ping-pong and weathermen predicting hailstones the size of canned hams.
+p1296
+sg8
+VBEN
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VNational programming doesn't bother you?
+p1299
+sg8
+VLEO
+p1300
+sg10
+g15
+sa(dp1301
+g6
+VI've spent my entire career living in Moosejaw. I get my news off CNN.
+p1302
+sg8
+VBEN
+p1303
+sg10
+g11
+sa(dp1304
+g6
+VI like this one.
+p1305
+sg8
+VLEO
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VHe's about to become available.
+p1308
+sg8
+VC.J.
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VHad to be MertMedia.
+p1311
+sg8
+VC.J.
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VMertMedia?
+p1314
+sg8
+VBEN
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VThe CEO calls me every few months to offer me a job, corporate communications. I'm due for a call next week.
+p1317
+sg8
+VC.J.
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VYou're not thinking of leaving...?
+p1320
+sg8
+VBEN
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VNo, I'm not, but... And I don't know who the FCC is looking out for, but I came here to look out for the little guy. How come only the big guy wants to hire me?
+p1323
+sg8
+VC.J.
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VCall facilities maintenance. Get me two or three workmen.
+p1326
+sg8
+VC.J.
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VWorkmen?
+p1329
+sg8
+VCAROL
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VCarpenters, joiners, quitters, whatever they've got down there.
+p1332
+sg8
+VC.J.
+p1333
+sg10
+g328
+sa(dp1334
+g6
+VMay I ask you...?
+p1335
+sg8
+VCAROL
+p1336
+sg10
+g15
+sa(dp1337
+g6
+VLike a surgeon wields his scalpel, like a barrister wields his... whatever it is he wields, I am using my Briefing Room.
+p1338
+sg8
+VC.J.
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VMr. Speaker, I guess you've seen the story about the job losses.
+p1341
+sg8
+VJOSH
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VI have.
+p1344
+sg8
+VHAFFLEY
+p1345
+sg10
+g328
+sa(dp1346
+g6
+VI know it's easy to play politics here, but it's just an allegation. This deal will create jobs over time. No one is more concerned about the dislocation than me, so if you've got some issues, we should...
+p1347
+sg8
+VJOSH
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VLet's get right to my issues.
+p1350
+sg8
+VHAFFLEY
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VSure.
+p1353
+sg8
+VJOSH
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VI have no issues.
+p1356
+sg8
+VHAFFLEY
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VMeaning?
+p1359
+sg8
+VJOSH
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VMeaning you're home, Josh.
+p1362
+sg8
+VHAFFLEY
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VExcuse me?
+p1365
+sg8
+VJOSH
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VYou're home. I can get you 200, maybe 210 Republican votes. My members love it. You did a fantastic job.
+p1368
+sg8
+VHAFFLEY
+p1369
+sg10
+g11
+sa(dp1370
+g6
+VThey love it?
+p1371
+sg8
+VJOSH
+p1372
+sg10
+g11
+sa(dp1373
+g6
+VBusiness lobby loves it, tech lobby loves it, unions always complain about trade.
+p1374
+sg8
+VHAFFLEY
+p1375
+sg10
+g11
+sa(dp1376
+g6
+VThe labor side agreements.
+p1377
+sg8
+VJOSH
+p1378
+sg10
+g11
+sa(dp1379
+g6
+VThose things aren't even enforceable.
+p1380
+sg8
+VHAFFLEY
+p1381
+sg10
+g11
+sa(dp1382
+g6
+VAnd if there are white-collar job losses?
+p1383
+sg8
+VJOSH
+p1384
+sg10
+g11
+sa(dp1385
+g6
+VWe knew there might be. The tech lobby was pressing India to sign the thing.
+p1386
+sg8
+VHAFFLEY
+p1387
+sg10
+g11
+sa(dp1388
+g6
+VYou knew about that?
+p1389
+sg8
+VJOSH
+p1390
+sg10
+g11
+sa(dp1391
+g6
+VYeah. So did the White House. It's the way things were going anyway. India can have our programming jobs. We'll give them up like we gave up horses and buggies. They can't take away what's great about the American spirit.
+p1392
+sg8
+VHAFFLEY
+p1393
+sg10
+g11
+sa(dp1394
+g6
+VThat's... That's it?
+p1395
+sg8
+VJOSH
+p1396
+sg10
+g11
+sa(dp1397
+g6
+VUnless I can interest you in running for Congress as a Republican. [pause] I'm kidding. Tell the President to have a great trip. We'll start whipping votes.
+p1398
+sg8
+VHAFFLEY
+p1399
+sg10
+g11
+sa(dp1400
+g6
+VSo, the Vice President's distancing himself.
+p1401
+sg8
+VLEO
+p1402
+sg10
+g11
+sa(dp1403
+g6
+VLots of Democrats are.
+p1404
+sg8
+VJOSH
+p1405
+sg10
+g11
+sa(dp1406
+g6
+VBut things went well with the Speaker.
+p1407
+sg8
+VLEO
+p1408
+sg10
+g11
+sa(dp1409
+g6
+VWe knew the tech lobby was leaning on India.
+p1410
+sg8
+VJOSH
+p1411
+sg10
+g11
+sa(dp1412
+g6
+VLot of lobbies lean on lots of people.
+p1413
+sg8
+VLEO
+p1414
+sg10
+g11
+sa(dp1415
+g6
+VYou sent me into that room knowing it might cost the CWA jobs.
+p1416
+sg8
+VJOSH
+p1417
+sg10
+g11
+sa(dp1418
+g6
+VI sent you into that room to close a deal. No one put you in charge of economic policy.
+p1419
+sg8
+VLEO
+p1420
+sg10
+g11
+sa(dp1421
+g6
+VYou didn't tell me 'cause I never would have made the deal.
+p1422
+sg8
+VJOSH
+p1423
+sg10
+g11
+sa(dp1424
+g6
+VWhen the President wants a deal, it's your job to close it. We don't sign waivers around here.
+p1425
+sg8
+VLEO
+p1426
+sg10
+g11
+sa(dp1427
+g6
+VWe made a promise, me and the President. That's how we got the CWA, the first union to endorse us in the first campaign, which is how we got the AFL-CIO, how we won Iowa, South Dakota. That was my job, too. You think we'd be here without it?
+p1428
+sg8
+VJOSH
+p1429
+sg10
+g11
+sa(dp1430
+g6
+VYou campaign in poetry, you govern in prose.
+p1431
+sg8
+VLEO
+p1432
+sg10
+g11
+sa(dp1433
+g6
+VWe promised that union we'd protect their jobs. We said it right to Parsons' face.
+p1434
+sg8
+VJOSH
+p1435
+sg10
+g11
+sa(dp1436
+g6
+VWe said we'd try to look out for them.
+p1437
+sg8
+VLEO
+p1438
+sg10
+g11
+sa(dp1439
+g6
+VI'm not parsing words, that's not what we meant. We have to strip out the copyright provisions.
+p1440
+sg8
+VJOSH
+p1441
+sg10
+g11
+sa(dp1442
+g6
+VWe'll give them transition assistance.
+p1443
+sg8
+VLEO
+p1444
+sg10
+g11
+sa(dp1445
+g6
+VThey call it burial insurance.
+p1446
+sg8
+VJOSH
+p1447
+sg10
+g11
+sa(dp1448
+g6
+VWell, it's all burial insurance, isn't it?
+p1449
+sg8
+VLEO
+p1450
+sg10
+g11
+sa(dp1451
+g6
+VGreat. Let's revise those talking points: the case for sweatshop labor, send your nine-year-old to a sneaker factory. Let's just call this whole trade deal "To hell with everything."
+p1452
+sg8
+VJOSH
+p1453
+sg10
+g11
+sa(dp1454
+g6
+VI sent you in there to close a deal, and you did. Thank you. There are trade-offs. Lose 17,000 here, gain 30,000 there.
+p1455
+sg8
+VLEO
+p1456
+sg10
+g11
+sa(dp1457
+g6
+VThey're human beings. You're talking in abstractions.
+p1458
+sg8
+VJOSH
+p1459
+sg10
+g11
+sa(dp1460
+g6
+VAs opposed to what, meeting every factory worker in America? Reviewing every line of computer code and giving little checkmarks. We run a country, we deal in abstractions.
+p1461
+sg8
+VLEO
+p1462
+sg10
+g11
+sa(dp1463
+g6
+VThat's easy for you to say. You're not the one who just screwed 3.3 million people.
+p1464
+sg8
+VJOSH
+p1465
+sg10
+g11
+sa(dp1466
+g6
+VNeither are you. It's the President's agenda.
+p1467
+sg8
+VLEO
+p1468
+sg10
+g11
+sa(dp1469
+g6
+VAnd it was the President's promise. Which you can't break, I can't break, and I am taking this to him if I have to park a tractor on the South Lawn to do it.
+p1470
+sg8
+VJOSH
+p1471
+sg10
+g11
+sa(dp1472
+g6
+VHey.
+p1473
+sg8
+VC.J.
+p1474
+sg10
+g11
+sa(dp1475
+g6
+VHey.
+p1476
+sg8
+VJOSH
+p1477
+sg10
+g11
+sa(dp1478
+g6
+VThe CWA said some nasty things about you to the press.
+p1479
+sg8
+VC.J.
+p1480
+sg10
+g11
+sa(dp1481
+g6
+VYeah, I saw.
+p1482
+sg8
+VJOSH
+p1483
+sg10
+g11
+sa(dp1484
+g6
+VTell your pals at JCN to buy some TV stations, shut this down in a hurry.
+p1485
+sg8
+VC.J.
+p1486
+sg10
+g11
+sa(dp1487
+g6
+VThat's good advice.
+p1488
+sg8
+VJOSH
+p1489
+sg10
+g11
+sa(dp1490
+g6
+VAl the work you do with the unions, why'd Leo put you at that negotiating table?
+p1491
+sg8
+VC.J.
+p1492
+sg10
+g11
+sa(dp1493
+g6
+V'Cause I asked him. You spend your whole career trying to get in the room, as if you're the one who can square every circle. And it turns out...
+p1494
+sg8
+VJOSH
+p1495
+sg10
+g11
+sa(dp1496
+g6
+VA circle's a circle.
+p1497
+sg8
+VC.J.
+p1498
+sg10
+g11
+sa(dp1499
+g6
+VThere's our geometry lesson for the day.
+p1500
+sg8
+VJOSH
+p1501
+sg10
+g11
+sa(dp1502
+g6
+VSee you on the plane.
+p1503
+sg8
+VC.J.
+p1504
+sg10
+g11
+sa(dp1505
+g6
+VYou know what these CODELs are like. We don't need any dime-store diplomats gumming up the peace process.
+p1506
+sg8
+VLEO
+p1507
+sg10
+g11
+sa(dp1508
+g6
+VThere is no peace process. Dime-store diplomats may be better than no diplomats at all.
+p1509
+sg8
+VFITZWALLACE
+p1510
+sg10
+g11
+sa(dp1511
+g6
+VWe really need a bunch of Congressmen doing back-seat diplomacy?
+p1512
+sg8
+VBARTLET
+p1513
+sg10
+g11
+sa(dp1514
+g6
+VYou really want me to go all the way to the  Middle East with a whistle around my neck, teach Congressmen how to make lanyards?
+p1515
+sg8
+VFITZWALLACE
+p1516
+sg10
+g11
+sa(dp1517
+g6
+VI need you to go so we can stay out of trouble. It's the best we can do in that region right now. Come back with some lanyards, I'll toss in a couple of new medals.
+p1518
+sg8
+VBARTLET
+p1519
+sg10
+g11
+sa(dp1520
+g6
+VI'll go.
+p1521
+sg8
+VFITZWALLACE
+p1522
+sg10
+g11
+sa(dp1523
+g6
+VYou know I'll do anything you ask, Mr. President, but I think we should be more engaged over there, not less.
+p1524
+sg8
+VFITZWALLACE
+p1525
+sg10
+g11
+sa(dp1526
+g6
+VThank you, Fitz. I appreciate it.
+p1527
+sg8
+VBARTLET
+p1528
+sg10
+g15
+sa(dp1529
+g6
+VThank you so much.
+p1530
+sg8
+VLEO
+p1531
+sg10
+g11
+sa(dp1532
+g6
+VWould you give us a minute, please?
+p1533
+sg8
+VBARTLET
+p1534
+sg10
+g15
+sa(dp1535
+g6
+VSure.
+p1536
+sg8
+VFITZWALLACE
+p1537
+sg10
+g11
+sa(dp1538
+g6
+VLeo's told me about the 17,000 jobs.
+p1539
+sg8
+VBARTLET
+p1540
+sg10
+g11
+sa(dp1541
+g6
+VWe have to fix this thing.
+p1542
+sg8
+VJOSH
+p1543
+sg10
+g328
+sa(dp1544
+g6
+VWe've talked about creative destruction.
+p1545
+sg8
+VBARTLET
+p1546
+sg10
+g11
+sa(dp1547
+g6
+VWe made a promise.
+p1548
+sg8
+VJOSH
+p1549
+sg10
+g11
+sa(dp1550
+g6
+VIt's the natural evolution of capitalism.
+p1551
+sg8
+VBARTLET
+p1552
+sg10
+g11
+sa(dp1553
+g6
+VThis isn't economic theory. Where are our allegiances? To our own people or to Third-World plutocracies?
+p1554
+sg8
+VJOSH
+p1555
+sg10
+g11
+sa(dp1556
+g6
+VThere are children in those plutocracies who dig through trash heaps for food who'd kill for a low-wage job. You think if they're not sewing sneakers, they're downing cocktails at a debutante ball?
+p1557
+sg8
+VBARTLET
+p1558
+sg10
+g11
+sa(dp1559
+g6
+VThis is different. These programmers have middle-class jobs.
+p1560
+sg8
+VJOSH
+p1561
+sg10
+g328
+sa(dp1562
+g6
+VDifferent how? Because we know them?
+p1563
+sg8
+VBARTLET
+p1564
+sg10
+g11
+sa(dp1565
+g6
+VDifferent... because you and I looked them in the eye five years ago, at the Wayfarer Hotel.
+p1566
+sg8
+VJOSH
+p1567
+sg10
+g11
+sa(dp1568
+g6
+VI know that we did. And sometimes I wish I could stick to the theory. I don't like seeing our friends get hurt.
+p1569
+sg8
+VBARTLET
+p1570
+sg10
+g11
+sa(dp1571
+g6
+VThen let's not hurt our friends.
+p1572
+sg8
+VJOSH
+p1573
+sg10
+g11
+sa(dp1574
+g6
+VBy doing what? Building a wall around the country so we can keep those jobs a bit longer and never create any new ones? Passing a law that no one can be fired, even if played video games at their desk all day? I'd probably get a spike in the polls for that one.
+p1575
+sg8
+VBARTLET
+p1576
+sg10
+g11
+sa(dp1577
+g6
+VThe CWA's the reason we're in this room.
+p1578
+sg8
+VJOSH
+p1579
+sg10
+g11
+sa(dp1580
+g6
+VAnd they would prefer a Republican who'd support free trade then gut job training and eviscerate unemployment insurance?
+p1581
+sg8
+VBARTLET
+p1582
+sg10
+g11
+sa(dp1583
+g6
+VWe made a promise.
+p1584
+sg8
+VJOSH
+p1585
+sg10
+g11
+sa(dp1586
+g6
+VThere was a man named Canute, one of the great Viking kings of the 11th Century. Wanted his people to be aware of his limitations, so he led them down to the sea and he commanded that the tide roll out. It didn't. Who gave us the notion that Presidents can move the economy like a play-toy?
+p1587
+sg8
+VBARTLET
+p1588
+sg10
+g11
+sa(dp1589
+g6
+VThat we can do more than talk it up or smooth over the rough spots? It's a lie. What we really owe that union is the truth.
+p1590
+sg8
+VBARTLET
+p1591
+sg10
+g11
+sa(dp1592
+g6
+VWe run around saying free trade creates high-paying jobs.
+p1593
+sg8
+VJOSH
+p1594
+sg10
+g11
+sa(dp1595
+g6
+VAnd it will. But I've been trying to tell you it's not that simple.
+p1596
+sg8
+VBARTLET
+p1597
+sg10
+g11
+sa(dp1598
+g6
+VI'll set up a call with Bill Parsons.
+p1599
+sg8
+VLEO
+p1600
+sg10
+g11
+sa(dp1601
+g6
+VIt'd be nice to roll back that tide, wouldn't it?
+p1602
+sg8
+VBARTLET
+p1603
+sg10
+g11
+sa(dp1604
+g6
+VYes, Mr. President, it sure would.
+p1605
+sg8
+VJOSH
+p1606
+sg10
+g11
+sa(dp1607
+g6
+VI need you to do me a favor.
+p1608
+sg8
+VC.J.
+p1609
+sg10
+g11
+sa(dp1610
+g6
+VWhat's that?
+p1611
+sg8
+VCAROL
+p1612
+sg10
+g11
+sa(dp1613
+g6
+VStart preparing a statement.
+p1614
+sg8
+VC.J.
+p1615
+sg10
+g11
+sa(dp1616
+g6
+VSaying what?
+p1617
+sg8
+VCAROL
+p1618
+sg10
+g11
+sa(dp1619
+g6
+VRetracting everything I'm about to say to the room.
+p1620
+sg8
+VC.J.
+p1621
+sg10
+g11
+sa(dp1622
+g6
+VGood afternoon, folks. I have to apologize. The pre-Brussels briefing won't start for a half an hour or so.
+p1623
+sg8
+VC.J.
+p1624
+sg10
+g11
+sa(dp1625
+g6
+VWhat happened in here?
+p1626
+sg8
+VBROCK
+p1627
+sg10
+g11
+sa(dp1628
+g6
+VWe're making adjustments to your seating assignments.
+p1629
+sg8
+VC.J.
+p1630
+sg10
+g11
+sa(dp1631
+g6
+VAdjustments?
+p1632
+sg8
+VCHRIS
+p1633
+sg10
+g11
+sa(dp1634
+g6
+VYou're all aware of the FCC's new rule on media ownership. As you've reported, they're a big victory for the little guy - if by little, of course, we mean trans-national multi-billion-dollar conglomerates. And in that spirit of runaway populism, the White House Briefing Room will now offer just one seat per corporate owner.
+p1635
+sg8
+VC.J.
+p1636
+sg10
+g11
+sa(dp1637
+g6
+VOne seat for MertMedia, one for GE, one for Disney, Viacomm, News Corps, Clear Channel, Tribune. I guess you'll have to flip a coin to see who gets to sit.
+p1638
+sg8
+VC.J.
+p1639
+sg10
+g11
+sa(dp1640
+g6
+VWhy are you doing this?
+p1641
+sg8
+VBROCK
+p1642
+sg10
+g11
+sa(dp1643
+g6
+VBecause if America's choices are going to be restricted, so are yours, and everone's gonna know it. Brock, see if your business desk will lend you a folding chair. I'll see seven of you in half an hour.
+p1644
+sg8
+VC.J.
+p1645
+sg10
+g11
+sa(dp1646
+g6
+VThey're still in your office.
+p1647
+sg8
+VDONNA
+p1648
+sg10
+g11
+sa(dp1649
+g6
+VYeah.
+p1650
+sg8
+VJOSH
+p1651
+sg10
+g11
+sa(dp1652
+g6
+VWhat are they doing?
+p1653
+sg8
+VDONNA
+p1654
+sg10
+g11
+sa(dp1655
+g6
+VWaiting by the sea.
+p1656
+sg8
+VJOSH
+p1657
+sg10
+g11
+sa(dp1658
+g6
+VWhat's this?
+p1659
+sg8
+VDONNA
+p1660
+sg10
+g11
+sa(dp1661
+g6
+VYour diplomatic passport.
+p1662
+sg8
+VJOSH
+p1663
+sg10
+g11
+sa(dp1664
+g6
+VYou got me a seat on the...
+p1665
+sg8
+VDONNA
+p1666
+sg10
+g11
+sa(dp1667
+g6
+VNo. I even had to give mine to McKenna. I'm going on the press plane.
+p1668
+sg8
+VJOSH
+p1669
+sg10
+g11
+sa(dp1670
+g6
+VWell, you tried.
+p1671
+sg8
+VDONNA
+p1672
+sg10
+g15
+sa(dp1673
+g6
+VYou're going on a CODEL to the Middle East with Fitzwallace and Andy. No Presidential hand-holding. You're going to see what's going on and brief me and Toby about it. What I did wrong wasn't breaking my word. It was making a promise I couldn't keep in the first place.
+p1674
+sg8
+VJOSH
+p1675
+sg10
+g11
+sa(dp1676
+g6
+VI understand we lost about 39.37% of the seats in the Briefing Room.
+p1677
+sg8
+VLEO
+p1678
+sg10
+g11
+sa(dp1679
+g6
+VI've retracted that and I'm having the government bill me for the carpentry.
+p1680
+sg8
+VC.J.
+p1681
+sg10
+g11
+sa(dp1682
+g6
+VI know you have a two-by-four to pick with the FCC.
+p1683
+sg8
+VLEO
+p1684
+sg10
+g11
+sa(dp1685
+g6
+VYou said I could use the Briefing Room.
+p1686
+sg8
+VC.J.
+p1687
+sg10
+g11
+sa(dp1688
+g6
+VI did.
+p1689
+sg8
+VLEO
+p1690
+sg10
+g11
+sa(dp1691
+g6
+VOur own press guidance said it was a victory for the little guy when it was an amnesty for monopolists. And when do we stop rewarding it?
+p1692
+sg8
+VC.J.
+p1693
+sg10
+g11
+sa(dp1694
+g6
+VCan I ask you a question?
+p1695
+sg8
+VLEO
+p1696
+sg10
+g11
+sa(dp1697
+g6
+VSure.
+p1698
+sg8
+VC.J.
+p1699
+sg10
+g11
+sa(dp1700
+g6
+VWho's the little guy? I'm serious. Who is he? Do you know of any poor, struggling station owners, some guy wearing hand-me-downs, tying antennas to a pick-up truck?
+p1701
+sg8
+VLEO
+p1702
+sg10
+g11
+sa(dp1703
+g6
+VNo.
+p1704
+sg8
+VC.J.
+p1705
+sg10
+g11
+sa(dp1706
+g6
+VEven the smallest of stations earn tens of millions. Some of them have no news programming at all. We're supposed to upend the market place on principle alone?
+p1707
+sg8
+VLEO
+p1708
+sg10
+g11
+sa(dp1709
+g6
+VPeople need to know what's going on. They need to know big changes are happening when nobody's looking.
+p1710
+sg8
+VC.J.
+p1711
+sg10
+g11
+sa(dp1712
+g6
+VThat doesn't mean we can stop them.
+p1713
+sg8
+VLEO
+p1714
+sg10
+g11
+sa(dp1715
+g6
+VIt doesn't mean we go down without a fight, either.
+p1716
+sg8
+VC.J.
+p1717
+sg10
+g11
+sa(dp1718
+g6
+VSend me that bill. I'd like to pay for that carpentry myself.
+p1719
+sg8
+VLEO
+p1720
+sg10
+g11
+sa(dp1721
+g6
+VThanks, but it was worth ever nickel.
+p1722
+sg8
+VC.J.
+p1723
+sg10
+g11
+sa(dp1724
+g6
+VThe staff vans are leaving.
+p1725
+sg8
+VDONNA
+p1726
+sg10
+g11
+sa(dp1727
+g6
+VTen years ago, I worked for this Senate candidate. He had this idea that health care, pensions, even vacation time ought to be portable, that it should follow you from job to job, 'cause everyone was gonna work 15 jobs in a lifetime. Might as well fly in the teeth of it. And we talked him out of it. We told him he was scaring the bejeesus out of people. Who wants to know about 15 jobs? Maybe we should have done that, I don't know.
+p1728
+sg8
+VJOSH
+p1729
+sg10
+g11
+sa(dp1730
+g6
+VWhat do you know, Mr. Lyman?
+p1731
+sg8
+VWOMAN
+p1732
+sg10
+g11
+sa(dp1733
+g6
+VWe can't save your jobs. We are gonna create more in the long run, but we can't save your jobs. It's the short run we gotta figure out. The world's moving faster, we can't stop it. I wish we could. We are gonna do more to prepare you. We have to.
+p1734
+sg8
+VJOSH
+p1735
+sg10
+g11
+sa(dp1736
+g6
+VIs that a promise?
+p1737
+sg8
+VWOMAN
+p1738
+sg10
+g11
+sa(dp1739
+g6
+VNo, but we're gonna try.
+p1740
+sg8
+VJOSH
+p1741
+sg10
+g11
+sas.

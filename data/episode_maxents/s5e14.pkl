@@ -1,0 +1,4202 @@
+(dp0
+S'season'
+p1
+I5
+sS'episode'
+p2
+I14
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VTango Outlaw 1-6, Raven One approaching An Khe.
+p7
+sS'character'
+p8
+VPILOT
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VRoger One. Operation is in heavy contact at Bravo Romeo 945374. They need FAC ASAP. Fox Mike 45.8.
+p13
+sg8
+VPILOT
+p14
+sg10
+g11
+sa(dp15
+g6
+VComing up on your wing, lead. You drawing targets?
+p16
+sg8
+VPILOT
+p17
+sg10
+g11
+sa(dp18
+g6
+VRoger, two. First drop's just beyond the tree line.
+p19
+sg8
+VPILOT
+p20
+sg10
+g11
+sa(dp21
+g6
+VI've got it.
+p22
+sg8
+VPILOT
+p23
+sg10
+S'positive'
+p24
+sa(dp25
+g6
+VKeep up your speed. Don't stop.
+p26
+sg8
+VPILOT
+p27
+sg10
+g11
+sa(dp28
+g6
+VThey just salvoed.
+p29
+sg8
+VPILOT
+p30
+sg10
+g11
+sa(dp31
+g6
+VLocked on target.
+p32
+sg8
+VPILOT
+p33
+sg10
+g11
+sa(dp34
+g6
+VRaven two locked on target.
+p35
+sg8
+VPILOT
+p36
+sg10
+g11
+sa(dp37
+g6
+VWe've been hit.
+p38
+sg8
+VPILOT
+p39
+sg10
+g11
+sa(dp40
+g6
+VFire light's on. Can you see, two?
+p41
+sg8
+VPILOT
+p42
+sg10
+g11
+sa(dp43
+g6
+VClear off the wing. You've got two tanks near the fire.
+p44
+sg8
+VPILOT
+p45
+sg10
+g11
+sa(dp46
+g6
+VWe've lost hydraulics.
+p47
+sg8
+VPILOT
+p48
+sg10
+g11
+sa(dp49
+g6
+VSo, so he says, "That's my Mulligan." And I say, "But you've already taken your Mulligan." "Yeah," Kenny says, "but we're playing Texas rules."
+p50
+sg8
+VLEO
+p51
+sg10
+g11
+sa(dp52
+g6
+VOkay, okay, let's try to forget for a moment his success in the private sector creating jobs and generating enormous tax revenues the President and I get to fool around with. And let's talk about his commitment to his community; Chairman of the Board of University Medical Center, the Opera Society and Symphony, although I suspect the opera thing is more Sally. CEO and Chairman of Mueller-Wright Aeronautics and this year's Chicago Business Conference Humanitarian of the Year. The finest man that I have ever had the great privilege to call my friend, your own Kenneth Sean O'Neal.
+p53
+sg8
+VLEO
+p54
+sg10
+g11
+sa(dp55
+g6
+VI wouldn't have missed it for the world. How are Beth and Sandy?
+p56
+sg8
+VLEO
+p57
+sg10
+g11
+sa(dp58
+g6
+VBeth's expecting again, and Sandy is Sandy.
+p59
+sg8
+VSALLY
+p60
+sg10
+g11
+sa(dp61
+g6
+VHow's Ramses coming along?
+p62
+sg8
+VLEO
+p63
+sg10
+g11
+sa(dp64
+g6
+VIf I'm not, I'll make sure I will be. You want me to place a call?
+p65
+sg8
+VLEO
+p66
+sg10
+g11
+sa(dp67
+g6
+VCongratulations, Kenny.
+p68
+sg8
+VLEO
+p69
+sg10
+g11
+sa(dp70
+g6
+VSaving it from democracy's more what it feels like. I'll see you on Thursday.
+p71
+sg8
+VLEO
+p72
+sg10
+g11
+sa(dp73
+g6
+VBye now.
+p74
+sg8
+VSALLY
+p75
+sg10
+g11
+sa(dp76
+g6
+VI don't need a portrait.
+p77
+sg8
+VBARTLET
+p78
+sg10
+g11
+sa(dp79
+g6
+VOf course you do.
+p80
+sg8
+VABBY
+p81
+sg10
+g11
+sa(dp82
+g6
+VWhat, me with my Irish Wolfhound gazing with portent out over the Potomac?
+p83
+sg8
+VBARTLET
+p84
+sg10
+g11
+sa(dp85
+g6
+VYou don't have an Irish Wolfhound.
+p86
+sg8
+VABBY
+p87
+sg10
+g11
+sa(dp88
+g6
+VMy point exactly.
+p89
+sg8
+VBARTLET
+p90
+sg10
+g11
+sa(dp91
+g6
+V[into phone] Yeah. ... Sure, send him in.
+p92
+sg8
+VBARTLET
+p93
+sg10
+g11
+sa(dp94
+g6
+VCharlie. And when am I supposed to find time to sit for some cut-rate Ruebens while he angles me just so to catch the late afternoon light?
+p95
+sg8
+VBARTLET
+p96
+sg10
+g11
+sa(dp97
+g6
+VYou do know it's not a nude, right?
+p98
+sg8
+VABBY
+p99
+sg10
+g11
+sa(dp100
+g6
+VExcuse me, Mr. President. Mrs. Bartlet, sorry to bother you.
+p101
+sg8
+VCHARLIE
+p102
+sg10
+g11
+sa(dp103
+g6
+VOh, no. Come on in, bring your jammies. We're about to start the pillow fight.
+p104
+sg8
+VABBY
+p105
+sg10
+g11
+sa(dp106
+g6
+VThe General's waiting outside.
+p107
+sg8
+VCHARLIE
+p108
+sg10
+g11
+sa(dp109
+g6
+VWhy not invite him in, too? I'll pop some popcorn, we'll watch Patton on cable.
+p110
+sg8
+VABBY
+p111
+sg10
+g11
+sa(dp112
+g6
+VSorry to disturb you, sir.
+p113
+sg8
+VALEXANDER
+p114
+sg10
+g11
+sa(dp115
+g6
+VWhat's happened?
+p116
+sg8
+VBARTLET
+p117
+sg10
+g11
+sa(dp118
+g6
+VA Navy E-2 Hawkeye providing command and control for the Carl Vinsen Carrier Battle Group went down in the Sea of Japan.
+p119
+sg8
+VALEXANDER
+p120
+sg10
+g11
+sa(dp121
+g6
+VAny survivors?
+p122
+sg8
+VBARTLET
+p123
+sg10
+g11
+sa(dp124
+g6
+VYes, sir. We believe so. We're picking up signals from four of their five GPS locator beacons.
+p125
+sg8
+VALEXANDER
+p126
+sg10
+g11
+sa(dp127
+g6
+VSo we got get them.
+p128
+sg8
+VBARTLET
+p129
+sg10
+g11
+sa(dp130
+g6
+VThey may be difficult to retrieve in their current location.
+p131
+sg8
+VALEXANDER
+p132
+sg10
+g11
+sa(dp133
+g6
+VWhere are they?
+p134
+sg8
+VBARTLET
+p135
+sg10
+S'negative'
+p136
+sa(dp137
+g6
+VSomewhere north of Kimch'ack, 300 kilometers northeast of P'yongyang, in the Republic of North Korea.
+p138
+sg8
+VALEXANDER
+p139
+sg10
+g11
+sa(dp140
+g6
+VHow was Chicago?
+p141
+sg8
+VBARTLET
+p142
+sg10
+g11
+sa(dp143
+g6
+VQuick. Where are we?
+p144
+sg8
+VLEO
+p145
+sg10
+g11
+sa(dp146
+g6
+VAn E-2C Hawkeye was being harassed by two North Korean MiGs over the Sea of Japan. The MiGs had made two non-firing passes, one less than ten feet off his wing.
+p147
+sg8
+VALEXANDER
+p148
+sg10
+g11
+sa(dp149
+g6
+VThe crew make it out?
+p150
+sg8
+VLEO
+p151
+sg10
+g11
+sa(dp152
+g6
+VWe've located four of the five crew members and identified two large pieces of wreckage a mile off the coast.
+p153
+sg8
+VALEXANDER
+p154
+sg10
+g11
+sa(dp155
+g6
+VOur people are in the water?
+p156
+sg8
+VLEO
+p157
+sg10
+g11
+sa(dp158
+g6
+VIn North Korea.
+p159
+sg8
+VLEO
+p160
+sg10
+g11
+sa(dp161
+g6
+VWhat will the crew do?
+p162
+sg8
+VBARTLET
+p163
+sg10
+g11
+sa(dp164
+g6
+VLay low, stay out of sight, wait for us to come get them.
+p165
+sg8
+VLEO
+p166
+sg10
+g11
+sa(dp167
+g6
+VWe can't go get them. Sending a Special Forces covert retrieval team into North Korea will be seen as an act of war.
+p168
+sg8
+VBARROW
+p169
+sg10
+g11
+sa(dp170
+g6
+VWe're still at war with North Korea. We never signed an armistice.
+p171
+sg8
+VLEO
+p172
+sg10
+g11
+sa(dp173
+g6
+VIf they capture our people, they'll be held as POWs. Or worse, they'll deny they even have them.
+p174
+sg8
+VALEXANDER
+p175
+sg10
+g11
+sa(dp176
+g6
+VWe can negotiate for their safe return.
+p177
+sg8
+VBARROW
+p178
+sg10
+g11
+sa(dp179
+g6
+VCan you guarantee they'll negotiate?
+p180
+sg8
+VALEXANDER
+p181
+sg10
+g11
+sa(dp182
+g6
+VCan you guarantee you can go get them without starting another war?
+p183
+sg8
+VBARROW
+p184
+sg10
+g11
+sa(dp185
+g6
+VDo we have any way of confirming that they're still alive?
+p186
+sg8
+VBARTLET
+p187
+sg10
+g11
+sa(dp188
+g6
+VThey were in the water, now they're on land.
+p189
+sg8
+VMCGILL
+p190
+sg10
+g11
+sa(dp191
+g6
+VWe have any keyhole satellites currently in position?
+p192
+sg8
+VLEO
+p193
+sg10
+g11
+sa(dp194
+g6
+VWe're scrambling reconnaissance out of Okinawa and Osan. Should be over the crash site in three hours.
+p195
+sg8
+VALEXANDER
+p196
+sg10
+g11
+sa(dp197
+g6
+VCall me when you know.
+p198
+sg8
+VBARTLET
+p199
+sg10
+g24
+sa(dp200
+g6
+VThank you, sir.
+p201
+sg8
+VALL
+p202
+sg10
+g24
+sa(dp203
+g6
+VLast night's summaries, the daybook, press guidance from the NSC and the policy shops, State department cables. Legislative Affairs says a new amendment is moving through Ways and Means. Congressman Wendt wants a tax cut for stay-at-home moms.
+p204
+sg8
+VCAROL
+p205
+sg10
+g11
+sa(dp206
+g6
+VToo late to slip in incentives for stay-at-home Congressmen?
+p207
+sg8
+VC.J.
+p208
+sg10
+g11
+sa(dp209
+g6
+VThe President's flying to Wendt's district in South Carolina on Saturday. They want you to read the guidance before the gaggle. Think it might come up.
+p210
+sg8
+VCAROL
+p211
+sg10
+g11
+sa(dp212
+g6
+VReally? You think?
+p213
+sg8
+VC.J.
+p214
+sg10
+g11
+sa(dp215
+g6
+VSo, tomorrow's the big day?
+p216
+sg8
+VCAROL
+p217
+sg10
+g11
+sa(dp218
+g6
+VWhat?
+p219
+sg8
+VC.J.
+p220
+sg10
+g11
+sa(dp221
+g6
+VMystery Ben.
+p222
+sg8
+VCAROL
+p223
+sg10
+g11
+sa(dp224
+g6
+VWhat about him?
+p225
+sg8
+VC.J.
+p226
+sg10
+g11
+sa(dp227
+g6
+VHe's coming by to say hello.
+p228
+sg8
+VCAROL
+p229
+sg10
+g11
+sa(dp230
+g6
+VNo, he isn't.
+p231
+sg8
+VC.J.
+p232
+sg10
+g11
+sa(dp233
+g6
+VHe's in town and he called.
+p234
+sg8
+VCAROL
+p235
+sg10
+g11
+sa(dp236
+g6
+VAnd you gave him an appointment?
+p237
+sg8
+VC.J.
+p238
+sg10
+g11
+sa(dp239
+g6
+VHe seemed nice.
+p240
+sg8
+VCAROL
+p241
+sg10
+g11
+sa(dp242
+g6
+VHe is nice. Very nice. Also very married.
+p243
+sg8
+VC.J.
+p244
+sg10
+g11
+sa(dp245
+g6
+VNot anymore.
+p246
+sg8
+VCAROL
+p247
+sg10
+g11
+sa(dp248
+g6
+VHe and Katie split up?
+p249
+sg8
+VC.J.
+p250
+sg10
+g136
+sa(dp251
+g6
+VKatie's living in Portland with an orthodontist.
+p252
+sg8
+VCAROL
+p253
+sg10
+g11
+sa(dp254
+g6
+VReally?
+p255
+sg8
+VC.J.
+p256
+sg10
+g11
+sa(dp257
+g6
+VAnd Toby and Josh are in your office.
+p258
+sg8
+VCAROL
+p259
+sg10
+g11
+sa(dp260
+g6
+VWhat do they want?
+p261
+sg8
+VC.J.
+p262
+sg10
+g11
+sa(dp263
+g6
+VTo make fun of you, I think.
+p264
+sg8
+VCAROL
+p265
+sg10
+g11
+sa(dp266
+g6
+VAnd you let them in?
+p267
+sg8
+VC.J.
+p268
+sg10
+g11
+sa(dp269
+g6
+VAnd got them coffee.
+p270
+sg8
+VCAROL
+p271
+sg10
+g11
+sa(dp272
+g6
+VWe've got a problem with the South Carolina trip. Congressman Wendt, who single-handedly blocked our tax credit to expand child care for working families, is attempting to bind the feet of your entire gender with his paleo-chauvinist stay-at-home tax cut.
+p273
+sg8
+VJOSH
+p274
+sg10
+g11
+sa(dp275
+g6
+VI'm going to read the bill and supporting materials now.
+p276
+sg8
+VC.J.
+p277
+sg10
+g11
+sa(dp278
+g6
+VWhat if you just kick up a cloud of dust about the revenue impact and mention he's the Darth Vader of child care?
+p279
+sg8
+VJOSH
+p280
+sg10
+g11
+sa(dp281
+g6
+VWhat if I take a minute to read the bill and supporting materials?
+p282
+sg8
+VC.J.
+p283
+sg10
+g11
+sa(dp284
+g6
+VWe're already rolling over on the tax side. The indexing provision...
+p285
+sg8
+VJOSH
+p286
+sg10
+g11
+sa(dp287
+g6
+VCan I please take a moment to read the bill and supporting materials?
+p288
+sg8
+VC.J.
+p289
+sg10
+g11
+sa(dp290
+g6
+VOkay, what?
+p291
+sg8
+VC.J.
+p292
+sg10
+g11
+sa(dp293
+g6
+VWe think you should go on The Taylor Reid Show.
+p294
+sg8
+VTOBY
+p295
+sg10
+g11
+sa(dp296
+g6
+VThe chicken thing has legs.
+p297
+sg8
+VJOSH
+p298
+sg10
+g11
+sa(dp299
+g6
+VWith those pointy little toes.
+p300
+sg8
+VTOBY
+p301
+sg10
+g11
+sa(dp302
+g6
+VNo.
+p303
+sg8
+VC.J.
+p304
+sg10
+g11
+sa(dp305
+g6
+VThe Washington Wire has Tyson Foods offering you a lifetime supply of wings and thighs if you'll do a print ad for whole fryers.
+p306
+sg8
+VJOSH
+p307
+sg10
+g11
+sa(dp308
+g6
+VAnd the Reliable Source notes that the Oval Room...
+p309
+sg8
+VTOBY
+p310
+sg10
+g11
+sa(dp311
+g6
+VYour favorite restaurant.
+p312
+sg8
+VJOSH
+p313
+sg10
+g11
+sa(dp314
+g6
+V... has a new menu item - an ungodly combination of chicken, avocado, and poached egg called "The C.J. Cregg Egg."
+p315
+sg8
+VTOBY
+p316
+sg10
+g11
+sa(dp317
+g6
+VYou're enjoying this, aren't you?
+p318
+sg8
+VC.J.
+p319
+sg10
+g11
+sa(dp320
+g6
+VGo on the show, call his bluff, show you have a sense of humor.
+p321
+sg8
+VJOSH
+p322
+sg10
+g11
+sa(dp323
+g6
+VYou could wear a chicken suit.
+p324
+sg8
+VTOBY
+p325
+sg10
+g11
+sa(dp326
+g6
+VTake him even semi-seriously, he'll lay off and find another cluck to pluck.
+p327
+sg8
+VJOSH
+p328
+sg10
+g11
+sa(dp329
+g6
+VA chicken suit?
+p330
+sg8
+VC.J.
+p331
+sg10
+g11
+sa(dp332
+g6
+VJosh, Leo's looking for you.
+p333
+sg8
+VWILL
+p334
+sg10
+g11
+sa(dp335
+g6
+VHey you should read the Wendt Amendment.
+p336
+sg8
+VWILL
+p337
+sg10
+g11
+sa(dp338
+g6
+VI'm trying to read it now.
+p339
+sg8
+VC.J.
+p340
+sg10
+g11
+sa(dp341
+g6
+VIt's pretty narrowly drawn, actually. Not the worst thing. She see it last night?
+p342
+sg8
+VWILL
+p343
+sg10
+g11
+sa(dp344
+g6
+VSee what?
+p345
+sg8
+VC.J.
+p346
+sg10
+g11
+sa(dp347
+g6
+VShe doesn't know?
+p348
+sg8
+VWILL
+p349
+sg10
+g11
+sa(dp350
+g6
+VKnow what?
+p351
+sg8
+VC.J.
+p352
+sg10
+g11
+sa(dp353
+g6
+VTaylor Reid was talking about your spin on the decline of manufacturing jobs and he said...
+p354
+sg8
+VJOSH
+p355
+sg10
+g11
+sa(dp356
+g6
+V"The tall lady's back to telling tall tales."
+p357
+sg8
+VTOBY
+p358
+sg10
+g11
+sa(dp359
+g6
+VThe tall lady?
+p360
+sg8
+VC.J.
+p361
+sg10
+g11
+sa(dp362
+g6
+VCarol, call the Taylor Reid Show, book me on the next available slot. [to Toby] I'm gonna reach down and rip off his puny little face.
+p363
+sg8
+VC.J.
+p364
+sg10
+g11
+sa(dp365
+g6
+VYou're already here.
+p366
+sg8
+VMARGARET
+p367
+sg10
+g11
+sa(dp368
+g6
+VI came in straight from Dulles.
+p369
+sg8
+VLEO
+p370
+sg10
+g11
+sa(dp371
+g6
+VAt 2:00 in the morning?
+p372
+sg8
+VMARGARET
+p373
+sg10
+g11
+sa(dp374
+g6
+VI need a clean shirt. What happened to the one I brought in the other day?
+p375
+sg8
+VLEO
+p376
+sg10
+g11
+sa(dp377
+g6
+VIt had a hole in the sleeve, so I took it home.
+p378
+sg8
+VMARGARET
+p379
+sg10
+g11
+sa(dp380
+g6
+VTo do what with it?
+p381
+sg8
+VLEO
+p382
+sg10
+g11
+sa(dp383
+g6
+VSew up the hole.
+p384
+sg8
+VMARGARET
+p385
+sg10
+g11
+sa(dp386
+g6
+VNow you're mending my clothes?
+p387
+sg8
+VLEO
+p388
+sg10
+g11
+sa(dp389
+g6
+VYou want some breakfast?
+p390
+sg8
+VMARGARET
+p391
+sg10
+g11
+sa(dp392
+g6
+VI want a clean shirt.
+p393
+sg8
+VLEO
+p394
+sg10
+g11
+sa(dp395
+g6
+VYou looking for me?
+p396
+sg8
+VJOSH
+p397
+sg10
+g11
+sa(dp398
+g6
+VYou still on good terms with Hunt?
+p399
+sg8
+VLEO
+p400
+sg10
+g11
+sa(dp401
+g6
+VI don't think the Senator's going to invite me down to his ranch to lasso a bull any time soon, but he returns my calls.
+p402
+sg8
+VJOSH
+p403
+sg10
+g11
+sa(dp404
+g6
+VThe LC-104 Ramses project.
+p405
+sg8
+VLEO
+p406
+sg10
+g11
+sa(dp407
+g6
+VThey need you in the Sit Room.
+p408
+sg8
+VMARGARET
+p409
+sg10
+g11
+sa(dp410
+g6
+VThe chopper Mueller-Wright's building for the Army?
+p411
+sg8
+VJOSH
+p412
+sg10
+g11
+sa(dp413
+g6
+VHunt's bottling it up in committee.
+p414
+sg8
+VLEO
+p415
+sg10
+g11
+sa(dp416
+g6
+VProbably because it's being built in 16 different states, none of them named Arizona.
+p417
+sg8
+VJOSH
+p418
+sg10
+g11
+sa(dp419
+g6
+VFind out what's going on with the Ramses thing, will you?
+p420
+sg8
+VLEO
+p421
+sg10
+g11
+sa(dp422
+g6
+VWendt has stuck on another one of his "moving America back to the Mamie Eisenhower Era" amendments.
+p423
+sg8
+VJOSH
+p424
+sg10
+g11
+sa(dp425
+g6
+VWhat is it this time?
+p426
+sg8
+VLEO
+p427
+sg10
+g11
+sa(dp428
+g6
+VTax cuts for stay-at-home moms.
+p429
+sg8
+VJOSH
+p430
+sg10
+g11
+sa(dp431
+g6
+VThe President's headed down to his district on Saturday.
+p432
+sg8
+VLEO
+p433
+sg10
+g11
+sa(dp434
+g6
+VYeah, I don't think the timing's accidental.
+p435
+sg8
+VJOSH
+p436
+sg10
+g11
+sa(dp437
+g6
+VOkay, pull together a briefing, and I'll get you a few minutes with the President.
+p438
+sg8
+VLEO
+p439
+sg10
+g11
+sa(dp440
+g6
+VDonna! Can you see if Senator Hunt's office can find me a couple minutes this morning? Is Jimmy Olsen with us today?
+p441
+sg8
+VJOSH
+p442
+sg10
+g11
+sa(dp443
+g6
+VRyan!
+p444
+sg8
+VDONNA
+p445
+sg10
+g11
+sa(dp446
+g6
+VYou know who Sam Wendt is?
+p447
+sg8
+VJOSH
+p448
+sg10
+g11
+sa(dp449
+g6
+VDemocrat from the Oregon Fifth?
+p450
+sg8
+VRYAN
+p451
+sg10
+g11
+sa(dp452
+g6
+VRepublican from the South Carolina Second, but you were close. He introduced an amendment to use the tax code to subsidize stay-at-home moms.
+p453
+sg8
+VJOSH
+p454
+sg10
+g11
+sa(dp455
+g6
+VThat's interesting.
+p456
+sg8
+VRYAN
+p457
+sg10
+g11
+sa(dp458
+g6
+VNo, not really. He kills child care proposals, and tries to get us to print the Ten Commandments on the back of the two-dollar bill.
+p459
+sg8
+VJOSH
+p460
+sg10
+g11
+sa(dp461
+g6
+VBe nice to have them wallet-sized.
+p462
+sg8
+VRYAN
+p463
+sg10
+g11
+sa(dp464
+g6
+VRead the different drafts of the amendment. Show how many more women would have benefited from the President's child care tax credit than from Wendt's stay-at-home proposal. Treasury, JTC scoring, and a year-by-year impact on the deficit for a Presidential briefing tomorrow.
+p465
+sg8
+VJOSH
+p466
+sg10
+g11
+sa(dp467
+g6
+VI'm going to brief the President?
+p468
+sg8
+VRYAN
+p469
+sg10
+g11
+sa(dp470
+g6
+VNo, I'm going to brief the President and take credit for all your hard work, but you get to come.
+p471
+sg8
+VJOSH
+p472
+sg10
+g11
+sa(dp473
+g6
+VGreat. Sure, tomorrow. Uh, JTC is...?
+p474
+sg8
+VRYAN
+p475
+sg10
+g11
+sa(dp476
+g6
+VJoint Tax Committee.
+p477
+sg8
+VDONNA
+p478
+sg10
+g11
+sa(dp479
+g6
+VWhat? It's scut work.
+p480
+sg8
+VJOSH
+p481
+sg10
+g11
+sa(dp482
+g6
+VPresidential scut work.
+p483
+sg8
+VDONNA
+p484
+sg10
+g11
+sa(dp485
+g6
+VYou want to spend the day reading mind-numbing spreadsheets?
+p486
+sg8
+VJOSH
+p487
+sg10
+g11
+sa(dp488
+g6
+VMind-numbing Presidential spreadsheets.
+p489
+sg8
+VDONNA
+p490
+sg10
+g11
+sa(dp491
+g6
+VWell, channel your Presidential disappointment into getting me five minutes with Matt Hunt, okay? Please?
+p492
+sg8
+VJOSH
+p493
+sg10
+g11
+sa(dp494
+g6
+VThere's no activity of any kind in the crew's location. No vehicles, no movement or troops or equipment. The Hook 112 receivers indicate our people are in this densely wooded area here. There is, however, extraordinary activity out to sea in the general vicinity of the crash site.
+p495
+sg8
+VALEXANDER
+p496
+sg10
+g11
+sa(dp497
+g6
+VHow long before they figure out our guys made it to shore?
+p498
+sg8
+VLEO
+p499
+sg10
+g136
+sa(dp500
+g6
+VIt's hard to say. Right now, it looks as if they're assuming no one got out.
+p501
+sg8
+VALEXANDER
+p502
+sg10
+g11
+sa(dp503
+g6
+VWhat's the plan, Admiral?
+p504
+sg8
+VBARTLET
+p505
+sg10
+g11
+sa(dp506
+g6
+VA four-man SEAL team will HALO drop over the crash site under cover of darkness.
+p507
+sg8
+VMCGILL
+p508
+sg10
+g11
+sa(dp509
+g6
+VHALO drop?
+p510
+sg8
+VBARTLET
+p511
+sg10
+g11
+sa(dp512
+g6
+VThey jump out at 40,000 feet, deploy their chutes at 2,000 feet.
+p513
+sg8
+VLEO
+p514
+sg10
+g11
+sa(dp515
+g6
+VThey'll gather the crew, get them into a Zodiac, and head back out to seas 12 miles due east where they'll be met by a Super Sea Stallion rescue chopper. The Sea Stallion will then fly them east 200 miles to the USS Cowpens.
+p516
+sg8
+VMCGILL
+p517
+sg10
+g11
+sa(dp518
+g6
+VSo, your SEAL team, they'll be armed?
+p519
+sg8
+VBARROW
+p520
+sg10
+g11
+sa(dp521
+g6
+VYes, sir.
+p522
+sg8
+VMCGILL
+p523
+sg10
+g24
+sa(dp524
+g6
+VAnd if they run into resistance from the North Koreans, they'll start shooting?
+p525
+sg8
+VBARROW
+p526
+sg10
+g11
+sa(dp527
+g6
+VYou want them to drop in unarmed?
+p528
+sg8
+VALEXANDER
+p529
+sg10
+g11
+sa(dp530
+g6
+VMr. President, if the North Koreans discover armed American soldiers on Korean soil...
+p531
+sg8
+VBARROW
+p532
+sg10
+g11
+sa(dp533
+g6
+VWe go get 'em.
+p534
+sg8
+VBARTLET
+p535
+sg10
+g11
+sa(dp536
+g6
+VMr. President, there are other...
+p537
+sg8
+VBARROW
+p538
+sg10
+g11
+sa(dp539
+g6
+VWe don't leave our people in harm's way, Mr. Barrow. We bring 'em home.
+p540
+sg8
+VLEO
+p541
+sg10
+g11
+sa(dp542
+g6
+VAdmiral, go get our boys.
+p543
+sg8
+VBARTLET
+p544
+sg10
+g11
+sa(dp545
+g6
+VThank you, Mr. President.
+p546
+sg8
+VALL
+p547
+sg10
+g24
+sa(dp548
+g6
+VThe senator will see you now Mr. Lyman.
+p549
+sg8
+VASSISTANT
+p550
+sg10
+g11
+sa(dp551
+g6
+VThank you for seeing me, Senator.
+p552
+sg8
+VJOSH
+p553
+sg10
+g11
+sa(dp554
+g6
+VAs the years go by, I want my sports with a little more leverage, like, say, a racquet.
+p555
+sg8
+VJOSH
+p556
+sg10
+g11
+sa(dp557
+g6
+VWell, I'm down at the club most mornings, 6:00 am sharp.
+p558
+sg8
+VHUNT
+p559
+sg10
+g24
+sa(dp560
+g6
+VI don't know if my ego could take another shellacking like last time.
+p561
+sg8
+VJOSH
+p562
+sg10
+g11
+sa(dp563
+g6
+VSo, what can I do for you?
+p564
+sg8
+VHUNT
+p565
+sg10
+g11
+sa(dp566
+g6
+VThe LC-104 Ramses Transport Chopper program. The DoD already approved the purchase.
+p567
+sg8
+VJOSH
+p568
+sg10
+g11
+sa(dp569
+g6
+VAt six billion. Now Mueller-Wright says it's going to cost ten.
+p570
+sg8
+VHUNT
+p571
+sg10
+g11
+sa(dp572
+g6
+VThe Army changed the order.
+p573
+sg8
+VJOSH
+p574
+sg10
+g11
+sa(dp575
+g6
+VThe upgrades are all subcontractor parts, and the reactive armor was a requirement in the initial RFP.
+p576
+sg8
+VHUNT
+p577
+sg10
+g11
+sa(dp578
+g6
+VWell, the Army needs them, and they need them sooner, rather than later.
+p579
+sg8
+VJOSH
+p580
+sg10
+g11
+sa(dp581
+g6
+VYou going to lecture me on military preparedness, Josh?
+p582
+sg8
+VHUNT
+p583
+sg10
+g11
+sa(dp584
+g6
+VWhat branch of the service did you serve in? I've forgotten. Why are you here? Kenny O'Neal pick up the phone and call Leo?
+p585
+sg8
+VHUNT
+p586
+sg10
+g11
+sa(dp587
+g6
+VWhat's your real concern here, Senator? That none of the Ramses project subcontractors are from Arizona?
+p588
+sg8
+VJOSH
+p589
+sg10
+g11
+sa(dp590
+g6
+VYou tell Leo that the Armed Services Committee is going to exercise its oversight prerogative. Mr. O'Neal is just going to have to wait.
+p591
+sg8
+VHUNT
+p592
+sg10
+g11
+sa(dp593
+g6
+VI'm going to carve him into McNuggets.
+p594
+sg8
+VC.J.
+p595
+sg10
+g11
+sa(dp596
+g6
+VThey want you there by 11:45 for the noon segment. You're on the air for seven minutes, back by one, just in time to say hello to Ben.
+p597
+sg8
+VCAROL
+p598
+sg10
+g11
+sa(dp599
+g6
+VAsk Media Affairs to do a background on Reid's questioning style and a list of recurring topics.
+p600
+sg8
+VC.J.
+p601
+sg10
+g11
+sa(dp602
+g6
+VInterior's transferring Ben to DC. He's looking for advice on a place to live.
+p603
+sg8
+VCAROL
+p604
+sg10
+g11
+sa(dp605
+g6
+VExcuse me, I hope I'm not interrupting.
+p606
+sg8
+VABBEY
+p607
+sg10
+g11
+sa(dp608
+g6
+VOh, no ma'am. Come on in. Carol's just trying to get me excited about an old beau.
+p609
+sg8
+VC.J.
+p610
+sg10
+g11
+sa(dp611
+g6
+VHe's a Ranger.
+p612
+sg8
+VCAROL
+p613
+sg10
+g11
+sa(dp614
+g6
+VDashing.
+p615
+sg8
+VABBEY
+p616
+sg10
+g11
+sa(dp617
+g6
+VWorks with at-risk kids, too.
+p618
+sg8
+VCAROL
+p619
+sg10
+g11
+sa(dp620
+g6
+VSold.
+p621
+sg8
+VABBEY
+p622
+sg10
+g11
+sa(dp623
+g6
+VHow are you, Mrs. Bartlet?
+p624
+sg8
+VC.J.
+p625
+sg10
+g24
+sa(dp626
+g6
+VFine. I just wanted to give you a heads-up, in case anyone mentions it a press briefing. I'm going to start volunteering.
+p627
+sg8
+VABBEY
+p628
+sg10
+g11
+sa(dp629
+g6
+VVolunteering, ma'am?
+p630
+sg8
+VC.J.
+p631
+sg10
+g11
+sa(dp632
+g6
+VAt the Washington Free Clinic.
+p633
+sg8
+VABBEY
+p634
+sg10
+g11
+sa(dp635
+g6
+VYou're going to start practicing medicine again?
+p636
+sg8
+VC.J.
+p637
+sg10
+g11
+sa(dp638
+g6
+VI'll just be helping out a bit. I won't be doing any heart transplants.
+p639
+sg8
+VABBEY
+p640
+sg10
+g136
+sa(dp641
+g6
+VI'm sorry, ma'am. Are you licensed to practice medicine again?
+p642
+sg8
+VC.J.
+p643
+sg10
+g11
+sa(dp644
+g6
+VI voluntarily chose to stop practicing, C.J. And now I'm choosing to give a few underprivileged toddlers vaccinations. I never said I was hanging up my stethoscope for good.
+p645
+sg8
+VABBEY
+p646
+sg10
+g11
+sa(dp647
+g6
+VSee if Leo's available, and find out if Senator Canton's around.
+p648
+sg8
+VJOSH
+p649
+sg10
+g11
+sa(dp650
+g6
+VFor a call, or face-to-face?
+p651
+sg8
+VDONNA
+p652
+sg10
+g11
+sa(dp653
+g6
+VIt'll have to be a call. Canton's in Seattle, NAACP convention. What do you need Canton for?
+p654
+sg8
+VWILL
+p655
+sg10
+g11
+sa(dp656
+g6
+VHunt's threatening to bottle up the Ramses thing. I need a Democrat on Armed Services to run interference.
+p657
+sg8
+VJOSH
+p658
+sg10
+g11
+sa(dp659
+g6
+VI've been thinking about this Wendt amendment. Maybe we should give it another look.
+p660
+sg8
+VWILL
+p661
+sg10
+g11
+sa(dp662
+g6
+VTax credits for stay-at-home moms?
+p663
+sg8
+VJOSH
+p664
+sg10
+g11
+sa(dp665
+g6
+VMight not be such a bad thing.
+p666
+sg8
+VWILL
+p667
+sg10
+g11
+sa(dp668
+g6
+VFor the floor wax industry, maybe.
+p669
+sg8
+VJOSH
+p670
+sg10
+g11
+sa(dp671
+g6
+VWorking families are struggling. They need our help.
+p672
+sg8
+VWILL
+p673
+sg10
+g11
+sa(dp674
+g6
+VYou already auditioning one-liners for New Hampshire?
+p675
+sg8
+VJOSH
+p676
+sg10
+g11
+sa(dp677
+g6
+VI've been reading this Wendt stuff. It might not be such a bad thing.
+p678
+sg8
+VRYAN
+p679
+sg10
+g11
+sa(dp680
+g6
+VSee? What'd I tell you?
+p681
+sg8
+VWILL
+p682
+sg10
+g11
+sa(dp683
+g6
+VA-A major study Wendt commissioned of... 1,364 children showed a clear link between parents' dumping their kids in day care and an increase in hyperactivity, lack of discipline, and violent behaviour.
+p684
+sg8
+VRYAN
+p685
+sg10
+g11
+sa(dp686
+g6
+VCan I see that?
+p687
+sg8
+VWILL
+p688
+sg10
+g11
+sa(dp689
+g6
+VYou're saying Jeffrey Dahmer's only problem was day care?
+p690
+sg8
+VJOSH
+p691
+sg10
+g11
+sa(dp692
+g6
+VWe're always harping about the root causes of crime and violence.
+p693
+sg8
+VRYAN
+p694
+sg10
+g11
+sa(dp695
+g6
+VI work for the federal government. I-I've never heard of Wendt's so-called "Major federal study."
+p696
+sg8
+VJOSH
+p697
+sg10
+g11
+sa(dp698
+g6
+VMaybe that's because all TV news programs are produced by mothers who dump their kids in day care.
+p699
+sg8
+VWILL
+p700
+sg10
+g11
+sa(dp701
+g6
+V'Kay, I think we need more women in the workforce, specifically to keep you two out.
+p702
+sg8
+VJOSH
+p703
+sg10
+g11
+sa(dp704
+g6
+VThe MC-130 is approaching the drop zone at 48,000 feet. They'll do a rapid descend to 38,000 for the drop.
+p705
+sg8
+VMCGILL
+p706
+sg10
+g11
+sa(dp707
+g6
+VThat's the pilot confirming the North Korean lights below him.
+p708
+sg8
+VMCGILL
+p709
+sg10
+g11
+sa(dp710
+g6
+VThey're waiting for your go, sir.
+p711
+sg8
+VALEXANDER
+p712
+sg10
+g11
+sa(dp713
+g6
+VThat's affirmative.
+p714
+sg8
+VMCGILL
+p715
+sg10
+g11
+sa(dp716
+g6
+VI think it's broken. Oh! You got to go. I'll be okay.
+p717
+sg8
+VLEO
+p718
+sg10
+g11
+sa(dp719
+g6
+VIt's a couple miles. You can't be dragging me all over the jungle.
+p720
+sg8
+VLEO
+p721
+sg10
+g11
+sa(dp722
+g6
+VYou'll never make it with me along.
+p723
+sg8
+VLEO
+p724
+sg10
+g11
+sa(dp725
+g6
+VLeo? You got a minute?
+p726
+sg8
+VJOSH
+p727
+sg10
+g11
+sa(dp728
+g6
+VYeah, sure.
+p729
+sg8
+VLEO
+p730
+sg10
+g136
+sa(dp731
+g6
+VHunt isn't going to back off.
+p732
+sg8
+VJOSH
+p733
+sg10
+g11
+sa(dp734
+g6
+VWhat's his problem?
+p735
+sg8
+VLEO
+p736
+sg10
+g11
+sa(dp737
+g6
+VHe implied you had me inquiring on behalf of Ken O'Neal.
+p738
+sg8
+VJOSH
+p739
+sg10
+g11
+sa(dp740
+g6
+VI'll call Hunt.
+p741
+sg8
+VLEO
+p742
+sg10
+g11
+sa(dp743
+g6
+VI tracked down Dave Canton. Asked him what had the Chairman so riled up. He said Mueller-Wright circumvented DoD protocol to get the deal approved.
+p744
+sg8
+VJOSH
+p745
+sg10
+g11
+sa(dp746
+g6
+VThere are thousands of procurement regs over at DoD. If somebody at Muller-Wright forgot to do some due diligence, they'll sort it out.
+p747
+sg8
+VLEO
+p748
+sg10
+g11
+sa(dp749
+g6
+VCanton says they never did an AOA. Hunt has an investigation going. He wants subpoenas, hearings.
+p750
+sg8
+VJOSH
+p751
+sg10
+g11
+sa(dp752
+g6
+VOver an AOA?
+p753
+sg8
+VLEO
+p754
+sg10
+g11
+sa(dp755
+g6
+VCanton says Ken O'Neal is going to be the first witness subpoenaed.
+p756
+sg8
+VJOSH
+p757
+sg10
+g11
+sa(dp758
+g6
+VMargaret!
+p759
+sg8
+VLEO
+p760
+sg10
+g11
+sa(dp761
+g6
+VCall Matt Hunt's office. Tell him I'm coming over, now.
+p762
+sg8
+VLEO
+p763
+sg10
+g11
+sa(dp764
+g6
+VYou worked for Mueller-Wright. If they're involved in procurement irregularities, any attempt on your part to impede a Senate...
+p765
+sg8
+VJOSH
+p766
+sg10
+g11
+sa(dp767
+g6
+VI'm not going to "impede" anything. Thanks. I'll take it from here.
+p768
+sg8
+VLEO
+p769
+sg10
+g11
+sa(dp770
+g6
+VDid you know Senator Hunt in the military?
+p771
+sg8
+VJOSH
+p772
+sg10
+g11
+sa(dp773
+g6
+VNo. He was later. Cambodia and Laos. It was a big war.
+p774
+sg8
+VLEO
+p775
+sg10
+g11
+sa(dp776
+g6
+VPlease. You gotta go.
+p777
+sg8
+VLEO
+p778
+sg10
+g11
+sa(dp779
+g6
+VThe Army sped up the timeline because, if you haven't noticed, the threat to our guys has increased.
+p780
+sg8
+VLEO
+p781
+sg10
+g11
+sa(dp782
+g6
+VAre you questioning my patriotism?
+p783
+sg8
+VHUNT
+p784
+sg10
+g24
+sa(dp785
+g6
+VCut the crap, Matt. I've got old service ribbons gathering dust in a drawer somewhere, too.
+p786
+sg8
+VLEO
+p787
+sg10
+g11
+sa(dp788
+g6
+VWe had companies with lower bids.
+p789
+sg8
+VHUNT
+p790
+sg10
+g11
+sa(dp791
+g6
+VAirbus. Congress wasn't going to let the Pentagon award a ten billion dollar defense contract to the French.
+p792
+sg8
+VLEO
+p793
+sg10
+g11
+sa(dp794
+g6
+VIf Mueller-Wright couldn't make the choppers for the price, then they shouldn't have bid.
+p795
+sg8
+VHUNT
+p796
+sg10
+g11
+sa(dp797
+g6
+VSo, now you're going to drag Ken O'Neal in front of a network perp-walk over a weapons system we have to have that no one else can build?
+p798
+sg8
+VLEO
+p799
+sg10
+g11
+sa(dp800
+g6
+VIf Mr. O'Neal is subpoenaed to appear before my committee, it will be to answer legitimate questions about the manner in which Mueller-Wright secured those contracts.
+p801
+sg8
+VHUNT
+p802
+sg10
+g11
+sa(dp803
+g6
+VYou know damn well the charge screams louder than the verdict. If you don't like the price, tell the DoD to renegotiate it.
+p804
+sg8
+VLEO
+p805
+sg10
+g11
+sa(dp806
+g6
+VIt's not about price anymore, Leo. It's about process and patronage.
+p807
+sg8
+VHUNT
+p808
+sg10
+g11
+sa(dp809
+g6
+VYou're accusing me of using my influence to get them the contract?
+p810
+sg8
+VLEO
+p811
+sg10
+g11
+sa(dp812
+g6
+VWell, how many years did you work for Mueller-Wright? Was it 10? 12?
+p813
+sg8
+VHUNT
+p814
+sg10
+g11
+sa(dp815
+g6
+VDon't try to embarrass me and, through me, the President by humiliating an outstanding American patriot.
+p816
+sg8
+VLEO
+p817
+sg10
+g11
+sa(dp818
+g6
+VWell, now who's waving the flag, Leo?
+p819
+sg8
+VHUNT
+p820
+sg10
+g11
+sa(dp821
+g6
+VIf you're drawing up partisan subpoena lists, Matt, put my name on top.
+p822
+sg8
+VLEO
+p823
+sg10
+g11
+sa(dp824
+g6
+VThe Truth Meter? Am I on a game show?
+p825
+sg8
+VC.J.
+p826
+sg10
+g11
+sa(dp827
+g6
+VIf he points to the Truth Meter keep looking at Taylor.
+p828
+sg8
+VWOMAN
+p829
+sg10
+g11
+sa(dp830
+g6
+VIf he dunks me in a river and I float, does that mean I'm a witch?
+p831
+sg8
+VC.J.
+p832
+sg10
+g11
+sa(dp833
+g6
+VBack in ten.
+p834
+sg8
+VMAN
+p835
+sg10
+g11
+sa(dp836
+g6
+VGod, it's great you could join us. I'm a huge fan.
+p837
+sg8
+VREID
+p838
+sg10
+g11
+sa(dp839
+g6
+VFive, four, three...
+p840
+sg8
+VMAN
+p841
+sg10
+g11
+sa(dp842
+g6
+VAs promised, White House Press Secretary C.J. Cregg has finally agreed to join us. Ms. Cregg, global warming. That's a liberal fantasy, isn't it?
+p843
+sg8
+VREID
+p844
+sg10
+g11
+sa(dp845
+g6
+VNo, it's not.
+p846
+sg8
+VC.J.
+p847
+sg10
+g11
+sa(dp848
+g6
+VVoodoo environmentalism without any scientific...
+p849
+sg8
+VREID
+p850
+sg10
+g11
+sa(dp851
+g6
+VThere are about 16 Nobel laureates, 57 World Bank economists, and 17 scientific studies...
+p852
+sg8
+VC.J.
+p853
+sg10
+g11
+sa(dp854
+g6
+VThe World Bank is the U.N. for tree huggers. They think companies that create jobs and help big industry...
+p855
+sg8
+VREID
+p856
+sg10
+g11
+sa(dp857
+g6
+VThat's ridiculous.
+p858
+sg8
+VC.J.
+p859
+sg10
+g11
+sa(dp860
+g6
+VIf it's ridiculous you should stop funding them. Judicial nominees. The United States Senate doesn't think it's a good idea to approve of Bartlet's liberal judges that treat the Constitution...
+p861
+sg8
+VREID
+p862
+sg10
+g11
+sa(dp863
+g6
+V[on TV] ... like it's some kind of beer coaster.
+p864
+sg8
+VREID
+p865
+sg10
+g11
+sa(dp866
+g6
+V[on TV] The President has nominated dozens of highly qualified...
+p867
+sg8
+VC.J.
+p868
+sg10
+g11
+sa(dp869
+g6
+VHow's she doing?
+p870
+sg8
+VJOSH
+p871
+sg10
+g11
+sa(dp872
+g6
+VI think the Christians did a little better with the lions.
+p873
+sg8
+VTOBY
+p874
+sg10
+g11
+sa(dp875
+g6
+VIt's only the first round, she's still testing out her jab.
+p876
+sg8
+VJOSH
+p877
+sg10
+g11
+sa(dp878
+g6
+VShe better go to her hook soon.
+p879
+sg8
+VTOBY
+p880
+sg10
+g11
+sa(dp881
+g6
+VI just got a call from Hunt's office. Apparently, Leo has asked to be subpoenaed for the hearings on the Ramses.
+p882
+sg8
+VJOSH
+p883
+sg10
+g11
+sa(dp884
+g6
+VHe asked to be subpoenaed?
+p885
+sg8
+VTOBY
+p886
+sg10
+g11
+sa(dp887
+g6
+VHunt's asking for all e-mails within the DoD and Mueller-Wright. He thinks the bid process was rigged. He threatened to subpoena O'Neal. Apparently Leo rose to Ken's defense.
+p888
+sg8
+VJOSH
+p889
+sg10
+g11
+sa(dp890
+g6
+VLeo can't testify in front of the Armed Services Committee. Did you talk to him?
+p891
+sg8
+VTOBY
+p892
+sg10
+g11
+sa(dp893
+g6
+VI tried.
+p894
+sg8
+VJOSH
+p895
+sg10
+g11
+sa(dp896
+g6
+VDoes the President know?
+p897
+sg8
+VTOBY
+p898
+sg10
+g11
+sa(dp899
+g6
+VShould he?
+p900
+sg8
+VJOSH
+p901
+sg10
+g11
+sa(dp902
+g6
+VMr. President.
+p903
+sg8
+VALL
+p904
+sg10
+g11
+sa(dp905
+g6
+VWe get 'em back?
+p906
+sg8
+VBARTLET
+p907
+sg10
+g11
+sa(dp908
+g6
+VWe got single confirmation bursts from the SEAL team CSELs. They're now with the downed crew from the Hawkeye.
+p909
+sg8
+VMCGILL
+p910
+sg10
+g11
+sa(dp911
+g6
+VAre they in the water yet?
+p912
+sg8
+VBARTLET
+p913
+sg10
+g11
+sa(dp914
+g6
+VNo, sir. But they've moved closer to the beach area, stopped in these woods.
+p915
+sg8
+VALEXANDER
+p916
+sg10
+g11
+sa(dp917
+g6
+VWhy?
+p918
+sg8
+VBARTLET
+p919
+sg10
+g11
+sa(dp920
+g6
+VThe sun came up.
+p921
+sg8
+VLEO
+p922
+sg10
+g11
+sa(dp923
+g6
+VSo, now what? They just wait around until the sun goes back down?
+p924
+sg8
+VBARTLET
+p925
+sg10
+g11
+sa(dp926
+g6
+VYes, sir.
+p927
+sg8
+VMCGILL
+p928
+sg10
+g24
+sa(dp929
+g6
+VLet's hope no one decides to go berry picking in those woods today.
+p930
+sg8
+VBARROW
+p931
+sg10
+g11
+sa(dp932
+g6
+VNo. Black's great. [pause] You know, maybe it'd be better for me to wait in the lobby.
+p933
+sg8
+VBEN
+p934
+sg10
+g11
+sa(dp935
+g6
+VNo, please. C.J. should be back soon.
+p936
+sg8
+VCAROL
+p937
+sg10
+g11
+sa(dp938
+g6
+VWe met in Principles of Sociology. It was the only class at Berkeley that the Land Management kids and the Poli Sci students took together.
+p939
+sg8
+VBEN
+p940
+sg10
+g11
+sa(dp941
+g6
+VYou studied range management?
+p942
+sg8
+VCAROL
+p943
+sg10
+g11
+sa(dp944
+g6
+VYeah. Grassland, savanna, shrubland ecology. Thank God the Park Service hired me. I don't know what else my education would be good for. Selling seed catalogues, maybe. I don't know. [pause] I've got a picture of us together in college. Would you like to see it?
+p945
+sg8
+VBEN
+p946
+sg10
+g11
+sa(dp947
+g6
+VIt's, a, uh... there. That's right after we started living together. God, she was something in a bikini, huh? She ever tell you about getting arrested for stealing that donkey down in Cabo?
+p948
+sg8
+VBEN
+p949
+sg10
+g11
+sa(dp950
+g6
+VYou're not giving me a chance to answer. If you just want to bloviate, why don't I leave a cardboard cutout of myself and you can talk all you want.
+p951
+sg8
+VC.J.
+p952
+sg10
+g11
+sa(dp953
+g6
+VIn five, four, three...
+p954
+sg8
+VMAN
+p955
+sg10
+g11
+sa(dp956
+g6
+VYou're doing great.
+p957
+sg8
+VREID
+p958
+sg10
+g11
+sa(dp959
+g6
+VWe are back with C.J. Cregg, who says she could have sent a cardboard cutout of herself for all we're going to get out of her today. C.J., the First Lady is back to practicing medicine at a Southeast DC clinic. Isn't she breaking her promise to the American people? Didn't she say she wasn't going to practice medicine again after lying to keep her husband's condition a secret from the American voters?
+p960
+sg8
+VREID
+p961
+sg10
+g11
+sa(dp962
+g6
+VThe First Lady is volunteering in a free clinic in one of the poorest neighborhoods in the nation, helping to save children's lives.
+p963
+sg8
+VC.J.
+p964
+sg10
+g11
+sa(dp965
+g6
+VDon't you think the First Lady should try to fix health care in this country as opposed to repairing her own self-image?
+p966
+sg8
+VREID
+p967
+sg10
+g11
+sa(dp968
+g6
+VShe's and M.D., she can fix whatever she damn well pleases, and if it were health care, you'd try and block it.
+p969
+sg8
+VC.J.
+p970
+sg10
+g11
+sa(dp971
+g6
+VThat's not true, I'm for sensible health care. I'm just against socialized medicine.
+p972
+sg8
+VREID
+p973
+sg10
+g11
+sa(dp974
+g6
+VNo, you're not.
+p975
+sg8
+VC.J.
+p976
+sg10
+g11
+sa(dp977
+g6
+VLet's talk about how the First Lady lied to the American people.
+p978
+sg8
+VREID
+p979
+sg10
+g11
+sa(dp980
+g6
+VNo, let's talk about your paid speeches to the pharmaceutical lobby...
+p981
+sg8
+VC.J.
+p982
+sg10
+g11
+sa(dp983
+g6
+VIt's a free country.
+p984
+sg8
+VREID
+p985
+sg10
+g11
+sa(dp986
+g6
+V... and your paid speeches to the HMO and insurance lobby, and how every time health care reform comes up on your show you're miraculously against it. The First Lady is rolling up her sleeves and getting something done, and you're not because you're too busy depositing their checks, and let's talk about who's chicken.
+p987
+sg8
+VC.J.
+p988
+sg10
+g11
+sa(dp989
+g6
+VWell, she won that round on all cards.
+p990
+sg8
+VJOSH
+p991
+sg10
+g11
+sa(dp992
+g6
+VHow much longer do you think?
+p993
+sg8
+VTOBY
+p994
+sg10
+g11
+sa(dp995
+g6
+VI have no idea.
+p996
+sg8
+VDEBBIE
+p997
+sg10
+g136
+sa(dp998
+g6
+VLeo knows he can't testify on behalf of a major defense contractor. What's he thinking?
+p999
+sg8
+VJOSH
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VHe's not thinking.
+p1002
+sg8
+VTOBY
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VHow long did they serve together?
+p1005
+sg8
+VJOSH
+p1006
+sg10
+g136
+sa(dp1007
+g6
+VLeo and O'Neal? I don't know. Awhile before they were shot down.
+p1008
+sg8
+VTOBY
+p1009
+sg10
+g136
+sa(dp1010
+g6
+VLeo was shot down?
+p1011
+sg8
+VCHARLIE
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VOver Hanoi. They hid out in the jungle until they were rescued.
+p1014
+sg8
+VJOSH
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VCan I get a ballpark on how much longer it's going to be? An era, a Tchaikovsky symphony, a brief Ice Age perhaps?
+p1017
+sg8
+VTOBY
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VYou have some food stuck in your beard.
+p1020
+sg8
+VDEBBIE
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VHow long was he there for?
+p1023
+sg8
+VCHARLIE
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VThree days.
+p1026
+sg8
+VJOSH
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VExcuse me, sir. Mr. Ziegler is being rather insistent.
+p1029
+sg8
+VDEBBIE
+p1030
+sg10
+g136
+sa(dp1031
+g6
+VAs he so often is. [to Thomas] Excuse me, Mr. Thomas. Give me some time to think about it.
+p1032
+sg8
+VBARTLET
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VSo, what's so important? Someone get the words to "Yellow Submarine" wrong again?
+p1035
+sg8
+VBARTLET
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VIt's about Leo, sir.
+p1038
+sg8
+VJOSH
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VI left messages at his office and with his hotel in Chicago.
+p1041
+sg8
+VMARGARET
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VWe were supposed to have lunch. Call his office back and find out what meetings he had this morning.
+p1044
+sg8
+VLEO
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VGot a minute.
+p1047
+sg8
+VBARTLET
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VYes, sir, of course.
+p1050
+sg8
+VLEO
+p1051
+sg10
+g24
+sa(dp1052
+g6
+VNo word yet on the SEAL team?
+p1053
+sg8
+VBARTLET
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VNo, sir, not yet.
+p1056
+sg8
+VLEO
+p1057
+sg10
+g24
+sa(dp1058
+g6
+VToby and Josh came to see me about this Muller-Wright thing.
+p1059
+sg8
+VBARTLET
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VI told Josh I'd handle it.
+p1062
+sg8
+VLEO
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VBy going before the Armed Services Committee?
+p1065
+sg8
+VBARTLET
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VHunt's trying to use my friendship with Ken O'Neal to embarrass this administration.
+p1068
+sg8
+VLEO
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VAnd testifying in front of a Congressional committee is going to lessen that embarrassment?
+p1071
+sg8
+VBARTLET
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VHunt's bluffing. He's upset Arizona manufacturers didn't get any of the contract.
+p1074
+sg8
+VLEO
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VWell, you were a senior corporate officer at Mueller-Wright for over ten years, right, Leo? You can't testify.
+p1077
+sg8
+VBARTLET
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VIt's not going to come to that.
+p1080
+sg8
+VLEO
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VIt opens you up to being called before Congressional committees on a whim.
+p1083
+sg8
+VBARTLET
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VI won't stand by while Hunt slanders a good man's name for political purposes.
+p1086
+sg8
+VLEO
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VAnd Josh seems to think that...
+p1089
+sg8
+VBARTLET
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VJosh doesn't know what the hell he's talking about.
+p1092
+sg8
+VLEO
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VHave you asked Kenny if there's any truth...
+p1095
+sg8
+VBARTLET
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VI've know Ken O'Neal for thirty-five years. I've worked beside him, served beside him... He hasn't done anything wrong.
+p1098
+sg8
+VLEO
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VYou can't testify, Leo.
+p1101
+sg8
+VBARTLET
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VI won't desert him, Mr. President.
+p1104
+sg8
+VLEO
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VHave you asked Kenny if there's any truth to the rumors...
+p1107
+sg8
+VBARTLET
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VI don't have to.
+p1110
+sg8
+VLEO
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VStill nothing from General Alexander?
+p1113
+sg8
+VBARTLET
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VNo, sir. And Josh is waiting to give you a Ways and Means briefing.
+p1116
+sg8
+VCHARLIE
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VWhat Ways and Means briefing?
+p1119
+sg8
+VBARTLET
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VThe South Carolina trip, sir. And then you have INS on border security and at 4:00, the National Medal of Arts recipients are coming by.
+p1122
+sg8
+VDEBBIE
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VYou a Crosby, Stills and Nash fan?
+p1125
+sg8
+VBARTLET
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VI've always been more of a Crazy Horse gal, Mr. President.
+p1128
+sg8
+VDEBBIE
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VYeah, I could see how that would be.
+p1131
+sg8
+VBARTLET
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VAlthough I did have a tempestuous affair with a rodeo cowboy during the summer of love that the Hollies played a significant role in. I'll call Josh in.
+p1134
+sg8
+VDEBBIE
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VSo what's this problem I'm hearing about with Saturday's trip to South Carolina?
+p1137
+sg8
+VBARTLET
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VWendt wants a tax cut for stay-at-home moms. Unless you're a poor woman, then, of course, he'd argue you have to work or else you should be denied welfare benefits. Next, he'll try to slip dishwasher subsidies into the omnibus reconciliation bill. Our caucus has been fighting for more daycare, more after-school care, transportation subsidies to make it easier for poor women to get to good jobs. They can't justify spending, uh...
+p1140
+sg8
+VJOSH
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VJTC scores it at 11 billion over five years.
+p1143
+sg8
+VRYAN
+p1144
+sg10
+g11
+sa(dp1145
+g6
+V... 11 billion to keep Wilma Flinstone in dinosaur-skin coats while most women are struggling to find someone to take care of their child.
+p1146
+sg8
+VJOSH
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VWhat's the tax benefit for the typical family?
+p1149
+sg8
+VBARTLET
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VAbout $100 a year.
+p1152
+sg8
+VJOSH
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VCloser to $300. But that's not the point. A typical family of four making $68,000 can still get $1200 in child care tax credits if the wife decides to work, but if she wants to stay home with the kids we don't help.
+p1155
+sg8
+VRYAN
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VWho's this?
+p1158
+sg8
+VBARTLET
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VRyan Pierce. He's interning in my office for a few months...
+p1161
+sg8
+VJOSH
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VPierce?
+p1164
+sg8
+VBARTLET
+p1165
+sg10
+g11
+sa(dp1166
+g6
+V... maybe less.
+p1167
+sg8
+VJOSH
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VSenator Pierce's son?
+p1170
+sg8
+VBARTLET
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VHe's my uncle.
+p1173
+sg8
+VRYAN
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VSo, which would you choose, Ryan, daycare tax cut of this?
+p1176
+sg8
+VBARTLET
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VDaycare, but why should we choose for everybody else?
+p1179
+sg8
+VRYAN
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VWhat would you suggest?
+p1182
+sg8
+VBARTLET
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VTell Wendt you understand that he didn't want to support your child care tax credit when there's no help for stay-at-home moms, so he should find some loophole closers we can agree on to pay for both. He's on Ways and Means. That's where the money is, right?
+p1185
+sg8
+VRYAN
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VRight. Thank you.
+p1188
+sg8
+VBARTLET
+p1189
+sg10
+g24
+sa(dp1190
+g6
+VThat was fun.
+p1191
+sg8
+VC.J.
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VYou did great.
+p1194
+sg8
+VCAROL
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VSanctimonious little guttersnipe sent a great big fat one, up and over the plate. 'Health Care Reform'? From a guy who's still on the fence about the application of leeches?
+p1197
+sg8
+VC.J.
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VHe wants you back.
+p1200
+sg8
+VCAROL
+p1201
+sg10
+g24
+sa(dp1202
+g6
+V'Sensible Health Care'? He means a bedpan, a gurney, and a check from the "Your Claim's Been Rejected" lobby.
+p1203
+sg8
+VC.J.
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VYou missed Ben. He hung around for a while but he had to get back for a meeting at Interior.
+p1206
+sg8
+VCAROL
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VHow's he look?
+p1209
+sg8
+VC.J.
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VIf you don't want him, can I have him?
+p1212
+sg8
+VCAROL
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VHe still have that ruffled hair, Redford in The Way We Were kind of thing going on?
+p1215
+sg8
+VC.J.
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VHe left you a note and a picture.
+p1218
+sg8
+VCAROL
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VAnd I was answering it.
+p1221
+sg8
+VJOSH
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VIncorrectly.
+p1224
+sg8
+VRYAN
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VYou work for me, you don't correct me in front of the President.
+p1227
+sg8
+VJOSH
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VEven when you're giving him wrong information?
+p1230
+sg8
+VRYAN
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VYes.
+p1233
+sg8
+VJOSH
+p1234
+sg10
+g24
+sa(dp1235
+g6
+VReally?
+p1236
+sg8
+VRYAN
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VXerox this. Front to back, double-sided, and...
+p1239
+sg8
+VJOSH
+p1240
+sg10
+g136
+sa(dp1241
+g6
+VCollated?
+p1242
+sg8
+VRYAN
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VYeah. Go wild.
+p1245
+sg8
+VJOSH
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VAll right.
+p1248
+sg8
+VRYAN
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VTrouble in mind-numbing Presidential briefing paradise?
+p1251
+sg8
+VDONNA
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VEve Harrington in penny loafers here just corrected me in front of the President.
+p1254
+sg8
+VJOSH
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VWhere you wrong?
+p1257
+sg8
+VDONNA
+p1258
+sg10
+g24
+sa(dp1259
+g6
+VThat's not the point.
+p1260
+sg8
+VJOSH
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VWhat is the point?
+p1263
+sg8
+VDONNA
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VI'm going into my office now.
+p1266
+sg8
+VJOSH
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VSenator Hunt's in there.
+p1269
+sg8
+VDONNA
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VMatt Hunt's in my office.
+p1272
+sg8
+VJOSH
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VSenator, sorry to keep you waiting.
+p1275
+sg8
+VJOSH
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VThat's okay. You didn't know I was coming.
+p1278
+sg8
+VHUNT
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VWhat can I do for you?
+p1281
+sg8
+VJOSH
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VI, uh... I lost my temper yesterday with Leo McGarry. He accused me of some things, I responded in kind. I want you to keep him from publicly supporting Ken O'Neal.
+p1284
+sg8
+VHUNT
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VThanks.
+p1287
+sg8
+VHUNT
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VSenator, Leo doesn't take directions from me. I can't keep him from making a breakfast order.
+p1290
+sg8
+VJOSH
+p1291
+sg10
+g11
+sa(dp1292
+g6
+VI understand loyalty. There are men that I served with that I would do anything for and they for me. But you can't let Leo get involved in this. You know Mark Lofton?
+p1293
+sg8
+VHUNT
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VNo.
+p1296
+sg8
+VJOSH
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VUntil six weeks ago, he was a DoD procurement officer making $80,000 a year. He supervised the bid process on the LC-104 Ramses. Now he's a senior vice president of a major defense contractor making over $300,000 a year. Want to guess who he works for?
+p1299
+sg8
+VHUNT
+p1300
+sg10
+g11
+sa(dp1301
+g6
+VThe Sea Stallion's heading back to the Cowpens. He should be breaking radio silence any moment.
+p1302
+sg8
+VALEXANDER
+p1303
+sg10
+g11
+sa(dp1304
+g6
+VDo we know if they've encountered any resistance?
+p1305
+sg8
+VBARTLET
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VReconnaissance didn't see anything on their last flyover.
+p1308
+sg8
+VMCGILL
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VTigertail 1-1 to ODS, is this channel secure?
+p1311
+sg8
+VPILOT
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VThat's ODS on the USS Cowpens.
+p1314
+sg8
+VMCGILL
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VTigertail 1-1 en route. Not to keep you in suspense ODS, all five pieces of cargo were secured.
+p1317
+sg8
+VPILOT
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VCommander, this is President Bartlet. What is their condition?
+p1320
+sg8
+VBARTLET
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VCommander, any unfriendly encounters?
+p1323
+sg8
+VALEXANDER
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VWell done, Commander. Thank you.
+p1326
+sg8
+VBARTLET
+p1327
+sg10
+g24
+sa(dp1328
+g6
+VGeneral, can you get me a number for Captain Zeretsky's family?
+p1329
+sg8
+VBARTLET
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VWhere is he?
+p1332
+sg8
+VJOSH
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VOut of the building.
+p1335
+sg8
+VMARGARET
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VWhere out of the building?
+p1338
+sg8
+VJOSH
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VKen O'Neal called. Leo went to meet him.
+p1341
+sg8
+VMARGARET
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VI was worried about you.
+p1344
+sg8
+VLEO
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VI talked to Hunt. I know a bit about what's going on. He's just trying to score cheap political points off of our friendship. Get his face on the cover of the Journal.
+p1347
+sg8
+VLEO
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VNo. It's just Josh.
+p1350
+sg8
+VLEO
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VI'm sorry. I got you into this mess. He wouldn't be making rain out of it if it weren't for me.
+p1353
+sg8
+VLEO
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VI told him if he tried to drag you up in front of Armed Services he'd have to haul me up there first.
+p1356
+sg8
+VLEO
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VAll the times you've come in under budget, all the times you've delivered projects on schedule under impossible deadlines...
+p1359
+sg8
+VLEO
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VIf it comes to that, I can handle Hunt.
+p1362
+sg8
+VLEO
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VWhy?
+p1365
+sg8
+VLEO
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VWhy not do the AOA? The Army wants the choppers. What, they were going to buy them from the French?
+p1368
+sg8
+VLEO
+p1369
+sg10
+g11
+sa(dp1370
+g6
+VThis was about money?
+p1371
+sg8
+VLEO
+p1372
+sg10
+g11
+sa(dp1373
+g6
+VHow much did you make last year?
+p1374
+sg8
+VLEO
+p1375
+sg10
+g11
+sa(dp1376
+g6
+VHow much, Kenny?
+p1377
+sg8
+VLEO
+p1378
+sg10
+g136
+sa(dp1379
+g6
+VNah. How much with bonuses?
+p1380
+sg8
+VLEO
+p1381
+sg10
+g136
+sa(dp1382
+g6
+VYou okay?
+p1383
+sg8
+VBARTLET
+p1384
+sg10
+g11
+sa(dp1385
+g6
+VKenny did it.
+p1386
+sg8
+VLEO
+p1387
+sg10
+g11
+sa(dp1388
+g6
+VJosh told me. [pause] We got the Hawkeye crew out. All five of them. We lost one of the SEALs.
+p1389
+sg8
+VBARTLET
+p1390
+sg10
+g11
+sa(dp1391
+g6
+VWhat's-what's this music?
+p1392
+sg8
+VLEO
+p1393
+sg10
+g11
+sa(dp1394
+g6
+VCrosby, Stills and Nash came by. They're getting the National Medal for the Arts; gave me this tape. It's beautiful, huh?
+p1395
+sg8
+VBARTLET
+p1396
+sg10
+g11
+sa(dp1397
+g6
+VWe were out in the jungle for three days. Kenny carried me on his back; hid me under piles of leaves while he went to find us water. I was delirious, I lost a lot of blood. He could have left me; He should have left me.
+p1398
+sg8
+VLEO
+p1399
+sg10
+g11
+sa(dp1400
+g6
+V[speaks Latin] Corruptio optimi pessima. 'Corruption of the best is the worst.' You've done more, much more, all on your own to honor their sacrifice, Leo. They'd be as proud to know you as I am.
+p1401
+sg8
+VBARTLET
+p1402
+sg10
+g11
+sa(dp1403
+g6
+VLeo. Leo, come on. They're here. We're going home.
+p1404
+sg8
+VKENNY
+p1405
+sg10
+g11
+sas.

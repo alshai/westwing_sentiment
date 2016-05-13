@@ -1,0 +1,4868 @@
+(dp0
+S'season'
+p1
+I5
+sS'episode'
+p2
+I15
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VWe'll be back with White House Press Secretary C.J. Cregg after this.
+p7
+sS'character'
+p8
+VREID
+p9
+sS'maxent_score'
+p10
+S'negative'
+p11
+sa(dp12
+g6
+VWait, what was that? You're breaking up on me.
+p13
+sg8
+VC.J.
+p14
+sg10
+S'neutral'
+p15
+sa(dp16
+g6
+VYes. That's much better. So, what's this about the dollar and the yen?
+p17
+sg8
+VC.J.
+p18
+sg10
+g15
+sa(dp19
+g6
+VChina's currency is the yuan.
+p20
+sg8
+VTOBY
+p21
+sg10
+g15
+sa(dp22
+g6
+VThis isn't PBS, he's not going to ask about the yuan.
+p23
+sg8
+VC.J.
+p24
+sg10
+g15
+sa(dp25
+g6
+VHe's definitely going to as me about that. Give me more.
+p26
+sg8
+VC.J.
+p27
+sg10
+g15
+sa(dp28
+g6
+VH-hang on. Can you stick it there? Yeah?
+p29
+sg8
+VC.J.
+p30
+sg10
+g15
+sa(dp31
+g6
+VDid you see Drudge?
+p32
+sg8
+VWILL
+p33
+sg10
+S'positive'
+p34
+sa(dp35
+g6
+VUh, pay them not to grow tobacco... Increase in price of tobacco...
+p36
+sg8
+VTOBY
+p37
+sg10
+g15
+sa(dp38
+g6
+VOther recommendations for reducing teenage smo...
+p39
+sg8
+VTOBY
+p40
+sg10
+g15
+sa(dp41
+g6
+VIn ten, nine, eight...
+p42
+sg8
+VMAN
+p43
+sg10
+g15
+sa(dp44
+g6
+VToby, I got to go.
+p45
+sg8
+VC.J.
+p46
+sg10
+g15
+sa(dp47
+g6
+VNo, wait!
+p48
+sg8
+VTOBY
+p49
+sg10
+g15
+sa(dp50
+g6
+VHello? Damn it.
+p51
+sg8
+VTOBY
+p52
+sg10
+g15
+sa(dp53
+g6
+VJoining me now in a rare venture outside the tightly controlled environment of the White House press briefing room is the one and only queen of the Bartlet spinners, Miss C.J. Cregg. C.J., welcome back to the show.
+p54
+sg8
+VREID
+p55
+sg10
+g15
+sa(dp56
+g6
+VAlways a pleasure, Taylor, but if you really think the briefing room is a controlled environment you should try controlling 100 hungry reporters someday. And if I'm queen of anything I want a bigger office.
+p57
+sg8
+VC.J.
+p58
+sg10
+g15
+sa(dp59
+g6
+VOkay, C.J. Tell us about the President's secret plan to raise taxes.
+p60
+sg8
+VREID
+p61
+sg10
+g15
+sa(dp62
+g6
+VLove to, but it's so secret he hasn't even told me about it yet.
+p63
+sg8
+VC.J.
+p64
+sg10
+g15
+sa(dp65
+g6
+VI'm talking about a secret Presidential commission that wants a whopping 50% increase...
+p66
+sg8
+VREID
+p67
+sg10
+g15
+sa(dp68
+g6
+VFirst of all, Taylor, it's not a secret commission. The report was just released and it's on the AP wire. That's how you found out about it and how I found out about it and I promise you the President hasn't even heard of it yet.
+p69
+sg8
+VC.J.
+p70
+sg10
+g15
+sa(dp71
+g6
+VThe commission's going to ask the President to raise taxes.
+p72
+sg8
+VREID
+p73
+sg10
+g15
+sa(dp74
+g6
+VYes. Among their many recommendations to reduce teenage smoking, they suggested 17 cent increase in the price...
+p75
+sg8
+VC.J.
+p76
+sg10
+g15
+sa(dp77
+g6
+VThat's 50%, C.J. That's what I said.
+p78
+sg8
+VREID
+p79
+sg10
+g15
+sa(dp80
+g6
+VYes, Taylor, 17 pennies does equal 50% in this little math problem...
+p81
+sg8
+VC.J.
+p82
+sg10
+g15
+sa(dp83
+g6
+VWell, that's not going to stop teenagers from smoking cigarettes.
+p84
+sg8
+VREID
+p85
+sg10
+g15
+sa(dp86
+g6
+VRaising the price should reduce the demand a bit, but, more importantly, it will raise $3.4 billion a year. That's 16 billion over 5 years, and that would be enough to buy out 75% of the American tobacco farmers.
+p87
+sg8
+VC.J.
+p88
+sg10
+g15
+sa(dp89
+g6
+VYou mean pay them not to grow tobacco.
+p90
+sg8
+VREID
+p91
+sg10
+g15
+sa(dp92
+g6
+VIf we reduce...
+p93
+sg8
+VC.J.
+p94
+sg10
+g15
+sa(dp95
+g6
+VHas this President ever met a government handout he didn't like? I mean, how many people does he want to pay to do nothing? Does he not realize the budget deficit is already large enough, and how much taxation does he think we can stand before we reach our breaking point? Has this President forgotten that this country was founded during a tax revolt? C.J., what is he thinking?
+p96
+sg8
+VREID
+p97
+sg10
+g15
+sa(dp98
+g6
+VWhich one of those is your favorite, 'cause if there's one you'd actually like me to answer...
+p99
+sg8
+VC.J.
+p100
+sg10
+g15
+sa(dp101
+g6
+VCome on, C.J. We all know he's never met a tax increase he didn't like. If you don't want to answer the question, we'll move on to something else. This is new. This is from the Drudge Report, Matt Drudge's website, and I'm reading.
+p102
+sg8
+VREID
+p103
+sg10
+g15
+sa(dp104
+g6
+V"The Sunday Times Magazine is going to run an in-depth profile of former Vice President John Hoynes...
+p105
+sg8
+VREID
+p106
+sg10
+g15
+sa(dp107
+g6
+VUm, I...
+p108
+sg8
+VC.J.
+p109
+sg10
+g15
+sa(dp110
+g6
+VWas the President trying to orchestrate another cover-up here, C.J.?
+p111
+sg8
+VREID
+p112
+sg10
+g15
+sa(dp113
+g6
+VLook, I can't respond to every crazy website...
+p114
+sg8
+VC.J.
+p115
+sg10
+g15
+sa(dp116
+g6
+VDid the President tell Hoynes not to resign?
+p117
+sg8
+VREID
+p118
+sg10
+g15
+sa(dp119
+g6
+VI haven't even read the article.
+p120
+sg8
+VC.J.
+p121
+sg10
+g15
+sa(dp122
+g6
+VDid he or didn't he?
+p123
+sg8
+VREID
+p124
+sg10
+g15
+sa(dp125
+g6
+VI'm not privy to the private conversations the President has...
+p126
+sg8
+VC.J.
+p127
+sg10
+g15
+sa(dp128
+g6
+VCome on, C.J., this is pretty basic. Did the President tell Hoynes to stick around because he thought he could beat the rap?
+p129
+sg8
+VREID
+p130
+sg10
+g15
+sa(dp131
+g6
+VI really can't comment on that.
+p132
+sg8
+VC.J.
+p133
+sg10
+g15
+sa(dp134
+g6
+VThat's your answer? Your answer is "No Comment"?
+p135
+sg8
+VREID
+p136
+sg10
+g15
+sa(dp137
+g6
+VAlright, we got to go to a break. When we come back, more with White House Press Secretary C.J. Cregg. That was a great segment, C.J. Good job.
+p138
+sg8
+VREID
+p139
+sg10
+g15
+sa(dp140
+g6
+VIs she back yet?
+p141
+sg8
+VTOBY
+p142
+sg10
+g34
+sa(dp143
+g6
+VCarol said any minute now.
+p144
+sg8
+VRENA
+p145
+sg10
+g15
+sa(dp146
+g6
+VWhere are we doing this meeting?
+p147
+sg8
+VTOBY
+p148
+sg10
+g15
+sa(dp149
+g6
+VWell, the Roosevelt Room is booked and, I'm sorry, but 15 AFL-CIO union reps aren't going to be too comfortable in here.
+p150
+sg8
+VRENA
+p151
+sg10
+g15
+sa(dp152
+g6
+VWho's got the Roosevelt Room?
+p153
+sg8
+VTOBY
+p154
+sg10
+g15
+sa(dp155
+g6
+VUh... the Base Closing Commission. We're getting a table and some folding chairs.
+p156
+sg8
+VRENA
+p157
+sg10
+g15
+sa(dp158
+g6
+VOh, folding chairs.
+p159
+sg8
+VTOBY
+p160
+sg10
+g15
+sa(dp161
+g6
+VHey, Toby.
+p162
+sg8
+VTOM
+p163
+sg10
+g15
+sa(dp164
+g6
+VTom.
+p165
+sg8
+VTOBY
+p166
+sg10
+g15
+sa(dp167
+g6
+VHey, thanks for making the time to see us.
+p168
+sg8
+VSHELLY
+p169
+sg10
+g15
+sa(dp170
+g6
+VNo problem, Shelly. Hey, everybody, sorry I'm late. Uh, hey.
+p171
+sg8
+VTOBY
+p172
+sg10
+g15
+sa(dp173
+g6
+VWe're having a little bit of a problem finding a room big enough for us meet. So why don't I work on that for a minute. I'll uh, I'll be right back.
+p174
+sg8
+VTOBY
+p175
+sg10
+g15
+sa(dp176
+g6
+VUh, so, can I get you anything? Water or coffee?
+p177
+sg8
+VRENA
+p178
+sg10
+g15
+sa(dp179
+g6
+VHey, how you doing?
+p180
+sg8
+VTOBY
+p181
+sg10
+g15
+sa(dp182
+g6
+VYou saw the show. How do you think I'm doing?
+p183
+sg8
+VC.J.
+p184
+sg10
+g15
+sa(dp185
+g6
+VYou got blind-sided.
+p186
+sg8
+VTOBY
+p187
+sg10
+g15
+sa(dp188
+g6
+VI looked like an amateur. Carol, I need an advance copy of the Sunday Times Magazine, now.
+p189
+sg8
+VC.J.
+p190
+sg10
+g15
+sa(dp191
+g6
+VI tried already. They don't come out till Thursday. Leo and the President want copies as soon as we get it.
+p192
+sg8
+VCAROL
+p193
+sg10
+g15
+sa(dp194
+g6
+VWho does Drudge say wrote the Hoynes article for the Times?
+p195
+sg8
+VC.J.
+p196
+sg10
+g15
+sa(dp197
+g6
+VGreg Brock.
+p198
+sg8
+VTOBY
+p199
+sg10
+g15
+sa(dp200
+g6
+VThe guy that just pulled in from the Paris bureau?
+p201
+sg8
+VC.J.
+p202
+sg10
+g15
+sa(dp203
+g6
+VGreat. He doesn't owe me a thing.
+p204
+sg8
+VC.J.
+p205
+sg10
+g15
+sa(dp206
+g6
+VYou want me to get him on the phone?
+p207
+sg8
+VCAROL
+p208
+sg10
+g15
+sa(dp209
+g6
+VYeah.
+p210
+sg8
+VC.J.
+p211
+sg10
+g15
+sa(dp212
+g6
+VOh, and I've got Ben holding on line two.
+p213
+sg8
+VCAROL
+p214
+sg10
+g15
+sa(dp215
+g6
+VI can not talk to Ben right now. Drudge leaked maybe 50 words out of what's got to be a 5,000-word article and we're already on the ropes.
+p216
+sg8
+VC.J.
+p217
+sg10
+g15
+sa(dp218
+g6
+VI've got Greg Brock's voice mail.
+p219
+sg8
+VCAROL
+p220
+sg10
+g15
+sa(dp221
+g6
+VI'll do it.
+p222
+sg8
+VC.J.
+p223
+sg10
+g15
+sa(dp224
+g6
+VHi, Greg, it's C.J. Cregg. I've been meaning to buy you lunch since you joined the White House press corps. It's a little tradition we have. One I'm trying to start, actually, so why don't you give me a call and we'll, um... Oh, you know exactly why I'm calling. Get back to me fast, will ya?
+p225
+sg8
+VC.J.
+p226
+sg10
+g15
+sa(dp227
+g6
+VAre you sure you want to handle this?
+p228
+sg8
+VTOBY
+p229
+sg10
+g15
+sa(dp230
+g6
+VYeah.
+p231
+sg8
+VC.J.
+p232
+sg10
+g15
+sa(dp233
+g6
+VOkay.
+p234
+sg8
+VTOBY
+p235
+sg10
+g15
+sa(dp236
+g6
+VCome on, please. Not the Base Closing Commission. The most ridiculously boring...
+p237
+sg8
+VJOSH
+p238
+sg10
+g15
+sa(dp239
+g6
+VI need you to sit with them and make sure they don't...
+p240
+sg8
+VLEO
+p241
+sg10
+g15
+sa(dp242
+g6
+VWait a minute, is this even legal?
+p243
+sg8
+VJOSH
+p244
+sg10
+g11
+sa(dp245
+g6
+VIt's perfectly legal.
+p246
+sg8
+VLEO
+p247
+sg10
+g15
+sa(dp248
+g6
+VAren't they supposed to be independent or something?
+p249
+sg8
+VJOSH
+p250
+sg10
+g15
+sa(dp251
+g6
+VYeah, so's Congress and we talk to them. Look, I need you to make sure that the recommendations the Commission gives the President on what military bases to close are not politically suicidal for us.
+p252
+sg8
+VLEO
+p253
+sg10
+g15
+sa(dp254
+g6
+VClosing any military base is politically suicidal.
+p255
+sg8
+VJOSH
+p256
+sg10
+g15
+sa(dp257
+g6
+VRight, that's why we let the Base Closing Commission decide on which ones to close.
+p258
+sg8
+VLEO
+p259
+sg10
+g15
+sa(dp260
+g6
+VWe're not letting them decide.
+p261
+sg8
+VJOSH
+p262
+sg10
+g15
+sa(dp263
+g6
+VPresident wants you in the NEC meeting.
+p264
+sg8
+VMARGARET
+p265
+sg10
+g15
+sa(dp266
+g6
+VWhen?
+p267
+sg8
+VLEO
+p268
+sg10
+g15
+sa(dp269
+g6
+VNow... ish.
+p270
+sg8
+VMARGARET
+p271
+sg10
+g15
+sa(dp272
+g6
+VWe're lobbying the Base Closing Commission, Josh. You're lobbying them, just like everyone else does.
+p273
+sg8
+VLEO
+p274
+sg10
+g15
+sa(dp275
+g6
+VHey, I've got 15 AFL-CIO union reps who want to yell at me for sending their jobs to China.
+p276
+sg8
+VTOBY
+p277
+sg10
+g15
+sa(dp278
+g6
+VSo?
+p279
+sg8
+VLEO
+p280
+sg10
+g15
+sa(dp281
+g6
+VSo, I need the Roosevelt Room.
+p282
+sg8
+VTOBY
+p283
+sg10
+g15
+sa(dp284
+g6
+VJosh is in there all day with the Base Closing Commission.
+p285
+sg8
+VLEO
+p286
+sg10
+g15
+sa(dp287
+g6
+VAll day?
+p288
+sg8
+VJOSH
+p289
+sg10
+g15
+sa(dp290
+g6
+VSo move 'em.
+p291
+sg8
+VTOBY
+p292
+sg10
+g15
+sa(dp293
+g6
+VWe're talking two former four-star generals, a former admiral, and a couple of former assistant secretaries of DOD.
+p294
+sg8
+VLEO
+p295
+sg10
+g15
+sa(dp296
+g6
+VThese union reps are going to be outside tomorrow protesting against us, but if we can at least treat them right, then maybe...
+p297
+sg8
+VTOBY
+p298
+sg10
+g15
+sa(dp299
+g6
+VCheck with Margaret about the Mural Room.
+p300
+sg8
+VLEO
+p301
+sg10
+g15
+sa(dp302
+g6
+VThe Vice President has it.
+p303
+sg8
+VWILL
+p304
+sg10
+g15
+sa(dp305
+g6
+VFor what?
+p306
+sg8
+VTOBY
+p307
+sg10
+g15
+sa(dp308
+g6
+VHe's the Vice President, Toby. I don't have to justify his using a room.
+p309
+sg8
+VWILL
+p310
+sg10
+g15
+sa(dp311
+g6
+VOf course not. For what?
+p312
+sg8
+VTOBY
+p313
+sg10
+g15
+sa(dp314
+g6
+VMeeting with a bunch of environmental groups.
+p315
+sg8
+VWILL
+p316
+sg10
+g15
+sa(dp317
+g6
+VEnvironmental groups? That has to be a first for him.
+p318
+sg8
+VJOSH
+p319
+sg10
+g15
+sa(dp320
+g6
+VLooks like he's off and running.
+p321
+sg8
+VTOBY
+p322
+sg10
+g15
+sa(dp323
+g6
+VLooks like Hoynes is too.
+p324
+sg8
+VWILL
+p325
+sg10
+g15
+sa(dp326
+g6
+VWe don't know that.
+p327
+sg8
+VLEO
+p328
+sg10
+g15
+sa(dp329
+g6
+VNo, not exactly, not yet. But a come-clean, tell-all interview in the Times is a good first step.
+p330
+sg8
+VWILL
+p331
+sg10
+g15
+sa(dp332
+g6
+VThe Vice President's campaign for President is not our concern.
+p333
+sg8
+VLEO
+p334
+sg10
+g15
+sa(dp335
+g6
+VLook, Hoynes is obviously trying to rewrite history to make himself morally superior to the President.
+p336
+sg8
+VWILL
+p337
+sg10
+g15
+sa(dp338
+g6
+VRight, this from an adulterer, who...
+p339
+sg8
+VTOBY
+p340
+sg10
+g15
+sa(dp341
+g6
+VWho lied about sex. Everyone lies about sex. That's how his people are going to spin it.
+p342
+sg8
+VWILL
+p343
+sg10
+g15
+sa(dp344
+g6
+VHe doesn't have people anymore.
+p345
+sg8
+VJOSH
+p346
+sg10
+g15
+sa(dp347
+g6
+VWe don't know that. I'm just saying, the Vice President's office - I - would like to be included in any strategic discussion about how to respond to Hoynes's campaign, and it is a campaign, to make himself out to be the only honest guy in an administration of liars.
+p348
+sg8
+VWILL
+p349
+sg10
+g15
+sa(dp350
+g6
+VYeah. We'll be sure to call you.
+p351
+sg8
+VLEO
+p352
+sg10
+g15
+sa(dp353
+g6
+VHere are the latest numbers on our trade deficit with China.
+p354
+sg8
+VED
+p355
+sg10
+g15
+sa(dp356
+g6
+VDon't need them.
+p357
+sg8
+VTOBY
+p358
+sg10
+g15
+sa(dp359
+g6
+VYou want us to stay for the meeting?
+p360
+sg8
+VLARRY
+p361
+sg10
+g15
+sa(dp362
+g6
+VNo. This meeting is about politics, facts won't help.
+p363
+sg8
+VTOBY
+p364
+sg10
+g15
+sa(dp365
+g6
+VWell, it turns out we're going to have to make due with, uh, folding chairs.
+p366
+sg8
+VTOBY
+p367
+sg10
+g15
+sa(dp368
+g6
+VThat's okay, Toby. Rena here explained the whole thing.
+p369
+sg8
+VTOM
+p370
+sg10
+g15
+sa(dp371
+g6
+VShe did?
+p372
+sg8
+VTOBY
+p373
+sg10
+g15
+sa(dp374
+g6
+VAnd we told her it's not important where we sit.
+p375
+sg8
+VTOM
+p376
+sg10
+g15
+sa(dp377
+g6
+VNo, you're right. It's not.
+p378
+sg8
+VTOBY
+p379
+sg10
+g15
+sa(dp380
+g6
+VWhat's important is that you do what we want.
+p381
+sg8
+VTOM
+p382
+sg10
+g15
+sa(dp383
+g6
+VUh-huh.
+p384
+sg8
+VTOBY
+p385
+sg10
+g15
+sa(dp386
+g6
+VOr at least treat us with respect.
+p387
+sg8
+VTOM
+p388
+sg10
+g15
+sa(dp389
+g6
+VHow am I doing so far?
+p390
+sg8
+VTOBY
+p391
+sg10
+g15
+sa(dp392
+g6
+VYou got two strikes on you.
+p393
+sg8
+VTOM
+p394
+sg10
+g15
+sa(dp395
+g6
+VBecause reviewing a cost-benefit analysis for every military base in the country is as mind-numbing as a Radiohead concert.
+p396
+sg8
+VJOSH
+p397
+sg10
+g15
+sa(dp398
+g6
+VNeed this?
+p399
+sg8
+VDONNA
+p400
+sg10
+g11
+sa(dp401
+g6
+VUh, yeah. And the one under it. And deciding which military bases we don't need anymore is the most politically disastrous thing you could ever get involved with.
+p402
+sg8
+VJOSH
+p403
+sg10
+g15
+sa(dp404
+g6
+VBut why close any bases when we've got to train troops to fight terrorists around the world?
+p405
+sg8
+VRYAN
+p406
+sg10
+g15
+sa(dp407
+g6
+VIs that everything?
+p408
+sg8
+VJOSH
+p409
+sg10
+g15
+sa(dp410
+g6
+VYeah.
+p411
+sg8
+VDONNA
+p412
+sg10
+g15
+sa(dp413
+g6
+VBecause terrorists are very well trained for deep snow combat like the Soviets were. So maybe we don't need that base in upstate New York anymore. And maybe we should be expanding our desert combat training bases, because, you know, desert warfare's not going out of style anytime soon.
+p414
+sg8
+VJOSH
+p415
+sg10
+g15
+sa(dp416
+g6
+VSo it's an efficiency thing?
+p417
+sg8
+VRYAN
+p418
+sg10
+g15
+sa(dp419
+g6
+VYou're quick.
+p420
+sg8
+VJOSH
+p421
+sg10
+g15
+sa(dp422
+g6
+VSince when is efficiency bad politics?
+p423
+sg8
+VRYAN
+p424
+sg10
+g34
+sa(dp425
+g6
+VSince any place that loses a base loses jobs. You should have seen my hometown when the Army pulled out.
+p426
+sg8
+VDONNA
+p427
+sg10
+g15
+sa(dp428
+g6
+VJosh, got a minute?
+p429
+sg8
+VWILL
+p430
+sg10
+g15
+sa(dp431
+g6
+VAnything to keep me out of that room. You guys go ahead and get organized.
+p432
+sg8
+VJOSH
+p433
+sg10
+g15
+sa(dp434
+g6
+VWhat's Hoynes up to?
+p435
+sg8
+VWILL
+p436
+sg10
+g15
+sa(dp437
+g6
+VDon't know.
+p438
+sg8
+VJOSH
+p439
+sg10
+g15
+sa(dp440
+g6
+VCome on, Josh, you worked for him in the Senate. You know him better than anyone.
+p441
+sg8
+VWILL
+p442
+sg10
+g15
+sa(dp443
+g6
+VWell, turns out, there was at least one side of John Hoynes I didn't know.
+p444
+sg8
+VJOSH
+p445
+sg10
+g15
+sa(dp446
+g6
+VDo you think he actually believes he can put the scandal behind him?
+p447
+sg8
+VWILL
+p448
+sg10
+g15
+sa(dp449
+g6
+VMaybe he just wanted to do one big interview and move on. Start bringing clients into the law firm. Excuse me, I got to get in there.
+p450
+sg8
+VJOSH
+p451
+sg10
+g15
+sa(dp452
+g6
+VBase Closing Commission?
+p453
+sg8
+VWILL
+p454
+sg10
+g15
+sa(dp455
+g6
+VUh, yeah.
+p456
+sg8
+VJOSH
+p457
+sg10
+g15
+sa(dp458
+g6
+VThe Vice President would like to urge you not to close any base in any state with more than one electoral vote.
+p459
+sg8
+VWILL
+p460
+sg10
+g15
+sa(dp461
+g6
+VNo problem.
+p462
+sg8
+VJOSH
+p463
+sg10
+g15
+sa(dp464
+g6
+VGood morning, everyone.
+p465
+sg8
+VJOSH
+p466
+sg10
+g15
+sa(dp467
+g6
+VGood morning, Josh.
+p468
+sg8
+VALL
+p469
+sg10
+g15
+sa(dp470
+g6
+V[whispering] Get him out of that chair. [louder] The President would like me to go over your list of preliminary recommendations so he could have an idea of what you might have in mind.
+p471
+sg8
+VJOSH
+p472
+sg10
+g15
+sa(dp473
+g6
+VShoot.
+p474
+sg8
+VJOSH
+p475
+sg10
+g15
+sa(dp476
+g6
+VFirst on the list is Fort Drum in upstate New York. It's mission is deep snow combat training. The Commission's consensus is that deep snow is no longer a training priority. Next...
+p477
+sg8
+VSTANLEY
+p478
+sg10
+g15
+sa(dp479
+g6
+VWhat we're saying is this country is China's biggest customer, so we ought to be dictating the terms of the deal.
+p480
+sg8
+VTOM
+p481
+sg10
+g15
+sa(dp482
+g6
+VUh-huh.
+p483
+sg8
+VTOBY
+p484
+sg10
+g15
+sa(dp485
+g6
+VLike the evaluation of the yuan...
+p486
+sg8
+VSHELLY
+p487
+sg10
+g15
+sa(dp488
+g6
+VMargaret says Leo needs you.
+p489
+sg8
+VRENA
+p490
+sg10
+g34
+sa(dp491
+g6
+V... low when the dollar is weak.
+p492
+sg8
+VSHELLY
+p493
+sg10
+g15
+sa(dp494
+g6
+VI know.
+p495
+sg8
+VTOBY
+p496
+sg10
+g15
+sa(dp497
+g6
+VIf they let their currency float...
+p498
+sg8
+VSHELLY
+p499
+sg10
+g15
+sa(dp500
+g6
+VTell him I can't.
+p501
+sg8
+VTOBY
+p502
+sg10
+g15
+sa(dp503
+g6
+V... get an export advantage from a weak dollar.
+p504
+sg8
+VSHELLY
+p505
+sg10
+g15
+sa(dp506
+g6
+VInstead, we keep letting them flood this country with cheap stuff made by cheap labor.
+p507
+sg8
+VTOM
+p508
+sg10
+g15
+sa(dp509
+g6
+VAnd slave labor. TOM Right, while they buy nothing from us.
+p510
+sg8
+VSHELLY
+p511
+sg10
+g15
+sa(dp512
+g6
+VI wouldn't call 747s nothing.
+p513
+sg8
+VTOBY
+p514
+sg10
+g15
+sa(dp515
+g6
+VI did. I told Margaret to tell Leo that you're stuck in here, and she said he said no, you're not.
+p516
+sg8
+VRENA
+p517
+sg10
+g15
+sa(dp518
+g6
+VI'm sorry. Please, uh, the President needs me for something, and, uh...
+p519
+sg8
+VTOBY
+p520
+sg10
+g15
+sa(dp521
+g6
+VToby, we're not new in town. You expect us to fall for the old President-needs-us thing?
+p522
+sg8
+VTOM
+p523
+sg10
+g15
+sa(dp524
+g6
+VNo. Leo McGarry just ordered me into his office. And as much as I want to try to save your jobs, I have to try to save mine first, if I'm going to be any use to you at all. So... I'll be back, you know... soon.
+p525
+sg8
+VTOBY
+p526
+sg10
+g15
+sa(dp527
+g6
+VWas there any discussion of exactly how Hoynes could hang in there?
+p528
+sg8
+VC.J.
+p529
+sg10
+g15
+sa(dp530
+g6
+VNo. We just said we didn't think he had to resign over having an affair. That in this day and age, he could get through something like that.
+p531
+sg8
+VLEO
+p532
+sg10
+g15
+sa(dp533
+g6
+VAnd you'd help him get through it?
+p534
+sg8
+VC.J.
+p535
+sg10
+g15
+sa(dp536
+g6
+VI guess.
+p537
+sg8
+VLEO
+p538
+sg10
+g15
+sa(dp539
+g6
+VGuessing's not good enough, Leo. Did you say you'd help him get through it?
+p540
+sg8
+VC.J.
+p541
+sg10
+g15
+sa(dp542
+g6
+VYeah.
+p543
+sg8
+VLEO
+p544
+sg10
+g15
+sa(dp545
+g6
+VDid the President say that?
+p546
+sg8
+VC.J.
+p547
+sg10
+g15
+sa(dp548
+g6
+VMaybe, something like that. I can't remember exactly what he said.
+p549
+sg8
+VLEO
+p550
+sg10
+g15
+sa(dp551
+g6
+VDid you take any notes in the meeting?
+p552
+sg8
+VC.J.
+p553
+sg10
+g15
+sa(dp554
+g6
+VIt wasn't a real meeting. It...
+p555
+sg8
+VLEO
+p556
+sg10
+g15
+sa(dp557
+g6
+VIt was kind of on the fly.
+p558
+sg8
+VLEO
+p559
+sg10
+g15
+sa(dp560
+g6
+VDid you discuss any strategy on how to manage the scandal?
+p561
+sg8
+VC.J.
+p562
+sg10
+g15
+sa(dp563
+g6
+VIt never got that far. Hoynes had his mind made up before we said a word. [to Toby] I need you to get the Mayor in here right away.
+p564
+sg8
+VLEO
+p565
+sg10
+g15
+sa(dp566
+g6
+VWhich mayor?
+p567
+sg8
+VTOBY
+p568
+sg10
+g15
+sa(dp569
+g6
+VD.C., the only mayor we can get in here right away.
+p570
+sg8
+VLEO
+p571
+sg10
+g15
+sa(dp572
+g6
+VI need a meeting with the President on this.
+p573
+sg8
+VC.J.
+p574
+sg10
+g15
+sa(dp575
+g6
+VI can pull a couple of things off his schedule this afternoon.
+p576
+sg8
+VLEO
+p577
+sg10
+g15
+sa(dp578
+g6
+VThe House and Senate just passed the Emergency D.C. Supplemental Appropriation for Snow Removal.
+p579
+sg8
+VLEO
+p580
+sg10
+g15
+sa(dp581
+g6
+VAnd that's the first bill signing we're inviting the Mayor of Washington to?
+p582
+sg8
+VTOBY
+p583
+sg10
+g15
+sa(dp584
+g6
+VThey attached a school voucher program to it.
+p585
+sg8
+VLEO
+p586
+sg10
+g15
+sa(dp587
+g6
+VOh.
+p588
+sg8
+VTOBY
+p589
+sg10
+g15
+sa(dp590
+g6
+VWe - I mean you - someone - has to talk to the Mayor before we veto it.
+p591
+sg8
+VLEO
+p592
+sg10
+g15
+sa(dp593
+g6
+VWhy, you want to put out a joint statement...?
+p594
+sg8
+VTOBY
+p595
+sg10
+g15
+sa(dp596
+g6
+VBecause when everyone in the Briefing Room has that Hoynes article, I'm going to be getting bombarded about what Hoynes says you and the President said. And I've got to be sure, word-for-word sure, about what all three of you said and what you didn't say. I can control this story, Leo. I can get us through this, but only if you tell me everything I need you know.
+p597
+sg8
+VC.J.
+p598
+sg10
+g15
+sa(dp599
+g6
+VYou got it.
+p600
+sg8
+VLEO
+p601
+sg10
+g15
+sa(dp602
+g6
+VI should only talk to the press about this once. I don't want to have to go back out there a second saying, "Oh, yeah, Hoynes was right," about this bit and that bit that you guys forgot to tell me.
+p603
+sg8
+VC.J.
+p604
+sg10
+g15
+sa(dp605
+g6
+VI understand.
+p606
+sg8
+VLEO
+p607
+sg10
+g15
+sa(dp608
+g6
+VWe've got to get our story straight on this today, so...
+p609
+sg8
+VC.J.
+p610
+sg10
+g15
+sa(dp611
+g6
+VShe okay?
+p612
+sg8
+VLEO
+p613
+sg10
+g15
+sa(dp614
+g6
+VWell, you know, she got blind-sided by this Hoynes thing on LIVE TV.
+p615
+sg8
+VTOBY
+p616
+sg10
+g15
+sa(dp617
+g6
+VAnd that got to her?
+p618
+sg8
+VLEO
+p619
+sg10
+g15
+sa(dp620
+g6
+VYeah, it did.
+p621
+sg8
+VTOBY
+p622
+sg10
+g15
+sa(dp623
+g6
+VAre you saying there's nothing we can do?
+p624
+sg8
+VTOM
+p625
+sg10
+g15
+sa(dp626
+g6
+VI'm saying it's not that simple. Look what happened with the steel tariffs you asked for. It killed more jobs in auto manufacturing than it saved in steel production.
+p627
+sg8
+VTOBY
+p628
+sg10
+g15
+sa(dp629
+g6
+VWell that just means we have to pick our targets more carefully.
+p630
+sg8
+VTOM
+p631
+sg10
+g15
+sa(dp632
+g6
+VWe keep picking targets, we're gonna end up in a trade war.
+p633
+sg8
+VTOBY
+p634
+sg10
+g15
+sa(dp635
+g6
+VWe're already in a trade war with China. That's why we gotta make bras our first line of defense.
+p636
+sg8
+VTOM
+p637
+sg10
+g15
+sa(dp638
+g6
+VBras?
+p639
+sg8
+VTOBY
+p640
+sg10
+g15
+sa(dp641
+g6
+VChinese bras are killing us.
+p642
+sg8
+VSHELLY
+p643
+sg10
+g34
+sa(dp644
+g6
+VThey are?
+p645
+sg8
+VTOBY
+p646
+sg10
+g15
+sa(dp647
+g6
+VThey're flooding Wal-Mart with cheap bras. Domestic producers can't compete. China has tripled its market share in two years.
+p648
+sg8
+VSHELLY
+p649
+sg10
+g15
+sa(dp650
+g6
+VI assume we're all okay with French bras, right? 'Cause I, for one, really prefer them, and I wouldn't want...
+p651
+sg8
+VTOBY
+p652
+sg10
+g15
+sa(dp653
+g6
+VThis isn't funny.
+p654
+sg8
+VTOM
+p655
+sg10
+g15
+sa(dp656
+g6
+VOf course not. Look, I am with you on this one. I just wish the President could do something [he laughs] about cheap bras.
+p657
+sg8
+VTOBY
+p658
+sg10
+g15
+sa(dp659
+g6
+VHe can.
+p660
+sg8
+VTOM
+p661
+sg10
+g15
+sa(dp662
+g6
+VHE could activate the textile and apparel import safeguards we got you guys to put in the deal admitting China to the WTO, starting with bras.
+p663
+sg8
+VSHELLY
+p664
+sg10
+g15
+sa(dp665
+g6
+VApparel import safeguards? I didn't know about that.
+p666
+sg8
+VTOBY
+p667
+sg10
+g15
+sa(dp668
+g6
+VEveryone's going to know about it tomorrow when we start burning bras in front of the White House.
+p669
+sg8
+VTOM
+p670
+sg10
+g15
+sa(dp671
+g6
+VI'll be right back.
+p672
+sg8
+VTOBY
+p673
+sg10
+g15
+sa(dp674
+g6
+VDo you have long-run projections for the economies of scale you think are achievable through the net consolidation of troops and material, if all of your recommendations were implemented?
+p675
+sg8
+VED
+p676
+sg10
+g15
+sa(dp677
+g6
+VI need Ed and Larry for a thing about bras.
+p678
+sg8
+VTOBY
+p679
+sg10
+g15
+sa(dp680
+g6
+VYou sure they're the guys for that?
+p681
+sg8
+VJOSH
+p682
+sg10
+g15
+sa(dp683
+g6
+VChinese bras.
+p684
+sg8
+VTOBY
+p685
+sg10
+g15
+sa(dp686
+g6
+VOh, well, they're the experts.
+p687
+sg8
+VJOSH
+p688
+sg10
+g15
+sa(dp689
+g6
+VIs Hoynes crazy enough to run?
+p690
+sg8
+VTOBY
+p691
+sg10
+g15
+sa(dp692
+g6
+VYou want the short answer? Yes.
+p693
+sg8
+VJOSH
+p694
+sg10
+g15
+sa(dp695
+g6
+VIf this article is his first step on the road to political rehab, what does he do next?
+p696
+sg8
+VTOBY
+p697
+sg10
+g15
+sa(dp698
+g6
+VStart putting a staff together.
+p699
+sg8
+VJOSH
+p700
+sg10
+g15
+sa(dp701
+g6
+VI better make some calls.
+p702
+sg8
+VTOBY
+p703
+sg10
+g15
+sa(dp704
+g6
+VYeah.
+p705
+sg8
+VJOSH
+p706
+sg10
+g15
+sa(dp707
+g6
+VThat's why we want to consolidate these five Air Force bases into three...
+p708
+sg8
+VSTANLEY
+p709
+sg10
+g15
+sa(dp710
+g6
+VExcuse me. I'm sorry. Ed, Larry? Toby needs to talk to you about, uh, China. Now.
+p711
+sg8
+VJOSH
+p712
+sg10
+g15
+sa(dp713
+g6
+VI need you two to take over.
+p714
+sg8
+VJOSH
+p715
+sg10
+g15
+sa(dp716
+g6
+VYou sure?
+p717
+sg8
+VDONNA
+p718
+sg10
+g15
+sa(dp719
+g6
+VJust ask, "How much will that save?" every few minutes.  And don't you say a word.
+p720
+sg8
+VJOSH
+p721
+sg10
+g15
+sa(dp722
+g6
+VUh... please continue, General Stanley. Donna and Ryan here will sit in for me.
+p723
+sg8
+VJOSH
+p724
+sg10
+g15
+sa(dp725
+g6
+VAs I was saying, if we consolidate these three Air Force bases into three, we could upgrade all three of the aircraft maintenance facilities to handle major overhauls.
+p726
+sg8
+VSTANLEY
+p727
+sg10
+g15
+sa(dp728
+g6
+VHow much does that save?
+p729
+sg8
+VDONNA
+p730
+sg10
+g11
+sa(dp731
+g6
+VUsing CBO's baseline or the DOD projections?
+p732
+sg8
+VSTANLEY
+p733
+sg10
+g15
+sa(dp734
+g6
+VBoth.
+p735
+sg8
+VRYAN
+p736
+sg10
+g15
+sa(dp737
+g6
+VWell...
+p738
+sg8
+VSTANLEY
+p739
+sg10
+g15
+sa(dp740
+g6
+VRussert's on line three. Time, Newsweek, and, well, everyone's called about the Hoynes article.
+p741
+sg8
+VCAROL
+p742
+sg10
+g15
+sa(dp743
+g6
+VHas Greg Brock called yet?
+p744
+sg8
+VC.J.
+p745
+sg10
+g15
+sa(dp746
+g6
+VNo. And Ben called, said he had tickets to the Kennedy Center this weekend and...
+p747
+sg8
+VCAROL
+p748
+sg10
+g15
+sa(dp749
+g6
+VTell Russert I can't do Meet The Press next week.
+p750
+sg8
+VC.J.
+p751
+sg10
+g15
+sa(dp752
+g6
+VHi, Greg. It's C.J., again. Hey, did I mention how useful it is for a reporter to have the White House Press Secretary owe you one? A big one?
+p753
+sg8
+VC.J.
+p754
+sg10
+g15
+sa(dp755
+g6
+VSo call me, or tell me what dark parking garage to meet you in and I'll be right there. Call me.
+p756
+sg8
+VC.J.
+p757
+sg10
+g15
+sa(dp758
+g6
+VNow.
+p759
+sg8
+VC.J.
+p760
+sg10
+g15
+sa(dp761
+g6
+VGreg Brock is here.
+p762
+sg8
+VCAROL
+p763
+sg10
+g11
+sa(dp764
+g6
+VCome on in, Greg. Nice to formally meet you. Of course, I've seen you out there in the briefings.
+p765
+sg8
+VC.J.
+p766
+sg10
+g15
+sa(dp767
+g6
+VWell, I feel like I know you already.
+p768
+sg8
+VBROCK
+p769
+sg10
+g34
+sa(dp770
+g6
+VReally?
+p771
+sg8
+VC.J.
+p772
+sg10
+g15
+sa(dp773
+g6
+VThere's nothing to do in Paris, so I just sat there, glued to your briefings on C-SPAN every day.
+p774
+sg8
+VBROCK
+p775
+sg10
+g15
+sa(dp776
+g6
+VC-SPAN's what's happening in Paris these days. Can I get you anything? Carol, do we have anything?
+p777
+sg8
+VC.J.
+p778
+sg10
+g15
+sa(dp779
+g6
+VUh, water.
+p780
+sg8
+VCAROL
+p781
+sg10
+g15
+sa(dp782
+g6
+VYeah, thanks.
+p783
+sg8
+VBROCK
+p784
+sg10
+g15
+sa(dp785
+g6
+VIt's D.C. water.
+p786
+sg8
+VCAROL
+p787
+sg10
+g15
+sa(dp788
+g6
+VI'm good.
+p789
+sg8
+VBROCK
+p790
+sg10
+g15
+sa(dp791
+g6
+VEvery word I'm going to say is off the record, so you're not going to need that.
+p792
+sg8
+VC.J.
+p793
+sg10
+g15
+sa(dp794
+g6
+VOkay.
+p795
+sg8
+VBROCK
+p796
+sg10
+g15
+sa(dp797
+g6
+VI assume Drudge's quotes from your piece are accurate.
+p798
+sg8
+VC.J.
+p799
+sg10
+g15
+sa(dp800
+g6
+VYeah. I don't know how he does it.
+p801
+sg8
+VBROCK
+p802
+sg10
+g15
+sa(dp803
+g6
+VI'm going to need an advance copy of your piece.
+p804
+sg8
+VC.J.
+p805
+sg10
+g15
+sa(dp806
+g6
+VSo much for beating around the bush, huh? You can get an advance copy of the Sunday Times Magazine Thursday.
+p807
+sg8
+VBROCK
+p808
+sg10
+g15
+sa(dp809
+g6
+VEveryone can get it Thursday.
+p810
+sg8
+VC.J.
+p811
+sg10
+g15
+sa(dp812
+g6
+VRight.
+p813
+sg8
+VBROCK
+p814
+sg10
+g15
+sa(dp815
+g6
+VI wouldn't be talking to you if I needed it Thursday. I need it before anyone else has it. I already got hit with questions about it. I need it now.
+p816
+sg8
+VC.J.
+p817
+sg10
+g15
+sa(dp818
+g6
+VSorry. I never give subjects of an article sneak peeks.
+p819
+sg8
+VBROCK
+p820
+sg10
+g15
+sa(dp821
+g6
+VBut I'm not a subject of the piece. Am I?
+p822
+sg8
+VC.J.
+p823
+sg10
+g15
+sa(dp824
+g6
+VSure. Well, if you hear anything about Hoynes making any moves on staff, just let me know. Okay, thanks.
+p825
+sg8
+VJOSH
+p826
+sg10
+g15
+sa(dp827
+g6
+VYou left the kid alone with the brass?
+p828
+sg8
+VJOSH
+p829
+sg10
+g15
+sa(dp830
+g6
+VJust for a minute. He actually seems to have a feel for that stuff.
+p831
+sg8
+VDONNA
+p832
+sg10
+g15
+sa(dp833
+g6
+VHe's faking it. If you learn one thing in prep school, it's how to always pretend like you know what's going on.
+p834
+sg8
+VJOSH
+p835
+sg10
+g15
+sa(dp836
+g6
+VRena says Toby's stuck in some Chinese bra thing and can't...
+p837
+sg8
+VDONNA
+p838
+sg10
+g15
+sa(dp839
+g6
+VOkay, do the Chinese even need bras? I mean, you know...
+p840
+sg8
+VJOSH
+p841
+sg10
+g15
+sa(dp842
+g6
+VNo, I don't know, Josh. Some of us are trying to govern here, Josh. Toby asked if you could cover a meeting with the Mayor. I said yes, assuming you're trying to stay out of the Base Closing meeting.
+p843
+sg8
+VDONNA
+p844
+sg10
+g15
+sa(dp845
+g6
+VGood call.
+p846
+sg8
+VJOSH
+p847
+sg10
+g15
+sa(dp848
+g6
+VGreat. Mayor's on his way.
+p849
+sg8
+VDONNA
+p850
+sg10
+g15
+sa(dp851
+g6
+VHey, Donna. Which mayor?
+p852
+sg8
+VJOSH
+p853
+sg10
+g15
+sa(dp854
+g6
+VI'm not going to play that game - who's in the piece, who's not, what's in the piece, what's not.
+p855
+sg8
+VBROCK
+p856
+sg10
+g15
+sa(dp857
+g6
+VI wouldn't be asking you this if Drudge didn't already have it, if he wasn't quoting in online.
+p858
+sg8
+VC.J.
+p859
+sg10
+g15
+sa(dp860
+g6
+VDrudge has better sources than you do, like maybe Hoynes's publisher.
+p861
+sg8
+VBROCK
+p862
+sg10
+g15
+sa(dp863
+g6
+VPublisher? Hoynes is writing a book?
+p864
+sg8
+VC.J.
+p865
+sg10
+g15
+sa(dp866
+g6
+VJust got a $5 million advance. Must be saving some good stuff for it. Wish I could help you out, C.J.
+p867
+sg8
+VBROCK
+p868
+sg10
+g15
+sa(dp869
+g6
+VBut, that's just my policy: no sneak peeks.
+p870
+sg8
+VBROCK
+p871
+sg10
+g15
+sa(dp872
+g6
+VBy the way, you think there's any chance I could get an exclusive with the President on his reaction to what Hoynes has to say in my article?
+p873
+sg8
+VBROCK
+p874
+sg10
+g15
+sa(dp875
+g6
+VYeah, there's a chance. But I can't promise it.
+p876
+sg8
+VC.J.
+p877
+sg10
+g15
+sa(dp878
+g6
+VCan you promise me he won't give anyone else an exclusive on this?
+p879
+sg8
+VBROCK
+p880
+sg10
+g15
+sa(dp881
+g6
+VYes.
+p882
+sg8
+VC.J.
+p883
+sg10
+g34
+sa(dp884
+g6
+VCan you promise me that if he issues a written statement I'll get a copy of it before anyone else?
+p885
+sg8
+VBROCK
+p886
+sg10
+g15
+sa(dp887
+g6
+VYes.
+p888
+sg8
+VC.J.
+p889
+sg10
+g34
+sa(dp890
+g6
+VYou sure you can't promise me an exclusive?
+p891
+sg8
+VBROCK
+p892
+sg10
+g15
+sa(dp893
+g6
+VYeah, I'm sure.
+p894
+sg8
+VC.J.
+p895
+sg10
+g11
+sa(dp896
+g6
+VWell... I really enjoyed finally meeting you.
+p897
+sg8
+VBROCK
+p898
+sg10
+g34
+sa(dp899
+g6
+VCan you print copies of this for Toby, Josh, Leo, and the President?
+p900
+sg8
+VC.J.
+p901
+sg10
+g15
+sa(dp902
+g6
+VThe Hoynes article? How bad is it?
+p903
+sg8
+VCAROL
+p904
+sg10
+g15
+sa(dp905
+g6
+VSo, it's true? We could use the, uh...
+p906
+sg8
+VTOBY
+p907
+sg10
+g15
+sa(dp908
+g6
+VThe apparel import safeguards.
+p909
+sg8
+VED
+p910
+sg10
+g15
+sa(dp911
+g6
+VWe could use that to safeguard American bras?
+p912
+sg8
+VTOBY
+p913
+sg10
+g15
+sa(dp914
+g6
+VYes, but we can't do anything until you guys file a safeguard petition.
+p915
+sg8
+VED
+p916
+sg10
+g15
+sa(dp917
+g6
+VDone.
+p918
+sg8
+VTOM
+p919
+sg10
+g15
+sa(dp920
+g6
+VBut...
+p921
+sg8
+VLARRY
+p922
+sg10
+g11
+sa(dp923
+g6
+VThere's another but?
+p924
+sg8
+VTOBY
+p925
+sg10
+g15
+sa(dp926
+g6
+VOur trade representative is in Beijing right now working on a deal for exporting American-made cars to China.
+p927
+sg8
+VLARRY
+p928
+sg10
+g15
+sa(dp929
+g6
+VAnd using the apparel import safeguard against bras could kill the deal on bras?
+p930
+sg8
+VSHELLY
+p931
+sg10
+g15
+sa(dp932
+g6
+VExactly.
+p933
+sg8
+VLARRY
+p934
+sg10
+g15
+sa(dp935
+g6
+V[whispering] The Hoynes aticle.
+p936
+sg8
+VCAROL
+p937
+sg10
+g15
+sa(dp938
+g6
+VWe better talk to the auto workers on this.
+p939
+sg8
+VTOM
+p940
+sg10
+g15
+sa(dp941
+g6
+VYou know what they're going to say. That's not going to make this any easier.
+p942
+sg8
+VSHELLY
+p943
+sg10
+g15
+sa(dp944
+g6
+VWhy don't we take a break, and you guys can talk amongst yourselves about which is more important to you: cars or bras?
+p945
+sg8
+VTOBY
+p946
+sg10
+g15
+sa(dp947
+g6
+VWe really appreciate your coming in, Mr. Mayor.
+p948
+sg8
+VJOSH
+p949
+sg10
+g15
+sa(dp950
+g6
+VAh, nice to finally see the inside of the place.
+p951
+sg8
+VMAYOR
+p952
+sg10
+g15
+sa(dp953
+g6
+VCould you... excuse me for one second?
+p954
+sg8
+VJOSH
+p955
+sg10
+g15
+sa(dp956
+g6
+VUh, sure.
+p957
+sg8
+VMAYOR
+p958
+sg10
+g11
+sa(dp959
+g6
+VBut if the port is too shallow for most of the Navy's ships, then why wouldn't you recommend closing the port?
+p960
+sg8
+VRYAN
+p961
+sg10
+g15
+sa(dp962
+g6
+VWhose district?
+p963
+sg8
+VJOSH
+p964
+sg10
+g15
+sa(dp965
+g6
+VChris Finn's.
+p966
+sg8
+VSTANLEY
+p967
+sg10
+g15
+sa(dp968
+g6
+VBecause the Base Closing Commission, while independent, is not insane. They're not going to recommend closing a base in a congressional district represented by the Chairman of the Appropriations Subcommittee for Armed Services. Sorry about this. I'm gonna be tied up a bit longer. Don't let Ryan slow you down.
+p969
+sg8
+VJOSH
+p970
+sg10
+g15
+sa(dp971
+g6
+VWe also recommend no changes for Port Mugu Naval Air Station... He walks back out into the hallway and starts walking with the Mayor.
+p972
+sg8
+VSTANLEY
+p973
+sg10
+g15
+sa(dp974
+g6
+VThis can't be your first time here.
+p975
+sg8
+VJOSH
+p976
+sg10
+g15
+sa(dp977
+g6
+VIt is during this administration.
+p978
+sg8
+VMAYOR
+p979
+sg10
+g15
+sa(dp980
+g6
+VOh.
+p981
+sg8
+VJOSH
+p982
+sg10
+g15
+sa(dp983
+g6
+VThe Hoynes article.
+p984
+sg8
+VCAROL
+p985
+sg10
+g15
+sa(dp986
+g6
+VSo, the President wants to issue a joint statement with you opposing the voucher rider on the snow removal appropriation.
+p987
+sg8
+VJOSH
+p988
+sg10
+g15
+sa(dp989
+g6
+VBut I want the money.
+p990
+sg8
+VMAYOR
+p991
+sg10
+g15
+sa(dp992
+g6
+VOh, we'll get it for you eventually. We'll just have to go through at least one round of the President vetoing it in order to get them to send us a clean bill with no vouchers attached.
+p993
+sg8
+VJOSH
+p994
+sg10
+g15
+sa(dp995
+g6
+VI want the voucher money, too.
+p996
+sg8
+VMAYOR
+p997
+sg10
+g15
+sa(dp998
+g6
+VHuh?
+p999
+sg8
+VJOSH
+p1000
+sg10
+g15
+sa(dp1001
+g6
+VI'd like the President to sign the bill with the vouchers.
+p1002
+sg8
+VMAYOR
+p1003
+sg10
+g15
+sa(dp1004
+g6
+VMr. Mayor, he's vetoed every school vouchers bill they've sent him.
+p1005
+sg8
+VJOSH
+p1006
+sg10
+g15
+sa(dp1007
+g6
+VI know, but this is just a pilot program, a little voucher experiment, help pay for maybe a couple hundred kids to go to private school, out of 68,000 in the D.C. public school system.
+p1008
+sg8
+VMAYOR
+p1009
+sg10
+g15
+sa(dp1010
+g6
+VWe're against vouchers, period. And by "we", I mean the entire Democratic Party. You're still a Democrat, right?
+p1011
+sg8
+VJOSH
+p1012
+sg10
+g15
+sa(dp1013
+g6
+VThis bill got 4 votes in the Senate and 42 in the House. Look, it wasn't my idea to put Congress in control of the D.C. budget.
+p1014
+sg8
+VMAYOR
+p1015
+sg10
+g15
+sa(dp1016
+g6
+VThen, help us fight them on this.
+p1017
+sg8
+VJOSH
+p1018
+sg10
+g15
+sa(dp1019
+g6
+VWhy don't you help me get some kids a better education?
+p1020
+sg8
+VMAYOR
+p1021
+sg10
+g15
+sa(dp1022
+g6
+VBut if we bring him in to talk about it, then there's...
+p1023
+sg8
+VRYAN
+p1024
+sg10
+g15
+sa(dp1025
+g6
+VCongressman Finn would not only prevent us from closing the base in his district, he would make it his life's mission to derail the entire process. The next base on our list is 29 Palms Marine Base which is our best training facility for desert warfare...
+p1026
+sg8
+VSTANLEY
+p1027
+sg10
+g15
+sa(dp1028
+g6
+VHi. Could you get me Congressman Christopher Finn, please? ... Ryan Pierce. I'm with the, uh, Base Closing Commission.
+p1029
+sg8
+VRYAN
+p1030
+sg10
+g15
+sa(dp1031
+g6
+VCan you believe this guy?
+p1032
+sg8
+VTOBY
+p1033
+sg10
+g15
+sa(dp1034
+g6
+VYeah, I can. This is the Hoynes I know: self-centered, self-important...
+p1035
+sg8
+VJOSH
+p1036
+sg10
+g15
+sa(dp1037
+g6
+VCharlie, they ready for me?
+p1038
+sg8
+VC.J.
+p1039
+sg10
+g15
+sa(dp1040
+g6
+VUh, I think they're still reading but you can go in. C.J.?
+p1041
+sg8
+VCHARLIE
+p1042
+sg10
+g15
+sa(dp1043
+g6
+VYeah?
+p1044
+sg8
+VC.J.
+p1045
+sg10
+g15
+sa(dp1046
+g6
+VDon't' go on TV with Taylor Reid again unless you're going to tell him what an idiotic, shallow, uninformed, lying punk he is.
+p1047
+sg8
+VCHARLIE
+p1048
+sg10
+g15
+sa(dp1049
+g6
+VI think he knows that.
+p1050
+sg8
+VC.J.
+p1051
+sg10
+g15
+sa(dp1052
+g6
+VI never said he could "beat the rap."
+p1053
+sg8
+VLEO
+p1054
+sg10
+g15
+sa(dp1055
+g6
+VI didn't say any of this.
+p1056
+sg8
+VBARTLET
+p1057
+sg10
+g15
+sa(dp1058
+g6
+VWe're going to have to get the Mayor on the President's schedule today.
+p1059
+sg8
+VTOBY
+p1060
+sg10
+g15
+sa(dp1061
+g6
+VWhich mayor?
+p1062
+sg8
+VCHARLIE
+p1063
+sg10
+g15
+sa(dp1064
+g6
+VD.C.
+p1065
+sg8
+VJOSH
+p1066
+sg10
+g15
+sa(dp1067
+g6
+VIt's about time.
+p1068
+sg8
+VCHARLIE
+p1069
+sg10
+g15
+sa(dp1070
+g6
+VHuh?
+p1071
+sg8
+VJOSH
+p1072
+sg10
+g15
+sa(dp1073
+g6
+VNo problem.
+p1074
+sg8
+VCHARLIE
+p1075
+sg10
+g15
+sa(dp1076
+g6
+VOh, for God's sake. I don't remember the exact words I used.
+p1077
+sg8
+VLEO
+p1078
+sg10
+g15
+sa(dp1079
+g6
+VWeather. I think you said we could "weather this."
+p1080
+sg8
+VBARTLET
+p1081
+sg10
+g15
+sa(dp1082
+g6
+VHow is that different from "beat the rap"?
+p1083
+sg8
+VC.J.
+p1084
+sg10
+g15
+sa(dp1085
+g6
+VIt's completely different.
+p1086
+sg8
+VBARTLET
+p1087
+sg10
+g15
+sa(dp1088
+g6
+VIt's not different enough for me to go out there and fight about it. Did you tell him he shouldn't have used White House phones?
+p1089
+sg8
+VC.J.
+p1090
+sg10
+g15
+sa(dp1091
+g6
+VNo. I said "Didn't you know the White House keeps records of all calls?".
+p1092
+sg8
+VLEO
+p1093
+sg10
+g15
+sa(dp1094
+g6
+VOh, great. That's completely different. Did you tell him we could say this is a right wing conspiracy against the White House?
+p1095
+sg8
+VC.J.
+p1096
+sg10
+g15
+sa(dp1097
+g6
+VAbsolutely not.
+p1098
+sg8
+VLEO
+p1099
+sg10
+g15
+sa(dp1100
+g6
+VDid you tell him he could deny the whole thing?
+p1101
+sg8
+VC.J.
+p1102
+sg10
+g15
+sa(dp1103
+g6
+VI asked him if he was "in a position to deny it".
+p1104
+sg8
+VLEO
+p1105
+sg10
+g15
+sa(dp1106
+g6
+VOkay, um, couple more things. He says you pressed him for details and he said "It's none of your business"?
+p1107
+sg8
+VC.J.
+p1108
+sg10
+g15
+sa(dp1109
+g6
+VYes.
+p1110
+sg8
+VBARTLET
+p1111
+sg10
+g34
+sa(dp1112
+g6
+VLeo, did you say the woman was a "cheap whore", and did you suggest she had "other customers"?
+p1113
+sg8
+VC.J.
+p1114
+sg10
+g15
+sa(dp1115
+g6
+VNo, I said she was a "cheap person" because she sold her story. What kind of person does that?
+p1116
+sg8
+VLEO
+p1117
+sg10
+g15
+sa(dp1118
+g6
+VAnd Mr. President, did you say "We've got to start attacking her right tonight, right now"?
+p1119
+sg8
+VC.J.
+p1120
+sg10
+g15
+sa(dp1121
+g6
+VNo.
+p1122
+sg8
+VBARTLET
+p1123
+sg10
+g15
+sa(dp1124
+g6
+VAnything like that?
+p1125
+sg8
+VC.J.
+p1126
+sg10
+g15
+sa(dp1127
+g6
+VI think I said something like if we're going to get him through this, we're going to have to start right now.
+p1128
+sg8
+VBARTLET
+p1129
+sg10
+g15
+sa(dp1130
+g6
+VAnd I said since she sold her story she's not going to have a lot of credibility.
+p1131
+sg8
+VLEO
+p1132
+sg10
+g15
+sa(dp1133
+g6
+VAnything else about the woman?
+p1134
+sg8
+VC.J.
+p1135
+sg10
+g15
+sa(dp1136
+g6
+VNothing.
+p1137
+sg8
+VBARTLET
+p1138
+sg10
+g15
+sa(dp1139
+g6
+VYou sure?
+p1140
+sg8
+VC.J.
+p1141
+sg10
+g15
+sa(dp1142
+g6
+VYeah.
+p1143
+sg8
+VBARTLET
+p1144
+sg10
+g15
+sa(dp1145
+g6
+VI'm done.
+p1146
+sg8
+VC.J.
+p1147
+sg10
+g15
+sa(dp1148
+g6
+VYou think he's getting ready to run?
+p1149
+sg8
+VBARTLET
+p1150
+sg10
+g15
+sa(dp1151
+g6
+VMade some calls. He hasn't made any moves on staff. Got some calls out to the usual suspects in Iowa and New Hampshire, I'm waiting to hear...
+p1152
+sg8
+VJOSH
+p1153
+sg10
+g15
+sa(dp1154
+g6
+VHe's writing a book.
+p1155
+sg8
+VC.J.
+p1156
+sg10
+g15
+sa(dp1157
+g6
+VA book?
+p1158
+sg8
+VTOBY
+p1159
+sg10
+g15
+sa(dp1160
+g6
+VGreg Brock told me. Big advance.
+p1161
+sg8
+VC.J.
+p1162
+sg10
+g15
+sa(dp1163
+g6
+VThen he's definitely running.
+p1164
+sg8
+VLEO
+p1165
+sg10
+g15
+sa(dp1166
+g6
+VHe's going to make the book the final word on the scandal, hold his wife's hand on Oprah, and catch the next flight to Iowa.
+p1167
+sg8
+VJOSH
+p1168
+sg10
+g15
+sa(dp1169
+g6
+VAnd rewrite history with the book.
+p1170
+sg8
+VLEO
+p1171
+sg10
+g15
+sa(dp1172
+g6
+VHis own version of every conversation we've ever had with him.
+p1173
+sg8
+VBARTLET
+p1174
+sg10
+g15
+sa(dp1175
+g6
+VWe got to take a shot at Hoynes. We got to let him know we have ways of fighting back.
+p1176
+sg8
+VWILL
+p1177
+sg10
+g15
+sa(dp1178
+g6
+VWhat ways?
+p1179
+sg8
+VJOSH
+p1180
+sg10
+g15
+sa(dp1181
+g6
+VWe need a list.
+p1182
+sg8
+VWILL
+p1183
+sg10
+g15
+sa(dp1184
+g6
+VOf what?
+p1185
+sg8
+VTOBY
+p1186
+sg10
+g15
+sa(dp1187
+g6
+VA list of all his private, on-the-job screw-ups. Every time Hoynes gave the President bad advice, every mistake he ever made, big and small.
+p1188
+sg8
+VWILL
+p1189
+sg10
+g15
+sa(dp1190
+g6
+VThat mess he made with Mexico on immigration.
+p1191
+sg8
+VLEO
+p1192
+sg10
+g15
+sa(dp1193
+g6
+VThe way he tipped our hand on the Energy bill.
+p1194
+sg8
+VJOSH
+p1195
+sg10
+g15
+sa(dp1196
+g6
+VAnd lost the entire New York delegation on the Transportation bill.
+p1197
+sg8
+VTOBY
+p1198
+sg10
+g15
+sa(dp1199
+g6
+VWe start leaking it to the press, bit by bit.
+p1200
+sg8
+VWILL
+p1201
+sg10
+g15
+sa(dp1202
+g6
+VNo, give it to me. I'll fire a warning shot.
+p1203
+sg8
+VC.J.
+p1204
+sg10
+g15
+sa(dp1205
+g6
+VYou can't do that in the Briefing Room. It'll make it too big a story.
+p1206
+sg8
+VTOBY
+p1207
+sg10
+g15
+sa(dp1208
+g6
+VWe'll all look bad.
+p1209
+sg8
+VJOSH
+p1210
+sg10
+g15
+sa(dp1211
+g6
+VI won't do it in the briefing.
+p1212
+sg8
+VC.J.
+p1213
+sg10
+g15
+sa(dp1214
+g6
+VYou'll have the list in an hour.
+p1215
+sg8
+VLEO
+p1216
+sg10
+g15
+sa(dp1217
+g6
+VThe first ten pages are legislative achievements.
+p1218
+sg8
+VCAROL
+p1219
+sg10
+g15
+sa(dp1220
+g6
+VYou mean the ones Hoynes almost screwed up?
+p1221
+sg8
+VC.J.
+p1222
+sg10
+g15
+sa(dp1223
+g6
+VRight. And the next section is the bills he really did screw up, and the last 12 pages have all the diplomatic stuff.
+p1224
+sg8
+VCAROL
+p1225
+sg10
+g15
+sa(dp1226
+g6
+VHe managed to offend 7 South American heads of states in a five-day trip.
+p1227
+sg8
+VTOBY
+p1228
+sg10
+g15
+sa(dp1229
+g6
+VGot the China statement?
+p1230
+sg8
+VC.J.
+p1231
+sg10
+g15
+sa(dp1232
+g6
+VWe're going to make a move on bras. You sure you don't want to insert a joke here?
+p1233
+sg8
+VTOBY
+p1234
+sg10
+g15
+sa(dp1235
+g6
+VSo, we want to scare them on bras to get a better deal on cars.
+p1236
+sg8
+VC.J.
+p1237
+sg10
+g15
+sa(dp1238
+g6
+VExactly, so, go tough on bras but not too tough. And promise me something.
+p1239
+sg8
+VTOBY
+p1240
+sg10
+g15
+sa(dp1241
+g6
+VWhat?
+p1242
+sg8
+VC.J.
+p1243
+sg10
+g15
+sa(dp1244
+g6
+VYou'll never let them make a list of my screw-ups. They wouldn't have enough paper.
+p1245
+sg8
+VTOBY
+p1246
+sg10
+g15
+sa(dp1247
+g6
+VThe President can sign the bill and say he still opposes vouchers. He signs bills with little things in them that he opposes all the time.
+p1248
+sg8
+VMAYOR
+p1249
+sg10
+g15
+sa(dp1250
+g6
+VWe open the door an inch on vouchers, we'd have an open revolt by Democrats on the Hill.
+p1251
+sg8
+VJOSH
+p1252
+sg10
+g15
+sa(dp1253
+g6
+VUh, I'm sorry... Mr. Mayor. Can you excuse me for a second?
+p1254
+sg8
+VJOSH
+p1255
+sg10
+g15
+sa(dp1256
+g6
+VSure. I'll wait.
+p1257
+sg8
+VMAYOR
+p1258
+sg10
+g15
+sa(dp1259
+g6
+VCongressman Finn...
+p1260
+sg8
+VJOSH
+p1261
+sg10
+g15
+sa(dp1262
+g6
+VIt's been there since World War II. The town grew up around the base. There is no town without the base.
+p1263
+sg8
+VFINN
+p1264
+sg10
+g15
+sa(dp1265
+g6
+VCongressman, I want you to know you have the President's full support on this.
+p1266
+sg8
+VJOSH
+p1267
+sg10
+g15
+sa(dp1268
+g6
+VSee? President gets it. You can't close this base. Thanks, Josh.
+p1269
+sg8
+VFINN
+p1270
+sg10
+g15
+sa(dp1271
+g6
+VJosh, we didn't...
+p1272
+sg8
+VSTANLEY
+p1273
+sg10
+g15
+sa(dp1274
+g6
+VUh, I just thought we should bring...
+p1275
+sg8
+VRYAN
+p1276
+sg10
+g15
+sa(dp1277
+g6
+VCan I see you for a second?
+p1278
+sg8
+VJOSH
+p1279
+sg10
+g15
+sa(dp1280
+g6
+VOkay, that's it. You're fired!
+p1281
+sg8
+VJOSH
+p1282
+sg10
+g15
+sa(dp1283
+g6
+VThat's good, okay. Wave your finger in my face, act like you're going to hit me.
+p1284
+sg8
+VRYAN
+p1285
+sg10
+g15
+sa(dp1286
+g6
+VAre you out of your mind?
+p1287
+sg8
+VJOSH
+p1288
+sg10
+g15
+sa(dp1289
+g6
+VThat's good. That's great. Show Congressman Finn you are ready to kill to save his base. Come on, he's going to love you for this. He'll back you up on everything you want the Commissioners to do. And believe me, they're a lot more afraid of him than they are of you.
+p1290
+sg8
+VRYAN
+p1291
+sg10
+g15
+sa(dp1292
+g6
+VJust give me your West Wing pass.
+p1293
+sg8
+VJOSH
+p1294
+sg10
+g15
+sa(dp1295
+g6
+VOh, that's good. That's good. Here, here. Does Finn look like he's buying this?
+p1296
+sg8
+VRYAN
+p1297
+sg10
+g15
+sa(dp1298
+g6
+VI told you not to open your mouth in that room.
+p1299
+sg8
+VJOSH
+p1300
+sg10
+g15
+sa(dp1301
+g6
+VHe's going to be grateful to you for the rest of his life for saving his base. You're going to get credit for what the Commission was going to do anyway.
+p1302
+sg8
+VRYAN
+p1303
+sg10
+g15
+sa(dp1304
+g6
+VYou planned this?
+p1305
+sg8
+VJOSH
+p1306
+sg10
+g15
+sa(dp1307
+g6
+VYou want me to look like I'm crying? I can do that. I can look like I'm crying.
+p1308
+sg8
+VRYAN
+p1309
+sg10
+g15
+sa(dp1310
+g6
+VStop.
+p1311
+sg8
+VJOSH
+p1312
+sg10
+g15
+sa(dp1313
+g6
+VHe ready for us?
+p1314
+sg8
+VJOSH
+p1315
+sg10
+g15
+sa(dp1316
+g6
+VUh, a couple of minutes.
+p1317
+sg8
+VCHARLIE
+p1318
+sg10
+g15
+sa(dp1319
+g6
+VMr. Mayor, hi, I'm Charlie Young.
+p1320
+sg8
+VCHARLIE
+p1321
+sg10
+g15
+sa(dp1322
+g6
+VHey, Charlie. Good to meet you.
+p1323
+sg8
+VMAYOR
+p1324
+sg10
+g15
+sa(dp1325
+g6
+VI'm doing great, just great. I wanted to introduce myself because, well, I'm a big fan.
+p1326
+sg8
+VCHARLIE
+p1327
+sg10
+g15
+sa(dp1328
+g6
+VWell, thank you.
+p1329
+sg8
+VMAYOR
+p1330
+sg10
+g34
+sa(dp1331
+g6
+VI voted for you both times.
+p1332
+sg8
+VCHARLIE
+p1333
+sg10
+g15
+sa(dp1334
+g6
+VI hope you're gonna vote for me next time.
+p1335
+sg8
+VMAYOR
+p1336
+sg10
+g15
+sa(dp1337
+g6
+VEvery time.
+p1338
+sg8
+VCHARLIE
+p1339
+sg10
+g15
+sa(dp1340
+g6
+VNo, the President has no intention of starting a worldwide bra war.
+p1341
+sg8
+VC.J.
+p1342
+sg10
+g15
+sa(dp1343
+g6
+VI really don't think the President would ever start a war that the French might actually win.
+p1344
+sg8
+VC.J.
+p1345
+sg10
+g15
+sa(dp1346
+g6
+VC.J., can you confirm or deny the statements former Vice President John Hoynes has attributed to President Bartlet and Leo McGarry?
+p1347
+sg8
+VMARK
+p1348
+sg10
+g15
+sa(dp1349
+g6
+VMark, the President...
+p1350
+sg8
+VC.J.
+p1351
+sg10
+g15
+sa(dp1352
+g6
+VSpecifically, did they tell him he could beat the rap and they would help him do it?
+p1353
+sg8
+VMARK
+p1354
+sg10
+g15
+sa(dp1355
+g6
+VOkay, everyone, get this down because I'm only going to say this once; the President and Mr. McGarry feel they have not been accurately quoted...
+p1356
+sg8
+VC.J.
+p1357
+sg10
+g15
+sa(dp1358
+g6
+VHold on, Mark. They refuse to comment on any part of the conversation they had with the Vice President just prior...
+p1359
+sg8
+VC.J.
+p1360
+sg10
+g15
+sa(dp1361
+g6
+VI'm sorry, Mr. President, but we can argue this all night and I'm still not going to change my mind.
+p1362
+sg8
+VMAYOR
+p1363
+sg10
+g15
+sa(dp1364
+g6
+VAgain.
+p1365
+sg8
+VBARTLET
+p1366
+sg10
+g15
+sa(dp1367
+g6
+VI'm not the only one. My school board president has changed her mind, too.
+p1368
+sg8
+VMAYOR
+p1369
+sg10
+g15
+sa(dp1370
+g6
+VJany...
+p1371
+sg8
+VJOSH
+p1372
+sg10
+g15
+sa(dp1373
+g6
+VScott.
+p1374
+sg8
+VMAYOR
+p1375
+sg10
+g15
+sa(dp1376
+g6
+VShe's in favor of vouchers now? She used to rail against them.
+p1377
+sg8
+VJOSH
+p1378
+sg10
+g15
+sa(dp1379
+g6
+VAfter six years of us promising to make schools better next year, we're ready to give vouchers a try. We're ready to give anything a try.
+p1380
+sg8
+VMAYOR
+p1381
+sg10
+g15
+sa(dp1382
+g6
+VYou start handing out tuition vouchers for private school, you're sending the message that it's time to give up on public schools.
+p1383
+sg8
+VBARTLET
+p1384
+sg10
+g15
+sa(dp1385
+g6
+VWith all due respect, Mr. President, no one gets to talk to me about giving up on public schools. I assume I'm the only person in this room who actually went to public school.
+p1386
+sg8
+VMAYOR
+p1387
+sg10
+g15
+sa(dp1388
+g6
+VAnd you couldn't be a better advertisement for them.
+p1389
+sg8
+VBARTLET
+p1390
+sg10
+g15
+sa(dp1391
+g6
+VKids weren't bringing guns to school in my day.
+p1392
+sg8
+VMAYOR
+p1393
+sg10
+g15
+sa(dp1394
+g6
+VRepublicans want to spend more on D.C. education, they should spend it on public schools.
+p1395
+sg8
+VBARTLET
+p1396
+sg10
+g15
+sa(dp1397
+g6
+VWe spend over 13,000 per student, that's more than anywhere else in the country, and we don't have a lot to show for it.
+p1398
+sg8
+VMAYOR
+p1399
+sg10
+g15
+sa(dp1400
+g6
+VBut if we start diverting money away from public schools, that's the end of public education.
+p1401
+sg8
+VBARTLET
+p1402
+sg10
+g15
+sa(dp1403
+g6
+VThis is extra money Republicans will give me for school vouchers, nothing else.
+p1404
+sg8
+VMAYOR
+p1405
+sg10
+g15
+sa(dp1406
+g6
+VThey're just using you to try and divide the Party.
+p1407
+sg8
+VBARTLET
+p1408
+sg10
+g15
+sa(dp1409
+g6
+VI'm the only mayor in America whose budget is controlled by Congress and the President. And you guys never fail to play political games over the city that I'm trying to run.
+p1410
+sg8
+VMAYOR
+p1411
+sg10
+g15
+sa(dp1412
+g6
+VYour Honor, I'm not trying to tell you how to run your city.
+p1413
+sg8
+VBARTLET
+p1414
+sg10
+g15
+sa(dp1415
+g6
+VYes, you are, Mr. President. Congress is too, and I resent it. But this time they want to give me money that might actually help some students. I'm sorry. I don't know how to refuse that.
+p1416
+sg8
+VMAYOR
+p1417
+sg10
+g15
+sa(dp1418
+g6
+VThis is a pilot program?
+p1419
+sg8
+VBARTLET
+p1420
+sg10
+g15
+sa(dp1421
+g6
+VEnough money for a couple hundred students.
+p1422
+sg8
+VJOSH
+p1423
+sg10
+g15
+sa(dp1424
+g6
+VI have a few thousand names on the waiting list for vouchers already. Go into any one of my schools, ask kids who want to go to college what they think of vouchers. They'll ask where they can sign up.
+p1425
+sg8
+VMAYOR
+p1426
+sg10
+g15
+sa(dp1427
+g6
+VCould you ask Charlie to come in, please?
+p1428
+sg8
+VBARTLET
+p1429
+sg10
+g15
+sa(dp1430
+g6
+VAm I caught up on phone calls?
+p1431
+sg8
+VC.J.
+p1432
+sg10
+g15
+sa(dp1433
+g6
+VYou got everybody except Ben. You want me to see if I can get him?
+p1434
+sg8
+VCAROL
+p1435
+sg10
+g15
+sa(dp1436
+g6
+VNo, thanks.
+p1437
+sg8
+VC.J.
+p1438
+sg10
+g15
+sa(dp1439
+g6
+VWhat? Did I screw up the China thing?
+p1440
+sg8
+VC.J.
+p1441
+sg10
+g15
+sa(dp1442
+g6
+VNo. That was great. Perfect. You going over there now?
+p1443
+sg8
+VTOBY
+p1444
+sg10
+g15
+sa(dp1445
+g6
+VYeah.
+p1446
+sg8
+VC.J.
+p1447
+sg10
+g15
+sa(dp1448
+g6
+VI thought maybe I could give you a ride.
+p1449
+sg8
+VTOBY
+p1450
+sg10
+g15
+sa(dp1451
+g6
+VNo. Thanks, Toby, but I'll be okay.
+p1452
+sg8
+VC.J.
+p1453
+sg10
+g34
+sa(dp1454
+g6
+VYou sure?
+p1455
+sg8
+VTOBY
+p1456
+sg10
+g15
+sa(dp1457
+g6
+VYeah. I'll see you later.
+p1458
+sg8
+VC.J.
+p1459
+sg10
+g15
+sa(dp1460
+g6
+VTell us where you went to high school.
+p1461
+sg8
+VBARTLET
+p1462
+sg10
+g15
+sa(dp1463
+g6
+VRoosevelt.
+p1464
+sg8
+VCHARLIE
+p1465
+sg10
+g15
+sa(dp1466
+g6
+VA public school.
+p1467
+sg8
+VBARTLET
+p1468
+sg10
+g15
+sa(dp1469
+g6
+VYes, sir.
+p1470
+sg8
+VCHARLIE
+p1471
+sg10
+g34
+sa(dp1472
+g6
+VWhere'd you want to go, Charlie?
+p1473
+sg8
+VMAYOR
+p1474
+sg10
+g15
+sa(dp1475
+g6
+VGonzaga. A parochial school, near Union Station.
+p1476
+sg8
+VCHARLIE
+p1477
+sg10
+g15
+sa(dp1478
+g6
+VWhy?
+p1479
+sg8
+VMAYOR
+p1480
+sg10
+g15
+sa(dp1481
+g6
+VThere's never been a shooting there. They don't even have metal detectors. Almost everyone goes to college.
+p1482
+sg8
+VCHARLIE
+p1483
+sg10
+g15
+sa(dp1484
+g6
+VCouldn't afford it?
+p1485
+sg8
+VMAYOR
+p1486
+sg10
+g15
+sa(dp1487
+g6
+VCouldn't come close to affording it.
+p1488
+sg8
+VCHARLIE
+p1489
+sg10
+g15
+sa(dp1490
+g6
+VYou know what this meeting's about?
+p1491
+sg8
+VBARTLET
+p1492
+sg10
+g15
+sa(dp1493
+g6
+VYes, sir. The mayor told me.
+p1494
+sg8
+VCHARLIE
+p1495
+sg10
+g15
+sa(dp1496
+g6
+VWhat do you think about trying an experimental vouchers program for D.C. schools?
+p1497
+sg8
+VBARTLET
+p1498
+sg10
+g15
+sa(dp1499
+g6
+VI wish they would have had one when I was in school.
+p1500
+sg8
+VCHARLIE
+p1501
+sg10
+g15
+sa(dp1502
+g6
+VYou planning on telling me that anytime soon?
+p1503
+sg8
+VBARTLET
+p1504
+sg10
+g15
+sa(dp1505
+g6
+VCan't say that I was, sir. BARTLET Your Honor, I'm going to need your help putting out some fires within the Party on this one.
+p1506
+sg8
+VCHARLIE
+p1507
+sg10
+g15
+sa(dp1508
+g6
+VYou got it. Thank you, Mr. President.
+p1509
+sg8
+VMAYOR
+p1510
+sg10
+g34
+sa(dp1511
+g6
+VThe Vice President will see you now.
+p1512
+sg8
+VSECRETARY
+p1513
+sg10
+g15
+sa(dp1514
+g6
+VHey, C.J., great to see you.
+p1515
+sg8
+VHOYNES
+p1516
+sg10
+g15
+sa(dp1517
+g6
+VMr. Vice President.
+p1518
+sg8
+VC.J.
+p1519
+sg10
+g15
+sa(dp1520
+g6
+VOh, come on with that title. I think we're back to John now, don't you? How have you been? You look great, just great. Please, sit down.
+p1521
+sg8
+VHOYNES
+p1522
+sg10
+g15
+sa(dp1523
+g6
+VI don't want to take up too much of your time.
+p1524
+sg8
+VC.J.
+p1525
+sg10
+g15
+sa(dp1526
+g6
+VHey, I'm the only lawyer here who doesn't have any clients yet, so I got all the time in the world. Sit, please.
+p1527
+sg8
+VHOYNES
+p1528
+sg10
+g15
+sa(dp1529
+g6
+VYou should take a look at this list.
+p1530
+sg8
+VC.J.
+p1531
+sg10
+g15
+sa(dp1532
+g6
+VIf you're going to continue to try to rehabilitate yourself by throwing mud and lies at the President...
+p1533
+sg8
+VC.J.
+p1534
+sg10
+g15
+sa(dp1535
+g6
+VPlease do. You can give it to whoever's ghost-writing your book.
+p1536
+sg8
+VC.J.
+p1537
+sg10
+g15
+sa(dp1538
+g6
+VYou can tell the President he doesn't have to worry about the book. I'm not going to try to make him look bad. I just wanted to get this scandal behind me, so I can get on with my life.
+p1539
+sg8
+VHOYNES
+p1540
+sg10
+g15
+sa(dp1541
+g6
+VTell the truth, the whole truth, and nothing but the truth?
+p1542
+sg8
+VC.J.
+p1543
+sg10
+g15
+sa(dp1544
+g6
+VWell... I'm gonna call it Full Disclosure. What do you think? Good title?
+p1545
+sg8
+VHOYNES
+p1546
+sg10
+g15
+sa(dp1547
+g6
+VAm I going to be in the book?
+p1548
+sg8
+VC.J.
+p1549
+sg10
+g15
+sa(dp1550
+g6
+VYes. Not mentioning you would be kind of strange, don't you think? I mean, next to the President and the Vice President, you're the most visible person working in the White House.
+p1551
+sg8
+VHOYNES
+p1552
+sg10
+g15
+sa(dp1553
+g6
+VI'd prefer not to be.
+p1554
+sg8
+VC.J.
+p1555
+sg10
+g15
+sa(dp1556
+g6
+VC.J., you've got nothing to worry about, I promise.
+p1557
+sg8
+VHOYNES
+p1558
+sg10
+g15
+sa(dp1559
+g6
+VWhat are you going to do in the campaign when the stories start coming out?
+p1560
+sg8
+VC.J.
+p1561
+sg10
+g15
+sa(dp1562
+g6
+VThose stories?
+p1563
+sg8
+VHOYNES
+p1564
+sg10
+g15
+sa(dp1565
+g6
+VNo. The other women. HOYNES I haven't decided to run, I really...
+p1566
+sg8
+VC.J.
+p1567
+sg10
+g15
+sa(dp1568
+g6
+VBecause there have been other women, right? Lots of women, right? Because the way you came on to me... way too smooth, way too practiced.
+p1569
+sg8
+VC.J.
+p1570
+sg10
+g15
+sa(dp1571
+g6
+VC.J., that was ten years ago. I'm sorry...
+p1572
+sg8
+VHOYNES
+p1573
+sg10
+g15
+sa(dp1574
+g6
+VWhen you run for President, the press is going to find some of those women. And if you try to attack them, if you get your opposition research team working on them, if you try to destroy them, if you try to say they're all bimbos and liars, then I'll be standing right there with them and I'll be ready to take anything you or your people throw at me, anything. So don't make me tell the truth about you because it will be the whole truth.
+p1575
+sg8
+VC.J.
+p1576
+sg10
+g15
+sa(dp1577
+g6
+VYou okay?
+p1578
+sg8
+VTOBY
+p1579
+sg10
+g15
+sa(dp1580
+g6
+VNo.
+p1581
+sg8
+VC.J.
+p1582
+sg10
+g15
+sa(dp1583
+g6
+VIs there anything I can do?
+p1584
+sg8
+VTOBY
+p1585
+sg10
+g15
+sa(dp1586
+g6
+VNo.
+p1587
+sg8
+VC.J.
+p1588
+sg10
+g15
+sa(dp1589
+g6
+VOkay.
+p1590
+sg8
+VTOBY
+p1591
+sg10
+g15
+sa(dp1592
+g6
+VWhat do I need to catch up on?
+p1593
+sg8
+VC.J.
+p1594
+sg10
+g15
+sa(dp1595
+g6
+VPresident signed school vouchers bill for D.C.
+p1596
+sg8
+VTOBY
+p1597
+sg10
+g15
+sa(dp1598
+g6
+VAre you kidding? I leave the building for an hour and he switches parties? You need a press release?
+p1599
+sg8
+VC.J.
+p1600
+sg10
+g15
+sa(dp1601
+g6
+VNo, it can wait.
+p1602
+sg8
+VTOBY
+p1603
+sg10
+g15
+sa(dp1604
+g6
+VToby?
+p1605
+sg8
+VC.J.
+p1606
+sg10
+g15
+sa(dp1607
+g6
+VYeah?
+p1608
+sg8
+VTOBY
+p1609
+sg10
+g15
+sa(dp1610
+g6
+VThere is no night of my life I regret more than that one.
+p1611
+sg8
+VC.J.
+p1612
+sg10
+g15
+sa(dp1613
+g6
+V You don't have to explain it.
+p1614
+sg8
+VTOBY
+p1615
+sg10
+g15
+sa(dp1616
+g6
+VI wish I could, but I can't explain it. I knew he was married. I knew it. I always thought women who did that... If I could take back one moment of my life, it would be getting on that elevator. I'm sorry.
+p1617
+sg8
+VC.J.
+p1618
+sg10
+g15
+sa(dp1619
+g6
+VYou don't have to apologize to me.
+p1620
+sg8
+VTOBY
+p1621
+sg10
+g15
+sa(dp1622
+g6
+VI don't have anyone else I can apologize to. I'll come back to your office in a few minutes and we can work on the release.
+p1623
+sg8
+VC.J.
+p1624
+sg10
+g15
+sa(dp1625
+g6
+VSure.
+p1626
+sg8
+VTOBY
+p1627
+sg10
+g15
+sas.

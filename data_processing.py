@@ -1,6 +1,8 @@
 # all the methods used to parse our data files
 from collections import defaultdict
 from nltk.tokenize import word_tokenize
+import json
+import re
 
 def parse_NRC(fname):
     f = open(fname)
@@ -67,19 +69,20 @@ def parse_episodes(wwscripts_json):
         }
         '''
         new_script = []
-        script = episode['script'][0].split("\n\n")
-        for line in script:
-            # print line.replace("\n", "\\n")
-            line = re.split("([A-Z.^*]+)\n", line, 1)
-            if len(line) == 3 and line[0] == '':
-                new_script.append({
-                    'character': line[1],
-                    'text': line[2].replace("\n", " ")})
+        if len(episode['script']) > 0:
+            script = episode['script'][0].split("\n\n")
+            for line in script:
+                # print line.replace("\n", "\\n")
+                line = re.split("([A-Z.^*]+)\n", line, 1)
+                if len(line) == 3 and line[0] == '':
+                    new_script.append({
+                        'character': line[1],
+                        'text': line[2].replace("\n", " ")})
 
-        new_episode = {'episode': episode['episode'],
-                'season': episode['season'],
-                'script': new_script}
-        new_wwscripts.append(new_episode)
+            new_episode = {'episode': episode['episode'],
+                    'season': episode['season'],
+                    'script': new_script}
+            new_wwscripts.append(new_episode)
 
     return new_wwscripts
 

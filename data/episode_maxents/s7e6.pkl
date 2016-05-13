@@ -1,0 +1,4211 @@
+(dp0
+S'season'
+p1
+I7
+sS'episode'
+p2
+I6
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VDo you realize how few voters read that ink-stained rag?
+p7
+sS'character'
+p8
+VLOU
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VThe New York Times? Every network producer reads it. Every nationally syndicated columnist reads it.
+p13
+sg8
+VSANTOS
+p14
+sg10
+g11
+sa(dp15
+g6
+VWe can't run a campaign for editorial writers. We'd have 12 votes, half of them within walking distance of zay-bars.
+p16
+sg8
+VLOU
+p17
+sg10
+g11
+sa(dp18
+g6
+VThat Times piece is ten times worse for Vinick. He's the one dragging his feet on debate negotiations. He's the one who rejected the debate commission's plan.
+p19
+sg8
+VJOSH
+p20
+sg10
+g11
+sa(dp21
+g6
+VThey called it 'a classic case of a front-runner trying to sit on a lead.'
+p22
+sg8
+VLOU
+p23
+sg10
+g11
+sa(dp24
+g6
+VWell, I can see how it's classic. He's been leading for two months now.
+p25
+sg8
+VSANTOS
+p26
+sg10
+g11
+sa(dp27
+g6
+VI don't know why the Times slammed us, too. We're doing everything we can to get debates; the dates Vinick wants, the locations Vinick wants.
+p28
+sg8
+VJOSH
+p29
+sg10
+g11
+sa(dp30
+g6
+VYou know, it's starting to look like I'm desperate to debate him.
+p31
+sg8
+VSANTOS
+p32
+sg10
+g11
+sa(dp33
+g6
+VWill you stop?!
+p34
+sg8
+VVINICK
+p35
+sg10
+g11
+sa(dp36
+g6
+VI'm just saying, watch it with the body parts.
+p37
+sg8
+VSHEILA
+p38
+sg10
+g11
+sa(dp39
+g6
+VThat's ridiculous.
+p40
+sg8
+VVINICK
+p41
+sg10
+g11
+sa(dp42
+g6
+VYou're the next President of the United States.
+p43
+sg8
+VSHEILA
+p44
+sg10
+g11
+sa(dp45
+g6
+VDon't say that.
+p46
+sg8
+VVINICK
+p47
+sg10
+g11
+sa(dp48
+g6
+VYou have a standard to uphold.
+p49
+sg8
+VSHEILA
+p50
+sg10
+g11
+sa(dp51
+g6
+VShe held out her forearm. You want me to refuse to sign autographs?
+p52
+sg8
+VVINICK
+p53
+sg10
+g11
+sa(dp54
+g6
+VYou signed higher than her forearm. At which body part do you draw the line?
+p55
+sg8
+VSHEILA
+p56
+sg10
+g11
+sa(dp57
+g6
+VBruno, help me out here.
+p58
+sg8
+VVINICK
+p59
+sg10
+g11
+sa(dp60
+g6
+VThe guy's a rock star; David Cassidy meets David Rockefeller; all those body part votes.
+p61
+sg8
+VBRUNO
+p62
+sg10
+g11
+sa(dp63
+g6
+VHe's the next President of the United States.
+p64
+sg8
+VSHEILA
+p65
+sg10
+g11
+sa(dp66
+g6
+VWould you please stop saying that?
+p67
+sg8
+VVINICK
+p68
+sg10
+S'positive'
+p69
+sa(dp70
+g6
+VVinick is a terrific debater. And every time he backs away from the negotiating table, every time his aide tells the New York Times that I'm the greatest debater since Socrates, they're lowering expectations on his performance and raising mine through the roof.
+p71
+sg8
+VSANTOS
+p72
+sg10
+g11
+sa(dp73
+g6
+VBut he doesn't need the debates. We do. There's no way to hide that.
+p74
+sg8
+VJOSH
+p75
+sg10
+g11
+sa(dp76
+g6
+VWhat good are debates if I have to demolish him to win?
+p77
+sg8
+VSANTOS
+p78
+sg10
+g11
+sa(dp79
+g6
+VI've got another negotiating session with Bruno tomorrow in Washington.
+p80
+sg8
+VJOSH
+p81
+sg10
+g11
+sa(dp82
+g6
+VBreak the logjam. And lower expectations.
+p83
+sg8
+VSANTOS
+p84
+sg10
+g11
+sa(dp85
+g6
+VOkay, those are contradictory orders, 'cause the more I give to get an agreement, the more it's going to look...
+p86
+sg8
+VJOSH
+p87
+sg10
+g11
+sa(dp88
+g6
+VGet it done.
+p89
+sg8
+VSANTOS
+p90
+sg10
+g11
+sa(dp91
+g6
+VSantos pulled out of North Dakota and West Virginia. There is not a single state we're not competing in. We could win all 50. Get used to it, Senator.
+p92
+sg8
+VBRUNO
+p93
+sg10
+g11
+sa(dp94
+g6
+VNeither of you is worried about this Times editorial?
+p95
+sg8
+VVINICK
+p96
+sg10
+g11
+sa(dp97
+g6
+VNope.
+p98
+sg8
+VBRUNO
+p99
+sg10
+g11
+sa(dp100
+g6
+VThey're calling me the roadblock to democracy. We still have a shot at the Times' endorsement.
+p101
+sg8
+VVINICK
+p102
+sg10
+g11
+sa(dp103
+g6
+VWe're going to get a deal on debates soon enough and on our terms. The Times is just rapping us on the knuckles.
+p104
+sg8
+VBRUNO
+p105
+sg10
+g11
+sa(dp106
+g6
+VThe governor of New York called again, urging you to reconsider...
+p107
+sg8
+VSHEILA
+p108
+sg10
+g11
+sa(dp109
+g6
+VI'm not going to the Al Smith dinner.
+p110
+sg8
+VVINICK
+p111
+sg10
+g11
+sa(dp112
+g6
+VPresidential nominees always go. No one's thrilled that it's just going to be the Vice Presidential candidates.
+p113
+sg8
+VSHEILA
+p114
+sg10
+g11
+sa(dp115
+g6
+VYou know what they're going to want me to talk about.
+p116
+sg8
+VVINICK
+p117
+sg10
+g11
+sa(dp118
+g6
+VThe biggest political event in New York, obviously a huge deal on the Catholic community; you could go, speak about your opposition to partial-birth abortion.
+p119
+sg8
+VSHEILA
+p120
+sg10
+g11
+sa(dp121
+g6
+VOhh, bad idea.
+p122
+sg8
+VBRUNO
+p123
+sg10
+g11
+sa(dp124
+g6
+VI'm not going to give a speech about partial-birth abortion in a room full of people who think any abortion is a sin.
+p125
+sg8
+VVINICK
+p126
+sg10
+g11
+sa(dp127
+g6
+VNew York's competitive, Catholic vote's critical.
+p128
+sg8
+VSHEILA
+p129
+sg10
+g11
+sa(dp130
+g6
+VAnd I'm pro-choice, same as Santos. I'd be crazy to engage this issue.
+p131
+sg8
+VVINICK
+p132
+sg10
+g11
+sa(dp133
+g6
+VYou got another call from the New York State Party about...
+p134
+sg8
+VBRAM
+p135
+sg10
+g11
+sa(dp136
+g6
+VHave Josh return it.
+p137
+sg8
+VSANTOS
+p138
+sg10
+g11
+sa(dp139
+g6
+VWho's Al Smith anyway?
+p140
+sg8
+VBRAM
+p141
+sg10
+g11
+sa(dp142
+g6
+VFirst Catholic to run for President; 1928.
+p143
+sg8
+VSANTOS
+p144
+sg10
+g11
+sa(dp145
+g6
+VWhy's the dinner such a big deal?
+p146
+sg8
+VBRAM
+p147
+sg10
+g11
+sa(dp148
+g6
+VOh, it's a big benefit to Catholic charities. It's the most political non-political event in New York.
+p149
+sg8
+VSANTOS
+p150
+sg10
+g11
+sa(dp151
+g6
+VA ballroom full of Catholics should be your crowd. Vinick doesn't even go to church.
+p152
+sg8
+VBRAM
+p153
+sg10
+g11
+sa(dp154
+g6
+VThat's just what I need.
+p155
+sg8
+VSANTOS
+p156
+sg10
+g11
+sa(dp157
+g6
+VA contest over who gets the most 'boos' for the line 'I support a woman's right to choose.' Leo will handle it.
+p158
+sg8
+VSANTOS
+p159
+sg10
+g11
+sa(dp160
+g6
+V6:00 wake-up?
+p161
+sg8
+VBRAM
+p162
+sg10
+g11
+sa(dp163
+g6
+VMake it 5:30.
+p164
+sg8
+VSANTOS
+p165
+sg10
+g11
+sa(dp166
+g6
+VWhile Senator Vinick is back in Washington, Congressman Matthew Santos is in Michigan fighting for the state's 17 electoral votes. As the electoral math narrows, you can bet they'll both be in Michigan...
+p167
+sg8
+VANCHOR
+p168
+sg10
+g11
+sa(dp169
+g6
+VWhy are we talking about the environment in Michigan this weekend?
+p170
+sg8
+VVINICK
+p171
+sg10
+g11
+sa(dp172
+g6
+VYou talk about it everywhere.
+p173
+sg8
+VSHEILA
+p174
+sg10
+g11
+sa(dp175
+g6
+VIt's Michigan. Hug a tree, kill a Chrysler.
+p176
+sg8
+VVINICK
+p177
+sg10
+g11
+sa(dp178
+g6
+VWe're four points up there; we don't need to get hit for pandering.
+p179
+sg8
+VBRUNO
+p180
+sg10
+g11
+sa(dp181
+g6
+VYou want to spend a few minutes on thank you notes for those New Mexico electorates?
+p182
+sg8
+VSHEILA
+p183
+sg10
+g11
+sa(dp184
+g6
+VNah, I've got the list. It's been a great day; why don't you guys get some rest.
+p185
+sg8
+VVINICK
+p186
+sg10
+g11
+sa(dp187
+g6
+VAre you sure?
+p188
+sg8
+VBRUNO
+p189
+sg10
+g11
+sa(dp190
+g6
+VYeah. Go ahead.
+p191
+sg8
+VVINICK
+p192
+sg10
+g11
+sa(dp193
+g6
+VOkay, see you in the morning.
+p194
+sg8
+VSHEILA
+p195
+sg10
+g11
+sa(dp196
+g6
+VOkay. ... He turns the TV on and sits at his desk.
+p197
+sg8
+VVINICK
+p198
+sg10
+g11
+sa(dp199
+g6
+VMatthew Santos is in Michigan fighting for the state's 17 electoral votes. As the electoral math narrows, you can bet they'll both be in Michigan more and more. We'll be right back after this.
+p200
+sg8
+VANCHOR
+p201
+sg10
+g11
+sa(dp202
+g6
+VThis November, America faces a vote of conscience.
+p203
+sg8
+VANNOUNCER
+p204
+sg10
+g11
+sa(dp205
+g6
+VTurn on MSNBC.
+p206
+sg8
+VSANTOS
+p207
+sg10
+g11
+sa(dp208
+g6
+VNo, on telling you when your daughter wants an abortion. No, on banning partial-birth abortion.
+p209
+sg8
+VANNOUNCER
+p210
+sg10
+g11
+sa(dp211
+g6
+VI need Sheila.
+p212
+sg8
+VVINICK
+p213
+sg10
+g11
+sa(dp214
+g6
+VPaid for by the Committee for the Integrity of Human Life.
+p215
+sg8
+VANNOUNCER
+p216
+sg10
+g11
+sa(dp217
+g6
+VWho the hell is the Committee for the Integrity of Human Life, and who told them to drag abortion into my campaign?
+p218
+sg8
+VVINICK
+p219
+sg10
+g11
+sa(dp220
+g6
+VIt's a bare-knuckle attack ad.
+p221
+sg8
+VVINICK
+p222
+sg10
+g11
+sa(dp223
+g6
+VIt's not our ad.
+p224
+sg8
+VSHEILA
+p225
+sg10
+g11
+sa(dp226
+g6
+VThe public won't make the distinction.
+p227
+sg8
+VBRUNO
+p228
+sg10
+g11
+sa(dp229
+g6
+VAnd you think some left-leaning committee for something or other isn't going to slam us right back?
+p230
+sg8
+VVINICK
+p231
+sg10
+g11
+sa(dp232
+g6
+VThen we're in a negative ad war.
+p233
+sg8
+VBRUNO
+p234
+sg10
+g11
+sa(dp235
+g6
+VPlus, they're hitting Santos for what a lot of Republicans think is my position on abortion.
+p236
+sg8
+VVINICK
+p237
+sg10
+g11
+sa(dp238
+g6
+VThe ad does lay out some pretty clear differences.
+p239
+sg8
+VSHEILA
+p240
+sg10
+g11
+sa(dp241
+g6
+VWhich may play great to a few right-wing partisans, but it'll look phony and political to everyone else.
+p242
+sg8
+VBRUNO
+p243
+sg10
+g11
+sa(dp244
+g6
+VI want this ad pulled. I want the Chairman of the Republican Party to say that this committee does not speak for us. I'll say it, too. If any of our people are involved in this, fire them.
+p245
+sg8
+VVINICK
+p246
+sg10
+g11
+sa(dp247
+g6
+VThe quote is completely out of context.
+p248
+sg8
+VSANTOS
+p249
+sg10
+g11
+sa(dp250
+g6
+VDo you remember the quote?
+p251
+sg8
+VJOSH
+p252
+sg10
+g11
+sa(dp253
+g6
+VI remember what I think. They make it seem like I'm for abortion on demand.
+p254
+sg8
+VSANTOS
+p255
+sg10
+g11
+sa(dp256
+g6
+VI'm not defending the ad...
+p257
+sg8
+VLOU
+p258
+sg10
+g11
+sa(dp259
+g6
+VIt's a right-wing parody of my position.
+p260
+sg8
+VSANTOS
+p261
+sg10
+g11
+sa(dp262
+g6
+VWe'll find whatever piece of legislation...
+p263
+sg8
+VLOU
+p264
+sg10
+g69
+sa(dp265
+g6
+VYou'll find it tonight.
+p266
+sg8
+VSANTOS
+p267
+sg10
+g11
+sa(dp268
+g6
+VIt'll be hard to rebut. You voted against the partial-birth abortion ban.
+p269
+sg8
+VLOU
+p270
+sg10
+g11
+sa(dp271
+g6
+VThe Republicans wouldn't carve out a clear exception for the life and health of mother.
+p272
+sg8
+VSANTOS
+p273
+sg10
+g11
+sa(dp274
+g6
+VYou voted against parental consent.
+p275
+sg8
+VLOU
+p276
+sg10
+g11
+sa(dp277
+g6
+VThere was no judicial override. There are pro-life judges out there refusing requests even for incest victims. I am not for unlimited abortion.
+p278
+sg8
+VSANTOS
+p279
+sg10
+g11
+sa(dp280
+g6
+VLook, I don't know how we respond, but by tomorrow this is going to be on every cable network across the country. It's news for free and it's going to hurt us with swing voters.
+p281
+sg8
+VJOSH
+p282
+sg10
+g11
+sa(dp283
+g6
+VIf Vinick's taking the gloves off, so can we: 20 years of Senate flip-flops, 50 conflicts with his party's platform. Its fair game, no one can say it's not.
+p284
+sg8
+VLOU
+p285
+sg10
+g11
+sa(dp286
+g6
+VJosh?
+p287
+sg8
+VSANTOS
+p288
+sg10
+g11
+sa(dp289
+g6
+VWe don't know that Vinick's behind this.
+p290
+sg8
+VJOSH
+p291
+sg10
+g11
+sa(dp292
+g6
+VHe sure benefits from it.
+p293
+sg8
+VLOU
+p294
+sg10
+g11
+sa(dp295
+g6
+VIf we turn this campaign full-tilt negative, we can never go back.
+p296
+sg8
+VJOSH
+p297
+sg10
+g11
+sa(dp298
+g6
+VCall Vinick's people. Tell them to call this the lie that it is and get it off the air. I want a counter-attack ready to go by morning if they don't.
+p299
+sg8
+VSANTOS
+p300
+sg10
+g11
+sa(dp301
+g6
+VI don't really feel comfortable working in Toby's old office.
+p302
+sg8
+VWILL
+p303
+sg10
+g11
+sa(dp304
+g6
+VThink of it as the Communications Director's office.
+p305
+sg8
+VMARGARET
+p306
+sg10
+g11
+sa(dp307
+g6
+VI can't help thinking of it as a federal crime scene.
+p308
+sg8
+VWILL
+p309
+sg10
+g11
+sa(dp310
+g6
+VHave you heard from the policy shops? This Toby thing will drown out everything for another few days, but then we'll need a policy to announce.
+p311
+sg8
+VWILL
+p312
+sg10
+g11
+sa(dp313
+g6
+VTPC says they're pretty tapped out. They say we should highlight the good things the government's already doing.
+p314
+sg8
+VMARGARET
+p315
+sg10
+g11
+sa(dp316
+g6
+VGreat. Wait till people find out there's a post office.
+p317
+sg8
+VWILL
+p318
+sg10
+g11
+sa(dp319
+g6
+VThe President's going on a three-day tour of distressed urban areas to promote investment in jobs in inner cities.
+p320
+sg8
+VC.J.
+p321
+sg10
+g11
+sa(dp322
+g6
+VI'll announce it next week.
+p323
+sg8
+VWILL
+p324
+sg10
+g11
+sa(dp325
+g6
+VTry today at your first press briefing.
+p326
+sg8
+VC.J.
+p327
+sg10
+g11
+sa(dp328
+g6
+VYou don't want me briefing today.
+p329
+sg8
+VWILL
+p330
+sg10
+g11
+sa(dp331
+g6
+VI do.
+p332
+sg8
+VC.J.
+p333
+sg10
+g11
+sa(dp334
+g6
+VI need a few days to get up to speed. I don't know the first thing about the leak investigation and I haven't even sat down with Counsel.
+p335
+sg8
+VWILL
+p336
+sg10
+g11
+sa(dp337
+g6
+VRefer those questions to Counsel's office.
+p338
+sg8
+VC.J.
+p339
+sg10
+g11
+sa(dp340
+g6
+VThose questions? What about the entire briefing?
+p341
+sg8
+VWILL
+p342
+sg10
+g11
+sa(dp343
+g6
+VWe have to show that we've replaced Toby without missing a beat. There's an ongoing investigation. There's not much we can say about it anyway.
+p344
+sg8
+VC.J.
+p345
+sg10
+g11
+sa(dp346
+g6
+VWhat do we know?
+p347
+sg8
+VVINICK
+p348
+sg10
+g11
+sa(dp349
+g6
+VThe Committee for the Integrity of Human Life is a 527; one of these independent expenditure committees.
+p350
+sg8
+VBRUNO
+p351
+sg10
+g11
+sa(dp352
+g6
+VNo connection to us or the RNC?
+p353
+sg8
+VVINICK
+p354
+sg10
+g11
+sa(dp355
+g6
+VI wouldn't say that. Its major donors all give to the RNC and a few of them are big donors of yours too.
+p356
+sg8
+VBRUNO
+p357
+sg10
+g11
+sa(dp358
+g6
+VYou talk to the Party Chair?
+p359
+sg8
+VVINICK
+p360
+sg10
+g11
+sa(dp361
+g6
+VHodder won't denounce the ad. He thinks it'd be bad for us and bad for the party.
+p362
+sg8
+VSHEILA
+p363
+sg10
+g11
+sa(dp364
+g6
+VHas he seen it? Does he want us to get in a mud wrestling match with Matt Santos?
+p365
+sg8
+VVINICK
+p366
+sg10
+g11
+sa(dp367
+g6
+VThe Chairman's view is that it fires up social conservatives. It reminds them that while you may be pro-choice, Santos is for virtually unrestricted abortion.
+p368
+sg8
+VSHEILA
+p369
+sg10
+g11
+sa(dp370
+g6
+VYou have to denounce it yourself before a huge bank of cameras.
+p371
+sg8
+VBRUNO
+p372
+sg10
+g11
+sa(dp373
+g6
+VYou want this piece of trash on the air.
+p374
+sg8
+VVINICK
+p375
+sg10
+g11
+sa(dp376
+g6
+VNo, but I don't want you or anybody else from this campaign criticizing pro-life anything.
+p377
+sg8
+VSHEILA
+p378
+sg10
+g11
+sa(dp379
+g6
+VWe're trying to win a mandate in a country that's over 60% pro-choice. We cannot get cute with this.
+p380
+sg8
+VBRUNO
+p381
+sg10
+g11
+sa(dp382
+g6
+VHodder's got credibility with the right-to-lifers. I don't. He's the one who's got to kill this. I want to see him this afternoon right after the Maryland rally. Get your bank of cameras ready.
+p383
+sg8
+VVINICK
+p384
+sg10
+g11
+sa(dp385
+g6
+VExcuse me.
+p386
+sg8
+VBRUNO
+p387
+sg10
+g11
+sa(dp388
+g6
+VYour side is running a vicious, baseless attack ad.
+p389
+sg8
+VJOSH
+p390
+sg10
+g11
+sa(dp391
+g6
+VThere are laws against coordination with an independent...
+p392
+sg8
+VBRUNO
+p393
+sg10
+g11
+sa(dp394
+g6
+VCall the RNC. I need copies of every negative Santos spot they've been working on.
+p395
+sg8
+VBRUNO
+p396
+sg10
+g11
+sa(dp397
+g6
+VC.J. wanted you to have this revised POTUS schedule.
+p398
+sg8
+VMARGARET
+p399
+sg10
+g11
+sa(dp400
+g6
+VYou haven't heard back from her?
+p401
+sg8
+VWILL
+p402
+sg10
+g11
+sa(dp403
+g6
+VAbout your request to postpone the briefing?
+p404
+sg8
+VMARGARET
+p405
+sg10
+g11
+sa(dp406
+g6
+VRight.
+p407
+sg8
+VWILL
+p408
+sg10
+g11
+sa(dp409
+g6
+VUnless you count her saying 'Don't ask if Will can postpone the briefing.'
+p410
+sg8
+VMARGARET
+p411
+sg10
+g11
+sa(dp412
+g6
+VThat doesn't count.
+p413
+sg8
+VWILL
+p414
+sg10
+g11
+sa(dp415
+g6
+VNever heard back.
+p416
+sg8
+VMARGARET
+p417
+sg10
+g11
+sa(dp418
+g6
+VGood morning. I'm Will Bailey, assistant to the President and new Director of Communications. I'll be conducting the daily briefings from now on and I have a statement to make at this time. One week from today the President will launch a bold and far-reaching new markets initiative  an inter-agency effort to bring jobs and private investment to distressed urban communities. We're handing out a list of initial agency efforts  small business loans, tax incentives, Commerce's new Adopt and Entrepreneur Program, which, of course, we expect to be controversial. I'll take your questions.
+p419
+sg8
+VWILL
+p420
+sg10
+g11
+sa(dp421
+g6
+VThere's an ongoing investigation. I'll refer you to the President's statement on the matter.
+p422
+sg8
+VWILL
+p423
+sg10
+g11
+sa(dp424
+g6
+VI'm not going to parse his statement.
+p425
+sg8
+VWILL
+p426
+sg10
+g11
+sa(dp427
+g6
+VWe're not asking you to parse it.
+p428
+sg8
+VSTEVE
+p429
+sg10
+g11
+sa(dp430
+g6
+VWhich is good, because I'm not going to.
+p431
+sg8
+VWILL
+p432
+sg10
+g11
+sa(dp433
+g6
+VToby Ziegler's been dismissed by the President. That should be an indication of what this White House thinks.
+p434
+sg8
+VWILL
+p435
+sg10
+g11
+sa(dp436
+g6
+VI'll refer you to Counsel on that.
+p437
+sg8
+VWILL
+p438
+sg10
+g11
+sa(dp439
+g6
+VThey're crushing him like a grape.
+p440
+sg8
+VMARGARET
+p441
+sg10
+g11
+sa(dp442
+g6
+VHe's doing fine.
+p443
+sg8
+VC.J.
+p444
+sg10
+g11
+sa(dp445
+g6
+VSo Santos pulls out of North Dakota and West Virginia. That's great news so soon after Labor Day.
+p446
+sg8
+VHODDER
+p447
+sg10
+g11
+sa(dp448
+g6
+VYeah.
+p449
+sg8
+VVINICK
+p450
+sg10
+g11
+sa(dp451
+g6
+VIt'll give us a chance at that West Virginia second.
+p452
+sg8
+VHODDER
+p453
+sg10
+g11
+sa(dp454
+g6
+VYeah.
+p455
+sg8
+VVINICK
+p456
+sg10
+g11
+sa(dp457
+g6
+VThat Santos crew doesn't know a damn thing about party building. How you doing?
+p458
+sg8
+VHODDER
+p459
+sg10
+g11
+sa(dp460
+g6
+VMr. Chairman.
+p461
+sg8
+VBRUNO
+p462
+sg10
+g11
+sa(dp463
+g6
+VGood to see you again.
+p464
+sg8
+VHODDER
+p465
+sg10
+g11
+sa(dp466
+g6
+VI don't like that abortion ad. I don't care how you deal with it; hold a press conference in the lobby, say they don't speak for the party, but I want it dealt with know. It's becoming a national story.
+p467
+sg8
+VVINICK
+p468
+sg10
+g11
+sa(dp469
+g6
+VNo one showed me that ad. I probably wouldn't have run it. Do you know what kind of damage it would do to walk away from it? An attack that, quite frankly Arnie, lots of folks think should be in your stump speech.
+p470
+sg8
+VHODDER
+p471
+sg10
+g11
+sa(dp472
+g6
+VSantos and I are both pro-choice. I can't pretend there's some huge difference between our positions.
+p473
+sg8
+VVINICK
+p474
+sg10
+g11
+sa(dp475
+g6
+VSantos thinks my 14-year-old daughter needs my permission to get an aspirin in school; but not an abortion? The platform's pro-life. The people in this party, who do the phone-banking, plant the lawn signs, get half our guys elected, they're pro-life too.
+p476
+sg8
+VHODDER
+p477
+sg10
+g11
+sa(dp478
+g6
+VMr. Chairman, this is a rough, negative ad at a time when we don't need it. This committee knows nothing from tactics.
+p479
+sg8
+VBRUNO
+p480
+sg10
+g11
+sa(dp481
+g6
+VMaybe it's not about tactics, maybe they mean what they say.
+p482
+sg8
+VHODDER
+p483
+sg10
+g11
+sa(dp484
+g6
+VWe know how hard you've been working on keeping social conservatives on the reservation.
+p485
+sg8
+VSHEILA
+p486
+sg10
+g11
+sa(dp487
+g6
+VWe were this close, this close, to a third-party candidacy from the religious right. I'm still concerned they stay home on Election Day.
+p488
+sg8
+VHODDER
+p489
+sg10
+g11
+sa(dp490
+g6
+VThis ad hurts me as much as it hurts Santos. Maybe more.
+p491
+sg8
+VVINICK
+p492
+sg10
+g11
+sa(dp493
+g6
+VPro-lifers have their issues with you but Santos is for unlimited abortion.
+p494
+sg8
+VHODDER
+p495
+sg10
+g11
+sa(dp496
+g6
+VIf you don't denounce that ad, I'm going to have to do it myself.
+p497
+sg8
+VVINICK
+p498
+sg10
+g11
+sa(dp499
+g6
+VCan I speak candidly?
+p500
+sg8
+VHODDER
+p501
+sg10
+g11
+sa(dp502
+g6
+VBecause you've been sugar-coating up till now?
+p503
+sg8
+VVINICK
+p504
+sg10
+g11
+sa(dp505
+g6
+VCorporate conservatives may love you, Neo-Cons and Libertarians may love you, Bruno Gianelli Democrats may love you too, but social conservatives don't. You never speak about their issues. You send mixed signals about judicial appointments. You are the first nominee in 20 years to skip the Al Smith dinner because, God forbid you might be near some religious voters. Well, I can't meet my responsibility to this party without them.
+p506
+sg8
+VHODDER
+p507
+sg10
+g11
+sa(dp508
+g6
+VNo candidate could hold those voters together. If this were Europe the Republican Party would be three parties.
+p509
+sg8
+VVINICK
+p510
+sg10
+g11
+sa(dp511
+g6
+VThank goodness they don't have to sleep together, they just have to show up on the same day and vote Republican.
+p512
+sg8
+VHODDER
+p513
+sg10
+g11
+sa(dp514
+g6
+VDo you realize how many states my pro-choice position puts on the table? Do you realize how we can grow this party if we're willing to reach out?
+p515
+sg8
+VVINICK
+p516
+sg10
+g11
+sa(dp517
+g6
+VI guess I'd like to see you unite the party that we have now. I'm not denouncing that ad. And I don't think you want to either, Arnie.
+p518
+sg8
+VHODDER
+p519
+sg10
+g11
+sa(dp520
+g6
+VYou think Vinick's behind this?
+p521
+sg8
+VSANTOS
+p522
+sg10
+g11
+sa(dp523
+g6
+VI don't know. He could be.
+p524
+sg8
+VJOSH
+p525
+sg10
+g11
+sa(dp526
+g6
+VWe found the full interview they used in the ad. It's from three years ago, KPRC in Houston.
+p527
+sg8
+VJOSH
+p528
+sg10
+g11
+sa(dp529
+g6
+VThey took my quote totally out of context.
+p530
+sg8
+VSANTOS
+p531
+sg10
+g11
+sa(dp532
+g6
+VYeah.
+p533
+sg8
+VJOSH
+p534
+sg10
+g11
+sa(dp535
+g6
+VYeah, so why are they running the ad on television? It's fraud.
+p536
+sg8
+VSANTOS
+p537
+sg10
+g11
+sa(dp538
+g6
+VWell, you just said pretty clearly that you're not for limiting access. We called the stations that are running it. They're not going to pull it. They think it's a fair charge.
+p539
+sg8
+VJOSH
+p540
+sg10
+g11
+sa(dp541
+g6
+VI've got Leo on the line. He's back at headquarters.
+p542
+sg8
+VBRAM
+p543
+sg10
+g11
+sa(dp544
+g6
+VCongressman, you've already said it was a distortion. I worry about too tough a response beyond that. It makes this a much larger story.
+p545
+sg8
+VLEO
+p546
+sg10
+g11
+sa(dp547
+g6
+VWhat if we hit Vinick on a completely different level? Taxes, corporate cronyism, we haul out a long list of all the special interest giveaways he supported in Congress.
+p548
+sg8
+VLOU
+p549
+sg10
+g11
+sa(dp550
+g6
+VLook, this is about something that's much more fundamental.
+p551
+sg8
+VSANTOS
+p552
+sg10
+g11
+sa(dp553
+g6
+VThe Congressman's right. This ad shows that Vinick's centrism is just a bad coat of paint.
+p554
+sg8
+VLOU
+p555
+sg10
+g11
+sa(dp556
+g6
+VThe guy has a long record of pro-choice votes.
+p557
+sg8
+VLEO
+p558
+sg10
+g11
+sa(dp559
+g6
+VWell, he promised the religious right he'd appoint pro-life judges. He's obviously not too attached to that voting record.
+p560
+sg8
+VSANTOS
+p561
+sg10
+g11
+sa(dp562
+g6
+VLet this attack stand and we strip away what's different about Santos: he's a religious Catholic, not another secular Democrat who can be portrayed as hostile to heartland values.
+p563
+sg8
+VLOU
+p564
+sg10
+g11
+sa(dp565
+g6
+VLeo?
+p566
+sg8
+VSANTOS
+p567
+sg10
+g11
+sa(dp568
+g6
+VI worry about elevating this, but if the charge sticks it could kill us with values voters and that puts Vinick's nine-point lead in the bank.
+p569
+sg8
+VLEO
+p570
+sg10
+g11
+sa(dp571
+g6
+VWe hit him and we hit him hard.
+p572
+sg8
+VSANTOS
+p573
+sg10
+g11
+sa(dp574
+g6
+VI don't think we start with a negative ad.
+p575
+sg8
+VLOU
+p576
+sg10
+g11
+sa(dp577
+g6
+VNo.
+p578
+sg8
+VJOSH
+p579
+sg10
+g11
+sa(dp580
+g6
+VWe get one ready; a tough one. But our first one on Vinick will be a free media bonanza. Why waste money on an ad buy?
+p581
+sg8
+VLOU
+p582
+sg10
+g11
+sa(dp583
+g6
+VWe use a spokesperson for this. We don't elevate it to Santos' or Leo's level.
+p584
+sg8
+VJOSH
+p585
+sg10
+g11
+sa(dp586
+g6
+VClarify that our guy is not for abortion without limits.
+p587
+sg8
+VLOU
+p588
+sg10
+g11
+sa(dp589
+g6
+VThe ad's a sham. Anyone can see from the full interview.
+p590
+sg8
+VJOSH
+p591
+sg10
+g11
+sa(dp592
+g6
+VThen bam, we hit Vinick with a political two-by-four.
+p593
+sg8
+VLOU
+p594
+sg10
+g11
+sa(dp595
+g6
+VYou don't have to be happy about this.
+p596
+sg8
+VJOSH
+p597
+sg10
+g11
+sa(dp598
+g6
+VYou don't have to be queasy about this.
+p599
+sg8
+VLOU
+p600
+sg10
+g11
+sa(dp601
+g6
+VYou don't know Santos the way I do. If this becomes a full-out negative...
+p602
+sg8
+VJOSH
+p603
+sg10
+g11
+sa(dp604
+g6
+VYou think he's got a glass jaw?
+p605
+sg8
+VLOU
+p606
+sg10
+g11
+sa(dp607
+g6
+VI think we lose a negative ad war. I think the other side is better at this and I think they have more to work with.
+p608
+sg8
+VJOSH
+p609
+sg10
+g11
+sa(dp610
+g6
+VI did the Merrianhoff Senate campaign. You know those charges that he had weird financial dealings with Taiwanese businessmen?
+p611
+sg8
+VLOU
+p612
+sg10
+g11
+sa(dp613
+g6
+VHe did.
+p614
+sg8
+VJOSH
+p615
+sg10
+g11
+sa(dp616
+g6
+VThose were the charges. Anyway, we ran against Barrack, clean as a bar of soap. We hit him first with everything we could find. By the time he hit back, the voters thought it was just another ugly campaign; a pox on both our houses.
+p617
+sg8
+VLOU
+p618
+sg10
+g11
+sa(dp619
+g6
+VYou're proud of that?
+p620
+sg8
+VJOSH
+p621
+sg10
+g11
+sa(dp622
+g6
+VI'm proud that Merrianhoff defends Medicare and Medicaid in the Senate. I'm proud that he votes against every reckless Republican tax cut. We're the blue team and there's a real war going on. Josh, do you want the right wing to get their judges?
+p623
+sg8
+VLOU
+p624
+sg10
+g11
+sa(dp625
+g6
+VNo.
+p626
+sg8
+VJOSH
+p627
+sg10
+g11
+sa(dp628
+g6
+VThen stop being so queasy.
+p629
+sg8
+VLOU
+p630
+sg10
+S'negative'
+p631
+sa(dp632
+g6
+VWe hit Vinick for hypocrisy; for saying he's pro-choice and letting anti-choice ideologues pick his judiciary and run lying ads.
+p633
+sg8
+VJOSH
+p634
+sg10
+g11
+sa(dp635
+g6
+VDon't use our regular spokesman. Find a woman. You know, 40-something, soccer mom.
+p636
+sg8
+VJOSH
+p637
+sg10
+g11
+sa(dp638
+g6
+VWhat about debate negotiations?
+p639
+sg8
+VLOU
+p640
+sg10
+g11
+sa(dp641
+g6
+VI'm meeting with Bruno this afternoon in Washington. We're still on makeup and deli trays.
+p642
+sg8
+VJOSH
+p643
+sg10
+g11
+sa(dp644
+g6
+VThere's going to be debates.
+p645
+sg8
+VLOU
+p646
+sg10
+g11
+sa(dp647
+g6
+VVinick doesn't want to incur the wrath of the New York Times anymore than we do.
+p648
+sg8
+VJOSH
+p649
+sg10
+g11
+sa(dp650
+g6
+VWe have to stop being so eager. We have to change our body language. Let them chase us for a change.
+p651
+sg8
+VLOU
+p652
+sg10
+g11
+sa(dp653
+g6
+VI've had nine meetings with Bruno on this. He knows what I want, how I think.
+p654
+sg8
+VJOSH
+p655
+sg10
+g11
+sa(dp656
+g6
+VHe doesn't know me.
+p657
+sg8
+VLOU
+p658
+sg10
+g11
+sa(dp659
+g6
+VHave you seen this abortion ad? It's all over cable news. They're predicting a negative ad blitz by Friday.
+p660
+sg8
+VWILL
+p661
+sg10
+g11
+sa(dp662
+g6
+VI'm amazed it took them this long to get started. Someone gave the President this Eskimo adage: "The best place to store surplus food is in someone else's stomach." Use it in this afternoon's briefing.
+p663
+sg8
+VC.J.
+p664
+sg10
+g11
+sa(dp665
+g6
+VI get it. It's just: a second briefing?
+p666
+sg8
+VWILL
+p667
+sg10
+g11
+sa(dp668
+g6
+VHmm.
+p669
+sg8
+VC.J.
+p670
+sg10
+g11
+sa(dp671
+g6
+VYou saw the wires. They counted the number of questions I was asked this morning because I didn't answer one of them.
+p672
+sg8
+VWILL
+p673
+sg10
+g11
+sa(dp674
+g6
+VYou thought we were going to get good coverage this week?
+p675
+sg8
+VC.J.
+p676
+sg10
+g11
+sa(dp677
+g6
+V47, by the way; a career high.
+p678
+sg8
+VWILL
+p679
+sg10
+g11
+sa(dp680
+g6
+VYou have to let the press punch themselves out.
+p681
+sg8
+VC.J.
+p682
+sg10
+g11
+sa(dp683
+g6
+VYou're talking to the punching bag. My job is to look like I'm not completely ignorant. Counsel won't even brief me on the details of Toby's firing.
+p684
+sg8
+VWILL
+p685
+sg10
+g11
+sa(dp686
+g6
+VI asked them not to.
+p687
+sg8
+VC.J.
+p688
+sg10
+g11
+sa(dp689
+g6
+VDon't you want me to have a shred of credibility in the briefing room?
+p690
+sg8
+VWILL
+p691
+sg10
+g11
+sa(dp692
+g6
+VYour ignorance is your credibility. That's why I put you in this job. And your constituents aren't in that room, they're in distressed urban areas. You brief at 4:00.
+p693
+sg8
+VC.J.
+p694
+sg10
+g11
+sa(dp695
+g6
+V0 for 47. I'm the Jamaican Bobsledding Team.
+p696
+sg8
+VWILL
+p697
+sg10
+g11
+sa(dp698
+g6
+VSecuring America's future. Securing, not strengthening. He's not a personal trainer. [into phone] Is that statement all set?
+p699
+sg8
+VJOSH
+p700
+sg10
+g11
+sa(dp701
+g6
+VGot a woman to read the thing?
+p702
+sg8
+VJOSH
+p703
+sg10
+g11
+sa(dp704
+g6
+VRight out of central casting.
+p705
+sg8
+VOTTO
+p706
+sg10
+g11
+sa(dp707
+g6
+VNo nose rings, brow piercings?
+p708
+sg8
+VJOSH
+p709
+sg10
+g11
+sa(dp710
+g6
+VTrust me, this girl's a cold glass of milk.
+p711
+sg8
+VOTTO
+p712
+sg10
+g11
+sa(dp713
+g6
+VAre we about to run our very first...?
+p714
+sg8
+VOTTO
+p715
+sg10
+g11
+sa(dp716
+g6
+VThey're starting. I'll call you back.
+p717
+sg8
+VJOSH
+p718
+sg10
+g69
+sa(dp719
+g6
+VUh, no. Tell him we're not doing the Al Smith dinner, not in the middle of all this.
+p720
+sg8
+VJOSH
+p721
+sg10
+g11
+sa(dp722
+g6
+VThat's Donna.
+p723
+sg8
+VJOSH
+p724
+sg10
+g11
+sa(dp725
+g6
+VThe Dairy Queen, Donna Moss. What happened to our forty-something soccer mom?
+p726
+sg8
+VJOSH
+p727
+sg10
+g11
+sa(dp728
+g6
+VLou hired her last week to do Midwest press. Looks too young, huh?
+p729
+sg8
+VOTTO
+p730
+sg10
+g11
+sa(dp731
+g6
+VYes, they're ready to go.
+p732
+sg8
+VSHEILA
+p733
+sg10
+g11
+sa(dp734
+g6
+VShe's hitting me from the left and from the right.
+p735
+sg8
+VVINICK
+p736
+sg10
+g11
+sa(dp737
+g6
+VWe have to wait until we see what's...
+p738
+sg8
+VSHEILA
+p739
+sg10
+g11
+sa(dp740
+g6
+VShe's telling the right I'm pro-abortion, telling the left I'm a captive of the religious nuts.
+p741
+sg8
+VVINICK
+p742
+sg10
+g11
+sa(dp743
+g6
+VThe RNC upped their ad buy by another 750 points. Every battleground market.
+p744
+sg8
+VSHEILA
+p745
+sg10
+g11
+sa(dp746
+g6
+VThat since I don't have a functioning uterus like Tippy Hedron here, of course I'm not qualified to talk about it.
+p747
+sg8
+VVINICK
+p748
+sg10
+g11
+sa(dp749
+g6
+VAll the networks are running pieces of the Santos abortion ad tonight.
+p750
+sg8
+VSHEILA
+p751
+sg10
+g11
+sa(dp752
+g6
+VI ought to go out there and call it a piece of trash and a lie.
+p753
+sg8
+VVINICK
+p754
+sg10
+g11
+sa(dp755
+g6
+VI don't like it either, but Hodder's not wrong. There is nothing in that ad that's inaccurate.
+p756
+sg8
+VSHEILA
+p757
+sg10
+g11
+sa(dp758
+g6
+VSantos couldn't have written a better ad himself. They're whacking me for playing both sides.
+p759
+sg8
+VVINICK
+p760
+sg10
+g11
+sa(dp761
+g6
+VThe 527s raised a quarter of a million off last night's airings alone. After tonight it's going to be 20 times that much. This is energizing the very people we were afraid were going to stay home in November.
+p762
+sg8
+VSHEILA
+p763
+sg10
+g11
+sa(dp764
+g6
+VYou think I should stand by it?
+p765
+sg8
+VVINICK
+p766
+sg10
+g11
+sa(dp767
+g6
+VNo. I think you should scrub your Michigan swing, go to the Al Smith dinner, talk about your opposition to partial-birth abortion; and the minute the Santos campaign runs its first negative ad we run a hundred of ours.
+p768
+sg8
+VSHEILA
+p769
+sg10
+g11
+sa(dp770
+g6
+VYears, I've been looking forward to this campaign. I never imagined it would look like this.
+p771
+sg8
+VVINICK
+p772
+sg10
+g11
+sa(dp773
+g6
+VIt'll look better after you win.
+p774
+sg8
+VSHEILA
+p775
+sg10
+g69
+sa(dp776
+g6
+VGood afternoon. We're handing out lists of private sector commitments to the President's new markets initiative. It shows the business community is deeply engaged in job creation for poor communities. As the Eskimo said, "If you store your food in someone else's stomach... um, well, you'd better hope it doesn't need refrigeration."
+p777
+sg8
+VWILL
+p778
+sg10
+g11
+sa(dp779
+g6
+VThat's a matter for Counsel.
+p780
+sg8
+VWILL
+p781
+sg10
+g11
+sa(dp782
+g6
+VI'll refer you to this morning's briefing.
+p783
+sg8
+VWILL
+p784
+sg10
+g11
+sa(dp785
+g6
+VSee, now you're cheating. You didn't need to be referred.
+p786
+sg8
+VWILL
+p787
+sg10
+g11
+sa(dp788
+g6
+VI'm not getting into that.
+p789
+sg8
+VWILL
+p790
+sg10
+g11
+sa(dp791
+g6
+VIsn't Mr. Babish also a witness?
+p792
+sg8
+VSTEVE
+p793
+sg10
+g11
+sa(dp794
+g6
+VI'd have to check with him.
+p795
+sg8
+VWILL
+p796
+sg10
+g11
+sa(dp797
+g6
+VI'm not.
+p798
+sg8
+VWILL
+p799
+sg10
+g11
+sa(dp800
+g6
+VWho are you?
+p801
+sg8
+VBRUNO
+p802
+sg10
+g69
+sa(dp803
+g6
+VLouise Thornton. Josh couldn't make it.
+p804
+sg8
+VLOU
+p805
+sg10
+g11
+sa(dp806
+g6
+VStuck in Michigan?
+p807
+sg8
+VBRUNO
+p808
+sg10
+g11
+sa(dp809
+g6
+VSantos benched him. He sent me.
+p810
+sg8
+VLOU
+p811
+sg10
+g11
+sa(dp812
+g6
+VWe have some magazines outside if you get bored with those.
+p813
+sg8
+VBRUNO
+p814
+sg10
+g11
+sa(dp815
+g6
+VAny good ones?
+p816
+sg8
+VLOU
+p817
+sg10
+g11
+sa(dp818
+g6
+VAre we going to, how shall I say, negotiate?
+p819
+sg8
+VBRUNO
+p820
+sg10
+g11
+sa(dp821
+g6
+VNah.
+p822
+sg8
+VLOU
+p823
+sg10
+g11
+sa(dp824
+g6
+VThis may look like your dentist's waiting room. It's a negotiating session for Presidential debates.
+p825
+sg8
+VBRUNO
+p826
+sg10
+g11
+sa(dp827
+g6
+VYou want as few debates as possible but you don't want to tick off the debate commission or the opinion elites, right?
+p828
+sg8
+VLOU
+p829
+sg10
+g11
+sa(dp830
+g6
+VHmm.
+p831
+sg8
+VBRUNO
+p832
+sg10
+g11
+sa(dp833
+g6
+VAnd I think that Vinick could kick Santos' abortion-loving ass all over the stage. Game over, check please.
+p834
+sg8
+VLOU
+p835
+sg10
+g11
+sa(dp836
+g6
+VAnd...?
+p837
+sg8
+VBRUNO
+p838
+sg10
+g11
+sa(dp839
+g6
+VAnd I'm your best buddy on this. No debates, you can blame me. Would you like a magazine? Because I figure about a half an hour of this and I can tell the Congressman it didn't work out.
+p840
+sg8
+VLOU
+p841
+sg10
+g11
+sa(dp842
+g6
+VYou understand why I'm taking this meeting instead of Santos?
+p843
+sg8
+VLEO
+p844
+sg10
+g11
+sa(dp845
+g6
+VHe didn't want to be seen with the Woman's Alliance for Choice, not while he's trying to limit abortion.
+p846
+sg8
+VBECCA
+p847
+sg10
+g11
+sa(dp848
+g6
+VHe's not trying to limit abortion.
+p849
+sg8
+VLEO
+p850
+sg10
+g11
+sa(dp851
+g6
+VThat's not what his spokeswoman said.
+p852
+sg8
+VBECCA
+p853
+sg10
+g11
+sa(dp854
+g6
+VIt's a rhetorical position. President Bartlet did it too.
+p855
+sg8
+VLEO
+p856
+sg10
+g11
+sa(dp857
+g6
+VPresident Bartlet never ran against a pro-choice Republican. We haven't endorsed a Presidential candidate yet.
+p858
+sg8
+VBECCA
+p859
+sg10
+g11
+sa(dp860
+g6
+VI know. We're going to have to push that back a bit. See, we need moderate votes to chip into Vinick's lead. We don't want to make Santos the baby-killing candidate, if you'll excuse...
+p861
+sg8
+VLEO
+p862
+sg10
+g11
+sa(dp863
+g6
+VWe're thinking of endorsing Vinick.
+p864
+sg8
+VBECCA
+p865
+sg10
+g11
+sa(dp866
+g6
+VBecca, you're not talking to some punk Congressional staffer.
+p867
+sg8
+VLEO
+p868
+sg10
+g11
+sa(dp869
+g6
+VVinick's pro-choice and he's probably going to win.
+p870
+sg8
+VBECCA
+p871
+sg10
+g11
+sa(dp872
+g6
+VYou can't honestly believe that...
+p873
+sg8
+VLEO
+p874
+sg10
+g11
+sa(dp875
+g6
+VHow do you close a nine-point gap? You'll be lucky if you get one debate. The way Santos has been begging for it, Vinick's expectations are so low he'll just have to avoid tripping over the podium to win.
+p876
+sg8
+VBECCA
+p877
+sg10
+g11
+sa(dp878
+g6
+VWe're the pro-choice party.
+p879
+sg8
+VLEO
+p880
+sg10
+g11
+sa(dp881
+g6
+VYou don't sound like it.
+p882
+sg8
+VBECCA
+p883
+sg10
+g11
+sa(dp884
+g6
+VVinick's the one who won't criticize his party on this; partial-birth, parental notification. He's bowing for the far-right fringes.
+p885
+sg8
+VLEO
+p886
+sg10
+g11
+sa(dp887
+g6
+VBut if he wins, they really will be the fringes, won't they? And then both parties will be where the party is: pro-choice down the line.
+p888
+sg8
+VBECCA
+p889
+sg10
+g11
+sa(dp890
+g6
+VBecca, if you help a Republican get elected President...
+p891
+sg8
+VLEO
+p892
+sg10
+g11
+sa(dp893
+g6
+VHow many more Republicans will have the courage to stand up for a woman's right to choose?
+p894
+sg8
+VBECCA
+p895
+sg10
+g11
+sa(dp896
+g6
+VThank you. The Virginia steel sector's a model for the country. You should be proud.
+p897
+sg8
+VVINICK
+p898
+sg10
+g11
+sa(dp899
+g6
+VThe debate negotiations seem to be off.
+p900
+sg8
+VBRUNO
+p901
+sg10
+g11
+sa(dp902
+g6
+VSeem to be?
+p903
+sg8
+VVINICK
+p904
+sg10
+g11
+sa(dp905
+g6
+VThe Santos campaign blew them up. It's a ploy.
+p906
+sg8
+VBRUNO
+p907
+sg10
+g11
+sa(dp908
+g6
+VBetter be.
+p909
+sg8
+VVINICK
+p910
+sg10
+g11
+sa(dp911
+g6
+VThey need debates ten times more than us. We can wait it out. That's the bad news.
+p912
+sg8
+VBRUNO
+p913
+sg10
+g11
+sa(dp914
+g6
+VYeah. Let's have the good news.
+p915
+sg8
+VVINICK
+p916
+sg10
+g11
+sa(dp917
+g6
+VThe Women's Alliance for Choice wants an endorsement meeting.
+p918
+sg8
+VBRUNO
+p919
+sg10
+g11
+sa(dp920
+g6
+VYou're kidding.
+p921
+sg8
+VVINICK
+p922
+sg10
+g11
+sa(dp923
+g6
+VThe heart of the Democratic base wants to support you. Santos would be doomed. We'd win 53 states, a few desert islands.
+p924
+sg8
+VBRUNO
+p925
+sg10
+g11
+sa(dp926
+g6
+VHow do we know this isn't a setup?
+p927
+sg8
+VVINICK
+p928
+sg10
+g11
+sa(dp929
+g6
+VWe meet with them and we find out.
+p930
+sg8
+VBRUNO
+p931
+sg10
+g11
+sa(dp932
+g6
+VI don't know. You know, a pro-choice group gets within 53 feet of me, the whole Republican Party would go crazy.
+p933
+sg8
+VVINICK
+p934
+sg10
+g11
+sa(dp935
+g6
+VYou're a pro-choice candidate. They're a pro-choice lobby. This isn't a typical election.
+p936
+sg8
+VBRUNO
+p937
+sg10
+g11
+sa(dp938
+g6
+VI can't see how they can endorse a Republican who's against partial-birth abortion, who's for parental notification. This could be Santos screwing me.
+p939
+sg8
+VVINICK
+p940
+sg10
+g11
+sa(dp941
+g6
+VI know these people. I can keep this meeting quiet.
+p942
+sg8
+VBRUNO
+p943
+sg10
+g11
+sa(dp944
+g6
+VNo.
+p945
+sg8
+VVINICK
+p946
+sg10
+g11
+sa(dp947
+g6
+VThe RNC has five negative ads ready that would blow Santos out of the water but it's going to harden his support on the left. It's going to make us more dependent on the right. Yeah we still win, but we win dirty. Wouldn't you rather outflank him on the left?
+p948
+sg8
+VBRUNO
+p949
+sg10
+g11
+sa(dp950
+g6
+VIf this becomes a press story, that I'm courting not just the center but the organized left, I'd be kissing off a quarter of the Republican base. I can't win without my own party. We're going to New York tomorrow. I'm speaking at the Al Smith dinner. Tell Sheila I need speech language on partial-birth abortion. Something that'll mollify the right.
+p951
+sg8
+VVINICK
+p952
+sg10
+g11
+sa(dp953
+g6
+VHey.
+p954
+sg8
+VLOU
+p955
+sg10
+g11
+sa(dp956
+g6
+VYou hired Donna Moss?
+p957
+sg8
+VJOSH
+p958
+sg10
+g11
+sa(dp959
+g6
+VNo, I picked her off the street and put her on national television.
+p960
+sg8
+VLOU
+p961
+sg10
+g11
+sa(dp962
+g6
+VShe was the absolute wrong person for that hit on Vinick. Didn't we say forty-something with kids?
+p963
+sg8
+VJOSH
+p964
+sg10
+g11
+sa(dp965
+g6
+VWe said a woman, and she was great.
+p966
+sg8
+VLOU
+p967
+sg10
+g11
+sa(dp968
+g6
+VShe worked for Russell in the primary.
+p969
+sg8
+VJOSH
+p970
+sg10
+g11
+sa(dp971
+g6
+VSo did half the available Democratic talent.
+p972
+sg8
+VLOU
+p973
+sg10
+g11
+sa(dp974
+g6
+VShe worked for me before that.
+p975
+sg8
+VJOSH
+p976
+sg10
+g11
+sa(dp977
+g6
+VWell, that is a strike against her. I can see why you're concerned. Debate negotiations are off.
+p978
+sg8
+VLOU
+p979
+sg10
+g11
+sa(dp980
+g6
+VThey're off?
+p981
+sg8
+VJOSH
+p982
+sg10
+g11
+sa(dp983
+g6
+VWe walked away. I gave it to the Times and the Journal.
+p984
+sg8
+VLOU
+p985
+sg10
+g11
+sa(dp986
+g6
+VYou better hope this works. Vinick can live without debates. If we don't get them we're toast.
+p987
+sg8
+VJOSH
+p988
+sg10
+g11
+sa(dp989
+g6
+VThat's exactly what we need to even expectations: prove we're willing to walk away. If we're lucky, the Times is going to call us a roadblock.
+p990
+sg8
+VLOU
+p991
+sg10
+g11
+sa(dp992
+g6
+VDonna Moss gave dozens of bad quotes about Santos during the primary. You may run Communications but I'm campaign manager. I sign off on any new spokesperson. [pause] The Women's Alliance for Choice is thinking of endorsing Vinick.
+p993
+sg8
+VJOSH
+p994
+sg10
+g11
+sa(dp995
+g6
+VOkay, very bad news.
+p996
+sg8
+VLOU
+p997
+sg10
+g11
+sa(dp998
+g6
+VOh, yeah.
+p999
+sg8
+VJOSH
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VIs it public?
+p1002
+sg8
+VLOU
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VNot yet.
+p1005
+sg8
+VJOSH
+p1006
+sg10
+g69
+sa(dp1007
+g6
+VMaybe it'll hurt Vinick with his own right wing.
+p1008
+sg8
+VLOU
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VGreat. Vinick loses the right, keeps the middle and left, and the only way for us to get votes is to plaster the Ten Commandments all over our campaign bus.
+p1011
+sg8
+VJOSH
+p1012
+sg10
+g11
+sa(dp1013
+g6
+V1.5 million for naturally chilled water transportation? What's next, a Congressional earmark for olives?
+p1014
+sg8
+VC.J.
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VSo, back into the breach.
+p1017
+sg8
+VWILL
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VDown the hall, turn left at the crucible.
+p1020
+sg8
+VC.J.
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VIf you want to offer any tips...
+p1023
+sg8
+VWILL
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VJust follow your instincts.
+p1026
+sg8
+VC.J.
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VMy instincts say to curl up in a ball in my office.
+p1029
+sg8
+VWILL
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VThen just follow your job description.
+p1032
+sg8
+VC.J.
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VDown the hall, to your left at the...
+p1035
+sg8
+VWILL
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VSo I should tell Legislative Affairs...?
+p1038
+sg8
+VMARGARET
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VThe President's not signing the bill, not when it looks like Happy Hour at the Algonquin. See if they can get some of these earmarks out of it.
+p1041
+sg8
+VC.J.
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VToday, I am pleased to announce that as part of our upcoming new markets tour, the President will visit the Pine Ridge Indian Reservation, home of the Oglala-Sue nation to talk about the importance of investing in Native American communities. I'll dodge your questions now.
+p1044
+sg8
+VWILL
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VWhen was the last time a sitting President visited an Indian reservation?
+p1047
+sg8
+VSTEVE
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VThat would be Franklin Delano Roosevelt, 1936. Next question.
+p1050
+sg8
+VWILL
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VHey, did you talk to Joey Lucas? She's got another version of our flip-flop spot without the monster-chiller theater music.
+p1053
+sg8
+VJOSH
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VYeah, come with me.
+p1056
+sg8
+VLOU
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VWhere are we going?
+p1059
+sg8
+VJOSH
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VBedroom/office/staffroom.
+p1062
+sg8
+VLOU
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VOkay, I don't want to seem ungracious. We've all been under a lot of pressure. It's just that...
+p1065
+sg8
+VJOSH
+p1066
+sg10
+g11
+sa(dp1067
+g6
+VHi.
+p1068
+sg8
+VJOSH
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VHi.
+p1071
+sg8
+VDONNA
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VI don't know what the problem is between you two, but she's great on television and I don't care if she worked for Francisco Franco in the primary, right now it's all hands on deck. So work it out.
+p1074
+sg8
+VLOU
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VWhat kind of on-the-record experience do you have?
+p1077
+sg8
+VJOSH
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VIs this a job interview?
+p1080
+sg8
+VDONNA
+p1081
+sg10
+g631
+sa(dp1082
+g6
+VI'm campaign manager, I hire the staff. It generally involves an interview. On-the-record experience?
+p1083
+sg8
+VJOSH
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VSix hours ago, nationally televised press conference, Santos-McGarry campaign.
+p1086
+sg8
+VDONNA
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VReferences if we want to pursue this?
+p1089
+sg8
+VJOSH
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VJosh Lyman, campaign manager, try the main switchboard.
+p1092
+sg8
+VDONNA
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VDid he tell you campaigns require loyalty; you don't go working for the other guy?
+p1095
+sg8
+VJOSH
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VWho happened to be the Party's front-runner.
+p1098
+sg8
+VDONNA
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VYou knew I wasn't supporting him; me, your mentor in professional politics.
+p1101
+sg8
+VJOSH
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VThe guy who taught me to answer the phone, who kept me in grunt-level servitude because I knew he liked his hamburgers burnt like hockey pucks?
+p1104
+sg8
+VDONNA
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VYou ditched me when I gave you a career.
+p1107
+sg8
+VJOSH
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VAs a short-order cook, I'm still waiting for the spatula to...
+p1110
+sg8
+VDONNA
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VI hope you two are getting along like peas in a pod. It just broke over the wires: Women's Alliance wants to meet with Vinick. I need you to spin it bad for, him fine for us.
+p1113
+sg8
+VLOU
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VHow is that even possible?
+p1116
+sg8
+VDONNA
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VBad for us, worse for him; whatever sticks to the wall.
+p1119
+sg8
+VLOU
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VHow's the Congressman?
+p1122
+sg8
+VJOSH
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VHe's been better.
+p1125
+sg8
+VBRAM
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VThe Women's Alliance?
+p1128
+sg8
+VLOU
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VAnd two more things. Vinick changed his schedule. He's flying to New York, speaking at the Al Smith dinner. We've got 50 reporters out there wondering if we're doing the same.
+p1131
+sg8
+VBRAM
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VWhy the hell would Vinick do the Smith dinner?
+p1134
+sg8
+VJOSH
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VBecause if he gives an in-your-face, pro-choice speech, he could seal the endorsement.
+p1137
+sg8
+VLOU
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VWhat was the second thing?
+p1140
+sg8
+VJOSH
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VThe bishop from Camden, New Jersey, issued a statement: 'if Santos comes to mass in Camden, he'll deny him communion. His views of abortion have placed him in a state of great sin.' How does that play with values voters?
+p1143
+sg8
+VBRAM
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VDon't be spooked by the Times. The staff was right to blow off the debate negotiations. A bad editorial never killed anyone; not that I won't hear about it at this DCCC dinner.
+p1146
+sg8
+VLEO
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VSo you don't go to mass in Camden.
+p1149
+sg8
+VLEO
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VLou and Joey are almost done with our first negative ad.
+p1152
+sg8
+VSANTOS
+p1153
+sg10
+g69
+sa(dp1154
+g6
+VI know you wanted a more...
+p1155
+sg8
+VLEO
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VWell, that's not what bothers me about it.
+p1158
+sg8
+VSANTOS
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VWhat, then?
+p1161
+sg8
+VLEO
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VAnd the more we run them, the more people believe the worst about us. And so we pummel each other to the ground and whoever crawls across the finish line wins.
+p1164
+sg8
+VSANTOS
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VYeah.
+p1167
+sg8
+VLEO
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VHow do I get back the Women's Alliance for Choice?
+p1170
+sg8
+VSANTOS
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VSo I'm the abortion-without-limits guy, huh?
+p1173
+sg8
+VSANTOS
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VYou've got to dance with the one who brung you.
+p1176
+sg8
+VLEO
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VVinick just landed in New York, too. Still no intelligence on what he's saying at the Smith dinner.
+p1179
+sg8
+VJOSH
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VWhat kind of hit did we take in last night's tracking poll?
+p1182
+sg8
+VBRAM
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VFour points on "Shares our values" but Vinick took a bigger hit. 59% think he should denounce the ad more swing voters think he's a typical Republican.
+p1185
+sg8
+VJOSH
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VThey won't when he's endorsed by the leading pro-choice group in America.
+p1188
+sg8
+VLOU
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VWe need a way to spin it if they do endorse Vinick. It'd be a political earthquake.
+p1191
+sg8
+VJOSH
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VFrom a group that's supposedly on our side.
+p1194
+sg8
+VBRAM
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VThey're not on our side. They're on their own side. They're an interest group jockeying for influence. You think they're supporters of a Republican no matter what they're leadership says? Pull back. I bet 85% of them are dyed-in-the-sackcloth Santos supporters.
+p1197
+sg8
+VDONNA
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VPhone Joey with that question for tomorrow's poll.
+p1200
+sg8
+VJOSH
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VI'm on it.
+p1203
+sg8
+VLOU
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VI need you to talk to Treasury about that debt relief report. The President's interested in doing an event on it.
+p1206
+sg8
+VC.J.
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VSure.
+p1209
+sg8
+VWILL
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VAnd he thinks the agency response to new markets has been a bit thin. You should crack a few sub-cabinet heads.
+p1212
+sg8
+VC.J.
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VDid you see today's briefing?
+p1215
+sg8
+VWILL
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VYeah. We need a better answer on the energy bill. It's not your fault. DOE's been dickering around.
+p1218
+sg8
+VC.J.
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VRight.
+p1221
+sg8
+VWILL
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VSet up a call with McGinn at Treasury and I need a fresh list of those agency commitments.
+p1224
+sg8
+VWILL
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VWill Bailey. ... Seagle, the pressure's all mine. ... On the record, I'd say it's something either administration would have to love.
+p1227
+sg8
+VWILL
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VIt's pro-business, it's anti-poverty. ... The investigation's ongoing. I really can't comment.
+p1230
+sg8
+VWILL
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VSeagle? ... No, keep talking. I'm not going anywhere.
+p1233
+sg8
+VWILL
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VThat ad's pretty tough.
+p1236
+sg8
+VSANTOS
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VThe debate's still in the air. We can't afford to take our foot off the gas.
+p1239
+sg8
+VLOU
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VVinick will hit back. He's probably already bought the air time.
+p1242
+sg8
+VSANTOS
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VHe has.
+p1245
+sg8
+VJOSH
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VLeo.
+p1248
+sg8
+VSANTOS
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VWe'll do the meeting with the Women's Alliance for Choice in the hall up there. You and Mr. McGarry don't have to be onstage for a half an hour.
+p1251
+sg8
+VBRAM
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VAll right. We'll talk about our ad buy after the dinner.
+p1254
+sg8
+VSANTOS
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VWe'll see you in there, Congressman.
+p1257
+sg8
+VJOSH
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VI hope you're going to give a tough speech on partial-birth abortion tonight. These folks need to hear it. This story about the Women's Alliance won't even endorse you. It's a disaster.
+p1260
+sg8
+VHODDER
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VBecause I'd get more votes for a position I happen to hold?
+p1263
+sg8
+VVINICK
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VYou can't let this communion thing bother you. Most Catholics are pro-choice. How do bishops expect politicians to do what they can't do in their own church? And the Bible's silent on the issue; not one word that says it's the destruction of a human life.
+p1266
+sg8
+VLEO
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VIt is.
+p1269
+sg8
+VSANTOS
+p1270
+sg10
+g631
+sa(dp1271
+g6
+VYou're pro-life?
+p1272
+sg8
+VLEO
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VI believe life begins at conception.
+p1275
+sg8
+VSANTOS
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VWell ain't that a kick in the pulpit.
+p1278
+sg8
+VLEO
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VPolitics is about practicality.
+p1281
+sg8
+VVINICK
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VNot if you think abortion is murder.
+p1284
+sg8
+VHODDER
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VWhether you do or not, Roe v. Wade has been the law of the land for decades. Most of the country is not ready to change that. Neither am I.
+p1287
+sg8
+VVINICK
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VWell, that's not the party's position.
+p1290
+sg8
+VHODDER
+p1291
+sg10
+g11
+sa(dp1292
+g6
+VI joined this party because the liberals were the ones who always wanted something from the government. We just wanted government to leave us alone. Especially when there's no consensus otherwise. I'm trying to lead the majority who agrees on that, not the minority who wants to enact their version of Leviticus into law.
+p1293
+sg8
+VVINICK
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VWe're a big tent, Arnie; room enough for all.
+p1296
+sg8
+VHODDER
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VYou're going to denounce that ad tonight.
+p1299
+sg8
+VVINICK
+p1300
+sg10
+g11
+sa(dp1301
+g6
+VI'm not responsible for making you more palatable with the abortion lobby.
+p1302
+sg8
+VHODDER
+p1303
+sg10
+g11
+sa(dp1304
+g6
+VDenounce that ad or I'll do it in my speech in front of two dozen bishops and a tent full of Catholic charities.
+p1305
+sg8
+VVINICK
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VLeo tells me that you might defend the right to choose tonight. Proudly, aggressively; this would be a gutsy place to do it.
+p1308
+sg8
+VBECCA
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VWe are the pro-choice ticket, Becca.
+p1311
+sg8
+VLEO
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VI still believe that the Women's Alliance needs to encourage pro-choice Republicans and the Democratic Party needs to as well.
+p1314
+sg8
+VBECCA
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VWhat we need to make clear is that we're not hostile to people who are anti-abortion.
+p1317
+sg8
+VSANTOS
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VPro-choice means anyone can do what they want.
+p1320
+sg8
+VBECCA
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VYeah, but it shouldn't mean that we're proud of whatever they choose. Maybe all this chest-beating is the reason the right can get away with that ad; the reason why a leader of my church can exile me for not trying to impose my religion on the rest of the country, and we're surprised that there are people out there who think we're for unlimited abortion. That there are actually voters, who are pro-choice, that think that we're too extreme.
+p1323
+sg8
+VSANTOS
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VPolitical posturing aside, precisely what limits are you for?
+p1326
+sg8
+VBECCA
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VDo you support abortion to support the sex of the baby?
+p1329
+sg8
+VSANTOS
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VOf course not.
+p1332
+sg8
+VBECCA
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VHow about after an IQ test?
+p1335
+sg8
+VSANTOS
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VNo.
+p1338
+sg8
+VBECCA
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VWell, then you support limits on abortion yourself. Isn't it all a matter of degrees after that? Who are you, who are any of us, to say where someone should draw the line for themselves?
+p1341
+sg8
+VSANTOS
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VI'd like to know what you're saying tonight.
+p1344
+sg8
+VBECCA
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VThat abortion is a tragedy. That it should be legal, it should be safe; it should be a lot rarer than it is now. If you have a problem with that, then endorse whoever you want.
+p1347
+sg8
+VSANTOS
+p1348
+sg10
+g11
+sa(dp1349
+g6
+V[whispering] You'll go in after the intro.
+p1350
+sg8
+VBRAM
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VNext time you decide to smear me maybe you'll have the guts to do it yourself.
+p1353
+sg8
+VSANTOS
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VI had nothing to do with that ad. You blew off the debates. It's clear what kind of campaign you want.
+p1356
+sg8
+VVINICK
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VOh, I forgot how eager you were for debates.
+p1359
+sg8
+VSANTOS
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VAnd next time you send left-wing lobbyists to my office don't forget the gift card.
+p1362
+sg8
+VVINICK
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VYou want an ugly campaign you're going to get one.
+p1365
+sg8
+VSANTOS
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VI didn't start this.
+p1368
+sg8
+VVINICK
+p1369
+sg10
+g631
+sa(dp1370
+g6
+VNah, you henchmen did it for you.
+p1371
+sg8
+VSANTOS
+p1372
+sg10
+g11
+sa(dp1373
+g6
+VYou're hitting me on partial-birth tonight, aren't you?
+p1374
+sg8
+VSANTOS
+p1375
+sg10
+g11
+sa(dp1376
+g6
+VHere we are, a Presidential campaign, grand national debate, pounding each other on one of the few things we basically agree on.
+p1377
+sg8
+VVINICK
+p1378
+sg10
+g11
+sa(dp1379
+g6
+VThen let's negotiate now.
+p1380
+sg8
+VSANTOS
+p1381
+sg10
+g11
+sa(dp1382
+g6
+VExcuse me.
+p1383
+sg8
+VVINICK
+p1384
+sg10
+g11
+sa(dp1385
+g6
+VNo backroom tactics. You and me, a real debate.
+p1386
+sg8
+VSANTOS
+p1387
+sg10
+g11
+sa(dp1388
+g6
+VOh, please.
+p1389
+sg8
+VVINICK
+p1390
+sg10
+g11
+sa(dp1391
+g6
+VA real debate, really.
+p1392
+sg8
+VSANTOS
+p1393
+sg10
+g11
+sa(dp1394
+g6
+VNo negative ads. No attacks in our speeches out there.
+p1395
+sg8
+VVINICK
+p1396
+sg10
+g11
+sa(dp1397
+g6
+VIf we can have a real debate on the issues, just you and me.
+p1398
+sg8
+VSANTOS
+p1399
+sg10
+g11
+sa(dp1400
+g6
+VHow's Sunday night?
+p1401
+sg8
+VVINICK
+p1402
+sg10
+g11
+sa(dp1403
+g6
+VIt's a hell of a way to end your campaign.
+p1404
+sg8
+VVINICK
+p1405
+sg10
+g11
+sa(dp1406
+g6
+VOh, I'm just getting started.
+p1407
+sg8
+VSANTOS
+p1408
+sg10
+g11
+sas.

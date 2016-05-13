@@ -1,0 +1,4256 @@
+(dp0
+S'season'
+p1
+I7
+sS'episode'
+p2
+I12
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VWhat do we know?
+p7
+sS'character'
+p8
+VBARTLET
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+V17 minutes ago, at 6:02 Pacific Time, emergency sirens went off at the nuclear generating station in San Andreo, California. The main feed-water pump failed. Everything proceeded as expected: a relief valve opened to let the water escape, the reactor scrammed...
+p13
+sg8
+VC.J.
+p14
+sg10
+g11
+sa(dp15
+g6
+VIt shut itself down.
+p16
+sg8
+VBARTLET
+p17
+sg10
+g11
+sa(dp18
+g6
+VBut now a valve is malfunctioning and coolant has stopped flowing into the reactor's core.
+p19
+sg8
+VC.J.
+p20
+sg10
+g11
+sa(dp21
+g6
+VIf they can't get coolant into the core...
+p22
+sg8
+VBARTLET
+p23
+sg10
+g11
+sa(dp24
+g6
+VThe uranium fuel rods become exposed, which makes them highly combustible. We could be looking at a full-scale nuclear meltdown.
+p25
+sg8
+VC.J.
+p26
+sg10
+g11
+sa(dp27
+g6
+VFull-scale as in...?
+p28
+sg8
+VBARTLET
+p29
+sg10
+g11
+sa(dp30
+g6
+VFEMA thinks the plume could cover all of San Andreo - population: 42,000. Federal response teams are on their way.
+p31
+sg8
+VC.J.
+p32
+sg10
+g11
+sa(dp33
+g6
+VAny word on the cause?
+p34
+sg8
+VBARTLET
+p35
+sg10
+g11
+sa(dp36
+g6
+VCould be human error, a design flaw...
+p37
+sg8
+VC.J.
+p38
+sg10
+g11
+sa(dp39
+g6
+VIt's not likely a terrorist would sneak in there and jam a valve. We're rechecking all the relevant intel.
+p40
+sg8
+VKATE
+p41
+sg10
+g11
+sa(dp42
+g6
+VHas the public been notified?
+p43
+sg8
+VBARTLET
+p44
+sg10
+g11
+sa(dp45
+g6
+VNo. But when they shut down the reactor there was a steam release that sounded something like a Concorde landing and CNN's already running rumors of an explosion.
+p46
+sg8
+VC.J.
+p47
+sg10
+g11
+sa(dp48
+g6
+VI want the FEMA director and the Chair of the Nuclear Regulatory Commission in here right away. Get CNN to stop running rumors. I'll make a statement in 15 minutes.
+p49
+sg8
+VBARTLET
+p50
+sg10
+g11
+sa(dp51
+g6
+VSir, you really don't want to notify the public until there's a plan in place. There could be widespread panic.
+p52
+sg8
+VKATE
+p53
+sg10
+g11
+sa(dp54
+g6
+VThen we'd better get moving on a plan, because I'm making a statement in 15 minutes.
+p55
+sg8
+VBARTLET
+p56
+sg10
+g11
+sa(dp57
+g6
+VYes, sir.
+p58
+sg8
+VC.J.
+p59
+sg10
+S'positive'
+p60
+sa(dp61
+g6
+VThank you, Mr. President.
+p62
+sg8
+VKATE
+p63
+sg10
+g60
+sa(dp64
+g6
+VYes, we worry about what's happening in the culture: we have two young children. But censorship is like saying I can't have a steak because a baby can't chew it. Let's be careful. Yeah?
+p65
+sg8
+VSANTOS
+p66
+sg10
+g11
+sa(dp67
+g6
+VHe's good tonight.
+p68
+sg8
+VDONNA
+p69
+sg10
+g11
+sa(dp70
+g6
+VAs long as he keeps pivoting to the issues, I'm fine.
+p71
+sg8
+VJOSH
+p72
+sg10
+g11
+sa(dp73
+g6
+VMy favorite Bob Dylan album? I guess I should say Highway 61 Revisited and then we could just ease into transportation policy, but  really, it's Blonde on Blonde.
+p74
+sg8
+VSANTOS
+p75
+sg10
+g11
+sa(dp76
+g6
+VBelieve me, there's no policy implications to that.
+p77
+sg8
+VSANTOS
+p78
+sg10
+g11
+sa(dp79
+g6
+VDid he just imply...
+p80
+sg8
+VDONNA
+p81
+sg10
+g11
+sa(dp82
+g6
+VJay Leno's going to have field day.
+p83
+sg8
+VJOSH
+p84
+sg10
+g11
+sa(dp85
+g6
+VNo big issues captivated the voters. You're surprised it came down to geyser rock trivia?
+p86
+sg8
+VDONNA
+p87
+sg10
+g11
+sa(dp88
+g6
+VWrap it up.
+p89
+sg8
+VJOSH
+p90
+sg10
+g11
+sa(dp91
+g6
+VWhat?
+p92
+sg8
+VDONNA
+p93
+sg10
+g11
+sa(dp94
+g6
+VThere was a nuclear accident in California. Get to a television, laptop. Get any details you can.
+p95
+sg8
+VJOSH
+p96
+sg10
+g11
+sa(dp97
+g6
+VSantos is doing that "Rock the Vote" event in Tampa. Probably pandering like mad to a bunch of preteens.
+p98
+sg8
+VBRUNO
+p99
+sg10
+g11
+sa(dp100
+g6
+VThere better be some post-teens. You're sending me there tomorrow.
+p101
+sg8
+VVINICK
+p102
+sg10
+g11
+sa(dp103
+g6
+VI'm sending you because you talk like a President, not some latter day, Mick Jagger-in-Chief.
+p104
+sg8
+VBRUNO
+p105
+sg10
+g11
+sa(dp106
+g6
+VI could tell them about my psychedelic phase when I wore brown socks on the Senate floor.
+p107
+sg8
+VVINICK
+p108
+sg10
+g11
+sa(dp109
+g6
+VConfirmation on what?
+p110
+sg8
+VVINICK
+p111
+sg10
+g11
+sa(dp112
+g6
+VA problem with a nuclear plant in California. San Andreo. There might be an explosion.
+p113
+sg8
+VBRUNO
+p114
+sg10
+g11
+sa(dp115
+g6
+VSan Andreo?
+p116
+sg8
+VVINICK
+p117
+sg10
+g11
+sa(dp118
+g6
+VYeah, it's near San Diego.
+p119
+sg8
+VBRUNO
+p120
+sg10
+g11
+sa(dp121
+g6
+VYeah, I know where it is.
+p122
+sg8
+VVINICK
+p123
+sg10
+S'negative'
+p124
+sa(dp125
+g6
+VWhat?
+p126
+sg8
+VBRUNO
+p127
+sg10
+g11
+sa(dp128
+g6
+VI pushed the licensing commission to get San Andreo up and running 25 years ago.
+p129
+sg8
+VVINICK
+p130
+sg10
+g11
+sa(dp131
+g6
+VPushed?
+p132
+sg8
+VBRUNO
+p133
+sg10
+g11
+sa(dp134
+g6
+VI helped get that plant online.
+p135
+sg8
+VVINICK
+p136
+sg10
+g11
+sa(dp137
+g6
+VWe've received numerous reports of a loud explosion as well as Arab tourists seen near the facility in the last two days.
+p138
+sg8
+VANCHOR
+p139
+sg10
+g11
+sa(dp140
+g6
+VHow can they run these crazy rumors?
+p141
+sg8
+VKATE
+p142
+sg10
+g11
+sa(dp143
+g6
+VThe only thing certain in cases like this: first reports are always wrong.
+p144
+sg8
+VC.J.
+p145
+sg10
+g11
+sa(dp146
+g6
+VHow we handle this in the next 90 minutes will determine whether there's panic within 100 miles of every nuclear plant in this country. We don't get a second chance to make a first impression. Harry?
+p147
+sg8
+VBARTLET
+p148
+sg10
+g11
+sa(dp149
+g6
+VHow can we get cool water in there.
+p150
+sg8
+VBARTLET
+p151
+sg10
+g11
+sa(dp152
+g6
+VThey're running a temporary feed line to bypass the broken valve while they try to figure out what's wrong.
+p153
+sg8
+VHARRY
+p154
+sg10
+g11
+sa(dp155
+g6
+VIn the meantime?
+p156
+sg8
+VBARTLET
+p157
+sg10
+g11
+sa(dp158
+g6
+VThey're activating an emergency heat removal pump. The hope is that it will lower temperatures enough to prevent a meltdown.
+p159
+sg8
+VHARRY
+p160
+sg10
+g11
+sa(dp161
+g6
+VYes. Another valve is stuck open. With the temperatures rising in the reactor, an awful lot of radioactive steam is being generated and it's pouring into the containment building.
+p162
+sg8
+VHARRY
+p163
+sg10
+g11
+sa(dp164
+g6
+VAre we worried about a radiation leak?
+p165
+sg8
+VC.J.
+p166
+sg10
+g11
+sa(dp167
+g6
+VWe're worried they may have to pump radioactive gases into an auxiliary building which is not built to hold them. One poorly welded seam...
+p168
+sg8
+VHARRY
+p169
+sg10
+g11
+sa(dp170
+g6
+VHow much radiation are we talking about?
+p171
+sg8
+VBARTLET
+p172
+sg10
+g11
+sa(dp173
+g6
+VIt's unclear. But administrators at CalVista Gas & Electric...
+p174
+sg8
+VHARRY
+p175
+sg10
+g11
+sa(dp176
+g6
+VThey run the San Andreo plant.
+p177
+sg8
+VKATE
+p178
+sg10
+g11
+sa(dp179
+g6
+VYes. They believe any leak would pose little or no threat to the public health.
+p180
+sg8
+VHARRY
+p181
+sg10
+g11
+sa(dp182
+g6
+VWithout knowing how big it might be.
+p183
+sg8
+VBARTLET
+p184
+sg10
+g11
+sa(dp185
+g6
+VIt's chaos over there. I couldn't even get them on the phone.
+p186
+sg8
+VC.J.
+p187
+sg10
+g11
+sa(dp188
+g6
+VI want the Nuclear Regulatory Commission to take command of that plant and I want to evacuate the area.
+p189
+sg8
+VBARTLET
+p190
+sg10
+g11
+sa(dp191
+g6
+VIt's a state and local matter.
+p192
+sg8
+VC.J.
+p193
+sg10
+g11
+sa(dp194
+g6
+VGet the governor of California right away.
+p195
+sg8
+VBARTLET
+p196
+sg10
+g11
+sa(dp197
+g6
+VYes, sir.
+p198
+sg8
+VNANCY
+p199
+sg10
+g60
+sa(dp200
+g6
+VHe'll argue that rash, messy, night-time evacuation could be worse...
+p201
+sg8
+VKATE
+p202
+sg10
+g11
+sa(dp203
+g6
+VThe Governor's on the line.
+p204
+sg8
+VNANCY
+p205
+sg10
+g11
+sa(dp206
+g6
+VThank you.
+p207
+sg8
+VBARTLET
+p208
+sg10
+g60
+sa(dp209
+g6
+VGabe, you have to evacuate San Andreo. ... We're all working off sketchy information. ... 'Cause, trust me on this, we would rather have a few fender-benders on the I-5 than a generation of babies with thyroid cancer. ... My FEMA Director is right here. He'll coordinate with your state emergency services and I'm going to declare a major federal disaster. You're going to have every federal resource you need. ... We're going to get through this.
+p210
+sg8
+VBARTLET
+p211
+sg10
+g11
+sa(dp212
+g6
+VMr. President, with all the levels of government involved in this, maybe now is a good time to designate a czar - a single, point person to oversee all...
+p213
+sg8
+VC.J.
+p214
+sg10
+g11
+sa(dp215
+g6
+VYou're looking at him.
+p216
+sg8
+VBARTLET
+p217
+sg10
+g11
+sa(dp218
+g6
+VWe talked to the Senate office.
+p219
+sg8
+VBOB
+p220
+sg10
+g11
+sa(dp221
+g6
+VThey're reaching out to the Governor's office. Regional officials...
+p222
+sg8
+VBRUNO
+p223
+sg10
+g11
+sa(dp224
+g6
+VHundreds of press requests...
+p225
+sg8
+VBOB
+p226
+sg10
+g11
+sa(dp227
+g6
+VI want to issue a statement supporting the Governor's evacuation plan.
+p228
+sg8
+VVINICK
+p229
+sg10
+g11
+sa(dp230
+g6
+VWe should couple it with a call for an investigation. This has to have been a regulatory failure.
+p231
+sg8
+VBOB
+p232
+sg10
+g11
+sa(dp233
+g6
+VWe want to be careful, though. Everyone knows the Senator is pro-nuclear. He said it in the first debate.
+p234
+sg8
+VBRUNO
+p235
+sg10
+g11
+sa(dp236
+g6
+VThat's why we have to act defensively. The DNC's got to know he lobbied to get that plant open.
+p237
+sg8
+VBOB
+p238
+sg10
+g11
+sa(dp239
+g6
+VDefensive, but not destructive. What do you want?
+p240
+sg8
+VBRUNO
+p241
+sg10
+g11
+sa(dp242
+g6
+VJamie and your grandkids are in San Diego?
+p243
+sg8
+VBRUNO
+p244
+sg10
+g11
+sa(dp245
+g6
+VPhone lines are jammed, cell phones, everything.
+p246
+sg8
+VVINICK
+p247
+sg10
+g11
+sa(dp248
+g6
+VWe'll put out a statement supporting the governor.
+p249
+sg8
+VBOB
+p250
+sg10
+g11
+sa(dp251
+g6
+VThe President wants to make a statement in the next few minutes.
+p252
+sg8
+VC.J.
+p253
+sg10
+g11
+sa(dp254
+g6
+VSaying what?
+p255
+sg8
+VWILL
+p256
+sg10
+g11
+sa(dp257
+g6
+VWhatever we can figure out in the next few minutes.
+p258
+sg8
+VC.J.
+p259
+sg10
+g11
+sa(dp260
+g6
+VYou wouldn't believe the rumors that are bouncing around here: that there's a fire near the reactor and it's about to blow.
+p261
+sg8
+VWILL
+p262
+sg10
+g11
+sa(dp263
+g6
+VNot exactly.
+p264
+sg8
+VC.J.
+p265
+sg10
+g11
+sa(dp266
+g6
+VThat we're shutting down every nuclear plant with the same design.
+p267
+sg8
+VWILL
+p268
+sg10
+g11
+sa(dp269
+g6
+VNot the dumbest of ideas, but no. Look, the press are going to talk to everybody, they're going to speculate about everything. I need you to grab hold of the information flow.
+p270
+sg8
+VC.J.
+p271
+sg10
+g11
+sa(dp272
+g6
+VI have no information.
+p273
+sg8
+VWILL
+p274
+sg10
+g124
+sa(dp275
+g6
+VWelcome to the club. Let's start with that statement.
+p276
+sg8
+VC.J.
+p277
+sg10
+g11
+sa(dp278
+g6
+VWhat are the odds this leads to a meltdown?
+p279
+sg8
+VBARTLET
+p280
+sg10
+g11
+sa(dp281
+g6
+VA meltdown isn't when one thing goes wrong, it's when 12 things go wrong.
+p282
+sg8
+VHARRY
+p283
+sg10
+g11
+sa(dp284
+g6
+VThere must be 6 million people living within a hundred miles of that plant.
+p285
+sg8
+VBARTLET
+p286
+sg10
+g11
+sa(dp287
+g6
+V15 down?
+p288
+sg8
+VWILL
+p289
+sg10
+g11
+sa(dp290
+g6
+V15 miles between 6 and 9 like a clock.
+p291
+sg8
+VC.J.
+p292
+sg10
+g11
+sa(dp293
+g6
+VTell them if they're fine with 10 miles, the Governor and I will be setting up a command post at 10.1 miles from the plant. We'd like them to join us there. [to Will] Is the press ready for my statement?
+p294
+sg8
+VBARTLET
+p295
+sg10
+g11
+sa(dp296
+g6
+VReadier than we are.
+p297
+sg8
+VWILL
+p298
+sg10
+g11
+sa(dp299
+g6
+VIt's not like we have much to tell them.
+p300
+sg8
+VC.J.
+p301
+sg10
+g11
+sa(dp302
+g6
+VGood evening.
+p303
+sg8
+VBARTLET
+p304
+sg10
+g11
+sa(dp305
+g6
+V32 minutes ago, there was a mechanical problem at the nuclear generating plant in San Andreo, California which is causing the reactor's core to overheat. There's been no explosion. There's no indication of terrorism or foul play. Engineers are working to address the problem right now. Governor Tillman has begun an evacuation and I'm declaring a major federal disaster and dispatching every possible resource. We don't have all the facts. You will have them as soon as we do but every level of government is working on this. No matter what happens, we're going to handle it.
+p306
+sg8
+VBARTLET
+p307
+sg10
+g11
+sa(dp308
+g6
+VSo what they're doing is bypassing the broken valve and running a new pipeline to get cool water into that reactor so it doesn't meltdown. Federal officials believe they can avoid the worst, but I can tell you...
+p309
+sg8
+VANCHOR
+p310
+sg10
+g11
+sa(dp311
+g6
+VI don't understand why they put a nuclear plant so close to a population center.
+p312
+sg8
+VDONNA
+p313
+sg10
+g11
+sa(dp314
+g6
+VThey're all near population centers. Otherwise, they'd lose too much power in transmission.
+p315
+sg8
+VSANTOS
+p316
+sg10
+g11
+sa(dp317
+g6
+VSo the whole idea is kind of crazy.
+p318
+sg8
+VDONNA
+p319
+sg10
+g11
+sa(dp320
+g6
+VKind of.
+p321
+sg8
+VSANTOS
+p322
+sg10
+g11
+sa(dp323
+g6
+VYou should give a big speech on that. Put out a whole new energy plan.
+p324
+sg8
+VHELEN
+p325
+sg10
+g11
+sa(dp326
+g6
+VOr point out that Vinick's plan glows in the dark.
+p327
+sg8
+VBRAM
+p328
+sg10
+g11
+sa(dp329
+g6
+VIt's true. Vinick's for nuclear power. You fought against him for years.
+p330
+sg8
+VHELEN
+p331
+sg10
+g11
+sa(dp332
+g6
+VWe can get every environmental group for a press conference.
+p333
+sg8
+VDONNA
+p334
+sg10
+g11
+sa(dp335
+g6
+VSkip Oregon, campaign along the evacuation route, give out bottled water.
+p336
+sg8
+VBRAM
+p337
+sg10
+g11
+sa(dp338
+g6
+VCan I talk to you?
+p339
+sg8
+VJOSH
+p340
+sg10
+g11
+sa(dp341
+g6
+VLet me know when they get the pipeline to the core.
+p342
+sg8
+VSANTOS
+p343
+sg10
+g11
+sa(dp344
+g6
+VWhere's Leo?
+p345
+sg8
+VSANTOS
+p346
+sg10
+g11
+sa(dp347
+g6
+VHe's on a charter to Ohio. He's going to call in when he lands.
+p348
+sg8
+VJOSH
+p349
+sg10
+g11
+sa(dp350
+g6
+VGet them to cool it on the political chatter. I don't want us holding rallies on the Hindenburg.
+p351
+sg8
+VSANTOS
+p352
+sg10
+g11
+sa(dp353
+g6
+VYeah. I'm going to cancel our events tomorrow. We can't be exploiting this.
+p354
+sg8
+VJOSH
+p355
+sg10
+g11
+sa(dp356
+g6
+VYeah.
+p357
+sg8
+VSANTOS
+p358
+sg10
+g11
+sa(dp359
+g6
+VAnd I don't think we're going to have to. You're anti-nuclear. Vinick's got a long history on the other side. This is all upside for us. I say we go completely dark. Let the press go after Vinick on their own so they can't accuse us of playing politics.
+p360
+sg8
+VJOSH
+p361
+sg10
+g11
+sa(dp362
+g6
+VI'm fine doing nothing on this issue.
+p363
+sg8
+VSANTOS
+p364
+sg10
+g11
+sa(dp365
+g6
+VI mean nothing on any issue: no speeches, no press releases. We stay right here.
+p366
+sg8
+VJOSH
+p367
+sg10
+g11
+sa(dp368
+g6
+VSee which way the wind blows.
+p369
+sg8
+VSANTOS
+p370
+sg10
+g11
+sa(dp371
+g6
+VAnd what's blowing in it.
+p372
+sg8
+VJOSH
+p373
+sg10
+g11
+sa(dp374
+g6
+VHave we cooled down the reactor's core?
+p375
+sg8
+VBARTLET
+p376
+sg10
+g11
+sa(dp377
+g6
+VThe heat removal pump hasn't had much impact: a 20-degree drop but we're talking 700 degrees in there.
+p378
+sg8
+VC.J.
+p379
+sg10
+g11
+sa(dp380
+g6
+VHang on. We've got a temporary coolant line to the core.
+p381
+sg8
+VHARRY
+p382
+sg10
+g11
+sa(dp383
+g6
+VI don't see anyone popping champagne corks. I thought if we got a line in there we'd avoid a meltdown.
+p384
+sg8
+VBARTLET
+p385
+sg10
+g11
+sa(dp386
+g6
+VIt wasn't designed to hold it.
+p387
+sg8
+VBARTLET
+p388
+sg10
+g11
+sa(dp389
+g6
+VNo. IT can accommodate up to 50 pounds of pressure per square inch. It's now at 34psi and rising. The coolant won't be enough to stop it. The fuel rods give off hydrogen gas.
+p390
+sg8
+VC.J.
+p391
+sg10
+g11
+sa(dp392
+g6
+VThe containment building might be able to withstand that kind of a blast. The auxiliary building cannot.
+p393
+sg8
+VHARRY
+p394
+sg10
+g11
+sa(dp395
+g6
+VSo?
+p396
+sg8
+VBARTLET
+p397
+sg10
+g11
+sa(dp398
+g6
+VUnless we fix the valve soon, we have to vent radioactive gas into the atmosphere to relieve the pressure.
+p399
+sg8
+VHARRY
+p400
+sg10
+g11
+sa(dp401
+g6
+VHow many people are still in San Andreo?
+p402
+sg8
+VBARTLET
+p403
+sg10
+g11
+sa(dp404
+g6
+VI don't want to release any radiation until everyone's been evacuated. What's the alternative? HARRY An explosion that spreads radiation all over Southern California; maybe parts of Arizona and Nevada, sir.
+p405
+sg8
+VBARTLET
+p406
+sg10
+g11
+sa(dp407
+g6
+VHow much would we have to vent?
+p408
+sg8
+VBARTLET
+p409
+sg10
+g11
+sa(dp410
+g6
+VWe think it will be within EPA's standard parameters for an acceptable dosage.
+p411
+sg8
+VHARRY
+p412
+sg10
+g11
+sa(dp413
+g6
+VWhich could be good if the winds stay consistent; the radiation could drift out over the ocean.
+p414
+sg8
+VC.J.
+p415
+sg10
+g11
+sa(dp416
+g6
+VHow do we speed up the evacuation?
+p417
+sg8
+VBARTLET
+p418
+sg10
+g11
+sa(dp419
+g6
+VTell people we're about to spill radiation into the air, good chance it will speed it up.
+p420
+sg8
+VC.J.
+p421
+sg10
+g11
+sa(dp422
+g6
+VHow much time before we reach 50psi?
+p423
+sg8
+VBARTLET
+p424
+sg10
+g11
+sa(dp425
+g6
+VMaybe an hour.
+p426
+sg8
+VHARRY
+p427
+sg10
+g11
+sa(dp428
+g6
+VWho would give the order?
+p429
+sg8
+VBARTLET
+p430
+sg10
+g11
+sa(dp431
+g6
+VWe've taken charge of the plant, sir. That would be you.
+p432
+sg8
+VHARRY
+p433
+sg10
+g11
+sa(dp434
+g6
+VDOE, EPA, NOA... okay, let's get started. I wanted all the agency spokespeople in one place so we could... yes, Blyden?
+p435
+sg8
+VWILL
+p436
+sg10
+g11
+sa(dp437
+g6
+VRadioactive steam has been spilling into the containment building, so much that they've had to pump it into another building. The other building can only hold 50 pounds of pressure per inch. It's now at 38. We may have to vent radiation into the atmosphere to avoid a big bang.
+p438
+sg8
+VWILL
+p439
+sg10
+g11
+sa(dp440
+g6
+VGuys, I don't have time to do this by Socratic Method. I called you all here because each of your agencies is going to be involved in this but no one, not a single one of you, is going to talk to the press. All right? No one.
+p441
+sg8
+VWILL
+p442
+sg10
+g11
+sa(dp443
+g6
+VI can assure you, they've all called my office too. There will be one briefer: me.
+p444
+sg8
+VWILL
+p445
+sg10
+g11
+sa(dp446
+g6
+VWhat if this turns out to be the administration's fault? We can't withhold information from the public.
+p447
+sg8
+VBLYDEN
+p448
+sg10
+g11
+sa(dp449
+g6
+VWe won't be withholding anything. We're trying to maintain calm; make it look like we know what we're doing, so there will be one voice: the dulcet tones of Will Bailey. Get your souvenir programs in the lobby.
+p450
+sg8
+VWILL
+p451
+sg10
+g11
+sa(dp452
+g6
+VThere will be one briefer, and I won't be answering political questions.
+p453
+sg8
+VWILL
+p454
+sg10
+g11
+sa(dp455
+g6
+VIt's almost morning in Kazakhstan, sir. The polls open in two hours.
+p456
+sg8
+VKATE
+p457
+sg10
+g11
+sa(dp458
+g6
+VBusy night for you.
+p459
+sg8
+VBARTLET
+p460
+sg10
+g11
+sa(dp461
+g6
+VIt's always morning somewhere.
+p462
+sg8
+VKATE
+p463
+sg10
+g11
+sa(dp464
+g6
+VWe have election monitors on the ground?
+p465
+sg8
+VBARTLET
+p466
+sg10
+g11
+sa(dp467
+g6
+VThrough the OSCE. China needs to see this as a genuine democracy, not some Russian puppet government out to screw them out of their oil interests. China's got troops along the border. If they think it's a phony election rigged to protect the Russian-installed incumbent...
+p468
+sg8
+VKATE
+p469
+sg10
+g11
+sa(dp470
+g6
+VThey cross the borders, so does Russia, and we have a war on our hands.
+p471
+sg8
+VBARTLET
+p472
+sg10
+g11
+sa(dp473
+g6
+VI'll have regular updates for you.
+p474
+sg8
+VKATE
+p475
+sg10
+g11
+sa(dp476
+g6
+VSo, we're at 46psi?
+p477
+sg8
+VBARTLET
+p478
+sg10
+g11
+sa(dp479
+g6
+VWe don't have much time to relieve the pressure in that auxiliary building.
+p480
+sg8
+VC.J.
+p481
+sg10
+g11
+sa(dp482
+g6
+VWhere are we on the evacuation?
+p483
+sg8
+VBARTLET
+p484
+sg10
+g11
+sa(dp485
+g6
+VMaybe a third of the people in the evacuation zone are out. At least 700,000 in the region are pouring onto the freeway.
+p486
+sg8
+VC.J.
+p487
+sg10
+g11
+sa(dp488
+g6
+V700,000?
+p489
+sg8
+VBARTLET
+p490
+sg10
+g11
+sa(dp491
+g6
+VPlus there aren't enough buses and vans to take care of at-risk populations: seniors, people with disabilities. The governor wants you to activate military support from Camp Pendleton.
+p492
+sg8
+VC.J.
+p493
+sg10
+g11
+sa(dp494
+g6
+VSo ordered. Do we have a direct line to the control room in San Andreo?
+p495
+sg8
+VBARTLET
+p496
+sg10
+g11
+sa(dp497
+g6
+VThe Superintendent for Operations is on now.
+p498
+sg8
+VHARRY
+p499
+sg10
+g11
+sa(dp500
+g6
+VWe've got helicopters overhead to get an immediate reading to make sure we're within the acceptable dosage.
+p501
+sg8
+VC.J.
+p502
+sg10
+g11
+sa(dp503
+g6
+VWhich is?
+p504
+sg8
+VBARTLET
+p505
+sg10
+g11
+sa(dp506
+g6
+VIs there any way to wait for support from Camp Pendleton? I don't like the idea of the elderly and the disabled taking the brunt of this.
+p507
+sg8
+VBARTLET
+p508
+sg10
+g11
+sa(dp509
+g6
+VThe longer we wait, the more chance of an explosion and God knows how much radiation shooting into the atmosphere.
+p510
+sg8
+VHARRY
+p511
+sg10
+g11
+sa(dp512
+g6
+V[pause] Vent it now.
+p513
+sg8
+VBARTLET
+p514
+sg10
+g11
+sa(dp515
+g6
+VOpen the stack.
+p516
+sg8
+VHARRY
+p517
+sg10
+g11
+sa(dp518
+g6
+VWhat do we mean by "acceptable dosage" anyway?
+p519
+sg8
+VBARTLET
+p520
+sg10
+g11
+sa(dp521
+g6
+VIt's the amount the body can safely absorb through direct exposure. But radiation also enters the surface layers of the soil where it's absorbed by plants and insects and enters the food supply. It seeps into water sources. When it does enter the body, sometimes it kills cells instantly. Sometimes it forms damaged cells.
+p522
+sg8
+VHARRY
+p523
+sg10
+g11
+sa(dp524
+g6
+VCancer?
+p525
+sg8
+VBARTLET
+p526
+sg10
+g11
+sa(dp527
+g6
+VYes, sir.
+p528
+sg8
+VHARRY
+p529
+sg10
+g60
+sa(dp530
+g6
+V1200?
+p531
+sg8
+VBARTLET
+p532
+sg10
+g11
+sa(dp533
+g6
+VInside the stack. Once it's in the air it'll disperse. Anything below 500 and we're fine.
+p534
+sg8
+VC.J.
+p535
+sg10
+g11
+sa(dp536
+g6
+VWe have to announce the number.
+p537
+sg8
+VBARTLET
+p538
+sg10
+g11
+sa(dp539
+g6
+VIt'll make the evacuation 50 times harder.
+p540
+sg8
+VHARRY
+p541
+sg10
+g11
+sa(dp542
+g6
+VCan we take another reading?
+p543
+sg8
+VBARTLET
+p544
+sg10
+g11
+sa(dp545
+g6
+VIt's more than we consider safe. We have to let the people know.
+p546
+sg8
+VBARTLET
+p547
+sg10
+g11
+sa(dp548
+g6
+VAnyone who's not on the freeway will be looking for an on-ramp.
+p549
+sg8
+VHARRY
+p550
+sg10
+g11
+sa(dp551
+g6
+VMake the freeway one-way.
+p552
+sg8
+VC.J.
+p553
+sg10
+g11
+sa(dp554
+g6
+VWe're spilling radiation into the sky, people are jamming the freeways, and we don't know what direction they should drive? Tell Will to announce the number.
+p555
+sg8
+VBARTLET
+p556
+sg10
+g11
+sa(dp557
+g6
+VYes, sir.
+p558
+sg8
+VC.J.
+p559
+sg10
+g60
+sa(dp560
+g6
+VNo, I'm saying it was slightly above EPA's standards for an acceptable dosage.
+p561
+sg8
+VWILL
+p562
+sg10
+g11
+sa(dp563
+g6
+VI didn't say that. I'm just trying to state the facts.
+p564
+sg8
+VWILL
+p565
+sg10
+g11
+sa(dp566
+g6
+VHe's worried about public safety. He's urging those outside the evacuation zone to stay home so those in the zone can get out.
+p567
+sg8
+VWILL
+p568
+sg10
+g11
+sa(dp569
+g6
+VI'm briefing, on that and everything else.
+p570
+sg8
+VWILL
+p571
+sg10
+g11
+sa(dp572
+g6
+VAsk me and I'll get it.
+p573
+sg8
+VWILL
+p574
+sg10
+g11
+sa(dp575
+g6
+VBlyden said that?
+p576
+sg8
+VWILL
+p577
+sg10
+g11
+sa(dp578
+g6
+VI'll get into it.
+p579
+sg8
+VWILL
+p580
+sg10
+g11
+sa(dp581
+g6
+VThey're playing Vinick's debate clip a lot.
+p582
+sg8
+VBRAM
+p583
+sg10
+g11
+sa(dp584
+g6
+VYeah, starting to. Yeah.
+p585
+sg8
+VJOSH
+p586
+sg10
+g60
+sa(dp587
+g6
+VSite Advance wants to know if we're scrubbing the whole Oregon trip.
+p588
+sg8
+VBRAM
+p589
+sg10
+g11
+sa(dp590
+g6
+VThe Congressman doesn't want to politicize a tragedy.
+p591
+sg8
+VJOSH
+p592
+sg10
+g11
+sa(dp593
+g6
+VWe don't want to do a press statement in the morning; a few interviews?
+p594
+sg8
+VBRAM
+p595
+sg10
+g11
+sa(dp596
+g6
+VNo interviews, no statements; not from us, not from the DNC, not from anyone we control.
+p597
+sg8
+VJOSH
+p598
+sg10
+g11
+sa(dp599
+g6
+VWe could make a lot of hay out of this. Vinick's the pro-nuke poster child.
+p600
+sg8
+VBRAM
+p601
+sg10
+g11
+sa(dp602
+g6
+VNo hay, no posters; the Oregon trip is off.
+p603
+sg8
+VJOSH
+p604
+sg10
+g11
+sa(dp605
+g6
+VYou may want to hang on to your pitchfork.
+p606
+sg8
+VDONNA
+p607
+sg10
+g11
+sa(dp608
+g6
+VI'm behind you on all this. ... All right, bye.
+p609
+sg8
+VSANTOS
+p610
+sg10
+g11
+sa(dp611
+g6
+VHow's the governor?
+p612
+sg8
+VHELEN
+p613
+sg10
+g11
+sa(dp614
+g6
+VNervous.
+p615
+sg8
+VSANTOS
+p616
+sg10
+g11
+sa(dp617
+g6
+VI don't see why. Any angry constituents will just be vaporized anyway, right?
+p618
+sg8
+VHELEN
+p619
+sg10
+g11
+sa(dp620
+g6
+VOh, am I the only one left in the family with a sense of humor?
+p621
+sg8
+VHELEN
+p622
+sg10
+g11
+sa(dp623
+g6
+VAnything new?
+p624
+sg8
+VSANTOS
+p625
+sg10
+g60
+sa(dp626
+g6
+VHow about something old?
+p627
+sg8
+VJOSH
+p628
+sg10
+g11
+sa(dp629
+g6
+VWhat is it?
+p630
+sg8
+VHELEN
+p631
+sg10
+g11
+sa(dp632
+g6
+VVinick lobbied for federal approval for San Andreo 25 years ago.
+p633
+sg8
+VJOSH
+p634
+sg10
+g11
+sa(dp635
+g6
+VWhen is this going to break?
+p636
+sg8
+VSANTOS
+p637
+sg10
+g11
+sa(dp638
+g6
+VI don't know. The press is kind of preoccupied.
+p639
+sg8
+VJOSH
+p640
+sg10
+g11
+sa(dp641
+g6
+VWe don't want to nudge them along?
+p642
+sg8
+VHELEN
+p643
+sg10
+g11
+sa(dp644
+g6
+VWe could put it out, yeah. But then he could hit us back for playing politics with a mushroom cloud. If the press finds it on its own, it'll be 900 times bigger.
+p645
+sg8
+VJOSH
+p646
+sg10
+g11
+sa(dp647
+g6
+VAnd what if they don't find it?
+p648
+sg8
+VHELEN
+p649
+sg10
+g11
+sa(dp650
+g6
+VThey will.
+p651
+sg8
+VJOSH
+p652
+sg10
+g11
+sa(dp653
+g6
+VThis isn't politics, this is policy. Those places are unsafe. It's a legitimate point.
+p654
+sg8
+VHELEN
+p655
+sg10
+g11
+sa(dp656
+g6
+VIn New Mexico, in Arizona, in Colorado, people are getting in their cars and driving east. And while higher than acceptable levels of radiation drift into the air, the White House won't say if we're past risk of a meltdown or explosion.
+p657
+sg8
+VANCHOR
+p658
+sg10
+g11
+sa(dp659
+g6
+VHide these under your mattress. For now.
+p660
+sg8
+VSANTOS
+p661
+sg10
+g11
+sa(dp662
+g6
+VI don't like hearing the word "meltdown" on cable news. 12 things have not gone wrong yet. By my count, we're barely at 6 or 7.
+p663
+sg8
+VBARTLET
+p664
+sg10
+g11
+sa(dp665
+g6
+VThey're still trying everything to fix the valves.
+p666
+sg8
+VC.J.
+p667
+sg10
+g11
+sa(dp668
+g6
+VWho's they?
+p669
+sg8
+VBARTLET
+p670
+sg10
+g11
+sa(dp671
+g6
+VOur engineers plus their engineers; lots of engineers.
+p672
+sg8
+VC.J.
+p673
+sg10
+g11
+sa(dp674
+g6
+VRadioactive steam is going to build up in that damned auxiliary building again.
+p675
+sg8
+VBARTLET
+p676
+sg10
+g11
+sa(dp677
+g6
+V11psi and climbing.
+p678
+sg8
+VHARRY
+p679
+sg10
+g11
+sa(dp680
+g6
+VThe more immediate concern is panic. The freeways are like parking lots. FOX is running a story about a family in Michigan that's leaving the country.
+p681
+sg8
+VWILL
+p682
+sg10
+g11
+sa(dp683
+g6
+VHow soon can I visit San Andreo without diverting resources from the evacuation?
+p684
+sg8
+VBARTLET
+p685
+sg10
+g11
+sa(dp686
+g6
+VTell the press now I'm flying out tomorrow.
+p687
+sg8
+VBARTLET
+p688
+sg10
+g11
+sa(dp689
+g6
+VSir, steam is still building up. If we have to vent...
+p690
+sg8
+VHARRY
+p691
+sg10
+g11
+sa(dp692
+g6
+VIf people know I'm going, maybe they'll stop buying one-way tickets to Norway.
+p693
+sg8
+VBARTLET
+p694
+sg10
+g11
+sa(dp695
+g6
+VWhat about Senator Vinick? It's his home state. We always invite the senators to join you for disaster trips.
+p696
+sg8
+VC.J.
+p697
+sg10
+g11
+sa(dp698
+g6
+VHave we ever had a situation where one's a major-Party nominee?
+p699
+sg8
+VWILL
+p700
+sg10
+g11
+sa(dp701
+g6
+VAnd if we take Vinick, do we take Santos? Maybe we're better off...
+p702
+sg8
+VC.J.
+p703
+sg10
+g11
+sa(dp704
+g6
+VVinick's senator from California; He's on the plane if he wants to be. Set up a call with Matt Santos.
+p705
+sg8
+VBARTLET
+p706
+sg10
+g11
+sa(dp707
+g6
+VFifth time this hour.
+p708
+sg8
+VBOB
+p709
+sg10
+g11
+sa(dp710
+g6
+VYou know how many press requests we've got?
+p711
+sg8
+VBOB
+p712
+sg10
+g11
+sa(dp713
+g6
+VA bunch.
+p714
+sg8
+VBRUNO
+p715
+sg10
+g11
+sa(dp716
+g6
+VEvery network, every major newspaper, plus Japanese TV, Internet radio; there's probably requests from homing pigeons in here. We have to say something.
+p717
+sg8
+VBOB
+p718
+sg10
+g11
+sa(dp719
+g6
+VWe support the governor's evacuation. We'll say it in Japanese.
+p720
+sg8
+VBRUNO
+p721
+sg10
+g11
+sa(dp722
+g6
+VThe Senator, on camera; we have to give them fresh video or they keep running that debate clip. He should whack federal regulators.
+p723
+sg8
+VBOB
+p724
+sg10
+g11
+sa(dp725
+g6
+VBob.
+p726
+sg8
+VBRUNO
+p727
+sg10
+g11
+sa(dp728
+g6
+VNo, the regulations are too lax. It's practically scout's honor.
+p729
+sg8
+VBOB
+p730
+sg10
+g11
+sa(dp731
+g6
+VWe're in a great big, glass house. We do not throw the first stone.
+p732
+sg8
+VBRUNO
+p733
+sg10
+g11
+sa(dp734
+g6
+VOkay, a moratorium on all new nuclear plant construction.
+p735
+sg8
+VBOB
+p736
+sg10
+g11
+sa(dp737
+g6
+VHe cannot retreat from what he said in the debate.
+p738
+sg8
+VBRUNO
+p739
+sg10
+g11
+sa(dp740
+g6
+VThey're killing us out there. And they still don't know our guy helped get that plant approved in the first place.
+p741
+sg8
+VBOB
+p742
+sg10
+g11
+sa(dp743
+g6
+VBob. Bob, I know Josh Lyman. There is a reason he's camped out in Florida, the swinging-est of swing states. Santos is gonna whack us. Then we hit him back for politicizing a national disaster.
+p744
+sg8
+VBRUNO
+p745
+sg10
+g11
+sa(dp746
+g6
+VThat's a big roll of the dice on one weak pair of knees.
+p747
+sg8
+VBOB
+p748
+sg10
+g11
+sa(dp749
+g6
+VTrust me. Josh has the political equivalent of Turret's Syndrome. He can't help himself.
+p750
+sg8
+VBRUNO
+p751
+sg10
+g11
+sa(dp752
+g6
+VThe President wants the Senator to fly with him on Air Force One tomorrow to San Andreo.
+p753
+sg8
+VBRUNO
+p754
+sg10
+g11
+sa(dp755
+g6
+VYes, Mr. Mayor, there's coolant running into the reactor now. ... Fingers crossed.
+p756
+sg8
+VBARTLET
+p757
+sg10
+g11
+sa(dp758
+g6
+VI thought a degree in economics was plenty for this job. My kingdom for a plumbing license.
+p759
+sg8
+VBARTLET
+p760
+sg10
+g11
+sa(dp761
+g6
+VI have Matt Santos on the line.
+p762
+sg8
+VNANCY
+p763
+sg10
+g11
+sa(dp764
+g6
+VThanks.
+p765
+sg8
+VBARTLET
+p766
+sg10
+g11
+sa(dp767
+g6
+VMatt, you look great out there... when you're actually, you know, out there.
+p768
+sg8
+VBARTLET
+p769
+sg10
+g11
+sa(dp770
+g6
+VJust holding tight, Mr. President. Praying for the people of San Andreo.
+p771
+sg8
+VSANTOS
+p772
+sg10
+g11
+sa(dp773
+g6
+VMatt, I'm taking Arnie Vinick to San Andreo.
+p774
+sg8
+VBARTLET
+p775
+sg10
+g11
+sa(dp776
+g6
+VYes, sir.
+p777
+sg8
+VSANTOS
+p778
+sg10
+g60
+sa(dp779
+g6
+VWell, you have to do what you think is best.
+p780
+sg8
+VSANTOS
+p781
+sg10
+g11
+sa(dp782
+g6
+VYes, Mr. President, I will.
+p783
+sg8
+VSANTOS
+p784
+sg10
+g11
+sa(dp785
+g6
+VThanks.
+p786
+sg8
+VBARTLET
+p787
+sg10
+g11
+sa(dp788
+g6
+VIt's an enormous gift. Jed Bartlet is our radiation shied.
+p789
+sg8
+VBRUNO
+p790
+sg10
+g11
+sa(dp791
+g6
+VNow we're banking on a Democrat helping us.
+p792
+sg8
+VBOB
+p793
+sg10
+g11
+sa(dp794
+g6
+VIs Santos coming?
+p795
+sg8
+VVINICK
+p796
+sg10
+g11
+sa(dp797
+g6
+VNo. Your state, not his.
+p798
+sg8
+VBRUNO
+p799
+sg10
+g11
+sa(dp800
+g6
+VWhat if news of your lobbying for San Andreo breaks while you're standing next to the President?
+p801
+sg8
+VBOB
+p802
+sg10
+g11
+sa(dp803
+g6
+VThis is how we survive it.
+p804
+sg8
+VBRUNO
+p805
+sg10
+g11
+sa(dp806
+g6
+VNot if the story breaks while we're right there.
+p807
+sg8
+VBOB
+p808
+sg10
+g11
+sa(dp809
+g6
+VYou don't get it; Santos is shut out of this trip. Josh has to attack us now.
+p810
+sg8
+VBRUNO
+p811
+sg10
+g11
+sa(dp812
+g6
+VFlying down there links us to the disaster and just hoping Josh's blood sugar spikes isn't any kind of...
+p813
+sg8
+VBOB
+p814
+sg10
+g11
+sa(dp815
+g6
+VI represent the state. I'm taking that seat on Air Force One.
+p816
+sg8
+VVINICK
+p817
+sg10
+g11
+sa(dp818
+g6
+VWhat is it?
+p819
+sg8
+VBARTLET
+p820
+sg10
+g11
+sa(dp821
+g6
+VThe temporary pipeline that runs cool water to the core: it usually carries hot water, not cold.
+p822
+sg8
+VC.J.
+p823
+sg10
+g11
+sa(dp824
+g6
+VOkay?
+p825
+sg8
+VBARTLET
+p826
+sg10
+g11
+sa(dp827
+g6
+VImagine heating a glass to 700 degrees and then pouring ice water in it.
+p828
+sg8
+VC.J.
+p829
+sg10
+g11
+sa(dp830
+g6
+VThe pipe's cracking.
+p831
+sg8
+VBARTLET
+p832
+sg10
+g11
+sa(dp833
+g6
+VAnd the water level around the fuel rods is dropping again. They've tried everything to fix the valves from the control room. We have to send men into the containment building to fix them by hand.
+p834
+sg8
+VC.J.
+p835
+sg10
+g11
+sa(dp836
+g6
+VI'm guessing the radiation in there is above the acceptable dosage.
+p837
+sg8
+VBARTLET
+p838
+sg10
+g11
+sa(dp839
+g6
+VFive times more, even with anti-contamination gear.
+p840
+sg8
+VC.J.
+p841
+sg10
+g11
+sa(dp842
+g6
+VWho would we be sending in?
+p843
+sg8
+VBARTLET
+p844
+sg10
+g11
+sa(dp845
+g6
+VTwo mechanical engineers from the Nuclear Regulatory Mission.
+p846
+sg8
+VC.J.
+p847
+sg10
+g11
+sa(dp848
+g6
+VCivilian engineers? There isn't some military team, some Pentagon specialist we could deploy?
+p849
+sg8
+VBARTLET
+p850
+sg10
+g11
+sa(dp851
+g6
+VThis is their job, sir.
+p852
+sg8
+VC.J.
+p853
+sg10
+g11
+sa(dp854
+g6
+VYou think when they started engineering school, they imagined the President would ask them to risk their lives by prying open a piece of pipe? Send them in.
+p855
+sg8
+VBARTLET
+p856
+sg10
+g11
+sa(dp857
+g6
+VI have a couple announcements to make. The emergency secondary pipeline, the temporary line that is bringing cool water to the reactor's core, is cracking and degrading. Technicians are working to run new pipe, and NRC engineers will be entering the containment building to try to fix the valves manually.
+p858
+sg8
+VWILL
+p859
+sg10
+g11
+sa(dp860
+g6
+VIt's a very dangerous work environment, but they're trained for it.
+p861
+sg8
+VWILL
+p862
+sg10
+g11
+sa(dp863
+g6
+VIs more radioactive gas building up in the auxiliary structure?
+p864
+sg8
+VWALTER
+p865
+sg10
+g11
+sa(dp866
+g6
+VWe're hoping we can fix the underlying problem before that's an issue.
+p867
+sg8
+VWILL
+p868
+sg10
+g11
+sa(dp869
+g6
+VYou'd tell us if we were on the verge of an explosion?
+p870
+sg8
+VWALTER
+p871
+sg10
+g11
+sa(dp872
+g6
+VI promised you the facts and you're going to get them.
+p873
+sg8
+VWILL
+p874
+sg10
+g11
+sa(dp875
+g6
+VThere are lots of people who think they know what's going on. Let me tell you who does: he briefs from this podium.
+p876
+sg8
+VWILL
+p877
+sg10
+g11
+sa(dp878
+g6
+VSecond announcement: tomorrow morning, the President will travel to a command center outside the evacuation zone. He'll be accompanied by the California Congressional Delegation.
+p879
+sg8
+VWILL
+p880
+sg10
+g11
+sa(dp881
+g6
+VThe immediate danger is inside the zone.
+p882
+sg8
+VWILL
+p883
+sg10
+g11
+sa(dp884
+g6
+VDoes this mean Senator Vinick's going?
+p885
+sg8
+VWALTER
+p886
+sg10
+g11
+sa(dp887
+g6
+VHe's a member of the California delegation.
+p888
+sg8
+VWILL
+p889
+sg10
+g11
+sa(dp890
+g6
+VNo other delegations are going.
+p891
+sg8
+VWILL
+p892
+sg10
+g11
+sa(dp893
+g6
+VTough crowd in there.
+p894
+sg8
+VBLYDEN
+p895
+sg10
+g11
+sa(dp896
+g6
+VYou told Time we were worried about wind shifts?
+p897
+sg8
+VWILL
+p898
+sg10
+g11
+sa(dp899
+g6
+VI got that from your office.
+p900
+sg8
+VBLYDEN
+p901
+sg10
+g11
+sa(dp902
+g6
+VWhich is why my office has taken you off the talking points distribution list.
+p903
+sg8
+VWILL
+p904
+sg10
+g11
+sa(dp905
+g6
+VI need those to do my job.
+p906
+sg8
+VBLYDEN
+p907
+sg10
+g11
+sa(dp908
+g6
+VNot anymore. You're being transferred. You no longer speak for this government.
+p909
+sg8
+VWILL
+p910
+sg10
+g11
+sa(dp911
+g6
+VFor telling people the truth?
+p912
+sg8
+VBLYDEN
+p913
+sg10
+g11
+sa(dp914
+g6
+VFor telling people something which can only cause further panic. It doesn't matter if it's true. It doesn't matter if I've already said it. We're trying to prevent mass hysteria in a climate in which even the truth can be misinterpreted, so we speak with one voice. You're lucky you still have a job.
+p915
+sg8
+VWILL
+p916
+sg10
+g11
+sa(dp917
+g6
+VNo comment.
+p918
+sg8
+VDONNA
+p919
+sg10
+g11
+sa(dp920
+g6
+VI guess you've heard the President is taking Vinick to California.
+p921
+sg8
+VDONNA
+p922
+sg10
+g11
+sa(dp923
+g6
+VYeah.
+p924
+sg8
+VJOSH
+p925
+sg10
+g11
+sa(dp926
+g6
+VIt's his home state. There's a protocol to these things, right?
+p927
+sg8
+VDONNA
+p928
+sg10
+g11
+sa(dp929
+g6
+VWell, let's hope everyone uses the correct fork.
+p930
+sg8
+VJOSH
+p931
+sg10
+g11
+sa(dp932
+g6
+VIt could hurt Vinick. He's flying into the fog.
+p933
+sg8
+VDONNA
+p934
+sg10
+g11
+sa(dp935
+g6
+VHe gets to be statesmen, healer. And when is the press going to figure out he got the plant open.
+p936
+sg8
+VJOSH
+p937
+sg10
+g11
+sa(dp938
+g6
+VCable news is still running the debate clip.
+p939
+sg8
+VDONNA
+p940
+sg10
+g11
+sa(dp941
+g6
+VMore press requests, plus...
+p942
+sg8
+VBRAM
+p943
+sg10
+g11
+sa(dp944
+g6
+VDenver, Colorado, DNC... these are all for me?
+p945
+sg8
+VJOSH
+p946
+sg10
+g11
+sa(dp947
+g6
+VYeah. They're wondering why we're holed up in Florida instead of mobilizing the whole party to slam Vinick.
+p948
+sg8
+VBRAM
+p949
+sg10
+g11
+sa(dp950
+g6
+VPrevailing winds.
+p951
+sg8
+VJOSH
+p952
+sg10
+g11
+sa(dp953
+g6
+VEven the Advance guys are begging us to get off the dime.
+p954
+sg8
+VBRAM
+p955
+sg10
+g11
+sa(dp956
+g6
+VTell Advance to stick to losing my luggage.
+p957
+sg8
+VJOSH
+p958
+sg10
+g11
+sa(dp959
+g6
+VVinick's coasting toward his bipartisan buddy weekend with the President. The Advance guys are right: if we don't take him on...
+p960
+sg8
+VBRAM
+p961
+sg10
+g11
+sa(dp962
+g6
+VThey just sent two engineers into the containment building. It's like putting them in a microwave set on high.
+p963
+sg8
+VHELEN
+p964
+sg10
+g11
+sa(dp965
+g6
+VWe're getting a few press requests.
+p966
+sg8
+VJOSH
+p967
+sg10
+g11
+sa(dp968
+g6
+VBy a few, you mean...
+p969
+sg8
+VSANTOS
+p970
+sg10
+g11
+sa(dp971
+g6
+VA million gajillion.
+p972
+sg8
+VJOSH
+p973
+sg10
+g11
+sa(dp974
+g6
+VOkay, that's not a real number.
+p975
+sg8
+VSANTOS
+p976
+sg10
+g11
+sa(dp977
+g6
+VI'm not talking radio for yonkers. Every morning show wants you for their lead segment. Every cable...
+p978
+sg8
+VJOSH
+p979
+sg10
+g11
+sa(dp980
+g6
+VAre you changing your mind on this?
+p981
+sg8
+VSANTOS
+p982
+sg10
+g11
+sa(dp983
+g6
+VI don't know. It's just, the second Vinick gets on Air Force One, the second he has Jed Bartlet's arm around him, it's like a mega dose of political penicillin.
+p984
+sg8
+VJOSH
+p985
+sg10
+g11
+sa(dp986
+g6
+VOne day with the President does not erase three decades of pushing plutonium.
+p987
+sg8
+VSANTOS
+p988
+sg10
+g11
+sa(dp989
+g6
+VJosh is right: it gives Vinick a chance to absolve himself.
+p990
+sg8
+VHELEN
+p991
+sg10
+g11
+sa(dp992
+g6
+VIf the press finds out he lobbied for San Andreo before he gets on that plane, there goes his get out of jail free card.
+p993
+sg8
+VJOSH
+p994
+sg10
+g11
+sa(dp995
+g6
+VIf we do anything, if our fingerprints are anywhere on that...
+p996
+sg8
+VSANTOS
+p997
+sg10
+g11
+sa(dp998
+g6
+VMaybe we get a third party to do it.
+p999
+sg8
+VJOSH
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VWhy hasn't anyone linked Vinick to that plant?
+p1002
+sg8
+VHELEN
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VBecause they just sent two engineers into the containment building; the press are clogging the freeways to.
+p1005
+sg8
+VSANTOS
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VIf it comes out after that trip, after they become the Martin & Lewis of disaster management...
+p1008
+sg8
+VJOSH
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VA couple of network presidents called; direct appeals to do their morning shows.
+p1011
+sg8
+VBRAM
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VYou were right four hours ago, you're still right now.
+p1014
+sg8
+VSANTOS
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VNothing on Drudge, nothing on The Note, nothing on the wires; I don't know what Josh is waiting for.
+p1017
+sg8
+VBRUNO
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VThe Senator has to say something on camera before he gets on that plane.
+p1020
+sg8
+VBOB
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VNo he doesn't.
+p1023
+sg8
+VBRUNO
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VSympathy for the region, sympathy for the Red Skins; I don't care what he says. You want that debate clip to air another 6,000 times?
+p1026
+sg8
+VBOB
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VJosh hits us, we call it bare-knuckled exploitation of a tragedy and we let the President do the heavy lifting.
+p1029
+sg8
+VBRUNO
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VThe President?
+p1032
+sg8
+VBOB
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VYeah. We get him to say it right there, in California, that accidents happen.
+p1035
+sg8
+VBRUNO
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VYou think the President will defend us on nuclear power?
+p1038
+sg8
+VBOB
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VA nuclear disaster on his watch? He'll jump at the chance. He'll be defending himself too.
+p1041
+sg8
+VBRUNO
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VDid you talk to the head of the Red Cross?
+p1044
+sg8
+VBARTLET
+p1045
+sg10
+g11
+sa(dp1046
+g6
+V20 minutes ago.
+p1047
+sg8
+VC.J.
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VThey need more potassium iodide in the shelters. FEMA can work it through HHS.
+p1050
+sg8
+VBARTLET
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VWe took care of it.
+p1053
+sg8
+VC.J.
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VWhat happened?
+p1056
+sg8
+VBARTLET
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VThe engineers opened the coolant valve. Once they make sure there's no overflow, we can pull them out.
+p1059
+sg8
+VHARRY
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VIt's already been 17 minutes. I didn't want them in there any longer than 15 minutes.
+p1062
+sg8
+VHARRY
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VIt'll take too long. This is an extremely toxic environment.
+p1065
+sg8
+VHARRY
+p1066
+sg10
+g60
+sa(dp1067
+g6
+VIf more gas spills out of that structure, so is most of Southern California.
+p1068
+sg8
+VC.J.
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VHow much longer will it take?
+p1071
+sg8
+VBARTLET
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VFive, maybe ten minutes.
+p1074
+sg8
+VHARRY
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VAsk them to try and shut down the other valve.
+p1077
+sg8
+VBARTLET
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VExcuse me, Mr. President.
+p1080
+sg8
+VKATE
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VPolls just closed in Kazakhstan. The Russian-installed incumbent...
+p1083
+sg8
+VKATE
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VTarimov.
+p1086
+sg8
+VBARTLET
+p1087
+sg10
+g11
+sa(dp1088
+g6
+V...he's been declared the winner.
+p1089
+sg8
+VKATE
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VPlease tell me they counted the votes first.
+p1092
+sg8
+VBARTLET
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VOur election monitors are reporting wide-spread harassment: beatings, mass arrests of civic activists.
+p1095
+sg8
+VKATE
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VWe barely got China to hold their troops by scheduling this election.
+p1098
+sg8
+VBARTLET
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VWe've already got them: a pro-democracy riot's broken out in the Kazakh capitol.
+p1101
+sg8
+VC.J.
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VThey finally pulled out the engineers. 32 minutes and they couldn't stop the steam leak.
+p1104
+sg8
+VVINICK
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VDid you see my memo about your press availability with the President tomorrow?
+p1107
+sg8
+VBRUNO
+p1108
+sg10
+g11
+sa(dp1109
+g6
+VBob wants me to make a statement from the Capitol in the morning before we get on Air Force One.
+p1110
+sg8
+VVINICK
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VYeah. Senator...
+p1113
+sg8
+VBRUNO
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VYou want me to get the President accidents happen, that's fine. But Bob is right: I can't wait another seven hours to show my face in public.
+p1116
+sg8
+VVINICK
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VYou want to show your face and say what? You've been wrong your whole career? Nuclear is peachy keen while a million are on the run?
+p1119
+sg8
+VBRUNO
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VThis wasn't a failure of nuclear technology. This was a regulatory screw up.
+p1122
+sg8
+VVINICK
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VYou point fingers now and it will look like you are trying to avoid taking any responsibility for this.
+p1125
+sg8
+VBRUNO
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VYou know why Europe's greenhouse emissions are so much lower than ours? Nuclear power: it's totally emissions-free.
+p1128
+sg8
+VVINICK
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VSure, but...
+p1131
+sg8
+VBRUNO
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VYou know how many from oil refinery explosions? From coal soot in the air? Tens of thousands. And not one from a nuclear power anything in thirty years.
+p1134
+sg8
+VVINICK
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VOkay, you're right. But that is still not the...
+p1137
+sg8
+VBRUNO
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VEvery time they show that debate clip it looks like I ran into that plant myself and spilt uranium on the floor.
+p1140
+sg8
+VVINICK
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VSantos is going to hit us. You have to wait. That is how we change the story.
+p1143
+sg8
+VBRUNO
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VI'm going to give the press some footage besides that debate clip.
+p1146
+sg8
+VVINICK
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VI need you to keep your political hat on.
+p1149
+sg8
+VBRUNO
+p1150
+sg10
+g11
+sa(dp1151
+g6
+V31 states with nuclear plants; we don't know how many voters will be living in California on Election Day. My lobbying for San Andreo is out there like a ticking time bomb. We can't control the politics of this, not even close. I'll talk to the President about his speech, but I'm the senator from California and I'm going to make a statement before I get on that plane.
+p1152
+sg8
+VVINICK
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VBoth the engineers who were in the containment building, they've been hospitalized for radiation sickness. One has slipped into a coma. Sir, they knew the danger better than us. You weren't wrong to...
+p1155
+sg8
+VC.J.
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VNo one ever told me their names.
+p1158
+sg8
+VBARTLET
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VJames Cook is the one in the... James Cook and Mark LaRoche. We'll get call sheets for the families. The pressure in the auxiliary building is up to 28psi. You may need to authorize a second team to try to shut the valve manually. If you like, you can deputize the NRC Chair to make the call.
+p1161
+sg8
+VC.J.
+p1162
+sg10
+g11
+sa(dp1163
+g6
+V15 minutes and out.
+p1164
+sg8
+VBARTLET
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VIf they don't solve the problem...
+p1167
+sg8
+VC.J.
+p1168
+sg10
+g11
+sa(dp1169
+g6
+V15 minutes and out.
+p1170
+sg8
+VBARTLET
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VOf course, but if they can't solve the problem, we may be looking at another venting of radiation and the Santa Anas don't stay consistent for long. If the sea winds push them north...
+p1173
+sg8
+VC.J.
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VCall the governor. Make a contingency plan to widen the evacuation. And I want updated weather models every half hour.
+p1176
+sg8
+VBARTLET
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VYou weren't wrong to keep them in there, Mr. President.
+p1179
+sg8
+VC.J.
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VStill nothing from Santos?
+p1182
+sg8
+VBRUNO
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VNo press advisories, they haven't reserved any rooms for press conferences.
+p1185
+sg8
+VBOB
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VJosh must be strapped to a gurney with a gag in his mouth. This is a mistake.
+p1188
+sg8
+VBRUNO
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VGood morning. We're all struck by the difficult events in San Andreo. I've been in constant touch with the governor's office and I hope, as we all do, that the evacuation is only a precaution.
+p1191
+sg8
+VVINICK
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VFinish the statement.
+p1194
+sg8
+VBRUNO
+p1195
+sg10
+g11
+sa(dp1196
+g6
+VAnd I hope that the situation will be resolved quickly and safely.
+p1197
+sg8
+VVINICK
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VYour family is in the region. Don't you question what you said in the debate?
+p1200
+sg8
+VMARK
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VMy family is not the issue.
+p1203
+sg8
+VVINICK
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VNuclear power didn't break those valves. To blame nuclear technology itself for whatever mess happened... Federal Regulators are the ones who fell down on the job. You can start a fire with a match, too, you know.
+p1206
+sg8
+VVINICK
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VHe just did.
+p1209
+sg8
+VJOSH
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VAnd he strapped himself to that reactor.
+p1212
+sg8
+VHELEN
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VThe President is wheels-up in an hour.
+p1215
+sg8
+VJOSH
+p1216
+sg10
+g11
+sa(dp1217
+g6
+VTray tables and all.
+p1218
+sg8
+VDONNA
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VI want you to lead a couple of reporters to those documents about Vinick and San Andreo.
+p1221
+sg8
+VJOSH
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VI thought you didn't want our fingerprints on it.
+p1224
+sg8
+VDONNA
+p1225
+sg10
+g11
+sa(dp1226
+g6
+VJust drop hints. Ask leading questions. Do it off the record.
+p1227
+sg8
+VJOSH
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VThat's going to get out. You're the one who didn't want...
+p1230
+sg8
+VDONNA
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VOnce the President bear hugs Vinick, the game is over.
+p1233
+sg8
+VJOSH
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VDoes the Congressman know about this?
+p1236
+sg8
+VDONNA
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VJust go.
+p1239
+sg8
+VJOSH
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VLeading questions?
+p1242
+sg8
+VDONNA
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VYeah, or we'll blow the biggest chance we have at winning this thing we're ever going to get.
+p1245
+sg8
+VJOSH
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VIsn't Vinick right? How can this not be a failure of Bartlet's regulators?
+p1248
+sg8
+VWALTER
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VWe don't even know the cause of the accident. I'm not going to speculate.
+p1251
+sg8
+VWILL
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VFive minutes until the motorcade leaves. I'll see you on the plane.
+p1254
+sg8
+VWILL
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VYou ready?
+p1257
+sg8
+VC.J.
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VTo fly into a massive cloud of radiation while the rest of the country's making hats out of tin foil?
+p1260
+sg8
+VWILL
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VYeah, that was more of a rhetorical question. You think we're flying into a massive cloud of radiation?
+p1263
+sg8
+VC.J.
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VI was dramatizing a point. Maybe.
+p1266
+sg8
+VWILL
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VI thought you weren't talking to the press today.
+p1269
+sg8
+VREPORTER
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VI was wondering if I could interest you in a little mumbling and whispering.
+p1272
+sg8
+VDONNA
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VBiggest political story in six months - I don't care if you start humming off-key.
+p1275
+sg8
+VREPORTER
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VYou think this is the biggest...
+p1278
+sg8
+VDONNA
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VVinick's lobbying for that San Andreo plant? Make your quote good, it'll be front page, column six.
+p1281
+sg8
+VREPORTER
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VYeah, sorry. Not talking to the press today.
+p1284
+sg8
+VDONNA
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VExcuse me, Mr. President. Senator Vinick has asked for a moment.
+p1287
+sg8
+VC.J.
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VSure.
+p1290
+sg8
+VBARTLET
+p1291
+sg10
+g11
+sa(dp1292
+g6
+VMr. President.
+p1293
+sg8
+VVINICK
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VArnie.
+p1296
+sg8
+VBARTLET
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VThanks for bringing me along.
+p1299
+sg8
+VVINICK
+p1300
+sg10
+g11
+sa(dp1301
+g6
+VStandard protocol.
+p1302
+sg8
+VBARTLET
+p1303
+sg10
+g11
+sa(dp1304
+g6
+VWell, I appreciate it. I thought we might want to coordinate our statements for the press availability.
+p1305
+sg8
+VVINICK
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VYou're expecting me to bash myself, too?
+p1308
+sg8
+VBARTLET
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VThat wasn't aimed at you.
+p1311
+sg8
+VVINICK
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VFederal regulators? I think a few of them work for me.
+p1314
+sg8
+VBARTLET
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VDue respect, two broken valves and a radiation leak say some of them should look for other work.
+p1317
+sg8
+VVINICK
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VWhere's your bill to improve federal oversight? Senate leader on the issue, let's have your bill. I'll sign it now.
+p1320
+sg8
+VBARTLET
+p1321
+sg10
+g11
+sa(dp1322
+g6
+VYou've had eight years to do something about it.
+p1323
+sg8
+VVINICK
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VYou've had 25.
+p1326
+sg8
+VBARTLET
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VI'm not the one who manages it. Nuclear power itself is safe.
+p1329
+sg8
+VVINICK
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VTake a nuclear reaction 20 times more powerful than Hiroshima, run it through a power plant every day near families; what management would negate the risk?
+p1332
+sg8
+VBARTLET
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VRisk is everywhere. People get into car accidents.
+p1335
+sg8
+VVINICK
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VAnd when they do, they don't tell you to stop eating produce three states away.
+p1338
+sg8
+VBARTLET
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VWhat's your answer? Solar? One-fifth of one percent of all our energy at five times the cost. Wind? Another spike in OPEC prices. Nuclear is the only alternative.
+p1341
+sg8
+VVINICK
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VIt is not and alternative. I know the Regulation's a mess. No regulation could make it safe. We could barely evacuate a town...
+p1344
+sg8
+VBARTLET
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VForgive me, Mr. President. The second team has closed the relief valve. The crisis is over for now. But the engineer who had fallen into the coma, he died 20 minutes ago from acute radiation poisoning. We'll get you another call sheet.
+p1347
+sg8
+VC.J.
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VTwo copies of that call sheet.
+p1350
+sg8
+VBARTLET
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VThe Vinick campaign can't be happy with the Post's online scoop. Documents showing that Vinick was a strong and early supporter of the San Andreo plant...
+p1353
+sg8
+VANCHOR
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VYou might get some questions as you deplane. Apparently, Senator Vinick was involved in the original Federal approval of the San Andreo plant.
+p1356
+sg8
+VC.J.
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VAre you sure it's safe to take everyone out there?
+p1359
+sg8
+VBARTLET
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VAccording to the EPA, the remaining radiation is within the acceptable dosage.
+p1362
+sg8
+VC.J.
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VYou're too young to remember Duck and Cover.
+p1365
+sg8
+VBARTLET
+p1366
+sg10
+g11
+sa(dp1367
+g6
+VSir?
+p1368
+sg8
+VC.J.
+p1369
+sg10
+g11
+sa(dp1370
+g6
+VWe'd hide under our little wooden desks at school. At some point they stopped the drills. The threat was still there - they just stopped having the drills. I guess the realized a piece of plywood wasn't going to protect us against an atomic blast.
+p1371
+sg8
+VBARTLET
+p1372
+sg10
+g11
+sa(dp1373
+g6
+VKazakhstan?
+p1374
+sg8
+VBARTLET
+p1375
+sg10
+g11
+sa(dp1376
+g6
+VNewly elected governments killed 114 protestors. China is crossing the border into ethnic Chinese enclaves. Russian troops are ready to enter as well.
+p1377
+sg8
+VKATE
+p1378
+sg10
+g11
+sa(dp1379
+g6
+VWe can't have China and Russia blowing each other to bits over election fraud.
+p1380
+sg8
+VBARTLET
+p1381
+sg10
+g11
+sa(dp1382
+g6
+VNo, oil, really. Fraud's just the kicker.
+p1383
+sg8
+VC.J.
+p1384
+sg10
+g11
+sa(dp1385
+g6
+VThe governor's waiting in the motorcade.
+p1386
+sg8
+VWILL
+p1387
+sg10
+g11
+sa(dp1388
+g6
+VWe've canvassed the other nations to see if there's an appetite for and international police force. They've made clear it'd have to be predominately U.S. troops operating from our bases.
+p1389
+sg8
+VKATE
+p1390
+sg10
+g11
+sa(dp1391
+g6
+VHow many would I have to send?
+p1392
+sg8
+VBARTLET
+p1393
+sg10
+g11
+sa(dp1394
+g6
+VSeems the estimate is 90,000, for starters.
+p1395
+sg8
+VKATE
+p1396
+sg10
+g11
+sa(dp1397
+g6
+VBased on federal safety standards, evacuated residents will be allowed to return. But we don't know the full effects of radiation releases. We may not know for months, maybe even years. And we have to be candid about that. And so, while we continue monitoring and testing, we will also help with the relocation of those residents who may not wish to return to San Andreo. Thank you.
+p1398
+sg8
+VBARTLET
+p1399
+sg10
+g11
+sa(dp1400
+g6
+VWe're all relieved the worst is over. My thoughts and prayers are with the family of James Cook, the federal engineer who gave his life to save others.
+p1401
+sg8
+VSANTOS
+p1402
+sg10
+g11
+sa(dp1403
+g6
+VShould this make Senator Vinick question his energy plans for the country?
+p1404
+sg8
+VREPORTER
+p1405
+sg10
+g11
+sa(dp1406
+g6
+VI can't speak for anyone else. It makes me question a lot about our energy plans. Thank you.
+p1407
+sg8
+VSANTOS
+p1408
+sg10
+g11
+sa(dp1409
+g6
+VMore than a dozen states that had been squarely in the Vinick column, including Florida, Ohio, South Carolina, his own state California - all the states with nuclear power plants are now within the margin of error. It's a political meltdown, for sure. The Santos campaign is declining comment, but they've been flooded with volunteers and donations since the news that Senator Vinick lobbied for the San Andreo nuclear generating station.
+p1410
+sg8
+VANCHOR
+p1411
+sg10
+g11
+sa(dp1412
+g6
+VAdvance wants to know if we're...
+p1413
+sg8
+VBRAM
+p1414
+sg10
+g11
+sa(dp1415
+g6
+VWe're taking tomorrow off too. It's going to be wall-to-wall press on this.
+p1416
+sg8
+VJOSH
+p1417
+sg10
+g11
+sa(dp1418
+g6
+VAll that campaigning didn't do a thing.
+p1419
+sg8
+VHELEN
+p1420
+sg10
+g11
+sa(dp1421
+g6
+VAt this rate, maybe we should take the whole month off.
+p1422
+sg8
+VDONNA
+p1423
+sg10
+g11
+sas.

@@ -59,7 +59,6 @@ def bag_of_words(episode, word_sentiments):
             elif word_sentiments[word] == "neutral":
                 score += 0.5
         score = score / len(text)
-        print text, score
         episode['script'][i]['bow_score'] = convert_to_sentiment(score)
 
 

@@ -1,0 +1,4085 @@
+(dp0
+S'season'
+p1
+I5
+sS'episode'
+p2
+I12
+sS'script'
+p3
+(lp4
+(dp5
+S'text'
+p6
+VHey.  How much cash on hand did Gaines have in the last FEC filing period?
+p7
+sS'character'
+p8
+VTOBY
+p9
+sS'maxent_score'
+p10
+S'neutral'
+p11
+sa(dp12
+g6
+VThe Senator?
+p13
+sg8
+VJOSH
+p14
+sg10
+g11
+sa(dp15
+g6
+VGaines.  Cash on hand.
+p16
+sg8
+VTOBY
+p17
+sg10
+g11
+sa(dp18
+g6
+VThis is Charlie.
+p19
+sg8
+VCHARLIE
+p20
+sg10
+g11
+sa(dp21
+g6
+VHey, what time is the President's wake up call tomorrow?
+p22
+sg8
+VTOBY
+p23
+sg10
+g11
+sa(dp24
+g6
+VYou mean today?
+p25
+sg8
+VCHARLIE
+p26
+sg10
+g11
+sa(dp27
+g6
+VTomorrow, today ... the next one.
+p28
+sg8
+VTOBY
+p29
+sg10
+g11
+sa(dp30
+g6
+V5:45.
+p31
+sg8
+VCHARLIE
+p32
+sg10
+g11
+sa(dp33
+g6
+VI'll make the call.
+p34
+sg8
+VTOBY
+p35
+sg10
+g11
+sa(dp36
+g6
+VExcuse me?
+p37
+sg8
+VCHARLIE
+p38
+sg10
+g11
+sa(dp39
+g6
+VI'll make his wake up call...ah...sleep in.
+p40
+sg8
+VTOBY
+p41
+sg10
+g11
+sa(dp42
+g6
+VYeah...
+p43
+sg8
+VBARTLET
+p44
+sg10
+g11
+sa(dp45
+g6
+VCharlie, we're going to surgically implant a snooze button.  Won't hurt much.
+p46
+sg8
+VBARTLET
+p47
+sg10
+g11
+sa(dp48
+g6
+VAh, it's Toby, sir.
+p49
+sg8
+VTOBY
+p50
+sg10
+g11
+sa(dp51
+g6
+VIf they're not giving you enough to do down there...
+p52
+sg8
+VBARTLET
+p53
+sg10
+g11
+sa(dp54
+g6
+VI know this sounds crazy but, I think we have two weeks.  A two week window... I need to see you alone right now, because if I'm right about this...
+p55
+sg8
+VTOBY
+p56
+sg10
+g11
+sa(dp57
+g6
+VToby, what are you talking about?
+p58
+sg8
+VBARTLET
+p59
+sg10
+g11
+sa(dp60
+g6
+VI think I know how we can save Social Security.
+p61
+sg8
+VTOBY
+p62
+sg10
+g11
+sa(dp63
+g6
+VI think Gaines is leaving the Senate.  I think he's not going to run again.
+p64
+sg8
+VTOBY
+p65
+sg10
+g11
+sa(dp66
+g6
+V'Cause he only has three hundred and ten thousand dollars cash on hand.
+p67
+sg8
+VBARTLET
+p68
+sg10
+g11
+sa(dp69
+g6
+VBecause he's not raising money.  Because he was the only Republican to stand up and applaud a minimum wage hike at the State of the Union. Gaines breaking ranks over the AFL-CIO's top issue.
+p70
+sg8
+VTOBY
+p71
+sg10
+g11
+sa(dp72
+g6
+VYou think he'll announce his retirement?
+p73
+sg8
+VBARTLET
+p74
+sg10
+g11
+sa(dp75
+g6
+VIllinois GOP dinner's in two weeks.  If I'm right, he'll announce his intentions there, always has.
+p76
+sg8
+VTOBY
+p77
+sg10
+g11
+sa(dp78
+g6
+VAnd, he's been a leader on this for decades.  Chairs the Social Securities sub-committee.  Get him and a leading Democrat to agree on a fix.  Bring the House guys along before anyone knows he's a lame duck. This just might be the break we need.
+p79
+sg8
+VTOBY
+p80
+sg10
+g11
+sa(dp81
+g6
+VTo save Social Security?
+p82
+sg8
+VBARTLET
+p83
+sg10
+g11
+sa(dp84
+g6
+VTo save Social Security, yes sir.
+p85
+sg8
+VTOBY
+p86
+sg10
+g11
+sa(dp87
+g6
+VThis is right after we colonize Ontario.
+p88
+sg8
+VBARTLET
+p89
+sg10
+g11
+sa(dp90
+g6
+VLet's talk about reality.  More college kids think they'll see UFOs than Social Security checks.
+p91
+sg8
+VTOBY
+p92
+sg10
+g11
+sa(dp93
+g6
+VBut they don't tell you how many believe in UFOs.  That's the number we ought to be worried about.
+p94
+sg8
+VBARTLET
+p95
+sg10
+g11
+sa(dp96
+g6
+VThe number of retirees is going to double.  If we do nothing, the trust fund will go broke.
+p97
+sg8
+VTOBY
+p98
+sg10
+g11
+sa(dp99
+g6
+VOne Senator's retirement means we can save it?
+p100
+sg8
+VBARTLET
+p101
+sg10
+g11
+sa(dp102
+g6
+VOne Senator who's been the leader on it.  One Senator with the stature to bring his party along.  One Senator who's never had a President willing to meet him halfway.
+p103
+sg8
+VTOBY
+p104
+sg10
+g11
+sa(dp105
+g6
+VRepublicans that want to divert a chunk of Social Security into private investments, think Democrats will go along with that?
+p106
+sg8
+VBARTLET
+p107
+sg10
+g11
+sa(dp108
+g6
+VI'm not saying there aren't sticking points.
+p109
+sg8
+VTOBY
+p110
+sg10
+g11
+sa(dp111
+g6
+VMore like Krazy-Glue.  Think Republicans will raise payroll taxes?
+p112
+sg8
+VBARTLET
+p113
+sg10
+g11
+sa(dp114
+g6
+VI think we have to have the conversation.  I can't give you the exact plan yet...
+p115
+sg8
+VTOBY
+p116
+sg10
+g11
+sa(dp117
+g6
+VYou can't save Social Security without cutting benefits or raising taxes, and this is the largest meeting in Washington where anyone's ever admitted it.
+p118
+sg8
+VBARTLET
+p119
+sg10
+g11
+sa(dp120
+g6
+VWhen Social Security goes bankrupt, are we going to call that a benefit cut?  Let's talk to Gaines.
+p121
+sg8
+VTOBY
+p122
+sg10
+g11
+sa(dp123
+g6
+VIf it becomes public we've even discussed this, both sides will go crazy.  It'll jeopardize our whole agenda on the Hill.
+p124
+sg8
+VBARTLET
+p125
+sg10
+g11
+sa(dp126
+g6
+VAnd if it blows up, I'm supposed to pretend we've never met?
+p127
+sg8
+VBARTLET
+p128
+sg10
+g11
+sa(dp129
+g6
+VWe'll always have Paris.  [beat]  Mr. President, life expectancy's rising.  The biggest generation, ever, is retiring and we don't have the money!  Every year we wait means we have to cut deeper, take away more, 'til Social Security's not enough to live on... 'til retirement's a one- way ticket to a flop house.  We have an opening.  There's seventeen ways to fix it.  Twenty years of blue ribbon commissions have told us how. This isn't a government program, it is a moral covenant.  We don't want to be the administration that saves it from oblivion?  We don't want that legacy?
+p130
+sg8
+VTOBY
+p131
+sg10
+g11
+sa(dp132
+g6
+VThat's cause the third rail is where all the power is.
+p133
+sg8
+VTOBY
+p134
+sg10
+g11
+sa(dp135
+g6
+VTalk to Gaines, but just talk.  And no one else in this building knows.
+p136
+sg8
+VBARTLET
+p137
+sg10
+g11
+sa(dp138
+g6
+VThank you, Mr. President.
+p139
+sg8
+VTOBY
+p140
+sg10
+S'positive'
+p141
+sa(dp142
+g6
+VWe have nothing to announce today.  No policy, no summit meetings, not even a warm front meeting up with a cold front.  We've been over this. We need a hard news announcement each and every day, or the press runs amuck.
+p143
+sg8
+VCJ
+p144
+sg10
+g11
+sa(dp145
+g6
+VThis is Toby's job.  What am I, the White House complaint center?
+p146
+sg8
+VJOSH
+p147
+sg10
+g11
+sa(dp148
+g6
+VYou run the policy shop.  Besides, Toby's avoiding me.
+p149
+sg8
+VCJ
+p150
+sg10
+g11
+sa(dp151
+g6
+VMaybe no news is good news.
+p152
+sg8
+VJOSH
+p153
+sg10
+g11
+sa(dp154
+g6
+VNo news is very, very bad news.  If we're not running offense, we're running defense.  And if we're playing defense, then ... there's some clever sports analogy that explains what happens then.
+p155
+sg8
+VCJ
+p156
+sg10
+g11
+sa(dp157
+g6
+VWe're screwed.
+p158
+sg8
+VJOSH
+p159
+sg10
+g11
+sa(dp160
+g6
+VThat'll do.
+p161
+sg8
+VCJ
+p162
+sg10
+g11
+sa(dp163
+g6
+VI thought we were proposing that streamlining of federal adoption law?
+p164
+sg8
+VJOSH
+p165
+sg10
+g11
+sa(dp166
+g6
+VDPC says it's not ready, OMB says it's not revenue neutral and I'm declaring a war on all acronyms.
+p167
+sg8
+VCJ
+p168
+sg10
+g11
+sa(dp169
+g6
+VThere's gotta be something happening somewhere.  It's a big government.
+p170
+sg8
+VJOSH
+p171
+sg10
+g11
+sa(dp172
+g6
+VThat time I accused the Speaker of welshing on committee assignments and had to apologize to the Welsh people... slow news day.
+p173
+sg8
+VCJ
+p174
+sg10
+g11
+sa(dp175
+g6
+VThere's your offensive play.
+p176
+sg8
+VJOSH
+p177
+sg10
+g11
+sa(dp178
+g6
+V...on...cabbage imports.
+p179
+sg8
+VCAROL
+p180
+sg10
+g11
+sa(dp181
+g6
+VOh.  Back to the huddle.
+p182
+sg8
+VJOSH
+p183
+sg10
+g11
+sa(dp184
+g6
+VBring him in.  Make it around lunchtime.
+p185
+sg8
+VCJ
+p186
+sg10
+g11
+sa(dp187
+g6
+VWe'll find a better way to feed the beast.
+p188
+sg8
+VJOSH
+p189
+sg10
+g11
+sa(dp190
+g6
+VToby!
+p191
+sg8
+VGAINES
+p192
+sg10
+g11
+sa(dp193
+g6
+VSenator.  [They shake hands.] Could I have a minute of your time alone?
+p194
+sg8
+VTOBY
+p195
+sg10
+g11
+sa(dp196
+g6
+VOkay, you've got it.
+p197
+sg8
+VGAINES
+p198
+sg10
+g141
+sa(dp199
+g6
+VI think you're not running for re-election.  I think that because you broke ranks, stood up and applauded a minimum wage hike at the State of the Union and because you barely raised a dime last quarter.
+p200
+sg8
+VTOBY
+p201
+sg10
+g11
+sa(dp202
+g6
+VAnd?
+p203
+sg8
+VGAINES
+p204
+sg10
+g11
+sa(dp205
+g6
+VAnd I'm offering you what I think could be the crowning achievement of your career.
+p206
+sg8
+VTOBY
+p207
+sg10
+g11
+sa(dp208
+g6
+VYou want me to applaud the President more often.
+p209
+sg8
+VGAINES
+p210
+sg10
+g11
+sa(dp211
+g6
+VI want us to try to save Social Security.  I'll bring the President along with a leading Senate Democrat to the table.
+p212
+sg8
+VTOBY
+p213
+sg10
+g11
+sa(dp214
+g6
+VAnd we'll simonize the Hoover Dam?
+p215
+sg8
+VGAINES
+p216
+sg10
+g11
+sa(dp217
+g6
+VWell, let's do this first.
+p218
+sg8
+VTOBY
+p219
+sg10
+g11
+sa(dp220
+g6
+VYou've been good on this issue.  Your political hacks in the White House haven't.
+p221
+sg8
+VGAINES
+p222
+sg10
+g11
+sa(dp223
+g6
+VThis will be a day without politics.
+p224
+sg8
+VTOBY
+p225
+sg10
+g11
+sa(dp226
+g6
+VMm-hmm, and here's how it'll go...I'll say let's have personal savings accounts so, God forbid, people can invest their own money, and Josh Lyman's hatchet factory will say I'm trying to turn social security into stock market bingo.
+p227
+sg8
+VGAINES
+p228
+sg10
+g11
+sa(dp229
+g6
+VEverything's on the table.
+p230
+sg8
+VTOBY
+p231
+sg10
+g11
+sa(dp232
+g6
+VI'll say let's trim the cost of living adjustment and they'll haul out elderly widows who are getting $740 a month and say I want them eating cat food on the street.
+p233
+sg8
+VGAINES
+p234
+sg10
+g11
+sa(dp235
+g6
+VEverything is on the table. I'm asking you to take one step, one small step toward greatness.  You chair the sub-committee.  You're the one who can deliver House and Senate Republicans.
+p236
+sg8
+VTOBY
+p237
+sg10
+g11
+sa(dp238
+g6
+VFunny, I knew the perfect Republican to lead this in the House, deeply committed to reform.
+p239
+sg8
+VGAINES
+p240
+sg10
+g11
+sa(dp241
+g6
+VSenator...
+p242
+sg8
+VTOBY
+p243
+sg10
+g11
+sa(dp244
+g6
+VJim Carney was his name, and I think he's in a different line of work now.
+p245
+sg8
+VGAINES
+p246
+sg10
+g11
+sa(dp247
+g6
+VAre you willing to let the trust fund go completely broke? 'Cause let's face it, that'll lead to the mother of all tax increases, or the total collapse of the system.  Is that the legacy you want to leave?  One step, Senator, that's all I'm asking.
+p248
+sg8
+VTOBY
+p249
+sg10
+g11
+sa(dp250
+g6
+VI'll need a Democrat.  And it better be a heavyweight.
+p251
+sg8
+VGAINES
+p252
+sg10
+S'negative'
+p253
+sa(dp254
+g6
+VHey.  The Vice President's speech to the Detroit Economic Club, it wasn't that bad.
+p255
+sg8
+VJOSH
+p256
+sg10
+g11
+sa(dp257
+g6
+VThanks.
+p258
+sg8
+VWILL
+p259
+sg10
+g11
+sa(dp260
+g6
+VWhat'd you want to talk about?
+p261
+sg8
+VJOSH
+p262
+sg10
+g11
+sa(dp263
+g6
+VIt's his presentation problem.
+p264
+sg8
+VWILL
+p265
+sg10
+g11
+sa(dp266
+g6
+VI know...People agree with everything Russell says...
+p267
+sg8
+VJOSH
+p268
+sg10
+g11
+sa(dp269
+g6
+V...until he says it.
+p270
+sg8
+VWILL
+p271
+sg10
+g11
+sa(dp272
+g6
+VIt's the greatest sin in politics to be bad on television.
+p273
+sg8
+VJOSH
+p274
+sg10
+g11
+sa(dp275
+g6
+VDid you and Toby ever have presentation problems with the President?
+p276
+sg8
+VWILL
+p277
+sg10
+g11
+sa(dp278
+g6
+VThe first campaign.  Every speech was an eighteen point plan for something or other.
+p279
+sg8
+VJOSH
+p280
+sg10
+g11
+sa(dp281
+g6
+VHow'd you handle that?
+p282
+sg8
+VWILL
+p283
+sg10
+g141
+sa(dp284
+g6
+VRussell's instinct is to make fun of his blandness.  Salt his speeches with self-deprecating jokes.
+p285
+sg8
+VWILL
+p286
+sg10
+g11
+sa(dp287
+g6
+VSuch as?
+p288
+sg8
+VJOSH
+p289
+sg10
+g253
+sa(dp290
+g6
+VBob Russell is so dull his secret service code name is Bob Russell.
+p291
+sg8
+VWILL
+p292
+sg10
+g11
+sa(dp293
+g6
+VThat's not bad.
+p294
+sg8
+VJOSH
+p295
+sg10
+g11
+sa(dp296
+g6
+VBob Russell is an inspiration to the millions of Americans who suffer from Dutch Elm disease.
+p297
+sg8
+VWILL
+p298
+sg10
+g11
+sa(dp299
+g6
+VAh... you're going to have a Sierra Club problem.
+p300
+sg8
+VJOSH
+p301
+sg10
+g11
+sa(dp302
+g6
+VThat's where we used it.
+p303
+sg8
+VWILL
+p304
+sg10
+g11
+sa(dp305
+g6
+VProblem is, telling people you're dull just removes all doubt. Russell needs to confound expectations.  Do something to really shock the party faithful. And I may have something...about Gaines.
+p306
+sg8
+VJOSH
+p307
+sg10
+g11
+sa(dp308
+g6
+VSenator Gaines?  Did Toby meet with him this morning?
+p309
+sg8
+VWILL
+p310
+sg10
+g11
+sa(dp311
+g6
+VWhy?
+p312
+sg8
+VJOSH
+p313
+sg10
+g11
+sa(dp314
+g6
+VPolk, from the Wall Street Journal, just asked me.  I said I had no idea.  For once in my life I was telling the truth.
+p315
+sg8
+VWILL
+p316
+sg10
+g11
+sa(dp317
+g6
+VYeah...that meeting was...ah, let me get back to you about Russell.
+p318
+sg8
+VJOSH
+p319
+sg10
+g11
+sa(dp320
+g6
+VThe code name thing, that was funny.
+p321
+sg8
+VJOSH
+p322
+sg10
+g11
+sa(dp323
+g6
+VHow are you doing?
+p324
+sg8
+VTOBY
+p325
+sg10
+g141
+sa(dp326
+g6
+VNobody here talks to me.  I don't think they like me.
+p327
+sg8
+VRENA
+p328
+sg10
+g253
+sa(dp329
+g6
+VNot really, no.  [Beat]  Come here.
+p330
+sg8
+VTOBY
+p331
+sg10
+g253
+sa(dp332
+g6
+VCan you handle something confidential?  Photocopying, pulling documents, answering my private line...
+p333
+sg8
+VTOBY
+p334
+sg10
+g11
+sa(dp335
+g6
+VThank you.
+p336
+sg8
+VRENA
+p337
+sg10
+g141
+sa(dp338
+g6
+VIt's grunt work.
+p339
+sg8
+VTOBY
+p340
+sg10
+g11
+sa(dp341
+g6
+VI won't let you down.
+p342
+sg8
+VRENA
+p343
+sg10
+g141
+sa(dp344
+g6
+VTrained animals could do it.
+p345
+sg8
+VTOBY
+p346
+sg10
+g11
+sa(dp347
+g6
+VMr. Zeigler, I'm honored.
+p348
+sg8
+VRENA
+p349
+sg10
+g11
+sa(dp350
+g6
+VCut the act.  Okay?  I'm offering you the chance to do something real. I need you to comb through the Social Security reports on this table. Pull and copy anything with the names Gaines or Brainerd.  Tell anyone what you're doing, or even what the topic is, become any more likable before this project is over...
+p351
+sg8
+VTOBY
+p352
+sg10
+g11
+sa(dp353
+g6
+VIs this a bad time?
+p354
+sg8
+VJOSH
+p355
+sg10
+g11
+sa(dp356
+g6
+VNo.
+p357
+sg8
+VTOBY
+p358
+sg10
+g11
+sa(dp359
+g6
+VWhat do you need?
+p360
+sg8
+VTOBY
+p361
+sg10
+g11
+sa(dp362
+g6
+VPolk at the Journal says you met with Gaines?
+p363
+sg8
+VJOSH
+p364
+sg10
+g11
+sa(dp365
+g6
+VThis wasn't about the tax bill?
+p366
+sg8
+VJOSH
+p367
+sg10
+g11
+sa(dp368
+g6
+VI, uh, bumped into him on the Hill.
+p369
+sg8
+VTOBY
+p370
+sg10
+g11
+sa(dp371
+g6
+VIf you were even whispering about a deal on taxes, you'd tell me right?
+p372
+sg8
+VJOSH
+p373
+sg10
+g11
+sa(dp374
+g6
+VWhat do you think?
+p375
+sg8
+VTOBY
+p376
+sg10
+g11
+sa(dp377
+g6
+VOur guys don't want a deal.  They're counting on that issue for the midterms.
+p378
+sg8
+VJOSH
+p379
+sg10
+g11
+sa(dp380
+g6
+VWhat issues aren't they counting on?
+p381
+sg8
+VTOBY
+p382
+sg10
+g11
+sa(dp383
+g6
+VSo the 310 K you called me about.
+p384
+sg8
+VJOSH
+p385
+sg10
+g11
+sa(dp386
+g6
+VIt's a coincidence.
+p387
+sg8
+VTOBY
+p388
+sg10
+g11
+sa(dp389
+g6
+VOkay.
+p390
+sg8
+VJOSH
+p391
+sg10
+g11
+sa(dp392
+g6
+VDonna!  Tell Will I'm coming over to see him.
+p393
+sg8
+VJOSH
+p394
+sg10
+g11
+sa(dp395
+g6
+VWhat about?
+p396
+sg8
+VDONNA
+p397
+sg10
+g11
+sa(dp398
+g6
+VI've got a little surprise for Senator Gaines.  It may not be such a slow news day after all.
+p399
+sg8
+VJOSH
+p400
+sg10
+g11
+sa(dp401
+g6
+VMr. Polk.  To what do I owe the pressure?
+p402
+sg8
+VCJ
+p403
+sg10
+g11
+sa(dp404
+g6
+VI need a comment.
+p405
+sg8
+VPOLK
+p406
+sg10
+g11
+sa(dp407
+g6
+VCan it wait 'til the briefing?
+p408
+sg8
+VCJ
+p409
+sg10
+g11
+sa(dp410
+g6
+VNot really.
+p411
+sg8
+VPOLK
+p412
+sg10
+g11
+sa(dp413
+g6
+VThe Journal doesn't even have a bulldog edition.
+p414
+sg8
+VCJ
+p415
+sg10
+g11
+sa(dp416
+g6
+VYou might need some time on this one.  Toby's been meeting on the Hill, I want to know if it's on Social Security.
+p417
+sg8
+VPOLK
+p418
+sg10
+g11
+sa(dp419
+g6
+VI'm sure it's not.
+p420
+sg8
+VCJ
+p421
+sg10
+g11
+sa(dp422
+g6
+VA member of Senator Gaines' staff says it might be.
+p423
+sg8
+VPOLK
+p424
+sg10
+g11
+sa(dp425
+g6
+VDo you know how many rounds we've gone on this issue?  They're just picking a fight.
+p426
+sg8
+VCJ
+p427
+sg10
+g11
+sa(dp428
+g6
+VIn person, obviously, 'cause Gaines met Toby an hour ago.
+p429
+sg8
+VPOLK
+p430
+sg10
+g11
+sa(dp431
+g6
+VThis is what I get on a slow news day.  No bulldog edition, but...
+p432
+sg8
+VCJ
+p433
+sg10
+g11
+sa(dp434
+g6
+V...but plenty of bulldogs.  Check it out, CJ.
+p435
+sg8
+VPOLK
+p436
+sg10
+g11
+sa(dp437
+g6
+VA reporter from The Wall Street Journal called...
+p438
+sg8
+VRENA
+p439
+sg10
+g11
+sa(dp440
+g6
+VNo press calls today.
+p441
+sg8
+VTOBY
+p442
+sg10
+g11
+sa(dp443
+g6
+VOkay well, he said it was urgent.
+p444
+sg8
+VRENA
+p445
+sg10
+g11
+sa(dp446
+g6
+VI'm sure.
+p447
+sg8
+VTOBY
+p448
+sg10
+g253
+sa(dp449
+g6
+VCan I ask you a question?
+p450
+sg8
+VRENA
+p451
+sg10
+g11
+sa(dp452
+g6
+VWhat?
+p453
+sg8
+VTOBY
+p454
+sg10
+g11
+sa(dp455
+g6
+VWell, there's something I don't understand about Social Security.
+p456
+sg8
+VRENA
+p457
+sg10
+g11
+sa(dp458
+g6
+VThen you could be a member of Congress.
+p459
+sg8
+VTOBY
+p460
+sg10
+g11
+sa(dp461
+g6
+VWell, all these reports say its going broke if we don't fix it, but if we all pay into it why don't we just get our money back when we retire?
+p462
+sg8
+VRENA
+p463
+sg10
+g11
+sa(dp464
+g6
+VYour Social Security taxes pay for today's retirees.
+p465
+sg8
+VTOBY
+p466
+sg10
+g11
+sa(dp467
+g6
+VThen why won't somebody else's taxes pay for my retirement?
+p468
+sg8
+VRENA
+p469
+sg10
+g11
+sa(dp470
+g6
+VBecause when the baby boomers retire there'll only be 2 people working for every retiree, down from 42 workers per retiree when the system started.
+p471
+sg8
+VTOBY
+p472
+sg10
+g11
+sa(dp473
+g6
+VHey, who's James Carney?
+p474
+sg8
+VRENA
+p475
+sg10
+g11
+sa(dp476
+g6
+VJim. What about him?
+p477
+sg8
+VTOBY
+p478
+sg10
+g11
+sa(dp479
+g6
+VHe's all over these reports, he chaired the last two commissions.  If Senator Gaines won't help, could you ask him?
+p480
+sg8
+VRENA
+p481
+sg10
+g11
+sa(dp482
+g6
+VThe chickens of our empty roost are coming home to roost.
+p483
+sg8
+VCJ
+p484
+sg10
+g11
+sa(dp485
+g6
+VSorry, I've been...it's been busy.
+p486
+sg8
+VTOBY
+p487
+sg10
+g11
+sa(dp488
+g6
+VIt's a glacially slow news day, Toby. I've had three calls about staff financial disclosure forms, one freedom of information request to inspect the First Lady's shoe closet...
+p489
+sg8
+VCJ
+p490
+sg10
+g11
+sa(dp491
+g6
+VDidn't know it covered insoles.
+p492
+sg8
+VTOBY
+p493
+sg10
+g11
+sa(dp494
+g6
+VNow the Wall Street Journal thinks you and Gaines are reforming Social Security.  What were you talking about with Gaines, his volumetric ethanol amendment?
+p495
+sg8
+VCJ
+p496
+sg10
+g11
+sa(dp497
+g6
+VIt isn't true, is it?
+p498
+sg8
+VCJ
+p499
+sg10
+g11
+sa(dp500
+g6
+VI need the press off my trail for just a couple of days.  It's close hold.
+p501
+sg8
+VTOBY
+p502
+sg10
+g11
+sa(dp503
+g6
+VOkay.
+p504
+sg8
+VCJ
+p505
+sg10
+g11
+sa(dp506
+g6
+VLike your new office.
+p507
+sg8
+VJOSH
+p508
+sg10
+g141
+sa(dp509
+g6
+VIt has the advantage of being remote.
+p510
+sg8
+VWILL
+p511
+sg10
+g11
+sa(dp512
+g6
+VNice place to visit.  Wonderful place to park.
+p513
+sg8
+VJOSH
+p514
+sg10
+g11
+sa(dp515
+g6
+VTwo doors down is the International Date Line.
+p516
+sg8
+VWILL
+p517
+sg10
+g11
+sa(dp518
+g6
+VI got the answer to your Russell conundrum.  Forget the dull jokes.  The real problem in the Democratic Party these days is morale, right?  So, Russell comes out of the gate as a seltzer bottle squirting partisan. The happy warrior.  The guy who puts the fun back in Democratic politics.
+p519
+sg8
+VJOSH
+p520
+sg10
+g11
+sa(dp521
+g6
+VFun?  From a guy who needs a strobe light to look like he's moving?
+p522
+sg8
+VWILL
+p523
+sg10
+g11
+sa(dp524
+g6
+VWrite that down.
+p525
+sg8
+VJOSH
+p526
+sg10
+g11
+sa(dp527
+g6
+VGot it.
+p528
+sg8
+VWILL
+p529
+sg10
+g11
+sa(dp530
+g6
+VDid you know that Gaines raised an anemic, pathetic 310 grand last quarter?
+p531
+sg8
+VJOSH
+p532
+sg10
+g11
+sa(dp533
+g6
+VDoes he even have an opponent yet?
+p534
+sg8
+VWILL
+p535
+sg10
+g11
+sa(dp536
+g6
+VNo, but it's a crack in the plaster, a chink in the armor, and we're going to have some fun at his expense.
+p537
+sg8
+VJOSH
+p538
+sg10
+g11
+sa(dp539
+g6
+VOkay.
+p540
+sg8
+VWILL
+p541
+sg10
+g11
+sa(dp542
+g6
+VTalking about political theater, stuff you do in a campaign to energize your base, wake 'em up.  Russell travels to Gaines' home town, puts out a change jar and stages a mock fundraiser...
+p543
+sg8
+VJOSH
+p544
+sg10
+g11
+sa(dp545
+g6
+VDrops a nickel in the jar for each of Gaines' retrograde positions...
+p546
+sg8
+VJOSH
+p547
+sg10
+g11
+sa(dp548
+g6
+VKa-ching!  It's a partisan stunt, Russell could do one every week.
+p549
+sg8
+VWILL
+p550
+sg10
+g11
+sa(dp551
+g6
+VFires up the troops, shows that while the other side's being complacent...
+p552
+sg8
+VJOSH
+p553
+sg10
+g11
+sa(dp554
+g6
+V...we're ready to throw down!
+p555
+sg8
+VWILL
+p556
+sg10
+g11
+sa(dp557
+g6
+VLittle too much fun, there.
+p558
+sg8
+VJOSH
+p559
+sg10
+g11
+sa(dp560
+g6
+VSorry.
+p561
+sg8
+VWILL
+p562
+sg10
+g11
+sa(dp563
+g6
+VSlow news day.  Lots of bored political reporters out there.  [JOSH picks up the phone and offers it to WILL.  WILL grabs it, smiling.]
+p564
+sg8
+VJOSH
+p565
+sg10
+g11
+sa(dp566
+g6
+VGaines is willing to risk his career for this.  We just have to meet him halfway.
+p567
+sg8
+VTOBY
+p568
+sg10
+g11
+sa(dp569
+g6
+VWhere's the President?
+p570
+sg8
+VBRAINERD
+p571
+sg10
+g11
+sa(dp572
+g6
+VA hundred percent behind this.  We just have to get you and Gaines in a room to hammer out a deal Democrats can support.
+p573
+sg8
+VTOBY
+p574
+sg10
+g11
+sa(dp575
+g6
+VI won't raise the retirement age.
+p576
+sg8
+VBRAINERD
+p577
+sg10
+g11
+sa(dp578
+g6
+VNo, no, no... we have to share the pain!
+p579
+sg8
+VTOBY
+p580
+sg10
+g11
+sa(dp581
+g6
+VEasy for us to say, we don't carry sheet metal for a living.  We don't work hard, physical jobs like welding or plumbing.
+p582
+sg8
+VBRAINERD
+p583
+sg10
+g11
+sa(dp584
+g6
+VAmericans are retiring in their 60s, living until their 80s, FDR didn't intend to pay for 20 years of shuffleboard.
+p585
+sg8
+VTOBY
+p586
+sg10
+g11
+sa(dp587
+g6
+VTell that to the sheet metal worker whose tendons are shot by 55.
+p588
+sg8
+VBRAINERD
+p589
+sg10
+g11
+sa(dp590
+g6
+VHaving no Social Security works wonders on the tendons.
+p591
+sg8
+VTOBY
+p592
+sg10
+g11
+sa(dp593
+g6
+VYou're not worried about political fallout.
+p594
+sg8
+VBRAINERD
+p595
+sg10
+g11
+sa(dp596
+g6
+VYes I am, Senator, but this isn't politics, it's history.  And there is no easy way to get in the book.
+p597
+sg8
+VTOBY
+p598
+sg10
+g11
+sa(dp599
+g6
+VI'll talk.  No commitments, but I'll talk.
+p600
+sg8
+VBRAINERD
+p601
+sg10
+g11
+sa(dp602
+g6
+VWell, see if he has anything we can announce.
+p603
+sg8
+VCJ
+p604
+sg10
+g11
+sa(dp605
+g6
+VMs. Cregg.
+p606
+sg8
+VCARRIO
+p607
+sg10
+g11
+sa(dp608
+g6
+VThere is no agreement.  There's only mutual respect.
+p609
+sg8
+VCARRIO
+p610
+sg10
+g11
+sa(dp611
+g6
+VWell that's not newsworthy, perhaps, but certainly...
+p612
+sg8
+VCJ
+p613
+sg10
+g11
+sa(dp614
+g6
+VDo you like cabbage?
+p615
+sg8
+VCARRIO
+p616
+sg10
+g141
+sa(dp617
+g6
+VAh.
+p618
+sg8
+VCARRIO
+p619
+sg10
+g11
+sa(dp620
+g6
+VOn occasion, I see the appeal.  [She looks at CARRIO for a long moment.] It's been a while since I've tried it actually. [She laughs lightly.]
+p621
+sg8
+VCJ
+p622
+sg10
+g11
+sa(dp623
+g6
+VYou are, ah, a woman.
+p624
+sg8
+VCARRIO
+p625
+sg10
+g11
+sa(dp626
+g6
+VAnd no news there, either.  Though, at this point, I'm willing to go with it.
+p627
+sg8
+VCJ
+p628
+sg10
+g11
+sa(dp629
+g6
+V[to Carol] Thank you.  Thank you, Mr....
+p630
+sg8
+VCJ
+p631
+sg10
+g11
+sa(dp632
+g6
+VCarrio.  Carlos Carrio.
+p633
+sg8
+VCARRIO
+p634
+sg10
+g11
+sa(dp635
+g6
+VThank you.
+p636
+sg8
+VCARRIO
+p637
+sg10
+g141
+sa(dp638
+g6
+VHow come you wanted all that press guidance on ethanol?
+p639
+sg8
+VCAROL
+p640
+sg10
+g11
+sa(dp641
+g6
+VSilly me.
+p642
+sg8
+VCAROL
+p643
+sg10
+g11
+sa(dp644
+g6
+VIf I tug my left ear, create a diversion.
+p645
+sg8
+VCJ
+p646
+sg10
+g11
+sa(dp647
+g6
+VGood afternoon, folks, I have an important announcement to make.  In the coming weeks the President plans to focus on raising education standards.  It's a big, juicy policy story no one's written, don't all pounce at once.  Chris.
+p648
+sg8
+VCJ
+p649
+sg10
+g11
+sa(dp650
+g6
+VWhat's new about that?
+p651
+sg8
+VCHRIS
+p652
+sg10
+g11
+sa(dp653
+g6
+VThe President's laser-beam focus.
+p654
+sg8
+VCJ
+p655
+sg10
+g11
+sa(dp656
+g6
+VThen obviously you'll want to delve into specifics.  Gordon.
+p657
+sg8
+VCJ
+p658
+sg10
+g11
+sa(dp659
+g6
+VI'm hearing you were going to propose changes to federal adoption law?
+p660
+sg8
+VGORDON
+p661
+sg10
+g11
+sa(dp662
+g6
+VWe hope to announce them soon.  Just streamline the bureaucracy and find more children loving homes.
+p663
+sg8
+VCJ
+p664
+sg10
+g11
+sa(dp665
+g6
+VI'm hearing those changes included a preference for younger parents.
+p666
+sg8
+VGORDON
+p667
+sg10
+g11
+sa(dp668
+g6
+VI haven't reviewed the language.
+p669
+sg8
+VCJ
+p670
+sg10
+g11
+sa(dp671
+g6
+VThe Bartlet's have a combined age of 111.
+p672
+sg8
+VGORDON
+p673
+sg10
+g11
+sa(dp674
+g6
+VDid the First Couple kill the announcement because they're considering adopting a baby?
+p675
+sg8
+VGORDON
+p676
+sg10
+g11
+sa(dp677
+g6
+VI'm fine.
+p678
+sg8
+VPOLK
+p679
+sg10
+g11
+sa(dp680
+g6
+VCJ!
+p681
+sg8
+VALL
+p682
+sg10
+g11
+sa(dp683
+g6
+VThe Bartlet's had nothing to do with delaying this announcement.
+p684
+sg8
+VCJ
+p685
+sg10
+g11
+sa(dp686
+g6
+VMeaning everyone ought to have the right to adopt.  You, me, the First Couple, the Dali Lama...and this briefing is officially over.
+p687
+sg8
+VCJ
+p688
+sg10
+g11
+sa(dp689
+g6
+VBut we don't have any news to file.
+p690
+sg8
+VGORDON
+p691
+sg10
+g11
+sa(dp692
+g6
+VLike a blank page would kill ya!  Polk, follow me.
+p693
+sg8
+VCJ
+p694
+sg10
+g11
+sa(dp695
+g6
+VYou didn't ask your question.
+p696
+sg8
+VCJ
+p697
+sg10
+g11
+sa(dp698
+g6
+VWhy share it with the room?
+p699
+sg8
+VPOLK
+p700
+sg10
+g11
+sa(dp701
+g6
+V'Cause they like flimsy rumors and innuendo, too.
+p702
+sg8
+VCJ
+p703
+sg10
+g253
+sa(dp704
+g6
+VI've got a second source.  You'll see how flimsy it is in tomorrow's Journal.
+p705
+sg8
+VPOLK
+p706
+sg10
+g11
+sa(dp707
+g6
+VBrainerd says she'll talk.  No commitments yet, but she'll talk.
+p708
+sg8
+VTOBY
+p709
+sg10
+g11
+sa(dp710
+g6
+VMaybe we can start a book club.
+p711
+sg8
+VGAINES
+p712
+sg10
+g11
+sa(dp713
+g6
+VShe's the ranking Democrat on Finance; it's a good first step.
+p714
+sg8
+VTOBY
+p715
+sg10
+g11
+sa(dp716
+g6
+VI just heard from two reporters that Bob Russell and the Bartlet smear machine are planning to attack me on Social Security, make a circus out of my fundraising weakness.  Is that the second step?
+p717
+sg8
+VGAINES
+p718
+sg10
+g11
+sa(dp719
+g6
+VI don't know what you're talking about.
+p720
+sg8
+VTOBY
+p721
+sg10
+g11
+sa(dp722
+g6
+VEither you're lying, or the left hand doesn't know what the far-left hand is doing.
+p723
+sg8
+VGAINES
+p724
+sg10
+g11
+sa(dp725
+g6
+VI'm not lying.
+p726
+sg8
+VTOBY
+p727
+sg10
+g11
+sa(dp728
+g6
+VYou know what happened to Carney?  He commissioned one lousy CBO analysis on raising the retirement age...
+p729
+sg8
+VGAINES
+p730
+sg10
+g11
+sa(dp731
+g6
+VI can fix this.
+p732
+sg8
+VTOBY
+p733
+sg10
+g253
+sa(dp734
+g6
+V...Josh Lyman ran ads with 90 year olds in hard hats working construction, The Carney Social Security Plan.  Lost his seat by eleven points.
+p735
+sg8
+VGAINES
+p736
+sg10
+g11
+sa(dp737
+g6
+VI'll stop whatever this is.
+p738
+sg8
+VTOBY
+p739
+sg10
+g253
+sa(dp740
+g6
+VEleven points.
+p741
+sg8
+VGAINES
+p742
+sg10
+g11
+sa(dp743
+g6
+VYou're not running this time.
+p744
+sg8
+VTOBY
+p745
+sg10
+g11
+sa(dp746
+g6
+VWho said I wasn't running?  I thought it was time to raise the minimum wage.
+p747
+sg8
+VGAINES
+p748
+sg10
+g11
+sa(dp749
+g6
+VYou have to trust me...
+p750
+sg8
+VTOBY
+p751
+sg10
+g11
+sa(dp752
+g6
+VI don't.   And even if I did put my neck on the line with my own party by scaling back private accounts, you and your guys would never give up on your favorite partisan attack.
+p753
+sg8
+VGAINES
+p754
+sg10
+g11
+sa(dp755
+g6
+VWe're on the same limb.  The Journal's chasing this, your staff is leaking it!
+p756
+sg8
+VTOBY
+p757
+sg10
+g11
+sa(dp758
+g6
+VThey were until I confirmed it.
+p759
+sg8
+VGAINES
+p760
+sg10
+g11
+sa(dp761
+g6
+VI told them that you came to me and urged me to cut Social Security.
+p762
+sg8
+VGAINES
+p763
+sg10
+g11
+sa(dp764
+g6
+VIf they print this it'll torpedo any chance of a deal.
+p765
+sg8
+VTOBY
+p766
+sg10
+g11
+sa(dp767
+g6
+VWell, now you've got that limb all to yourself, hmm.
+p768
+sg8
+VGAINES
+p769
+sg10
+g11
+sa(dp770
+g6
+VI thought you handled the briefing beautifully.
+p771
+sg8
+VCAROL
+p772
+sg10
+g11
+sa(dp773
+g6
+VA little tough love is what these people need.  If that doesn't work, I'm moving on to Molotov cocktails.  What's that?
+p774
+sg8
+VCJ
+p775
+sg10
+g11
+sa(dp776
+g6
+VGordon's wire story.
+p777
+sg8
+VCAROL
+p778
+sg10
+g11
+sa(dp779
+g6
+VI thought you handled it beautifully.
+p780
+sg8
+VCAROL
+p781
+sg10
+g11
+sa(dp782
+g6
+VWhere's Gordon?
+p783
+sg8
+VCJ
+p784
+sg10
+g11
+sa(dp785
+g6
+VThank you.
+p786
+sg8
+VCJ
+p787
+sg10
+g141
+sa(dp788
+g6
+VOh.
+p789
+sg8
+VGORDON.
+p790
+sg10
+g11
+sa(dp791
+g6
+VAt a certain point, I don't know when, exactly, the Press Secretary job just wasn't fulfilling.  [She is standing behind her desk, one arm on her chair and the other on her hip.] Maybe it was...[trailing off]  And then there was that spiritual vacuum, do you ever feel that in your job?
+p792
+sg8
+VCJ
+p793
+sg10
+g11
+sa(dp794
+g6
+VUh...
+p795
+sg8
+VGORDON
+p796
+sg10
+g11
+sa(dp797
+g6
+VAt first I thought it was western materialism, and then the mantra stopped working, and ... are you getting this down? [She moves to sit in a chair in front of him]
+p798
+sg8
+VCJ
+p799
+sg10
+g11
+sa(dp800
+g6
+VAbout these new adoption laws...
+p801
+sg8
+VGORDON
+p802
+sg10
+g11
+sa(dp803
+g6
+VThat's the thing, I don't want to adopt.  I'm looking for a donor.
+p804
+sg8
+VCJ
+p805
+sg10
+g11
+sa(dp806
+g6
+VA donor?
+p807
+sg8
+VGORDON
+p808
+sg10
+g11
+sa(dp809
+g6
+VAre you out of your pencil-ridden brain?!?  This is the United States Government.  We've got a two-trillion dollar budget.  We're the largest creditor, the largest sub-contractor, lifeblood of the global economy, with a nuclear arsenal that could blow this planet into 15 billion pieces.  I shouldn't have to tie you to a chair and shove a spoon into your mouth to get you to write about it!
+p810
+sg8
+VCJ
+p811
+sg10
+g11
+sa(dp812
+g6
+VSo you don't have a crib?
+p813
+sg8
+VGORDON
+p814
+sg10
+g11
+sa(dp815
+g6
+VGet out!!!
+p816
+sg8
+VCJ
+p817
+sg10
+g11
+sa(dp818
+g6
+VYou're a hard man to reach today.
+p819
+sg8
+VPOLK
+p820
+sg10
+g11
+sa(dp821
+g6
+VThis is off the record.
+p822
+sg8
+VTOBY
+p823
+sg10
+g11
+sa(dp824
+g6
+VDon't write your story.
+p825
+sg8
+VTOBY
+p826
+sg10
+g11
+sa(dp827
+g6
+VI almost forgot you were my editor.
+p828
+sg8
+VPOLK
+p829
+sg10
+g141
+sa(dp830
+g6
+VI'll give you an exclusive when this is over.  I'll give you ten. Something big.
+p831
+sg8
+VTOBY
+p832
+sg10
+g11
+sa(dp833
+g6
+VBigger than a fifth of the federal budget?  Bigger than 51 million monthly checks?
+p834
+sg8
+VPOLK
+p835
+sg10
+g11
+sa(dp836
+g6
+VJust so you know you're going to ruin me with the party, ruin us on 15 different issues!
+p837
+sg8
+VTOBY
+p838
+sg10
+g11
+sa(dp839
+g6
+VGaines is vulnerable, so Josh is threatening him with political attacks to force a deal.  Good cop, bad cop... am I right?
+p840
+sg8
+VPOLK
+p841
+sg10
+g11
+sa(dp842
+g6
+VYou're wrong.  And the arrogance you have in assuming that...
+p843
+sg8
+VTOBY
+p844
+sg10
+g11
+sa(dp845
+g6
+VHow 'bout the arrogance of trying to reform a 400 billion dollar program by man-handling senators behind closed doors with no public debate? Without organized labor.  Without the AARP.  Without the tax paying public having any clue that they might have to work longer, for less retirement money.  You also met with Brainerd. [He flips open his notebook]  And I'm through talking off the record.
+p846
+sg8
+VPOLK
+p847
+sg10
+g11
+sa(dp848
+g6
+VWhen are you filing?
+p849
+sg8
+VTOBY
+p850
+sg10
+g11
+sa(dp851
+g6
+VTonight.  Sunshine is the best disinfectant, Toby.
+p852
+sg8
+VPOLK
+p853
+sg10
+g11
+sa(dp854
+g6
+VFor germs, maybe.  Not the plague.
+p855
+sg8
+VTOBY
+p856
+sg10
+g11
+sa(dp857
+g6
+VI told you the 3-10 K wasn't relevant.
+p858
+sg8
+VTOBY
+p859
+sg10
+g11
+sa(dp860
+g6
+VI'm making it relevant.
+p861
+sg8
+VJOSH
+p862
+sg10
+g11
+sa(dp863
+g6
+VI don't want it relevant.
+p864
+sg8
+VTOBY
+p865
+sg10
+g11
+sa(dp866
+g6
+VYou dealing on Social Security?  [Toby doesn't meet his gaze.]  The Journal says you are.  I went on record denying it.
+p867
+sg8
+VJOSH
+p868
+sg10
+g11
+sa(dp869
+g6
+VStop the stunts.
+p870
+sg8
+VTOBY
+p871
+sg10
+g11
+sa(dp872
+g6
+VI've gotten calls from half a dozen Democratic senators, thrilled to see some signs of political life in this building.  They're planning to run on Social Security.  They don't want it dealt away.
+p873
+sg8
+VJOSH
+p874
+sg10
+g11
+sa(dp875
+g6
+VWhat I'm doing doesn't concern the political department.
+p876
+sg8
+VTOBY
+p877
+sg10
+g11
+sa(dp878
+g6
+VMeaning it's bad politics.
+p879
+sg8
+VJOSH
+p880
+sg10
+g11
+sa(dp881
+g6
+VMeaning knock it off!
+p882
+sg8
+VTOBY
+p883
+sg10
+g11
+sa(dp884
+g6
+VYou know the electorate is ten percent older in the off years, and more culturally conservative.  The only two advantages we have in the mid- terms are Social Security and Medicare.  We take them off the table and we got nothing!
+p885
+sg8
+VJOSH
+p886
+sg10
+g11
+sa(dp887
+g6
+VThere is...there is no table.
+p888
+sg8
+VTOBY
+p889
+sg10
+g11
+sa(dp890
+g6
+VThen why do you care what I do to Gaines?
+p891
+sg8
+VJOSH
+p892
+sg10
+g11
+sa(dp893
+g6
+VMr. Zeigler, there's someone...ah, you're needed in your office right away.  [She leaves.]
+p894
+sg8
+VRENA
+p895
+sg10
+g11
+sa(dp896
+g6
+VGuess what? Tweedle Dum and Tweedle Dumber in the policy shop won't even...
+p897
+sg8
+VDONNA
+p898
+sg10
+g11
+sa(dp899
+g6
+VForget about it?
+p900
+sg8
+VDONNA
+p901
+sg10
+g11
+sa(dp902
+g6
+VI need to you talk to Toby's researcher about her clothes.
+p903
+sg8
+VJOSH
+p904
+sg10
+g11
+sa(dp905
+g6
+VI thought you didn't want to play fashion cop.
+p906
+sg8
+VDONNA
+p907
+sg10
+g11
+sa(dp908
+g6
+VGo down there, talk about pantsuits.  Find out what Toby's working on.
+p909
+sg8
+VJOSH
+p910
+sg10
+g11
+sa(dp911
+g6
+VYou're asking me to spy on Toby?  [JOSH looks at her, but doesn't respond.]  I don't feel comfortable with that.
+p912
+sg8
+VDONNA
+p913
+sg10
+g11
+sa(dp914
+g6
+VI didn't ask if you felt comfortable, Toby's negotiating away our office furniture, we need to know.
+p915
+sg8
+VJOSH
+p916
+sg10
+g11
+sa(dp917
+g6
+VI'm supposed to...
+p918
+sg8
+VDONNA
+p919
+sg10
+g11
+sa(dp920
+g6
+VMake-up tips...see what's on her desk.
+p921
+sg8
+VJOSH
+p922
+sg10
+g11
+sa(dp923
+g6
+VThis isn't a set-up.  You're surprised the Wall Street Journal is exploiting this?
+p924
+sg8
+VTOBY
+p925
+sg10
+g11
+sa(dp926
+g6
+VI'm surprised that Gaines is out when you said he's in.
+p927
+sg8
+VBRAINERD
+p928
+sg10
+g11
+sa(dp929
+g6
+VI can get Gaines back on-board.
+p930
+sg8
+VTOBY
+p931
+sg10
+g11
+sa(dp932
+g6
+VHe said he's out.  The Journal knows you and I met on this.
+p933
+sg8
+VBRAINERD
+p934
+sg10
+g11
+sa(dp935
+g6
+VI can piece this back together.  I need you to make some commitments.
+p936
+sg8
+VTOBY
+p937
+sg10
+g11
+sa(dp938
+g6
+VCommitments?
+p939
+sg8
+VBRAINERD
+p940
+sg10
+g11
+sa(dp941
+g6
+VGaines said he'd scale back on private accounts, what can you give him?
+p942
+sg8
+VTOBY
+p943
+sg10
+g11
+sa(dp944
+g6
+VNothing.  If it's in the papers I was even talking about raising retirement age, I'd have the walker brigade picketing my house.  Slowly.
+p945
+sg8
+VBRAINERD
+p946
+sg10
+g11
+sa(dp947
+g6
+VThis could be our one chance to help them, and you're going to give it up?  When do we ever going to get a deal on this?
+p948
+sg8
+VTOBY
+p949
+sg10
+g11
+sa(dp950
+g6
+VWhen we win back Congress.  And do it on Democratic terms.
+p951
+sg8
+VBRAINERD
+p952
+sg10
+g11
+sa(dp953
+g6
+VWe've been saying that for 20 years.
+p954
+sg8
+VTOBY
+p955
+sg10
+g11
+sa(dp956
+g6
+VI'm out.  You can keep the hemlock.
+p957
+sg8
+VBRAINERD
+p958
+sg10
+g11
+sa(dp959
+g6
+VWe haven't met.  Donna Moss, I work for Josh.
+p960
+sg8
+VDONNA
+p961
+sg10
+g11
+sa(dp962
+g6
+VRena.  I've seen you on C-SPAN.
+p963
+sg8
+VRENA
+p964
+sg10
+g11
+sa(dp965
+g6
+VReally?  Well, sometimes they catch us in the back of the briefings.  My mom calls me when she thinks I look tired.
+p966
+sg8
+VDONNA
+p967
+sg10
+g11
+sa(dp968
+g6
+VGod, everyone around here looks tired.
+p969
+sg8
+VRENA
+p970
+sg10
+g11
+sa(dp971
+g6
+VWe need to talk clothes and make-up.
+p972
+sg8
+VDONNA
+p973
+sg10
+g11
+sa(dp974
+g6
+VOh.  Ahmm...sure, if you ever want for me to teach you how to put on make-up, I'd be happy to.
+p975
+sg8
+VRENA
+p976
+sg10
+g11
+sa(dp977
+g6
+VI hear the policy people are giving Donna a hard time.
+p978
+sg8
+VLEO
+p979
+sg10
+g11
+sa(dp980
+g6
+VA little bit, yeah.
+p981
+sg8
+VJOSH
+p982
+sg10
+g253
+sa(dp983
+g6
+VDon't be too rough, we just bled them dry for the State of the Union.
+p984
+sg8
+VLEO
+p985
+sg10
+g11
+sa(dp986
+g6
+VLeo, if something's happening to my job, tell me now.  Don't leave me hanging out there again.
+p987
+sg8
+VJOSH
+p988
+sg10
+g11
+sa(dp989
+g6
+VHanging out where?
+p990
+sg8
+VLEO
+p991
+sg10
+g11
+sa(dp992
+g6
+VI know Toby's working on something important, I hear Social Security. If it affects my accordion like portfolio...
+p993
+sg8
+VJOSH
+p994
+sg10
+g11
+sa(dp995
+g6
+VYour accordion's fine.
+p996
+sg8
+VLEO
+p997
+sg10
+g11
+sa(dp998
+g6
+VObviously some things are gonna be close hold, I just ... I want to do the politics.
+p999
+sg8
+VJOSH
+p1000
+sg10
+g11
+sa(dp1001
+g6
+VYou are.
+p1002
+sg8
+VLEO
+p1003
+sg10
+g11
+sa(dp1004
+g6
+VAlright, thanks.
+p1005
+sg8
+VJOSH
+p1006
+sg10
+g11
+sa(dp1007
+g6
+VWhat are you looking for?
+p1008
+sg8
+VRENA
+p1009
+sg10
+g11
+sa(dp1010
+g6
+VA senator who's mute, and only represents people under 30.
+p1011
+sg8
+VTOBY
+p1012
+sg10
+g11
+sa(dp1013
+g6
+VWell, what about Jim Carney?  From the research it seems like he's really committed to this.
+p1014
+sg8
+VRENA
+p1015
+sg10
+g11
+sa(dp1016
+g6
+VJim Carney was one of the gutsiest guys in the House.  Loved on both sides of the aisle.
+p1017
+sg8
+VTOBY
+p1018
+sg10
+g11
+sa(dp1019
+g6
+VSo?
+p1020
+sg8
+VRENA
+p1021
+sg10
+g11
+sa(dp1022
+g6
+VHe used to be a Republican House member.  He's not there anymore.
+p1023
+sg8
+VTOBY
+p1024
+sg10
+g11
+sa(dp1025
+g6
+VWhat happened to him?
+p1026
+sg8
+VRENA
+p1027
+sg10
+g11
+sa(dp1028
+g6
+VJosh and I wrote a TV ad that destroyed his career.  We figured if we won his seat, maybe a half dozen others, got more Democrats in Congress, we'd be able to get something done around here.
+p1029
+sg8
+VTOBY
+p1030
+sg10
+g11
+sa(dp1031
+g6
+VWhat's going on, Toby?  Josh is spinning out conspiracy theories; I got the Journal calling me every 10 minutes.
+p1032
+sg8
+VLEO
+p1033
+sg10
+g11
+sa(dp1034
+g6
+VToby Ziegler's line.
+p1035
+sg8
+VRENA
+p1036
+sg10
+g11
+sa(dp1037
+g6
+VI'm working on that ethanol thing.
+p1038
+sg8
+VTOBY
+p1039
+sg10
+g11
+sa(dp1040
+g6
+VEthanol?
+p1041
+sg8
+VLEO
+p1042
+sg10
+g11
+sa(dp1043
+g6
+VExcuse me, the President wants you in the residence.
+p1044
+sg8
+VRENA
+p1045
+sg10
+g11
+sa(dp1046
+g6
+VThanks.
+p1047
+sg8
+VLEO
+p1048
+sg10
+g11
+sa(dp1049
+g6
+VAh, no sir, The President wants Mr. Ziegler in the residence.
+p1050
+sg8
+VRENA
+p1051
+sg10
+g11
+sa(dp1052
+g6
+VIt's just... I'll find you afterwards.
+p1053
+sg8
+VTOBY
+p1054
+sg10
+g11
+sa(dp1055
+g6
+VIf they'd only let me wear leggings for my portrait, we'd be in business.
+p1056
+sg8
+VBARTLET
+p1057
+sg10
+g11
+sa(dp1058
+g6
+VUntil it shows up on the Internet.
+p1059
+sg8
+VCHARLIE
+p1060
+sg10
+g11
+sa(dp1061
+g6
+VThere you go, turning your back on a whole new constituency.
+p1062
+sg8
+VBARTLET
+p1063
+sg10
+g11
+sa(dp1064
+g6
+VI didn't know Charlie would be here.
+p1065
+sg8
+VTOBY
+p1066
+sg10
+g253
+sa(dp1067
+g6
+VI've got five Democratic Senators on my call sheet, Leo's clamoring to know what this is all about.  What the hell have you gotten us into?
+p1068
+sg8
+VBARTLET
+p1069
+sg10
+g11
+sa(dp1070
+g6
+VI lost Gaines.  I lost Brainerd.  And the Wall Street Journal is running it tomorrow.
+p1071
+sg8
+VTOBY
+p1072
+sg10
+g11
+sa(dp1073
+g6
+VRunning what?  That we grabbed the third rail with both hands?
+p1074
+sg8
+VBARTLET
+p1075
+sg10
+g11
+sa(dp1076
+g6
+VThat we talked about raising the retirement age, maybe privatization...
+p1077
+sg8
+VTOBY
+p1078
+sg10
+g11
+sa(dp1079
+g6
+VGaines expressed some interest.
+p1080
+sg8
+VTOBY
+p1081
+sg10
+g11
+sa(dp1082
+g6
+VSo you ran with it when I told you not to even walk.
+p1083
+sg8
+VBARTLET
+p1084
+sg10
+g11
+sa(dp1085
+g6
+VWhat if you talked to Gaines?  Let him know you're personally behind this.
+p1086
+sg8
+VTOBY
+p1087
+sg10
+g11
+sa(dp1088
+g6
+VBehind a deal that doesn't exist?
+p1089
+sg8
+VBARTLET
+p1090
+sg10
+g11
+sa(dp1091
+g6
+VWhat if you told him you'll move on the retirement age?
+p1092
+sg8
+VTOBY
+p1093
+sg10
+g11
+sa(dp1094
+g6
+VMaybe I should just call the Journal?  They can run it right next to my legislative obituary.
+p1095
+sg8
+VBARTLET
+p1096
+sg10
+g11
+sa(dp1097
+g6
+VI can't contain this by myself!
+p1098
+sg8
+VTOBY
+p1099
+sg10
+g11
+sa(dp1100
+g6
+VYou're gonna contain it now.
+p1101
+sg8
+VBARTLET
+p1102
+sg10
+g11
+sa(dp1103
+g6
+VThere's no way, Mr. President!
+p1104
+sg8
+VTOBY
+p1105
+sg10
+g11
+sa(dp1106
+g6
+VThen find a way.
+p1107
+sg8
+VBARTLET
+p1108
+sg10
+g141
+sa(dp1109
+g6
+VHow?  By telling the whole party, so they can lay down on the tracks to stop it?  By telling nine committee chairs, probably the whole dining room set, that we circumvented their authority?  The Journal's still going to file it, and we still don't have a deal.
+p1110
+sg8
+VTOBY
+p1111
+sg10
+g11
+sa(dp1112
+g6
+VThen find a deal.
+p1113
+sg8
+VBARTLET
+p1114
+sg10
+g11
+sa(dp1115
+g6
+VI tried!
+p1116
+sg8
+VTOBY
+p1117
+sg10
+g11
+sa(dp1118
+g6
+VHi.
+p1119
+sg8
+VTOBY
+p1120
+sg10
+g11
+sa(dp1121
+g6
+VHi.
+p1122
+sg8
+VCJ
+p1123
+sg10
+g11
+sa(dp1124
+g6
+VOh, it's just some guy at the Argentine embassy who apparently wants to make me a salad.
+p1125
+sg8
+VCJ
+p1126
+sg10
+g11
+sa(dp1127
+g6
+VHuh.  [beat]  Sorry about the baby story.
+p1128
+sg8
+VTOBY
+p1129
+sg10
+g11
+sa(dp1130
+g6
+VYeah, it's okay.  Here we are senior advisors to the President, commissioned officers of the federal government, life's not perfect but why does anyone think we don't live in a world we construct.
+p1131
+sg8
+VCJ
+p1132
+sg10
+g11
+sa(dp1133
+g6
+VNo.
+p1134
+sg8
+VCJ
+p1135
+sg10
+g11
+sa(dp1136
+g6
+VOkay.  I may have an announcement for you, one that'll knock Polk out of the water.
+p1137
+sg8
+VTOBY
+p1138
+sg10
+g11
+sa(dp1139
+g6
+VSaying what?
+p1140
+sg8
+VCJ
+p1141
+sg10
+g11
+sa(dp1142
+g6
+VLet me get the wording straight.
+p1143
+sg8
+VTOBY
+p1144
+sg10
+g11
+sa(dp1145
+g6
+VIt says here that before Social Security, half of all seniors died in poverty and now almost none do.
+p1146
+sg8
+VRENA
+p1147
+sg10
+g11
+sa(dp1148
+g6
+VYeah.
+p1149
+sg8
+VTOBY
+p1150
+sg10
+g11
+sa(dp1151
+g6
+VIt must have been a pretty great day when they passed it.
+p1152
+sg8
+VRENA
+p1153
+sg10
+g11
+sa(dp1154
+g6
+VDuring the floor debate one Republican called it the 'Lash of the Dictator'.  Another said it would enslave workers.
+p1155
+sg8
+VTOBY
+p1156
+sg10
+g11
+sa(dp1157
+g6
+VSocial Security?
+p1158
+sg8
+VRENA
+p1159
+sg10
+g11
+sa(dp1160
+g6
+VAnd some on the far-left dismissed it as a hap measure.  A cop out.  A way to plug holes in a dying capitalist system.
+p1161
+sg8
+VTOBY
+p1162
+sg10
+g11
+sa(dp1163
+g6
+VIs it... um... can I ask what did the President...
+p1164
+sg8
+VRENA
+p1165
+sg10
+g11
+sa(dp1166
+g6
+VHe wanted me to put this back in the box.
+p1167
+sg8
+VTOBY
+p1168
+sg10
+g11
+sa(dp1169
+g6
+VHow do you do that?
+p1170
+sg8
+VRENA
+p1171
+sg10
+g11
+sa(dp1172
+g6
+VBy taking the blame for everything that happened.
+p1173
+sg8
+VTOBY
+p1174
+sg10
+g11
+sa(dp1175
+g6
+VYou're up to something.  You lied to me about it.  The President won't say what it is, but you work for me.
+p1176
+sg8
+VLEO
+p1177
+sg10
+g11
+sa(dp1178
+g6
+VI do.
+p1179
+sg8
+VTOBY
+p1180
+sg10
+g11
+sa(dp1181
+g6
+VTell me what you're up to.  Tell me why half the caucus thinks we're squeezing Gaines.  Or we have serious problems.
+p1182
+sg8
+VLEO
+p1183
+sg10
+g11
+sa(dp1184
+g6
+VNo problems.
+p1185
+sg8
+VTOBY
+p1186
+sg10
+g11
+sa(dp1187
+g6
+VThere's a reason we have a chain of command.  So people don't take flyers and I don't hand you their resignations.
+p1188
+sg8
+VLEO
+p1189
+sg10
+g11
+sa(dp1190
+g6
+VI wanted to believe he could do it.  I wanted to believe as much as he did.
+p1191
+sg8
+VBARTLET
+p1192
+sg10
+g11
+sa(dp1193
+g6
+VThis isn't Never-Never Land, sir.  Believing is not enough.
+p1194
+sg8
+VLEO
+p1195
+sg10
+g253
+sa(dp1196
+g6
+VYou would've stopped it.
+p1197
+sg8
+VBARTLET
+p1198
+sg10
+g11
+sa(dp1199
+g6
+VBecause it's my job.
+p1200
+sg8
+VLEO
+p1201
+sg10
+g11
+sa(dp1202
+g6
+VIt's my life, Leo.  I'm the one who's accountable. And not in the morning papers, not in the Democratic cloakroom, but in 50 or a 100 years when Tuesday's poll samples have crumbled into dust.
+p1203
+sg8
+VBARTLET
+p1204
+sg10
+g11
+sa(dp1205
+g6
+VYou can't will yourself a legacy.
+p1206
+sg8
+VLEO
+p1207
+sg10
+g11
+sa(dp1208
+g6
+VYou think there's a room at the Smithsonian for guys who never even tried?
+p1209
+sg8
+VBARTLET
+p1210
+sg10
+g11
+sa(dp1211
+g6
+VYou have to accept Toby's letter.
+p1212
+sg8
+VLEO
+p1213
+sg10
+g11
+sa(dp1214
+g6
+VFive years, I never thought we'd have secrets.
+p1215
+sg8
+VJOSH
+p1216
+sg10
+g11
+sa(dp1217
+g6
+V'Let thy discontents be thy secrets.'
+p1218
+sg8
+VTOBY
+p1219
+sg10
+g11
+sa(dp1220
+g6
+VOnly if you want them to stay discontents.
+p1221
+sg8
+VJOSH
+p1222
+sg10
+g11
+sa(dp1223
+g6
+VI didn't tell you 'cause you would have body blocked me.
+p1224
+sg8
+VTOBY
+p1225
+sg10
+g11
+sa(dp1226
+g6
+V'Cause it was a stupid thing to do, and you knew it.  Don't you want to try to take back Congress so we can legislate on a hundred of our issues?
+p1227
+sg8
+VJOSH
+p1228
+sg10
+g11
+sa(dp1229
+g6
+VSpoken like a true reformer.
+p1230
+sg8
+VTOBY
+p1231
+sg10
+g11
+sa(dp1232
+g6
+VI'd like to swim the English Channel, too.  Takes more than jumping off a pier.
+p1233
+sg8
+VJOSH
+p1234
+sg10
+g11
+sa(dp1235
+g6
+VSo we exploit the hard stuff 'til it can't be solved?  That's what we want to be remembered for?
+p1236
+sg8
+VTOBY
+p1237
+sg10
+g11
+sa(dp1238
+g6
+VWe do what's possible, we exploit what's not.  That's how we win elections.
+p1239
+sg8
+VJOSH
+p1240
+sg10
+g11
+sa(dp1241
+g6
+VWell, I came up on losing campaigns.  And every time I lost, at least I knew what I went down for.  Carney knew.
+p1242
+sg8
+VTOBY
+p1243
+sg10
+g11
+sa(dp1244
+g6
+VWhat do the losers get to do about Social Security, except receive it?
+p1245
+sg8
+VJOSH
+p1246
+sg10
+g11
+sa(dp1247
+g6
+VThe losers can kick up enough dirt to keep the debate going, maybe my letter will do that.
+p1248
+sg8
+VTOBY
+p1249
+sg10
+g11
+sa(dp1250
+g6
+VMake you a martyr.
+p1251
+sg8
+VJOSH
+p1252
+sg10
+g11
+sa(dp1253
+g6
+VMake someone else pick up the ball. Inch by inch, we're moving the line of compromise.
+p1254
+sg8
+VTOBY
+p1255
+sg10
+g11
+sa(dp1256
+g6
+VThis isn't Sunday school; it's the world capital of politics.  I could have told you Gaines wasn't going to move.
+p1257
+sg8
+VJOSH
+p1258
+sg10
+g11
+sa(dp1259
+g6
+VHe did.  He said he'd move on private accounts.
+p1260
+sg8
+VTOBY
+p1261
+sg10
+g11
+sa(dp1262
+g6
+VYou got the chairman of the Social Security sub-committee to move on private accounts?  That's like...inhaling a baby grand.
+p1263
+sg8
+VJOSH
+p1264
+sg10
+g11
+sa(dp1265
+g6
+VTurner.
+p1266
+sg8
+VJOSH
+p1267
+sg10
+g11
+sa(dp1268
+g6
+VWhat?
+p1269
+sg8
+VTOBY
+p1270
+sg10
+g11
+sa(dp1271
+g6
+VRoy Turner.
+p1272
+sg8
+VJOSH
+p1273
+sg10
+g11
+sa(dp1274
+g6
+VSo, you're saying that you'll ask the Democrats to trim benefits over the next 20 years, raise the retirement age over the next 60 years and give up on this issue forever.
+p1275
+sg8
+VGAINES
+p1276
+sg10
+g11
+sa(dp1277
+g6
+VIf I can tell them that you'll settle for small, optional private accounts on top of Social Security, and raise the income limit on Social Security taxes.
+p1278
+sg8
+VTURNER
+p1279
+sg10
+g11
+sa(dp1280
+g6
+VWe'd protect FDR's legacy and admit changes have to be made to save it.
+p1281
+sg8
+VTOBY
+p1282
+sg10
+g11
+sa(dp1283
+g6
+VWhat are the chances this passes the House?
+p1284
+sg8
+VTOBY
+p1285
+sg10
+g11
+sa(dp1286
+g6
+VA lot of Republicans would like to end the demagoguery on this issue, they'll be grateful that you approached me with a deal.
+p1287
+sg8
+VGAINES
+p1288
+sg10
+g11
+sa(dp1289
+g6
+VActually, to sell this to Democrats I have to say you approached me first.
+p1290
+sg8
+VTURNER
+p1291
+sg10
+g11
+sa(dp1292
+g6
+VNo, that's a deal-breaker for me. If it looks like a Democratic set- up...
+p1293
+sg8
+VGAINES
+p1294
+sg10
+g11
+sa(dp1295
+g6
+VI can't look like a fig leaf for some risky scheme to shred Social Security.
+p1296
+sg8
+VTURNER
+p1297
+sg10
+g11
+sa(dp1298
+g6
+VWe've saving it, not shredding it.
+p1299
+sg8
+VGAINES
+p1300
+sg10
+g141
+sa(dp1301
+g6
+VSo you can drive a wedge into private accounts.
+p1302
+sg8
+VTURNER
+p1303
+sg10
+g11
+sa(dp1304
+g6
+VSo you'd like to see it go into bankruptcy...
+p1305
+sg8
+VGAINES
+p1306
+sg10
+g11
+sa(dp1307
+g6
+VClosest we've been to a deal in 20 years and it breaks down over who we approached first.
+p1308
+sg8
+VLEO
+p1309
+sg10
+g11
+sa(dp1310
+g6
+VIf you approach the Republicans, he's a right-wing sell out, if you approach the Democrats, he's a fire-breathing partisan.
+p1311
+sg8
+VJOSH
+p1312
+sg10
+g11
+sa(dp1313
+g6
+VHard enough caving on principle without looking like you're caving on principle.
+p1314
+sg8
+VLEO
+p1315
+sg10
+g11
+sa(dp1316
+g6
+VAnd, we have a little problem called the Wall Street Journal.
+p1317
+sg8
+VJOSH
+p1318
+sg10
+g11
+sa(dp1319
+g6
+VWe don't take credit.
+p1320
+sg8
+VBARTLET
+p1321
+sg10
+g141
+sa(dp1322
+g6
+VWhat?
+p1323
+sg8
+VLEO
+p1324
+sg10
+g11
+sa(dp1325
+g6
+VIt's the only way.
+p1326
+sg8
+VTOBY
+p1327
+sg10
+g11
+sa(dp1328
+g6
+VThey approached each other.  Bi-partisan down the line.  No one can say I'm setting anyone up.
+p1329
+sg8
+VBARTLET
+p1330
+sg10
+g11
+sa(dp1331
+g6
+VMr. President, a victory like this comes along once in a generation.
+p1332
+sg8
+VLEO
+p1333
+sg10
+g11
+sa(dp1334
+g6
+VWe'll have practically saved The New Deal and no one will even know we were in the room.
+p1335
+sg8
+VJOSH
+p1336
+sg10
+g11
+sa(dp1337
+g6
+VWe'll know. And if we don't do this... if this system collapses, which is what'll happen, if we go back to breadlines, if growing old in America means growing poor again ... we'll know that, too.
+p1338
+sg8
+VTOBY
+p1339
+sg10
+g11
+sa(dp1340
+g6
+VThere is no such thing as an invisible legacy, sir.
+p1341
+sg8
+VJOSH
+p1342
+sg10
+g11
+sa(dp1343
+g6
+VYou have to know you'd be giving it away.
+p1344
+sg8
+VLEO
+p1345
+sg10
+g11
+sa(dp1346
+g6
+VAll day we've been talking about my legacy, my portrait, what's going to be carved on my tombstone...  Maybe we pay a little more attention to what's being rendered.  And the rendering takes care of itself.
+p1347
+sg8
+VBARTLET
+p1348
+sg10
+g11
+sa(dp1349
+g6
+VSo much for the Wall Street Journal, it's a political tsunami.
+p1350
+sg8
+VCJ
+p1351
+sg10
+g11
+sa(dp1352
+g6
+VWhat did you tell Polk?
+p1353
+sg8
+VTOBY
+p1354
+sg10
+g11
+sa(dp1355
+g6
+VThat they asked us to be part of this, and we said no.
+p1356
+sg8
+VCJ
+p1357
+sg10
+g11
+sa(dp1358
+g6
+VOkay.
+p1359
+sg8
+VTOBY
+p1360
+sg10
+g11
+sa(dp1361
+g6
+VSo, what do we do when Republicans and Democrats no longer have Social Security to thrash each other with?
+p1362
+sg8
+VCJ
+p1363
+sg10
+g11
+sa(dp1364
+g6
+VHmmm.  We move onto Medicare.
+p1365
+sg8
+VTOBY
+p1366
+sg10
+g11
+sas.
