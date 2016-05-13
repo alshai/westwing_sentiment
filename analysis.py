@@ -216,36 +216,39 @@ def all_seasons_sentiment_figure():
     plt.savefig("figures/all_seasons_posneg_ratios.png")
 
 
-def character_figures(character, series):
+def character_figures(characters, series):
     character_sentiments = {}
+    for character in characters:
+        character_sentiment = {}
+        for season in series:
+            character_sentiment[season] = {}
+            for episode in series[season]:
+                sentiments = character_sentiment_in_episode(character, series[season][episode])
+                if sentiments[0] + sentiments[2] != 0:
+                    character_sentiment[season][episode] = sentiments[0] / float(sentiments[0]+sentiments[2])
+                else:
+                    character_sentiment[season][episode] = 0
+        character_sentiments[character] = character_sentiment
+    
     for season in series:
-        character_sentiments[season] = {}
-        for episode in series[season]:
-            sentiments = character_sentiment_in_episode(character, series[season][episode])
-            if sentiments[0] != 0:
-                character_sentiments[season][episode] = sentiments[0] / float(sentiments[0]+sentiments[2])
-            else:
-                character_sentiments[season][episode] = 0
-    for season in character_sentiments:
-        print character_sentiments[season]
-        sorted_season = sorted(character_sentiments[season].iteritems(), key=lambda x: x[0])
         fig = plt.figure()
         ax = fig.add_subplot(111)
-        ax.scatter(zip(*sorted_season)[0], zip(*sorted_season)[1])
-        ax.plot(zip(*sorted_season)[0], zip(*sorted_season)[1])
-        ax.set_xlim(0, max(zip(*sorted_season)[0]))
-        ax.set_ylim(0, 1)
         ax.set_xlabel("Episode #")
         ax.set_ylabel("Pos/Neg Sentiment Ratio")
-        ax.set_title("Pos/Neg Sentiment Ratio for %s for Season %s of 'The West Wing'" % (character, season))
+        ax.set_title("Pos/Neg Sentiment Ratio for %s for Season %s" % (','.join(characters), season))
+        for character in characters:
+            character_sentiment = character_sentiments[character]
+            sorted_season = sorted(character_sentiment[season].iteritems(), key=lambda x: x[0])
+            ax.scatter(zip(*sorted_season)[0], zip(*sorted_season)[1])
+            ax.plot(zip(*sorted_season)[0], zip(*sorted_season)[1], label=character)
+            # ax.set_xlim(0, max(zip(*sorted_season)[0]))
 
+        ax.set_xlim(1, len(series[season]))
+        ax.set_xticks(range(1, len(series[season])))
+        ax.set_ylim(0, 1)
+        ax.legend()
         plt.tight_layout()
-        plt.savefig("figures/%s_season_%s.png" % (character, season))
-
-def all_character_figures():
-    series = load_episodes()
-    for character in ["BARTLET", "LEO"]:
-        character_figures(character, series)
+        plt.savefig("figures/%s_season_%s.png" % ('_'.join(characters), season))
 
     
 if __name__ == "__main__":
@@ -257,4 +260,4 @@ if __name__ == "__main__":
     # save_weights()
     # test_wwscripts()
     series = load_episodes()
-    character_figures("BARTLET", series)
+    character_figures(["TOBY"], series)
